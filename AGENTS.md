@@ -1,90 +1,44 @@
-# ChatGPT project context
+# Agent Instructions — Translation Workshop (Revisiting Zero Hour 1945)
 
-This directory is a local mirror of the ChatGPT project “Translation”.
+This repository supports the English→Persian translation of *Revisiting Zero Hour 1945: The Emergence of Postwar German Culture* (ed. Stephen Brockmann & Frank Trommler). Adel is the translator; final authority over every translation decision rests with him.
 
-- Treat every file under `sources/` as read-only reference material.
-- Do not edit, rename, move, or delete synced project files.
-- These files may be replaced the next time a task is created from this ChatGPT project.
+## Read this first
 
+- [PROGRESS.md](PROGRESS.md) — current location in the text and what's still open.
+- [MENTOR_WORKFLOW.md](MENTOR_WORKFLOW.md) — the review method to follow for every section.
+- [translation-preparation/START-HERE.md](translation-preparation/START-HERE.md) — chapter/section map.
+- [translation-preparation/CONTEXT-AND-STRUCTURE.md](translation-preparation/CONTEXT-AND-STRUCTURE.md) — book context and structure.
+- [translation-references/SOURCE-REGISTER.md](translation-references/SOURCE-REGISTER.md) — approved reference sources.
+- [translation-references/WORD-CHOICE-POLICY.md](translation-references/WORD-CHOICE-POLICY.md) — terminology rules.
 
-## Project instructions
+## Repository layout
 
-# Implementation Plan: AI Translation Mentor for Adel (ChatGPT Pro Setup)
+| Folder | Purpose |
+|---|---|
+| `sources/` | Uploaded reference material — **read-only**, for consultation only |
+| `translation-preparation/` | Book structure, chapter breakdowns, study guide |
+| `translation-references/` | Source and word-choice rules, extracted Aryanpour glossary |
+| `drafts/` | Adel's drafts, proposed revisions, session notes |
+| `approved-translations/` | Only translations Adel has explicitly approved |
+| `tools/` | Preparation/extraction scripts — not needed for day-to-day translation work |
+| `archive/` | Test samples, reports, PDF-review images |
 
-This plan details the creation of an AI Translation Mentor tailored for **Adel** on his **ChatGPT Pro** account. Adel has B1-level English and is beginning his journey in serious academic translation with the book *Revisiting Zero Hour 1945: The Emergence of Postwar German Culture*.
+## Rules for working in this repo
 
-The mentor is designed around a **300-word iterative practice loop**, embodying the **Rhizomatique Translation Studio (RTS)** philosophy and **Agent K1** pedagogy (Keyvan Mohtadi's stylistic principles, Ghaed-Daryabandari cadence, strict ban on bureaucratic passive padding, dual conceptual genealogy, and human sovereignty).
+- Never edit, rename, move, or delete anything under `sources/`. It is reference material only.
+- Do not add anything to `approved-translations/` unless Adel has explicitly approved it. Draft and proposed revisions belong in `drafts/`.
+- Keep Adel's own draft and any mentor/agent-proposed revision visibly distinguishable (e.g. strikethrough for deletions, bold for additions, per MENTOR_WORKFLOW.md).
+- No lexical source (Aryanpour, Hezareh, Ashouri, the Persian thesaurus, Najafi, the Academy orthography guide) has automatic priority — weigh context, specialist meaning, natural Persian, and the author's argument together, per MENTOR_WORKFLOW.md.
+- Avoid bureaucratic passive padding in Persian prose (e.g. «می‌باشد»، «می‌گردد»، «صورت پذیرفت»).
+- File naming for drafts: `C00-S01-draft-01.md`, and after approval, `C00-S01-approved.md`.
+- Before starting new work, check PROGRESS.md for the current location and any open questions, and update it when a session changes that state.
 
----
+## Known limitations (see PROGRESS.md for detail)
 
-## User Review Required
+- Three entries in the extracted LD2 (Hezareh) glossary have corrupted characters in the source.
+- The فرهنگ طیفی (Word) extraction has not yet been quality-checked.
+- No chapter has yet been finalized into `approved-translations/`.
 
-> [!IMPORTANT]
-> **Pedagogical Balance for B1 Level:**
-> While standard RTS agents operate at advanced editorial intensity, Adel's mentor must balance **uncompromising standard of Persian prose** with **pedagogical warmth and step-by-step English deconstruction**. The mentor will not just critique; it will explain *why* an English B1 sentence structure fails in Persian and demonstrate how to unlock natural Persian syntax.
+## Note on project history
 
-> [!NOTE]
-> **Source Material Identification:**
-> The source book has been located and extracted into the workspace: `01_Corpus_Samples/revisiting-zero-hour-1945.md` (*Revisiting Zero Hour 1945: The Emergence of Postwar German Culture*, edited by Stephen Brockmann & Frank Trommler, AICGS / Johns Hopkins University). Chunk 1 is selected from Stephen Brockmann's foundational essay.
-
----
-
-## Proposed Components & Files
-
-All files will be created in a dedicated package folder:  
-`c:/Users/User/Documents/AI control room/RTS/Adel_Mentorship_Zero_Hour/`
-
-### 1. System Instructions & Prompt Architecture
-#### [NEW] `01_CHATGPT_PROJECT_INSTRUCTIONS.md`
-- **Role:** AI Translation Mentor & Pedagogical Coach for Adel.
-- **Workflow for 300-word chunks:**
-  1. *Encouraging Overview & Diagnostic Scorecard*: Highlighting strengths and key growth areas.
-  2. *Line-by-Line Comparative Audit (4 Columns)*: Source English $\to$ Adel's Draft $\to$ Mentor's Revision $\to$ Pedagogical Rationale (B1 traps, syntax untangling, verb placement).
-  3. *Polished Studio Model Translation (Master Persian)*: Fluent, rhythmic Persian in the Ghaed-Daryabandari tradition.
-  4. *B1 Grammar & Syntax Masterclass*: Explaining 2-3 specific English grammatical hurdles found in the text (e.g. participial clauses, passive inversions, false cognates).
-  5. *Terminology & Dual Genealogy Spotlight*: Tracing key terms in German/English and their reception in Iranian intellectual history.
-  6. *Next Mission*: Serving the next 300-word chunk with vocabulary prep.
-
-#### [NEW] `02_FIRST_PROMPT_FOR_ADEL.md`
-- Exact Persian prompt template for Adel to initiate the session.
-- Reusable submission template for submitting 300-word translations.
-
----
-
-### 2. Knowledge Base Documents (To Upload to ChatGPT Project)
-#### [NEW] `03_ADEL_TRANSLATION_CHARTER.md`
-- Synthesized from the **Cronin Project Translation Constitution** and **RTS K1 Style DNA**.
-- Adjusted for a developing translator:
-  - The Persian Verb Placement Dilemma (SOV vs SVO).
-  - Sentence Decomposition (خرد کردن جملات مرکب و طولانی).
-  - Absolute ban on bureaucratic passive padding («می‌باشد»، «می‌گردد»، «صورت پذیرفت»).
-  - Ashouri-Ghaed-Daryabandari synthesis for terminology and syntax.
-  - Persian typography rules (نیم‌فاصله، گیومه‌های فارسی « »).
-  - Human Sovereignty Rule (decision-making remains with Adel and Keyvan).
-
-#### [NEW] `04_ZERO_HOUR_THEORETICAL_GLOSSARY.md`
-- Comprehensive theoretical and historical glossary for *Zero Hour 1945* and postwar German cultural/artistic reconstruction.
-- Covers critical terms: *Stunde Null*, *Nullpunkt*, *Kahlschlag*, *Trümmerliteratur*, *Vergangenheitsbewältigung*, *Gruppe 47*, *Schuldfrage*, *Wiedergutmachung*, *Inner Emigration*, *Denazification*, Adorno's poetry after Auschwitz, aesthetic autonomy vs commitment.
-- Dual conceptual genealogy for each term (Western philosophical/historical context + Iranian translation precedent).
-
-#### [NEW] `05_PRACTICE_CHUNK_01_ZERO_HOUR.md`
-- Selected first ~300 words from Stephen Brockmann's *German Culture at the 'Zero Hour'*.
-- Includes:
-  - Exact English source text (~300 words).
-  - Vocabulary & Phrase Pre-Teaching (B1 assistance: idioms, complex phrases, false friends).
-  - Historical & Cultural Briefing (context about 1945, Thomas Mann, unconditional surrender).
-  - Translation checkpoints for Adel before he starts drafting.
-
-#### [NEW] `README_ADEL_SETUP_GUIDE.md`
-- Visual step-by-step setup guide in Persian for Adel and Keyvan on how to create the ChatGPT Project, configure system instructions, upload the knowledge files, and establish the practice routine.
-
----
-
-## Verification Plan
-
-### Manual Verification
-- Review all generated files to ensure:
-  1. Complete adherence to RTS rules (no bureaucratic fluff, strict Persian typography, active verbs).
-  2. Pedagogical clarity suitable for B1 English.
-  3. Accurate reflection of Cronin project constitution and K1 style DNA.
-  4. Precise word count and formatting of Chunk 1 from the source text.
+This repo previously mirrored a ChatGPT-project plan with a different file layout (numbered files like `01_CHATGPT_PROJECT_INSTRUCTIONS.md` under a local `AI control room` folder). That plan is superseded — the structure and workflow above are current.
