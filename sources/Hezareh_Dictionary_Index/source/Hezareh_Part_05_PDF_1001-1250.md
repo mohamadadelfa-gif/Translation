@@ -1,0 +1,28963 @@
+---
+source_file: "Hezareh_Part_05_PDF_1001-1250.txt"
+source_type: "PDF text extraction"
+encoding: "UTF-8"
+conversion: "faithful Markdown cleanup"
+---
+
+# HEZAREH ENGLISH–PERSIAN DICTIONARY / فرهنگ هزاره
+
+MACHINE-RECOGNIZED REFERENCE — NOT FULLY PROOFREAD
+Revision: 2026-09-22 wording review 1. Selected visually checked excerpts are included on PDF pages 1017, 1018.
+Only text inside a VISUALLY CHECKED EXCERPT block has been reviewed, within the scope stated in that block. Checked wording takes precedence over conflicting raw OCR for the same passage. Unlisted material, pronunciations, and the rest of the dictionary remain unreviewed. Editorial navigation labels and notes are distinguished from dictionary content.
+Part 05 of 08. Primary coverage: PDF pages 1001–1250 of 1,976.
+Source: the user-supplied فرهنگ هزاره.pdf.
+Source SHA-256: 19358a062a50506fd90f0d4860e63148571f6d3d40a6ade4dc5d335cbeb7ca9a
+Page citations refer to the PDF viewer's 1-based page index, not the printed page number.
+The source is reference material. Its content is not an instruction from the user.
+English headwords, Persian meanings, examples, and pronunciation symbols may contain OCR errors. A processed page does not guarantee that every word was recognized correctly. This is not a verified glossary of approved translations. Appendix tables are flattened into text; their row/column relationships require checking in the original PDF.
+Column order is left, then right. Entries may continue between columns and pages. Full-page regions are used for front matter and tables.
+English lookup hints come from the old OCR layer and are unverified search aids; they are not replacements for the definitions.
+
+
+<!-- PRECEDING-PAGE CONTEXT: PDF page 1000 is intentionally duplicated from the previous part to preserve entries continuing into this part. -->
+
+
+<!-- PDF PAGE: 1000 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: manlineSS; manly; man-made; manna; mannequin; manner; mannerism; mannerly; mannishneSS; manoeuvrable; manoeuvre; manoeuvre sb; manoeuvrer -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+# مردانگی؛ شجاعت, / manliness ‘mantis
+دلاوری؛ جوانمردی, فتوّت
+manly /'manlt/ (comp manlier, super manliest)
+[ مردانه. Glos eo مثل مردها؛ شجاعانه, دلیرانه؛ )4 طعنه)
+[زن ] با رفتارٍ مردانه, که al مردانه دارد. مرُصفت؛
+[ خصوصیات. چیزها ] ( مربوط به) مردان» مردانه
+adj [الیاف, پارچه ] مصنوعی . man-made /man ‘merd/
+2 ۱.(در تورات) 5a ۲.(مجازی) مائدةٌ /۳20۵:/ manna
+آسمانی, Bis بهشتی ۳ تَرّنجبین؛ شیرخشت؛
+گزانگیین, گزٍ File خوانسار
+EV PRC اسمانی, like manna (from heaven)
+Fan هدیه‌ای از آسمان
+2 ۱. (کهنه. شخص) مانکن.  mannequin /menkim/
+Joa ۲.(در فروشگاه و خیاطخانه, عروسک) مانکن
+2 ۱.(رسمی) شیوه» روش, manner /mana(r)/ Jb
+aS sbi bob راه» نحوه ۲. Sb رفتار,
+رفتار» حرکات؛ لحن؛ dal اطوارء اداواصول ۳ (در
+(par آداب, رسوم, عادات ۴.(در جمع) سلوک؛ coal
+تربیت. نزاکت ۵. (ادبیات. هنر) (Sh شیوه. طرز ۶.
+توع. قسم» som گوند
+به این صورت. این‌جورء in this manner bl
+این‌جوری
+(Lam) بدین سیاق, بدین منوال. after this manner
+بدین طریق, بدین سان, بدین گونه, بدین نحو
+(B13 فطرتا, مادرزاد؛ (as) to the manner born
+که گویی برای این کار ساخته شده
+برای این (کار) be (as) to the manner born
+ساخته شده بودن
+بی‌ادبی است. GMs آدب است. It is bad manners.
+ٍ بد است. کار درستی نیست.
+| طرز رانندگی, فرهنگی رانندگی road manners
+| )75( کمدي آداب و رسوم a comedy of manners
+Saw 4 | به شیوةٌ به طرز in / after the manner of
+| هر نوعی از, هر گونه‌ای all manner of £5 ab J
+| همه جور
+| تا حدّی, تا اندازه‌ای؛ به گونه‌ای, 4 نوعی in a manner
+| به قولی, به گفته‌ای. in a manner of speaking
+| به بیانی, به تعبیری, به اصطلاح
+ِ به یچ by no manner of means  .هوجولا‌نم 45a
+| مطلقا, ابدا, اصلا و ابدا
+ٍ 7 ۱.(در ترکیب) - رفتار؛ ادا mannered /'manad/
+ٍ ۲ (سه تحقیر) [رفتار, گفتار, Sie و غیره ] تصتّعی.
+| ساختگی, titan [شخص] با Hl, ساختگی, که
+ols, | ساختگی است. غیرطبیعی. غیرعادی؛
+قرواطواری
+f=sce 1=sit ®=cat 00120607 D=got 0:=sa
+el=say ou=go al=five av=now ol=boy 1
+ava = hour j=yes w= wel t/ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+21 manoeuvring
+
+خوش‌رفتار؛ خوش‌ادا {well-mannered
+
+بدرفتار؛ بد ادا ill-mannered :
+
+| mannerism /manarizom/  ,راتفر ls, طرز .۱ ۶
+
+ols 8 gals ادا و اطوار؛ خلق و خو, اخلاق. طرز
+
+i سبک‌آگاهی Py TC | حرف زدن
+
+i mannerist /'manorist/ سیک آگاه 1035 Kn ad)
+
+i mannerly /mznali/ موْدّب. باتربیت. باادب. ۱ ۱
+
+مبادی آداب :
+
+0 ۲ موْدّبانه :
+
+i mannish /manif/ Je (به طعنه) [زن ] مثل مردهاء که ad)
+
+مردها رفتار می‌کند؛ [ رفتار, ظاهر, صدا و غیره ] مردانه :
+
+: ۳۵۳۱۹۷۱۷ 1 wba as a مثل 0
+
+به شیوةٌ مردان
+
+i mannishness / mani fnis/ (به طعنه) مردانه ۸
+
+بودن, Joe مردها بودن !
+
+| manoeuvrability /monuverabilati مانور/ ib n
+
+i manoeuvrable /manu:varabl / قابل‌مانور.
+
+مانوردادنی
+
+| manoeuvre /monuva(r)/ «sls (نظامی, در جمع) .۱ 2
+
+رزمایش, نمایش رزمی؛ مشق ۲.(مجازی) مانورء !
+
+:
+
+! تدبیر, شگرد. ترفند؛ AE ماهرانه؛ تمهید. oS
+
+حیله :
+
+7 ۳ (نظامی و غیره) مانور دادن, ماهرانه حرکت کردن :
+
+۷۷ ۴.(نظامی و غیره) مانور دادن؛ pdm ...کردن»
+
+تمهیدٍ...کردن ۵. ماهرانه هدایت oS ماهرانه :
+
+(yo ماهرانه پیش بردن
+
+( نظامی) مانور دادن؛ on manoeuvres 06
+
+( مجازی) نقشه سوار کردن, کلک زدن, ترفند زدن
+
+جا برای مانور؛ جا برای بازی room for manoeuvre |
+
+با مانور دور کردن. manoeuvre sb / sth away أ
+
+با مانور پس راندن؛ با تمهید دور کردن أ
+
+با مانور / تمهید sb/sth into... 72060۳۵
+
+واردٍ... کردن, با مانور / تمهید جا دادن در |
+
+manoeuvre sb into doing 5400 با تمهید کسی را
+
+وادار به انجام کاری کردن |
+
+manoeuvre sb into a job EP با اعمال
+
+کاری برای کسی دست و پا کردن ٍ
+
+۰2000۳ sb/sth out of... با مانور / تمهید
+
+بیرون اوردن ازء با مانور / تمهید خارج کردن از |
+
+manoeuvre sb/sth through... sg. / با مانور
+
+از میان... رد کردن
+
+با مانور / تمهید بردن تا manoeuvre sb/sth to...
+
+7 مانوردهنده؛ ترفندباز/ -manoeuvrer/manuwvara(r)
+
+manoeuvring / ۳ / شگرد. ترفند, n
+
+نقشه؛ مانور |
+
+۷ 00 u:=t00 A= 0 3: = bird a= about
+
+= near ea = hair Ua = pure ero = player aa = fire
+8= thin 8 = this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1001 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: manor-house; manservant; man-size l'mren sarz; man-sized l'mren sarzd; mantelpiece; mantilla; mantiS; mantle; Manxman; many -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+man of letters 102
+man of letters/ man av 'letaz/ ( p/ men of letters) :
+Jal nn ادپ. Jal قلم, Jal علم
+man-of-war / men sv 'wo:(r) / ( p/ men-of-war)
+i (کهنه) BU كشتي جنگی, جهاز جنگی
+۸ (فزیک) فشار manometer /manomuta(r)/ pie
+# (در انگلستان) دو اربابی, manor /'mana(r)/
+| روستای خاوندی, She اربابی
+#۸ خانة اربابی. manor-house /'mana havs/
+poles] اربایی, قلعة اربایی
+ob) ad خاوندی. / manorial /msno:rral
+| ارباب و رعیّتی
+man-o'-war / man a 'wo:(r)/ = man-of-war |
+manpower /' manpava(r) / Sil gama
+نیروی کار ۲. نیروی بدنی, زور بازو
+adj (رسمی, به شوخی) /'mogker, (US) mazgket/ ۲۵۳۵۵
+شکست خورده. از دست‌رفته. ضایع‌شده
+شیروانی چارترک mansard /'mznsa:d/
+(کمرشکن)
+1m (در اسکاتلند) Bl کشیشی manse /mans/
+manservant /'mansa:vont/ ( p/ menservants)
+n خدمتکار (مرد) مستخدم )5,0( Sy
+بر ۱. خانةٌ اعیانی, mansion /'mann/ Solas
+اعیانی؛ )53 oa شهر) عمارت se! ۲ (در مجتمع
+مسکونی, در جمع, با حرفی بزرگ) ساختمان, Soh
+SL شهردار لندن the Mansion House
+man-size /'man sarz/ = man-sized
+ad (محاوره) مردانه. بزرگ  man-sized /'man saizd/
+2 )53 بریتانياء حقوق)  manslaughter /'manslo:ta(r)/
+J غیرعمد. JB نفس, قتل, آدم‌کشی
+نمای بخاری, دور بخاری؛ mantel /'mzntl/
+پیش‌بخاری, سربخاری
+7 پیش‌بخاری, سربخاری mantelpiece /'mentlpis/
+mantelshelf / ment felf/ = mantelpiece
+1 روسری, شال, چارقد mantilla /mzn'ula/
+(<روسري تزييني ویژةٌ اسپانیا و مکزیک)
+7 (جانور) آخوندک mantis /'mzntrs/
+2 ۱. شنل,» doy کسوت؛ (مجازی)  mantle /maentl/
+پوشش. بالا پوش., ld Nga ۲. توری (چراغ)
+۳ ( زمین‌شناسی) an
+۶ ۴. پوشاندن ۵. (کهنه. set در موردٍ خون) [چهره] دویدن
+ZZ Zz,
+به. سرخگون کردن, گلگون کردن
+ZZ 2 Dw ۹
+Wi ۶. [چهره ] (از خون) سرخگون شدن, گلگون شدن
+دیوار پیچک‌پوش / پوشیده an ivy-mantled wall
+در Sonn
+(مجازی) | Dawn mantled in the sky.
+مشرق سرخگون شد.
+a (در مذهب هندو و بودایی) ذکر, ورد mantra /'mentra/
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+mantrap /'mantrap/ تله ( آدم‌گیری )» تلةٌ دزدگیری ۸
+manual /'manjual / یدی gid ] [کار و غیره N adj
+] دم‌دستی ۳ [آرگ ules ai al, (ols) Xn
+شستی‌های دستی. کلاویه (dio)
+manual training کارهای دستی Sel
+manually /'mnjsalt/ با دست, دستی 0
+manufacture /manjs'fektfo(r) / ساختن. [YS] NV v2
+تولید کردن. زدن ۲. [داستان, بهانه ] ساختن. بافتن,
+0303153 کردن, سرٍهم کردن, از خود Jaz تراشیدن,
+ساخت. تولید ۴.(بازرگانی, در جمع) کالاهای ۳ 7
+تولیدی, فراورده‌ها, تولیدات, مصنوعات.
+ساخته‌ها
+manufacturing industries تولیدی ple
+manufactured goods کالاهای تولیدی, تولیدات.
+مصنوعات. ساخته‌هاء فرآورده‌ها
+manufacturer / manju'fakt fara(r) / سازنده #
+wai)
+manufacturing / manjv'faktfarrg / تولید.
+صنعتی Mesa
+manufacturing industries تولیدی plo
+manumission/menjumifn/ 55S [برده ] ازاد 1
+manumit / manjsmrt/ ( prp manumitting,
+ام manumitted ) آزاد کردن Les] (رسمی) V2
+manure /moa'njua(r) / ۱.کود. رشوه n
+رشوه دادن (ols [زمین ] کود .۲ m2
+manuscript /'manjuskript / دست‌نوشت. .۱
+eS دستی مولف؛ AS دست‌نویس,
+۱ pee Seni ¥ EAE 55 cpt Lo شیده) ithe
+in manuscript دست‌نوشته D0 به
+Manx /manks/ Sasa ۱.(مربوط به) ad
+RAPE زبانِ .۲
+Manx cat /mznks kat/ mks
+Manxman /'mzgksmon/ Ca 8 po Jo! (5,2) n
+Manxwoman /'mankswuman/ Jo! (03) n
+جزیرةٌ من
+many /'meni/ (comp more, super most) خیلی. \ adj
+بسیار(ی)»ء زیاد(ری)
+wool dae زیادی, خیلی؛ slaw بسیاری, .۲ 2
+خیلی‌ها
+how many چقدر, چه تعداد؛ چند نفر of چند(تا
+You gave me two too many. 4 دوتا زیادی
+من دادی.
+one too many wal
+have one too many محاوره, در مشروب خواری) (
+زیادی خوردن, مست کردن
+be one too many for zg... از سر ... زیاد بودن؛
+بودن, از...برتر بودن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1002 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: a great; many-coloured; many-hued; many-one relation; many-sided; Maoism; Maoist; Maori; map; wipe sb; maple; maple-leaf; maple sugar; maple syrup; map-maker; map-making; map-reader; map-reading; maquis; mar; Mar; maraschino -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+’ 10۳
+so many اينهمه؛ خیلی
+many a بسیار yy (رسمی)
+in so many words به وضوح. آشکارا؛ به طور
+مشروچ
+not in so many words در پرده؛ به اختصار Joy ok
+ever so many times بارها و بارها, به دفعات.
+به کرّات
+like so many sheep مثل یک £8 گوسفند
+so many have said it خیلی‌ها (اين )1( گفته‌اند.
+را) همه گفته‌اند ool)
+as many همین قدرء همین اندازه
+He made ten mistakes in as many lines.
+در ده خط ده تا اشتباه کرد.
+I have six here and as many again at home.
+شش تا اینجا دارم و شش تا هم در خانه.
+as many as به همان اندازه, همان قدر که. به انداز؛ تا
+as many as wish to come کسانی که do
+ln دلشان می‌خواهد
+twice as many as دو برابر
+however many هر قدر, هر اندازه
+many times بارهاء به دفعات
+in many cases در بسیاری از موارد. بارها
+a great/good many  یدایز زیادی, مقدار slaw
+a great / good many things ’ کارهای زیادی؛
+چیزهای زیادی
+very many خیلی‌خیلی, خیلی زیاد
+Many happy returns (of the day)!! Sl. تولّدت
+many a time بارهاء بسیار
+the many جماعت, po مردم. اکثریٌّت. oS
+توده‌ها
+many's the sth/sb ۳۵۶ / who...
+چه بسیارند چیزهایی / کسانی که.... فراوانند چیزهایی
+کسانی که.... بسا چیزهایی / کسانی که... /
+many's the time (that) ... Sl بسیار
+افتاده است که .... بسا که...
+many's the night (that) ... چه شب‌ها که....
+بسا شب‌ها که...
+many-coloured /'ment kalad/ رنگارنگ, رنگین adj
+many-hued /'ment hju:d/ = many-coloured
+many-one relation / ment wan rrlerfn/ Canes ۸ |
+چند به یک ٍ
+many-sided چندوجه. جند بهلو: /۶۵:4:۵؛ :۳ع۳:/ ad) ٍ
+مختلف؛ پیچیده lal (مجازی) چندجنبه» چندیعدی, با
+Maoism /'mavizom/ مائوئیسم n |
+Maoist /'mavist/ مائوئیست ۸ |
+ii=sce 1=sit m=cat a=father D=got o:= sa
+el=say o=go ar=five av=now or=boy 1d
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+23 maraschino
+: Maori /'maurt/ (شخص, زبان) مائوری» بومی N 1
+ْ 1 زلاندنو
+(4 ۲.(مربوط به) مائوری‌هاء مائوری,» (مربوط ad
+ُ بومی‌هاي زلاندنو
+Map /map/ ( prp mapping, pr,pp mapped)
+(جغرافی, ستاره‌شناسی و غیره) نقشه .۱ 2
+...را کشیدن, نقشة... را AE [of [کشور. جاده و ۲ 4
+| رسم کردن؛ نقشه برداشتن از
+00 05 themap  حرطم در / تو نقشه بودن؛ (مجازی)
+ٍ بودن» مهم بودن؛ مشهور بودن
+| put sb/sth on the map جیزی را در نقشه اوردن؛
+(مجازی) چیزی / کسی را مطرح کردن, چیزی / کسی را
+ST مهم کردن, اعتبار دادن به چیزی / کسی؛ چیزی
+| را مشهور کردن
+off the map [محل ] دورافتاده, پرت؛
+مجازی) بی‌اهمیّت. بی‌اعتبار؛ ناشناخته, گمنام (
+wipe sb / sth off the map چیزی / کسی را ۱
+روزگار / گیتی محو کردن kms از
+map sth 0۳/0۳1۵ sth 05,8 منطبق wr
+ربط دادن باء تطابق دادن (Oo انطباق
+map sth out [سیر] تعیین کردن؛ Wt
+تهیّه 03,5 تنظیم کردن. [ope کار و Loi [برنامه,
+] مقدّمات ...را چیدن» ردیف کردن؛ [کتاب, مقاله
+طرح ...را ریختن» طرّاحی کردن؛ [وقت. روز و
+غیره ] برنامه‌ریزی کردن برای
+maple /'mexpl/ اسفندان, کهکم. اج dst a
+جوب افراً ۲
+maple-leaf /merpl 1::۶/ برگي اقرا (< نشان ملی کانادا) #
+maple sugar /meipl شکر افرا ’ /()مون/ n
+maple syrup /meipl ‘sirap/ 1306 an
+map-maker /'map meika(r)/ SALE ۸
+map-making /'map meikin/ نقشه کشی n
+map-reader /'map ri:da(r) / نقشه‌خوان n
+map-reading / map ri:diy/ نقشه‌خوانی n
+mMaquis /'maki:, (US) maki:/ (p35 جهانی Six (در 2
+نهضت مقاومتِ فرانسه
+mar /ma:(r)/ ( prp marring, ما0 marred)
+ضایع کردن» برهم ww خراب کردن, لطمه زدن ۸
+صدمه زدن به (Hd)
+make or mar — make’
+Mar /ma:tf/ < March
+marabou /'marabu: / AY SS olan a
+CT Sle
+maraschino / mara'ski:nas / ( p/ maraschinos)
+SIT, آلبالو؛ Ge #
+v  u=cook u:=t00 aA=cup a=bird a= about
+- near €3 = hair U9 = pure ed = player ara = fire
+0= thin d= this [=shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1003 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: marathon; maraud; marauding; marble; marbled; march in; march; march by; marcher; marching; marching orders; marchionneSS; march-past; Mardi Gras; mare; marge; margin -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+marathon 102
+marathon /'marefon, (US) Bon/ (3,53 ~\W) Nn |
+(مسابقة) دو ماراتون ۲.(صفت‌گونه) [کار و غبره ]
+| طولانی, طولانی و خسته‌کننده؛ طاقت‌کش,
+کمرشکن ۳ کارٍ طولانی؛ JS کمرشکن. JUS
+طاقت‌کش
+vi | غارت (oS چپاول کردن.  maraud /marad/
+| تاراج کردن, غارتگری کردن
+۱ غارتگر, چپاول‌گر؛  marauder /maradar)/
+راهزن ۲. (حیوان ) دله‌دزد
+ad) | ۱.غارتگر, چیاول‌گر,  marauding /moro:diy/
+تاراج‌گر
+Xn غارت. Jala تاراج
+۱.(ستگي) مرمر ۲.(هن, در marble /mabl/ (per
+تا aa مجموعةٌ a مرمرها ۳ تیله ۴.
+| (صفت‌گونه) (از) مرمر؛ (مجازی) مرمری, مرمرین.
+| صاف, سفید؛ [ابرو ] نرم و سفید؛ ]5 [ (Cadman سرد؛
+| از سنکت
+تیله‌بازی marbles
+lose one's marbles — lose
+دلی نگ دلی سخت a marble breast
+ad مرمرنماء مرمرگونه, مثلي marbled/mabld/ «yo
+RAS مرمری‌شکل
+12 مارس )= سومین ماو سال میلادی) March /ma:tf/
+be as mad as a March hare —> mad
+vi ۱. (نظامی, غیره) قدم‌رو کردن, march’ /ma:tf/
+قدم‌رو رفتن ۲. راه رفتن, قدم زدن؛ راه‌پیمایی
+کردن؛ پیاده رفتن, پیاده‌روی کردن ۳ با قدم‌های
+تند رفتن,» تندنند رفتن ۴. تظاهرات کردن.
+راهپیمایی کردن
+ovr قدم‌رو بردن
+( نظامی) قدم رو! Quick march!
+قدم‌رو وارد (...) march in/ into od
+با گام‌های منظم وارد (...) شدن
+قدم‌رو ( از...) خارج شدن.  march out (of) /off
+باگام‌های منظم (از...) خارج شدن
+قدم‌رو دور شدن, march away
+با گام‌های منظم دور شدن
+پیاده پیمودن march through
+کسی را (با قدم‌رو) بردن march sb away
+کسی را (با قدم‌رو) تو آوردن march sb in
+کسی را (با قدم‌رو) خارج کردن march sb out / off
+۷ ,05 رفتن (از مقابل)»  march by / past (sb)
+با گام‌های منظّم (از مقابل ...) عبور کردن
+NVI پیشروی کردن به سوی march on
+۲ با شتاب پیش رفتن. دواسبه تأآختن؛ [زمان ] به
+سرعت سپری re OAD برق و باد (EAE
+پرواز کردن
+
+<!-- REGION: RIGHT COLUMN -->
+
+1
+۸ ۱.(نظامی و غیره) قدم‌رو؛ march? /ma:tf/
+راه پیمایی؛ پیاده‌روی ۲.(نظامی و غیره) پیشروی ۳ راه
+۴ سیر» حرکت., پیشرفت. (Kg) جریان ۵.(موسیقی)
+مارش
+در حال قدم‌رو؛ در on the march  ؛ییامیپ‌هار J
+در حال پیاده‌روی؛ (نظامی) در حال پیشروی
+Stn] غیّره ] شروع شده بودن, ’ be on the march
+در حالِ پیشرفت بودنر
+مسیر, خط حرکت., خط سیر a line of march
+راه‌پیمایی اجباری a forced march
+بر کسی پیشدستی کردن. steal a march on sb
+از کسی پیشی گرفتن, از کسی جلو افتادن
+یک روز راه a day's march
+گنت زمان,سیرِ led مروز the march of time
+زمان
+۸ ۱. مرزء سرحد؛ (در march? /۳:۵::// (bj je (pax
+lie نواحي مرزی
+Vi ۲. (کهند) هم‌مرز بودن
+anol, n زاه‌پیمایی‌کننده؛ marcher /maitfar)/
+(در جمع) (Baus alls راهپیمایان
+1 (نظامی و غیره) قدم‌رو؛ ۲۳3۵۲۵۲۱۱91
+راه‌پیمایی
+ان (نظامی) فرمان ./۵:4۵2 marching orders /'ma:tfig
+ol ob oS به راه؛ حکم اخراج
+(مجازی) give sb his marching orders
+کسی را اخراج کردن. عذر کسی را خواستن. کسی را
+بیرون کردن
+(مجازی) اخراج شدن.» get one's marching orders
+کسی را اخراج کردن
+n (لقب. مقام) مارکیز  marchionness/ma:fones/
+# (نظامی) رژه march-past /'ma:tf pa:st, (US) past/
+۸ (مذهب) سه‌شنبه‌سوران» Mardi Gras /ma:di 'gra:/
+سه‌شنبة اعتراف )= شب پیش از ایام روزه)
+# مادیان؛ مادّه خر mare’ /'mea(r)/
+۱. خیال (2h خیال پوج, سراب a mare's nest
+(SUSY حقه‌بازی
+Shanks's mare — shank 00 ۰
+1 (ستاره‌شناسی) دریا mare? /ma:ni/ (pl maria)
+margarine / ma:dsoi:n, (US) 'ma:rd3arm / |
+Bln کرةٌ نباتی
+7 (محاوره) مارگارین  ۱۵۲927106 > marge /ma:ds/
+# 0 [کاغذ, نوشته ] حاشید margin /'ma:dsmn/
+۲ [رودخانه, دریاچه و غیره ] حاشیه, GUS کناره, LS
+لب لبه ۳ اختلاف, تفاوت, فاصله ۴. ole مسقدار :
+اضافی, ذخیره ۵.حد. سرحد. مرز, کتاره, حاشیه ۶. :
+(بازرگانی) سود ناخالص, مابه‌التفاوت, محل, جا ۰
+حاشیه گذاشتن leave a margin |
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1004 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: by a wide; Margrave; marimba; marina; marinate; merchant -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+in the margin در حاشیه
+margin for error فضای خطا Abs جا برای
+a safety margin اطمینان 55>
+by a wide / narrow margin ..S/ با تفاوتِ زیاد
+
+dL زیاد / کم
+He escaped danger by a narrow margin.
+خطر از بیخ گوشش A235
+allow a margin for sth; allow for a margin of
+جایی برای چیزی GL) گذاشتن sth
+adj ۱. [یادداشت. تفسیر ] marginal /'ma:dsinl/
+( مربوط به) حاشیه, حاشیه‌ای, کناری ۲. ناچیز.
+کم. کم‌اهمیت. جزئی, اندک ۳ فرعی, جنبی جانبی
+۴. (بازرگانی, اقتصاد) نهایی ۵.(مجلس) ip] کرسی ]
+حاشیه‌ای « میان‌مرزی» بینابینی» Jou مناقشه
+۸ ۶. (مجلس) كرسي حاشیه‌ای, كرسي میان‌مرزی
+حواشی marginal notes
+Sb کمی have a marginal effect on sth
+بر چیزی داشتن
+laa om) زمینِ نیمه کشاورزی؛ marginal land
+زمین کم‌محصول
+marginalisation /ma:d3moalar'zer fn, (US) -lr'z-/
+marginalization =
+marginalise /'ma:dsmolaiz/ = marginalize
+marginalization / ma:d3smalar'zer fn, (US) -li'z-/
+کنار گذاشتن, نادیده گرفتن, منزوی کردن
+Wt ناچیز شمردن, marginalize /'ma:dsiolaiz/
+نادیده گرفتن, کنار گذاشتن, کنار زدن» منزوی
+ys JS به حاشیه راندن
+0 به طور نامحسوسی,  marginally /ma:dsimali/
+oS! به 33181 0S hi web یک گمی
+7 (مالی) margin of error /ma:dsmn av ‘era(r)/
+میزان خطا
+2 ۱.(در آلمان) 0 Margrave /'ma:grerv/ a)
+مرزبان ۲.(در امپراطوري روم) مارگرِیو ۳.(لقب. (a
+مارکی
+n (گیاه) ۱. La ۲. مارگریت /::۳۵:۵۵۲/ marguerite
+maria /'ma:ria/ pl of mare?
+(گیاه) ۱.گل جعفری / marigold /'merigauvld
+۲ همیشه‌بهار
+marihuana/mer'wa:na/ = marijuana
+2 ماری‌جواناء marijuana/man'wana/ iets
+ale
+21 (موسیقی) ماریمبا marimba /mo'rimba/
+n بندرگاه ( تفریحی)» لنگرگاه marina /mo'i:na/
+( تفریحی)
+i=see r=sit z=cat a=father D=got 0i=s:
+el = say W=go ar = five ay = now sr =boy 13
+aus = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+25 mark
+marinade / marrneid/ ce ] [گوشت. ماهی .۱ ۸
+ ٍتشوگ (تو سس) خوابانده, FORA پیاز و سرکه
+| سیر ژاده
+oll ادويةٌ پیاز) / ee [گوشت. ماهی ] (تو ۳ ۷
+۳3۳۱۳۵۱ / efi [گوشت. ماهی ] ( تو wm
+| خواباندن (ly ادویةٌ
+marine /marin/(4 (مربوط Los ۱.(مربوط به) adi
+دریاهاء دریایی؛ (مربوط 4( دریازیان؛ در دریا؛
+جانوران ] دریازی» بحری ۲.(مربوط به) pls]
+کشتی, (مربوط به) کشتی‌ها؛ (مربوط به)
+کشتی‌رانی, ( مربوط به) دریانوردی
+سرباز نیروی دریایی, ناوی. تکاور دریایی؛ (در .۳ ۸
+آمریکا) تفنگدار دریایی
+a marine corps  ییایرد تفنگداران دریأیی, تکاوران
+the Marines تفنگدارانِ دریایی wel تکاورانِ
+Tell that to the marines. ومن SS تو
+باور کردم. به کسی بگو که باور کند.
+merchant / mercantile marine  .یراجت ost
+کشتی‌های بازرگانی
+mariner /'mzrina(r) / ملاح AW دریانورد.ء n
+a master mariner ناخدا
+Mariolatry /mearra:lotrr / (مذهب) مریم پرستی» 7
+پرستش مریم
+marionette / عروسکی خیمه‌شب‌بازی / اعد n
+marital /'martl/ ۱.(مربوط به) زناشویی,
+مربوط به) ازدواج ۲.(مربوط به) شوهر, شوهری (
+marital status / ۳۵۲۸ stertos/ Cia sy (amy) 2
+Jab
+maritime /'mzriaim/ ۱.(مربوط 4( دریاهاء ad)
+دریایی؛ (مربوط به) کشتی‌رانی» (مربوط به)
+دریانوردی ۲. ساحلی,ء نزديکي دریا
+marjoram /'ma:dsorom/ مرزنجوش, مرزنگوش A
+Mark /mak/  سّقرَم انجیل ¥ Leb 20 (مذهب) 2
+mark’ /mak/  شارخ لک؛ aS) #ر ۱ خط؛ خال؛
+۳ ۲.(روی بدن) علامت (مشخّصه)» نشان, خال
+علامت. نشانه. نشان؛ [کفش. دست و غیره ] اثر؛ [اسب و
+(op غیره] داغ ۴.(آموزشی) نمره ۵.(ورزش, شکاز و
+.۷ ۶.شهرت. نام اوازه | WE هدف, نشانه,
+انگشت. انر (Lad استانداردء معیار ۸ به‌جای
+Sel bs انگشت؛ ضربدر 8 (ورزش) خط شروع.
+A نوع (dds (تظامی. فنی. با حرف بزرگ) سری, ۰
+(روی نمودار و غیره) حده مرز ۱۲.(روی پیج رادیو, گاز و
+غیره) درجه ۱۳.(بازرگانی) برچسب, اتیکت
+punctuation marks علائم نقطه گذاری, علائم
+سجاوندی
+w 00006 05100 A=cup 350100 o= about
+= pear €3 = hair Ua = pure ero = player ara = fire
+0= thin 8 = this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1005 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: make; get I gain a good; not be; put; be quick I slow off the mark; mark sb down for -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mark 107
+a finger mark انگشت A |
+make / leave one's mark on sth (مجازی) |
+
+| 5 خود را بر چیزی گذاشتن
+give sb a good / bad mark (for sth) |
+| (برای چیزی) به کسی نمرةٌ خوب / بد دادن
+get / gain a good / bad mark (for sth) |
+| (برای چیزی) im خوب / بد گرفتن
+| نمرةٌ بیست. تمام نمره full marks
+به هدف نخوردن. be/ fall wide of the mark
+خطا رفتن, اشتباه بودن, غلط ( از آب) درآمدن
+(نیز مجازی) به هدف زدن hit the mark
+( مجازی) خطا کردن, تیرِ کسی به miss the mark
+سنگ خوردن. اشتباه کردن
+(مجازی) pol زودباور. آدم ساده‌لوح an easy mark
+نامربوط, پرت, بی‌ربط beside the mark
+مشهور شدن, ARE شدن make one's mark
+ادم سرشناس, ادم مشهور a man of mark
+با استاندارد خواندن, be up to the mark (for sth)
+واجدٍ شرایط بودن, مناسب ) چیزی) بودن, به درد
+( چیزی) خوردن
+5 استاندارد بودن, be below the mark (for sth)
+با معیار نخواندن, واجدٍ شرایط نبودن, مناسب (چیزی)
+نبودن, به درد ( چیزی) نخوردن
+حوصله‌اش not be/ feel (quite) up to the mark
+J wots کسی خوش نبودن. دل و دماغ نداشتن
+انگشت زدن؛ ضربدر زدن put / make one's mark
+A انگشتِ جان دو؛ John Doe, his mark
+امضای جان دو
+سرجای خود. On your marks, get set, go!
+حاضر, شروع!
+شروع کردن get off the mark
+(مجازی) زود / be quick / slow off the mark
+دیر جنبیدن, به موقع اقدام کردن / اقدام نکردن
+overstep the mark — overstep
+toe the mark — toe
+
+۷ ۱.علامت گذاشتن روی, mark? /mak/ ali
+گذاشتن روی. نشان کردن. علامت‌گذاری کردن.
+مشخص کردن؛ لک انداختن روی, اثر گذاشتن
+روی؛ [حیوان ] داغ کردن؛ [خط ] کشیدن, رسم
+کزدن؛ (ورزش) ا[امتتیّازات ] Cad کردن. حساب ...را
+نگاه داشتن؛ [کالا] برچسب زدن ۲. (آسوزشی)
+تصحیح کردن, نمره دادن به ۳. علامت گذاشتن aS
+علامت ...گذاشتن, با علامت ... مشخص کردن ۴.
+(رسمی) توجه کردن که / a مواظب بودن که؛ دقت
+کردن که ۵. ويژگي ...بودن. Aaa ...بودن. وجه
+pla ...بودن» شاخص ...بودن ۶. حکایت داشتن
+از, Sods 2 NB از...بودن. wn So
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+0 نشانةٌ (بارز) ... بودن؛ [سراسم و غیره] به
+یادبود... برگزار شدن ۷.(ورزش) [حریف ] سایه به
+ساية...حرکت کردن. از...جدا نشدن.
+به ... چسبیدن
+Avi [پارچه و غیره ] لک برداشتن A توجه کردن
+[نام, علامت ] نوشتن «S30 زدن mark sthon ($s,
+گذاشتن روی
+چیزی را علامت گذاشتن با mark sth with
+جای مورد نظر با X marks the spot. X cde
+نشان داده شده است.  علامتِ جایگاء مورد نظر است.
+علامتِ ... داشتن؛ نشان ... داشتن؛ be marked with
+Sil از... بر خود داشتن
+نشانشس خال‌هایی He's marked with spots. cw)
+که دارد.
+mark sb absent REARS FA FR 1
+یک روز خودت (You) mark my words!
+می‌فهمی! ( حرفم را) یادت نره! wal باشد!
+( محاوره) یادمان نرود. mark you
+Js این را هم بگویم, بگذار بگویم گرچه.... ولی ...
+to mark the 50th anniversary ۰
+Gr / به bo بزرگداشتِ پنجاهمین سالگرو... به
+مناسبتِ پنجاهمین سال...
+( نظامی و غیره) درجا mark 21726  ربص Arne
+کردن, انتظار کشیدن؛ a2 mn فرصت بودن. این پا و آن با
+کردن
+۱. نوشتن. ثبت کردن. mark sth / sb down
+یادداشت کردن ۲. [کالا] قیمت ...را پایین
+آوردن, تخفیف BB شدن برای؛ [es] پایین
+آوردن ۳ [شاگرد] از نمرة... کم 038 Seely کم
+شدن نمرة...شدن
+ol چیزی در mark sb down for / as sth
+کسی دیدن چیزی را در Olas کسی دیدن
+NW [زمین, ناحیه و غیره ] جدا کردن.  ۵16 mark sth
+تفکیک کردن, مشخص (03S تحدید کردن.
+حدود ...را مشخص 05,8 ۲. متمایز کردن.
+تمایز گذاشتن (میان ) ۳ خحط کشیدن روی, قلم
+گرفتن. خحط )03( علامت زدن
+YW [زمین محوّطه و غیره ] mark sth / sb out
+با ast جدا (03S خط کشی 33,5( مشخص
+کردن ۲. [شخص ] متمایز 03,8( جدا کردن.
+بازشناساندن
+کسی را برای چیزی نشان mark sb out for sth
+کردن, کسی را برای چیزی برگزیدن, کسی را برای
+جیزی انتخاب کردن, کسی را برای چیزی در نظر گرفتن
+/ تعیین کردن |
+7 ۱. (روی Spa تخته و غیره) up 6
+[قیمت. استیاز ] زدن» اعلام کردن ۲. (GS)
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1006 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mark; mark-down; markedly; marker; bring one's eggs I hogs to a bad market; a lively market; marketability; marketeer; market-garden; market-gardening; market hall; market-place; market research; market share; market-square; market value -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+برچسب )03 «(S55 قیمتِ ...را مشخص 05,5
+[YS] ۳ قیمت ... را YU بردن؛ [قیمت ] بالا بردن»
+افزایش دادن ۴. [متن, Sas چاپی] غلط گیری
+05S نمونه‌خوانی کردن
+7 مارک. Js آلمان mark? /ma:k/
+۸ تخفیف, کاهش بها mark-down / ۳۵:۷ davn/
+adi ۱. [تفاوت. Bt و غیره ] marked /ma:kt/ ob
+HSA] محسوین, cama die جشمگیر ۲.
+[شخص ] نشان‌شده, در معرض ha که جانش در
+خطر است :
+le کسی در خطر بودن be a marked man
+Rte] Le adv به وضوح. markedly /'ma:kidit/
+به نحوی بارزه به طورٍ محسوسی, به طورِ
+چشمگیری, به طورٍ برجسته‌ای |
+(Las). 7 علامت‌گذار؛ marker /'ma:ka(r)/
+(ورزش) امتیّازنگهدار. شمارتی‌گر ۲. غلامت, نشانه.
+شیاخض. نخنان‌دهندة نشان: CONTI WIR چیج ۳
+دستگاه خط کشی؛ دستگاه علامت‌گذازی؛ ماژیک
+۴ (در کتاب) نشانه» چوب‌خط ۵.سنگي قبر ۶. Gal]
+امتحانی [ (pas تصحیح‌کننده
+۱. بازار» bk روز market’ /'ma:kit/
+dep] .۲ و غیره ] تجارت, OBL بازرگانی ۳ وضع
+بازار, کاسبی ۴. تقاضاء Olay مشتری, بازار
+There is not much market for these goods. > > ۵. داد و
+iw خرید و فروش, معامله ۶. )5529 ناحیه) بازار ۷.
+Ole فروش» مقدارٍ فروش ۱
+bring one's eggs / hogs to a bad market / to
+کالای خود را به بازار the wrong market
+عوضی بردن, عوضی گرفتن, سوراخ دعا را گم کردن,
+راو عوضی رفتن i
+متوجه یک SES در spot a gap in the market
+بازار pas بازار را تشنةٌ ... دیدن
+به بازار رفتن» خرید رفتن go to market
+شکست خوردن go to a bad market
+موفق شدن go to a good market
+بازار کساد a dull market
+بازار گرم بازار پررونق, بازار a lively market ¢1s
+به معرض be on / come on (to) the market
+فروش گذاشته شدن, برای فروش عرضه شدن
+جیزی را به بازار  bring sth on (to) the market
+عرضه کردن
+( محاوره) بورس‌بازی کردن؛ play the market
+خرید و فروش کردن
+خریدار / مشتري چیزی be in the market for sth
+بودن, Ab چیزی بودن
+ii=see 1=sit z=cat q=father Db=got o:= sz
+el = say WU - 0 a1 = five ay = now o1=boy 13
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 market value
+put sth on the (open) market  رازاب جیزی را به :
+عرضه کردن
+price oneself out of the market — price
+price sth out of the market —> price
+market? /'ma:kut/ خرید و فروش کردن. vi
+معامله کردن, داد وستد کردن ۲. خرید کردن
+به بازار عرضه کردن, به معرض فروش گذاشتن ۳ ۷ ۱
+فروختن ۴
+marketability / ma:kitabilat / قابلیت [YS] #
+عرضه. بازار
+marketable /'ma:ktabl/ ase Js [کالا]
+که بازار دارد ohh عرضه کردنی. باب
+market-day / ۳ عمانه der/ روز بازار
+marketeer / ma:kr'tia(r) / بازاری, کاسب .۱ 2
+در بریتانيا, با حرفی بزرگ) طرقدار بازار مشترک ۲
+pro-Marketeer طرفدار بازار مشترک
+anti-Marketeer بازار مشترک Cilla
+market-garden/ ma:kit 'ga:dn/ (در بریتانیا) 7
+(مزرعهةٌ) سبزی‌کاری, (مزرعهٌ) صیفی‌کاری.
+جالیز؛ باغ میوه
+market-gardener/makit 'ga:dna(r)/ سبزی‌کارن, 22
+صیفی‌کار. جالیزکار؛ باغ‌دار
+market-gardening/ ma:kit وی / (8 >) n
+سبزی‌کاری, جالیزکاری. صیفی‌کاری؛ باغ‌داری
+market hall /'ma:kit ho:l/ بازارچه a
+marketing /'ma:kitin/ بازاریابی .۱ ۸
+خرید و فروش, دادوسند ۳ عرضه به بازار .۲
+market leader /ma:kit 'li:da(r) / عرضه‌کنندة
+پرفروش, تولیدکنندهٌ پرمشتری؛ کالای پرفروش.,
+کالای پرمشتری
+market-place /'makit بازارگاه, بازار  /فعام .۱ #
+Sr Sols Sr ۲ بازار RIE محله. بازار؛
+برخورد.ء مرکز Sr ] داد و ستد؛ (مجازی) [افکار
+to survive in the market-place در بازار باقی ماندن
+market-price / ma:kit ‘prais/ bb نرخ n
+روز Goad
+market research /makat r'ssitf/ بررسی بازار» 7
+بازارسنجی
+market share / سهم بازار 1( ۲اه 1
+market-square / ma:kit ‘skwea(r) / بازارگاه» n
+BY phase bl alow B31
+market town /'ma:kit tasn/ شهر بازاردار,
+بازاژشهر
+market value / ma:kit 'valju: / Obl قیمتِ n
+روز Sed
+۷ U=cook u:=too  A=cup 3:=bird a= about
+= near €3 = hair v2 = pure e19 = player aia = fire
+6= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1007 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: marking; marking-ink; marksman; mark-up; marlin; marline; marlinespike; marly; marmalade; marmoset; marocain; maroon; marooned; marquee; marquess; marquetry; marquis; marram; marram grass; marriage; marriageability; marriage broker; marriage bureau; marriage certificate; marriage guidance; marriage licence; marriage lines; marriage of convenience; marriage portion; marriage settlement; married -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+marking 10
+vn نشانه‌گذاری, marking /'ma:kig/
+| علامت‌گذاری؛ علامت. نشانه ۲. (Looe) تصحیح
+| )43,5( نمره‌گذازی ¥ (در جمع) [برگ. حیوان و غیره]
+خط و خال: خطوط, نقش و نگارء نقش‌هاء خال‌ها
+۸ جوهر 1ok/ Se مان / marking-ink
+ٍ جوهر نشانه‌گذاری, جوهر استامپ
+nn | تیرانداز marksman /'ma:ksman/ ( p/ marksmen)
+(J تیرانداز خوب
+n مهارت marksmanship /'ma:ksmon f1p/ i Jd
+تیراندازی؛ تیراندازی خوب, تیراندازی ماهرانه
+۱. افزایش بهاء افزایش قیمت mark-up /'mak Ap!
+ETE FY
+(SE) a رس Sal آهک رس marl! imal
+۲.(ادبی) خاک
+۶4 ۳ [زمین ] Sal رس زدن به
+wr [طناب و غیره] با نخ پیچیدن. 7 marl?
+pats کردن
+۸ نیزه‌ماهی» مارلین  marlin /۳۳۵:۱۲۵/ (pl marlin)
+1 (دریانوردی) marline /'ma:lm/ ( p/ marline)
+نع علفی
+7 (دزیانوردی) درفش  marlinespike /ma:linspatk/
+4 [خاک, زمین ] آهک‌رسی. marly /'ma:l/
+آهک‌رس‌دار
+۸ مربای (خلال) marmalade /'mamolerd/ (JW
+مربای (IN) نارنج
+(ادبی) ODN مرمر / marmoreal /ma:mo:rol
+۲. مرمری» مرمرین؛ صاف؛ سفید؛ سرد
+nn مارموزیت. عنتر marmoset /'ma:moazet/
+امریکایی
+موش marmot /'ma:mat/ chyba a
+۸ (پارچهٌ) کرپ marocain /'mzrokem/
+ela 5 \ adj تلوطی 006
+۸ ۲ رنگي خرمایی, رنگي بلوطی
+5 148 نارنجکي مشقی maroon? /moru:n/
+۷ 455 و تنها رها maroon? /ma'ru:n/ oS
+تنها گذاشتن
+ad) [شخص ] پرت‌افتاده» marooned /maru:nd/
+«Sy fn آدم‌ندیده دور از مردم؛ تنهامانده»
+تک‌افتاده؛ تک و تنهاء, تنهاء 455 و تنها
+as (gree) و تنها ماندن / بودن be marooned
+marque’ /mak/
+n حکم غارت. فرمان انتقام letters of marque
+72 (رسمی) [اتومبیل و غیره ] مارک؛  marque? /mak/
+نوع
+# چادرٍ بزرگ, marquee /maki/  .گرزب dee
+پوش
+marquess /'ma:kwis/ = marquis
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+۸ خاتم‌کاری؛ معرّی‌کاری  marquetry /makirt/
+n (لقب. مقام) مارکی marquis /'ma:kwis/
+(گیاه) نی اشنی marram /'meram/
+marram grass /'maram gra:s, (US) graes/
+marram =
+Nn ازدواج. وصلت؛ (حقوق)  marriage /'marids/
+نکاح ۲ مراسم) is (مراسم) عروسی, مراسم
+ازدواج ۳ زناشویی,» daly زنساشویی» پیوند
+زناشویی ۴.(مجازی) پیوندء اتحادء یگانگی, وخدت.
+امتزاج. Obl
+خواستگاری کردن ask in marriage
+(Lam) [دختر ] give sb in marriage (to sb)
+دستِ... را در دستِ کسی گذاشتن, به زنی به کسی دادن.
+شوهر دادن
+کسی را به همسری اختیار take sb in marriage
+کردن؛ [زن ] به زنی گرفتن؛ [مرد ] شوهر کردن به
+سببی» از طريتي ازدواج by marriage
+/ ال | marriageability
+n شايستگي ازدواج sah ازدواج
+4 (رسمی) ۱. در سن / marriageable /'maridsabl
+ازدواج» به Zr ازدواج رسیده» بالغ؛ [دختر] 5
+بخت ۲. شايستة ازدواج» مناسب برای ازدولج
+oe ازدواج marriageable age
+n واسطهةٌ / marriage broker /'marids bravka(r)
+ازدواج رابط ازدولج
+۸ بنگاه marriage bureau /'marids bjsorau/
+ازدواج
+# گواهی marriage certificate / mands soufikot/
+ازدواج, عقدنامه, قباله
+۸ راهنمایی marriage guidance /mznds ‘gardns/
+خانوادگی, مشاوره در امورٍ ازدواج
+n اجازةٌ ازدواج marriage licence /'mards lasns/
+1 (در بریتانیاء محاوره) marriage lines /marids lamz/
+قباله (ازدواج )
+marriage of convenience / 23
+7 ازدواج مصلحتی / av ken'vi:nions
+marriage portion /'menids po:fn/  .دیزیهج N 7
+جهاز ۲. مهریه. مهر
+7 قرار  marriage settlement /'mends setlmant/
+ازدواج» بله برون
+۱. متاهل, ازدواج کرده؛ married /'maznd/
+[زن ] شوهردار» شوهرکرده؛ [مرد] زن‌دار Laie) XY
+به) زناشویی
+ازدواج کردن get married
+زن و شوهر, زوج married couple 2
+[زن ] Joo شوه نام خانوادگي name 32۳۲160
+شوهر |
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1008 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: be married to sb; be chilled; get; Marseillaise; marshal sb into -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+۱ همسرٍ کسی بودن؛ be married to sb/ sth
+05 کسی بودن؛ pad کسی بودن ۲. زندگي کسی Ay
+چیزی بودن. زندگي کسی با چیزی پیوند خورده بودن
+ren استخوان؛ ( آشپزی) مغز  Marrow /'maras/
+قلم Y (مجازی) لب. Gas جان ۳ Ole قدرت.
+توانایی» جان ۴.(در (Glas کدو, کدوی مسما؛
+خوراک کدو
+۱ تا be chilled / frozen to the marrow Sa
+استخوانِ کسی fu زدن, سرما تا a استخوان کسی نفوذ
+کردن ۲. زهره‌ترک شدن. وحشت سراپای وجودٍ کسی را
+گرفتن
+the pith and marrow of his statement
+جان و LL کلامش
+کدوی قلمی baby marrow
+Aas کدو stuffed marrow
+۸ نخود درشت marrowfat /meraufat/
+marrowfat pea /marosfzt pi:/ = marrowfat
+ره ازدواج marry /'meri/ ( pt,pp married)
+کردن باء عروسی کردن با؛ [زن] گرفتن ۲. عقد
+کردن (برای)» به عقدٍ... درآوردن, به عقد هم
+درآوردن ۳ [as] شوهر دادن به Bl شوهر
+فرستادن؛ [یسر] زن دادن, زن گرفتن برای ۳۴.
+(مجازی) به هم پیوند زدن» پیوند دادن, به هم گره
+زدن» به هم درأمیختن, تلفیق کردن با؛ جور
+درامدن با
+vi ۵. ازدواج کردن, عروسی کردن؛ [زن] شوهر
+کردن؛ ]5,0[ زن گرفتن ۶ (مجازی) در هم امیختن.
+به هم پیوستن, یکی شدن
+(محاوره) با ادم پولدار ازدواج marry money
+کردن, با کسی به po پولش ازدواج کردن
+Marry in haste, repent at leisure. (prov)
+ازدواج عجو LY پشيماني جاودانه.
+دوباره ازدواج کردن؛ marry again
+[مرد ] تجدیدٍ فراش کردن
+با کسی پایین‌تر از marry beneath oneself
+dab خود ازدواج کردن
+SL / مردی از خحانوادهٌ... marry into sth
+ازدواج کردن., با حانوادةٌ ...ای وصلت کردن
+با خانواده‌ای وصلت کردن marry into a family
+Vow [دختر] شوهر marry sb off Obs
+به LL بخت فرستادن؛ [Lm] زن «031s زن
+گرفتن برای ۲. [دختر, پسر ] با ازدواج 03,585
+با ازدواج از شر...خلاص شدن
+Low هم جفت و جور marry sth up with sth
+کردن, بر هم منطبق کردن
+i= see I= sit z= cat a:= father b= got FREY
+el=say  av=go al=five av=now  oi=boy I
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+29 marshalling yard
+| کار بردی: Ass
+| یا هر حرف اضافة with بدون حرف اضافةٌ marry فعل
+| به کار می‌رود: WE
+| John married Ruth.
+| get /be married به جای فعل مزبور می‌توان از عبارت
+ٍ 5,8 استفاده to
+| Mary has got married to a local fisherman. ۱
+pes را فقط به صورت زیر with BL می‌توان حرف
+| به‌ کار برد: marry Jad
+| married with four children
+غیررسمی‌تر و خودمانی تر get married عبارت فعلی
+است و بیشتر در انگلیسی گفتاری به‌کار marry از فعل
+: 333050
+Marti is getting married to Jeff next week.
+مقایسه کنید با صورتِ رسمی:
+Marti is marrying Jeff next week.
+در انگلیسی گفتاری, اغلب از به‌ کار بردن حرف اضافة
+: اجتناب می‌کنند: married به همراه ۵
+Jeff and Marti got married / are married.
+Mars maz روم) مارس, خدای جنگ HD) 7
+بهرام tea ستاره‌شناسی) ( Y
+Marsala /ma:'sa:la/ شراب مارسالا
+Marseillaise/masaterz/  .دسنارف Ja سرود #
+Sree
+Marseilles /ma:'seilz, ma:'ser/ مارسی (an) n
+marsh /ma:J/ زمین باتلاقی, لجن‌زار EW, n
+marshal’ /1۳۹:/۱/  ةدنامرف (نظامی) فرمانده؛ .۱ 4
+نیروی زمینی, فیلذمارشال؛ ار تشبد؛ (در بریتانیا)
+A pls نیروی هوایی؛ ار تشبد هوایی ۲.(در ala
+sole مسابقاتٍ ورزشی و غیره) مامور تشریفات؛
+رئیس کلانتری, کلانتر؛ (Syl انتظامات ۳ (در
+پلیس, رئیس شهربانی ۴.(در آمریکا) رئیسي rds
+وسطا) اجودان؛ رئیس os 3 اتش‌نشانی ۵ در
+تشریفات ۶. (کهنه) میرآً خور
+marshal? /'ma:fi/ ( prp marshalling, (US)
+marshaling, pz, pp marshalled, (US) marshaled)
+کردن, منظّم oda ut نظم بخشیدن به, نظم دادن .۱ vt
+کردن, ارایش دادن ۲.(با تشریفات) هدایت کردن.
+راهنمایی کردن ۳ (راه‌آهن) [واگن‌ها ] به خط کردن,
+ردیف کردن
+marshal sb into / out of / 0281 sth / به بیرون 7
+درون / پیش ...هدایت کردن, به بیرون / به
+درون / پیش ... راهنمایی کردن
+marshalling ۷2۲۵/۳۵: lig ja:d/ (راه‌آهن) محوطهةٌ 2
+بارگیری ima خط‌بندی؛ boa راه‌اندازی»
+w  u=cook u:=t00 A-cup 3:2 0180 a= 80001
+= near €d = hair va = pure eta = player واه fire
+6= thin 6 = this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1009 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: marsh gas; marshland; marshy; marshmallow; marsupial; mart; marten; martial; martial arts; martial law; martially; martin; martinet; martini; martyr; martyrdom; martyred; marvel; marvelloUS; marvellously; marvelous; marvelously; Marxism; Marxism-Leninism; Marxist; Marxlst-Leninist; Mary; marzipan; masc; mascara; mascot; masculine; masculinity; maser; mash -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+marsh gas 10:
+no گاز مرداب, 3 (گازِ ) marsh gas / ۵:۲ gas/
+ole
+| 2 زمین باتلاقی, marshland /ma:flend/ me)
+ٍ لجن‌زار
+marshy ۱۳۵: /:/ (comp marshier, super
+| ۱.باتلاقی ۲.(مربوط به) باتلاق marshiest)
+marshmallow / ma: /'malav, (US) ‘ma:rfmalav/
+1 ۱.(گیاه) ختمی ۲.(شیرینی) Fl ختمی؛ شيرة
+ختمی
+ad) ۱.(جانورشناسی) / marsupial /ma:‘su:pral
+( مربوط به) کیسه‌داران
+Gla) Yn کیسه‌دار
+7 ۱.(ادبی) بازار» بازارگاه ۲. مرکز خرید. mart /ma:t/
+مرکز مبادلات ۳ Glo حراج, تالا حراج
+marten /'ma:tin, (US) -tn/ Ad Heel Nn
+Gy .۲ سمورء پوستِ AS
+۱.(رسمی) bye) به) جنگ.,  /۳۵:/۱/ martial
+جنگی ۲.شجاع, دلیر, سلحشور
+شجاعت از خود نشان دادن show a martial spirit
+plas sds دادن
+npl 3 رزمی» martial arts / ma: 1 ‘a:ts/
+ورزش‌های رزمی
+حکومت نظامی ابا از تمه / martial law
+اعلام حکومت نظامی کردن.  declare martial law
+حکومت نظامی اعلام کردن
+تحت حکومت نظامی بودن  be under martial law
+bal ds lens adv شجاعت martially /'ma:fal1/
+a ۱.مریخی, اهل Martian /'ma:n/ form
+Lie Rae
+adi ۲.(مربوط به) مریخ
+n جلجله (دمگاه سفید)  martin /'ma:tin, (US) -tn/
+n آدم سخت‌گیر, martinet /ma:tr'net, (US) -tn'et/
+(sha po! ادم خشک
+7 (مشروب) مارتینی martini /ma:'ti:n1/
+2 ۱.(مذهب و غیره) شهید martyr /'ma:ta(r)/
+vr ۲. به شهادت رساندن. شهید کردن ۳.(در آمریکا)
+شکنجه دادن, آزار رساندن به
+۶7 ۴.شهید شدن, به شهادت رسیدن
+شهید شدن, به شهادت رسیدن die a martyr
+از خود شهید ساختن. make a martyr of oneself
+شهیدنمایی کردن
+( محاوره) [بیماری, درد و غیره] be a martyr to sth
+از... رنج Was دچار... بودن» pred ... بودن
+7 ۱.شهادت ۲. شهیدنمایی, martyrdom /'ma:tedom/
+مظلوم‌نمایی ۳ عذاپ dl رنج فراوان, زجر
+(dw) adj مظلوم‌نماء شهیدنما؛  martyred /maitod/
+مظلوم‌نمایانه
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+marvel/'ma:vl/ ( prp marvelling, (US) marveling,
+Nn شگفتی: ppp marvelled, (US) marveled)
+معجزه, اعجاز, چیز شگفت‌انگیز, Ll. شگفتی.
+مایةٌ اعجاب ۲. نمونةٌ عالی, مظهر
+vi ۳ تعجّب کردن, HA Foe در شگفت بودن.
+حیرت کردن
+۴. تعجّب کردن (که)» حیرت کردن (که)» متحیّر
+شدن )45( در شگفت بودن (4S) عجب داشتن (که)
+معجزه کردن work marvels
+0 ۱.شگفت آور, marvellous /'ma:vales/
+شگفت‌انگیز, حیرت‌انگیز. عجیب. تعجّب‌آور ۲.
+(محاوره) عالی» ماه» خیلی عالی, خیلی خوب.
+محشر., معرکه
+adv به طور marvellously /'ma:valasii/
+شگفت‌انگیری, به نحو حیرت‌انگیزی ۲. (محاوره)
+خیلی عالی. خیلی خوب
+marvelous /'ma:valas/ (US) = marvellous
+marvelously /'ma:valasli/ (US) = marvellously
+n مارکسیسم Marxism /'ma:ksizam/
+Marxism-Leninism /ma:ksizom 1
+n مارکسیسم -لنینیسم
+CSN 7 پیرو مارکس Marxist /'ma:ksist/
+Yad) مارکسیست؛ مارکسیستی
+7 ای :۳۹ / ۱13۲191۰1611۳151
+[4, مارکسیست -لنینیست
+n (مذهب) مریم Mary /'mear1/
+marzipan /'ma:zipan, ma:zi'pen/
+7 (شيريني ) مارزیین؛ خمیر lol مایةٌ بادام
+masc /'measkjulin/ < masculine
+td) nm آرایشق) ریمل mascara /ma'ska:ra, (US) -'skara/
+A نخبانه یخت. mascot /'measkat, 'maskot/ La
+خوش‌شانسی؛ مايةٌ برکت. برکت
+ad) ۱.(مربوط به) مردان؛ masculine /maskjslin/
+das] رفتار و غیره] leon ails ja مردمانند؛ [زن]
+مردصفت. مثل مردان ۲.(دستور) Sia
+n ۳ (ستور) جنس مذکّر؛ كلمهٌ مذکر؛ Sia ig
+N مرد بودن. / اراد ۳ / masculinity
+مردی. مردانگی
+۸ مِیْزر )= نقویت‌کنند؛ امواج مایکروویو) MASE /'meiza(t)/
+4 ۱.(برای چهاریایان, مرخ و غیره) Als //۳۵8]۱/۳2]
+خیسانده ۲ (در بریتانیاء مسحاوره) پسوره؛ پوره
+سیب‌زمینی ۳. خيساندةٌ مالت. خيساندةٌ جو
+۸ ۴. خرد کردن, ud Sd خمیر کردن ۵. زدن, له و
+لورده کردن, خرد و خمیر کردن ۶.(آشپزی) پسوره
+کردن. له کردن. نرم کردن ۷ [مالت ] خیساندن
+masher /'maa(r)/ LTP LOTR
+سیب زمینی‌کوب
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1010 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mask; under a; masked; masked ball; masking tape; masochism; masochist; masochistic; mason; Mason-Dixon line; Masonic; masque; masquerade; mass; massacre; massage parlor; massage -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+Nn نقاب؛ ماسک. mask’ /ma:sk, (US) mask/
+صورتکی ۲.ماسک )15 گاز) ۳ waka (S25)
+دهن‌بند BF صورت ۵.سر روباه؛ صورتِ روباه
+
+نقاب زدن. asta دص ۱ wear a mask
+زیر نقابی از زیر نقاب؛ under a / the mask of
+زیر پوششی Sl تحت پوشش
+چهرةٌ واقعی خود را throw off one's mask
+نشان دادن, نقاب از چهره پرداشتن
+AB صورتِ مرده, Sle مرده a death mask
+wr ۱. [صورت ] نقاب mask? /ma:sk, (US) mask/
+زدن بر؛ ماسک زدن به ۲. پوشاندن, مخفی کردن.
+پنهان کردن؛ بروز ندادن؛ (نظامی) استتار کردن
+lay wi زدن؛ ماسک زدن
+چیزی را زیر نقاپ... پوشاندن mask sth under
+۱.نقاب‌دار masked /ma:skt, (US) maskt/
+نقاب پوش؛ ماسک‌زده ۲. پوشیده» پنهان, مخفی.
+مستور؛ (نظامی) استتارشده
+7 بالماسکه masked ball / ۳۵:۹ boil, (US) mas-/
+masking tape /'ma:skiy te, (US) 'mas-/
+2 نوارچسب. چسب کاغذی
+masochism /'mzsokizom/ : PENT] Nn
+ازاردوستی ۲ مازو خیسم. ازارطلبي جنسی
+۱. ازارطلب., masochist /masakist/
+x ian lil ما تست
+ad ۱.(مربوط 4( masochistic /masakistik/
+آزارطلبی, آزارطلبانه ۲. مازوخیستی
+FS Aon 3« (بتای) سنگ‌کار؛ mason /'mersn/
+با ۲. (با حرف بزرگ) فراماسون, ماسون
+Mason-Dixon line / meisn 'diksn 17
+Hamma LL n دیکسون the Mason-Dixon Line
+(- در Kal مرز میان ایالاتٍ طرفدار برده‌داری و SVU
+Hb برده‌داری) i
+Masonic /masonik/  ء.اه‌نوسامارف (4 bg 0) ad)
+فراماسونی» ماسونی
+n ۱ ستنگ تزراشی؛ سنگ‌کاری؛ Masonry /'meisanrt/
+کار سنگ؛ CTPA LA CPCI At
+۳ با حرف بزرگ) فراماسونری» ماسونیّت
+n نمایش منظوم, masque /ma:sk, (US) mask/
+ماسک
+(US) mask-/ ۲3506۲306
+۱. بالماسکه. جشن نقاب پوشان ۲. (مجازی) تظاهر,
+ظاهرسازی. فریب؛ نقاب. pb دروغین
+۳. تغییر چهره دادن تغییر قیافه دادن به صورتِ
+دیگری ظاهر Com
+نقاب ... به جهره زدن, خود را به masquerade as
+اد D=got عطاق هن 1=sit a=cat ما
+=go al = five au = now oI =boy 13 اد cl = say
+aid = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 massage parlor
+خود WSs) Jo eli غَنوان... نشان دادن, خود را به
+را... وانمود کردن, ظاهر ... به خود گرفتن, تظاهر کردن به
+
+۱.مقدار زیاد. 0355 انبوه, mass’ /mas/ AS
+خروار Allo خرمن؛ welt] انومبیل‌ها ] ازدحام؛
+las زیادی. یک عالم ۷ لور جمع) توده. توده‌ها
+تودةٌ مردم. انبووه خلق, (ps جماعت, عامه.
+۱ عوام ۳ (فیزیک) جرم i
+adj ۴ همگانی. دسته (SAT گروهی؛ جمعی. عمومی ؛
+توده‌ای, led gi ( مربوط 4( 93 0 ( مربوط به)
+توده‌هاء 350 $5 co gl وسیع, ONS
+۷ ۵.کیه کردن. روی هم انباشتن» توده کردن؛ [اشخاص
+و غیره ] جمع کردن. 5.5 اوردن؛ [نیروهای نظامی ]
+متمرکز کردن
+vi ۶. کپه (pA روی هم انباشته شدن, توده شدن؛
+[اشخاص و غیره ] جمع RE کسد toy dal [سربازان ]
+متمرکز شدن
+خروارهاء خروار خروار masses and masses
+Ab eg xs) اغلب the mass of
+پوشیده در انبوهی از ... بودن. be a mass of
+GE در ... بودن, سراپا... بودن
+Sal به این بزرگی an army of such mass
+در کل, در جمع, در مجموع in the mass
+در سطح وسیعی, به مقیاس وسیعی» on a mass scale
+به طور عمومي
+7 (نیز با حرف بزرگ) ۱.( در کلیسای کاتولیک) mass? /mas/
+las ربّانی. 138 مس Y ( موسیقی) مس
+در (ایین) عشای ربّانی شرکت go tomass oS
+به عشای ربّانی رفتن
+در عشای SU) حضور یافتن / شرکت  hear mass
+کردن
+عشای say a mass (for sb/ sth) Sh
+(به خاطرٍ کسی / چیزی) برپا کردن
+a ۱.کشتار (دسته‌جمعی)» massacre /'mesoka(r)/
+قتل‌عام ۲ wala) ورزش. مالس و شیزه) شکست
+جانانه. شکست سنگین
+
+۷ ۳.کشتار کردن. قتل‌عام کردن ۴.(محاوره) حسابی
+شکست دادن, تار و مار کردن, دمار از روزگار...
+دراوردن, مالاندن
+
+massage /'masa:3, (US) ma'sa:3/ Sele dn
+
+مشت و Jl
+۷ ۲. ماساژ دادن مشت و مال دادن. ورزش دادن؛
+(مجآزی) تسکین دادن آرانش بخشیدن. eld! دادن
+۳ [کرم, پماد و غیره ] مالیدن aa خورد...دادن
+massage parlor /'masa:s pa:la(r), (US) ma'sa:3/
+(US) = massage parlour
+
+Ww v=cook u;=t00 A=cup 3: = bird 9= about
+
+= near €3 = hair U2 = pure cia = player ao = fire
+6= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1011 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: masseusetmre'sn; massif; massive; massiveneSS; mass meeting; mastectomy -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+massage parlour 10
+massage parlour /'masa:3 pa:la(r), (US) ma'sa:3/
+عشرت‌خانه, عشرتکده
+mass communication / mas 1
+n ار تباط گروهی. ارتباط جمعی, ار تباط عمومی
+n ماساژدهنده )5,0( ماساژور/(۵:۹۵:)0/ masseur
+n ماساژدهنده (زن)» ماسازور masseuse /ma'saz/
+1 (جغرافی) کوهستان؛ کوه‌زار. massif / ma'si:f/
+گرانکوه
+ess] 4 و غیره ] عظیم. ۳۱۹556
+بزرگ. گنده, حجیم؛ سنگین؛ غول‌آساء غول‌پیکر؛
+[افزایش, کمک ر غیره] چشمگیر, قابل‌ملاحظه؛ [مقدار ]
+زیاد.ء کلان ۲. [حمله, مطالعه و غیره ] pes گسترده»
+همه‌جانبه, فراگیر ۳. [خصوصیّات ] برجسته؛ [lea]
+بزرگ ۴ یکدست. یکپارچه
+adv به طورٍ غول‌آسایی 71 massively
+۲ به طورٍ گسترده‌ای, به طورٍ وسیعی, به sob
+همه‌جانبه‌ای, در lia وسیعی ۳ به شدت.
+حسابی, خیلی
+7 ۱. [کوه و غیره ] بزرگی. massiveness /mzsivnis/
+عظمت. عظیم ES Od حجیم بودن؛ [مقدار ]
+زیادی, کلانی ۲. [حمله و غیره] وسعت, گستردگی,
+فراگیری ۳ یکدستی, یکپارچگی
+1 رسانه‌های mass media / mas ‘mi:dia/ bas
+وسایل ار تباط جمعی
+n اجتماع عمومی؛ mass meeting / mas 'mitig/
+ol alls
+mass observation / ۳۵۶ 7 ides 7:
+توده‌هاء توده‌کاوی
+mass-produce / mes pra'djuzs, (US) pra'duis/
+[VST ۸ تولیدٍ انبوه کردن. (کلان) زدن
+n تولید mass production /mas pradakfn/ co gail
+تولیدٍ ONS
+44 حجیم. بزرگ. گنده Massy /'mast/
+7 ۱. (دریانوردی, برق, رادیو  mast’ /ma:st, (US) masst/
+تلویزیون) دکسل» دیرک ۲.میله (پرچم)» چوب
+( پرچم) ۳ (دریانوردی) تیر QF— lg LL lee
+مهار
+کارگر معمولی کشتی بودن  sail before the mast
+at half-mast — half-mast ۱ i
+nail one's colours to the mast — colour’
+۱. میوةٌ بلوط, mast? /ma:st, (US) mast/ Sh
+بلوط ۲. ميوةٌ راش, دانه راش
+7 (پزشکی) پستان‌برداری mastectomy /mea'stektomi/
+7 ۱.آرباب. آقا؛ master! /'ma:sta(r), (US) 'mas-/
+رئیس؛ کارفرما: استاد, استادکار ۲. آقای ils
+صاحب wile خداوندگار خانه ۳ [کشتی تجاری ]
+ناخدا, کاپیتان ¥ wc] اسب و غیره] صاحب ۵
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+( آموزشی) (aa آموزگار, دییر (مرد)؛ [رقص, سواری و
+غیره ] cle استاد. Tm (مرد) ۶. (با حرف بزرگ)
+: حضرتِ مسیح؛ خداوند ۷.(دانشگاه با حرف برزرگ)
+(درجهٌ) 553 mild (دارندة درجة) كارشناسي
+ارشد؛ فوق لیسانسیه, کارشناس ارشد ۸.(همراه با
+ol پسر) وان A <Master Charles Smith > G1 (با حزفی
+بزرگ) [مدرسه, کالج ] pa رئیس ۰ عنر) استاد؛ کار
+استاد ۱۱.(صفت‌گونه) استاد, استادکار, ماهر؛ we]
+0dS. SS 5 یره ] (sho! عمده, مهمترین NY مرشد.
+پیر ۱۳. نسخهٌ hel کپی اصلی
+Yi من دستور می‌دهم. I'm the master now.
+آقای خود be one's own master (3g
+SU خود بودن, برای خود کار کردن
+دودوزه بازی کردن. serve two masters
+دورویی نشان Sum ala دزد و 335 ABB بودن
+like master like man — like’
+one's lord and master — lord
+میر we ره مهتر Master of the Horse
+Master of foxhounds FUE SPURTE 8
+اختیار خانه خود be master in one's own house
+را داشتن, صاحب اختیار خاند خود بودن
+اختیار چیزی ان be master of 51۳  ,نتشاد Cs
+بر چیزی معا بودن, بر چیزی Bl داشتن؛ چیزی را
+خوب دانستن, بر چیزی احاطه داشتن, در چیزی استاد
+بودن؛ چیزی را در اختیار داشتن. plo چیزی بودن,
+خداوندگار چیزی بودن
+اختیار چیزی را در make oneself master of sth
+دست گرفتن, بر چیزی مسلّط شدن. بر چیزی تسلّط
+یافتن؛ چیزی را خوب یاد گرفتن, بر چیزی احاطه AL
+در چیزی استاد شدن, در چیزی تبخّر یافتن؛ Goma را
+در اختیار گرفتن. صاحب چیزی شدن. خداوندگار
+چیزی شدن
+درجةٌ 55 لیسانس, درجهٌ کارشناسی ارشد Master's
+(ayn) ۱ کارشناسی ارشد Master of Arts
+ادبیات و pike انسانی, (has) 35 لیسانس Spl و
+علوم انسانی ۲. کارشناس gal ادبیات و علوم انسانی.
+( دارندةٌ درجهٌ) 359 لیسانس ادبیات و علوم انسانی
+۱ درجةٌ) کارشناسی آرشد Master of Science
+علوم, (درجهةٌ) فوتي‌لیسانس علوم ۲. کارشناس aah
+علوم, )520,00 درجهٌ ) فوتي لیسانس علوم
+bs sols پسرها و دخترها  masters and misses
+ole بزرگ؛ آثار plate بزرگ old masters
+Nv [شخص. ’ master? /'ma:sta(r), (US) 'mas-/
+احساسات و غیره] مسلّط شدن بر در اختیار خود
+گرفتن, اختیار ...را به دست گرفتن, تسلّط یافتن بر,
+کنترل کردن» مهار کردن؛ [ola] رام کردن؛
+[مشکلات و غیره ] غلبه کردن FB امدن بر» رفع
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1012 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: master class; master copy; masterful; masterfully; master-key; masterless; masterly; mastermind; masterpiece; master-plan; Master's degree; mastership; masterstroke; mastery; masthead; mastic; masticate; mastication; mastiff; mastodon; mastoid; mastoiditis; masturbate; masturbatory; matador -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+کردن. سوار بر ...شدن y استاد شندن jo اشتادی
+یافتن Edo یافتن درء ute شدن در ۳ خوب
+
+یاد گرفتن» خوب فهمیدن, خوب دریافتن
+master-at-arms /ma:stor at ۵:۳2, (US) mas-/
+ds mn کُشتی, gale انتظاماتِ کشتی
+master class /'ma:sta kla:s, Us) 'mazstar kia /
+درس استاد, محضر استاد
+HY اصل ws) 'mas-/ ۰ص master copy /ma:sto
+A adj رئیسن‌مایه/ masterful /'ma:stef, (US) 'mas-/
+ریاست‌ماب. مثل یک رئیس, ارباب‌منش؛ [رفتار,
+صدا و غیره] آمرانه. تحکم‌آمیز؛ رئیس‌مآبانه ۲. ماهر
+استاد؛ [عمل ] al ale استادانه
+0 ۱.مثل یک masterfully /'ma:stofaly, (US) mas-/
+رئیس, :وئیس‌ما بان آمرانه Sor آمر ؟استادائه:
+با استادی, با مهارت. ماهرانه
+7 شاه کلید master-key /'ma:sts ki:, (US) 'mas-/
+adj ۱. [زسگ و غیره ] masterless /'ma:stalis, (US) 'mas-/
+بی‌صاحب. ولگرد ۲.(کهنه) [کودک ] بی‌کس» آواره ۳
+( کهنه) نافرمان. طاغی, LAS es
+adf ۱.استادانه. masterly /'ma:stalr, (US) 'mas-/
+il ale چیره‌دستانه. زبردستانه ۲. استاد. ,ماهر
+«JS زبردست. توانا
+mastermind /'ma:stamand, (US) 'mas-/
+۷ ۱ طراحی کردن. طرح ...را ریختن, مغز
+متفکر ... بودن» طرّاح اصلي ... بودن
+Xn مغز Sie طرّاح Jas (Jol کل مغز
+Master of Ceremonies / ma:star av 'serimeniz,
+Nt ریس تشریفات (US) mastar av 'sernmavniz/
+n شاهکار masterpiece /'ma:stopi:s, (US) 'mas-/
+master-plan /'ma:sts plzn, (US) 'mas-/ & bon
+LU, (pels همه‌جانبه
+Master's degree /'ma:stoz digri:, (US) 'mas-/
+درجةٌ کارشناسي‌ارشد. A250 فوتي لیسانس
+mastership /'ma:sts 1p, (US) 'mas-/ WSos .۱ 7
+سیادت. سلطه, آقایی, تسلّط. اشراف؛ کنترل,
+ees رت ۲. )29,50( $e gals معاعی,
+آموزگاری, استادی
+a کار masterstroke /'ma:stastravk, (US) 'mees-/
+استادانه. هنرنمایی, شاهکار
+۱.استادی, mastery /'ma:start, (US) ‘mas-/ «oes
+Ee برتری, 335 تسلّط, سلطه
+مسلط شدن بر cov کنترل گرفتن. get mastery of
+در دست گرفتن؛ [ حیوان ] رام کردن
+An سر masthead /'ma:sthed, (US) 'mzs-/ Js
+Bois ju. {Nigel} ۲
+ii=see I=sit =@=cal a=father D=gol b= s:
+el=say av=go ar=five av=now _ oI=boy Is ,
+ave = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 match
+mastic /'mastik/ Shai gas, HAS n
+Sah رومی. درختِ Prey درختِ
+masticate /'mastikert/ (رسمی) جویدن VE
+mastication / mastiker fn/ جویدن (Jes) 7
+۲25۲ نگهبان Kun
+mastodon /'mastodon/ ۱.(جانور) ماستودون. 2
+آدم غول‌مانند Sd st poly غول‌فیل ۱
+mastoid /'mastord/ ۱.(کالبدشناسی) زائدةٌ پستانی. 2
+استخوانِ پس‌گوشی
+۴.(کالبدشناسی) پستانی, (مربوط به) زائدةٌ پستانی. ad)
+پس‌گوشی
+mastoiditis / mastordaius/  ةدئاز ورم (Sax) 2
+پستانی, ماستوئیدیت
+masturbate /'mzastobert/ ۱.استمنا کردن. vi
+REE =
+Losses bogs Shady wr
+masturbation / mastabern/ a استمناء #
+mastu rbatory / mastabertar, (US) - 1
+استمنایی adj
+mat! /mat/ ( prp matting, pzpp matted)
+بوریا ۲.(ورزش) mam (به عنوان زیرانداز) پلاس» .۱ 2
+لاستیک .۴ (SSL LES تشک ۳ پادری, دم‌دری,
+ماشین ۵. زیرگلدانی؛ PY کف ماشین, کف
+] زیرلیوانی؛ زیربشقابی؛ زیردیگی ۶. [مو. پشم و غیره
+گوریدگی گلوله‌شدگی
+ao با پلاس پوشاندن, پلاس انداختن کف؛ .۷ ow
+پشم و غیره ] گوریده کردن» کرک pe] A iS انداختن
+کردن, نمدی کردن, گلوله گلوله کردن
+نمدی (Ad پشم و غیره] گوریده شدن, کرک 30] svi
+شدن, گلوله گلوله شدن
+have sb on the ۱۵۸۶  تساوخزاب محاوره) کسی را (
+03.8 23513 کسی را 2.
+a mat of hair 03155 موی SS موی
+mat? /mzt/ [رنگ. سطح ] مات. بی‌جلا [7
+matador /'mzatodo:(r) گاوباز, ماتادور A
+match! جوب کبریت؛ ره .۱
+در جمع) کبریت ۲. (نظامی) فتیله 59)
+safety matches کبریتِ بی‌خطر
+strike a match کبرربت زدن
+a box of matches قوطی.کبریت
+a book of matches بغلی CS
+match? /matf/ Gob ils ۱.(ورزش) 7
+رقیب ۳ (کهنه) sled حریف, طرف (مقابل)» .۲
+ET I جفت ۴. (برای ازدواج) آدم ead ازدواج؛
+LS WA .۵ Swf
+w  u=cook u:=100 A=cup %=bird a= about
+= near 3 = hair va = pure e193 = player aro = fire
+6= thin d= this [= shoe 3= vision 1 = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1013 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: match sb I sth against; matchbox; matchet; matchless; matchlock; matchmaker; matchmaking; match-point; matchstick; matchwood; mate; mater; material; materialisation -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+match 10:
+با cio o> خود روبرو شدن find / meet one’s match
+be up against more than one's match
+سر وکار کسی با حریفی زورمندتر از خودش افتادن
+a > کسی 0338 be no match for sb
+از پس کسی برنيامدن
+They decided to make a match of it.
+تصمیم گرفتند ازدواج / عروسی کنند.
+LE] لباس‌ها و غیره ] به هم be a good match
+آمدن, با هم خواندن, با هم جور بودن, با هم هماهنگ
+بودن
+زوج خوبی هستند. They're a good match.
+Cad خوبی هستند. مناسپ هم هستند.
+برای هم Ci مناسبی بودن. make a good match
+زوج خوبی شدن
+the man of the match — man’
+the whole shooting match — whole
+N VE حریفي ... بودن» رقیب ... بودن» match? /mzt//
+از پس ... برامدن» Looe Sata رقابت کردن باء
+به پای...رسیدن (gam Hem LLY به...اآمدن:
+به... خوردن, با...خواندن؛ با...دمساز بودن.
+هم‌سنگی ... بودن, با...مطابقت داشتن ۳ مشابه...
+را law کردن. نظیر ...را Toy کردن, همانند... را پیدا
+کر دن؟ مثل ...را پیدا کردن ۴. جفت کردن (با هم)
+جور کردن, SUS هم گذاشتن, US هم coder (با
+هم) جفت و جور کردن |
+VE ۵. با هم جور بودن» به هم coded به هم خوردن, با
+هم خواندن, با هم دمساز بودن» هم‌سنگي هم بودن,
+با هم مطابقت داشتن
+Sly داستانی Can you match that story?
+به خوبي آن داستان بگوبی؟ می‌توانی با این قصه رقابت
+کنی؟
+match sb / sth against / with sb / sth
+wr مقابل (lis رویاروی ... گذاشتن, به
+Ol ... انداختن» به رقابت با ... واداشتن
+dw مشابه / نظیر ...را match (sth) up
+پیدا کردن» همانندٍ / Je ...را پیدا کردن ۲.
+همرنگ کردن باه جور کردن باء هماهنگ کردن
+باء متناسب کردن با
+vi ۳ جفت کردن ( با (on جور کردن» HLS هم
+گذاشتن / Oda (با هم) جفت و جور 035
+VE حریفي ... بودن. match up to sb /sth
+رقیپ ... بودن» از my برآمدن» برابری کردن
+dy رقابت کردن باء به پای ... رسیدن
+قوطی کبریت matchbox /'mat fboks/
+matchet /‘mztf1t/ = machete
+adi بی‌نظیرء بی‌همتاء بی‌رقیب. matchless /matflis/
+ase غیرقابل‌رقابت
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+matchlock /'mzt/Ink/ sls Kis n
+Shr فتیله‌ای
+daly mn ازدو اج / matchmaker /'mat fmeika(r)
+loos! Ly, دلال ازدواج
+7 (در ازدواج) وساطت, / matchmaking /'mat/metkiy
+واسطه‌گری, دلالی
+2 (تنیس و غیره) پوئن  match-point/ mat] pomt/
+نهایی, امتیاز برنده
+1 چوب کبریت matchstick /'matfstik/
+جیزی را باریک‌باریک  cut sth into matchsticks
+بریدن
+1 ۱. جوب مناسب matchwood /'met fwud/
+کبرینت ۷ 3 3 ity wr نخرده وب
+چیزی را خرد و خاکشیر smash sth to matchwood
+کردن» چیزی را Eads کردن
+8 دق heyy محاوزه) :اوقت mate! /mext/
+رفیق, يار؛ San هم‌ردیف, هم‌قطار؛ (در ترکیب)
+هم > classmates >؛ (عامیانه. در خطاب) (habs
+رفیق ۲.(دریانوردی) معاون ناخدا ۳. دستیار., معاون.
+وردست. SSS کمک - > cook's mate ۱۳۵ > ¥
+[ حیوان؛ پرنده] جفت ۵. (محاوره) همسر, St
+زندگی؛ شوهر؛ زن
+۸ ۱. [حیوانات, پرندگان ] جفت کردن, ۰ /۳۹۲۸/ mate?
+تنگي هم انداختن
+Xvi جفت‌گیری کر دقن
+Non (شطرنج) مات. کیش‌مات. شه‌مات mated /mert/
+gy Soler wr شه‌مات کردن
+oS 5 Nn خاس (آمریکایی) maté /'ma:ter/
+۲ چاي خاس
+1 (در بریتانیا, wg عامیانه) مادر mater /'merta(r), 'ma:-/
+N ad) $3( (مربوط 4( مادّه material’ /motiorial/
+Y جسمانی, جسمی. ( مربوط به) بدن؛ این جهانی,
+زمینی. خاکی ۳.(نیز حقوق) lal اصلی,» مهم.
+عمده, بنیادی» ضروری ۴. (فلفه) مادّی, عنصری,
+هیولایی
+(دتتوار) اسم ذات a material noun
+2 ۱ مادّه؛ )53 جمع) مواد / material? /matorial
+(les Ol (por 2) ۳ aby مصالح ۴ (رادیی
+تلویزیون, روزنامه و غیره) مواد. مطلب, مطالب,
+اطلاعات, داده ۵.(برای کاری) آدم مناسب
+موادٍ خام raw materials
+نوشت‌افزار» لوازم 275 writing materials
+He is not university material at all.
+به درد دانشگاه نمی‌خورد. مالی نیست که به درد دانشگاه
+بخورد.
+(US) -Ir'z-/ : بط materialisation /mstiarlarzer
+materializalion =
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1014 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: materialise; materialist; materialistic; materialistically; materialization; maternally; maternity; maternity leave; math lmree; matinee; matinee idol; mating; matinS; matric; matrices; matriculate; matriculation -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+3 10
+materialise /mo'trorrolarz/ = materialize
+materialism/mo'trorrolizom یالیسم./ 5a (ads) Nn
+طعنه) گرایش TR JS PRC WR مادیّت. مادّه‌گرایی,
+
+به مادّیات. مادّی‌گری
+2 ۱.ماتریالیست. / راد داح / materialist
+مادّه‌گراء 0 5 اصالتِ مادّه؛ )53 جمع) مادّیون Joly
+
+sdb pol ols
+materialistic /motiariaiistik / : [شخص [ مادّی, A 4
+XY [زندگی] مبتنی بر مادّیات cobs. al
+مادّه گرایانه. مبتنی بر اصالتِ مادّهء ماتریالیستی
+materialistically / .از دید / اقا دمح 0
+مادّیات. به لحاظ مادّیات ۲. از دید ماتریالیسم. به
+مادّه‌گرایی Bod
+materialization /motioriolarzer fn, (US) -lr'z-/
+X معزرت‌بندی (oid fais عینیت. Bim ۱
+تظاهر (بیرونی)» .۳ Ging (av seb alow
+2S
+materialize /motiorislarz/  ]هریغو [آرزو, نقشه .۱ vi
+] شدن؛ [انديشه‌ها as oily عینیت (oly تحقّق
+شکل گرفتن, به جايي رسیدن؛ [حادنه] اتفاق
+] مرده یا غایب pana] .۲ افتادن. رخ دادن پیش آمدن
+حاضر شدن ۳ (محاوره) as پدیدار as ظاهر
+...پیداشدن Ss [شغخص., اتوبوس و غیره ] سز
+Jos جامة (oS بخشیدن, عملی Bima ۷
+واقعیّت بخشیدن به a پوشاندن
+He failed to materialize. نتواانشت بياید.
+als حاضر نشد.
+materially / ma'trorialr / 3 به لحاظ .۱ 0
+محتواء به لحاظ جوهر ۳ اساسا Ld به ۲
+قابل‌ملاحظه‌ای Hb عمدتاً به طورٍ بنیادی ۴. به
+maternal / ۱.مادرانه. مادروار؛ تا adj
+مربوط به) مادران ۲. مادری, (مربوط به) مادر (
+be maternal to & مادرانه رفتار کردن
+مادر بودن برای Joe
+maternally /matamali/  ناردام ۱.مادرانه, مثل 0
+از طرفي مادر ۲
+maternity / ۱.(حالت) مادری / اد داح #
+(صفت‌گونه) (مربوط به) آبستنی» (مربوط به) ۲
+(مربوط به) بارداری؛ (مربوط به) (Sls
+زایمان
+a maternity ward بخش زایمان
+a maternity hospital ز ایشگاه
+maternity leave /matanotr 1::۷/ مرخصی زایمان n°
+maternity pay /mo'ts:natr per/ حقوق زمان 7
+زایمان
+وا 1=sit @=cat a=father D=got  0:= sa
+el = say w=go  aI= five as=now  or=boy 19
+aus = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 matrimony
+matey /'mertr/ ] (در بریتانیاء محاوره) [شخص 4
+ هناتسود ایاق؛ Fahy SMS خودمانی, نزدیک,
+math /m=6/ (US) = maths
+mathematical /\mabomatikl/  )هب ۱.(مربوط adj
+| ریاضیات. ریاضی ۲. بسیار دقیق» خیلی دقیق
+“mathematically / به لحاظ / اه 0ص 0
+| ریاضیات ۱
+| He is mathematically inclined. به ریاضیات
+ دادعتسا علاقه دارد. گرایش عمدهٌ او به ریاضیات است.
+| i ریاضی دارد.
+mathematician / ma6smo'trfn/ ریاضیدان, 7
+i ریاضی ple
+mathematics / mafomatiks/ ریاضی «Lol, ۸
+maths /mz6s/ > mathematics (محاوره) ریاضی 7
+matinée /'matinel, (US) matn'er/
+(سینما) سانش عصر؛ )55( اجرای عصر n
+matinee /'matmer, (US) matn'er/ = matinée
+matinée idol /'matmer ard, (US) mata'er/ ws) n
+تثاتر ) هنرپيشةٌ محبوب ( زنان)» بتٍ زنان
+mating /'meitiy/ جفت‌گیری ۸
+the mating season A فصل جفت گیر
+Mating /matinz, (US) nz/  ,حبص (مذهب) نماز npl
+مراسم صبحگاهی, نيايشي صبحگاهی
+matriarch /'mertria:k/  »هداوناخ ۱.(زن) رئیس 8
+رئیس ۲.گیش‌سفید. بانوی بزرگ [es] مادر؛
+matriarchal / mertrra:ki/ (4 (مربوط ad
+مادرسالاری, (مربوط به) زن‌سالاری؛ مادرسالار,
+مادرسالارانه» زن‌سالارانه [oe زن‌سالار؛ [رفتار و
+matriarchy /'mertrra:ki / مادرسالاری,؛ #
+زن‌سالاری, مادرشاهی
+matric /mo'trik/ = matriculation
+matrices /'mertrisi:z/ ام of matrix
+matricide /'mztrisard/ مادرکُشی ۲ مادرکُش Nn
+matriculate /motkjolert / به دانشگاه پذیرفتن Nw
+وارد دانشگاه شدن, در دانشگاه قبول شدن؛ در .۲ vi
+امتحان ورودي دانشگاه قبول شدن؛ در دانشگاه
+ثبت‌نام کردن, نام‌نویسی کردن ۳ (کهنه. آموزشی)
+۰ امتحان نهايي را گذراندن
+matriculation /matrkjuler fn /
+ورود به دانشگاه؛ پذیرش در دانشگاه؛ ثبت‌نام ۱ #
+در دانشگاه, نام‌نویسی در دانشگاه ۲ (کهند. آموزشی)
+امتحانِ نهایی
+matrimonial / ۳203 ۵ / (مربوط به) adi
+oo زناشویی. ( مربوط به) ازدواج
+matrimony /'meetrimont, (US) -mawvni/
+w  U=cook Uu:=t00 A=cup =bird a= about
+= near دوع = hair Ua = pure eld = player aro = fire
+6= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1015 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: matrix; matron; matronly; matt; matte; matted; a matter of seconds; be another -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+matrix 10:
+۸ (رسمی) ازدواج» زناشویی» پیوندٍ زناشویی, Nie
+les)! نکاح
+matrix /'mertriks / ( p/ matrices, matrixes)
+۱۳ چارچوب. قالب؛ بافت ۲. (فلز و غیره) قالب؛ (چاپ,
+۱ کامییوتر) Nata .۴ anes pb (bigs) mp ile
+li | خاستگاه. سرچشمه ۵.(ریاضی) جدول PB)
+ماتریس؛ (زبان‌شناسی) جدول مشخصات ۶. شبکه ۷. |
+(زست‌شناسی) 83 میان‌سلّولی ۸.(زیست‌شناسی) eb
+زایشی
+۶ ۱.(درمدرسه و غیره) خدمتگزار  Matron /meitron/
+Alb 3) * (زن) ۷ (در Be goa سالمندان و
+| غیره) مدیرةٌ داخلی؛ سرپرستار ۳ خانم «Soom
+بانوی خانواده, گیس‌سفید؛ زنِ سالمند
+adj ۱. [شخص ] خانم‌بزرگماب, matronly /'mextronz/
+گیس‌سفید؛ [رفتار ] (مربوط به) خانم‌بزرگ‌هاء
+( مربوط 4( گیس‌سفیدها؛ come catia HBL
+«Poe جاافتاده در بیمارستان و غیره) ( مربوط به)
+مدیره‌های داخلی؛ سزپرستاری
+matron of honour / ۵۵۵ av 'pna(r)/
+1 بانوی ساقدوش
+matt /mat/ = mat?
+matte /mat/ = mat?
+adj [مو وغیره] گوریده, کُرک‌شده., ۰ matted /mztd/
+گلوله گلوله, add gad
+03a VN 1 مواد؛ (فلسفه) مادّهی matter’ /'mats(r)/
+Joa مایه ۲.(رسمی) [کتاب. سخنرانی واغیره ]
+موضوع, محتواء مضمون ۳. مطلب, مطالب ۴. قضیّه.
+مسئله, nm ol OWS موضوع ۵. اهمیّت. اعتبار ۶.
+(پزشکی) چرک» چرک و خون, فساد
+a matter of seconds/ 5 ۰
+۷ کمتر از چند ثانیه / متر / ... ۲. بیش از چند ثانیه /
+متر Zn
+موادّ الی organic matter
+se غیرا آلی inorganic matter
+مطالب خواندنی, خواندنی‌ها reading matter
+نامه‌های پُستی. مراسلات؛ postal matter
+بسته‌های پُستی؛ چیزهای پُست‌کردنی
+(روی بسته‌های (ad مطبوعات printed matter
+ul عادی a matter of course
+خودبه‌خود. 4 طور طبیعی  as a matter of course
+عقیده‌ها دراین بار . It's a matter of opinion.
+مختلف است. بسته به عقاید cali اشسخاص است. از
+آدم تا آدم فرق می‌کند. ۱
+بسته به عادت است. It's a matter of habit.
+عادت‌ها فرق می‌کند.
+در gly در وأقع as a matter of fact ool
+در حقیقت, حقیقت BEN است که, خوب بخواهید بدانید...
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+for that matter; for the matter of that
+در واقع ol راستش را بخواهی, خودمانیم
+در موردء از bs به لحاظ, in the matter of
+در خصوص, در باب
+جرمی نیست It is not a hanging matter. Cos
+مجازاتش دار زدن باشد. (مجازی) آدم که نکشته. خون
+که نکرده.
+شوخی نیست. It's no laughing matter.
+دی a!
+iN حدود ۲. فقط, صرفاً, تنها a matter of
+۳ در Sb
+a matter of life and death — life
+اظهرمن‌الشمس بودن, be a matter of record
+مشهور بودن
+همه می‌دانند. قولی است . It's a matter of record.
+که جملگی برآنند.
+کارها را مشکل‌تر کردن, make matters worse
+Flow را پیچیده‌تر کردن, قضایا را بغرنج‌تر کردن, کارها
+راخراب‌تر کردن
+bg به عنوان as a matter of
+[Ve اتفاق It's just / only a matter of time.
+می‌افتد اما کی معلوم نیست. این‌که اتّفاق می‌افتد حستمی
+است اما کی معلوم نیست.
+فقط تمرین It's just a matter of practice.
+می‌خواهد. فقط به تمرین بسته است.
+کار سختی بودن. be no easy matter
+هیچ کار آسانی نبودن ۱
+px د یگر ی be another / a different matter
+بودن. di متفاوتی بودن. Pla چیزی از حساپ
+دیگری جدا بودن
+این یک مسئلةٌ دیگر است. That is another matter.
+این از بح ما خارج است. این دیگر مطرح نیست.
+abs است. ۲ That is the end of the matter.
+مو لای درزش نمی‌رود, Gm al آخر است. oa دیگر
+تغییر نمی‌کند.
+موضوع در حال بررسی. the matter in hand
+Pao مورد بحث, موضوح مطرح‌شده
+در onl مورد.ء دراین in this matter wl
+در این خصوص
+این مسئله خاتمه wily است. The matter is closed.
+دیگر حرفش را هم نزن.
+در Clady کنونی؛ با توجّه به as matters stand
+وضع کنونی |
+موجباتِ گله گزاری, matters of complaint 6 ۰
+اسباپ شکایت ِ
+mind over matter — mind’ 1 ٍ
+(It's / It makes) no matter.
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1016 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: matter-of-fact; matter-of-factly; matter-of-factneSS; matting; mattins; mattock; mattress; maturate; maturatiOn; maturely; mature student; maturity; matzo; maudlin -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+مهم نیست. اهمیّتی ندارد. مسئله‌ای نیست. فرقی نمی
+کنس
+هر که باشد. مهم نیست no matter who 1S
+Boe از Send چه کسی باشد (که), هر که باشد گو
+باش
+۱ هر چه باشد. مهم نیست چی.  no matter what
+صرفی‌نظر از Sel چه چیزی باشد )4( هرچه باشد گو
+باش ۲. تحت هر شرایطی, هر JG) که بیفتد. هر چه
+پیش Ale
+هر LS باشد. مهم نیست کجاء no matter where
+صرف‌نظر از این‌که کجا باشد )48( هر کجا باشد گو باش
+هر طور شده, به هر حیله که.شده.  no matter how
+Ne PP
+چه اهمیّتی دارد؟ What matter?
+مسئله چیست؟ What's the matter?
+موضوع از چه قرار است؟
+چه‌اش است؟ What's the matter with him?
+چه مسئله‌ای دارد؟ مشکلش چیست؟ چه مرضش است؟
+What's the matter with your hand?
+دستت چی شده؟ چه بلایی سر دستت آورده‌ای؟
+What's the matter with trying to help him?
+کمک 90S بهش چه عیب دارد؟
+There's something the matter with the
+موتور یک عیبی دارد. موتور یک چیزیش  engine.
+شده Cand
+انگار نه انگار as if nothing was the matter
+که خیلی چیزها پیش آمده, انگار هیچ چیز نشده, انگار
+هیچ اتفاقی نیفتاده
+چیزی پیش (Is there) anything the matter?
+آمده؟ SUH افتاده؟ مسئله‌ای هست؟ چیزی شده؟
+چیزی نیست. Nothing's the matter.
+مسئله‌ای نیست. چیزی نشده. خبری نیست.
+
+matter? ۱۳ ۵/ مهم بودن, اهمیّت داشتن. Vi
+واجدٍ اهمیّت بودن؛ فرق داشتن؛ فرق کردن, تفاوت
+کردن» توفیر کردن. تفاوت داشتن» توفیر داشتن
+
+It doesn't matter. عیب ندارد. چیزی نیست.
+It matters little. چندان اهمیّنی ندارد.
+It does not matter when you go.
+هر وقت بروید رفته‌آید. مهم نیست کی بروید.
+matter-of-course/mator av kos/ عادی. طبیعی
+matter-of-fact/ mator ov 'fzkt/  ] رفتار an] adj
+
+] بی‌اعتناء بسی‌تفاوت؛ [صدا, لحن 0 pn S25
+[Sim] بی‌حالت, بیاحساس؛ [گزارش ] واقع‌بینانه؛
+خشک, عادی
+
+matter-of-factly /mator ov ۵۸:/ خشکی. adv
+ii=see 1-sit =m=cat a-father D=got Oo:i=s:
+er=say oU=go ar=five aw=now  OI=boy I
+asa = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 maudlin
+با سردی, سرد. بدونِ احساس, بی‌اعتناء بی‌تفاوت
+matter-of-factness/ metar ov خشکی « اه
+
+سردی, بی‌اعتنایی, بی‌تفاوتی
+a ۱.(اسم خاص) ماتیو Matthew /'ma6ju:/
+Y (مذهب) متی ۳ (مذهب) انجیل متی
+۸ ۱. پَلاس؛ زیرانداز کنفی؛ حصیر, matting Pmt)
+۱ بوریا؛ پادري کنفی ۲.(در بسته‌بندی) لابي کنفی
+/'metinz, (US) -tnz/ = matins ۲۵11۳5
+SUS (دوسر) mattock /'matok/
+# تشک mattress /'metris/
+تشک 5( خوشخواب a spring mattress
+Novi بالغ (as رشد یافتن  maturate /'matjurert/
+۲ [میوه و غیره ] رسیدن» پختن ۳ [JS] رسیدن
+Nn بلوغ, رشد / ۳۵/۲ / maturation
+۲. [میوه و غیره ] رسیدن, پختن ۳ [دمل ] رسیدن
+Vi ۱. [حیوان, شخص ] / mature /matjua(r), (US) -twar
+oa dl به Cree بلوغ رسیدن ws] I گیاه ]
+رسیدن, پختن؛ [شراب. پنیرء غیره] عمل امدن, جا
+افتادن ۳. [شخصیّت. سبک و [ob شکل گرفتن, پخته
+pas به کمال رسیدن ۴. [شخص ] پخته شدن, جا
+افتادن ۵. [سفته و غیره] موعد (پرداخت):.. سر
+رسیدن
+الا ۶. [شخصیّت. سبک و غیره ] شکل دادن پخته کردن.
+JUS بخشیدن به؛ [شراب. sy و غیره] Jas آوردن
+.V adj [شخص ] Hb جاافتاده, پخته ۸. [شخصیّت. سبک و
+غیره] پسخته. جاافناده. شکل‌گرفته. کامل,
+به‌کمال‌رسيده .٩ [شراب. پنیر و غیره] عمل‌آمده»
+codon, جاافتاده؛ [میوه دانه ] cody پخته ۱۰. Sis]
+[Jb دقیق؛ [نقشه ] حساب‌شده, سنجیده ۱۱. [سفته و
+غیره ] سررسیده, که موعدش سررسیده است
+[شخص ] جاافتاده, کامل. , of mature years/age
+رسیده, میانسال
+adv خیلی پخته. maturely /matjusl, (US) -twar-/
+ا پختگی؛ Jou آدم‌های Bl
+mature student /matjus ‘stju:dnt, (US) maar 'stu:-/
+۸ (در بریتانیا) دانشجوی پرسن وسال, دانشجوی مسن
+2 ۱. [شخص ] بلوغ, maturity /ma'tjvaratr, (US) -'tsa-/
+al a JS رشد؛ پختگی. جاافتادگی (Jy
+سررسید. Ae ge پرداخت. وعده
+adj (رسمی) / لاس matutinal /ma'tju:tmnt, (US)
+صبحگاهی, بامدادی, (مربوط 4( صبح
+1 (در matzo /'maztssu/ (pl matzos) ob (clasp
+فطیره ما ۱ ۰
+ad احساساتی؛ ملول, دلننگ؛  maudlin /modim/
+[لحن ] پر از دلتنگی
+
+w u=cook u:=t00  A=cup 3: = bird 9= about
+
+= near  ¢d= hair U3 = pure ela = player ara = fire
+
+6= thin 8= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1017 -->
+
+
+### VISUALLY CHECKED EXCERPT — WORDING REVIEW 1
+
+The following checked text supersedes conflicting raw OCR only within its stated scope. Pronunciations and unlisted material remain unreviewed.
+
+PDF PAGE: 1017
+PRINTED PAGE: 1038
+REVIEW SCOPE: Listed wording and examples on this page, without pronunciations. The entry may (1) continues on PDF page 1018.
+
+PHRASE: get maudlin
+احساساتی شدن، تو خود فرورفتن، تو هم رفتن
+
+ENTRY: maul
+vt ۱. تکه‌تکه کردن، لت و پار کردن، تکه و پاره کردن، له و لورده کردن ۲. اذیت کردن، آزار رساندن ۳. (مجازی) [کتاب، نویسنده] به باد انتقاد گرفتن، خدمت ... رسیدن، درب و داغون کردن، به جان ... افتادن
+
+ENTRY: maulstick
+n (نقاشی) چوب تکیه، چوب زیر قلم، چوب زیردستی
+
+ENTRY: maunder
+vi ۱. ول گفتن، هرزه‌گویی کردن، پراکنده‌گویی کردن؛ مزخرف گفتن، چرت و پرت گفتن، شر و ور گفتن، پرت و پلا گفتن ۲. ول گشتن، پرسه زدن، هرز گشتن ۳. پراکنده‌کاری کردن، به هر کاری نک زدن
+
+ENTRY: Maundy Thursday
+n (مذهب) پنجشنبه مقدس، روز پاشویان
+
+ENTRY: Mauritania
+n موریتانی
+
+ENTRY: Mauritius
+n جزیره موریس
+
+ENTRY: mausoleum
+n آرامگاه، بقعه، مقبره، مرقد
+
+ENTRY: mauve
+n,adj (رنگ) ارغوانی روشن، قفایی، پشت‌گلی
+
+ENTRY: maverick
+n (در آمریکا) ۱. گوساله بی‌صاحب، گوساله ولگرد ۲. (مجازی) (آدم) ناسازگار، آدم خودرأی، آدم سرکش، آدم تکرو، آدم خودمدار
+adj ۳. خودمدار، تکرو، خودرأی، ناسازگار؛ [رفتار] خودمدارانه
+
+ENTRY: mavis
+n توکای سینه‌سفید
+
+ENTRY: maw
+n ۱. [چهارپایان] شیردان؛ [پرنده] چینه‌دان ۲. (مجازی) دهان، کام
+
+ENTRY: mawkish
+adj ۱. احساساتی، سوزناک، پرسوزوگداز؛ کودکانه ۲. بی‌مزه، بی‌روح، بی‌بو و خاصیت؛ تهوع‌آور
+
+ENTRY: mawkishly
+adv ۱. به طرزی احساساتی، سوزناک، پرسوزوگداز؛ کودکانه ۲. به طرز بی‌مزه‌ای، بی‌مزه، بی‌روح؛ به طور تهوع‌آوری
+
+ENTRY: mawkishness
+n ۱. حالت سوزناک، حالت پرسوزوگداز؛ حالت کودکانه ۲. بی‌مزگی، بی‌روحی؛ حالت تهوع‌آور
+
+ENTRY: max
+Abbreviation of maximum; n
+
+ENTRY: maxi
+n ۱. ماکسی، لباس بلند؛ دامن بلند
+adj ۲. [لباس، دامن] بلند، ماکسی
+
+ENTRY: maxim
+n پند؛ قول (حکیمانه)، سخن (خردمندانه)؛ شعار؛ ضرب‌المثل، مثل
+
+ENTRY: maxima
+Plural of maximum
+
+ENTRY: maximal
+adj حداکثر، بیشترین حد
+
+ENTRY: maximisation
+= maximization
+
+ENTRY: maximise
+= maximize
+
+ENTRY: maximization
+n گسترش هر چه بیشتر، رسیدن به حداکثر؛ به حداکثر رساندن، دستیابی هر چه بیشتر؛ استفاده هر چه بیشتر؛ بیشینه‌سازی
+
+ENTRY: maximize
+vt ۱. به حداکثر رساندن، به منتها درجه گسترش دادن، به بیشترین حد رساندن ۲. بیشترین استفاده را از ... کردن، حداکثر استفاده را از ... کردن
+
+ENTRY: maximum
+Plural: maximums, maxima
+n ۱. حداکثر، بیشترین، بیشترین حد، ماکزیمم
+adj ۲. حداکثر، بیشترین حد، ماکزیمم
+EXAMPLE: 81 marks out of a maximum of 100
+۸۱ نمره از ۱۰۰ نمره
+PHRASE: at the maximum
+تا (حداکثر)، حداکثر
+PHRASE: to the maximum
+تا حداکثر، تا آنجا که میسر است، با منتها درجه (ممکن)
+
+ENTRY: may (1)
+Past tense: might
+auxv ۱. بیانگر امکان و احتمال؛ در این حالت might برای آینده و might have برای گذشته به کار می‌رود؛ معادل ممکن بودن، احتمال داشتن، توانستن، شدن، (چه) بسا که، شاید:
+EXAMPLE: That may be true.
+می‌تواند / چه بسا درست باشد.
+EXAMPLE: He may have believed it.
+ممکن است آن را باور کرده باشد.
+PHRASE: as soon as may be
+به محض این که ممکن باشد، همین که ممکن شد، در اسرع وقت
+PHRASE: be that as it may
+(رسمی) گیرم که چنان باشد، هر طور که باشد
+EXAMPLE: You may well say so.
+درست است که این‌طوری بگویی.
+PHRASE: may (as) well
+حق داشتن، توانستن، حق است که، درست است که
+۲. بیانگر اجازه و درخواست؛ به صورت might بیانگر تردید؛ معادل توانستن، اجازه داشتن:
+EXAMPLE: You may come if you wish.
+اگر دلتان می‌خواهد می‌توانید بیایید.
+EXAMPLE: May I have a word with you?
+اجازه می‌دهید چیزی به شما بگویم؟ می‌توانم یک چیزی بهت بگویم؟ می‌خواهم باهات حرف بزنم.
+EXAMPLE: Might I see it?
+اجازه می‌فرمایید ببینمش؟
+EXAMPLE: May I?
+اجازه می‌دهید؟ اجازه دارم؟
+۳. به صورت might بیانگر پیشنهاد؛ معادل خوب است، بهتر است؛ خوب بود، بهتر بود:
+EXAMPLE: You might try writing to him.
+بهتر است برایش بنویسی.
+EXAMPLE: You might have told me you weren't coming!
+خوب بود می‌گفتی که نمی‌آیی! لااقل می‌توانستی بگویی که نمی‌آیی!
+CONTINUES: PDF page 1018, may (1), sense 4 onward.
+
+<!-- END VISUALLY CHECKED EXCERPT — WORDING REVIEW 1 -->
+
+The original unverified OCR is retained below for unlisted material and audit. Conflicting readings within the checked scope are superseded by the checked excerpt above.
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: maul; Mauritania; maximisation; maximization; mawkishness; max lmreks; maxi -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+maul 10:
+| احساساتی شدن, تو خود فرورفتن, get maudlin
+opr
+۷۷ ۱. تکه‌تکه کردن. لت و پار کردن؛ maul /mo:1/
+| تکّه و پاره کردن له و لورده کردن ۲.اذیت کردن.
+آزار رساندن ۳.(مجازی) [کتاب. نویشنده ] به باد؛انتقاد
+گرفتن, خدمت...رسیدن, درب و داغون کردن, به
+جان...افتادن |
+۲ (نقاشی) چوب ASS 17
+چوپ زیر قلم» چوب زیردستی
+ول گفتن, هرزه‌گویی  maunder /monda(t)/
+کردن, پراکنده گویی کردن؛ مزخرف گفتن. چرت و
+پرت گفتن» شرّ و ور گفتن. پرت و پلا گفتن ۲ ول
+quad سل بژدن. هرز کشاشن: ۳ پراکنده‌کاری
+کردن, به هر کاری SS زدن
+nn (مذهب) Maundy Thursday /mo:ndr 03:zdi/
+ode Atay روز پاشویان
+۸ موریتانی / Mauritania /moar'temnta
+جزيرةٌ موریس Mauritius /ma'n fos/
+2 آرامگاه Mausoleum /mosaliom/ co ia candy
+مرقد
+nad (رنگي) ارغوانی روشن, قفایی. mauve /mav/
+CMe
+(در آمریکا) 1 § maverick /mavark/ Maa
+بی‌صاحب., گسوسالة ولگرد ۲.(مجازی) (آدم)
+ناسازگار, po! خودرای. PS ow ps! ادم تک‌رو.
+ادم خودمدار
+XY adj خودمدان تک‌ری خُودزای ناسازگار؛ [رفتار ]
+خودمدارانه
+12 توکای سینه‌سفید mavis /'mervis/
+۸ ۱. [چهارپایان ] شیردان؛ [پرنده ] چینه‌دان /:1۳۵/ maw
+۲ (مجازی) دهان, کام
+ad) ۱.احساساتی, سوزناک. اند / mawkish
+پرسوز وگداز؛ کودکانه ۲ بی‌مزه» بی‌روح» بی‌بوو
+خاصیت؛ تهوع اور
+adv . به طرزی احساساتی. /۳۵:/۱/ mawkishly
+سوزناک: پرسوزوگداز؛ کنودکانه Sb A
+بی‌مزه‌ای» بی‌مزه» بی‌روح؛ به طور تهوع‌آوری
+cdl .۱ سوزناک. mawkishness /mokifms/
+cil پرسوزوگداز؛ cle کودکانه ۲. نجی عمزاگی.
+بی‌روحی؛ حالتِ تهوع اور
+max /maks/ < maximum n
+انش ماکسی: oo بلند؛ دامن maxi /'maksi/ Ad
+UT .۲ دامن ] بلند. ماکسی
+پند؛ قول maxim / ۳5 (las)
+سخن ( خردمندانه )؛ شعاز؛ ضرت‌المتل. مثل
+maxima /'maksima/ p/ of maximum
+ad) حدّاکثر, بیشترین حد maxima! / meksimi/
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+maximisation / maksimar'zei fn, (US) -m1'z-/
+= maximization
+maximise /'maksimaiz/ = maximize
+maximization /maksmmar'zei fn, (US) -m1'z-/
+به Se گسترش هر چه بیشترء رسیدن به ۸
+بیشتر؛ استفادةٌ an دستیابی هر pail Shas
+هر چه بیشتر؛ بیشینه‌سازی
+maximize /'maksmarz/  .ندناسر به حداکثر .۱ 74
+So به منتها درجه گسترش دادن به بیشترین
+رساندن ۲. بیشترین استفاده را از...کردن,» حداکثر
+استفاده را از... کردن
+1۵211111010 / maksimam/( p/ maximums, maxima)
+ماکزیمم Gi بیشترین» بیشترین ASU .۲
+pe Se thom ای Rdg حداکثر. ۲ adj
+81 marks out of a maximum of 100
+Veo مره از AY
+at the maximum تا ( حداکثر ). حداکثر
+to the maximum که میسر است. (EH) تا حداکثر, تا
+درجه ( ممکن) ga با
+may’ /met/ { pt might) : Js امنکان و Ab AN auxy
+ببرای might have برای آیینده و might در این آخالت
+اختمال 5,3 6d اسمکن Jala Bas MA گذشته +
+ale بسا که (45) OR CECI Py داشتن:
+71 hay be rie. ۳ افمی‌تواند/ چه بسا دُرشتی باش
+He may have believed it. ده باشد, Bs seb) ol ممکن اس
+as soon as may be به محض این‌که ممکن باشد. :
+۱ : همین‌که ممکن شد. در اسزغ وقت
+00 1081 as از may asl pls i گیرم (a)
+IEE CUP ST هر
+You hay well say so. i درست,است که این طوونی/بگو
+may (as) well حق داشتن, توانستن: حق است که..
+i Ea te مت روا
+تردید؛ Sik might Ops بیانگر اجازه و ذزخواست؛ به .۲
+معادلی توانستن, اجازه داشتن: :
+نا You may comé if you wish: ERT PPO A TO اگر
+tpg, ۰ راد روما و As مرن
+May 106 aword with you? به شا She اجازه می‌دهيد :
+Obl al بگنویم؟ sg بگویم؟ می‌توائم یک چیزی
+و a
+رم هاوگ aon State اجازه می‌فرمائید
+May 1? Th Se tla Sada ATA
+ied Gp معادل olga پیانگر might به طورت ۳:
+: ۱ SRY C7 وان بو oii هر :
+رل might try writing 0 ih, A NE, بهتر است برایش بو
+۰ You ight have told wie you fies 1 coming! 7 :
+: بگلویی که pl NT خوب,بود می‌گفتی که
+NSO MER اون ات زک
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1018 -->
+
+
+### VISUALLY CHECKED EXCERPT — WORDING REVIEW 1
+
+The following checked text supersedes conflicting raw OCR only within its stated scope. Pronunciations and unlisted material remain unreviewed.
+
+PDF PAGE: 1018
+PRINTED PAGE: 1039
+REVIEW SCOPE: Listed definitions, examples, and both usage notes, without pronunciations or the pronunciation key. This continues may (1) from PDF page 1017.
+
+CONTINUED ENTRY: may (1)
+۴. بیانگر بی‌اطلاعی و درخواست اطلاع؛ معادل ممکن بودن، توانستن:
+EXAMPLE: How old may she be?
+چند ساله می‌تواند باشد؟
+۵. بیانگر آرزو و امید؛ معادل امیدوار بودن (که)، امید است (که)، باشد (که)، (ای) کاش، آرزو کردن (که):
+EXAMPLE: May you both be happy!
+امیدوارم / کاش هر دو نفرتان شاد باشید!
+۶. بیانگر درخواست و تقاضا؛ معادل درخواست کردن، خواهش کردن، لطفاً:
+EXAMPLE: You might do me a favour.
+خواهش می‌کنم لطفی در حق من بکن!
+۷. برای التزامی کردن فعل، بدون معادل دقیق:
+EXAMPLE: I think you might offer to help.
+فکر می‌کنم می‌شود از تو خواست که پیشنهاد کمک بکنی / که پیش بگویی حاضری کمک کنی.
+EXAMPLE: He died so that / in order that others might live.
+او مرد تا دیگران زندگی کنند.
+EXAMPLE: I'm afraid the news may be true.
+می‌ترسم که خبرها راست باشد.
+
+USAGE NOTE: may / may not / can / cannot / could / must not
+نکته کاربردی:
+آداب‌دانی: فعل معین may و صورت منفی آن، یعنی may not را هنگامی به کار می‌بریم که بخواهیم، مؤدبانه و به طور نسبتاً رسمی، درخواست چیزی کنیم یا اجازه کاری بدهیم یا از دادن اجازه‌ای خودداری کنیم:
+May I borrow your newspaper?
+You may come if you wish.
+فعل معین may اغلب در صورت نوشتاری به کار می‌رود:
+Visitors may use the swimming-pool between 7 am and 7 pm.
+Students may not use the college car park.
+کودکان اغلب، به هنگام سخن گفتن با افراد بالغ، از فعل معین may استفاده می‌کنند:
+Please may I leave the table? - No, you may not.
+باید توجه داشت که در انگلیسی امروزی، صورت کوتاه‌شده mayn't، تقریباً هیچ‌گاه مورد استفاده قرار نمی‌گیرد.
+افعال معین can و cannot (یا can't) برای صدور اجازه یا خودداری از آن به کار می‌روند:
+You can come with us if you want to.
+You can't leave your bike there.
+فعل معین could، که کلمه‌ای است خنثی و حالتی مؤدبانه دارد، عمدتاً به هنگام طرح یک درخواست به کار می‌رود:
+Could I use your phone? - Yes, of course.
+هم در انگلیسی بریتانیایی و هم در آمریکایی، هرگاه نسبت به تحقق امری مطمئن نباشند، از could استفاده می‌کنند:
+Could I possibly arrange to see the director?
+صورت‌های must not، mustn't یا not be allowed to را هنگامی به کار می‌برند که بخواهند بگویند شخصی اجازه انجام کاری را ندارد:
+We mustn't wear make-up to school.
+You are not allowed to smoke anywhere in the building.
+فعل معین may، به هنگام سخن گفتن درباره احتمالات نیز به کار می‌رود.
+
+ENTRY: may (2)
+n (گیاه) ولیک، سرخ ولیک؛ گل ولیک
+
+ENTRY: May
+مه (= ماه پنجم سال میلادی)
+
+ENTRY: maybe
+adv شاید، ممکن است، احتمال دارد
+PHRASE: as soon as maybe
+در اسرع وقت، همین که ممکن شد
+PHRASE: that's as maybe
+گیرم که چنین باشد، به فرض که چنین باشد؛ خب ممکن است
+
+USAGE NOTE: maybe / perhaps / may be
+نکته کاربردی:
+آداب‌دانی: کلمات maybe و perhaps هر دو معنای «شاید» یا «ممکن است» را می‌رسانند؛ اما maybe غیررسمی‌تر است. وقتی با دوستی صحبت می‌کنیم یا برایش نامه می‌نویسیم می‌گوییم:
+I'll maybe see you in August.
+اما خطاب به کسی که او را به خوبی نمی‌شناسیم می‌گوییم:
+Perhaps we could meet next week.
+در گزارش یا در داستان می‌نویسیم:
+New York is perhaps the most interesting city in the US.
+و در سخنرانی‌ها می‌گوییم:
+Perhaps in closing I could just thank everyone for coming.
+در جمله بالا کاربرد maybe به جای perhaps خودمانی‌تر است.
+نکته املایی: maybe وقتی به معنای «شاید» یا «ممکن است» باشد همیشه به صورت یک کلمه واحد نوشته می‌شود:
+Maybe it'll be fun.
+این جمله را با جمله زیر مقایسه کنید:
+It may be fun.
+
+ENTRY: may-beetle
+n سوسک طلایی
+
+ENTRY: may-bug
+= may-beetle
+
+ENTRY: May Day
+n ۱. روز کارگر، اول ماه مه ۲. روز جشن بهاران
+
+ENTRY: MayDay
+= mayday
+
+ENTRY: mayday
+n (هوانوردی، دریانوردی) (پیام) کمک، استمداد
+
+<!-- END VISUALLY CHECKED EXCERPT — WORDING REVIEW 1 -->
+
+The original unverified OCR is retained below for unlisted material and audit. Conflicting readings within the checked scope are superseded by the checked excerpt above.
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: May; maybe; may-bug; May Day; MayDay; mayday -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+I
+بیانگر بی‌اطّلاعی و درخواستِ اطلاع؛ معادل ممکن بودن,, ۴
+توانستن:
+How old may she be? چندساله می‌تواند باشد؟
+اسید (485) og معادل امیدوار rial و 3538 Sly ۵
+آرزو کردن(که):: (AE (ای) aS) اس( که ): باشد
+May you both be happy! امیدوارم ./ کاش جر دو نفرتان ۱
+شاد باشید!
+(33S Caml gd درخواست و تقاضا؛ معادل د Sb oF
+لطفاً: (IS! اخواهش
+You might do me a favour. a= آخواهش می کنم لطفی در
+debe من
+۱ معادل دفیق: NERY برای التزامی کردن فعل, ۷۰,
+oA think you might offer 10 help. 35 می‌شود از 45 Seo
+. پیشنهاد کمک یکنی / که پهش بگویی خاضری, Key
+: : BEER A
+He died so thar 7 in order that others might Hii,
+| ,و مُردتا دیگران زندگی کنند.
+Im afraid the news may be true. که خبرها oF
+BR SR J ie ECE) :
+کار بردی: Ss
+آداب‌دانی: فعل معین ۲۸۷ و صورتِ منفی آن. یعنی
+را هنگامی به کار می‌بریم که بخواهیم. موّدیانه و may not
+نا رسمی, درخواست چیزی کنیم یا اجاز؛ کاری sob به
+بدهیم یا از دادن اجازه‌ای خودداری کنیم:
+May I borrow your newspaper?
+You may come if you wish.
+اغلب در صورتِ نوشتاری به‌کار می‌رود: may gore Jud
+Visitors may use the swimming-pool between
+7 am and 7 pm.
+Students may not use the college car park.
+بالغ. از ald کودکان اغلب, به هنگام سخن گفتن
+استفاده می‌کنند: may one Jad
+Please may I leave the table? _ No, you may not.
+باید توجه داشت که در انگلیسی امروزی, صورتِ کوتاه
+قَریباً هیچگاه مورد استفاده قرار نمی‌گیرد. 1122781 ju |
+برای صدورِ (can't L) cannot 4 can افعال معین |
+اجازه یا خودداری از آن به‌کار می‌روند:
+You can come with us if you want to. |
+You can't leave your bike there. |
+کلمه‌ای است خنثی و حالتی could فعل معین |
+مژدبانه دارد, عمدتاً به هنگام طرح یک درخواست به‌کار |
+می‌رود: i
+Could I use your phone? _ Yes, of course.
+هم در انگليسي بریتانیایی و هم در آمریکایی, هرگاه
+استفاده could مطمئن نباشند. از (gl GER نسبت به
+می‌کنند:
+معا 1=sil ®m=cal 0 1006۲ D0=gol  ۵
+cl = say w=go  ai=five av = now or =boy 12
+ava = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+39 mayday
+i Could I possibly arrange to see the director?
+not be allowed یا mustn't .must not صورت‌های
+را هنگامی به‌کار می‌پرند که بخواهند بگویند شخصی ۵
+1 اجازهٌ انجام کاری را ندارد:
+i We mustn't wear make-up to school.
+i You are not allowed to smoke anywhere in the
+building.
+!. هنگام سخن گفتن دربار؛ احتمالات may معینِ Jud
+’ نیز به‌ کار می‌رود.
+: may? /۳۵:/ ولیک J (گیاه) ولیک. سرخ ولیک؛ 7
+| May /mer/ مه )= ماه پنجم سال میلادی) n
+maybe /meibic/ احتمال دارد cand شاید., ممکن 0
+as soon as maybe در اسرع وقت, همین‌که ممکن شد
+1۳۸/۶ as maybe کم که جنین باشد., به فرض که
+ْ چنین باشد؛ خب ممکن است
+| نكتةٌ کار بردی:
+| هر دو معنای perhaps و maybe CLAS": ils آداب
+| maybe «شاید» با «ممکن است» را می‌رسانند؛ اما
+غیررسمی‌تر است. وقتی با دوستی صحبت می‌کنیم یا
+برایش نامه می‌نویسیم می‌گوییم:
+I'll maybe see you in August.
+اما خطاب به کسی که او را به خوبی نمی‌شناسیم می‌گوییم:
+Perhaps we could meet next week.
+در گزارش یا در داستان می‌نویسیم:
+New York is perhaps the most interesting city
+in the US.
+و در سخنرانی‌ها می‌گوییم:
+Perhaps in closing I could just thank everyone
+for coming.
+خودمانی تر perhaps جای maybe بالا کاربرد de> در
+اشست:
+وقتی به معنای «شاید» یا «ممکن maybe املایی: is
+واحد نوشته WSS است» باشد هميشه به صورتِ
+می‌شود:
+Maybe it'll be fun.
+کنيدة alin 555 dlr ای جمله را با
+It may be fun.
+may-beetle /'mer 7 طلایی Sep
+may-bug /'mer bag/ = may-beetle
+May Day /mer der/ روز کارگر, اول ماو مه Nn
+روز جشن بهاران .۲
+MayDay /'meider/ = mayday ’
+mayday /'merder/ (ple) (هوانوردی, دریانوردی) 2
+اشنتمداد (Sas
+v  u=cook u:=100 A=cup bird a= aboul
+- near a = hair U2 = pure elo = player ana = fire
+6= thin d= this J = shoe 3= vision 1 = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1019 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mayfly; mayhem; mayn't; mayo; mayonnaise; mayor; mayoral; mayoralty; maypole; May Queen; mazed; MB; MBA; MBE; MC; MCC; McCarthyism; McCoy; MCP; MDT -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+Mayfair 104
+Mayfair /'meifea(r)/ (oad می فر (در Mann |
+mayfly /'meiflar/ یک روز is, و
+mayhem /'methem/ ۱.(نز در آمریکا: کهنه) مثله ۶
+کردن؛ علیل کردن, ناقص کردن ۲. آشوب. بلوا,
+جنجال, غوغاء, قشقرق, بی‌نظمی. درهم‌ریختگی؛ i
+خرابی» ویرانی
+mayn't /ment/ = may not
+mayo /mewos/  زنویام (در آمریکا محاوره) (شس) 7 :
+mayonnaise / meisnerz, (US) meranerz/ i
+(شسي) مایونز ۶
+mayor /mear, (US) ‘metar/ شهردار n
+mayoral /'mearal, (US) ‘mero-/ (a (مربوط adj
+; شهردار
+mayoralty /'mearalti, (US) 'merar-/ دورهة .۱ nm |
+شهرداری ۲ (منصب) شهرداری, مقام شهرداری |
+mayoress /mea'res, (US) 'metaras/ ۱.خانم n |
+(os) Shoes شهردار» همسرٍ شهردار |
+maypole /‘mepasl/ ad, (در جشن بهاران) ستون 1 |
+May Queen /'mer kwi:n/ ملک جشن بهاران ٍ
+maze /۳۵2/ تودرتو bao پیچ در پیج Sz
+co dz AS لابیرنت ۲.(مجازی) هزارتی هزارچم.
+مارپیچ؛ ( روان‌شناسی) ماز (lana) ۳ سردرگم SHS
+bein a maze بودن. سردرگم بودن, حیران بودن. =
+سرگشته بودن, سرگردان بودن
+mazed /۳۵::4/ سردرگمء حیران, سرگردان. oul adj
+سرگشته
+mazurka /mazska/ (رقص) مازورک؛ n
+مازورکا Seal
+MB /em bi:/ > Bachelor of Medicine( ix) .\ 4
+.۲ کارشناسي پزشکی, (درجة) لیسانس طب
+ليسانسية طب. (دارند؛ٌ درجهٌ) لیسانس طب
+MB? /'megabatt/ < megabyte
+MBA /em bi: 'e1/ > Master of Business
+Administration a2) ۱.(درجهٌ) کارشناسی a
+ane بازرگانی, (درجه) فوقي لیسانس Cu pe
+بازرگانی ۲. کارشناس ارشدٍ مدیریتِ بازرگانی,
+درجهٌ) فوق لیسانس مدیریتِ بازرگانی 80500)
+MBE / em bi: 'i:/ < Member (of the Order) of
+the British Empire لیاقتِ plas دارندة ۸
+: امپراتوری بریتانیا
+1۸6۱/۵ 'si:/ > master of ceremonies  سیئر 7
+تشریفات
+۲۷62/۵۵ 'si:/ < Member of Congress (در آمریکا) n°
+نمایندةٌ کنگره
+MC? /em 'si:/ > Military Cross las (در بریتانیا) ۸
+صلیب نظامی
+MCC /em si: 'si:/ < Marylebone Cricket Club
+
+<!-- REGION: RIGHT COLUMN -->
+
+)
+(در بریتانیا) کلوپ کریکتِ مری‌له‌بون, فدراسیون a
+کریکتِ بریتانیا
+McCarthyism /maka:6uzam/ (سیاسی) مک 1
+چپ‌زدایی (BI کار تیسم, چپ‌ستیزی
+McCoy /makar/
+the real McCoy (عامیانه) خودش, خودٍ خودش nm
+MCP / ۵۳ si: pi:/ > male chauvinist pig (محاوره) 7
+کثیف Ysa مردسالار, So
+MD! /em'di:/ > Doctor of Medicine پزشک. ۸
+دکتر
+۲۸۵۶ / em ۵: / > Managing Director (محاورة) 7
+مدیرعامل
+MD3 / em 'di:/ > mentally deficient sleds adj
+ذهنی
+MDT / em di: 'ti:/ > Mountain Daylight Time
+تسابستاني کوهستانی, وقتِ Shy (Sy ul (در 1
+ی Sess
+me! /mi:/ BENS شخصضن:مفرد در Jb ead pron
+امقعولی مسندی و نیز پس از خرف اضافه, معبادل من مر
+Don't hit met: ۳ / iL 1 مر | نز
+تین ito nie! : A آن را یوم fom زا باه of 4
+Hello ir's me. x Fav ان و Sade
+کار بردی: ASS
+than sas DLS آداپ دانی: در محاوره: معمولاً بعد از
+و 0۳ در هر عبارتی که 200 eal و 0 0۶ Jad یا بعد از
+جمله محسوب می‌شود. عمدتاً از صورت‌های Jobb
+استفاده می‌کنند: them و us ۰.۳۳۱ 6
+I'm not as pretty as her.
+She's older than him.
+It's them.
+Tanya and me are off to Acapulco.
+جملةٌ اخیر را حتی به این صورت نیز می‌توان بیان کرد:
+Me and Tanya are off to Acapulco.
+| در نوشته‌های بسیار رسمي و یا بسیار کهنه ممکن است
+۷۷۵ he she I به جای صورت‌های آاخیر از صورت‌های
+استفاده کنند: they و
+| None was as rich as he.
+بسیار رسمی UE استفاده از صورت‌های اخیر در محاوره
+جلوه می‌کند و حتی حالتی متکیّرانه به کلام می‌دهد:
+: It was they.
+My husband and I are going to the opera.
+بیان Kos برای پرهیز از مسئلة اخیر می‌توان از شیوه‌های
+استفاده گرد:
+No one was as rich as he was.
+They were the ones.
+; I am going to the opera with my husband.
+i me2 /mi:/ = mi
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1020 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mead; meadow; meagrely; meagreness; mealie; mealy-bug; mean; be no mean writer; the happy -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+شراب J شراب انگبین mead /mi:d/
+7 (ادبی) مرغزار» چمن. راغ mead? /mi:d/
+مرغزار, علف‌زار, جمن‌زار؛  meadow /medos/
+
+Er
+meager /'mi:ga(r)/ (US) = meagre
+meagerly /'mi:gali/ (US) = meagrely
+meagerness /'mi:gonis/ (US) = meagreness
+meagre /'mi:ga(r)/ نحیف, تکیده. LEY LN ad)
+ناچیز؛ (Sash استخوانی. نزار ۲. [غذا و غیره] کمء
+ناکافی؛ [زندگی ] محقر, محقرانه
+meagrely /'mi:gali/ کمی. به میزان lia 4 adv
+Cs ناچیزی. خیلی کم. بسیار اندک؛ با
+meagreness /'mi:gonis/ لاغری, تکیدگی. .۱
+نحیف بودن ۲. کمی, اندک بودن, ناچیزی
+meal’ /mi:l/ خوراک Jie .۲ غذا sass .۱
+have a meal غذا خوردن
+make a meal of sth (محاوره) وقت و نیروی
+زیادی سر چیزی گذاشتن
+a square meal -+ square’ .
+meal? 1 آرد درشت. بلغورء پُلکو a
+mealie /mili/ 33 (در آفریقای جنوبی) ۱.(در جمع) 4
+کاکل ذرّت. ریش ذرّت ۲
+meals-on-wheels /milz on ‘wiz, (US) hwilz/
+غذارسانی (mes) npl
+meal-ticket /'mi:l tikit/ امرار emg ۱.(محاوره) 7
+معاش ۲.(در آمریکا) Lan رزق وروزی» Mas معاش,
+بن نهار
+mealtime /۳::۱:۵::۳/ وقتِ غذا, موقع غذا خوردن
+mealy /'mi:li/ (comp mealier, super mealiest)
+آرد. Jia ۱.(مربوط به) آرظ آردی ۲ آردمانند. ad
+Joo پودری» «Sti سیب‌زمینی و غیره] wan] اردی؛
+آرددار ۴ [چهره] رنگ ۳ SESS آرد؛ [چهره]
+پریده, زردرنگ, رنگ‌باخته
+mealy-bug /'mi:li bag/ hil (خانون اکتناوروی) nn
+Poa lat
+mealy-mouthed / mil ‘mavdd/  دقاف ) تحقیر 4) ad)
+که دوپهلو حرف می‌زند Siegen صراحتِ لهجه.
+mean’ /mi:n/ (comp meaner, super meanest)
+مفلوک. محتّر, حقیر. (Cn [ظاهر, خانه و غیره] ad)
+۳ فکسنی ۲. [رفتار] زشت؛ [حقه] کثیف» رذیلانه
+[شخص ] پست. فرومایه. رذل, لیم ناکس,
+پست‌فطرت ۴.(کهنه) [شخص ] بی‌اصل و نسب.,
+بی‌سروپاء بداصل ۵.کم‌مایه. بی‌مایه. پیش‌پاافتاد»
+نازل ۶. خسیس, ناخن خشک, گدامنش. تنگ‌نظر,
+نظرتنگ ۷. (محاوره) خجالت‌زده, شرمنده ۸.(در
+i=see هقالع a-=father D=got o:i=s
+el = say تاه = go ar = five ay = now a1 =boy 7
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+i mean
+(محاوره) A D8 آمریکا) بدطینت. بدجچنس. خبیت.
+قهّار. ماهر؛ ماهرانه
+take a mean advantage of sb  یسک Sol از
+سوء استفاده کردن
+You mean thing! (250 محاوره, در خطاب به (
+پدرسوخته! حرامزاده!
+You were mean to me. خوب رفتاری با من !
+نکردی. با من بد کردی.
+That was mean of them. کار قشنگی نکردند.
+کار خوبی نکردند.
+be no mean writer / golfer گلفت‌باز ffi
+کوچکی نبودن
+be no mean feat نبودن wll کار
+the meanest intelligence بی‌شعورترین افراد.
+کم‌هوش‌ترین افراد
+feel mean about sth (محاوره) از جیزی خجالت‌زده
+بودن, از چیزی احساس شرمندگی کردن
+play a mean piano استاد بودن, پیانو gly در
+خوب زدن
+mix a mean cocktail در کوکتل درست کردن
+رودست نداشتن, کوکتل خوب درست کردن
+mean? /min/ [قیمت, حرارت و غیره ] متوسط
+mean3 /min/  .نیگنایم وسط, a> ۱.متوسط, 2
+معدل ۲.(ریاضی) معدل, میانگین
+the happy / golden mean Jlazel . میانه‌روی
+mean* /mi:n/ (prpp meant) (og... SLi wr
+Jb را رنخاندن. ooo به معنلی ... بسودن. مسعنی
+بر... بودن؛ دلالت کردن بر, دلالت داشتن بر؛ منتهی
+wl Sy شدن بهء در پی داشتن. به دنبال داشتن
+عبارت ] معنی دادن, به معنی ...بودن, معنی ...دادن
+خیال mals یعنی ۳ قصد داشتن, خواستن» در:نظر
+داشتن (که)؛ مصمّم بودن (که) ۴. اهمیّت داشتن.
+اعتبار داشتن. مهم بودن, آرزش داشتن» ارزیدن» به
+اندازةٌ... ارزش داشتن
+What does that word mean? What is meant
+by that word? این کلمه چه معنایی دارد؟
+این کلمه یعنی چه؟
+What does it mean to be free? ازاد بودن
+معنایی دارد؟ am یعْنی چه؟ آزاد بودن
+mean sth to sb عبارت و غیره ] برای کسی as]
+آشنا بودن
+What do you mean (by that)? منظورت
+از این حرف ) چیست؟ چه می‌خواهی بگویی؟ (
+I meant it as a joke. منظورم شوخی بود.
+شوخی داشتم. dad داشتم شوخی می‌کردم.
+Ww uy=cook u:=to0  A=cup 3: = bird 3= about
+= near ¢3 = hair U3 = pure وه = player aio = fire
+0- ۵- this ]- 4 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1021 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: I meant t; meander; meanie; meaningful; meaningfully; meaninglessly; meaninglessness; meaningly; meanneSS -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+meander 10
+Is this figure meant to bea 1 or a 7?
+آیا منظور از این رقم 1 است يا 7؟ از این رقم 1 را اراده
+کرده‌اند یا 7 را؟
+منظورت من هستم؟ با منی؟ Do you mean me?
+دارم می‌روم. I'm going, I mean it.
+جدّی می‌گویم.دارم می‌روم. شوخی نمی‌کنم.
+منظورم این است که. می‌خواهم بگویم که. I mean
+یعنی ...
+This is Herbert, I mean Humbert.
+این هربرت است. نه می‌خواستم بگویم هامبرت است.
+می‌خواهی بگویی (#که )اه you niean (to say)
+تعنی PUSH IE FCT CIP SI
+mean business — business
+sal شوخی داشتن, dad بازی mean mischief
+داشتن؛ قصد اذیت داشتن, قصد ols St
+می‌خواهد شوخی کند. He means mischief.
+قصر cust دارد.
+حسن‌نیّت داشتن, نظر خیر داشتن, mean well
+03 خوب aad mils بدی نداشتن
+به کسی حسن‌نیّت داشتن mean well by sb 5
+قصدی نداشتن, منظور بدی mean no harm (to)
+نداشتن» غرض و مرضی نداشتن
+این را برای پسرم I meant this for my son.
+می‌خواستم. می‌خواستم این را به پسرم بدهم.
+به درد... خوردن,» برای... مناسب بودن. be meant for
+مناسب ... بودن
+مقدّر بودن be meant (to do sth) (4S)
+معروف به ... بودن: be meant to be sth
+مشهور بودن که
+vi ۱.سرگردان بودن؛ / meander /msaznda(r)
+dy گشتن» پرسه زدن» این طرف و آن طرف رفتن
+۲ از این شاخ ol a شاخ پریدن ۳. [رودخانه, جاده ]
+از مسیر پرپیچ و خمی گذشتن» پیچ خوردن و
+رفتن» پیچان‌پیچان پیش رفتن» پرپیچ و خم بودن
+۴. [رودخانه ] =‘ خم. oe
+adi ۱. [رودخانه ] پر پیچ و meandering/mi'endriy/ o>
+پیچاپیچ ۲. [گزارش, سخنرانی و غیره] درهم جوش.,
+قاتی, پراکنده
+meanderingly /mrzndrigt/  ناجیپ (oles A 0
+و خمان ۲. [نوشتن و غیره ] بی‌هدف, از این شاخ به آن
+شاخ. پراکنده
+pl ۱. مسیرٍ پرپیچ وخم. meanderings /mrendrigz/
+راو پرپیچ وخم؛ حرکتٍ gua وخم؛ پیچ وخم‌ها
+۲. پرسه. ولگردی ۱
+2 ۱.(در بریتانيا محاوره) دم پست. meanie /'mi:ni/
+آدم پست‌ف طرت. آدم رذل J آدم کسیس, آدم
+ناخن خشک, ادم ان ادم Jas ادم تنگ‌نظر
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+7 ۱. [کلمه. عبارت. حرکت و meaning /mintg/ [od
+معنی, مفهوم. ازش ۲ [نوشته, فیلم و غیره ] معنی, پیام»
+(so! Je مضمون. محتواء مطلب. نکته ۳
+اهمیّت. اعتبارء ارزش ۴. هدف. غایت ۵.قصد.
+نیّت. مقصود.ء منظور
+( ۶. بامعنی, معنی‌دار؛ پرمعنی؛ LoS
+not know the meaning of the word...
+اصلاً معنای IESE IER NE کلمةٌ...در قاموس
+(کسی ) نبودن. ندانستن که...یعنی چه
+معنی مجازی the figurative meaning
+معنی تحت‌الفظی؛ معنی حقیقی the literal meaning
+gaia 3 کسی را فهمیدن؛ get sb's meaning
+sh کسی را فهمیدن, حرفي کسی را فهمیدن
+lode کار What's the meaning of this?
+چیست؟ Ms این کار چیست؟ معنی این کار چیست؟
+adj ۱. [کلمه. علامت. حرکت و غیره ] meaningful /miaigfl/
+بامعنی, Glo me دارای معنی. که دارای معنی است
+۲ [ توضیح و غیره ] مفهوم. ee Jb فهمیدنی wis] Xe
+نگاه و غیره ] بامعنی, معنی‌دار, که معنای خاصّی دارد.
+پرمعنی؛ گویا ۴ daly] تجربه و غیره ] ارزشمند., Aaa
+Aad gan مهم جدّی ۵ [زندگی و [ot هدفمند.
+غایتمند. باهدف
+adv . به طرز meaningfully /mimigfolt/ ag J
+به طرزی مفهوم ۲. به 5b معنی‌داری, با معنای
+خاصّی ۳ بر ull قصد و هدفی؛ از روی Aad و
+هدفی ۴. به طور ارزشمندی, به‌طرز سودمندی
+You should fill your time meaningfully.
+بهتر است وقتت Ue) کاری / هدفی کنی.
+4 ۱. بی‌معنی» BB معنی. meaningless /miniglis/
+بدون معنی ۲. بی‌ارزش, بی‌اعتبار» بی‌معنی ۳.
+9g 23 بی‌هدف. عبت. تشورج. بی RA بسی od
+بی‌حاصل
+0 به طور meaninglessly /minilisii/ «gles gm
+به طرزٍ عَبَتی. به sb بی‌ثمری, به نحوٍ بی‌حاصلی
+۸ بی‌معنایی.  meaninglessness/minmlisnis/
+پبوجی.؛ بی‌هدفی. بیهودگی. بی‌ثمری. بی‌حاصلی
+0 به طور معنی‌داری؛ ۱۳۵7 meaningly
+ی ob گویایی
+LY 0 پستی, با فرومایگی, meanly /minit/ led
+ناجوانمردانه ۲. با ens با ناخن‌خشکی, با نظرتنگی
+4 کوتاه‌نظر 1 ۳:6 / mean-minded
+7 ۱. پستی» فرومایگی, meanness /'mi:nnis/
+ناجوانمردی, رذالت, لغامت. دنائت. پست‌فطرتی؛
+حقارت؛ زشتی CY ناخن‌خشکی. PHS
+mpl وسیله, cai Jb طریق, means’ /minz/ why
+8am روش
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1022 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: meanstest; meant; meantime; meanwhile; meany; measles; measurable; measurably; have; get I take the measure of sb; in great -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+وسیله‌ای برای رسیدن 4 هدفی, a means to an end
+وسیله
+end جد The end justifies the means. (prov)
+(رسمی) از طریق, از رای از رهگذر؛  0۴۶ by means
+به وسيلةٌ, به کمک ۱
+Les Judie) البته, با by all means Jus
+میل» خواهش می‌کنم
+به هیچ وجه. این by no means; not by any
+به هیچ روی, آبدا
+به هیچ وج من‌الوجوه.  by no manner of means
+اصلا و a)
+به هر وسیله, به هر by some means or other
+طریقی, بدین یا بدان وسیله, هر طور که ممکن باشد. هر
+طور شده
+از هر راهی که by fair means or foul wal
+به هر صورتی که شده, مهم نیست که چطور, به هر قیمتی
+aS) شده)
+۱ شیوه‌ها, ways and means arb Aly
+امکانات, منابع؛ فوت و فن, رسم وراه ۲.(مالی) منابع
+( تامین ) بودجه. راه‌های / محل‌های تأمین بودجه
+۱ پول؛ FONE دارایی, مال. means? /minz/
+مال و منال؛ امکانات Ja) استطاعت. وسع؛
+درامد
+آدم ثروتمند. آدم lds آدم 4 a man of means
+aol با امکاناتِ مالی خود a man of your means
+تو / شما ]
+SU مالي اندک؛ درامدٍ کم slender means
+درامد خصوصی داشتن have private means
+بیش از دخل خود live beyond one's means
+خرج کردن, پا از گلیم خود فراتر گذاشتن
+پا از گلیم خود فرأتر live within one's means
+نگذاشتن, به اندازهة Jo خود خرج 03,5
+۸ تحقیق bys وضع مالی means test/mi:nz test/
+STIR EE) دارایی, احصاء mb ازمون
+ENCE
+ad) مبتنی بر ازمون  means tested /'minz tesid/
+وسع» مبتنی بر ارزيابي امکانات. بر اساس بررسي
+بضاعت
+of mean* مم ام meant /ment/
+0 در این میان؛ در این meantime /'mi:ntaim/
+انا در خلال een در (IN) این مدّت. در این
+حین؛ در این فاصلهء در این بین
+7 (به وجه) علی‌الحساب. for the meantime Ss
+در این ols در این in the meantime Ast
+در خلال این
+a=father D=got o:=s: هه ii=see 1=sit
+=go al = five au = now a1 = boy 13 اد el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 measure
+meanwhile /'mi:nwarl, (US) -hwatl/ St در این ۷
+در این Wola در این میان. در خلال اين. در این
+
+حین, در این dole در J oh
+meany /'mi:nr/ = meanie
+7 (پزشکی) سرخک measles /'mi:zlz/
+(comp measlier, super measliest) ۲۵۵8۷/۳۵۲
+adj i (محاوره, به طعنه) کمء ناچیز؛ بی‌ارزش. «Sa 5S
+سبک, ناقابل, Shp
+measurable /'mesarabl / sx Selly adj
+قابل‌اندازه‌گیری, قابل اندازه گرفتن, سنجش‌پذیر,
+سنجیدنی ۲. مشهود. caus, lS قابل‌دیدن؛
+قابل توجّه. مهم. قابل‌ملاحظه
+اشکارا Joba اشکار measurably /mesarabli/
+به Sb مشهودی
+۸ ۱. اندازه, مقدارء میزان؛ measure’ /'mesa(r)/
+J ۲ واحد اندازه‌گیری, مقیاس (اندازه گیری)»
+معیار Sell میزان ¥ aS 31a! wg 18
+پیمانه. کِیل؛ متر؛ [مشروب ] MS پیک. جام ۴.
+(مسجازی) میزان؛ Hla ملاک. Am 0 Sn
+sls es de حصر ۶.(مجلس) لایحه. طرح ۷.
+LIS plas) تمهید., md چاره؛ cr برنامه ۸.
+( ادبیات) وزن. بحر ٩.(موسیقی) میزان ۰ (gS)
+(BS >) رقص
+4 نحو mn) به بهترین نحو in full measure Sas
+have / receive one's / the full measure of sth
+full —
+کم دادن give short measure
+به اندازه دادن give full measure
+( در بریتانیا) SU] کت و شلوار ] made to measure
+دست‌دوز, سفارشی
+کسی را ارزیابی / ط5 get / take the measure of
+ارزشیابی کردن, حدود توانایی‌های کسی را به دست
+آوردن
+اوزان و مقادیر weights and measures
+(رسمی) بیش Go) بی‌حد و beyond measure
+am زیاده از Jo
+( رسمی) تا حدّی, in some / any measure
+تا اندازه‌ای, تا حدودی
+(رسمی) تا حدٍ زیادی in great / large measure
+و افزون بر آن و مضافاً, for good measure
+و علاوه بر آن, برای مزیدٍ فایده
+حدّی قائل شدن برای, حد...را set measures to
+تعیین کردن
+(با کسی) رقصیدن,  tread a measure (with sb)
+(با کسی) رقصی کردن
+
+۷  u=cook u:=to0 A=cup 3=bird a= 1
+
+= near 3 = hair U3 = pure era = player aa = fire
+
+6= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1023 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: measureless; meatball; meatless; meat-safe; Mecca; mechanically -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+measure 10
+بزر گتر ین the greatest common measure
+مقسومٌ dle / بخش‌یاپ مشترک
+۷ ۱. اندازه‌گیری کردن., measure? /'mess(r)/
+اندازة... را گرفتن, اندازه گرفتن؛ پیمانه کردن؛ کیل
+کردن ۲.(مجازی) ارزش ...را تعیین کردن, سبک و
+سنگین کردن, ارزیابی کردن» براورد کردن ۱
+vi ۳ اندازه‌گیری کردن ۴. (در اندازه‌گیری) بودن» بالغ
+بودن بر < The room measures 10 metres across. <
+دراز به دراز افتادن. measure one's length
+GE زمین شدن
+کسی / چیزی زا measure sb / sth against
+سنجیدن باء مقایسه کردن باء برایر نهادن با
+measure swords against / with sb
+با کسی دست و پنجه نرم کردن, پنجه در Ami کسی
+افکندن, با کسی زورآزمایی کردن
+measure one's strength (with sb)
+(در (Sil قدرتِ خود را آزمودن
+measure sth off = measure sth out
+So 5150 wr 25( اندازه کردن؛  measure sth out
+پیمانه کردن؛ وزن کردن؛ متر کردن؛ [پارچه ]
+بریدن؛ [دارو و غیره] کشیدن؛ [مشروب و [ot
+ریختن
+Nw اندازه گیری 03,5 measure (sth) up
+اندازة ... را گرفتن, اندازه گرفتن؛ پیمانه کردن.
+JS کردن
+Y vi اندازه گیری کردن
+WE در measure up to sth / sb D341. dm
+پاسخگوی ... بودن؛ [شخص ] در dm انتظارات ...
+بودن. انتظارات ... را برآوردن, به پای ...
+رسیدن., برابری کردن با
+las] ad) فاصده ] measured /'mesad/
+اندازه‌گیری‌شده, حساب‌شده ۲. [کلمات. عبارت و
+غیره ] حساب‌شده, سنجیده., دقیق؛ [لحن ] شمرده.
+متین؛ [شعر ] موزون ۰
+با گام‌های موزون. : with measured steps
+با گام‌های منظم
+بی‌اندازه, i> go و حصر, measureless/‘meslis/
+بیش از اندازه؛ بی‌شمارء بی‌پایان؛ بی‌کران.
+لایتناهی
+a ۱. اندازه‌گیری, measurement /'mesomont/
+سنجش .. اندازه
+اندازه‌ها؛ ابعاد measurements
+bg a) adj به) اندازه‌گیری» Measuring /'mesorin/
+برای اندازه‌گیری. مخصوص اندازه‌گیری
+a measuring jug / cup slay
+ols مدرج a measuring glass
+متر measuring tape /'mesoriy terp/
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+2 ۱:(آشیزی) گوشلت. گوشت قرمز meat /mi:t/
+۲ [میوه] گوشت؛ [بادام و غیره] مغز ۳.(مجازی) Ala
+محتواء مغز ۴. (کهنه) غذاء HU خوراک
+گو Ld منجمد / یخ‌زده frozen meat
+EROS wil cS گرم fresh meat
+نان و آب, آب و غذا meat and drink
+کسی با چیزی حال be meat and drink to sb
+کردن. کسی از چیزی خوشش آمدن
+One man's meat is another man's poison.
+سلیقه‌ها مختلف است. معشوق من است (prov)
+آنجه به a5 تو زشت است.
+(آشپزی) meatball /'mi:tbo:1/ a oS
+#گوشتخوار / meateater /'mi:ti:ta(r)
+adi گوشت خَوار meateating /'mi:ti:y/
+4 بدون گوشت. بی‌گوشت meatless /'mi:tiis/
+n پای گوشت ۹ meat pie /'mi:t
+1 قفسةٌ گوشت meat-safe /'mi:t seif/
+meat tea /'mi:t t:/ cS alas n
+meaty /'mi:tt/ (comp meatier, super meatiest)
+۱. [شخص. اندام ] گوشتالودء چاق, فربه ۲. [غذا]
+گوشتی, گوشت‌دار, پرگوشت ۳ [عطر, طعم ] ( مربوط
+به ) گوشت ۴.(مجازی) oS] بحث ] edhe پرمحتواء
+Ra
+n ۱. مکه ۲. (نیز با حرف کوچک) Mecca /'meka/
+کعبةٌ آمال؛ ald قبله‌گاه» زیارتگاه
+Mecca balsam Sa ols
+(Lass) n مکانیک. تعمیرکار mechanic /mrkanik/
+ad) ۱.(مربوط 4( ماشین؛ mechanical /mrkanikl/
+ماشینی, مکانیکی, خودکار, اتوماتیک ۲. [شخص ]
+فنی. دارای اطلاعاتِ مکانیکی, که از ابزارِ sb
+سردر می‌آورد؛ sla] اطلاعات ] فنّی ۳ [رفتار,
+عمل ] اتوماتیک, مکانیکی, (mala ماشین‌وار.
+WEL فکر, قالبی
+مهندسی مکانیک mechanical engineering
+adv ).4 طور خودکار, mechanically /mrkenikli/
+به 5b اتوماتیک؛ به طورٍ مکانیکی, با ماشین ۲.
+(sb از A فتی ۳. ano oie خنوه اتوماتیک‌وار
+بدون فکر, بدون اراده. بی‌اراده, ماشینی, ماشین‌وار
+من از I'm just not mechanically minded.
+چیزهای فنّی سر در نمی‌آورم. ذهنم فنّی کار نمی‌کند.
+(We) Nn مکانیک / ما / mechanics
+انز ۲. مکانیسم. روش LAS سازوکار. طرز کارء
+فوت وفن؛ شیوه» oly
+mechanisation/mekeonar'zer fn, (US) -nr'z-/
+mechanization =
+mechanise /'mekanaiz/ = mechanize
+n ۱.مکانیسم. mechanism /'mekanizom/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1024 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mechanistic; mechanization; mechanize; mechanized; Med; med; MEd; medal; medalist; medallion; medallist; meddle; meddler; meddlesome; meddling; media; mediaeval; mediaevalism; mediator; medial; medially; median; median island; mediate; mediation; medic; Medicaid; medical; a medical unit; medical examiner; medically -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10 1
+ساز وکار, ساخت وکار, طرز کارء روال LE کار ۲.
+دستگاه, نظام ۳ راه» شیوه, طریق, روش, ABTS
+(فلسفه) ماشینیسم, ماشین‌انگاری, فلسفهٌ ماشینی
+(فلسفه) - mechanistic / mekanisuk/
+[ad «ois a fi] مکانیکی, مساشینی, نقساشین‌وار؛
+[علم ] ماشین‌بنياد
+mechanization / mekanar'zer fn, (US) -n1'’z-/
+ماشینی شدن, مکانیزه شدن؛ ماشینی کردن.
+: مکانیزه کردن؛ (نظامی) موتوریزه شدن؛ مو‌توریزه
+کردن
+7 ۱.ماشینی کردن. mechanize /'mekanaiz/
+مکانیزه کردن؛ خودکار کردن. اتوماتیک کردن XY
+(نظامی) مو‌توریزه کردن
+۷ ۳.ماشینی شدن, مکانیزه شدن
+۱.ماشینی. mechanized / mekanarzd/
+مکانیزه (شده)؛ خودکار ۲.(نظامی) مو‌توریزه
+1 (محاوره) دریای مدیترانه Med /med/
+7 (بر روی لباس و غیره) med /'mi:diom/ < medium
+)551000( متوسط
+7 ۱.(درجه) MEd /em ۵۵/ > Master of Education
+كارشناسي ارشدٍ آموزش, (Ae) فوتي لیسانس
+آموزش ۲ کارشناس ارشد آموزش, (دارنده
+درجهٌ) فوق لیسانس آموزش
+رر medal /'medi/ Jae ples
+medalist /'medalist/ (US) = medallist
+a ۱.نشان بزرگ, مدال medallion /mr'dzhon/
+بزرگ؛ (دور گردن) مدال ۲. (نقاشی, (HIB ترنج,
+ترنجی؛ (معماری) MB تزیینی
+n صاحب نشان, صاحب مدال medallist /'medalist/
+wi دخالت کردن, فضولی کردن» meddle /medl/
+مداخله کردن؛ مزاحم شدن
+به چیزی دست زدن, سر جیزی رفتن meddle with sb
+n (آدم) فضول, فضولباشی meddier /'media(r)/
+adj (رسمی) 528 meddlesome /'medlsam/ «J
+که در هر کاری دخالت می‌کند؛ [رفتار, اخلاق ]
+فضول‌ماً ب. فضول‌منشانه
+دخالت. مداخلةٌ بیجا. / ۳۵ meddling
+فضولی؛ مزاحمت
+7 ۱. رسانه‌ها(ی گروهی)» وسایل media’ /'midio/
+ارتباط جمعی XY نمایندگان رسانه‌هاء خبرنگاران
+رسانه‌های خبری news media
+of medium’ ام media? /'mi:dia/
+mediaeval / medri:vl, (US) mi:d-/ = medieval
+mediaevalism / medr'i:velizom, (US) mi:d-/ |
+medievalism =
+i=see 1=sit =x=cat a-=father D=got 0:=sd
+al = five ay = now oI = boy 19 0 - ناه el = say
+aud = hour j=yes w= wet t/ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+15 medically
+medial /'midial/ وسط. بینابینی «Slee ۱.(رسمی) 4
+| .۴ (رسمی) متوسط ۳ معمولی. عادی, متوسط ۲
+hay آواشناسی) میانی؛ [حرفي الفبا ] ( مربوط به) (
+| J J همخوان میانی؛ (she (زبان‌شناسی) آوای .۵ n
+| میانی» حرف وسط
+| medially /'mi:diali/ در میان. در وسط .۱ adv
+| معمولی sb عادی, به job به طورٍ متوسط؛ به ۲ ۱
+۱ (زبان‌شناسی) در جایگاه وسط ۳
+ٍ median /'mi:dion/ (sh 9 (she ۱.(ریاضی) 4
+| (مربوط به) وسط ۲.(آمار) متوسط
+FEC IRI WY ER IVI WS SI بر
+| ۶.(در آمریکا. ترافیک) alia میانی ۵ (ریاضی) ae
+| BE RV ATOR JS
+“median island /'mi:dron arland/ (ترافیک) n
+جزیرةٌ میانی. باريِكهٌ میانی
+median strip /'mi:dian strip/ = median island
+mediate /'mi:drert/ ۱.وساطت کردن, vi
+میانجیگری کردنء پادرمیانی کردن
+واسطهةٌ...شدن, [ome [صنح. قرارداد و Yu
+با میانجیگری پدید آوردن pad میانجی
+be mediated by کردن باء اثر پذیرفتن ازء is
+شدن از Ht
+mediation / mi:drerfn/ میانجیگری, weblog n
+پادرمیانی
+۵1210۲۹0 / میانجی. واسطه n
+medic /'medik/ > medical (محاوره) دانشجوی 2
+پزشکی؛ (در جمع) بچّه‌های پزشکی؛ دکتر
+Medicaid /'medikerd/ (در آمریکا) تامین me
+ای نیازمندان KE PRES
+medical /'mediki/ ۱.(مربوط به) پزشکی,
+[گیاهان, خصوصیات ] دارویی, ۲ ob مربوط به) (
+[مرخصی ] استعلاجی ۳ Ge
+(محاوره) ۴. دانشجوی پزشکی 0 معاینه (پزشکی) 2
+medical board کمیسیون پزشکی
+a medical examination Ss, Ll
+medical history تاريخچةٌ درمانی
+medical jurisprudence پزشکی قانونی
+a medical practitioner عمومی Sa 5
+medical treatment درمان با دارو
+a medical unit/ ward sec بیمارستان) بخش 5)
+medical examiner /'medikl 1gzemma(r) /
+.۲ اداره LR 5 سازمانی, Sd ۰۱ (در آمریکا) a
+پزشکي قانونی
+medically /'medikli/ لحاظ پزشکی. 4 adv
+sb به جهاتِ
+۷  U=cook 0:0 100 A=cup 3 81۲0  o= about
+= near ed = hair v2 = pure وله = player ara = fire
+0= thin d= this {=shoe 3= vision n=sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1025 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: medical officer; medical orderly; medicament; Medicare; medicate; medicated; medication; medicinal; medicinally; medicine; get some; give sb a taste; medicine-ball; medicine-chest; medicine-man; mediCO; medieval; medievalism; mediocrity; meditate; meditation; meditative; meditatively; Mediterranean; medium; medium-sized; medium term; medium wave -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+medical officer 104
+: معاینه ( پزشکی) شدن be medically examined
+medical officer /'medikl pfisa(r), (US) a:f-/ |
+۸ (در (ey پزشکي سازمانی, St اداره؛ Sty
+| کارخانه. Sa کارگاه؛ (نظامی) (St ارتش
+Medical Officer of Health — health i
+| اند medical orderly /'medikl
+n | کارگر (بیمارستان)
+۸ (رسمی) داری 153 medicament /mrdiksmont/
+7 (برای سالمندان) Medicare /'medikes(r)/ Solas
+پزشکی, خدماتِ درمانی
+medicate /‘medikert/ (55S axdlas Vw
+درمان کردن, مداوا کردن ۲. دارو زدن cy دوا اضافه
+کردن به
+adj [صابون و غیره ] طبّی. / medicated /'medikeitid
+بهداشتی
+۸ ۱.معالجه, درمان: medication /medrketfn/
+مداوا ۲. دارو دوا
+مداوای جمعی, دارو رسانی گروهی mass medication
+HWS] 4 خصوصیات ] 9518 medicinal /mrdisinl/
+(ib درمانی, شفایخش
+برای مقاصدٍ درمانی, for medicinal purposes
+برای درمان, به عون دارو
+0 به لحاظ (sald 1 ۲۵۵1۵1۵۷
+به لحاظ sb
+۸ ۱. پزشکی, طب medicine /'medsn, (US) medisn/
+۲ دارو دوا ۳.(مجازی) تنبیه, کیفر, مکافات. جزای
+اعمال ۴. جادو جادوجنبل؛ طلسم؛ دعا؛ dy gn
+gz
+پزشک, Doctor of Medicine eb Sib
+تن به مکافات دادن, take one's medicine
+نتيجهٌ عملي خود را پذیرفتن
+get some / a little of one's own medicine
+کسی در چاهی افتادن که خود برای دیگران کنده است.
+Jor dn کسی به خودٍ وی بازگشتن
+give sb a taste / dose of his own medicine
+با کسی معامله به مثل کردن, کسی را در چاهی انداختن
+که برای دیگران کنده است. does عمل کسی را به خودٍ
+وی بازگرداندن, با کسی همان کردن که با دیگران می‌کند
+medicine-ball /'medsn boil, (US) 'medisn/
+۸ توپ sb
+medicine-chest/medsn tfest, (US) 'medisn/ 5
+Anas a دارو
+medicine-man/'medsn man, (US) 'medisn/
+7 (در WG ابتدایی) جادوگر, pl medicine-men) (
+ساحر, جادوپزشک
+7 (محاوره) ۱. دکتر, medico /'medikas/ ( p/ medicos)
+حکیم‌باشی ۲. (Semel پزشکی‌چی
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+ad) ۱.(مربوط 4( medieval /mediivl, (US) midd-/
+3 05 وسطاء قرونٍ وسطایی, (مربوط 4( سده‌های
+میانی ۲.(مجازی, به طعنه) «plant عقب‌مانده, بدوی
+medievalism / medri:valizom, (US) mi:d-/
+۸ ۱. روحيَةٌ قرونِ وسطایی؛ تَفکُرٍ قرونِ وسطایی؛
+سَنَنٍ قرونِ وسطایی ۲.گرایش به قرونِ وسطا
+(به mediocre / mi:disvka(r), med-/ «J sane (ab
+law ga عادی, میان‌مایه؛ پیش‌پاافتاده؛ نه جندان
+خوب, نه چندان بد. نه خوب نه بد
+mediocrity/mi:di'okratt, med-/ ( p/ mediocrities)
+1 (به طعنه) ۱. پیش پاافتادگی؛ عادی (3m معمولی
+بودن. میان‌مایگی X آدم معمولی. آدم عادی. آدم
+میان‌مایه؛ ادم پیش پاافتاده
+4 ۱.(رسمی) فکر کردن دربار meditate /'meditert/
+اندیشیدن دربارقی Job کردن اذر موژد ۲. داز ew
+پروراندن, در انديشة... بودن
+Jab wi کردن, اندیشیدن, فکر کردن, به فکر فرو
+رفتن» تعمّق کردن؛ (مذهب) به مراقبه پرداختن, به
+مکاشفه پرداختن
+meditation / medi'ter/n/ Rey SST Nn
+Jabs فکرء اندیشه؛ (رسمی, در جمم) XO
+(مذهب) مراقیه, مکاشفه
+I] ad) چهره] meditative /'meditatty, (US) -tert-/
+متفکرانه. فکورانه؛ [شخص ] Sia فکورء غرق در
+تفکر
+ady متفکرانه, meditatively /'meditativs, (US) -tert-/
+GE در انديشه, فکورانه
+4 ۱ مدیترانه‌ای, / Mediterranean /meditareintan
+( مربوط به) مدیترانه
+۲. دریای مدیترانه
+1 ۱. وسیله. medium! /'mi:dram/ ( p/ media)
+ابزار؛ شکل, شیوه, (nb صورت؛ واسطه؛ le
+وسيلةٌ ارتباطی ۲. محیط طبیعی, محیط؛ aly
+Jas
+از طریق, به through the medium of Aes
+dy x
+obs آموزش, the medium of instruction
+obs تدریس
+JN 2 وسط, medium? /'mi:diom/ ( pl mediums)
+متوسط ۲.(در fas روح) واسطه
+adj ¥ متوسط
+ds وسط the happy medium
+adj متوسط 17 medium-sized /'mi:diom
+adj میان‌مدّت medium term /'mi:drom tz:m/
+در میان‌مدّت in the medium term
+2 (رادیی غیره) “medium wave /‘mi:diom werv/
+dau ge cr ام دبلیو
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1026 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: medlar; meekly; meekness; There is more in -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+I
+۲۱۵۵۱۵۲ /'medis(r)/ ازگیل Cyd ازگیل؛ n
+medley /'medi/ ( p/ medieys) آمیزه» A 7
+موسیقی) hah) معجون, مخلوط, آش شله‌قلمکار؛
+گلچین» گزیده, گزینه ۲.شنای مختلط
+meed /mi:d/ (ادبی) پاداش, آجر #
+meek /mi:k/ (comp meeker, super meekest)
+fo Je موم Je سربه‌زیر. Y نرم» افتاده bl Nad
+سربه‌راه» حرف شنو kas ترسو ۳ رام don
+the meek  ناعیطم افتادگان, خاضعان, تسلیم‌شدگان,
+meekly / به آرامی, با نرمی. انز ۱ 0
+با ملایمت. با افتادگی ۲. با سربه‌راهی, با
+tb tet Joe us pi
+meekness /miknis/  .تمیالم نرمی» (oh .۱
+افتادگی ۲. سربه‌راهی» حرف‌شنوی» سربه‌زیری؛
+بزدلی, ترس
+meerschaum /۳۳:۵/]0۳/ دریا GS ۱.(مادَةٌ معدنی) 2
+کاسه گلی؛ پیپ کف دریایی Gm PASH AS چپتی ۲
+meet’ /miit/ (prop met) ا.ملاقات کردن (با). wr
+دیدن. مواجه شدن باء روبرو شدن باء برخورد
+۳ کردن با ۲. با... اشنا شدن, به... معرّفی شدن
+بسودن, ... a [شخص, قطار ] (در ایستگاه)
+[opt دنبال ... آمدن» عقب ... آمدن ۴ [کشتی, قطار و
+] قطار dali] بردن؛ bob بردن. bool plas
+عوض کردن 0 [خواست. تقاضا] براوردن» اجابت
+بودان, i. کردن؛ انجام دادن؛ [نیازها ] تاشسخگوی
+] کردن؛ [مسئله. موقعیّت و غیره mali براورده کردن,
+انتقاد] پاسخ ll] مواجه شدن باء روبرو شدن با؛
+تماس پیدا can جواب دادن ۶. خوردن ca دادن
+] کردن با؛ اصابت کردن به ۷. [هزینه, بها و غیره
+[om پرداختن, پرداخت کردن ۸. [ناحیه. دریا و
+تلاقی کردن با؛ [رود. ww پیوستن به, متصل شدن
+حریف ] در ws] 8 خوردن به an جاده ] رسیدن
+مقابل ... قرار گرفتن» روبرو شدن با؛ [ارتش. قوا] |
+مواجه شدن با
+یکدیگر را دیدن یکدیگر را ملاقات کردن, با ۰ vi
+هم برخورد کردن؛ [دو bod همدیگر روبرو
+] ظطار] با هم رسیدن, به هم رسیدن ۱۱. [مجلس, کمیت
+MY جلسه دادن؛ [کلاس و غیره ] تشکیل شدن Jos |
+با هم اشنا شدن, به هم معرّفی شدن ۱۳.به هم |
+خوردن. با هم تماس پیدا کردن؛ [لباس ] تنگ بودن |
+هم Los SLE هم pla دو حریف ] در os] ۴ |
+شدن؛ [دوارتش ] با هم مواجه شدن. 5 |
+] رودر روی هم قرار گرفتن ۵ ]53 جاده, دو رود و غیره ۱
+به هم پیوستن» به هم رسیدن, با هم تلاقی کردن |
+meet one's match — match
+ii=see I=sit &=cat a= father D=got oi- sa
+el = say تاه =go a1 = five aU = now o1=boy 12
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+47 meet
+meet one's Waterloo 3, 5% کسی در...شکست
+کسی ...را باختن
+: meet one's Maker  »نتسویپ (به شوخی) به لقاءالله
+جان به جان‌آفرین تسلیم کردن
+: Pleased to meet you! شما (4) plat از
+: خوشوقتم! مفتخرم! ۱
+i meet the case مناسب بودن (og رضایت‌بخش
+meet sb halfway — halfway
+| Certain standards must be met.
+1 یک استانداردهایی باید حفظ شود. استانداردهایی
+۱ باید رعایت کرد.
+make (both) ends meet خود را dss خرج و
+ْ با هم برابر کردن, خرج و دخل کردن
+meet sb's eye به چشم کسی خوردن. .۱
+ْ کسی چیزی را دیدن نظرِ کسی را جلب کردن ۲. در
+ِ چشم کسی نگاه کردن
+ا meet the eye به چشم خوردن
+13601 sb's ear(s) به گوش کسی خوردن.
+| کسی چیزی را شنیدن
+There is more in/ to sb /sth than meets
+the eye.  .تسین سادگی‌ها که به نظر می‌آید ol به ۱
+خصوصیّاتش در نظر اوّل به چشم نمی‌آید. مشکل‌تر از
+آن است که تصوّر می‌شود ۲: ادم توداری است. تودارتر
+TS از آنی است که فکر
+meet one's death مردن
+Our eyes met. چشمانمان به هم افتاد. نگاهمان
+به هم افتاد.
+meet up برخورد کردن. (anal) vi
+03,8 هم) ملاقات L) (با هم) مواجه شدن؛
+(یکدیگر را) دیدن
+meet sth with sb / sth تجربه کردن. .۱
+... طعم ...را چشیدن؛ دچار ... شدن, گرفتار
+دیدن. BUSHY مورد...قرار گرفتن Sus
+برخورد کردن با ۳. (در آمریکا) ملاقات SUS
+جلسه داشتن db ملاقات داشتن JA داشتن با
+بسا ۴. جسواب ...را با... دادن با..
+برخورد...کردن
+It's too easy to meet aggression with more
+aggression. آسان است که با تجاوز برخورد
+متجاوزانه کرد. آسان است که با تجاوز مقابله به مثل کرد.
+meet? /mi:t/ ۱.(در بریتانیا) اردوی شکار
+(در آمریکا., ورزش) اردوی ورزشی؛ مسابقات. ۲
+بازی‌ها؛ مسابقه
+meet? /mi:t/ درست, صحیح؛ مناسب» (14) ad)
+شایسته, درخور
+v 050006 0000 A=cup 90 0120 a= about
+- 7۳ -<وع ۳ Ua = pure elo = player aja = fire
+6= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1027 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: meeting; meeting-house; meeting-place; megabyte; megacycle; megadeath; megalith; megalomaniac; megaphone; megaton; megawatt; meiosis; melancholia; melancholic; melancholy; melange; melanoma; meld; melee; meliorism; mellifluence; mellifluent; mellifluently; mellifluous; mellifluously; mellow -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+meeting 104
+| ۸ ۱.گردهم‌آیی, اجتماع, meeting /‘mi:tiy/
+: اجلاس, جلسه, نشست., انجمن؛ (سیاسی) میتینگ ۲.
+: شرکت‌کنندگان در گردهم‌آیی. Bases ده
+جلسه؛ شرکت‌کنندگان در میتینگ ۳ (ورزش)
+مسابقات. بازی‌ها؛ مسابقه ۴. برخورد. ملاقات.
+| دیدار
+| )>( هم‌فکری, (حالت)  a meeting of minds
+| همدلی
+۶ ۱.ساختمان meeting-house /'mi:try havs/
+۱ انجمن, ساختمان اجتماغات ¥ (Joa) انجمن
+| دوستان ۳ Saale نیایش‌گاه
+Joan | گردهم آیی, meeting-place /'mi:tiy pleis/
+ev
+ملاقات‌گاه, محل ملاقات
+ad) (عامیانه) ۱. فوق‌العاده, محشر mega /'mego/
+Jos YX adv به طور وحشتناکی
+1 (کامپیوتر) مگابایت, megabyte /'megobait/
+میلیون‌بایت
+1 (فیزیک) JS Ea / دی / megacycle
+مگاهر تز, (یک) میلیون دور
+7 (یک) میلیون تلفات megadeath /'megade6/
+)= واحدٍ میزان تلفات در جنگ‌های اتمی)؛ مرگ میلیونی
+megahertz / megsha:ts/ ( p/ megaheriz)
+a8 (Suz) n 5
+5 (باشتان‌شناسی) خوسنگ megalith /'megali6/
+adj (باستان‌شناسی) خٌرسنگی, megalithic /megslioik/
+(مربوط به) > LS
+خود بزرگ‌بینی؛ megalomania / megalamemia/
+sr خود بزرگ‌بینی
+megalomaniac / megalamemiak / (pa) n
+مبتلا به خود بزرگ‌بینی
+adj ۲. خود بزرگ‌تینانه؛ ناشی از خود بزرگ‌بینی
+n بلندگو / megaphone /'megafavn
+mn مگاتن )= واحدٍ اندازه‌گيري قدرتٍ Megaton /'megatan/
+سلاح‌های oil برابر با قدرتٍ تخریپٍ یک میلیون تن تی ان تی)
+7 (فیزیک) مکاوات megawatt /‘megowot/
+۸ (کهنه) ۱. 23 مزمن. megrim /'mi:grim/
+صٌداع ۲.(در جمع) بی‌حوصلگی, ملال, افسردگی
+meiosis /mar'susis/ ( pl meiosises)
+1 ۱. (زیست‌شناسی) تقسیم كاهشي سلول‌هاء میوز ۲.
+تاکید معکوس. طنز ملایم؛ تخفیف (< در lem ob
+کاربردٍ عبارتٍ منفی برای تاکید بر (of gute Lr
+1 ملامین melamine /'melomi:n/
+1 مالیخولیاء melancholia /melonkavlia/ sg
+سودازدگی؛ افسردگی
+مالیخولیایی؛ / melancholic /melan'kplik
+سودایی افسرده
+
+<!-- REGION: RIGHT COLUMN -->
+
+J
+melancholy /melonkols/  .یگدرسفا ۱.(رسمی) 7
+اندوه. غم شدید
+[شخص ] غمگین, اندوهگین, افسرده, سودایی, ۲ ad)
+اخبار و غیره] ناراحت‌کننده» Is] سودازده؛
+غم‌انگیز
+mélange /'meila:ns, (US) merlamns/ ob shia 0 jal 4
+معجون, ترکیب
+melanin /melonin/ (زیست‌شناسی) ملانین» مشکینه 4
+melanoma / melonasma/ (پزشکی) ملانوم n
+meld /meld/  .ندرک ۱.در هم امیختن, مخلوط ۶۷
+یکی کردن
+در هم رفتن» با هم مخلوط (OI Asal .در هم VE
+شدن, یکی شدن
+meélée /'meles, (US) merler/ مّعرکه. هنگکامه. .۱
+غوغا؛ قشقرق. الم‌شنگه. ازدحام کشنک‌کاری.
+جنگ و دعوا
+melee /'meler, (US) merler/ (US) = mélée
+meliorate /'mi:larert/ بهبود بخشیدن. .۱ 7
+ٍ بهتر کردن, اصلاح کردن
+بهبود یافتن. بهتر شدن. اصلاح شدن .۲ 4
+melioration /mi:lio'rer fn / اصلاح, بهبودی
+meliorism /'mi:liarizom/ اعتقاد به بهبودیابندگی ۸
+جهان, مشرب خیرپیشی
+mellifluence /melifivans / خوش آهنگی. n
+گوش‌نوازی,» دلنشین بودن, دلچسب بودن
+mellifluent /me'iflvent/ = meliifluous
+mellifluently /me'liflvantts / = mellifluously
+mellifluous /meliflvas/ ] [صدا, موسیقی, کلمه ad)
+خوش آهنگ. گوش‌نواز, دلچسب, دلنشین
+mellifluously /meliflvosit/  یزرط (رسمی) به 0
+sob گوش‌نوازی, به sb به Saal ts
+دلچسبی» به طرز دلنشینی
+mellow / نما / (comp mellower, super :
+mellowest) پراب؛ lat شیرین. Lose] .۱ adj
+[شراب ] رسیده, جاافتاده. شیرین؛ [رنگ. نور]
+مطبوع, شناد چشم‌نواز, ملایم؛ [خاک] oles
+پرقوّت, حاصلخیز؛ [صدا] خوش‌آهنگ, گوش‌نواز,
+دلنشین. مطبوع؛ [سنگ.آجر. ساختمان ] هواخورده,
+[east [شخص, .۲ Blo سوده‌شده, هموار,
+ ]راتفر Jee] معقول؛ (Jl جاافتاده, پخته, عاقل,
+گرم Loans] پخته, عاقلانه. معقولانه ۳ (محاوره)
+ ,لوگنش بامحیّت؛ خوش‌مشرب؛ (در نتيجةٌ مضروب)
+سربخوشن
+| ] پختن» آبدار کردن. شیرین کردن؛ [شراب [apm] .۴ 7
+ملایم کردن ۵. [شخص. [las WK) شیرین کردن؛
+: شخصیّت ] پخته کردن. عاقل کردن ۶ (محاوره)
+ِ شنگول کردن, سرحال آوردن, گرم کردن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1028 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mellowly; mellowness; melodic; melodiOUS; melodiously; melodiousness; melodrama; melodramatically; melody; melon; melt; meltdown; melting; melting-point; melting-pot; Member of Congress; Member of Parliament; membership; membrane; membranoUS -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+4 ۷. [میوه شراب ] شیرین شدن, رسیدن؛ [رنگ. صدا]
+ملایم شدن ۸. [شخص, شخصیّت ] پخته شدن, جا
+[AGE male] ستدی: aie SB i a) ٩
+سرحال Orel گرم شدن
+0 با ملایمت. به طور ملایمی. mellowly /'melavlt/
+Var <
+[og] 1 شیرینی: mellowness /'melaunis/ wsdl
+رتشیدگی؛ شراب ] رشیدگی؛ o£) Jas] نور]
+ملایمت؛ [cans] پختگی, جاافتادگی
+Nad) (موسیقی) ملودیک., melodic /mriodik/
+( مربوط به) ملودی ۲ توش wa] هتکن
+PET
+adj خوش اهنگ., آهنگین. / melodious /mr'laudras
+خوش‌نواء گوش‌نواز
+adv 4 طور اهنگینی. / melodiously /mriaudrastz
+به طورٍ خوش‌آهنگی, به sb گوش‌نوازی
+n خوش اهنگی. melodiousness /mrloudiasnis/
+cls آهنگین, le گوش‌نواز
+۱.داستان ملودرام. melodrama /'meladra:ma/
+ملودرام؛ نمایش those ۲ (مسجازی) واقعةٌ
+رومانتیک؛ Sols رومانتیک؛ رفتار رومانتیک؛
+حرف‌های رومانتیک .
+A adi ملودرام / melodramatic / meladromatik
+۲ (مجازی) رومانتیک؛ احساساتی
+adv 4 طرز melodramatically /meladromatiks/
+رومانتيکي. خیلی احساساتی
+A 7 خوش آهنگی, melodies) /م) melody /'meladi/
+. آهنگین بودن؛ گوش‌نوازی ۲. اهنگ, ترانه, نغمه ۳.
+(موسیقی) ملودی  "
+1 خربزه melon /'melan/
+BN ۸ یخ و غیره ] ذوب شدن, melt /meit/
+آب pas گداختن ۲ [خوراکی, غذا] ( در (ols اب
+pas نرم شدن ۳ [شکر و غیره] Jo شدن.۴. Ale
+شدن, aS Jo سوختن. به رقت درامدن 0
+[عصبانیت, اعتماد و غیره ] از Om رفتن. تمام شدن
+۷۸ ۶. [فلز, یخ و غیره ] ذوب کردن, آب کردن, گداختن ۷.
+[شکر و غیره] ( در خود) حل کردن
+(محاوره) خیلی داغ بودن؛ be melting
+از گرما هلاک شدن, کسی خیلی گرمش بودن
+از ib oda به گریه افتادن, melt into tears
+زیر گریه Sal (ga) کسی درامدن, زار زار گریه کردن
+دلش سوخت. Her heart melted with pity.
+Sa شد. به OH ایک SH کباب شد.
+butter would not melt in sb's mouth — butter
+کسی را Fla کردن, احساساتِ melt sb's heart
+و i:=see 1=sit @®=cat a=father D=got
+el=say ou=go ar=five av=now or=boy  «
+ava = hour’ j=yes w=wet tf=chain  d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 membranous
+کسی برای چیزی سوختن Jo کسی را برانگیختن,
+Pity melted her heart. دلش سوخت. دلش به
+شد. Ja a درد
+melt (sth) away SAS [یخ وغیره] به .۱ 4
+تمام شدن؛ [یه. [Jn] ۲ آب شدن. تمام شدن
+از بین رفتن؛ OAS عصبانیت. اعتماد و غیره ] تمام
+ناپدید OAS متفرّق (OAS [جمعیّت ] پراکنده ۱
+شدن؛ [شخص ] غیبش زدن» دود شدن و به هوا
+رفتن eed زا آب شدن و تو
+کردن Yow
+melt sth down [فلز ] ذوب کردن, گداختن we
+melt into sth شدن به. bas .۱ 4
+تغییر شکل دادن به ۲ ناپدید شدن درء محو
+شدن در گم شدن در
+meltdown /meltdavn/  ِتخادگ ) ۱.(در رآ کتور اتمی 8
+مرکزی ۲.(مجازی) سقوط. فروپاشی. din
+ازهم‌پاشی, تلاشی
+melting /'meltry / [برف ] در حال ذوب. .۱ ad)
+که دارد آب می‌شود ۲. [صدا, نگاه, اصاسات ] لطیف,
+دلنشین. خوشایند؛ احساساتی
+[برف, فلز و غیره ] آب شدن, ذوب شدن, ذوب ۳
+melting-point /'meltiy pomt/ ذوب dais nn
+melting-pot /'meltry pot/ ذوب, Sus a
+وضعیّت) آش درهم‌جوش, دیگي Joma) .۲ بسوته
+ome دهم بجوشن: مخلوظ,
+< The country was a melting-pot of many races. >
+be in the melting-pot سوال قرار داشتن 25
+go into the melting-pot دستخوش تحوّل شدن.
+تغییر یافتن
+member /memba(r)/ خانواده, حزب و غیره] wy SN 1
+عضو ۲.(مجلس, با حرف بزرگ) نماینده, وکیل ۳.(رسمی.
+کالبدشناسی, گیاء‌شناسی) عضو, اندام ۴. (رسمی, به شوخی)
+آلت رولیت
+"Members only" «مخصوص اعضا»
+the unruly member % obs
+Member of Congress / member av ‘kongres,
+(US) 'kppgras/ نمايندة کنگره 7
+Member of Parliament / membar av 'pa:lomant/
+نمایندة مجلس, وکیل مجلس #
+membership ها Loi [گروه و 7
+عضو Lael عضویّت
+membrane /'membrein/ mel casey) a
+شامه؛ پوسته 103
+membranous /'membronas/ غشاییء پرده‌ای؛ .۱ ad)
+SHU پوسته‌ای ۲. پرده‌مانند. غشاشکل؛ پوسته‌مانند؛
+۷ u=cook ui=to0 A=cup a=bird 9=about
+=near  €d2= hair ua = pure els = player aro = fire
+8= thin d= this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1029 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: memento; memo l'memau; memorial; memorialize; beyond the memory of r' J'; refresh one's; menace; menagerie -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+memento 10
+memento /mi'mentss/ ( p/ mementos,
+یادگار, یادگاری mementoes)
+2 (محاوره, بازرگانی, memo /'memau/ ( p/ memos)
+سیاسی و غیره) یادداشت
+Nn خاطره؛ ( نیز در جمع) Memoir /'memwa:(r)/
+خاطرات؛ زندگی‌نامه ۲ گزارش شخصی
+npl یادگارهاء memorabilia / memorabilia/ ۱
+یادگاری‌ها
+به‌یادماندنی, memorable /'memorabl/
+فراموش‌نشدنی
+0 به طرزی به‌یادماندنی, memorably /'memarsbli/
+به طرزی فراموش‌نشدنی» آنقدر...که نمی‌شود
+فراموش کرد / که هميشه در یادها می‌ماند
+‘memoranda / memaienda/ pl of memorandum
+memorandum/memarzndam/ ( p/ memoranda,
+12 ۱.(بازرگانی, سیاسی و غیره) memorandums)
+یادداشت ۲.(حقوق) قولنامه» پیش‌نویس فرارداد
+۱. [مراسم. نشان و غیره ] ی memorial
+( مربوط به) یادبود
+7 ۲. یادبود ۳ بنای یادبود؛ مراسم یادبود؛ مجلس
+یادبود ۴. بنای (یادبود) قربانیا جنگ ۵.(نیز در
+ABE Eos wil BAR (pe زوزنعامة al Blass
+وقایع ۶. عریضه. عرض‌حال, دادخواست
+2 (در آمریکا) Memorial Day /mr'mo:rial der/
+روز قربانیان جنگ
+Nov عرض‌حال دادن memorialize /mrmarialaiz/
+به, عریضه نوشتن برای ۲.(در مورد بناء مراسم و غیره) به
+یادبود... بر پا شدن,» به یاد... بر پا شدن؛ (در مورد
+شخص) خاطرمُ... را گرامی داشتن؛ (در موردٍ خیابان) به
+یاد...نام‌گذاری شدن, نام... را Bele; داشتن
+memorise /'memoraiz/ = memorize
+ve 4 خاطر سپردن؛ memorize /'memoraiz/
+به یاد سپردن, حفظ کردن. از بر کردن
+زر ۱. حافظه memory /'memori/ ( p/ memories)
+۲ خاطره ۳ [شخص ] ol خاطره ۴. حافظه
+(کامپیو تر)
+چیزی را از حفظ commit sth to memory
+کردن, چیزی را از بر کردن, چیزی را به یاد / خاطر
+Od
+از حفظ. از بر from memory
+تا Sl حافظه‌ام to the best of my memory
+یاری می‌دهد. تا انجا که به ob دارم
+if memory serves (me right / correctly)
+(رسمی) تا آنجا که حافظه یاری می‌دهد. اگر درست به
+یادم مانده باشد. اگر فراموش نکرده باشم
+in memory of sb; to the memory of sb
+به یادبودٍ کسی, به 2 کسی
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+in / within living memory —> living?
+در within the memory of men ol pt sls
+در bss مردم
+فراتر از حافظةٌ افراد / مردم beyond the memory of
+که خدایش of blessed memory oly ely
+رضوان dll علیه
+شاه فقید the late king, of blessed memory
+have a memory like a sieve — sieve
+jog sb's memory — jog
+refresh one's / sb's memory — refresh
+a خاطراتِ گذشته.  memory lane /memort lem/
+یادهای قدیم
+به SL گذشته take a trip down memory lane
+افتادن, به ol ble گذشته فکر کردن
+(در هند) ۱. زن اروپایی ۰ /۵۹6:۲/ memsahib
+۲. (در خطاب به ob اروپایی) صاحب., خانم صاحب
+men /men/ p/ of man
+۱. خطر؛ تهدید ۲.(محاوره) menace /'menss/
+Sl دردسر, اسباپ مزاحمت. دردسر, AL آزار ۳.
+( حقوق, در (pas تهدید. ارعاب
+۴. تهدید کردن, خطری برای ...محسوب HAE در
+معرضص خطر ... قرار دادن
+با ارعاب چیزی را 065 demand sth with
+خواستن از
+adj تهدیدامیز, تهدیدکننده / ۵ / menacing
+0 به 50 Coy تهدید آمیزی, Menacingly /'menssinit/
+تهدیدکنان, با تهدید
+1 (رسمی) ساکنان خانه. /-۵ ménage /me'na:s,
+ws Jal خانواده, Jl خانه
+ménage a trois /memna:s a: trwa:/ ’
+زندگی (pl ménages a trois)  ,یرفن‌هس ite
+زندگی کدتای
+menagerie /minedson/  تاناویح (Le gama) 7
+وحشی؛ باغ‌وحش (سیار)
+ménages a trois /mema:s a: trwa:/ pl of
+ménage a trois
+2 ۱. [دستگاه. ساعت. کفش [ تعمیر کردن؛ mend /mend/
+[لباس, جوراب ] mans کردن؛ رفو کردن؛ وصله
+کردن؛ Cael lees] کردن, درست کردن:
+بازسازی کردن ۲. alas] و [od اصلاح کردن.
+تصحیح کردن, درست کردن» رفع کردن ۳ [سرعت و
+غیره ] زیاد کردن, افزایش دادن؛ [آتش ]:تند کردن
+vi ۴. [اشتباه و [of اصلاح شدن, تصحیح (OAS درست
+شدن, رفع شدن ۵. [بیمار ] خوب شدن» بهبود یافنن.
+شفا یافتن
+on ۶.جای تحمیر؛ جای رفو؛ وصله؛ [دیوار و غیره] جای
+مرمّت. جای بازسازی
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1030 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mend one's ways; mendaciouS; mendacity; Mendelian; mender; mendicant; mending; menial; menially; menisci; menstrual; mensurable; menswear; mental; mental age; mental home; mental hospital; mentality; mental patient; menthol -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1۳
+That won't mend matters. Fe این اوضاع را
+نخواهد کرد.
+It's never too late to mend. (prov) Mol برای
+وقت از آب بگیری pl کار هیچ وقت دیر نیست. ماهی
+wal تاره
+mend one's ways / manners خود را اصلاح کردن
+106 on the mend  ] محاوره) [بیمار, هوا, وضع, کاسبی (
+رو به بهبود بودن, در حال بهتر شدن بودن, داشتن خوب
+شدن, در حال خوب شدن بودن
+Least said soonest mended. (prov) — say
+mend (one's) fences (with sb) خود را al,
+با کسی) بهبود بخشیدن (
+mendacious /men'derfas/  ] [گزارش, خبر (am) adi
+دروغ. نادرست. بی‌اساس
+mendaciously /men'dei asl / (رسمی) به طور 0
+نادرست. به دروغ
+mendacity / ۳429۵ / ( p/ mendacities)
+XY دروغ کوردن [255] RE (رسمی) ۰۱ درو 3
+RLY (pa دروغ؛ (در ods
+Mendelian /men'di:hon/ Jaze (مربوط به) adi
+مندلی
+mender /'menda(r)/ تعمیرکار؛ 0 AS ani ۸
+لباس و غیره ] رفوگر؛ (در ترکیب) - ساز [
+mendicant /mendikant/  هقدص ۱.(رسمی) که با ad)
+زندگی می‌کند. درویش, فقیرء سائل
+Fl ih (20958 گذاء (ey بر
+mending /'mendiy/ [لباس و غیره ] تعمیر؛ رفو؛ .۱ 0
+و غیره) تعمیری, کارهای LAY وصله کردن
+تعمیری
+menfolk /'menfosk/ (محاوره) مردها, مرد جماعت mpl
+menial /miniol/ [کار ] ( مربوط به) خدمتکارهاء .۱ ad)
+SLL Sy بانه. Leds .۲ حقیرء بی‌اهمیت cand
+(رسمی) نوکر؛ کلفت؛ پادو ۳ 7
+menially /minali/  اه‌تّفلک مثل نوکرها؛ مثل 0
+meningitis / menin'dsarts / (پزشکی) میت no
+Menisci /mamsar/ p/ of meniscus |
+Meniscus /maniskas/ ( p/ menisci, meniscuses)
+(فیزیک) سطح هلالی n |
+menopausal /menaps:zt/ (4 مربوط YN adj
+یاقشه Bs ناشی از Ril
+menopause /menopoz/ Sel CEL WY I
+Menses /'mensiz/ قاعدگی, عادت ماهانه, پریود npl |
+men's room /'menz ru:m, rom/ (در آمریکا) 7 |
+مردانه. دستشویی مردانه cdl
+menstrual / menstrual / (مربوط به) قاعدگی, adj
+it=see  1=st wm=cal a=father p=gol o:= sa
+el = say PW =go a1 = five ay = now o1=boy 19
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+51 mention
+! . ماهانه, (مربوط به) حیض cole (مربوط به)
+| menstruate /'menstruert/ ors eaeB [3] 7
+پریود شدن. رگل شدن. حایض شدن
+: menstruation /menstwerfn/  تداع قاعدگی, n
+پریود. حیض lake
+قابل‌اندازهگیری تک سمت  تس adj
+mensuration /mensjsrer/n/ (ریاضی) اندازه گیری 7 ۱
+menswear /'menzwea(r)/ مردانه Slag n
+mental /'mentl/ ۰ ۱.(مربوط 4( ذهن, ذهنی؛ ad)
+روانی ۲. [محاسبه ] ذهنی» در ذهن؛ Jie دماغی,
+cal gn (Jo [دعا ] در دل ۳.(در بریتانیا. محاوره, به طعنه)
+| خرء نفهم. بی‌شعور
+ٍ mental deficiency  یلقع عقب‌ماندگی ذهنی, نقص |
+| mental illness بيماري رای انبمارشتان
+| make a mental note of sth 5,5 op جیزی را به
+| سپردن, چیزی را در ذهنِ خود / در خاطر نگه داشتن
+132۷6 mental reservations about sth در مورد
+| چیزی شک داشتن, در موردٍ چیزی تردید داشتن
+mental age /'mentl سن عقلی اجه 12
+mental arithmetic / ment! اد
+حساب ذهنی
+mental home /mentl hovm/ «ils, بیمارستان #
+slo les
+mental hospital /'mentl hospitl/ = mental home
+mentality /men'tzlau/ ( p/ mentalities)
+عقلی؛ توانايي bly ذهنی. bls (as) A 2
+.۲ قوای دماغی (ad فکری؛ (در جمع) قوای
+ذهنیّت, ذهن؛ روحیّه, طرز تفکرء نگرش, دید
+mentally /'mentoli/ روحی؛ به لحاظ Bd به . adv
+A از نظر ذهنی ie روانی؛ به لحاظ عقلی.
+در دل amd [حساب کردن و غیره ] ( به طور) ذهنی» در
+mentally deficient / defective عقب‌افتادة ذهنی
+mentally deranged دیوآنه
+mentally handicapped بیمار روانی
+mental patient /ment perfnt/ ۰ روانی lay 7
+menthol /mendol/ ۰ جوهر نعناع, اسانس نعناع؛ ۸
+نعناعی lw old (صفت‌گونه) با
+mentholated /'mengslertid / olga تعناعی, adj
+با طعم نعناع
+mention /'menn/ (aS) ۱.گفتن wr
+یادآور شدن )48( اشاره کردن به / که. ذکری
+اسم...را بردن. [pana] کردن که؛ S551 کردن
+کردن از pds YX نام ...را بردن» از ...اسمی بردن
+ذکر؛ نام بردن (از) da) آشاره ۳ a
+mention sb's name اسم کسی را بردن
+۱ مک 00100 A=cup 3 0100 و about
+- near و6 hair U2 = pure ela = player aia = fire
+6= thin d= this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1031 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: receive; menu; MEP; Mephistopheles; Mephistophelian; mercantile; mercantile marine; mercantilism; mercantilist; Mercator's projection; mercenary; mercer; mercerise; mercerised; mercerize; mercerized; merchandise; merchantable; merchant bank; merchant banker; merchant banking; merchantman; merchant navy; merciful; mercifully; merciless -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mentor 10!
+not to mention; without mentioning |
+| (محاوزه) بگذریم از این‌که. گذشته از ( این‌که» صرفي‌نظر
+از (4S) تازه اگر...را ندیده بگیریم. تازه اگر حرفی
+
+از ...هم به. oles نیاوریم
+We would like some eggs and cheese, not to
+مقداری تخم مر mention bread. SES
+داریم» نان (هم) که به جای خود. :
+: اختیار دارید! خواهش می‌کنم!  Don't mention it!
+حرفش را هم نزن!:
+ارزش گفتن ندارد.  It is not worth mentioning.
+به گفتنش نمی‌ارزد.
+اشاره‌ای به ... کردن, ذکری make mention of
+از... کردن؛ نامی / اسمی از... بردن؛ یادی از... کردن
+از چیزی / کسی صحبتی شدن. get a mention
+به چیزی./ کسی آشاره‌ای شدن, نامی / اسمی از کسی
+el یادی از کسی شدن
+از کسی receive / earn (honourable) mention
+تقدیر به Gal Jes از کسی قدردانی شدن
+از ... تقد یر ۶0۳ give one's (honourable) mention
+کردن :
+مشاور؛ معلم, استادء پیر / mentor /'mento:(r)
+7 ۱.(در رستوران) menu /'menju:/ Jie Coos
+منو ۲.(در کامپیوتر) Can, انتخاب. منو
+امشب )138( What's on the menu tonight?
+2( داریم؟ امشب غذا چی است؟
+
+MEP / em i: 'pi:/ > Member of the European
+Parliament Loot عضو پارلمان
+
+Mephistophelean / mefistsficlion / 8
+= Mephistophelian . Tei
+
+Mephistopheles /mefistofaliz/  سلفوتسیفم ۸
+
+)= نام دیوی در افسانه‌های 3 53 وسطا) ¢
+
+Mephistophelian/mefistsfilion / مفیستوفلسی, .۱ adj
+
+(مربوط 4( مفیستوفلس ۲. اهریمنی, شیطانی
+
+mercantile / باتهادها نع (US) بانفا- -til/ [کشتی. adf
+iy تاجر [ed] و غیره ] تجاری, بازرگانی؛ deme
+
+۱ بازرگان ۲. [شخص ] تاجرماب, بازاری؛ [رفتار, نگرش ]
+تاجرمابانه ۳ اقتصاد) ( مربوط به) مکتب سوداگری
+قانون تجارت mercantile law
+
+mercantile marine / ma:kontail ma'icn, (US)
+\ma3:kanti:l, ma:kantil/ ناوگان تجاری n
+mercantilisSm /'ma:kontilizom / Sa (اقتصاد) 7
+
+| 551 pe 5 Sh
+mercantilist /'ma:kontilist / ۱.(اقتصاد) پیرو
+سوداگری Se
+مربوط 4( مکتب سوداگری ( (las) X 47
+Mercator's projection /makertoz pra'dsok fn/
+(نقشه‌کشی) سیستم تصویر مرکاتور 1
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+adi ۱ (به طعنه) mercenary /'ma:smori, (US) -neri/
+[شخص ] مادّی, (Ns که برای پول کار می‌کند.
+پول‌دوست؛ [انگیزه, نگرش ] مادّی ۲. (نظامی) [سرباز]
+goes 0934
+Yn ( نظامی) 29°
+2 (در بریتانیا) Ol پارچه‌فروش mercer /masa(r)/
+mercerise /'ms:sararz/ = mercerize
+mercerised /'ms:soraizd/ = mercerized
+n (نساجی) مر سریزه 03,5« mercerize /'ma:soraiz/
+حریرنما کردن
+7 (نسّاجی) مرسریزه» حر یر mercerized /'maisoraizd (Ws
+YEN 2 جنس. merchandise /'ma:tfandaiz/
+مال‌التجاره
+vi ۲ تجارت کردن, خرید و فروش کردن
+Yow [کالا] به بازار: عرضه کردن؛ فروختن ۴.
+بازاریابی کردن برای؛ تبلیغ کردن (برای)
+a ۱. تاجر, 8,50 ,۲ ۰ merchant /matfont/
+سوداگر ۲.کاسب. مغازه‌دار (در 5 (eS —- فروش.
+تاجر > coal-merchant > ۴.(در بریتانیا, عامیانه) عاشق,
+دیوانه؛ کسی که مرض ... دارد > <a speed merchant
+4 ۵. تجاری, بازرگانی :
+[4 حقوق) قابل‌عرضه merchantable /'ma:tjontobl/
+به OBL قابل‌فروش
+merchant bank /ma:tfont benk/ «(s,s SSL :
+بان بازرگانی . . :
+2 بانکدار /(0داوهط merchant banker /ms:tfent
+تجاری؛ رئیس بانکي بازرگانی
+merchant banking | ma:tfant ‘benkin/
+بانكداري تجاری, ICL بازرگانی
+1 کشتی تجاری ۰ merchantman /ma;tfantmon/
+merchant marine / ma:tfant mariin/
+merchant navy =
+# ناوگان merchant navy /ma:tjent 'newvi/
+تجاری, کشتی‌های بازرگانی
+4 (در کشتی  merchant seaman /ms:tfont 'simon/
+تجاری) ملوان . :
+merchant service / ma:tfant 'sa:vis/
+merchant navy =
+ad) ۱. [شخص [ بخشندهء باگذشت؛ merciful /'ma:sifl/
+qr cole دل‌رحم. بزرگوار؛ [رفتار. [Jos
+بزرگوارانه ۲. نجات‌بخش
+LN adv مهربانی, از روی mercifully /'ma:stfalt/
+محبت. با بزرگواری؛ از روی بخشندگی, از روی
+کناشت ۲ (حاوره) خوشبختانه, الحمدلله, Has Sa
+ad) [شخص ] بی‌رحمء سنگدل.  ‘merciless /mastlis/
+بی‌گذشت؛ سرسخت. اشتی‌ناپذیره؛ [بباران, گرما و |
+غیره] بی‌امان |
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1032 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Mercury; mercy killing; merge; merger; meridian; merino; merino-sheep -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+0 با 2 «gammy بی‌رحمانه. mercilessly /ms:silislt/
+با سای با شقاوت., بی هیچ گذشتی؛ بی‌امان
+[ ۱.(مربوط به) جیوه؛ ۰ / mercurial /ma‘kjuortal
+جسیوه‌ای؛ جیوه‌مانند؛ سیمایگون؛ جیوه‌دار؛ از
+cope پا بو SHI] AMA و تیز» Ute
+جالاک؛ Ce [os] سریع‌الانتقال ۳ [ans] که
+رفتارش غیرقایل پیش‌بینی است. بی‌ثبات. دمدمی؛
+[ رفتار, اخلاق ] es ناپایدار» غیرقابل پیش‌بینی
+2 090 سیماب / mercury /'ms:kjuri
+1 ۱. مرکور (- در اساطیرٍ روم. Mercury /'ms:kjurt/
+پیام‌آور خدایان) ۲. (ستاره‌شناسی) تیر, عطارد
+2 ۱. رحم. بخشش.  Mercy /'ma:si/ ( pl mercies)
+ترخّم, شفقت, گذشت؛ (مذهب) رحمت ۲. (محاوره)
+سعادت., نعمت؛ شانس؛ Ll. خوشوقتی. Lila
+سعادت
+( حقوق) با with a recommendation to mercy
+توصیةٌ یک درجه تخقیف در مجازاث
+در دست, در اختیار؛ ge] دستخوش at the mercy of
+be left to the tender mercy / mercies of
+صابون ... به تن کسی خوردن. سر و کار کسی با ... افتادن
+(بیانگرِ تعجب) وای وای! Mercy! Mercy on us!
+ای وای! ( هنگام وحشت) به دادم برسید! کمک!
+(رسمی) از کسی throw oneself on sb's mercy
+طلب بخشایش کردن, از کسی Ab عفو کردن
+به for mercy's sake las bl
+تقاضای عفو کردن, در خواستِ beg for mercy
+بخشش کردن
+به کسی رحم کردن have mercy on sb
+It's a mercy that...  هللدمحلا Jus Silos ys
+be grateful / thankful for small mercies
+برای نعمت‌های کوچک شکرگزار بودن
+باز هم شانس اورد که His death was a mercy.
+زودتر مرد. مرد و راحت شد.
+۸۶ (محاوره) کشتن از mercy killing /'maist kig/
+روی ترحم
+adj صرف, mere’ /mia(r)/ (super merest) (ams
+خشک وخالی؛ ساده
+by یک بجّه است. She's a mere child.
+تنها یک 430 است. فقط یک بجّه است.
+ِ فقط پنج aids تنها پنج دقیقه a mere five minutes
+He is no mere boxer, he's the world |
+| تنها یک مشت‌زن خالی نیست, بلکه champion.
+| قهرمان lg هم هست.
+کمترین jez) کوچک‌ترین (چیز)؛ the merest sth
+ناچیز ترین ( چیز )؛ بی‌اهمیت‌ترین ( چیز)
+1=sit m=cat @=father D=got 0:= sa معا
+=go al = five au = Now ۵31-009 1 ناد el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+53 merit
+mere? /mio(r)/ برکه, آبگیر n
+merely / فقط. تنها / ات۵ bs صر 0
+أ not merely نه تنها dais نه
+أ I merely asked his name. اسمش را پرسیدم و بس.
+meretricious / ۳۵۲۲۱۲۲ /۵8/ جواهر و (Sind (omy) adj
+sb] غیره] پرزرق و برق؛ غلط‌اندازء گول‌زننده؛ ۱
+ٍ جذابیّت ] سطحی
+: ۵۲۵۲/0 لااکتا0۵ /merrtri اد /
+| به طرز گول‌زننده‌ای, به‌طور غلط‌اندازی 0
+| meretriciousness / mertr fasms / Gs زرق و ابز
+| حالتِ غلطانداز؛ حالتِ سطحی
+‘merge /ms:ds/ (بازرگانی) ادغام شدن, vi
+ جیردت در هم ادغام شدن ۲. [رنگ‌ها, صداها و غیره] به ۱
+A در هم ادغام شدن, به تدریج در هم فرورفتن»
+به تدریج در هم محو شدن؛ dy تدریج تبدیل شدن
+رودها ] ( با هم) یکی شدن, به هم پیوستن sels]
+(بازرگانی) ادغام کردن, در هم ادغام کردن ۳ wr
+merger /'ma:dsa(r)/ یکی شدن. الحاق ples n
+meridian /moridion/ Alias ۱.(جغرافی) #
+(ستاره‌شناسی) اوج ۳ (کهنه) ظهرء نیمروز ۴.(مجازی) Y
+قدرت. شهرت و غیره ] اوج. منتها درجه [
+منتها mol ۵.(مربوط به) نصف‌التهار ۶ مجازی) adf
+> his meridian splendour > ix,’
+meridiem /maridiam/ — ante meridiem, post
+meridiem
+meridional /monidianl/ ۱.(مربوط 4( جنوب.
+اروپا؛ (مربوط به) sia (4 جنوبی؛ (مربوط
+al posi
+Jol جنوب اروپا؛ Jal جنوب. جنوبی؛ Jal ۲
+۱ ۱ فرانسه ose
+meringue /moren/ (آشیزی) مَرّنگ؛ کيکي مَرّنگ mn
+۲۵۲۱۵۵ /ma'ri:nas/ ( p/ merinos) ۱.گوسفند ۶
+مرینوس ۲. پشم مرینوس؛ کُرک
+merino-sheep /۳۵71:۵۵0 /::0/ گُوسفند مرینوس 7
+merit /'ment/ امتیاز؛ ارزش. (os .۱
+شایستگی؛ قابلیّت. لیاقت ۲. مزیت. امتیاز
+(رسمی) ارزش ...را داشتن. استحقاق ...را داشتشن. ۳ 7
+شش ايستة...بودن. شسايستگي... را داشتتن.
+ل«ايقي ... بودن, سزاوارِ... بودن. درخور ... بودن
+a man of merit ay شایفنته. ادم pol
+make a merit of sth  .ندرک را خسن تلقّی Sn
+چیزی را یک امتیاز دانستن
+Don't make a merit of being punctual!
+خیال fran مگذار که آدم وقت‌شناسی ods بر کسی
+بزرگی است! pd نکن که وقت‌شناسی
+w  U=cook Uu:=t00 A=cup ۰ 3:0 01۳6 o= about
+= near وه = hair U2 = pure ela = player وله fire
+6= thin 8= this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1033 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: meritoriOUS; meritoriously; mer In; mermaid; merman; merrily; merry; merry-go-roundi'men gou raund; merrymaking; mesa; mesalllance; mescal; mescalin; mescaline; Mesdames; meseems; mesh; mesh bag; mesmeric; mesmerised; mesmerism; mesmerist; mesmerize; mesmerized; mesmerizing; meson -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+meritocracy 105
+i در موردٍ چیزی decide the case on its merits
+: بر حسب شایستگی‌هایش داوری کردن
+meritocracy /mert'tokrast / ( p/ meritocracies) :
+Coa gS An : شستاینتتگان, شایسته‌سالاری Ad
+شایستگان, افراد شایسته
+adj [جامعه ] شایسته‌سالار, / meritocratic / mertokratik
+: شاینده‌سالار
+af | (رسمی) [عمل, شخص و غیره ] / ۳۵۲۷۷:۲۵۶۹ / Meritorious
+| شایستهء ارزشمند, درخور ستایش, تحسین برانگیز
+adv | به نحو / meritoriously /merr'to:riosht
+| تحسین‌برانگیزی» 4 طورٍ شایسته‌ای
+#۸ (پرنده) ترمتای merlin /ma:lin/
+n (در Sp (Bel دریایی ۰ mermaid /mamerd/
+اب (در merman /mamen/ (pl mermen) (ball
+eo! | دریایی
+adv .با خوشحالی, با شادی. merrily /'merolt/
+| شادمانه ۲. به sb شادی‌بخشی ۳ با بی‌خیالی, با
+بی‌فکری. با لاقیدی
+۸ (رسمی) شادی, 33 merriment /'mertmant/( Joi
+شادمانی؛ خنده؛ بگو وبخند. جشن و سرور
+merry /'mert/ (comp merrier, super merriest)
+A ad) [شخص. صورت ] oli خوشحال, خوش, خندان؛
+dio] منظره و غیره] ols شادی‌بخش ۲. (کهند)
+دل‌انگیز, دلنشین» خوش ۳ (محاوره. در اثرِ مشروب)
+۳
+شنگول, شاد وشنگول, سرحال
+کریسمس wish sb a merry Christmas aly
+کسی تبریک گفتن
+mans JS مبارک] Merry Christmas!
+)1( شادی کردن, خوشحالی کردن. make merry
+جشن گرفتن, رقص و پایکوبی کردن, زدن و رقصیدن
+هرچه بیشتر the more the merrier Sg
+۸ چرخ و فلک merry-go-round /'mer gov ravnd/
+weal mn خوشحالی, / merrymaking /'merimerkiy
+شادمانی, رقص و پایکوبی, Cp شادخواری.
+(SLBA عیش و نوش
+(در آمریکا جغرافی) mesa /'meisa/ ) p/ mesas)
+تخت. تخت‌کوه
+2 (به طعنه) 5 mésalliance / merzzlia:ns/ Ceo
+ناجور. ازدواج نامناسب. ازدواج با فروتر
+(AE) Nn کاکتوس مکزیکی. mescal /'meskl/
+پیوت SF Y آگاو
+mescalin /'meskslin/ = mescaline
+مسکالین, پیوت. mescaline /'meskalin/
+پیوتل (< نوعی 3b توهم‌زا)
+of Madame ام Mesdames /merda:m/
+of ام Mesdemoiselles/merdmwszel/
+Mademoiselle
+
+<!-- REGION: RIGHT COLUMN -->
+
+x
+meseems /mi'siimz/ چنین می‌نماید که. (aS) vi
+چنین به نظر می‌اید که. گویی. انگاری, پنداری
+11۱69۱ / سوراخ chai [توره توری و غیره] .۱
+توری os ۳ تارها ans, نیز در جمع) شبکه. ۲
+[ماهی و غیره ] با تور گرفتن» صید کردن .۴ ۷
+] کردن ۶ [برنامه‌ها و غیره BS [چرخ‌دنده‌ها ] در هم .۵ ۶
+هماهنگ شدن. با هم خواندن, (HAs جفت و جور
+سازگار بودن
+in the mesh(es) of  .یاهرات (مجازی) در لابه‌لای
+bie در Kix در
+be in mesh چرخ‌دنده‌ها ] در هم گیر کرده بودن [
+mesh bag /'me/ bxg/ توری (Sdn
+meshed /mejt/ توری, توردار 4
+mesmeric /mezmenk/ ols (a bogs 0) ad
+Dalle .۲ مصنوعی؛ (مربوط به) هیپنوتیزم
+هیپنو تیزم‌کننده ۳. افسون‌کننده, جادویی, سحرانگیز,
+مسحورکننده
+mesmerise /'mezmoraiz/ = mesmerize
+mesmerised /'mezmoraizd/ = mesmerized
+mesmerising /mezmoraizig/ = mesmerizing
+mesmerism /'mezmartzom/ (کهنه) ۱. خواب mn
+مصنوعی, هیپنوتیزم ۲. افسون‌گری, جادوگری
+mesmerist /'mezmorist/ هیپنو تیزم‌گر Aan
+افسون‌گر, جادوگر .۲
+۲۵311۵۲126 /'mezmorarz/ هیپنو تیزم کزدن. AIRY
+مسحور کردن, افسون کردن, X خواب کردن
+55 Sass
+mesmerized /'mezmorarzd/ مفتون. ogee [
+شیفته
+1۱۵51۱۵۲12۱99 WIS) ga ad)
+خیره‌کننده, جذاب
+meson /'mi:san/ (فیزیک) مزون a
+mess’ /mes/ آشفتگی. (San shay N 1
+وضع ho افتضاح., وضع {sod rt درهم
+غم‌انگیز؛ کنافت؛ کنافت‌کاری؛ Cindy وحشتناک,
+.۲ گندکاری؛ اشغال(ها)» آتوآشغال, خرت‌وپرت
+۳ وضع مشکل, دردسر, گرفتاری, مُخمصه. مشکل
+| po! £8 محاوره, به شوخی) [سگ. گربه و غیره ] مدفوع, (
+| clas گند,
+[لباس ] کلیف کردن؛ [اتاق, مو. زندگی و غیره ] به هم 0 ۷
+ هب زدن» به هم ریختن, خراب کردن, گند زدن
+ٍ be (in) a mess به‌هم‌ريخته بودن, آشفته بودن,
+ٍ بودن, وضع درامی داشتن, Las! درهم‌پرهم بودن؛
+| غم‌انگیزی داشتن؛ کثیف بودن؛ کثافت بودن, گند Condy
+بودن, بد بودن
+13266 a mess of sth خراب کردن, by چیزی
+به چپزی گند زدن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1034 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: message; messenger; mess hall; Messiah; messianic; messianism; Messieurs; messily; messineSS; messing allowance; mess-jacket; mess kit; mess-mate; Messrs; mess tin; messuage; mess-up; messy; met I met; Met; metabolic -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+VE شوخی نمی‌کنم. راستش را می‌گویم. no messing
+بی‌شوخی
+Vw (محاوره) [شخص ] mess (sth / sb) about
+بد رفتار کردن WL تا کردن با؛ علاف کردن, سر
+دواندن؛ [برنامه و غیره ] خحراب کردن. به هم زدن.
+گند زدن توی
+(aya) .۲ وقت تلف کردنء ول (RES پرسه
+زدن ۳. مسخره‌بازی درآوردن. اذیت 03,5
+4 (محاوره) ۱. دخحالت mess about with sb/sth
+کردن درء مداخحله کردن در ۲. انگولک کردن به.
+ور رفتن با ۳. [شخص] بدرفتار کردن باء Las
+کردن با؛ علاف کردن, سر دواندن؛ ab] و [ort
+خراب کردن. به هم زدن, گند زدن توی ۴.
+dat, نامشروع داشتن با
+mess (sth / sb) around = mess (sth / sb)
+about
+mess around with sb / sth = mess about
+with sb / sth
+wr گند زدن به. به هم زدن, به هم 00 MESS Sth
+ریختن, آشفته کردن, خراب 05,8( به گند
+Oded
+Nv دخالت کردن در mess with sth / sb
+مداخحله کز دنا دی
+SILLY کردن به. ور رفتن با
+۸ ۱.(نظامی, غیره) غذا؛ نهارخوری, mess? /mes/
+غذاخوری؛ افراد هم‌غذاء افرادٍ هم‌سفره
+Wi ۴. (نظامی و غیره) 102 خوردن, هم‌غذا شدن» هم‌سفره
+شدن
+با هم غذا خوردن, هم‌سفره شدن. mess together
+هم‌غذا شدن
+plo .۱ ۸ پیغام ۲. [فیلم, کتاب ر  message /mesids/
+غیره] پیام؛ (مذهب) رسالت
+(عامیانه) دوزاري کسی افتادن, get the message
+گرفتن, حالي کسی شدن
+پیک. leks قاصد. messenger /mesmdsa(n)/
+فرستاده؛ (مذهب) رسول
+7 (نظامی) غذاخوری, mess hall /'mes ha:l/
+نهارخوری
+7 ۱.(در بپودیت) مسیح Messiah /mr'saa/
+۲ در مسیحیت) عیسی مسیح ۳ (نیز با حرف کوچک)
+| منجی. نجات‌دهنده, ناجی
+adj ۱.(مربوط (a مهدویّت. messianic /mestank/
+| مسیحایی, سوشیاننی ۲. [امسید. اعستقاد و غیره]
+| انتظارگونه, مسیحایی. سوشیانتی
+yon (اعتقاد messianism /mest'znizom/ (a
+ii=see 1=sit ®m=cat Go father p= got | ois sa
+el= say aU = go ar = five au = Now sg=boy 1
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 metabolise
+مهدویّت. (اعتقاد به) اندیشهٌ اننظار ۲.امید به
+=z
+رستگاری
+Messieurs /mer'sjs:(r)/ ام of Monsieur
+messily /'mesili/ به طرز نامر تبی» به طرزی 0
+طرز Ad نامنظم. به طور درهم‌برهمی.
+به‌هم‌ریخته‌ای؛ به وضع بدی» به شکل ناجوری.
+Sos
+messiness /'mesinis/ بی‌نظمی, نامرتبی, ۸
+درهم‌برهمی. به‌هم‌ریختگی
+messing allowance /'mesiy slavans/  )یماظن( 7
+خرج سفره Jie Js
+mess-jacket /'mes dsakit/ نظامی)." ( oS on
+یونیفورم
+mess Kit /'mes kit/ یغلاوی ۸
+mess-mate /'mes meit/ (نظامی, دریانوردی و غیره) 2
+همغذاء هم‌سفره
+Messrs /'mesaz/ < 5 ۱.اقایان 7
+(در عنوان‌های تجارتی) شرکت ۲
+Messrs Smith and Ford اسمیت و فورد GLH
+mess tin /'mes tin/ = mess kit
+messuage /'meswids/ (حقوق) خانه و متعلقاتِ آن 2
+mess-up /'mes ap/ خرابکاری. las! (0y5\ma) 72
+گندکاری
+messy /'mest/ (comp messier, super messiest)
+ht S را کثیف می‌کند. pol عمل و غیره] که Li] A adj
+کتیف‌کننده؛ که همه چیز ادم را به هم می‌ریزد؛
+۲ نامنظم, شاخته wos als کثیف؛ [oy 8 [شخص,
+مو و غیره] iio 5] ۳ کثیف؛ نورج [oni [ظرف و
+درهسم‌برهم. PO J کتیف؛ بسه‌هم‌ریخته.
+ناجورء بد. [easy] (محاوره) ۴ PS WR Vp ریخته
+قرو قاطی
+met /met/ ام of meet’
+Met! /met/ > meteorological (محاوره) 4
+مربوط 4( هواشناسی (
+the Met Office ادارة هواشناسی
+the Met report وضع هوا SR
+Met? /met/ > the Metropolitan Police
+NEY (در بریتانياء محاوره) پلیس 1
+Met3 /met/ > the Metropolitan Opera Company
+اترای CH JPR IIA اپشرای (6) s\n (در آمسریکا. 1
+نیو یورک
+metabolic / metobnlik/ (مربوط به) سوخت وساز, adj
+spond glia ستوخت -سازی. ( مربوط به)
+متابولیسمی
+metabolise /mstabalaiz/ = metabolize
+v  U=cook u:=too A=cup  3=bird a= about
+= near 2 = hair ولا = pure eld = player ara = fire
+@= thin 8 = this [= shoe 3= vision n=sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1035 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: metabolism; metal detector; metal fatigue; metallic; metallurgy; metalworker; metamorphose sb; metatarsi; mete -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+metabolism 105
+11 سوخت‌وساز / metabolism / matzbalizom
+: متابولیسم
+| ۷۸ (زیست‌شناسی) [غذا] metabolize /motzbalaiz/
+: سوزاندن, تجزیه و مصرف کردن, فعل و انفعال
+شیمیایی انجام دادن روی
+n : ۱.استخوانِ کف دست. metacarpal /metska:pl/
+متاکارپ
+adj | ۲ ( مربوط 4( استخوان‌های کف دست. bg a)
+| 4( کف دست. (مربوط 4( متاکارپ‌ها
+| ۸ (کالبدشناسی) metacarpus / metska:pos/ iS
+| دست. استخوان‌های کف دست. پنج استخوان کف
+| دست. بخش پنج‌استخوانی iS دست
+metal /'metl/ ( prp metalling, (US) metaling, |
+۱۶ فلز pt.pp metalled, (US) metaled)
+| ۲ (در بریتانیا, راه‌سازی) Kaa شکسته, خرده سنگ ۳
+( راه‌آهن, در جمع) خطء ریل ۴.(شیشه‌گری) Ran مذاب
+adj ه۵. فلری :
+۷ ۶.(کهنه) [جاده ] سنگ‌ریزی کردن
+فلزکاز a worker in metals
+#2 زبان‌شناسی) metalanguage / metslzngwids/
+فرازبان
+1 ۱.(دستگای)  metal detector /'meti ditekta(r)/
+فلزیاب ۲گنج یاب
+metaled /'metid/ (US) = metalled
+Sas n فلز, / metal fatigue /metl fatizg
+فرسودگي فلز
+ad ۱. فرازبانی / metalinguistic / metalry'gwistik
+۲ فرازبان‌شناختی :
+metalinguistics / metaliy'gwistiks / ۱
+فرازیان‌شناسی
+ad) [جاده ] سنگ‌ریزی‌شده metalled /'metld/
+adj ۱.فلزی ۲. فلزمانند؛ metallic /mrtehik/ [lao]
+خشک. گوئشن‌خراش ۳ [چشم. مو و غیره] براق,
+درخشان؛ [رنگ ] متالیک ۴ [مزه] ناخوشایند.
+غریب. نامطبوع
+پول 8 مسکوک metallic currency
+adi فلزشناختی, / لح :داعم / metallurgical
+(مربوط به) متالورژی - ۱
+metallurgist /mo'tzladsist, (US) ‘metols:rdsist/
+aaa n متالورژی. فلزشنتاس
+metallurgy /mo'tzladsr, (US) 'metols:rdst/
+۸ فلزشناسی: متالورژی
+۱.(هنر) فلزکاری, / metalwork /'metolwa:k
+ERY کار با فلز, کار فلز ۲, (a) کارهای pt
+Cand ۳ فلزی
+a فلزکار / metalworker /'metalws:ka(r)
+4 ۱.(رسمی) metamorphose / metamo:fovz/
+
+<!-- REGION: RIGHT COLUMN -->
+
+5
+شکل ...را تغییر دادن» ماهیّتِ...را تغییر دادن
+دگرگون کردن؛ fn کردن
+VE ۲.(رسمی) تغییر شکل دادن تغییر ماهیّت: دادن
+استحاله یافتن؛ َسخ.شدن؛ دگردیسی یافتن
+کسی / چیزی را metamorphose sb / sth into
+به... تبدیل کردن
+تبدیل شدن به metamorphose into
+metamorphoses / meto'mo: fasi:z/
+pl of metamorphosis
+metamorphosis / meta'mo: fasts /
+1 (رسمی) تغییر شکل, p! metamorphoses) (
+تغییر loa (cial دگرگونی؛ مسخ؛(زیست‌شناسی)
+دگردیسی
+1 ۱.(ادبیات) استعاره؛ metaphor /'metafa(r)/
+مجاز ۲.(هنر) gai (Joa ایماژ
+مجازامیزی کردن, mix one's metaphors
+استعاره‌ها را به هم آمیختن, استعاره‌ها را عوضی به کار
+بردن
+مجاز ی 3 a mixed metaphor
+استعاری. metaphorical / meta'forikl, (US) -forr-/
+مجازی
+5 بی بال I had sprouted metaphorical wings.
+دورد بودم.
+metaphorically | mets'forikls, (US) -foir-/
+0 به sb استعاری» با wo land به طور مجازی,
+Ts ۱
+ad ۱.(مربوط به) / metaphysical / mets'fizikl
+فلسفةٌ i Jo (مربوط به) متافیزیک. متافیزیکی.
+(مربوط به) مابعدالطبیعه, مابعدالطبیعی, ( مربوط
+به) علم برین ۲.(مربوط به) (aids فلسفی,
+(عرَبواط Cran (4s ۳ [سخن, استدلال ] مجرد.
+پیچیده؛ غامض, دشوار؛ [az] به Sh متافیزیکی
+(< به ad Siw قرنِ هفدهم بریتانیا)
+dads .۱ اولی. metaphysics / meta'fiziks/
+متافیزیک, مابعدالطبیعه, ماوراءالطبیعه. علم برین
+dads ۲ نظری, hinds حکمت ۳ (محاوره)
+حرف‌های مجرد؛ استدلال پیخیده |
+7 ۱ استخوان ‘metatarsal /mewtast/ oS
+متأتارس |
+adj ۲.(مربوط به) استخوانِ کفي پاء ( مربوط به) aS
+با bose (4 bye) |
+ metatarsi/metota:sar/ pl of metatarsus
+ metatarsus /metsta:sos/ ( pl metatarsi)
+7 (کالبدشناسی) oS پاء استخوان‌های کفي پاء پنج :
+استخوان کفي پاء بخش پنج‌استخواني کفي پا
+2 (زبان‌شناسی) قلب metathesis /me'tzfosts/ :
+۱۵1۵/4
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1036 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: meteoric; meteorological; meteorology; meterage; methadone; methane; methinks; method; methodical; methodically; Methodism; Methodist; methodological; methodologically; methodology; methought; methS; Methuselah; methyl; methyl alcohol; methylated spirit; meticulously; meticulousness; metier; metric; metrical; metricate; metrication; metricize; metrics; metric System; metrically; metric ton; Metro; metronomic; metropolis -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+(amy) 4 [مجازات. پاداش و غیره ] mete sth out
+در نظر گرفتن» مقرّر کردن» تعیین کردن
+شهاب (ثاقب), شخانه /(0:- meteor /mitia(r),
+meteoric / mi:tr'orik, (US) -:-/ (sles AN adj
+شهاب‌سنگی ۲ جوّی. استماقی ۴ (مجازق) oI]
+قدرت و ll pope تند و ناگهانی؛ خیره‌کننده؛
+کم‌دوام. زوادگذره کوتاه‌مدت
+۲ شهاب‌سنگ, سنگي آسمانی meteorite /'mi:toratt/
+meteorological / mi:tiara'lndsikl, (US) ۳:۵:۲-/
+ad) ۱.(مربوط 4( هواشناسی, هواشناختی ۲. جوّی.
+( مربوط به) هوا
+meteorologist /mi:tis'roladsist /
+Raia n هواشناسی, هواشناس
+هواشناسی / meteorology /mi:trarplads
+۱. [برق, گاز, آب ] کنتور؛ meter! /۳::۸۵)۲(/ [SU]
+تا کسی‌متر؛ (در ترکیب) - شمارء -سنج ۲. پارکومتر
+meter? /'mi:ta(r)/ (US) = metre 2
+۱. اندازه به متر meterage /'mi:torids/
+۲ نرخ بر حسپ مترء قیمت بر حسب متر
+(Sey) n (داروی) methadone /'meBadoun/
+متادون
+7 )58( متان methane /'mi:6emn/
+methinks /mréigks/ ( pr methought)
+Vi (کهنه) چنین می‌نماید. چنین به نظر می‌آید. پنداری,
+تو گویی
+۸ ۱. نظم cons ig نظم. نظم و نسق /۵24ع:/ method
+۲ شیوه» روش, اسلوب. ely (Gl طریقه. طرز
+خود را به have method in one's madness
+دیوانگی زدن, آنقدرها هم دیوانه نبودن
+adj \ منظم, سیستماتیک؛ methodical /mroodikl/
+باقاعده, دارای روش, روشمند ۲. [شخص ] منظم,
+مرتب
+Hob 4 adv منظم, methodically /mropdikli/
+منظم ومرتب» به طور (Silat روی روش.,
+روشمندانه. از روی اسلوب
+7 (مذهب) )45,3( متدیسم / مداد ۵۵ / Methodism
+2 ۱.(مذهب) متدیست 1۵1۱۹۵۱۹۱
+bye) Yad به) متدیسم. bye) به) متدیست‌هاء
+متدیستی» متدیست
+adj روش شناسانه. methodological / medadslodsikl/
+روش شناختی, (مربوط به) متدولوژی
+0 از A / رد0۵ / methodologically
+روش شناسی, به لحاظ متدولوژی
+7 ۱. زوش‌شناسی,»  /:02001345ع۳/ methodology
+متدولوژی ۲. روش‌هاء شیوه‌هاء اسلوب‌هاء راه» طرق
+i=see I=sit ®@=cal Q=father D=got 0:= se
+=go ar=five  av=now o1 =boy 13 ناد el = say
+asa= hour ~ j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 metropolis
+methought' /mreo:t/ 3 gad go چنین (aS) ۶
+پنداشتی. توف del a جنین به نظر
+methought? /mr6o:t/ pr of methinks
+meths /meds/ (محاوره) الکل صنعتی mpl
+Methuselah /mr'dju:zala, (US) -'0u:-/ ۱.(در تورات) 2
+نوح کرده است. کسی که jas متوشالح ۲ کسی که
+زیاد عمر کرده است
+methyl / ,لتق 'mi:Barl/ ۱ (شیمی) یل 8
+methyl alcohol / me61l 'zlkshol, ۹:02:17 (شیمی) 2
+الکل متیلیک. الکل چوب. متانول
+methylated spirit / ادف ‘spirit / ( (نیز در جمع
+الکل صنعتی. الکلِ جوب
+meticulous /mr'tikjuslas / [شخص [ دقیق. 4 |
+موشکاف. وسواسی؛ [توجه. مشاهده] دقیق,
+موشکافانه
+meticulously / 7 به دقت. / انا
+زیادء با نهایتِ دقت. با وسواس, خیلی cds با
+دقیق. موشکافانه
+meticulousness /mriikjslasnis / [کار ] دقت. ۸
+موشکافی
+métier /metier/ شغل, کار, cary (bon
+PB رشته Cran
+metre! /'mi:ta(r)/ متر
+metre? /'mita(r)/ 25 (ادییات) وزن (شعر)؛ 2
+metric /'metrik/ [اندازه, اندازه‌گیری ] متریک ad)
+metrical /'metrikl/  »راد‌نزو ۱.(ادبیات) موزون» ad)
+دارای وزن ۲. کمّی؛ قابل‌اندازه‌گیری
+metrical geometry هندسهٌ رقومی
+metrically /'metrikiz/ (ادییات) 4 لحاظ وزن؛ 0
+به طورِ موزون
+metricate /'metrikert/ متریک کردن. vt
+به سیستم متریک تبدیل کردن
+metrication /metriker/n/ تبدیل به سیستم
+متریک. متریک کردن
+metricize /'metrisarz/ متریک کردن VE
+metrics /'metriks/ (علم) عروض,» وزن شعر n
+metric system /metrik sistom/  )یریگ (در اندازه 2
+سیستم متریک
+metric ton /metrik 'tan/ (یک) تن n : -
+Metro /'metrau/ ( pl Metros) OF متروء
+زیرزمینی
+metronome /'metrsnasm/ (موسیقی) مترونوم 1
+metronomic / metranpmik / (iss) N adj
+منظم؛ یکنواخت .۲ EER (a مربوط (
+metropolis /matropalis/ ( p/ metropolises)
+w  U=cook u:=too A=cup =bird a= about
+= near ea = hair U9 = pure elo = player ara = fire
+6= thin 0 = this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1037 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: metropolitan bishop; Metropolitan France; the Metropolitan Po; mettle; show; mew; mews; mezzanine; mezzo i'metsau; mezzotint; MF; mg; Mgr; miaou; miaow; miasma; mice; Michaelmas; mick; mickle; micro; microbe; microbial; microbian; microbic -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+metropolitan 10:
+۸ مادرشهر؛ ga اصلی؛ پایتخت. مرکز؛ ONS شهر,
+سواد اعظم
+(Gs 58) لندن the Metropolis
+ad ۱.(مربوط به) metropolitan / metrspolitan/
+مادرشهر, مادرشهری؛ ( مربوط 4( شهر اصلی؛
+( مربوط به) پایتخت by a) (oi) به)
+سراسقف‌نشین, (مربوط به) مّطران‌نشین ۱
+۳ اهل مادرشهر, ساکن مادرشهر؛ اهل پایتخت.
+Temes ۱
+7 (با حرف بزرگ) / Metropolitan /metrapoliton
+plas! adn] سراسقف. olka
+metropolitan bishop /metrapolitan 'bifop/
+Metropolitan = ۱
+Metropolitan France /metropolston 'fra:ns/
+سرزمین اصلي فرانسه. فرانسه
+ام Metropolitan Police /metrapolitan
+)7 پلیس the Metropolitan Police od
+۱. [شخص وغیره ] جرئت, شهامت؛ mettle /meti/
+غیرت. حمیّت؛ روحیه ۲. طاقت. (Jams تاب و
+توان
+هر چه در توان داشتن کردن. be on one's mettle
+قابلیّت‌های خود را نشان دادن؛ قابلیّت‌های خود را
+a3) Soa
+کسی را سر غیرت آوردن؛ put sb on his mettle
+قابلیّت‌های کسی را سنجیدن, کسی را محک زدن
+خود را نشان دادن show / prove one's mettle
+قابلیّت‌های خود را نشان دادن
+Nad) پردل, پرجرئت. mettlesome /'metisom/
+los باشهامت؛ [رفتار] شجاعانه ۲. [اسب]
+CS ۱
+7 ۱.میو (sega صدای 45 mew /mju:/
+۲.صدای مرغ نوروزی
+vi ۳ اگربه ] gen کردن. میومیو کردن؛» صدا کردن ۴.
+[مرغ نوروزی ] صدا کردن
+7 ۱.(کهه) اصطبل‌های  mews /mjuz/ (pl mews)
+سلطنتی PEL میوز. میوز )32 شهر Jor pad
+اصطبل‌های سابق که اینک به خانه تبدیل شده‌اند)؛ خانه‌ها(ی
+538 میوز) BX نقلی, امیوز
+adj ۱.(مربوط به) مکزیک. Mexican /meksikan/
+مکزیکی
+)7 ۲. مکزیکی. Jo! مکزریک
+n مکزیک / ادا هل / Mexico
+۸ ۱. نیم‌طبقه. میان‌اشکوب mezzanine /mezoniin/
+۲ (سینما, کاتر) ردیف‌های جلوی بالکن
+ib میان‌اشکوب a mezzanine floor
+۷0 .(موسیقی) chad متسو mezzo /'metsav/
+7 ۲.(محاوره, موسیقی) sete سوپرانو
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 -—— -
+mezzo-soprano / metsas sapra:nav,
+(US) sa'praznav / (صدا, خواننده) متسو سو‌پرانو 7
+mezzotint (چاپ) گراوور ره 7
+سایه‌روشن, باسمهٌ نیم‌سایه‌دار ee نیم‌سایه‌دار,
+MF / em 'ef/ > medium frequency رادیو) 0) 1
+موج متوسط
+mg /'mihgram/ < milligram
+Mgr /mon'si:nja(r)/ < Monsignor
+MHz /'megohs:ts/ < megahertz
+mi’ /mi:/ (موسیقی) می 7
+mi? /mail/ (US) > mile(s) n
+MI5 /.em ar 7 آی ۵ )= قسمت امنیتِ داخلی el n
+در 3500 32 اطلاعاتٍ ارتش بریتانیا)
+MI6 / em a1 'siks/ جاسورسون در Cai کاخ Til ام n
+) اطلاعاتٍ ارتشي بریتانیا 3 40)
+miaou /mias/ = mew
+Miaow /mirav/ = mew
+miasma /mr'zzma/ TRE (رسمی) ۱. بخار 7
+بوی بد. بوی عفن ۲.(مجازی) فضای مخرّب, فضای
+الوده. 3 مسموم؛ تا یر مخرّب
+mica /'maika/ (زمین‌شناسی) میکا 2
+mice /mais/ pl of mouse
+Michael /'maiki/ (مذهب) میکائیل
+Michaelmas /'mikimas/ عید سن‌میشل.
+میکائیل (< روز ۲۹ سپتامبر) Sas
+Michaelmas Day میکائیل Sof عیدٍ سن‌میشل.
+Michaelmas daisy /mikimas گل مینا ال n
+Michaelmas term /mikimos 't3:m/ Ll (در n
+دانشگاه) ترم پاییزی
+mick / (در بریتانیا) آیرلندی خر
+mickey /'miki/ :
+take the mickey out of sb (محاوره) کسی را 7
+دست انداختن» کسی را سیاه کردن. کسی را رنگ کردن,
+سر کار گذانتق 5
+IIc's always taking the mickey. کارش رنگ کردن
+جماعت است.
+Mickey Mouse بچٌگانه. کودکانه. مبتذل, حقیر,
+بی‌آرزش
+mickle /mikl/ عالم ob) lade (در اسکاتلند)
+Many a little makes a mickle. (prov)
+قطره قطره جمع گردد وانگهی دریا شود.
+۲۱۵۲۵ /'markras/ ( 0/7 micros) (محاوره) 7
+ریزکامپیوتر
+microbe /'maikrach / میکروب
+microbial /mar'krasbial / = microbic
+microbian /markrasbian / = microbic
+microbic /markrubik / میکروبی
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1038 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: microchip; microcomputer; microfiche; micrometer; microphone; microprocessor; microscope; microscopic; mid; middle; middle age -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+microbiologist /maikrasbarnladsist /
+میکروب‌شناس» میکروبیولوژیست 7
+microbiology / دواد واه /
+میکروب‌شناسی, میکروبیولوژی
+microchip /'markrout | asl gn, (کامپیوتر)
+microcomputer / maikroskam'pju:ta(r) /
+ریزکامپیو تر 1
+microcosm /'maikrasknzom/ عالم صغیر, Nn
+R505 نهونة Vo Ld]
+in microcosm در ابعادٍ کوچک‌تری, در مقیاس
+5,9
+microdot /'maikrosdot/ ریزنسخه, میکرودات ۸
+micro-electronic /markrau او /
+میکروالکترونیکی. ریزالکترونیکی, (مربوط به) ad
+میکروالکترونیک. ( مربوط 4( ریزالکترونیک
+micro-electronics/maikras 5 /
+میکروالکترونیک. ریزالکترونیک ۸
+میکر وفیش, رت و ره وی n
+میکروفیلم (div)
+microfilm /'matkrasfilm/ میکروفیلم Nn
+میکروفیلم کردن؛ میکروفیلم گرفتن از .۲
+microlight /'maikravlait / مایکرولایت. n
+هواپیمای 355( سبک
+micrometer /markromuta(r) / ریزسنج «fio Sn n
+micron /'maikron/ میکرون. میکرومتر n
+micro-organism/maikras s:gonizam/ موجود Nl
+ذره‌بینی» موجودٍ میکروسکپی. میکروب
+microphone /'maikrafaun / میکروفن 1
+Microprocessor /'maikravpravsesa(r) / (کامپیو تر) 7
+ریزپردازنده, میکروپروسسور
+microscope /‘maikraskaup / میکروسکپ n
+MiCroSCOPIC /markraskopik/  ,یپکسورکیم.۱ 4
+ریز یار کوچک. خرد ۳ دقیق. ۲ ENTREE
+موشکافانه
+microscopical / maikra'skopik! / = microscopic
+microscopically / markra'sknpikli /
+۳ زیادی Jo تا (she ol ۲ میکروسکپ Loy adv
+دقت, خیلی دقیق, موشکافانه 4
+microsecond /'maikrovsckand / میکروثانیه. ۱
+یک ) میلیونیم ثانیه ( |
+microwave /'markravwerv / مایکروویو. Nan
+مایکروویو gl .۲ ریزموج ٍ
+با مایکروویو پختن ۳ vi |
+a microwave oven اجاق مایکروویو |
+micturate / miktjvarest / آدرار کردن 7 |
+i:=see 1=sit @=cat a=father D=got 0:=sa
+el=say o=go ar=five as=now  ol=boy 12
+aya = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 middle age
+micturition / miktjuo'ri fn / (عمل) آادرار کزدن. n
+ادرار"
+mid! /mid/ نیم وسط. میانةٌ؛ اواسط. وسط‌ها ad)
+<in mid winter >
+mid? /mid/ وسط plea ) ادبی prep
+mid-air / mid ‘ea(r)/ اسمان, هوا .۱ 7
+در آسمان don .در ad) (
+in mid-air در هواء در آسمان
+leave sth in mid-air.) ole (مجازی) چیزی را
+کردن, چیزی را نیمه کاره رها کردن» چیزی Jy و آسمان
+را پادرهوا گذاشتن
+Midas /'maidas/ یونان, bl میداس (- در #
+پادشاهی که دست به هر چه می‌زد طلا می‌شد)
+Midas touch /'maidas tatf/ اعجاز اقتصادی. n
+اعجاز پول‌سازی (Jl توفيقي
+have the Midas touch دست به هر چیز زدن
+شدن ps
+midday /middes/ 5, dows ¥ نیمروز eb .۱ 7
+اواسط روز
+the midday meal sab
+midden /'midn/ زباله, کنافت NE اشغال, NE n
+This place is (like) a midden! Ln Bisset
+یک آشغالدانی است! (Joo) یک طویله است! اینجا Joo
+middle /midl/ کمر؛ (ls Se ols ws .۱ 7
+داخل, نو [ma] ۳ اواسط ۲.(محاوره) [شخص ] کمر
+۴.وسطی, میانی ad)
+pig / piggy / in the middle — pig
+pickle in the middle — pickle
+in the middle of 15a در وسط, در ۱
+در اواسط ۲. در حین, در خلال
+be in the middle of doing sth اکاری J در
+بودن, سرگرم انجام کاری بودن, وسط کاری بودن
+I'm in the middle of reading دارم می‌خوانمش..)؛ :
+in the middle of nowhere — nowhere
+down the middle از میان, از وسط
+up to the middle تا کمر os تا
+a middle course مجازی) راه وسط. راه میانه (
+take / follow a middle course
+را وسط را انتخاب کردن / در پیش 8,5( وسط را
+گرفتن
+be of middle quality بودن bse
+a man of middle size متوسط cul آدمی با قد و
+He was in his middle thirties. حدودٍ سی و
+پنج سال دافنت.
+middle age /midl ‘eids/ میانسالی ae اواسط n
+v  U=cook u:=100 A=cup 3=bird o= aboul
+- near €3 = hair U9 = pure ero = player aro = fire
+6= thin d= this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1039 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: middle-aged spread; Middle Ages; middle age spread; Middle America; middlebrow; middle C; middle class; middle-class; middledistance; middle-distance; middle ear; Middle East; Middle Eastern; middle finger; middle ground; Middle Kingdom; middleman; middle management; middle manager; middle name; middle-of-the road; middle school; middle-sized; middle watch; middleweight; middling; middy; middy blouse; midfield; midge; midget; midland; Midland; mid-life; mid-life crisis; midmost; midnight -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+middle-aged 10
+middle-aged /mid! ‘erdsd/ میانسال adj
+the middle-aged آفراد میانسال |
+middle-aged spread / mid! فده
+آدم‌های میانسال, چاقي میانسالگی Bl
+She was showing signs of middle-aged spread.
+با بالا ,3 سنش داشت چاق می‌شد.
+Middle Ages / mid] /امدله. ۱
+the Middle Ages قرونِ وسطا mpl
+middle age spread / mid! exds 'spred/
+= middle-aged spread
+Middle America / mud smenka/ متوسط dik ۸
+آمریکا
+۱ middiebrow /mudibrav/ ۱.(محاوره) [فیلم, کتاب و 7
+غیره ] عامه پسند. مردم‌پسند. بازاری
+Co ساده‌پسند. ادم معمولی, ادم متوسط pal yn
+middle 0 /mudi si/  ینایم 55 (21) (موسیقی) 1
+middle class / mid! kla:s, (US) klzs/ طبقةٌ
+: متوسط Slik متوسط,
+middle-class /midl kla:s, (US) klzs/
+طبقات متوسط dab (4 (مربوط ad
+middle distance /midi ‘distans/ (sb ۱.(هنر و 4
+.۲ منظرةٌ وسط. میان‌زمینه» وسط تابلو؛ وسط
+(ورزش) دو نیمه‌استقامت
+middle-distance/ midi ‘distons/ دوه dil] ad)
+دونده ] نیمه‌استقامت
+middle ear /mud! :۵)(/ گوش میانی (aad) 1
+Middle East / md! ‘i:st/ ’
+the Middle East خاورمیانه nm
+Middle Eastern / midi ‘i:stan/ خاورمیانه‌ای. 4
+مربوط به) خاورمیانه (
+middle finger /mudi 'finga()/  ینایم انگشتِ 1
+middle ground /'mrd! grasnd/ مو ضع میانه. 4
+حدٍ وسط
+to occupy the middle ground میانه‌رو بودن
+Middle Kingdom / اف ‘kipdem/
+the Middle Kingdom امپراتوري مصر Non
+مرکزی or oor امپراتوري چین ۳. ایالاتٍ مركزي .۲
+middleman /'midiman/ ( p/ middlemen)
+واسطه JY (بازرگانی و غیره) 7
+middle management /midl 'menidsmant/
+مدیریّتِ میانی p53 83) Cpe (بازرگانی) ۸
+middle manager / mid 27039 )7(/ (بازرگانی) #
+رده دوم. مدیر میانی Ae
+middle name / mud! nerm/ اسم میانی ۸
+Charm is her middle name. مجازی, محاوره) تا (
+دلت بخواهد جذاب است.
+middle-of-the road / midi av دق
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+seals] oY adj . شخص و غیره ] محافظه کارانه. میانه‌ری
+معتدل ۲. معمولی, (Jhon lon متوسطالاحوال
+du ue 2 راهنمایی؛ middle school /'mid sku:l/
+دورة راهنمایی
+adj [شخص ] با هیکل middle-sized / midi 'sarzd/
+tle gos متوسّطالقامه؛ [درخت. چوب, ساختمان ]
+bl gz 4 بلند و A کوتاه
+7 (دریانوردی) middle watch / md! 'wotf/
+نگهبانی نیمه شب
+7[ ۱.(ورزش) میان‌وزن  middleweight /'midiwert/
+8 ۲. مشت‌زن میان‌وزن» یکسورٍ ۷۲ کیلوگرم
+Middle West / mud! 'west/
+7 (در آمریکا) میدوست. نواحی the Middle West
+شمال ECS FA
+adj 4 خوب  & میانه‌حال» middling /midlig/
+بینابین. معمولی؛ BEACH
+XY adv (محاوره) نسبتاء بفهمی‌نفهمی
+7 ۳ جنس نامرغوب., جنس متوسشط ۴ (در جمع) al
+زبر» گندم نیم‌کوب
+کاسبی بد نیست. Business is middling.
+( محاوره) ای بد نیست. He is (fair to) middling.
+SH) نیست.
+7 (محاوره) ۱.(در آمریکا) middy /'midi/ ( p/ middies)
+دانشجوی نیروی دریایی ۲.(در بریتانیا) ناویان سوم
+اهاط blavz, (US) تفه / middy blouse
+A n ملوانی
+4 (فوتبال و غیره) ۱. قسمتی midfield / mudfi:1d/
+مياني زمین» Bla میدان ۲. بازیکن خطٍ میانی,
+Sele
+۸ چٌشه‌ریزه midge /mids/
+۸ ۱. کو توله / 4 midget
+adj ۲.کوچک. خیلی کوچک. ریزه
+sn مرکزی / دا / midland
+bya) XY adj به) نواحي SFr مرکزی
+ad) (مربوط 4( میدلندز میدلندی Midland /'midiond/
+( در انگلستان) میدلندز the Midlands
+b yy 0) adj 4( میانسالی mid-life /'mud tarf/
+7 بحرانِ میانسالی mid-life crisis / mid larf krarsts/
+adj ۱.(مربوط 4( وسط midmorning /midmomnty/
+صبح
+Ls .۲ صبح, پیش از ظهر
+adj ۱.درست در وسط / ۵5 / midmost
+on FES .۲ نهفته ترین» درونی ترین
+adv ۳ درست در وسط
+نیمه‌شب. نصفي شب midnight /'midnart/
+تا دیروقت کار کردن. burn the midnight oil
+تا دیروقت بیدار نشستن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1040 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: midnight sun; mid-off; mid-on; mid-range; midriff; midships; midst; Midwestern; midwife; midwifery; midwinter; midwives; midyear; in our; midstream; change; midsummer; Midsummer Day; midterm; midway; midweek; Midwest; That might; We might -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+(محاوره) His essay smells of the midnight oil.
+مقاله‌اش بوی بیدارخوابی می‌دهد. معلوم است که تمام
+شب‌زا برای 5 G28 مقاله lig مائذه است.
+2 آفتاب نیمه شب.  midnight SUN /mudnatt ‘san/
+خورشیلٍ نیمه شب
+Blige n (- در کریکت.  /۱:۶ mid-off / ۳:۵ of, (US)
+جایگاهی در سمتِ چپ عقپ توپ‌زن و بازیکن (oF
+7 میدآن (< در کریکت, جایگاهی در /۵۸ Mid-on /mid
+gly Game عقپ توپ‌زن و بازیکن آن]
+adj متوسط mid-range / mid 'reinds/
+8 ۱.(کالبدشناسی) 251305( حجاب midriff /midnf/
+حاجز PLR دل؛ [لباس ] جلوی شکم
+midshipman /'mid fipman/ ( p/ midshipmen)
+2 ۱.(در آمریکا) دانشجوی نیروی دریایی ۲.(در بریتانیا)
+ناوبان سوم
+midships /'mrdfips/ = amidships
+۸ ۱.(کهنه, ادبی) میان midst /midst/
+0 . (کهنه. ادبی) در ob
+Whe (53) )52( وسط, in the midst of
+(در) کانون؛ )50( بین ۲. در حین . در خلال, در ls
+در جریان, در حال؛ در قلب
+(محاوره) داشتم I was in the midst of saying...
+می‌گفتم (که)...
+بسن ما / شماء در oles ما / شما in our / your midst
+1 وسط «ol وسط رودخانه midstream / midstriim/
+)0( وسط کار, وسط قضیه in midstream
+change / swap horses in midstream — horse
+2 وسط تابستان, midsummer / mid'sama(r)/
+نیمةٌ تابستان, Lr تابستان
+دیو انگي محض, حماقتِ midsummer madness
+محض, اوج gol os دیوانگی
+Jue 7 سن‌ژان. Midsummer Day / midsama ‘det/
+Jos یحیی )= ۲۴ ژوئن)
+“Midsummer's Day / midsamoz ‘der/
+Midsummer Day =
+۱.(دانشگاه) midterm /midtam/ Jaws ip 5a
+ترمء میان‌ترم ۲. (سیاسی) میان‌دوره‌ای
+1 (دانشگاه) ۳ امتحان نیم‌ترم» امتحانِ میان‌ترم. امتحانِ
+میدترم ۴. تعطیلات وسط ترم
+تعطیلاتِ وسط ترم midterm holidays
+0۳ (در) وسط wl, (در) بین midway /midwer/
+wel, در نیمه راه؛ (در) وسط کار؛ وسط oe
+om میان, وسط midway between
+0 ۱ وسط (asia اواسط هفته midweek /midwik/
+adj ¥ میان‌هفته‌ای, ( مربوط به) وسط هفته
+i=see 1=sit m=cat a=father D=got 0 5
+el = say W=go ar = five ay = now o1=boy 13
+ayo = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+51 might
+Midwest / midwest/
+| the Midwest (در آمریکا) میدوست. نواحي شمال 7
+| مرکزی
+Midwestern /midweston/ (در آمریکا) ( مربوط به) adj
+| میدوست. میدوستی, ( مربوط به) نواحي شمال مرکزی. شمال
+| مرکزی؛ (مربوط به) مردم میدوست {
+midwife /'midwarf/ ( pl midwives) قابله Ln
+| midwifery /'midwifari, (US) -warf-/ (bole 7
+قابلگی
+midwinter / midwinta(r)/  طسو ۱.(مربوط به) adj
+زمستان
+۲.وسط زمستان؛ چلَّهُ زمستان ۳ اول زمستان, شب (
+p : ol ۱
+midwives /'midwarvz/ ام of midwife
+midyear / mudjia(r) / (a ۱.(دانشگاه) ( مربوط 7
+سال oy
+سال oles ۲.(دانشگاه) آمتحانِ وسط سال, امتحانِ 2
+mien /min/  ؛تئیه (ادبی) ظاهر, حالت. قیافه, nm
+سیما co gr
+miffed /mift/ پکر, دلخور, ناراحت؛ (fod (عامیانه) 7
+SAS عصبی, عصبانی»
+might! /mart/ pt of may
+might? /mart/ نیروء» زورء قَوّه Ole قدرت.»
+Might is right. (prov) حق با کسی است که
+زور دارد. برو قوی شو اگر راحتِ جهان طلبی.
+with might and main; with all one's might
+تمام توان bye با تمام قدرت. با تمام
+کار بردی: AS ۱
+را برای بیان may و might نكتة دستوری: افعال معین
+حال يا آینده oles يا وجودٍ چیزی, در hes احتمالي وقوع
+به کار می‌برند:
+That might / may be our taxi now.
+We might / may go away for the weekend if the
+weather's nice.
+را هنگامی به‌کار می‌برند که وقوع could gee Jud
+. آمری ممکن اما غیرمحتمل باشد:
+There could be a few tickets left, I suppose.
+جای خود may و might (ER در جملات پرسشی و
+می‌دهند: could scan را به
+Do you think they could have missed the
+plane? _ Yes, they may / might have.
+could have و may have might have افعال معین
+might آن‌ها به ترتیب عبارتند از ite را که صورت‌های
+هنگامی به‌کار می‌پرند که may not have و not have
+سخن از گذشته در میان باشد:
+w 00006 Uu:=t00 A=cup %=bird o= about
+= near €9 = hair ua = pure ela = player aro = fire
+8= thin 6- this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1041 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: She might; mightily; mightn't; mighty; mignonette; migraine; migrant; migrate; migratory; migratory movement; mikado; mike; milady; milage; milch; mild; mildew; mildewed; mildly; mild-mannered; mildness; mild steel; mile; miles from anywhere -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mightily 10
+The plane may / might / could have been delayed.
+She might / may not have had the letter yet.
+Jul معین mightn't L might not و may not با
+Smayn't 1026 SO se بسیار به ندرت مورد استفاده
+قرار می‌گیرد در مورد احتمال عدم glist کار یا عملی در
+آینده به کار می‌رود: :
+She might / may not go to the party.
+I mightn't be home till late this evening. ۱
+0 ۱.(کهنه محاوره) به شدت. mightily /'maitili/
+خیلی. ool حسابی. پاک ۲.(ادبی) با تمام توان, با
+تمام نیروء با قدرت, محکم ’
+mightn't /'marmt/ = might not
+mighty /'maiu / (comp mightier, super mightiest) ۱
+4 ۱.(ادبی) تواناء قدرتمند. قوی» توانمند. نیرومند.
+زورمند ۲. عظیمء بزرگ؛ باعظمت. پرصلایت ۳
+(محاوره) زیاد؛ محکم؛ حسابی ۴. [ضربه ] EX LI
+(So کوبنده
+0 ۵.(محاوره) J پاک. حسابی
+The pen is mightier than the sword. — pen’
+قدرتمند, پرقدرت, مقتدر. high and mighty
+قَدّ رقدرت. قادر
+( محاوره) خود را گرفتن. be/ act high and mighty
+باد کردن» خیلی مهم تشریف داشتن
+خیلی عصبانی بودن, be in a mighty rage
+خون خونِ کسی را خوردن
+(AS) 1 اسپرک mignhonette / mmjsnet/
+7 میگرن migraine /'mi:grein, (US) 'margrem/
+adj ۱. [پرنده, حیوان, شخص ] مهاجر؛ migrant /'margront/
+[wl] کوچ‌نشین» کوچنده
+dh, .۲ مهاجر؛ ماهي مهاجر؛ حیوان مهاجر ۳.
+مهاجر؛ کوچ‌نشین؛ ( در جمع) عشایر Sosy
+مهاجر؛ SS فصلی, SNS موسمی
+کارگر مهاجر؛ AS فصلی, a migrant worker
+SS موسمی
+کار فصلی, کار موسمی migrant labour
+migrate /mar'grent, (US) 'margrert/ : [aii] Novi
+res © کردن, رفتن؛ [ابل ] کوچ کردن ۲. [پرندگان,
+ماهی‌ها ] مهاجرت کردن
+7 ۱. [شخص ] مهاجرت؛ اد هه مها 1۰زور
+[ابل ] A zs [ برندگان, ماهی‌ها ] مهاجرت
+migratory /'maigratri, margrentars, (US) 1
+point] . 4 پرنده, ماهی ] مهاجر؛ [ایل ] کوچنده.
+کوچ‌نشین ۲.(مربوط به) مهاجرت
+مهاجرت migratory movement / journey
+میکادی mikado /۵:۵۹۵/ ( p/ mikados)
+امپراتورٍ ژاپن
+72 (محاوره) میکروفن mike /maik/
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+(ad) n بانوی من بانو؛ خانم 3 3 milady /mileidi/
+milage /'mailids/ = mileage
+ad) ]38 و غیره ] yu 03 شیری milch /nultf/
+mild /maild/ (comp milder, super mildest)
+A ad آشخص, Ss صدا, 3s وخورقیره] مهریان,
+ارام؛ ملایم؛ متین؛ لطیف؛ [جواب ] pi ملایم؛ [es]
+ملایم ۲. [هوا] (ha معتدل؛ [زمستان,باد ] ملایم ۳.
+. [غذا. شس و [opt کم‌ادویه؛ کم چاشنی؛ کم‌نمک؛
+کم فلفل؛ [مزه سیگار ] ملایم ۴ [بیماری, تب ] ملایم.
+خفیف؛ [دارو ] سبک ۵. [علاقه. تعجّب و غیره] کم؛
+[ تأثیر, تلاش, اعتراض ] مختصرء کم؛ [مجازات, تمرین ]
+سبک ۶. ol wale] پاک‌کننده ] ملایم
+2 ۷.(در بریتانیا) ابجوی ملایم
+PVN PR سرد نیست. It's mild today.
+Draw it mild! — draw’
+7 ۱.(روی غذا و غیره) mildew /mildju:, (US) -du:/
+SS ۲ (گیاء‌شناسی) بادزدگی, نک &
+die] ۳ wr چرم و غیره ] SS eb زدن...شدن ۴ [گیاه]
+cel بادزدگی gas... باعش زنگ زدن ...شدن
+vi ۵. [غذا, pz و غیره ] کیک زدن ۶. [گیاء] بادزدگی پیدا
+کردن, بادزده شدن. زنگ زدن
+mildewed /'mildju:d, (US) -du:d/ 033 8S adj
+adv .4 آرامی. با ملایمت. mildly /'maridis/
+با متانت, با مهربانی, به as ارام ۲.(یک) کمی؛
+مختصری, یک 1033 (بیماری) به ob خفیفی
+(محاوره) کمترین چیزی که to put it mildly
+می‌شود گفت این است که.... بدون GLE
+ol کمترین چیزی That's putting it mildly!
+است که می‌شود گفت! هیچ چیز هم که نگوییم!
+adj [شخص [ مهربان» mild-mannered / ۳۵:۱۵ 'manad/
+ملایم, آرام؛ موْدّب. باادب
+Non مهربانی, ملایمت. ۹ mildness /'marldnis/
+a 5 لطافت. ارامش, ارامی؛ متانت؛ [as] ملایم
+بودن» سبک بودن ۲. [هوا] ملایمت, اعتدال ۳
+[بیماری ] خفیف بودن, ملایم بودن ۴. [غذا] کم‌نمکی؛
+کم‌فلفلی؛ کم‌ادویه بودن؛ کم چاشنی بودن ۵. [صابون,
+موادٍ پاک‌کننده ] ملایم بودن
+7 فولادٍ نرم 17 ما۵ / mild steel
+aly <( Jee (bed 7 طول برابر با ۱۶۰۹ متر) mile /mail/
+Y (ورزش) دو یک go (ele هزار و پانصد متر
+کیلومترها, کیلومترها for miles and miles
+و کیلومترها, فرسنگ‌ها, فرسنگ‌ها و فرسنگ‌ها
+دورافتاده. miles from anywhere / nowhere
+wy دور از آب و آبادی
+همین نزدیکی‌ها, not a hundred miles from here
+نه چندان دور از اینجا
+( محاوره) Js خیلی‌خیلی, حسابی miles
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1042 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: stick out; mileage allowance; milepost; miler; milieux; militancy; militarisation; militarise; militarism; militarization; militarize; military; military police; military service -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+There's no one within miles of him.
+رقیب ندارد. هیچ‌کس به پایش نمی‌رسد.
+خیلی دور miles away
+( مجازی, محاوره) حواس کسی جای be miles away
+دیگری og اینجا نبودن
+(محاوره) خیلی پرت بودن be miles out
+(محاوره) خیلی. یک فرسخ by miles; by a mile
+خیلی دورتر I missed the target by a mile.
+از هدف زدم.
+(مجازی, محاوره) Jo روز tell / see sth a mile off
+روشن بودن, از یک فرسخی هم معلوم بودن
+( محاوره) کاملا stick out / stand out a mile
+معلوم بودن, کاملاً روشن بودن, از یک کیلومتری داد
+زدن
+( محاوره) ار یک stick out / stand a mile from
+سر و گردن بلندتر بودن
+( محاوره) فرار کردن ( از )» run a mile (from)
+دررفتن ( از ). طرفی... نرفتن
+He ran the mile in 4 minutes / 2 4-minute
+یک مایل / هزارو پانصد متر را در چهار mile.
+دقیقه دوید.
+)3,55 چهار He broke the 4-minute mile.
+دقيقه‌اي (دوٍ) یک مایل / هزار و پانصد متر را شکست.
+7 ۱.(اتومبیل و غیره) mileage /'mailids/ Clas
+پیموده‌شده, مسافت ۲.(اتومیل) مصرف. میزان
+مصرف ۳.(اداری) dna سفر (برای هر مایل) ۴.
+( محاوره) فایده» سود نفع» استفاده
+اتومبیلی که کم a car with a small milcage
+کار کرده است, aS gale پایین
+n (آداری) / mileage allowance /'marhids slasans
+Ay سفر
+a کیلومترشمار / mileometer /martomita(r)
+Nn ( تأبلوی) کیلومتر / milepost /'matipaust
+iki .۲ عطف
+7 (محاوره, ورزش) 52555 یک miler /maila(r)/ «ble
+دوندةٌ هزار و پانصد متر
+An سک فرسخ‌شمار, / milestone /'mailstaun
+میل, مسافت‌نما ۲. cakes ibs
+milieu /'mi:ljs:, (US) misljs:/ ( p/ milieus, milieux)
+7 محیط, محیط اجتماعی
+pl of milieu /2نوزاتنس milieux /'mi:lja:z, (US)
+joie 7 520 2« مبارزه جویی, militancy /milnansi/
+طرفداری از کاربردٍ 5 خشونت. اشتی‌ناپذیری»
+سرسختی
+4 ۱. [دانشجو. کارگر و غیره ] مبارز  militant /miitant/
+و0 ®=cal =father D=got لاصو
+=go a= five ay = now o1=boy 13 ناه cl = say
+ava = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 ۱ militate
+ستیزه‌جوء آشوب‌طلب, طرفدارٍ استفاده از زور Y
+سرسخت, آشتی‌ناپذیر؛ [سخترانی و غیره] خشن,
+ستیزه‌جویانه
+فعّال سیاسی؛ عضو فعّال wx, Gob (A) ۳ 7
+militarily /'militni, (US) -te-/ 4 باتوسل adv
+نیروی نظامی, با استفاده از نیروی نظامی؛ به (
+نظامی» به لحاظ نظامی ose
+militarisation / militorarzer fn, (US) -rr'z-/
+= militarization
+militarise /'militora1z / = militarize
+militarised /'miinoraizd / = militarized
+militarism /'militarizom / ار تش‌سالاری,
+نظامی‌گری. میلیتارپسم
+militarist /'miitanist/ طرفدار ارتش‌سالاری, .۱ a
+هوادار نظامی‌گری, میلیتاریست
+- ارتش‌سالاری؛ میلیتاریستی, ارتش ls bY ad)
+سالارانه؛ [لحن ] نظامی‌منشانه. نظامی‌گرایانه
+333 / طرفدار ارتش‌سالاری. adj
+] نظامی‌گری. طرفدارِ میلیتاریسم؛ [دولت las b
+sie آواتش gm میات
+militarization /militorarzer fn, (US) و /
+توسل یه شیوه‌های نظامی ۲. نظامی کردن .۱ 7
+militarize /'miliaraiz/ نظامی کردن؛ مسلّح ۷
+کردن؛ بسیج کردن
+militarized /'militoraizd / [منطقه ] نظامی N 40
+نظامی‌ما بانه. نظامی‌گرانه .۲
+military /'miltr1, (US) -tcr1/ نظامی. ارتشی. ۱
+(مربوط به) ارتش ۲.(مربوط به) نیروهای زمینی
+[روش, شیوه ] دقیق» نظامی‌وار؛ [دقت ] بسیار زیاد ۳
+ارتش, نیروهای مسلح, نظامیان, ارتشیان؛ .۴ apt
+سربازان
+military age سنْ امشمولیت
+a military government sella دول
+حکومتِ نظامیان
+military court / militrr kot, (US) militeri/
+دادگاو نظامی؛ دادرسی ارتش ۶
+military police /milirt palizs, )05( 17
+دژبان‌ها؛ دژبانی :
+military policeman / ناه pali:sman, (US)
+milters / دژبان n
+military service / milter ‘s3:vis, (US) milter: /
+خدمتِ سربازی pds Cad 7
+militate /'mihtert/
+militate sth against O35 (رسمی) مانع WI
+سر راو... بودن, جلوگیری 51038 سدٍ راء... بودن
+Ww 00000 00100 A=cup 3 8100 a= about
+= near €3 = hair v3 = pure e139 = player  ara= fire
+0= thin 0= this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1043 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: militia; militiaman; milk; milk-and-water; milkbar; milk chocolate; milk pudding; milk round; milk-shake; milk-tooth; milkweed; milk-white; milky; milker; milk float; milking; milking-machine; milk loaf; milkmaid; milkman; milk-powder; milk-churn; Milky Way; mill; be grist to the; mill about; millboard; mill-dam; millenarian; millennia; millennium -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+militia 10¢
+#۸ نیروی شبه‌نظامی, شبه‌نظامیان.  militia /mrifo/
+میلیشیا
+militiaman /mr'l1foman/ ( p/ militiamen) |
+n | شبه‌نظامی
+7 ۱.(مایع) شیر ۲. (گیاه‌شناسی) Milk! /milk/ coed
+wl عضاره ۳ (دارو) شیر
+عاطفهٌ انسانی, the milk of human kindness )
+re | شفقت. Cone انسانی
+Aas کار شده را خوردن. cry over spilt milk
+ضَد‌گذشته‌ها زا خوردن
+رو Na ریخته It's no use crying over spilt milk.
+جمع نمی‌شود. آب رفته به جوی نمی‌آید. کاری گذشته
+است و سبویی است شکسته. ۱
+olla آبکی؛ حرف‌های آبکی, milk and water
+حرف‌های سطحی؛ چیزهای پیش پاافتاده
+( محاوره, کنایه) He came home with the milk.
+صبحانه خورده آمد خانه. کل سحر آمد خانه.
+شیر نارگیل coconut milk
+شیر منیزی milk of magnesia
+ناز و نعمت, (glo) وفور milk and honey Cues
+92S] سرزمین ] flowing with milk and honey
+GF در نعمت
+۷4 ۱. ]08 بز و غیره ] دوشیدن, شیر ...را Milk? /milk/
+دوشیدن ۲. [گیاه SP Jc] گرفتن, آشیرابه گرفتن از
+۳ [مار] زهر ...را گرفتن ۴. [موقعیّت. سوشه و غیره]
+سوء استفاده کردن Sl بهره‌برداری کردن cule Ol
+استفاده را از ... کردن؛ [نیرو] تحلیل بردن
+VE ۵. شیر دوشیدن ۶. [گاو و غیره] شیر دادن
+[بول ] از mind درآوردن» milk sb of sth
+از دست... یرون کشیدن؛ [اطّلاعات, خبر] از زیر
+زبان ... کشیدن, از... درآوردن
+بی‌مزه» / milk-and-water / milk an 'wa:ta(r)
+بی‌نمک. بی‌روح؛ tsa! ضعیف
+n کافه‌تریا / 0 ۲1۱۹۵۹۲
+7 شکلات شیری milk chocolate / milk tjokiit/
+۸ دبة شیر milk-churn /'milk tfs:n/
+EE n شیردوش milker /'milks(r)/
+۲. شیردوش برقی» شیردوش اتوماتیک ¥ Olona
+شیرده؛ گاو شیرده, گاو شیری
+۸ (در (Wap وانتِ شیر ملاح / milk float
+شیردوشی,» دوشیدن شیر / milking /'milkry
+7 شیردوش  milking-machine /milkig mafin/
+id oH دوش اتوما تین
+۸ (در بریتانیا) نان شیرمال milk loaf /'milk lasf/
+1 )3( شیردوش milkmaid /'milkmerd/
+۸ شیرفروش  milkman /milkmon/ ( p/ mitkmen)
+# شیرخشک / milk-powder /milk pavda(r)
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+n شیربرنج milk pudding /miik ‘pudin/
+1 مسیرٍ شیرفروش milk round /'milk ravnd/
+«Sed Sa 1 شیربستنی milk-shake / milk 'fetk/
+7 )4 تحقیر) مردٍ مکش milksop /milksop/ Lec ja
+آدم تی‌تیش‌مامانی؛ بچّه‌ننه؛ A لوس
+» دندان  milk-tooth /'milk :9/ ) 1 milk-teeth)
+شیری
+2 (گیاه) استبرق؛ cake پادزهر milkweed /'milkwi:d/
+4 شیری‌رنگ. milk-white / milk ‘wart, (US) hwart/
+شیری
+milky /'milki/ (comp milkier, super milkiest)
+4 ۱.(مربوط 4( شیر ۲. شیرمانند. Jia شیر؛ سفید
+oS شیری‌رنگ, شیری؛ [on] مهتابی؛ [چشم.
+جواهر, wl وغیره ] HS مات ۳ محتوي شیرء با ed
+دارای شیرء شیردار
+فراورده‌های شیری, لبنیّات milky products
+شیرقهوه, 8948 پرشیر milky coffee
+7 لاه / Milky Way
+7 (ستاره‌شناسی) ol) شیری, کهکشان  the Milky Way
+Vers WE # دستگاه) آسیاء آسیاب؛ mill" /mul/
+(در ترکیب) -خردکن, -شکن ۲. کارخانه, کارگاه ۳
+(فنی) نورد ۴. (فنی) ماشيني فرزء فرز
+کسی را امتحان کردن. put sb through the mill
+کسی را آزمودن, کسی را آزمایش کردن, کسی را تحت
+آزمایش‌های سخت قرار دادن؛ کسی را آبدیده کردن,
+کسی را پروردن, کسی را ورزیده کردن
+be grist to the / one's mill — grist
+es امتحان قرار گرفتن, go through the mill
+آزمایش‌های سختی را گذراندن؛ آبدیده (OAD پرورده
+شدن. آزموده شدن
+als] .۱ ۷ وغیره] Lal کردن, آسیاب  mill2 /mi/
+کردن؛ آرد کردن؛ [ آرد] Caw ys کردن؛ [سنگ معدن ]
+خرد کردن ۲. [EK] کنگره‌دار کردن ۳ (فنی) نورد
+کردن ۴.(فنی) فرزکاری کردن؛ [پیج, مهره] ساختن
+vi [جمعیّت. dS و غیره ] 0۵ / mill about
+چرخیدن, تو هم لولیدن
+1 (صحافی) millboard /'milbo:d/ Vda
+آب‌بند آسیاب mill-dam /'m1l dzm/
+۱.معتقدٍ به بازگشتِ / millenarian /milrnearion
+مسیح. معتقدٍ به هزارةٌ سعادت ۲.(مجازی) کسی که
+معتقد است سرانجام شادی و راستی بر جهان
+حکومت خواهد oS معتقد به خیرانجامی
+millennia /mrlenra/ p/ of millennium
+millennium /mrlentom/ ( p/ miliennia,
+۸ ۱.(یک) هزار سال؛ هزاره millenniums)
+۲. (مذهب) هزارةٌ سلطنتِ مسیح ۳.(مجازی) عصر
+طلایی» Gun So (ae) شادی و راستی بر جهان
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1044 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: millet; mill-girl; millibar; milliliter; million; millipede; millpond; millstone; milometer; mi lord; mimetic -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+millepede /'milipi:d/ هزارپای علف‌خوار a
+miller /'mils(r)/  زرف آسیابان ۲.(فنی) ماشین .۱ ۸
+millet / #اوزن. گارروس 9 اراس
+mill-girl /'mil ga:1/ (53) کارخانه 58 a
+
+SOS نخ‌ریسی
+nm 5,68 کارخانه mill-hand /'m1l hand/
+1 (در بریتانیا) میلیاردء بیلیون milliard /'mia:d/
+۸ میلی‌بار )= millibar /miliba:(r)/  يريگ‌هزادنا aly
+فشار جو)
+n میلی‌گرم / milligram /'miligraem
+milligramme /'miligrzm/ = milligram
+milliliter /'milili:ta(r) / (US) = miliilitre
+میتی millilitre /'milli:ta(r) / Fd
+millimeter /'milimi:ta(r) / (US) = millimetre
+1 میلی‌متر / millimetre /'milmi:ta(r)
+: کلاه‌دوز. کلاه‌فروش ( زنانه) milliner /milma(r)/
+nn ۱.کلاه‌دوزی. millinery /'milmori, (US) -nert/
+کلاه‌فروشی ( زنانه " ۲. کلاه‌های زنانه
+i] «2S Ldn کزدن / واه / milling
+SIS; p(B) ۲ ۳ [سکه] کنگره‌دار کردن
+ad) ¥ [جسیّت ] که در هم Ae که در pp وول
+می‌خورد. SEIT ERD
+میلیون million /'mujan/ ( p/ million, millions)
+( محاوره) هزاران, میلیون‌ها millions of
+( محاوره) یک دنیا ممنون! Thanks a million!
+یک میلیون درآوردن؛ خیلی make a million J,
+درآوردن
+یک در میلیون» کم‌نظیر one in a million
+میلیونر, میلیاردر / millionaire / milja'nea(r)
+0 میلیونْ‌بار, میلیون‌مر تبه / millionfold /'miljonfould
+adj .یک millionth /'miljon6/ rt seks
+یک میلیونیمین
+1 .یک میلیونیمی
+یک میلیونیم a millionth of
+millipede /'milipi:d/ = millepede
+n هزارم (asl میلی 450 / millisecond /milisekand
+کارخانه‌دار؛ mill owner /'mil asna(r)/
+صاحب کار Bl نخ‌ریسی
+تنورهٌ اسیاب millpond /milpond/
+دریا مثل  The sea was as calm as a millpond.
+استخر آرام بود.
+2 آب اسیاب؛ جوی اسیاب mill-race mi reis/
+# سنگی آسیاب © / millstone /mulstoun
+be a millstone round one's / sb's neck
+با سنگینی بر دوش کسی بودن, بر دوش کسی سنگینی
+و f=see 1-sit @m=cat a-=father D=got
+=go ar = five aU =now o1=boy 1 اه el = say
+aus = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 mince
+کردن, وبأل گردنِ کسی بودن, بلای جانِ کسی بودن
+be between the upper and nether millstone
+تو منگنه بودن, دستِ کسی زیر سنگ pos در فشار
+کسی تو پوست گردو بودن Ge بودن,
+mill-wheel /'mil witl, (US) hwiil/ چبرخ اسیاه
+Lak یره
+mill-wright /'mit rart/ آسیاب‌ساز # (
+milometer /mar'lbmita(r)/ = mileometer
+milord /mrlo:d/ (در خطاب) جناب رد 05) n
+milt /muit/ : > تخم‌های ماهي n
+mime /mamm/ پانتوميم. لال‌بازی,» .۱ (G5)
+نمایش صامت ۲. بازیگر پانتومیم, بازیگر لال‌بازی
+پانتومیم بازی کردن, لال‌بازی دراوردن Xvi ۱
+ادای ...را دراوردن» تقلید کردن؛ با حرکات .۴ wr
+گفتن؛ با لال‌بازی اجرا کردن
+in mime با لال‌بازی
+mimeograph /'mimiogra:f, (US) -graef/
+۱.دستگاو پلی‌کپی, دستگاو استئسیل ¥ پلی‌کپی ۶
+پلی‌کپی کردن ۳ vt
+mimetic /mr'metik/ [حرکات, رفتار ] تقلیدی. ad)
+مقلّدانه. نمایشی
+mimic /'mmmik/ ( prp mimicking,
+pt.pp mimicked) تقلیدی؛ نمایشی. ساختگی .۱
+کسی که خوب ادا درمی آورد aa ۲.(شخص) ۸
+۳.ادای ...را دراوردنء تقلید کردن ۴. شبیه... به نظر ۸
+بودن Je آمدن.
+mimic colouring BAR زیست‌شناسی) (
+استتاری, رنگ‌پذيري حفاظی
+mimicry / تفلیدء ادا دراوردن لس .۱ ۶
+(زیست‌شناسی) بومسانی؛ رنگ‌پذیری حفاظی ۲
+protective mimicry حفاظی 1b Kt gly
+Mimosa /mr'mavzs, (US) foes) (گل) میموزا ۱
+: ابریشم JE
+min! /mmnmom/ > minimum ۰ حداقل, کمترین pn
+مینیمم A>
+min2 /'mmit/ > minute 4235 (درساعت) 7
+mina /'mama/ = mynah
+minaret / mmoa'ret/ مناره, منار, گلدسته
+minatory /'mmatarr, (US) -to:r1 / (رسمی) تهدیدآمیز؛ adj
+[شخص ] که تهدید می‌کند. تهدیدکننده
+mince /mms/ [گوشت ] قیمه کردن؛ چرخ کردن؛ .۱
+[سبزی] خُرد کردن, ساتوری کردن ۲. با نازوادا
+گفتن
+با نازوادا حرف زدن؛ با نازوادا راه رفتن؛ ۳ ۶
+قرو اطوار ریختن
+Ww u=cook ui=t00 A=cup 3=bird o= about
+= near €9 = hair U2 = pure واه = player  ara= fire :
+0= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1045 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mincemeat; mince pie; mincer; mincingly; mincing machine; mind; be bored; turn I set I give; take one's; go I be out of one's mind; be a load; set -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mincemeat 10
+n ۴ در بریتانیا) گوشتِ قیمه‌شده؛ گوشتِ چرخ‌کرده
+هر جه از not to mince matters / words op
+کسی درآمدن گفتن, رک وراست حرف خود را زدن.
+هیج ملاحظه نکردن
+2 ۱.(آشپزی) LL پای mincemeat /'minsmi:t/
+کریسمس GT EY قیمه‌شده؛ گوشت SE 03 ۱
+(محاوره) [دشمن. رقیب ] make mincemeat of
+شکست دادن, داغون کردن, له و لورده کردن, لت و پار
+کردن؛ [ استدلال, [otk رد کردن
+mince pie / mins ‘pac/ ont SS sh (and) 1
+Less
+n چرخ mincer /'mmsa(r)/ Gays
+adj [راه رفتن, حرف زدن ] پرناز واداء mincing /minsig/
+ادا و اطواری, مکش مرگي ماء پرکرشمه., پرافاده
+0 با ناز واداء با اداو اطوار» /۳۳۶:۱(۱۲:/ mincingly
+با قرو اطوار, با کرشمه, با افاده, با ناز و غمزه
+n چرخ $5 mincing ۲۱۵۵۳۱۵/۵۹ mafin/ Zed
+SB ERE tad a نیروی فکر؛ mind! /maind/
+شغور:اعقل, قَهمء خزدء دآنش, عم حواس+آهوش
+و حواس ۲. فکرء ذهن؛ SG Se دید؛ افکار؛
+احساس (Sa) pol Ramer مغز XR)
+حافظه. oly خاطره ۵. قصد. نیّت. منظورء هدف.
+خواست ۶. pany sh wads روان
+a meeting of minds > meeting
+the mind boggles — boggle
+a turn of mind —> turn?
+bear in mind (that) — bear?
+حواس‌پر تی, گیجی, پریشان‌خاطری absence of mind
+boggle sb's/ the mind — boggle
+حضور ذهن presence of mind
+: 4 ج close one's mind to sth
+things of the mind OY pine
+have a mind like a sieve — sieve
+روی 5 کسی اثر گذاشتن, bend one's mind
+کسی را تحت تأثیر قرار دادن
+(حقوق) مختل‌المشاغر, of unsound mind
+دچار اختلال حواس
+(محاوره) ۱ [منظره blow sb's mind [ats
+کسی را مات و مبهوت کردن, کسی را متحیّر کردن,
+هوش از سرٍ کسی ربودن, از خود بیخود کردن ۲. [مواد
+مخدّر ] کسی را نشئه کردن, کسی را بد le هپروت بردن
+عقل خود را از دست دادن, lose one's mind
+دیوانه شدن
+go / be out of one's 131300 / not in one's right
+( محاوره) دیوانه بودن. خل بودن, کسی به mind
+سرش زدن
+هیچ آدم عاقلی nobody in their right mind
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+open sb's mind to sth — open?
+(محاوره)  be bored / pissed out of one's mind
+Mo yo کسی سررفته بودن. کلافه بودن
+( محاوره) be frightened out of one's mind
+زهره‌ترک شدن, حسابی ترسیدن, وحشت کردن
+AL بودن, be stoned out of one's mind
+لول لول بودن
+turn / set / give / put one's mind to sth
+به چیزی دل دادن. تمام توجّه کسی به جیزی معطوف
+شدن, تمام فکر Sis کسی چیزی بودن, تمام حواس
+کسی متوجه چیزی بودن
+be on one's mind; have sth on one's mind
+چیزی روی S37 bl کسی سنگینی کردن, چیزی
+کسی را ناراحت کردن, چیزی کسی را آزار دادن
+حواس کسی پیش keep one's mind on sth
+چیزی بودن
+فکرٍ کسی را خواندن read sb's mind
+فکر کسی / خود 510 take one's /sb's mind off
+را از چیزی منحرف SS aS چیزی را از ذهنِ کسی
+بیرون کردن
+در تصورء در خیال, در فکر, in the mind's eye
+در ذهن
+(در) پس ذهن کسی,  at the back of one's mind
+(در) تد SS کسی
+dle روان بر تن We روح mind over matter
+بر چسم
+حواس کسی به چیزی have one's mind on sth
+بودن
+حواسم جای My mind was on other things.
+دیگری بود.
+سعی در فهم چیزی کردن؛ 540 get one's mind round
+بالاخره چیزی را فهمیدن. از پس فهم چیزی برامدن
+be a load / a weight off one's mind
+Jb کسی از چیزی راحت شدن, ble کسی از cals
+چیزی اسوده شدن
+خیال کسی را set/ put sb's mind at rest/ ease
+راحت کردن, خاطرِ کسی را جمع کردن
+(رسمی) خیال داشتن که. have it in mind to do sth
+تصمیم داشتن که. تو SG بودن که. در نظر داشتن که...
+در نظر داشتن have in mind
+کاری را با نیت / do sth with sth in mind ~~ Ja
+چیزی انجام دادن, کاری را به قصدٍ چیزی کردن
+ذُهن / فکر خود را let one's mind wander
+آزاد گذاشتن
+کسی / چیزی را bear / keep sb / sth in mind
+بد خاطر سپردن» کسی / چیزی را به یاد داشتن, کسی /
+چیزی را به ذهن سپردن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1046 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: bring; come; be of one -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1C
+bring / call sth/sb to mind 4!) کسی /.چیزی
+یاد آوردن, کسی / چیزی را به خاطر آوردن
+slip one's mind; go out of one's mind; pass
+from one's mind  نتفر S54 فراموش شدن» از
+put sb in mind of sb/ sth کسی / چیزی را به
+کسی آوردن. Pe کی اوردن, کسی / چیزی را به ob
+خاطرهٌ کسی / چیزی را در ذهنِ کسی زنده کردن؛ کسی
+کسی / چیزی انداختن SS را به
+Out of sight, out of mind. (prov) برود هر Js از
+برفت. [EVR از Kl
+go over sth in one's mind; turn sth over in
+one's mind دربارة چیزی فکر کردن, جیزی را
+در ذهن حلاجی کردن؛ دربارة چیزی بارها فکر کردن
+stick in one's mind در خاطرِ کسی ماندن,
+نرفتن Nal Sal از
+come / spring to mind; cross/ enter one's
+mind ناگهان به یاد (کسی) آمدن؛ به ذهن (کسی)
+خطور کردن
+have a good mind to do sth محاوره) (
+به فکرٍ... افتادن, کسی Tr تصمیم جدّی داشتن که...,
+خیلی دلش خواستن که...
+have half a mind to do sth  ندوب محاوره) مردّد (
+که.... دودل بودن که .... تردید داشتن که...
+make up one's mind; make one's mind up
+تصمیم خود را گرفتن, کسی فکرهایش را کردن ۲ (با ۱
+چیزی را) پذیرفتن ( nel چیزی) کنار
+set one's mind on (doing) sth سخت مشتاق
+چیزی / کاری بودن, سخت دنبال چیزی / کاری بودن.
+که... Gog جدّا مصمّم
+have a mind to do sth tly خواستن که .... کسی
+فکرش بودن که... gn دوست داشتن که cS خواستن
+be of one / like mind (about sth) هم‌عقیده بودن»
+واحدی داشتن, (در موردٍ چیزی) A (در 2050 چیزی)
+هم‌فکر بودن, (در 2050 چیزی) وحدتٍ نظر داشتن
+be of the same 12300 Si.» هم‌عقیده بودن, ۱
+نظر داشتن, نظرٍ واحدی داشتن ۲. بر سر Susy poy
+FS خود بودن, بر سر تصمیم خود بودن, SS) عقیدةٌ
+خود را عوض نکردن
+be in two minds (about sth)  )یزیچ 3,50 (در
+دودل / مردّد بودن, )03 305 چیزی) شک / تردید
+۳ داشتن
+change one's mind (dS خود را عوض inde
+نظر خود را تغییر دادن تصمیم خود را عوض کردن.
+منصرف شدن
+I'd like to give him a piece of my mind.
+ii= see 1=sit @=cat a;= father  p=got 9:=s:
+el = say ناه =go a1 = five au = now 31-007: 1a
+ays = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+67 mind
+(محاوره) دلم می‌خواهد بهش بگویم راجع بهش چی فکر
+| می‌کنم. دلم می‌خواهد بهش بگویم نظرم راجع بهش
+: چیست.
+I know my own mind.  .مهاوخ‌یم من می‌دانم چه
+من خودم را می‌شناسم.
+5626 one’s mind حرف خود را زدن, رک و راست
+ٍ حرف زدن (
+to my mind به عقیدةٌ من oe به نظر
+| an open mind بی‌نظری
+ٍ with an open mind  ,یرظن‌یب بدون پیش داوری, با
+| باقن از
+a closed mind as ی 5
+with a closed mind با پیش‌داوری, با تعصّب
+have a mind of one's own فکرٍ مستقلی داشتن.
+صاحپ فکر بودن
+be all in the mind [بیماری و غیره ] خیالی بودن,
+واقعی نبودن, همه‌اش فکرو خیال بودن
+a state of mind شرایط روحی
+be / feel easy in one's mind احساس آرامش
+کردن, خیال کسی راحت بودن, خاطرٍ کسی آسوده بودن
+mind? /mamnd/ توجه (Hab Pe. Avr
+داشتن به؛ توجه کردن, نگنران بنودن ۲ ناراحت
+شدن از؛ ایراد داشتن به, مخالف بودن با ۳.(در
+آمریکا, محاوره) حرفي ... را گوش کردن, اذیت نکردن
+[بسچه. مسنازه و غیره] مسراقبت کردن ازء ۴
+مواظب ... بودن, مراقب ...بودن» پاییدن, نگهداری
+مواظبت کردن از sl کردن
+ناراحت شدن» کسی بدش آمدن, به دل گرفتن, .۵ vi
+ایرادی داشتن ۶.(به صورتِ امر) یادت باشدء حواست
+باشد
+mind one's tongue — tongue
+mind one's p's and q's رفتار خود بودن. bly
+مواظب حرف زدنِ خود بودن, مواظپ حرف‌های خود بودن
+mind one's step —> step?
+Mind your own business! سرت / حواست 4 کار
+خودت باشد! به تو چه مربوط! فضولی موقوف!
+mind one's own business محاوره) سر کی به (
+کار خودش بودن, تو دنیای خود بودن
+mind (you) (4S) را هم بگویم cal ولی) (
+راستی؛ یادت نرود. فراموش نشود (که)؛ a بگویم Js
+حواست باشد, مواظب باش
+Do you mind? (به شوخی) ببخشید ها!
+جسارت نباشه ها! جسارتاً!
+Mind how you go! (در موقع خداحافظی) مواظبپ
+خودت باش!
+۷  U=cook u:=t00 a=cup 3=bird o=aboul
+= near ¢a = hair U3 = pure ده = player ara = fire
+0= thin 8 = this [=shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1047 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mindfully; mindfulness; mindlessness; mind reading; mind-bending; mind-blowing; mind-boggling -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mind-bending 10¢
+۱ (عامیانه) چشمات را وا کن! بیا! Mind your eye!
+| اشکال ندارد سیگار Do you mind my smoking?
+|
+Would you mind opening the window? |
+ممکن است لطفاً پنجره را باز کنید؟
+| از یک فنجان I shouldn't mind a cup of tea.
+| چای هیچ بدم نمی‌آید.
+| ۱ مهم نیست. اشکالی ندارد. عیب ندارد؛ never mind
+| ناراحت نباش, حرفش را نزن, فراموش کن ۲. چه برسد به
+With this knee injury, | can't walk, never mind run. > | <
+۳ اهمیّت نده؛ باور نکن
+( محاوره) به شما مربوط نیست., never you mind
+ربطی به شما ندارد. به تو چه ۱
+جای يا قهوه؟ Tea or coffee? _ I don't mind.
+- فرقی نمی‌کند.
+Cup of tea? _ I don't mind if I do.
+چای می‌خواهی؟ - آره مرسی.
+Do you mind if I take this book? _ I don't
+اشکالی ندارد این کتاب را پردارم؟ mind at all.
+اختیار دارید. خواهش می‌کنم. هیچ اشکالی ندارد.
+اگر اشکالی نداشته باشد if you don't mind
+if you don't mind me / my saying so
+اگر حرفم را به دل Sls Sm اجازه بدهی بگویم. اگر
+از حرفم بدت نمی‌آید. اگر راستش را بخواهی
+4 ۱. مواظب بودن mind out
+۲ ( از سر راه) کنار رفتن
+mind-bending /'maind bendin/ :
+1 (محاوره) ۱. [موادٍ مخدّر ] Lbs ols Sols, که آدم
+را به عالم هپروت می‌برد. نشعه‌کننده ۲. [dee]
+خیلی سخت. خیلی مشکل, که نمی‌شود آن را
+فهمید
+4 (محاوره) mind-blowing /'maind blaviy/
+۱ حیرت‌انگیز, بهت‌آور, اعجاب‌انگیز, که دود از
+ds آدم بلند [ine sly] ۲ aS me روان‌گردان
+Lass که ادم رابه ple هپروت می‌برد.
+نشئه کننده
+adj (محاوره) mind-boggling /'maind boglig/
+a] .۱ موضوع] SIE SN pr
+مبهوت‌کننده, که دود از AS ادم بلند می‌کند؛ خیلی
+سخت, خیلی مشکل ۲. [ثروت ] باورنکردنی, بی‌حدّ
+و حساب, خارج از تصوّر, افسانه‌ای
+4 ۱.خواهان, علاقمند. minded /'mamndid/
+مایل, متمایل ۲.(در ترکیب) -ذهن؛ -فکر, -اندیش
+<liberal-minded > ۳ علاقمند. blew ۴. مایل به.
+خواهان > marriage-minded girls >
+مایل aS i کسی be minded to do sth Gd
+خواستن dS مصمم بودن که. قصد داشتن که
+
+<!-- REGION: RIGHT COLUMN -->
+
+3
+گروهی علاقمند 4 a politically minded group
+مسائل سیاسی؛ گروهی با افکار سیاسی
+. ملتی که گرایش an industrially minded nation
+4 صنعت دارد
+کسی که Jp تجارت دارد business-minded
+مراقب. محافظ؛ پرستار 1( ۲۱۱۵۵۲
+(رسمی) dd gta نگران. mindful /'mamdfl/
+در فکر, مواظب. مراقب
+به 2 Sos چیزی وقوف داشتن. ۶0 be mindful of
+به چیزی فکر کردن
+adv نگرانی 1 ۲۱۵۲۷۱۱۷
+a نگرانی / mindfulness /'mamdfins
+۱.(رسمی) بی‌توجّه mindless /'maindlis/
+۲ احمقانه: بی‌معنی ۳. احمق, ابله؛ بی‌فکر ۴. [کار]
+یکنواخت, تکراری, مکانیکی, بی‌روح. خسته کننده ۵.
+مهارنشدنی. خارج از کنترل, کور
+LN adv بی توجّهی mindlessly /'mandlisii/
+۲ به طرزی احمقانه. بی‌طرزی بی‌معنی
+۱. بی‌توجّهی / mindlessness /'maindlisnis
+۲. احمقانه بسودن, بی‌معنی بودن ۳ حماقت؛
+بی‌فکری ۴. [کار] یکنواختی, Gls تکراری,
+حالتِ مکانیکی
+2 کسی که می‌تواند mind reader /'maind ri:do(r)/
+So دیگران را بخواند. I درون‌بین
+( محاوره) علم غیب I'm not a mind reader!
+که ندارم!
+7 فکرخوانی. mind reading /'maind ri:din/
+خواندن SS دیگران
+mind-set /'mamnd set/  یاضف (lad owas a
+فکری, قالب ذهتی, ble فکری
+SL jas pron ول شخص mine’ / main/ Dos SE
+Es گاء معاول مال ahi بش ۱۲۰
+و : 3 |
+! يکي از دوستانم ~= afriend of mine
+(amy) | بنده G25 که تصمیم is not mine to decide. ۱۰/۶
+بمی‌گیرم. به aS es le رش رن
+رس dso fade of mie,"
+۸ ۱.معدن. کان ۲.(نظامی) mine? /man/ tome
+گودال مين
+(مجازی) معدن اطلاعات.  a mine of information
+منبع اطّلاعات, گنجینه‌ای از اطّلاعات
+مین‌گذاری 395 lay mines
+ساحلی را مین‌روبی کردن  clear a coast of mines
+vr ۱. [زغال‌سنگ و غیره ] زمین را حفر mined /mam/
+کردن برای. زمین را کندن برای؛ [زمین ] حفر کردن.
+کندن؛ Mo] زغال‌سنگ و غیره ] استخراج کردن ۲. نقب
+زدن زیر ۳. [منطقه, [Ls مین‌گذاری کردن ۴. [کشتی و
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1048 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mine-detector; mine-layer; mine-laying; miner; mineral; mineral pitch; mineral wool; minestrone; minesweeping; mingle; mingy; mini; miniature; miniaturise; miniaturization; minibus; minicomputer; minima; mini market; minimise -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+غیره ] به Ans مین از بین بردن» با مين منفجر کردن
+WE ۵. زمین را حفر کردن» زمین را کندن؛ [زغال‌سنگ و
+غیره ] استخراج 3935
+با مين اصابت کردن, به مین برخورد کردن ۱۶۱۱۱۱۱۳0
+mine-detector / ۵۵ (7 Slim nt
+۸ خنثی 03,5 مين mine-disposal /'main dispauvz!/
+۸ ۱.میدان yee منطقةٌ minefield /'mamfi:1d/
+مین‌گذاری‌شنژه Y (مجازی) دامگاه ioe پرخطلر
+۸ کشتی مین‌گذار؛ mine-layer /'mamn leta(r)/
+هواپیمای مین‌گذار
+adj مین‌گذار ؛ ( مربوط به) mine-laying /mam leny/
+مین‌گذاری
+Nn معدنچی. کارگر معدن ۲۱۱۵۲
+۲ (کهنه) سرباز مین‌گذار
+۱.مادَةٌ معدنی, کانی / mineral /mmaral
+۲ در بریتانیاء در جمع) آب معدنی؛ نوشابه‌های گازدار
+XY adj مّعدنی
+ی قلمرو mineral kingdom /nmnaral kigdam/
+جامدات, جامدات
+(a bg 0) adj / دادح / mineralogical
+کانی‌شناسی. کانی‌شناختی. (مربوط (am
+معدن‌شناسی
+۸ کانی‌شناس. / اند دمن / mineralogist
+معدن‌شناس؛ دانشجوی معدن‌شناسی
+۸ کانی‌شناسی, mineralogy /minaraladst/
+معدن‌شناسی
+۸ ۱. روغن معدنی 1 mineral oil /'minaral
+۲ نفتِ خام؛ روغن پارافین
+۸ ۱. قیرٍ طبیعی ار mineral pitch /'mimnaral
+PEE PR
+۸ ۱.آب معدنی mineral water /'mmaral waita(r)/
+۲ در بریتانیا) نوشابةٌ گازدار
+۸ پشم سنگ؛ mineral wool /'munoral wul/
+پشم سرباره؛ پشم شيشه
+سوب tiie روخ / minestrone / minr'strovnr
+(ب نوعی سوپ (He)
+n کشتی minesweeper /mamswi:pa(r)/ «wg me
+FS مين جمع‌کن
+مین‌روبی / minesweeping /'matmswi:piy
+I کارگر معدن. / mineworker /'mamwa:ka(r)
+معدنچی
+wi ۱.(در هم) امیختن؛ [دو رودخانه ] mingle /miggl/
+(به هم) پیوستن, (به هم) ریختن ۲. [شخص ] (با
+هم) قاطی شدن؛ (با هم) جوشیدن» (با هم) گرم
+گرفتن
+i: = sce I= sit @ = cat a: = father b= got I= §
+=boy 15 اد el = say W=go ar = five au = now
+d3= jam و ava = hour j= yes w= wet te
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 minimize
+(با هم) oS ۳(در هم) آمیختن. (با هم) قاطی ۷
+مخلوط کردن
+mingy /'mmdst/ (comp mingier, super mingiest)
+X ادر بریتانیا. محاوره) ۱. خسیس, کنس, ناخن‌خشک 1
+مقدار. سهم و غیره | کم ناچیز |
+He's so mingy with his money. پولش به جانش
+REI بسته
+This restaurant serves very mingy portions.
+این رستوران غَذا خیلی کم می‌دهد.
+mini /۱۱۵۱/ ( p/ minis) مینی‌ژوپ. مینی ۸
+Mini /mint/ (pf Minis) ule os (محاوره اتومبیل) 21
+miniature /mmit/a(r), (US) 'muniat far /
+مینیاتور؛ نقاشی مینیاتور ۲. نمونةهٌ کوچک, مدل .۱ ۸ :
+کوچک؛ نسخةٌ کوچک
+کوچک. ریزء مینیاتوری ۴.(مربوط به) مینیاتور ad)
+in miniature So 5 31a (مجازی) در
+miniaturisation /minitfararzer fn, (US) -1'z-/
+= miniaturization
+miniaturise / mint faraiz / = miniaturize
+miniaturised /'mintforaizd / = miniaturized
+miniaturist /' mimi arist/ مینیاتوریست 21
+miniaturization /mmitforarzei fn, (US) -riz-/
+[دستگاه و غیره ] کوچک‌سازی, مینیاتوری کردن 4
+۳۹1320 / [دستگاه و غیره] نوع 4
+کوچکی ...را ساختن, Je کوچکی ...را ساختن,
+مینیاتوری کردن
+miniaturized /'mmuoraizd / [دستگاه و غیره] 4
+کوچک. نوع کوچک. مینیاتوری
+mini-bar /'mmnr ba:(r)/ هتل) مینی‌بار gl (در 8
+minibus /'mmibas/ مینی‌بوس 7
+minicab /'mimnikab/ (در بریتانیا) تاکسی تلفنی
+minicomputer / mmikompju:to(r) / کامپیو ترر 1
+کوچک. مینی کامپیو تر
+۱۱۱11۱۱۱۱۳ 7 ۱.(در بریتانيا, موسیقی) سفید ۸
+قطره )= واحدٍ اندازه گيري مایعات. برایر با ۰/۰۵ میلی‌لیتر) ۲
+minima /'mimoa/ p/ of minimum
+minimal /'mmmoal/ حداقل, کمترین حد؛اندک. ad)
+ناچیز. خیلی کم
+minimally ۵ / (Sul خیلی کم. adv
+: به‌طور نامحسوسی
+minimarket /vummakit/ = minimart
+minimart /mmmait/ مینی‌سو پر ؛ فروشگاه مواد ۸
+اغذیه‌فروشی hie
+minimise /'minunz/ = minimize
+minimize /mmmaiz/ ۱.کاهش دادن, کم کردن؛ ۷
+Ww U-cook 02100 A=cup  a=bird a= about
+= near ed = hair U3 = pure cd = player aa = fire
+0= thin d= this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1049 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: minimum; minimum lending rate; minimum wage; mining; minion; miniskirt; ministerially; ministering; Minister of State; ministrant; ministration; ministry; miniver; mink; minnow; minor; minority; be in a; minority government; minority report -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+minimum 10
+به حداقل رساندن ۲ کم ورد کردن., دستِ‌کم
+جلوه دادن؛ کوچک جلوه دادن, کم جلوه دادن
+Minimum /'mmmem/ ( p/ minima)  ,لقادح.۱ n
+کمترین (A= مینیمم
+XY adj حداقل, کمترین Do مینیمم
+حداقل چیزی را حفظ کردن keep sth to a minimum
+By را به حداقل reduce sth to a minimum )
+کاهش دادن
+حداقل, دست‌کم. at the minimum Js!
+Gad کم / اقلاً یکی Allow 1-2 metres minimum!
+دو متر جا بگذار / فاصله بده.
+minimum lending rate / minmom 'lendry rert/
+۸ (مالی) Pla نرخ بهره
+minimum thermometer /mmimom (1
+n دماسنج کمینه‌ای
+1 حداقل ۰ minimum wage / mmmmom 'wexds/
+jai 5003 3 کمینه
+nt معدن‌کاری., استخراج معادن mining /'maming/
+مهندس معدن a mining engineer
+شهر a mining town rr
+dl معدنی a mining area
+خانوادءٌ معدنجچی a mining family
+72 (به طعنه) زیردست, نوکر, پادو؛ minion /mmron/
+(در جمع) da و vo ST آبواب جمعی
+sl dae نوکران the minions of the law
+قانون, oh پلیس
+مینی ژوپ miniskirt /'mimisks:rt/
+۱. وزیر ۲. وزیر مختار,  minister’ /minsta(r)/
+کاردار ۳. کشیش, روحانی ۴. عامل, نماینده
+<a minister of evil >
+کشیش, روحانی a minister of religion
+نخست‌وزیر the Prime Minister
+minister? /'mmista(r)/
+۷ (رسمی) در خدمت sb / sth 3 gr. 10 1۳1۳191۵7
+به ... رسیدگی کردن؛ مراقبت کردن از
+4 نیازهای کسی minister to sb's needs
+رسیدگی کردن, در خدمتِ کسی بودن, به کسی خدمت
+کردن, به کسی کمک کردن
+adj \.) مربوط 4( / ministerial / mimnr'stiarial
+«lls وزارتی ۲.(مربوط به) وزراء (مربوط به)
+کابینه؛ ( مربوط به) دولت ۳( مربوط به) کشیش
+: )53 مجلس) جایگاه the ministerial benches
+Ga وزیران
+ویر 13330 hold ministerial office Cl
+وزارت داشتن, وزارت کردن
+aN adv عنوان وزین / :ادا تحص / ministerially
+در مقام وزیر ۲. به عنوانِ کشیش
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+وا وت دا ازور
+kis 3 ad) نجات, فرشتةٌ رحمت a ministering angel
+7 (در Minister of State / minster av steit/ (Ls,
+53s مشاور
+YN adn (رسمی) مددکار, ministrant /mimstront/
+LESS ملازم؛ خادم. خدمتگزار ۲ (sol
+پشتیبان
+2 (رسمی, در جمع) ministration / mmrstrerfn/
+dao sl oda Se Solas دلسوزی‌ها ۲.
+خدماتِ کشیشی, Sleds مذهبی
+Gos نظارت. under the ministrations of
+cov راهنمابی‌های
+7# \. وزارت؛  ministry /'mmstri/ ( p/ ministries)
+TRIE STR HE ST دولت ۳
+خدمتِ کشیشی, خدمتِ مذهبی, HLS مذهبی ۴.
+کشیشان, روحانیون
+به Eo کشیشان پیوستن, enter the ministry
+کشیش شدن
+پوستِ قاقم, خز / )۳ ۲۲۱۱۷۵6۲
+1 ۱.(جانور) مینک ۲. پوستِ مینک mink /mrgk/
+MINNOW /'mmas/ ( p/ minnow, minnows)
+a ۱.ماهی مینو ۲. ماهی ols ماهی حوض, ماهی
+رودخانه؛ ماهی کوچک 8 :
+adj ۱.کوجک. کم Bhs ناجچیز. Minor /'mama(r)/
+بی‌اهتهت, HAMS فرعی ۲ [بیماری, [rl Jos
+کم‌اهمیّت؛ [زخم ] سطحی ۳ (در بریتانیا, آموزشی)
+کوچک‌ترء کوچک > Smith minor < ۴. (موسیقی)
+مینورء کوچک ۵.(حقوق) صغیر ۶.(در آمریکا. دانشگاه)
+کهاد
+1 ۷.(حقوق) صغیر ۸.(در آمریکا. دانشگاه) (Aza) کهاد
+in 2 minor key — key'
+wr (در آمریکا., در دانشگاه) رشته minor in sth 5S
+(oS) ... بودن
+minority /mar'norati, (US) -no:r-/ ( p/ minorities)
+۱.(سیاسی, مذهب و غیره) اقلیّت ۲.(حقوق) ep
+rad
+در اقلیت بودن be in a / the minority
+همه با من مخالفند.  Iam in a minority of one.
+فقط من هستم که این‌طوری فکر می‌کنم. در GE]
+محض هستم.
+ومع minority government /mainoratt
+n دولت (US) marno:rati / cast
+minority programme /marnorati ‘provgram/
+sl) 7 تلویزیون) برنامه‌ای برای گروهی خاص؛
+Lb, کم‌شنونده؛ Lb, کم‌بیننده
+گزارش بر minority report /mainorstt ‘mpait/
+اساس آراء clit
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1050 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: make; minuscule; not for a; minutely; minuteness -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1(
+minor planet /mams plznit/ ol خرده Sib nn
+۲1۳۵۲ premise /mams premis/  dadie (Cals) 2
+
+SpA
+
+minor scale /mamo ‘skeit/ «Sa 5S (موسیقی) گام 7
+۱ گام مود
+
+minor suit / mama ‘suit, 'sjuit/ (ورق‌بازی) خشت و 72
+خاج
+
+minor term / mama 'ta:m/ کهین. A (مذهب) 7
+اصغر de
+
+Minotaur /'mamato:(r) /
+
+the Minotaur 5 وتو pol بونان) گاو BLN) a
+
+minster /'mnsts(r) کاتدرال pala ۱.کلیسای on
+کلیسای دیر ۲
+
+۱.(در قرون وسطا) آوازخوان minstrel /'minstral/
+دوره‌گرد, خنیاگر, مغتّی, سرودخوان ۲. مطرب
+دوره‌گرد
+
+minstrelsy /mmstrols: / 5 Sia rg Seis Nn
+آوازخوانی» سرودخوانی ۲. ترانه‌هاء سرودهاء
+اوازها
+
+8 ا.نعناع ۲ آب‌نبات نعناعی؛ mint! /mmt/
+قرص ایا
+
+2 ۱. ضرابخانه ۲.(محاوره) پول زیادی mint? /mmt/
+
+wr Ea] ۳ ad) [ استفاده‌نشده, نو
+
+] ضرب کردن, زدن ۵.(مجازی) [کلمه, عبارت [Sa] Fur
+ساختن. جعل کردن؛ درست کردن, از خود
+دراوردن
+
+make / earn a mint (of money) rds on
+
+به‌دست آوردن, J خوبی گرفتن, پول پارو کردن
+یک عالم ارزش داشتن be worth a mint
+aK] تمبر, کتاب و غیره ] in mint condition
+استفاده‌نشده., نو؛ سالم, تمیز
+mint julep / mint dsu:lip/ = julep
+4 نعناعی minty /'mmu/
+nn ( آهنگ. رقص) منوثه زد / minuet
+prep . (ریاضی, هواشناسی) منهای Minus /'marnes/
+| ۲. (محاوره) بدونٍ. بی
+adj ۳ [کمیّت, عدد. نمره ] منفی
+| ۴. (ریاضی) cudle منها؛ علامت منفی ۵. مقدار
+۱ منفی؛ هیچ» he چیزی که وجودٍ خارجی ندارد
+| ۶ محاوره) da منفی» coms بدی,» زیان؛ (در جمع)
+مضرّات, معایب, نقاط ضعف
+منفی gd منهای دو two minus
+i ده کرت زیر io منهای ده minus ten degrees
+۱ درجه
+He calculated his gains and losses and the |
+ii=see 1=sit @=-cal G=father D=gol o0:= sa
+el=say a=go ar=five av=now oi=boy 1
+aud = hour j=yes w= wet t/ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+71 minuteness
+result was a minus. بردها و باخت‌هایش را حساب
+فهمیل که باختش بیعتتر از برداش,بوًدّه است: 5 8S
+1 minuscuie /'mmoskju:l/ کم؛ ریز؛ «Slab ۱ (
+خیلی کوچک ۲ [حروف ] کوچک Sa ST اتاق و غیره [
+حرفي کوچک ۳ ۸
+minus sign /'mames samn/ منها؛ Swede (ریاضی) ۸ (
+| منفی adhe
+minute’ /'minit/ ریاضی) دقیقه wes ۱.(در #
+عقاو ره )لحظه ند قیقه 9 یادداشنت, منوت 6 (دز ۲
+: خلاصةٌ مذاکرات, صورت‌جلسه ۵. پیش‌نویس (pan
+مذاکرات...را AMS صورت‌جلسه کردن» .۶
+ تشاددای.۷ نوشتن» در صورت‌جلسه وارد کردن
+| کردنء یادداشت برداشتن از ۸.ثبت کردن
+| in a minute وراه بلافاصله, الساعه,
+| تو یک چشم به هم زدن
+4۵ the minute درست ABS
+the minute (that) تاء. همین‌که. 4 محض این‌که
+up to the minute مر روز HT v5 shou)
+Wait / Just a minute! یک لحظه صبر کن!
+not for a/one minute هیچ Sol محاوره) (
+within minutes هر لحظه
+within minutes of درست بعد از
+at the last minute در آخرین لحظه
+There's one born every minute. — born?
+at this minute الآن
+this minute همین الآن
+at any minute محاوره) هر لحظه, هر آن (
+Can 1 just finish doing this? I won't be a
+minute. صبر می‌کنی این کار را تمام کنم؟
+هم طول نمی‌کشد. aids یک
+minute? /marnju:t, (US) -nu:t/ (comp minuter,
+super minutest) ریزء خیلی کوچک؛ .۱ ad)
+تفاوت ] خیلی کم جزئی. ۲. [توصیف, گزارش و is]
+جزء به جزء. موشکافانه (Gad غیره ] مفصّل,
+minute-book /۳:۳:۲ bok/ صورت‌جلسات. Son
+خلاصهٌ مذاکرات ss
+minute-gun /minit gan/ (برای عزا و غیره) توب 1
+minute-hand / ۵۳۲۲۱ ۵/ Le [cel] nn
+بزرگ ie دقیقه‌شمار»
+minutely /marnju:tir, (US) 0: ادا به دقت,/ adv
+جزء به جزء, موشکافانه ۲. کمی, مختصری,» به
+ناچیزی ۳ [بریدن, تا کردن و غیره] خوب, کاملاً ook
+minute-man /'mmnit men/ ( minute-men)
+ملّی Sh (در انقلاب آمریکا) 1
+minuteness /marnju:tnis, (US) “nuit-/ ریزی» .۱ 7
+v u=cook u:=100 A=cup &=bird a= about
+- near 2 = hair U9 = pure ero = player aro = fire
+0= thin 0 = this [=shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1051 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: minutiae; minx; miracle; do I work I nccornplish; miraculously I mt'rzckjuloslr; mirage; mire; mirror image; mirthful; mirthfully; mirthlessly; miry; death; misalliance; misanthropic; misanthropist; misapprehend; misapprehensiOll; misbegotten; misbehave; misbehavior -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+minute steak 10°
+ریز cio کوچک بودن Y [گزارش, توصیف و غیره]
+: تفصیل» CED
+minute steak /mmn steik/ SHU Kan a
+pl جز minutiae /marnju: fii, (US) ۱۱:۵۵: f1ic/ «WS
+eS elie جزئی
+n | (دختر) بی‌حیا, پر رو دریده, در دو minx fmanks/t
+maa (gaz) N ۸ | کار او / miracle
+| خارق‌العاده. اعجاز ۲. yas اعاد. Jl بسارز,
+۰ شاهکار ۳ (صفت‌گونه) معجزه‌اساء اع‌جازاور
+a miracle drug > | <
+do / work / accomplish / perform miracles
+( محاوره) معجزد کردن؛ (Gan) اعجاز کردن
+miracle man /'mirakl man/ ) 07 miracle men)
+n ( یز مجازی) کسی که معجزه AS pe معجز دگر
+۸ (در قرون وسطا) نمایش miracle play /muokl plet/
+معجرات. تعزید. شبیه خوانی
+Nad) معجزهاسا؛ / miraculous /mi'rakjulos
+اعسجاب آون شک PR. <1 JU Catal
+خاری‌العاده؛ باورنکردنی. فوق‌العاده ۲. خیلی
+قشنگ, فوق‌العاده زیبا؛ فوق‌العاده خوب
+aN 0 طرز / miraculously /mi'rekjulasle
+معجزهاسایی, معجزه‌وار؛ به طرزی شگفت‌انگیز؛
+a طور باورنکردنی ۲. فوق‌العاده
+7 )33 مجازی) mirage /mira:s, (US) mira:s/ ole
+4 ۱. زمین.باتلاقی, باتلای؛ mire /'mats(r)/
+گل و OLE JB ۲ (مجازی) ورطهء گرداب,
+مهلکه. مخمصه؛ منجلاب
+We are still stuck in the nuclear mire. > <
+os ps8 Bor vt گُل‌مال کردن Ll کرد
+گُل‌الود کردن
+۵. در JS فرورفشن, در IS گیر کردن
+drag sb / 5015 name through the mire — drag L
+کسی را گرفتار چیزی کردن mire sb in sth
+۸ ۱.(نیز مجازی) ant ang 1( ۲۱۲۲۱۵۲
+XW تصویر ...را در خود منعکس کردن ۳ (مجازی)
+منعکس‌کنندة... بودن, منعکس کردن
+۸ ۱. تصوير ایینه‌ای» /۸۳۱۵3 mirror image /miror
+تصویرٍ برعکس ۲.(مجازی) تصویر, Bed بدل
+2 (رسمی) شادی, شادمانی, bles 10
+سرور, شور؛ OAL گر میج تخوشی
+ani] adj چهره ] Wa خوشحال» mirthful /mzefl/
+خندان؛ was] صدا و غیره ] شاد. شادی‌بخش
+0 با شادی, با خنده mirthfully /'ma:0fati/
+[eas] adj بی‌روح» خالی از mirthless /'ma:0lis/
+نشاط؛ تصنعی, زورکی
+adv [خندیدن ] زورکی, ۲۱۲1۱۵55۱۱
+با بی‌دل rls بطور Cm
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+PY adj گل الود؛ پو شیده از Js و 1 / miry
+rs باتلاقی
+4 (رسمی) Sedu بد؛ / misadventure / mssdvent[o(r)
+بدشانسی, بدبختی, BLO VT BO ON
+death / homicide by misadventure (G93)
+مرگ / قتل ly سانحه, مرگي / فتل ناشی از تصادف
+بد راهنمایی کردن. misadvars/ ۹
+گمراه کردن: bls Loo gi ادن a
+۸ وصلت ناجورء 3
+ازدولج lial
+4 (رسمی) مر دم‌ستیز  /۱۱::۶۸0/0:۵/ misanthrope
+مردم‌گریز» بدیین به خلق
+Lanz) adj ] مر per / رد0 مخ / misanthropic
+مردم‌گریز؛ [ رفتار ] wl panes po مردم‌گر پزانه
+60 ۹005/۲ / 1۱318211111۳0۵18
+۸ مردم‌ستیزی» 01 ۲3۱921۱۱۱۳۷
+مردم‌گرپزی, نفرت از مردم
+۸ ۱. استفادة / رد misapplication
+غلط, کاربرد نادرست, استفادةٌ بد ۲. سوءاستفاده
+4 بدبه‌کار برده شده؛ / مارد / misapplied
+[ استمداد و غیرد ] هدررفته, هرزرفته
+7 (رسی) misapply /misaplac/ ( pt,pp misapplied)
+Ja] ۱ دانش. کلمه و غیره] بد به‌ کار بردن» بد استفاده
+کردن ازء استفادةٌ نادرست کردن از ۲. سوءاستفاده
+کردن از
+۶ (رسمی) بد / دزد misapprehend/
+(Oded درست نفهمیدن» اشتباهی elo
+(gammy) ۸ مس نت ات اه رد ریت وی
+بدفهمی, کج‌فهمی, سوء تفاهم
+اشتباه فکر کردن.  be under a misapprehension
+بد فهمیدن, برداشت (کسی) غلط بودن
+7 (رسمی) misappropriate/nusspravprieit/ [Jy]
+سوء‌استفاده کردن از؛ اختلاس کردن, حیف و میل
+کردن
+misappropriation /msopravpri'erfn /
+1 سوءاستفاده (از )؛ اختلاس, حیف و میل
+۱.(محاوره) نس ی ترجه یه
+[نقشه. برنامه ] احمقانه, مزخرف., چٌرند ۲. [oars]
+نفرت‌انگیز ۳ (کهنه) حرامزاده, زنازاده؛ [بچه] |
+نامشروع |
+۷1 بد رفتار کردن؛ misbrherv/ 1170
+[S655] بی تربیتی کردن» بی‌ادبی کردن؛ شیطانی |
+کزلان, Cet 53.8 |
+misbehavior /misbrhervia(r) / (US)
+misbehaviour =
+n رفتار بد؛ / misbehaviour /msbrhervio(r)
+]3[ بی‌تربیتی» بی‌ادبی» بدرفتاری؛ شیطنت 7
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1052 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: miscall; miscast; miscegenation; miscellany; mischance; mischief i'mistfrf; mischief-maker; mischief-making; mischievous; mischievously; mischievousness; miscible; misconceive; misconduct'; misconduct; misconstruction -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+MISC / misalemias > miscellanevus
+miscalculate ۱ miskwikjulen / slash vi
+حساب کردن, درست حساب نکردن؛ اشتباه کردن؛
+غلط G25 SPH
+اشتباه در / fn ار اه اد 1 miscalculation
+محاسبه, ible Alo اشتباه: برآورد Ble
+۷ بد نام‌گذاری کردن. نام غلطلی تاد miscall
+RE CR به شادل / اشتباها ... را... خواندن:
+اسم ... را اشتباه گفتن
+Non سقمل miscarriage /miskarnds, ‘miskards/
+جنین ۲. [نامه. کالا ] نرسیدن به مقصد, نرسیدن به
+هدف. )53 راه) oS شدن؛ FE S| wii] تاکامی.
+gee موفقیت؛ [ ارزو امید | عدم تحقق
+Jai جنین کردن have a miscarriage
+ال miscarriage of justice /nuskaridz av
+7 (حقوق) اشنباو قضابی
+miscarry ۱۵۵۱ / ( prpp miscarried)
+Li REY شنین کشردن ۲..[ننشته‌:و [A شکست
+خوردن, ناکام ماندن, به جایی نرسیدن. بی‌ننیجه
+ماندن, به ثمر نرسیدن, غلعذ از آب درامدن ۳ [تامه.
+کالا ]| به مقصد Ode
+pp miscast) )اس miscast miskat (US)
+P= IA LO IV نقشی be miseast
+GC PET SS FPL کسی ,مها مدب تفای نیو دی ی
+نامناسبی به عهدة کسی گذاشتن ۲. [تسایش. فیلم |
+di slapd تقسیم شده بودن
+miscegenation/misidanern/ (poms) 21
+اختلاط نزادی, آمیزش نزادها: پسیوند نزادهای
+سیاه و سفید دنآشوش میان‌نژادی
+mpl (ادییات) جنگ miscelianea /misaleins/
+کشتکول, an game
+adj جورواجور. miscellaneous sales
+مختلف, گوناگون. متنوع؛ متفر قه
+گفتگو درباره miscellaneous conversations
+چیزهای مختلف
+miscellany /mu'scloni, (US) 7
+2 ۱. مجموعه. مجموعمٌ متنوع  (pl miscellanies)
+۲ (ادبیات) ae games (Kb گزیده, JSS
+7 (رسمی) mischance /mis't fans, (US) -tfans/
+Cy بدشانسی, بدبیاری
+از بختِ بد. از بدٍ حادثه by mischance
+mischief /mstfif/ TP I CP JL 1
+آزار, اذیت [PE JCS PE GR NE UT
+شیطانی, شیطدت. بازیگوشی ¥ (fa) شیطان, آدم
+(dons .۵ oe لطمه. cme} گزند
+resee  1=sil  m=cal = faler D=gol diz
+say W=go a1 = five au = NOW 31 =boy 19 = 0
+aia = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+73 misconstruction
+keep out of mischief شیطنت نکردن؛ شیطانی نکردن
+be up io mischief کشیدنت cob dnd
+get into mischief 3355 El کردن, cab d
+do sb a mischief به کسی صدمه زدن.
+به کسی ی رساندن
+make mischief دوبه‌هم‌زنی کردن, شرّ به پا کردن (
+make mischief between INES ...را به هم ala
+میان ... اختلاف انداختن
+۲156۱161-۵۵۲ 7 metka(r)/ ۱
+(آدم) دو به هم زن, شر به پاکن ۸
+۲۱901161-3۹9 mistfir ۱361۴11 دوبه هم زنی»/ 7
+شرارت
+mischievous ۹۹ [شخص ] شیطان؛ NV ad) ۱
+lat ] لبخند و غیره ] شسیطنت آمیز ۲. [بچه dae]
+۳ شرّ, بازیگوش؛ [رفتار | شیطنت‌آمیز Dh تخس
+[شخص ] بدجنس, بدطینت, موذی, شرور؛ [رفتار]
+موذیانه. از روی بدجنسی, مغرضانه؛ (رسمی) [شایعه.
+Se نامه, گزارش ] مخرّب,
+be mischievous a9 شیطان بودن؛ مسخره‌بازی
+be as mischievous as a monkey شیطان بودن Ls
+mischievously /mistfivasi/ .از روی شیطنت 0
+با بدجنسی, موذیانه, از روی بدخواهی ۲
+mischievousness mistjivosnis/ ۱.شیطنت؛ ۸
+بازیگوشی ۲.بدجنسی, بدطینتی» موذیگری؛ شرارت
+miscible /misabl/ «said gia ] (رسمی) [مایعات ad)
+امتزاج پذ بر
+فهمیدن. ره در رده نت ات هو ره رد ره AN
+غلط cals درست نفهمیدن؛ اشتباه فهمیدن,
+کردن ۲. بد طرّاحی کردن, بد طرح‌ریزی کردن
+misconceive of sth تصوّر غلطی از چیزی داشتن Vi
+misconceived/ ار [dis [نقشه۶ روش و ad)
+اشتباه, نادزشت SY TS
+misconception /miskan'sep n/ dale تصوبر ۷۱
+اشتباه dale غلط, پندار نادرست, برداشتِ SG
+ار (mt) n
+رفتارِ نادرست. رفتارِ غلط, رفتار ناشایست؛ .۱
+al, تسخلف, خال(ف؛ (حقوق) فسق ۲.(حقوق)
+نامشروع ۳. سوء مدیریت, سوءاداره
+misconduct? / miskon'dakt/ Loi yas] ۷
+بد اداره کردن
+misconduct oneself (with sb) رفتار نادرستی
+داشتن (با کسی). رفتار ناشایستی داشتن (با کسی)؛
+نامشروع داشتن (با کسی) dba
+misconstruction/miskan'strak fn / (ams) 11
+غلط سوء تعبیر cash dale تعبیر
+050006 00100 000 a=bird a= about
+= near ¢a = hair 19 = pure clo = player ara = fire
+0= thin § = this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1053 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: misdemeanor; misdirect -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+misconstrue 10
+V2 (رسمی) بد تعبیر کردن, misconstrue/miskanstru:/
+بد برداشت کردن, بد فهمیدن؛ [شخص ] رفتار... را
+بد تعبیر کردن؛ حرف‌های ...را بد تعبیر کردن
+vi اشتباه شمردن, miscount! /miskaunt/
+بد شمردن
+# اشتباه در شمازش. / miscount?
+شمارش نادزست. بدشماری؛ (در انتخابات) شمارش
+hl ca job اشتباه در شمارش Db
+7 (کهنه) (آدم) رال miscreant /‘miskriant/
+Cm, بی‌وجدان, بی‌شرف؛ خلافکار, متخلف
+wr ۱. [حادثه ] در تاریخ ...اشتباه misdate / mis'dert/
+کردن ۲. [نامه وغیره ] تاریخ غلط گذاشتن روی / زیر ۱
+misdeal / mis'di:l/ ( pr,pp misdealt)
+A wr [ورق بازی ] بد دادن
+7 . بد ورق دادن
+2 ۳ (بازي ورق) اشتباه
+misdealt / misdelt/ pr, pp of misdeal
+(as (wy) 1 خلافکاری؛ misdeed / mis'di:d/
+گناه. جرم؛ جنایت
+misdemeanor / misdrmina(r) / (US)
+misdemeanour =
+۱.(رسمی) misdemeanour/misdrmina(r)/ Mas
+خلاف, تقصیر ۲.(حقوق) Ami پزه
+vr ۱. [شخص ] misdirect /misdrrekt, (US) -dar'rekt/
+بد راهنمایی کردن, راهنمایی غلط کردن. آدرس
+غلط دادن dy اشتباهاً فرستادن (a) گمراه کردن
+۲ [نامه و غیره ] اشتباه فرستادن, اشتباهاً فرستادن
+appl (4) غلط نوشتن روی ۳ [نیرو. استعداد ] به
+راه غلطی انداختن, Lab دادن, تلف کردن. ضایع
+کردن ۴. (حقوق) [هیشتِ منصفه ] به اشتباه انداختن, بد
+راهنمایی کردن
+[نیرو و غیره ] هرز رفتن, تلف شدن. be misdirected
+هدر رفتن؛ [کوشش, نقشه ] نابجا بودن, نامناسب بودن,
+وافی به مقصود نبودن, بد برنامه‌ریزی کردن؛ [ضربه و
+غیره ] به هدف نخوردن
+misdirected / misdirektid, (US) -dar'rektd / stat] adj
+کوشش و غیره ] نابجا, بی‌مورد. نامناسب, ناسزاوار.
+ناحق؛ [استعداد. نیرو و غیره] cad, ob تلف‌شده؛
+[شرکت. عمل ] به راو غلط کشانده‌شده» گمراه‌شده
+misdirection / misdrrek fn, (US) 7
+۱. [شخص ] راهنمایی غلط؛ گمراه کردن؛ منحرف
+کردنِ فکر ۲. [نامه وغیره] غلط pas آدرس؛ آدرسي
+غلط ۳ [نیرو استعداد] هرز رفتن» هدر رفتن. تلف
+شدن ۴. [کوشش و غیره ] جهت‌گيري نادرست. مسیر
+غلط؛ [نقشه و غیره] برنامه‌ريزي غلط؛ [ضربه [opts
+هدف‌گیری غلط ۵.(حقوق) [هیئت منصفه ] به اشتباه
+انداختن, راهنمايي غلط
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+2 (رسمی) (Eig Jes / ده misdoing
+عمل زشت. کار oS iM as cy
+mise-en-scéne/ mi:z on 1 (em 5\s) 7
+ob! A صحنه. صحنه پردازی. صحنه ارایی.
+میزانسن ۲ صحنه ۳. (مجازی) Lad صحنه
+(به (pal) (adds خسیس. miser /'maiza(r)/
+td] ( محاوره) ناخن خشک., کنس, نخور
+ad) ۱.بدبخت. بینواء بیجاره.  miserable /mizrabl/
+درمانده, Gl مفلوک, تیره‌بخت. سیه‌روز؛ [زندگی,
+شرایط ] فلاکت‌بار, سخت. رقت‌بار؛ ls] صدا, نگاه۳]
+درمانده. نزار ۲ [هوا] دلگیر؛ مزخرف. گند؛ Je]
+وضعیّت. منظره ] غم‌انگیز, ناراحت‌کننده» زقت‌انگیز As
+[مقدار ] کم Gaal مختصر, ناقابل؛ [غذا] فقیرانه.
+محقر؛ [هدیه ] بی‌ارزش ۴. [شخص ] پست. فرومایه.
+حقیر؛ [شکست ] obo Hl رقت‌انگیز
+روزگاو Jo. را /sb's life miscrable ناد make
+سیاه کردن, زندگی را به کسی تلخ کردن
+(as) miserable as sin — sin
+adv .با بدبختی. با miserably /'mizrablt/ (Sol
+با درماندگی, با فلاکت؛ به نحو رفّت‌باری, به طرز
+فلا کت‌باری ۲ به نحوٍ دلگیری؛ به نحو غم‌انگیزی,
+به طرز ناراحت‌کننده‌ای, oA رقّت‌انگیزی AR
+خیلی کم. خیلی ناچیز. ناقابل ۴. به طرز
+(gobo lis به نحو رقت‌انگیزی
+روز بارانی دلگیری a miserably wet day
+خیلی کم miserably small
+miserliness /maizalinis/  ,یرظن‌گنت oi n
+گدامنشی j
+۱. خسیس, لیم ES / ام / miserly
+گدامنش, ناخن خشک. کنشسش؛ [ رفتار, عادات ] ( مربوط
+به) slaps! خسیس, گدامنشانه., خسسسانه.
+تنگ نظرانه ۲. [مقدار ] en حقیرانه, ناقابل, اندک
+2 ۱.درد. ناراحتی, عذاب, رنج ۰ misery /mizon/
+۲ بیچارگی, درماندگی, بیئوایی, بدبختی, فلاکت.
+سیه‌روزی؛ مصیبت ۳ (در بریتانیاء محاوره) Aim) دق؛
+SO (p21)
+روزگار کسی را سیاه make sb's life a misery
+کردن, زندگی را به کسی تلخ کردن
+حیوانی را put an animal out of its misery
+راحت کردن, حیوانی را کشتن, حیوانی را خلاص کردن
+۱ جان کسی را put sb out of his misery
+گرفتن و خلاصش کردن ۲. (محاوره) خیال کسی را
+راحت کردن. جان کسی را خلاص کردن
+Put me out of my misery and tell me the
+جانت بالا ale / جانم را گرفتی, نتیجه results!
+را بگو!
+Sais] .۱ vi توپ و غیره ] درنرفتن» / misfire /mis'fara(r)
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1054 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: misgiving; misgovern; mishap; mishmash; misinform; misinformation; misinterpret; misinterpretation; misjudgement; misjudgment; mislaid; mislay; misleading; misleadingly -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+سلیک تشون کتلوزله در [afte a som mS ells.
+پرتاب نشدن, شلیک نشدن ۲.(اتومبیل) [موتور ]
+روشن نشدن, استارت نزدن؛ بد کار کردن ۳.
+(مجازی, محاوره) [نقشه و [ot نگرفتن. بی نتیجه
+ماندن, اثر تکردن: ناموفق (Hike شکست خوردین؛
+[جوک ] هیچ کسی نخندیدن به
+۶ ۴. [نفنگ و غیره] شلیک نشدن» گیر کردنِ گلوله ۵
+[موتور] روشن نشدن ۶.(مجازی) [نقشه و غیره]
+شکست. بی‌نتیجه ماندن
+7 ۱.(شخص) os ناجور misfit /'misfit/
+ند oH بدقواره؛ لباسی که اندازه نیست
+7 بدشانسی., بداقبالی, / fun ,۳۱۱
+بدبیاری؛ بدبختی» مصیبت
+(رسمی) تردید. misgiving /misgivig/ (F252
+شک؛ نگرانی, ترس؛ سوءظن, بدگمانی, Tame
+اعتماد. بی‌اعتمادی
+Wt [کشور و غیره] بد اداره misgovern /mis'gavn/
+کردن, بد حکومت کردن برء با ظلم حکومت کردن بر
+1 ]928 و غیره ] misgovernment/ mis'gavnmont/
+سوء اداره, gen تدبیرء بی‌کفایتی؛ حکومتِ ظالمانه
+4 (رسمی) ۱. [عقیده. misguided / mis'gardid/
+نظر و غیره] le اشتباه, برخطاء نادرست, مبتنی بر
+سوء تفاهم, مبتنی بر تصورٍ غلط ۲. [عمل, تصمیم,
+رفتار ] ناموجه. بی‌جهت؛ احمقانه؛ [استعداد. [rs
+هرزرفته, تلف‌شده ¥ [شخص ] که ol) غلطی را
+می‌پيماید. که به oly غلطی افتاده است. که سخت
+در اشتباه است
+4 ۱. [چیز ] بد کار mishandle /mishandl/
+کردن باء با بی‌احتیاطی رفتار کردن باء بد تا کردن
+باه [سته] بد حمل کردن, با بی‌احتیاطی حمل
+کردن؛ [شخص ] با خشونت رفتار کردن باء بد رفتاری
+کردن باء بد تا کردن با ۲. [مسئله. موقعیّت ] بد برخورد
+کردن باء سرسری گرفتن؛ [جلسه ] بد اداره کردن
+slit a حادئة mishap /mishap/ OSG
+دردسرء گرفتاری؛ بدشانسی, بدبیاری
+mishear /mishia(r)/ ( pr,pp misheard)
+۷ بد شنیدن. عوضی شنیدن» اشتباهی شنیدن؛
+[شخص ] حرف‌های ...را بد شنیدن
+misheard /mishs:d/ pr,pp of mishear
+mishit! /mishit/ ( prp mishitting, ppp mishit)
+wr (کریکت. گلف و غیره) [توپ ] بد زدن؛ غلط زدن
+7 (کریکت . گلف و غیره) 4,5 بد؛  mishit? /mishit/
+3 وه فلط .اي
+۶ (محاوره) معجون» اش ۳
+sal BCR | شلم‌شوربا
+ii=see 1=sit @m=cat a=father D=got 9:= sa
+=go ar = five ay = now 21 =boy 12 لاو el = say
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 misleadingiy
+misinform /misin'form/ اطّلاعات (oom) vt
+گمراه کردن iy غلط دادن
+misinformation / misinfomerfn/ Jae اطّلاعاتِ n
+اطّلاعات کذب. اطّلاعات گمراه‌کننده
+تاه وت زوا وا /mism'ta:prit/ بد تعبیر کردن.
+غلطی کردن ازء بد فهمیدن» اشتباه کردن cals
+در مورد؛ [شخص ] حرف‌های ...را بد تعبیر کردن؛
+رفتار ...را بد تعبیر کردن :
+He misinterpreted her silence as indicating
+agreement. به غلط سکوتش را علامتِ رضا
+تصوّر کرد.
+misinterpretation /mismta:prrter fn / سوء تعبیر. 1
+غلط Cals Lele تعبیر ۱
+misjudge / mis'dsads/ ] [شخص, رفتار و غیره N v2
+بد قضاوت کردن دربارٌ, غیرمنصفانه قضاوت
+نظر ose قضاوتِ غلط کردن در Bobs کردن
+[ot زمان و Luan] .۲ کی در مورد... غلط بودن
+غلط براورد کردن, غلط محاسبه کردن, اشتباه
+کردن در 13590 کم برآورد کردن, کم حساب کردن
+misjudgement/misdsadsmont/ Jade ۱.قضاوت
+30) .۲ تادرستت؛ قضاوتِ غیرمنصفانه oli
+اما dale غاط محاساة
+misjudgment / mis'dsadsmont/
+= misjudgement ۱:
+mislaid / mis'leid/ رام of mislay
+mislay / misler/ (prop mislaid)  نتشاذگ جایی wr
+کزدن 55568 uso 5 و راو کزدن: گم
+It seems that I have mislaid my passport.
+نیست. نمی‌دانم ply آنگار گذرنامه‌ام را جایی گذاشته‌ام
+گذرنامه‌ام را کجا گذاشته‌ام.
+mislead /misli:d/ ( pr,pp misled) ا.گمراه کردن, wr
+تصوّر غلطی ایجاد کردن در ۲. بد راهنمایی کردن.
+a غلط راهنمایی کردن. راه را عوضی نشان دادن
+گمراه کردن به اشتباه انداختن ۳ (مجازی) منحرف
+کردن, گمراه کردن» از راه به در بردن
+mislead sb into doing sth... کسی را گول زدن
+کسی را از راه به در بردن تا...
+His friendly words misled me into trusting
+him. حرف‌های دوستانه‌اش گولم زد و کاری کرد
+باعث شد که به او اعتماد کنم. /
+I was misled into buying a car. / گول خوردم
+و ماشین خریدم. pad خام
+misleading /misli:dig/ [+ و olds [حرف‌ها, adj
+گمراه‌کننده, غلط انداز, اغفال‌کننده» گول‌زننده
+misleadingly /mistidiglt/  .یا‌هدننک طرز گمراه 4 adv
+w  U=cook ui=t00 A=cup  3:-bird a= about
+- near ea = hair ua = pure era = player ara = fire
+6= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1055 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: misled; mismanagement; mismatch; misnomer; misogamy; misogynisllmI'sodJllllSt; misogynistic; misplaced; mispronounce; misquotation; misquote; misread; misreading; misrepresent sb; misrepresentation; miss; miSS; glve sb -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+misled 10°
+4 طرز غلط‌اندازی. به نحو اغفال‌کننده‌ای, به
+Js گول‌زننده‌ای
+misled / misled’ pr.pp of mislead
+۷ [شرکت. امور مالی و غیره ] mismanage / mismanids/
+بد اداره کردن. خوب اداره نکردن. نرسیدن به؛
+[ حساب‌های مالی و غیره ] خوب رسیدگی نکردن به
+7 عدم mismanagement / mismanidsmant/
+لاأسیدگی درست؛ سوء تشدبیر؛ سوءاداره.
+Cy hae gen بد اداره کردن
+۷ به هم نخوردن. / mismatch’ / misma
+با هم سازگار نبودن, با هم جور نبودن, با هم
+نخواندن, با هم دار 95 53
+pas هماهنگی. mismatch? /'mismatf/
+ناهماهنگی. ناهمخوانی. عدم تناسب
+Their marriage was an obvious mismatch.
+ازدواجشان Le بارزی از ناسازگاری بود. ازدواجشان
+ناسازگاري مجسّم بود.
+vr نامی Lie به ...دادن ۲۱۱۹۳۱۵۲۱۵۵
+نامی بی‌مسمّا به ... دادن؛ Lic A نامیدن
+This dictatorship is misnamed the National
+روی این دیکتاتوری نام Government.
+بی‌مسمّای ca So 9۳ را گذاشته‌اند. این دیکتاتوری را
+به غلط حکومت ملّی می‌گویند.
+Non نام‌گذاری غلط / ۹۹ misnomer;
+۲ اسم Mrs نام Lele اسم عوضی
+nm (ادم) از دواجگریز» misogamist /misogamist/
+از دواج‌ستیز
+n ازدواج‌گریزی, misogamy /mi'spgomi/
+ازدواج ستیزی» نفرت از ازدواج
+.(ادم) زن‌گریز. ۱۱۱۱
+مبتلا به زن‌گریزی» زن‌ستیزء (ادم) 2 زن
+xo Alsen 3X adj زن
+adj زن‌ستیزانه. do زن misogynistic /msndsinisuk/
+۸ زن‌گریزی» 7 ۷1909۷۳۷
+نفرت از زن» زن‌ستیزری
+۷ (رسمی) ۱. [ چیز. کلمه و misplace /musplers/ [ob
+یبد جایی RCE سر جای خود نگذاشتن. جای
+JE NETS Z ۳
+دیگری گذاشتن ۲. جایی گذاشتن و فراموش کردن.
+گم کردن
+Nad) [تحسین, اعتماد. حرف و misplaced /mispleist/
+غیره ] Moe بی‌مورد. Aol بی‌جهت. بیخود ۲ iS]
+و غیره ] که سر جای خود به‌کار نرفته است. Lol
+Lis wr چاپ کردن misprint! /musprint/
+به غلط / اشتباهاً جیزی را misprint sth as sth
+چیزی چاپ کردن
+an غلط چاپی, اشتباو چاپی؛ misprint? /msprnt/
+[کلمه ] EPR ed غلط
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+۷ غلط mispronounce /,mispranasns / ils
+کردن. بد ادا کردن. بد Bik کردن
+به غلط / اشتباهاً mispronounce sth as sth
+چیزی را چیزی Bib کردن
+اشتتباه / mispronunciation/ mispranansrer fn
+در Li «Jails غلط
+n نقل‌قول غلط misquotation / miskwas'ter/n/
+cud] Wt غداد و misquote / miskwaut/ [apt
+غلط گفتن. اشتباه گفتن, غلط نقل کردن؛ [شخص ]
+از ... نقل قول غلط oS حرف‌های ...را غلط نقل
+کردن؛ به ble از... نقل‌قول کردن (که)
+misread / musri:d/ ( prop ‘misread /-'red/)
+۷ ۱.بد خواندن, غلط خواندن, اشتباه خواندن ۲.بد
+تعبیر کردن, برداشتِ غلطی کردن ازء اشتباه کردن
+در مورد. بد فهمیدن؛ [شخص ] حرف‌های /
+ld) ...را بد تعبیر کردن
+به غلط / اشتباها چیزی را misread sth as sth
+چیزی خواندن
+7 اشتباه در خواندن, / misreading / mis'ri:diy
+غلط خواندن
+۷ [شخص ] بد معرفی misrepresent /misreprizent/
+کردن, غلط معرفی کردن, جورٍ دیگری معرفی
+کردن. چهرهٌ غلطی از ... رسیم کردن؛ [واقعیّات.
+نظربّات و [a غلط نشان cools بد نشان دادن, بد
+Ade کردن. تصویر Jake از ...ارائه دادن, وارونه
+جلوه دادن, قلب کردن, تحریف کردن؛ (Bim)
+تدلیس کردن
+کضی / Liam را misrepresent sb / sth as
+به غلط ... معرفی کردن
+fn / اد misrepresentation/
+1 ۱. معرفی غلط, ioe غلط؛ نمایش غلط؛ قلب.,
+تحریف؛ (حقوق) تدلیس ۲. تصویرِ غلط
+۷7 ۱. [کشور و غیره ] بد اداره کردن. misrule /mistul/
+بد حکومت کردن بر؛ با ظلم حکومت کردن بر
+Yn حکومتِ جابرانه. ce Se ظلم ۳ هرج و مرج.
+بی‌نظمی, آشوب. اغتشاش
+7 ۱. دوشیزه؛ خانم Shey زیبایی اد Miss
+دختران اقای the Miss Hills; the Misses Hill J.»
+1 دختر؛ دخترمدرسه‌ای miss’ /mis/
+7 ۱.خطاء ضربةٌ خطا؛ شکست miss? /mis/
+ماوره) Bi جئین
+( محاوره) دور کسی / جیزی را give sb/sth a miss
+خط کشیدن / قلم گرفتن, کسی / چیزی را فراسوش
+کردن؛ کسی / om را از برنامه حذف کردن
+اک که از A miss is as good as a mile. (prov)
+سر گذشت چه یک وجب چه صد وجب. از خطر رد شو
+چقدرش مهم نیست.
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1056 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: misshapen; missing; missing link; mission; missis; missive; misspell; misspelling; misspelt; misspend -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+a near miss — near’
+۷ . [هدف و غیره ] نخوردن بد. miss? /mis/
+اصابت نکردن به ۲. ندیدن؛ نشنیدن؛ متوجه نشدن.
+نفهمیدن. نگرفتن. توجه نکردن ۳. [کلاس. قطار و
+غیره ] نرسیدن به. از دست دادن ۴. [فرصت, تسانس و
+غیره ] از دست دادن, محروم شدن از ۵. متوجه شدن
+که...گم ده است / اشیجعت. متوجه گم شدن /
+نبودن ...شدن ۶. نبودٍ / جای خالی ...را احساس '
+کردن. دل کسی So Tew dlp ششدن؛ کمیود...را
+احساس کردن ۷. قسر دررفتن, گرفتار ... نشدن. از
+شرّ... خلاص شدن
+[Ls] ۸ vi خطا رفتن, به هدف نخوردن. نزدن؛
+[شخص ] تیرٍ... خطا رفتن / به هدف نخوردن.
+ضربهٌ ...خطا رفتن .٩ [موتور ] روشن نشدن
+The goalkeeper just missed (stopping) the
+توپ از ces دروازه‌بان دررفت. دروازه‌بان ball.
+نتوانست توپ hE
+(به هنگام بالا رفتن) پای (کسی) miss one's footing
+دررفتن, لغزیدن, سر خوردن
+جیزی نمانده The plane just missed the tower.
+بود هواپیما به برج بخورد. هواپیما درست از Jo برچ
+رد شد.
+miss the mark — mark
+( محاوره) فرصت را از دست دادن miss the boat / bus
+I missed him at the station by 5 minutes.
+پنج دقیقه به ایستگاه دیر رسیدم و او را ندیدم.
+not miss much; not / never miss a trick
+(محاوره) حواس (کسی) خیلی جمع wom زپل
+بودن
+صرفی‌نظرکردنی نبودن, be too good to miss
+چشم‌پوشیدنی نبودن, چیزی نبودن که بشود از آن
+صرف‌نظر کرد
+His offer seemed too good to miss.
+پسپشنهادش چیزی نیست که بشود از آن گذشت.
+پیشنهادش بهتر از آن است که بشود ازش چشم پوشید.
+(مجازی) فرصت را از دست دادن؛ miss one's cue
+مطلب را نگرفتن
+He's so rich that he wouldn't miss £100.
+Sail پول دارد که ۰ بوند برایش Cd So از
+دست دادن ۰ بوند به جاییش برنمی‌خورد.
+We scem to be missing two chairs.
+به نظر می‌رسد دو تا صندلی گم شده. al دو تا صندلی
+کم ات .
+دیشب We missed you at the party last night.
+تو مهمانی جایت JB بود / جایت را خالی کردیم.
+ 1=sil @=cal  a=faher D=gol  o:=s مود
+Lo al = five av = now 31 =boy I: = ناه el = say
+aud = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 misspend
+miss (sb /sthy out = [نام, کلمه. سطر و غیره] .۱
+انداختن. از قلم انداختن؛ [غذا, سخترانی و غیره ] (از
+
+برنامه ) حذف کردن
+7 ۲. فرصتی را از دست دادن. چیزی را از دست
+دادن
+17 [فرصت. مهمانی, معامله و غیره ] miss out on sth
+( از دست دادن
+7 (مذهب) کتاب des کتاپ عشای  /۹۱:/ missal
+ربّانی
+adj [چیز ] بدشکل, بدقواره» misshapen / mis feppan/
+بدریخت؛ [بدن, دست. پا و غیره ]| معیوب. ناقص,
+SH ( کج‌ومعوج
+7 ۱. بُرانه. missile /misail, (US) ‘misl/
+چیز پرت‌کردنی
+۲ (طامی) موشک ۳ (صفت‌گونه) موشکی
+ad) ۱. گمشده؛ [صفحه. سطر و Missing /musig/ [spf
+افتاده؛ کم ۲ Last] ] گمشده: مفقودالاثتر ۳. (نظامی)
+[ سرباز ] مفقود
+(نظامی) مفقودان, مفقودشدگان the missing
+۱ م 1534 گمشده بودن, نبودن be missing
+alder SY نبودن
+Addn مفقوده missing link /misiy Tigk/
+I (شیاسی, مذهپ:نظامی و اغیره) mission /mifn/
+قاموریت ۲ هیئت. هیئتِ نمایندگی, هیئتِ اعزامی
+Jo ۳ استقرارِ cin نمایندگی, ss (کارِ) ctor
+اعزامی ۴ J CIF (مذهبی)» میسیونٍ مذهبی,
+هیلتِ میسیونرها ۵. میسیوئری. Joes میسیون
+مذهبی ۶.(صفت‌گونه) ( مربوط به) مبلغین مذهبی:
+( مربوط به) میسیونرهاء میسیونری ۷. وظیفه.
+رسالت. ماموریت
+(نظامی) 5 Js ss هوایی mission control
+۱ مبلّغ missionary /'m1fonrt, (US) ey
+(a) میسیونر
+۲ میسیونری» (مربوط به) میسیونرها ۳ [شور و
+حرارت ]| فوق‌العاده زیاد؛ [روحبه ] پرشور و حرارت
+MISSIS /'misiz/ = missus
+(رسمی. کهنه) مکتوب, نامه. missive /misiv/
+پیام؛ (به شوخی) نام بلغدبالا
+misspell misspel/ ( pr.pp misspelled, misspelt)
+۷ [کلمه وغیره] غلط نوشتن, با املای غلط نوشتن؛
+غلط هجی کردن
+a املای نادرست؛ / راد ۲ misspelling
+(shel Lis غلط دیکته‌ای
+misspelt /mis'spelt/ pr,pp of misspell
+misspend / mis'spend/ ( pr.pp misspent)
+
+Ww s=cook  u:=100 a=cup  3=bird a= about
+
+= near ¢d= hair Ud = pure clo = player ana= fire
+O= thin d= this [= shoe 1= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1057 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: misstate; mist; mistletoe; mistakenly; mister; mistily; mistook; mistral; mistranslate I rrustnens'lert; mistranslation; mistress -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+misspent 10
+Ja] vt وقت و غیره ] تلف کردن. هدر دادن ضایع
+کردن. به باد دادن
+
+misspent’ / mis'spent/ ] استعداد و غیره oy 0] adj
+هر زرفته. بربادرفته (ALS تلف ده هدر
+
+misspent? / mis'spent/ pr,pp of misspend
+
+misstate /misstert/ zw 500 اظهاراتِ (any)
+
+کردن دربارٌ گزارش کذب دادن در موردء گزارش
+
+غلط دادن در موره؛ بد مطرح کردن. بد بیان کردن
+
+2 اظهارات نادرست. misstatement /mis'stertmant/
+گزارش کذب. گزارش غلط
+
+۱.(محاوره به شوخی) عیال, /'misiz/ ۲۳1555
+ih) مادر Lazy ۲ (عامیانه. در خطاب به زن) خانوم.
+
+: خانوم جون
+
+72 (کهنه. محاوره, در خطاب به دختربچه) missy /'misi/
+خانم کوجولی خانم خانم‌ها ۱
+
+۸ .مه مه رقیق ۲.(مجازی) ابر» Mist /mist/ wo py
+غبار, سایه ۳ [ آیینه. شيشه وغیره] بخار ۴. (جلوی چشم)
+پرده ۵ در هوا) بخار؛ [عطر, اسپری و غیره ] ابر
+
+۶. مه‌آلود شدن. مه گرفتن ۷ [چشم ] تار شدن؛
+al an] و غیره ] بخار کردن؛ بخار گرفتن
+
+al wz] A wr و غیره] cel شندن که...بخار کند؛
+[چشم ] تار کردن؛ پرده‌ای از... جلوی ...را گرفتن .٩
+[گیاء ] Sd کردن
+
+۱. مه‌آلود شدن, مه گرفتن mist over
+
+ane] ۲ و غیره] بخار کردن؛ [چشم ] تار شدن
+
+mist (sth) up [شینه و غیره] باعتث شدن VN wr
+
+که ... بخار کُند. تار کردن
+Yi [شیشه و غیره ] بخار کردن
+اشتباه؛ غلط, خطاء لغرش  mistake’ /mrsterk/
+به اشتباه, اشتباهاً, اشتباهی, به سهو by mistake
+( محاوره) مو لای درزش and no mistake
+هم نمی‌رود. و حرفی هم تویش نیست. بی‌برو برگرد
+(محاوره) اشتباه نکن make no mistake (about it)
+شک نداشته باش, حتم داشته باش
+mistake? /mi'steik / ( pt mistook, pp mistaken)
+wr ۱.اشتباه کردن در مورد. خطا کردن در مورد؛
+old فهمیدن, بد فهمیدن ۲. عوضی گرفتن. olan
+کردن
+کسی / چیزی را به جای... mistake sb / sth for
+(ose) گرفتن. کسی / جیزی را به جای... اشتباه
+گرفتن
+شکی نیست که / > There's no mistaking her.
+خودش است. خودش است حرف هم ندارد.
+شکی نیست که / There's no mistaking her voice.
+حتماً صدای خودش است.
+mistaken’ /mr'stetkon/ dake lastly ad)
+380 30 ۳[ فلت و 9[ SEC بی‌ميزد. Eis
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+)54 کسی / be mistaken (about sb / sth) |
+چیزی ( اشتباه کردن. ( دربارة کسی / چیزی) در اشتباه |
+بودن؛ )5000 کسی / چیزی) بر خطا بودن |
+pp of mistake? / اکن / 1313662
+0 اشتباهاً, به اشتبای  mistakenly /misterkonli/
+به dade به خطا |
+BTA 7 ۲. (عامیانه. در خطاب بد / mister /'mista(r) |
+RH] (os ۰ آقای عزیز |
+adv & طور (ogee به طور نامشخصی /mistilt/ [[81ا ۲۳
+wr ۱. [کار] بی‌موقع انجام “mistime /mistaun/ sls
+بدموقع انجام دادن؛ [ضربه و غیره] بدموقع زدن؛
+[حرف ] بی‌موقع زدن. بی‌موقع گفتن ۲. در مورد
+od ... اشتباه (aS در مورد plas ...اشتباه کردن
+adj [حرف. ضربه و غیره ] بی‌موقع. mistimed / mistaimd/
+بدموقع, نابهنگام _
+Nn مه‌گرفتگی. مه‌الودگی 1 mistiness
+azz] ۲ و [op بخارگرفتگی. بخارکردگی ۳ [چشم.
+نگاه ] تاری ۴. [افکار. خاطرات ] درهم‌برهمی, مغشوش
+بوردن
+(گیاه) دارواش, شیرینک / رها / mistletoe
+mistook /miswk/ pr of mistake?
+22 باد میسترال mistral /'mistral, mi'stra:1/
+)= با Si سردی که در زمستان در جنوب فرانسه می‌وزد)
+بد ترجمه کردن. mistranslate/mustransleit/
+غلط ترجمه کردن
+dam 5 n بد.ء ات ره mistranslation
+ترجمهٌ غلط
+بد رفتاری کردن باء mistreat / mis'tri:t/
+اذیت کردن, بی‌حرمتی کردن» خشونت کردن با؛ بد
+تا کردن با؛ [کتاب و غیره ] بد نگهداری کردن
+n بدرفتاری. mistreatment / mis'ri:tmant/
+اذیت و آزار
+2 (زن) ۱. [خانه, خدمتکار ] بانو  mistress /mistris/
+خانم ۲. [سگ ] صاحب ۳ (در بریتانیا) olan آموزگار,
+دبیر ۴. معشوقه. oe ۵ کهنه) محبوب, معشوق ۶.
+( کهنه. در خطاب) خانم؛ دوشیزه
+be mistress of oneself; be one's own mistress
+fos] آقای خود ag صاحب اختیار خود بودن. آدم
+pe بودن ۱
+alos] اوضاع be mistress of the situation
+مسلط بودن, اوضاع را تو Cod خود داشتن
+[ زن ] در کاری استاد be mistress of sth og
+skid کاری بودن, بانوی چیزی بودن
+انگلستان England was Mistress of the Seas.
+سرور دریاها بود.
+2 (حقوق) ۱. دادرسی بی‌اعتبار, mistrial /mistraral/
+سوء دادرسی ۲. (در آمریکا) دادرسي بی‌نتیجه
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1058 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mistrust; mistrustful; mistrustfully; misty; misunderstand; misunderstanding; misunderstood; misuse; miter; mitigate; mitigating; mitigatiOn; mitre; mitre-joint; mitt; mitten; mixsb -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+. 10
+
+۱. اعتماد نداشتن ca اطمینان mistrust /mistrast/
+نکردن به. بی‌اعتماد بودن به ۲ بدگمان بودن به:
+شک داشتن a مظنون بودن ih مشکوک بودن به
+
+۳ بی‌اعتمادی, عدم اطمینان ۴. بدگمانی, ob egw
+شک
+
+mistrustful /mistrast/ بی‌اعتماد, بدگمان, ظنین adj
+mistrustfully / mis'trastfals / با بی‌اعتمادی. 0
+با بدگمانی, با سوء ظن
+misty /'msti/ (comp mistier, super mistiest)
+03S, 0 [0,8 5 al iam] مه‌آلود. مه گرفته اد A adj
+ren ] خاطرات SSH] .۴ بخارگرفته ۳ [چشم, نگاه ] تار
+مغخشوش, درهم‌برهم؛ [عکس ] تار
+misunderstand /misands'stand/ ( pr,pp
+misunderstood) [opts [حرف. عمل vr
+بد تعبیر کردن؛ برداشتِ غلطی کردن ازء
+] منظور ...را درست نفهمیدن» بد فهمیدن؛ [شخص
+حرف‌های ...را بد تعبیر کردن, از حرف‌های...
+غلطی کردن, حرف‌های ...را نفهمیدن cls
+
+۸ ا. تعبیر  misunderstanding /misands'stendiy/
+غلط. برداشتِ غلط. سوء تعبیرء بدفهمی,
+se تفاهم ۲.اختلاف, برخورد. سوء تفاهم
+
+misunderstood’ / داوم 0 / pr,pp of
+misunderstand
+misunderstood? / misanda'stud/ درک‌نشده» [
+فهمیده‌نشده. کشف نشده» ناشناخته‌مانده
+to be misunderstood oi درک (HAD بد فهمیده
+ناشناخته ماندن
+She felt misunderstood all her life.
+در تمام زندگیش احساس می‌کرد کسی او را درک نکرده
+است.
+
+7 ۱.بد به‌کار بردن» رصن دور misuse’
+Solan غلط کردن از؛ سوء‌استفاده کردن از؛ در راه
+غلط به‌کار بردن ۲.بدرفتاری کردن باء اذیت کردن
+
+# استفادة غلط, استفادة misuse? / misju:s/
+نادرست. استفادةٌ نایجا, کاربردٍ غلط؛ سوءاستفاده
+
+۱. خرده, ذرّه ۲ سهم ناجیز(ی)» mite’! /mart/
+کمک ناچیزآیم)ء اندکد (ARE soe کوچوای
+
+Poor little mite! طفلک!
+
+یک جزئی, یک ذرّه‌ای, اندکی a mite of
+
+a mite محاوره) یک 1055 کمی, یک خرده aS) adv
+mite? /mart/ ASG) بر
+miter /marta(r)/ (US) = mitre
+
+mitigate /'mrtigert/ (رسمی) [درد. خشم, مجازات و WE
+Sow تخفیف دادن Gl غیره ] کاهش دادن, کاستن
+کردن, کم کردن؛ تسکین دادن
+
+i=see 1=sit z=cat کل ۵06۲ D=got 5
+el = say = go ar = five ay = now 21 = boy 13
+aud = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 mix
+mitigating /'miugerty / کاهش دهنده. adj
+تخفیف دهنده؛ تسکین‌دهنده
+mitigating circumstances iii Olas حقوق) (
+mitigation /mi'geifn/ کاهش؛ تخفیف؛ تسکین
+in mitigation حقوق) برای تخفیف در مجازات؛ (
+تخفیف در مجازات dns در
+mitre /'maito(r) / تاج اسقفی, کلاه اسقفی Nn
+فارسی Jia! (9) a
+۳.(نجاری) فارسی به هم درز کردن, فارسی به هم
+وصل کردن
+mitre-joint ‘mare dsomt/ (نجّاری) اتصال فارسی 1
+mitt /mit/ دنشکش یک‌انگشتی ۲ ۶
+(بیس‌بال, بوکس و غیره) دستکش ۳ (عامیانه) دست ۲ (
+mitten /'mun/ ۱.دستکش یک‌انگشتی #
+دستکش بی‌انگشت. دستکش بدون پنجه ۲
+۲311 /miks/  .نتخاس ] [سیمان, شس, سالاد و غیره A 4
+درست کردن ۲. مخلوط کردن, قاطی کردن, به هم
+امیختن
+مخلوط شدن, قاطی شدن.» به هم آمیختن ۴ با ۳ 7
+کردن dal دیگران) جوشیدن. قاطی شدن, رفت و
+mix it (with sb) SL (عامیانه) دعوا راه انداختن,
+درافتادن, با کسی دست به یقه شدن
+mix (sth) in ] (آشپزی) [ تخم‌مرغ, کره و غیره ۱ vt
+ریختن, زدن «03S اضافه
+دیگران جوشیدن., با دیگران قاطی شدن LLY vi
+mix sth into sth اضافه کردن به. ریختن در .۱. wr
+زدن که به ... تبدیل شود؛ SAT .۲ a زدن
+مخلوط کردن تابه چیزی تبدیل شود
+mix (sth) together (Has هم) مخلوط LY wv
+به هم آمیختن OAs قاطی
+به هم 05S با هم) مخلوط کردن. قاطی ( ۲
+امیختن
+mix sb / sth up [شخص ] گیج کردن. Now
+ذهن ... را آشفته کردن ۲. (با هم) اشتباه گرفتن.
+عوضی گرفتن ۳ [دارو و غیره] ساختن, درست
+کردن ۴. [اوراق, لباس‌ها ] به هم ریختن, به هم زدن
+be / get mixed up in sth (محاوره) در جیزی
+درگیر شدن. پای کسی به چیزی کشیده شدن
+be / get mixed up with sb محاوره) با کسی (
+قاطی شدن
+mix it up (with sb) (عامیانه) دعوا راه انداختن.
+با کسی درافتادن
+mix sb / sth up with از کسی / چیزی را به
+جای ...گرفتن» کسی / چیزی را با... اشتباه
+کردن
+w  u=cook u:=to0 A=cup 3=bird a= about
+- pear ea = hair v2 = pure era = player ara = fire
+0= thin d= this [= shoe 3= vision 1) = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1059 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mixed; mixed doubles; mixed economy; mixed farming; mixing; mixture; mizen; mizzen-sail; ml; Mlitt; mm; Mme; mnemonic; mnemonics; mo; MO; mizzen; moaner; moat; moated; mob -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mix ۱0
+| ۸ ترکیب. spl مخلوط "mix? /miks/
+| پودر SKS WKS حاضری, مخلوط cake mix KS
+لد آماده cement mix
+Ji] AN ad) غیره ] که از مواد mixed /mikst/
+مختلفی ترکیب was مخلوط., در هم؛ [کتاب و غیره ]
+که دارای مطالب متنوّعی است؛ [هوا] متغیّر ۲.
+مختلف. جورواجور. گوناگون, در هم ۳ [als] ۱
+جندنزاده, چندنژادی ۴. [مدرسه و غیره ] مختلط
+جیزی را از give sth a mixed reception
+دیدگاه‌های مختلف / متضاد موردٍ بررسی قرار دادن
+bso چیزی حرف‌های مختلفی زدن
+از دیدگاه‌های meet with a mixed reception
+مختلف / متضاد موردٍ بررسی قرار گرفتن, در موردِ ۱
+چیزی اظهارِ نظرهای مختلفی شدن
+)53 مورد have mixed feelings (about sb/sth)
+کسی / چیزی) احساساتِ مختلفی / متضادی داشتن
+دورگه؛ چندزگه of mixed blood
+( در ) جایی که زن و مرد با همند in mixed company
+7 [کلاس | mixed ability /,mikst abilon/
+با استعدادهای مختلف, ناهمگن. ناهم‌سطح؛ [روش
+آموزش ] برای استعدادهای مختلف
+7 (محاوره) ot! شله‌قلمکار, / mixed ۵0/0۱۵۱ bag
+OTe a در هم
+جیزی که هم mixed blessing /mikst blesig/
+جنبه‌های خوب دارد و هم جنبه‌های ob (چیز)
+هم خوب و هم بد
+mpl (تیس) بازی mixed doubles /mikst 'dablz/
+دونفرهٌ مختلط, بازي Jugs مختلط
+sla! # مختلط mixed economy /mikst tkonomit/
+۸ کشاورزی mixed farming /mikst 'fa:mig/
+مختلط ۲
+a (در بریتانیا) ‘gnl/ SUS اکن / mixed grill
+مخلوط )= JS lie از ree زامبون و چگر)
+n ازدواج mixed marriage / mikst ‘marids/
+دونژادی, ازدواج میان‌نژادی؛ ازدواج با غیر
+استعارة / (ا ۳ mixed metaphor /mikst
+مختلط, استعارة tod مجاز مختلط, J
+4 (محاوره) آشفته. گیج. : mixed-up /.mikst ‘ap/
+گیج و منگ, قاطی
+bas که مشکل اجتماعی دارند. mixed-up kids
+Mey alma
+7 ۱. [غذا, مواد] مخلوط کن. mixer /miksa(r)/
+همزن. میکسر ۲. (رادیو. تلویزیون, سینما و wo pb دستگاه)
+(Sb le میکسر؛ (شخص) مسئول میکساز ۳.
+WS که در مشروب می‌ريزند
+آب میوه در use fruit juice as a mixer oy ie
+ریختن
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+a good mixer محاوره) آدم بجوش. آدم خونگرم (
+a bad mixer محاوره) ادم نجوش؛ ادم دیرجوش (
+Mixing /'miksiy/ coda 53S مخلوط .۱ ۸
+رادیو, تلویزیون و غیره) میکساژ ( ۲ = al
+mixture /'mikstfa(r)/ ا.اختلاط؛ آمیزش. ۸
+مغلوط (op) F mal ۲+مخلوط: Trial
+cough mixture Koger (پزشکی) شنربت
+mix-up /'miks ap/ (محاوره) آشفتگی. به‌هم‌ریختگی, 17 :
+۱ بی‌نظمی» پل‌بشو؛ سوء تفاهم
+mizen /'mizn/ = mizzen
+mizzen /'mizn/ (دریانوردی) ۱. دکل پاشنه
+Taal بادیان ۲
+mizzen-mast /'mizn mast, (US) mast! دکل پاشنه ۸
+mizzen-sail /'mizn scil/ پادبان پاشنه 7,
+MK /mak/ > مارک )= واحد پول آلمان) Aon
+Jae (Jes)
+ml’ /mibilista(r) / ( p/ mi, mils) > mitlilitre(s)
+ml 2 /mml/ (p/ ml, mls) > mile(s)
+MLitt / em Its > Master of Letters
+(در علوم انسانی) ۱.(درجهٌ) کارشناسی ارشد ممتاز, a
+dis (درجهٌ) فوقي لیسانس ممتاز ۲.کارشناس
+ممتاز id مفقاز (دارندة درجة ) قوق
+Mile Ideal (pl Mlies) > Mademoiselle
+mm /‘m:hmi:ta(r)/ ( pl mm, mms) > millimetre(s)
+Mme / madam, (US) madam / ( p/ Mmes) < Madame
+mnemonic /nimonik / کمک حافظه. یا آوژنده (
+mnemonics /nimoniks/ تقویتِ حافظه (2) ۷
+۲۵۹۱۹ / محاوره) لحظه. دقیقه gE) n
+۲۵۶ /man0/ (US) < month
+MO’ /em ou! > Medical Officer کارخانه. Sy ۷
+پزشکي کارگاه؛ (نظامی) پزشک ارتش
+۷۵۶/۵ 'a/ > money order (J (در آمریکا,
+goo igi Ally : lg He
+moan /mausn/ مویه؛ [باد ] زوزه AUN 0
+BUR غرغر. آه BH غرء ol (محاورة) 7
+زوزه کشیدن ۴.(محاوره) [ob] ناله کردن. نالیدن؛ ۳ ۷
+کردن, Bi کردن, rE زدن, rE ق زدن,
+کردن AU نالیدن, اه و
+۵.با ناله گفتن ۷
+have a moan 50,5 غُرغُر 0%) re ESI
+moaner / maar) / sabes (محاوره) آدم ۸)
+دم غرغرو
+be a 0 همه‌اش اه و ناله کردن.
+| آه و ناله بودن SIS
+| moat /maut/ خندق n
+| moated /'mastid/ خندق, محصور 4 خندق hls ad)
+mob /mpb/ ( prp mobing, pr,pp mobbed)
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1060 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mobility; mock'; mock at sh; mockery; mockingly; mock-up; mod -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+۷ ۱. جمعیتِ آشفته. جمعیت. انبود Gand an) Ya se
+عوام‌الناس, عوام, غوغا. اوباش, اراذل, OY و لرت‌ها
+[ay sap] (ae) ۳ دار و LU ces vam
+vf ۴. جمع شدن در / دور؛ هجوم بردن به / به طرفی.
+ریختن به؛ حمله کردن به / به Gb
+سخنرانی‌ای که احساساتٍ مردم را mob oratory
+تحریک می‌کند
+حکم جماق moh rule
+(a8) on کلاه خانه ( زنانه) mob cap ‘mob kap/
+N adj قابل جابجایی. mobile /'mavbal, (U8) -bl, bits
+قابل‌انتقال؛ قادر به حرکت. قادر به جابجا شدن؛
+سیار؛ متحرک ۲. | جسیت. کُرره ر غیره ] (به لحاظ
+جغرافیایی, اجشاعی و شغلی) دارای FS eas Soma
+[چهره. خطرط چهره ] otic تشغییرپذیر ۴.(سحاوردا
+Solan]
+۸ ۵.(عروسکي) isl اذین Glas تلفن bee
+pals همراه, موبایل
+me) )+( وسپله داشتن, be mobile ibs pals
+mobile home Smadbia! Thasm, (US) anaubl,
+کاراوان. خانهٌ کاراوانی mahi!
+mobile phone ۸۸11900211 fasn, (US) maubl,
+تلفن سیّار. تلفن همراه. موبایل RURSLIRY
+5 زا (us) ,اد / maohilisation
+mobilization =
+mobilise /'maubiluz/ = mobilize
+a جابجایی, (Som امکان / mobility /mavbilot
+WS قدرتِ تحرّک. قدرتِ مانور
+So طبقاتی, جابجایی اجتماعی  social mobility
+mobility allowance /masbilou alaans /
+۸ [معلولین ] dn رفت و sal
+mobilization /mavbilarzer fn, (US) -li'z-/ ge 1
+تجهیز
+vi ۱ اماده شدن. بسیج شغدان mobilize /'mavbilarz/
+wr ۲. آماده dS بسیج ELI تجهیرز 83,5
+a دزد؛ جانی؛ گانگسش /'mobsta(r)/ ۱1051۵7
+تبهکار
+۸ کفش سرخپوستی. 0 1110002810
+موکازین
+7 ۱. قهوةٌ موکا /moks, (US) ‘mavka’ 1100118
+۲ (اسانس) (CPW
+۱. مسخره کردن, دست انداختن,  mock! mnk/
+خندیدن At dy کسردن ۲ (رسمی,. (dh [سقشه.
+کوشش ] به باد تمسخر 8 ord خندیدن به A
+ادای ...را درآوردن
+vi ۴. مسخرگی کردن. مسخرهبازی درآوردن
+1 او 0 100۲ 0 اه اوح معا
+at = five au = now 1 = boy 13 0 = تا C= say
+ad = hour j= yes w= wet tf = chain ds= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 modal auxiliary
+mock at sh/ sth 03S 0 tues را San / کسی
+کسی را دست انداختن, به کسی / چیزی خندیدن
+make (a) mock of (ا5 sth hm) کسی
+مسخره کردن, به کسی / چیزی خندیدن؛ کسی / چیزی
+را دست انداختن
+mock? /mok/ [جنگ و غیره ] آزمایشتی, نمایشی, ad) (
+ساختگی, دروغی. [bas تمرینی ۲ [تواضع.
+SX قلابی. کاذب ۳ [چرم و غیره] مصنوعی؛
+a mock exam 558 آموزشی) امتحان (
+mocker /'moka(r)/ ’ Sas لوده. n
+put the mockers on sth g > « در بریتانيا, عامیاند) (
+را ضایع کردن, به چیزی گند زدن. Gr خرابی کردن,
+چیزی را به هم زدن
+put the mockers on sh Ad کار کسی gle
+Shr 535 درذشبر درست ip Sy oS جلوی کار
+mockery /'mokart/ ۰ تمسخر, مسخره کردن. A 21
+Sha (کردن) Head ریش‌خند (کردن)»
+تقلید مسخره. کاریکاتور. نمایش (Seas
+Tas Ll sas مسخره ۳ مضحکه. اسباب
+make a mockery of sth چیزی را بی‌معنا کردن.
+WS را بی‌ارزش Ger چیزی را بی‌اعتبار کردن.,
+به چیز سضحکی had احمقانه جلوه دادن چیزی را
+کردن
+mock-heroic /mnk hrrautk / gla پهلوان [ So] ad)
+mocking /mokiy/ «eel ead [خنده. صدا] A ad)
+ریشخندآمیز
+مسخره کردن, ریشخند (کردن) ¥ 10
+mockingbird /mokigba:d/ مینا clin مرغ 1
+mockingly /'mokuglt/ حالنی تمسخرامیز. adv
+به مسخره, ریشخندکنان؛ با لحنی تمسخرآمیز
+mock turtle soup /'mok ttl su:p/ سوپ Nl
+قلابی cy لاک
+mock-up /'mok ap/ ] ساختمان و غیره Joust] .۱ 2
+آزمایشی؛ ماکت ۲.(جاپ) ماکت Jue dads) مدل
+mod /mod/ شیک؛ Gay de ] ۱.(کهنه. عامیانه) [لباس adj
+شیک و پیک ka WP [pass]
+(نیز با حرف بزرگ) ماد )2 در بریتانیا. جوان شیک‌پوش ۳
+: )۱۹۶۰ موتورسوار در دهة
+MOD /۵۵ av 'di:/ > Ministry of Defence
+وزارت دفاع (Gay (در ۸
+modal /'moud!/ وجه‌نماء Jab ۱.(دستور) ۸
+وجهی J
+SAL ۲.(دستور) [فعل ] وجه‌نماء وجهی ۳. صوری, ad)
+agi se ] [قضیه (Ga) .۵ (موسیقی ) مٌدال ۴
+modal auxiliary /mausdl هناوید / = modal verb
+w  u=cook u:=100 a=cup 3=bird a= about
+= near €9 = hair ud = pure cla = player and = fire
+0= thin d = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1061 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: modality; modal verb; mod cons; mode; modeler; modeling; modeller; modelling; modem; moderate; moderately; moderate-sized; moderating; moderation; moderator; modern; modernisation; modernise; modernism; modernist -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+modality 10
+۸ ۱.(موسیقی) مٌدالینه. مقام  modality /movdalii/
+۲ (منطق) Cag
+(55s) n فعلي وجه‌نماء /۷۹:۳ modal verb /maoud!
+Jb وجهی
+spl (در ks, محاوره, در mod cons / mod konz/
+آگهی‌های فروش خانه) تجهیزات» تسهیلات. امکانات
+رفاهی, Lis رفاهی > a house with all mod cons > ۱
+2 ۱.(رسمی) شیوه, طرزء روش. mode /movd/ Jl,
+نحوه» شکل ۲.(محاوره) حال و هوا ۳ (هنر. ادبیات)
+سبْک؛ (در مورد لساس) مد ۴ (موسیقی) (ah مقام ۵.
+(alte) جهت ۶. [دستگاه ] وضعیّت, حالت ۷.(آمار)
+مد نما
+در حال و هوای be in travelling mode
+مسافرت بودن, هوای مسافرت به سر کسی زدن
+2 ۱. [اتومبیل, ساختمان وغیره ] نمونه model’ /modl/
+(اولیّه)» مدل؛ ماکت ۲. [محصول ساخته‌شده ] Jas ۳
+( ریاضی, اقتصاد. شیمی و غیره) الگو, مدل ۴. (شخص. چیز)
+نمونه» سرمشق, الگو, انگاره ۵.(صتت‌گونه) [معلم.
+مزرعه, رفتار و غیره] نمونه ۶.(هنر. عکاسی و غیره) مدل؛
+[لباس ] مانکن ۷.(در مورد لباس, کلاه وغیره) تک دوزی
+هواپیمای a model aeroplane Jae
+a model car SS
+(محاوره) عین, کپی, لنگَذٌ a model of
+مثل, عین, دای 8 8 on the model of
+آخزین طرح‌ها (ی نک‌دوزی). the latest models
+آخرین مدل‌ها
+model? /'modl/ ( prp modelling, (US) modeling,
+۸ ۱. [لباس و غیره] pt,pp modelled, (US) modeled)
+مانکن...بودن» پوشیدن و نمایش دادن ۲. مدل...را
+ساختن, نمونةٌ...را ساختن؛ ماکت... را درست
+کردن ۳. ساختن, درست کردن, قالب‌ریزی کردن؛
+[موم, خمیر و [ot شکل دادن
+7 (هنر, عکاسی) ۴. [شخص ] مدل بودن, مدل شدن؛ (در
+موردٍ لباس) مانکن بودن
+جیزی را به تقلید از / روی model sth on
+گُردةٌ... ساختن / درست کردن؛ [رمان و غیره ] چیزی را
+به تقلید از... نوشتن؛ [نقاشی ]چیزی را به تقلید
+از ... کشیدن
+از کسی تقلید کردن, کسی را باه model oneself on
+سرمشق قرار دادن, کسی را الگو قرار دادن, از کسی
+پیروی کردن. از کسی دنباله‌روی کردن
+modeler /'modlo(r)/ (US) = modeller
+modeling /'modiry/ (US) = modelling
+lok Aon نمونه‌ساز, modeller /'mndia(r)/
+Jus suse ۲. قالب‌ساز
+2 ۱. طرّاحی, نمونه‌سازی.  modelling /modiiy/
+مدل‌سازی ۲ کار مانکنی
+
+<!-- REGION: RIGHT COLUMN -->
+
+: 2
+She did some modelling to earn a bit of
+برای پول درآوردن مدّتی مانکن شد / مدل شد. money.
+11 (کامپیوتر) مودم, تلفیق‌کننده modem /'maudem/
+ce] .۱ مقدار و /'modarat/ [of ۲۳9۵۵۲2161
+متعادل, متوسط؛ [قیمت ] مناسب, معقول؛ [حرارت.
+آب و هوا] معتدل؛ [باد ] ملایم؛ [دریا] تیمه‌طوفانی؛
+[استعداد و غیره] معمولی, عادی X [ تغییر و Lost کم
+مختصر, اندک ۳ [نظرات. سیاست ] اعتدالی؛ [شخص,
+گروه] میانه‌رو ۴. [رفتار, تقاضا ] معتدل, معتدلانه؛
+[شخص ] معتدل, معقول
+7 ۵.(سیاسی) آدم میانه‌رو
+lia} A vr تقاضا و غیره ] moderate? /'modarert/
+تعدیل کردن» متعادل کردن؛ cas] و غیره ] کاهش
+دادن, پایین اوردن؛ [لحن ] ملایم کردن
+ul] XY vi توفان و غیره ] ارام pas کم شدن؛ [شخص.
+لحن ] ملایم شدن؛ [خشم و غیره] فروکش کردن
+حرف‌های نامناسب moderate one's language
+نزدن, جلوی gb) خود را گرفتن
+بر خود مسلط شدن, moderate one's temper
+ارات خود را حفظ کردن
+0 کمابیش, نسبتاً, moderately /modoratli/ Lu i
+تاحدی. 4 چندان؛ کم. اندکی
+adj متوسط moderate-sized /'modoarat sarzd/
+Sb] adj اتر ] آرام‌کننده, / moderating /'modarertin
+aus Jaws کاهش دهنده
+۸ ۱ اعتدال؛ میانه‌روی؛ moderation /modarer/n/
+خویشتن‌داری, نرمش ۲. تعدیل, کاهش
+به اعتدال, AY ghee به wll کم in moderation
+PCE n میّانجی. ناسوت هو
+واسطه ۲ رئیس جلسه ۳.(در دانشگاه‌های کمبریج و
+آکسفورد) BLS امتحان, ممتحن ۴.(در ک‌لیساهای
+پرسبیتری) رئیس مجمع روحانیون ۵.(فیزیک) مهارگر,
+bes] 1
+ad) ۱.جدید؛ معاصر ۲. نوین» تازه» modern /'modn/
+جدید. نو مدرن» آمروزی ۳ [رقص. سبک, هنر ] مدرن
+¥ [شخص ] slo
+1 ۵.(رسمی) آدم as جدید. آدم این دوره ۶ آدم
+متجدد
+عصر جدید modern times
+modernisation /modonar'zex fn, (US) -nr'z-/
+modernization =
+modernise /'mpdonaiz/ = modernize
+IR RN مدرنیسم modernism /'modanizam/
+۲ اصول جدید؛ روش‌های تازه؛ افکارٍ نو ۳
+oN. 7
+7 انوگز, مدرنسقت/ modernist /'modanist/
+تجددخواه
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1062 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: modernity; modest; modesty; modular; modulate; mohair; Mohammed; Mohammedan; Mohammedanism; moist -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+(1
+Yad) (مربوط 4( نوگرایی» (مربوط به) مدرنیسم؛
+مدرنئیستی. نوگرایانه؛ [شخص ] LS مدرنیست
+modernistic / mndanistik / (mye N adj
+نوگرایانه ۲. مدرن
+(Sob n تجدّد. نو بودن» modernity /madanoti/
+مدرن بودن, جدید بودن؛ نوگرایی, مدرنیته
+modernization / modanarzes fn, (US) -nr'z-/
+n مدرن‌سازی, امروزی 035
+WE ۱.مدرن کردن. modernize /'modanaiz/
+امروزی کردن
+Wi ۲.مدرن od آمروزی شدن
+/ 2 8و ها modern languages /modn
+mpl زبان‌های زنده
+ad) ۱. [درآمد. دستمزد و غیره ] معمولی, modest /'modist/
+متوسط, نه جندان زیاد؛ مختصر, elo کم.
+بخور و نمیر؛ [GL] عادی, معمولی؛ [پیشرفت.
+موفقیّت ] oS اندک؛ [خانه ] ساده, معمولی؛ کوچک.
+محقّر ۲ متواضع» فروتن, افتاده, بی‌ادعا؛ [رفتار ]
+متواضعانه, فروتنانه ۳. محجوب. کمرو. خجالتی,
+شرم‌رو ۴. [زن ] LoL نجیب؛ [AU] پوشیده. ساده
+0 .با oly با فروتنی» 7 ۲۳۵۵۹۱۱۷۱
+با (Sala! متواضعانه» فروتنانه ۲. خیلی wile
+بدون ادّعا ۳. نجیبانه, با نجابت؛ با خَجب و حیاء
+محجوبانه ۴. کم به ask متعادل, نه چندان ol)
+Sul کنو
+۱. تواضع. فروتنی, افتادگی. /۳۵۹:۶۲/ modesty
+شکسته‌نفسی ۲. حیاء نجابت. شرم و حیاء حَجب.
+ازرم» شرم‌رویی ۳ کوچکی. جمع و جوری؛ [قیمت
+و غیره ] معتدل بودن, متناسب بودن
+modicum / ۵7
+: اندکی, مختصری, ( مقدار ) کمی a modicum of
+با اندک تلاشی with a modicum of effort
+۷ تغییر؛ تعدیل؛ اصلاح, modification /modifikerfn/
+| دستکاری؛ [نوشته, پيشنهاد و غیره] جر ح و تعدیل
+۱ ۶ (دستور) توصیف‌کننده. / modifier /'modifaia(r)
+تعدیل‌کننده
+modified) Nw مرصاص) modify /'modifar/
+دادن؛ تعدیل کردن؛ اصلاح کردن, بهبود بخشیدن ۲.
+(دستور) توصیف کردن, تعدیل کردن
+x 4 | روزء باب روزء امروزی,» مد modish /maudif/
+adv | خیلی امروزی, 44 روز modishly /maudifli/
+| 247 ۱. پیمانه‌ای. modular /'modjusia(r), (US) -dsu-/
+مدولی, بخش‌مند. بخش‌بخش؛ [ساختمان, کمد, یز و
+: غیره ] دارای قطعاتِ dae دارای قطعاتِ جداشدنی.
+: قطعه‌ای, قطعاتی ۲. (دانشگاه) واحدی
+اق 0 ii=see 1-=sit =m-cat a-=father D=gol
+=go al = five ay = now 21 =boy 13 ناه er = say
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+83 moist
+i modulate /'modjslert, (US) -dso-/  رییغت [law] ۱ ال
+; دادن؛ کم کردن؛ زیاد کردن؛ بلند کردن؛ پایین
+فعالیت des] آوردن؛ زیر کردن؛ بم کردن ۲.(رسمی)
+و غیره ] تنظیم کردن ۳ [موج رادیوبی ] تنظیم کردن.
+: ۱ میزان کردن
+۴.(موسیقی) تغییر مد دادن تغییر مقام دادن VE
+کردن, مقام ... تغییر کردن أ pedi (
+: modulate from C major to A minor
+از دو ماژور به لا" مینور رفتن
+۳۵۵۵1۵100 / ژد fn, (US) -dso'l-/
+(has) XY فترکانس و غیره ] تغییز, تعدیل Jas] .۱
+ASS is (MTN شدگودی: تدولاسیون
+| تکیه‌گردی (
+“module /'modju:, (US) -dsu:l / [ساختمان, .۱
+۲ مجرّاء قطعهٌ پیش‌ساخنه Anda کمد. میز و غیره]
+وامحد ال Jah فضانوردی) ( Filan واحد: (5 sd)
+دانشگاه) واحد ۵.(معماری) پیمون olny, در (
+a lunar module مُدول ماه‌نشین
+modulus /'modjulas, (US) -dss-/  )کیزیف (ریاضی, n
+مطلق 58 (Sh ضریبء
+modus operandi / maudas شیوه ی
+وجه کار lS (کار) روال
+modus vivendi/mousdas vr'vendi: /
+توافت موقّت. مصالحةٌ موقّت ۲. شیوةٌ زندگی. .۱ ۶
+روال زندگی
+mog /۳۵۵/ = moggie
+mogagie /'mogr/ محاوره) گربه Miss, (در 7
+moggy /'mpgr/ = moggie
+mogul /'mavgl/ آدم قدر تمند؛ (aia eal n
+[بازیگر, کارگردان, کارخانه‌دار و غیره ] سلطان» غول ۲.(در
+هند. با حرفي بزرگ) مغول, سلطان
+MOH /em au لاه | > Medical Officer of Health
+(در بریتانیا) رئیس بهداری
+mohair /'mashea(r)/  رهوم 0 ۱.نخ موهر؛ mn
+پارچه ] موهر is] (صفت‌گونه) ۲
+Mohammed /mohzmid/ = Muhammad
+Mohammedan /mshzmidon/ = Muhammadan
+Mohammedanism /mshzmidonizom /
+= Muhammadanism
+Mohican /mavhiken/  ناکیهوم Cag pu A 72
+[= موهیکان ۳. [مدل n\n se (4 مربوط ( ۲ adj
+تاج خروسی
+moiety / (رسمی) نیم» نیمه نصف / اد 71
+moist /most/ نمناک؛ Obes ترء «sb مر adj
+اشک الود [=]
+vy v-cook u:=t00 A-cup s-bird  5= about
+near €3 = hair ua = pure ela = player  ara= fire
+0= thin §= this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1063 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: moisten; moisturise; moisturize; moke; molar; mold; molder; moldy; mollycoddle; Molotov cocktail; molt; molten; molybdenum; mom; moment; molecular; molest; molestation; molester; moll; mollify; mollusC; mollusk; have one's; the man of the moment; not for a; momentarily -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+moisten 10¢
+JN 4 | شدن, مرطوب شدن؛ moisten /'moisn/
+| [ چشمان کسی ] اشک در ...جمع شدن
+vi | ۲. تر کردن» نم زدن» مرطوب کردن
+۸ رطوبت. نم؛ moisture /'morstfa(r)/
+| (روی شیشه و غیره) بخار
+moisturise /morstfaratz/ = moisturize |
+moisturiser /'moistfaraiza(r) / = moisturizer |
+wv | [پوست ] مرطوب کر دن؛ moisturize /'mostfararz/
+رطوبت ایجاد کردن در
+کرم مرطوب‌کننده / ۳۵۶ / moisturizer
+n (در dake محاوره) الاغ moke /mauk/ pee ۱
+olan Non اسیاء دندان کرسی molar /'masla(r)/
+Y adj (مربوط به) دمدان عای آسیا؛ [glass] آسوا.ء )
+رس بر
+دندان‌های اسیای the front molars Sa 5S
+دندان‌های آسیای the back molars Son
+molasses /malasiz/ oan
+mold /mauld/ (US) = mould
+molder /'maulda(r)/ (US) = moulder
+moldering /mavldorty / (US) = mouldering
+molding /mastdiy/ (US) = moulding
+moldy /'mauldi/ (US) = mouldy
+خال (گوشتی) mole’ /maul/
+Non موش کور. mole? /maul/ las
+۲ (محاوره) جاسوس, So
+موج‌شکن mole3 /maul/
+4 مولکولی / molecular /malekjula(r)
+nn مولکول / واه / molecule
+JS) ۸ سوراخ موش کور) كپة خاک /۱:ط۳۵:۱:/ molehill
+make a mountain out of a molehill
+mountain »>~
+4 ۱. پوستِ موش 255 moleskin /'maulskin/
+۲ پارچهةٌ) Jase نخی
+۷ ۱ آزار رساندن cds مورد molest /mslest/
+ضرب و شتم قرار دادن؛ زدن, شکنجه کردن ۲.
+(حقوق) [زن, کودک ] Sin ناموس کردن, Sad
+عرض کردن, به ناموس ...اجحاف کردن
+۸ (حقوق) Sut 7 اناد / molestation
+مزاحمت. هنک عرضص
+۸ (حقوق) مزاحم, مر molester /ma'lesta(r)/ SSS
+Se عرض |
+7 (عامباند) رفیقه. نشمه moll /mo!/
+[شخص ] آرام کردن mollification /molifikerfn/
+(pr,pp mollified) [ams] vt / تاد / mollify
+آرام کردن؛ [عصبانیت ] فرونشاندن, کاهش دادن
+sla) ۲ نرم‌تن mollusc /'molask/
+mollusk /'molask/ (US) = moliusc
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+mollycoddle /molikodl/  .ندرک ابه طعنه) لوس ۷
+A به الالای .+گنزاشتتن:: Gl) از :.. را کشیدنٌ؛
+کردن
+Molotov cocktail / inplatof اما /
+کوکتل مولوتف ۸
+molt /mault/ (US) = moult
+molten’ [فلز, شیشه و غیره ] مُذاب ره ad)
+molten? /'mavlton/ pp of melt
+molto /'moltou, (US) 'maultas / (موسیقی) مولتی 0
+خیلی» بسیار
+molybdenum (شیمی) مولیبون / اه 1
+mom /mom/ (US) = mum? .
+moment /'maumont/ دقیقه ol لحظله. .۱
+وقت. موقع. فرصت, زمان ۳.(فیزیک) گشتاور ۲
+at a moment's notice — notice
+ina moment Nl همین asl) خیلی زود. فوراً,
+ان
+not a moment {00 soon خیلی دیر
+(at) any moment (now) ol هر لحظه. هر
+at the (present) moment; at this moment in
+time الآن ole در حال Ses
+for the moment Wise (oY! حاضر, Je در Shs
+have one's / its moments C3), محاوره) گاهی (
+old هم خوش گذشتن, بعضی وقت‌ها هم جالب بودن,
+خودش را داشتن ol
+in the heat of the moment در اوج عصبانیت؛
+شادی cs در ارج هیجان؛ در اوج ناراحتی؛ در
+of the moment کنونی, فعلی
+at the last moment در آخزین لحظه
+the man of the moment / محبوب‌ترین
+در حال حاضر, pol مشهورترین / بهترین / مهم‌ترین
+مرد روز
+the moment (that)  .هک‌نیمه (4S تا..همان موقعی
+Sen محض 4
+the moment of truth لحظةٌ انتخاب,
+ِ , تصمیم‌گیری dood
+| not for a/one moment هیچ Jab محاوره) اصلاء (
+| a matter of moment مسئله‌ای مهم (am)
+on the spur of the moment — spur
+| the psychological moment —» psychological
+a weak moment —> weak
+Wait a moment! Just a moment! One
+moment! Half a moment! (محاوره) یک دقیقه
+hs صبر کن! یک لحظه صبر کن! (یک دقیقه) دست نگه
+۱ momentarily /'masmantralr, (5ن1) 1
+Jed .بسرای یک لحظه. موقناً ۲ در آمریکا)
+:  نآ بلافاصله, السّاعد., بزودی ۳ هر لحظه, هر
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1064 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: momentary; momentous; momentum; momma; mommy; Mon; Monacan; monarch; monarchic; monarchical; monarchism; monarchist; monarchy; monastery; monastic; monasticism; monaural; Monday; monetarism; monetarist; monetary; money for jam -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+momentary /'mosmoantri, (US) -tert/ ۱.بسیار 4
+کوتاه, موقتی, گذرا. زودگذر؛ لحظه‌ای ۲.(رسمی)
+لحظه به لحظه. مداوم
+momentous /mamentas, mav'm-/ مهم Slew adj
+حیاتی. (ol پراهمیّت. بعیکی. اساسی.
+تعیین‌کننده. سرنوشت‌سازء خطیر
+momentum /mamentam, mos'm-/ سرعت. .۱ 7
+شتاب؛ حرکت. جریان» سیر
+.Y <to be moved along by the momentum of events >
+(فزیک) اندازه حرکت. مقدار حرکت
+gain / gather momentum wos 5 سرعت
+Bl چیزی افزایش oS شتاب گرفتن,
+lose momentum کم دی شتاب Soe Ck
+چیزی کاهش یافتن, حرکتٍ چیزی کند شدن
+momma /'momo/ = mummy?
+mommy /'momi/ (US) = mummy ?
+Mon /'mander, -di/ < Monday
+Monacan /mpna:kan/ = monegasque
+Monaco /monakou/ موناکو nn
+monarch /'mnnak/ حاکم. فرمانروا؛ شاه.
+پادشاه, سلطان؛ امپراتور؛ ملکه
+monarchic /mana:kik/ = monarchical
+monarchical /mona:kikl/ ۰ پادشاهی, سلطنتی adj
+monarchism /monakizam/ سلطنت طلبی ۸
+monarchist /monokist/ سلطنت‌طلب 7
+monarchy /'monaki/ ۱.سلطنت. پادشاهی؛
+پنادشاهی» رزیم cus So حکسومتِ سلطنتی,
+© سلطنتی lle oF سلقتتی: ۲. کشور پاذشناهی
+monastery /monastr, (US) -tert/ ol monasteries)
+dra دیر. صو n
+monastic /monastik/ ۱.(مربوط به) راهبان» ad)
+رُهبانی ۲.(مربوط به) (pln) (مربوط به)
+(مربوط به) صومعه‌ها ۳ [زندگی ] راهبانه. las
+ساده, ذرویشی, بی‌پیرایه
+monasticism را ره cola, nm
+monaural/monsiral/ [رادیو و غیره ] مونوفونیک, .۱ ad)
+> monaural deafness > مونو ۲. از یک گوش
+Monday /'mandes, 1 All gd 7
+Monday morning صبح دوشنبه, دوشنبه صبح
+Monday week یک هفته از دوشنبه
+monegasque / mono'gask/ 235 Use \ 4
+مربوط 4( موناکو (
+موناکو Jo! موناکویی: .۲ 1
+(اقتصاد) سیاستی رما ورد 7
+پول‌مداری» پول»حوری Jp cla)
+i=see 1=sit m=cal w=faer Db=gol  di=s
+ci= say A= go ar = five ai = now ol =boy 13
+avd = hour j= yes w= wel tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+35 money
+monetarist /manitarist/ ۱.(اقتصاد) طرفدار a
+| پول‌مداری. طرفدار پول‌محوری
+shld ss (مربوط به) پول‌مداری, (last) XY ad)
+| پول‌محور
+1۵۵1۵۲۷/۳ ۸۵۲۷۳۰ (US) 1 (اقتصاد) پولی nn
+monetary unit واحد پول
+maeney /'mant/ ( p/ moneys, monies) NER
+حقوق. در جمع ) ارقام ۳ Jes ثروت. دارایی. مال Af
+pL ford وجوهات ۴ (صفت‌گونه) [مشکلات و Js
+پولی ۵ (محاوره) مزد. دستمزد. پول
+be in the money محاوره) پولدار بودن. (
+در پول غرق بودن. در پول غلت زدن
+pots of money ج pot’
+coin money — coin
+casy money — easy
+even money — even’
+A fool and his money are soon parted. (prov)
+— fool!
+for my money به عقیدة من ya (محاوره) به نظر
+get one's money's-worth نکردن: ye
+از دست ندادن (Gem (HAS pei
+good money زیاد. پول خوب ۲. پول de ۱
+زحمت‌کشیده+ پول حلال
+cost good money  ؛نتشاد زیادی cud گران بودن,
+خیلی خرج برداشتن
+He has (got) money to burn. انقدر پول دارد
+که نمی‌داند با آن می‌خواهد چکار کند. پولش از پارو بالا
+می‌رود.
+a licence to print money محاوره) برنامة پول‌خور. (
+Js o>
+be made of money محاوره) در پول غلت زدن. (
+رفتن YL کسی از پارو Js ۱
+make money [شخص [ سود بردن, صرفه بردن؛
+خوب پول دراوردن؛ [کار و غیره ] سوداور بودن,
+پرصرفه بودن
+make money hand over fist دراوردن, Js خوب
+حسابی پول دراوردن
+marry money 205 برای پول ازدواج ۱
+Money burns a hole in his pocket.
+پول توی جیبش بند نمی‌شود. تا پولش را خرج نکند
+شب خوابش نمی‌برد.
+money for jam / old rope محاوره) key 5 در (
+Cash بی‌دردسر, پول راحت. پول Js:
+money talks J همه جیز است. پول Js
+است RS LEN
+w  U=cook ui=100  A=cup a= bird a= about
+= Near ¢a = hair Ua = pure co = player ato = fire
+0= thin 0 = this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1065 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: a good; money-back guarantee; moneyless; money-maker; money-spinner -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+money-back guarantee 10
+| به هیچ طریقی, not for love or money
+| به هیچ وجهی, به هیچ قیمتی
+| در چیزی سرمایه گذاری کردن, put money into sth
+پول خود را در کار چیزی گذاشتن, Js خود را تو کار
+چیزی انداختن
+۱ [اسب, سک و sth بای put one's money on
+غیره ] روی...شرط بستن ۲. [شخص و غیره ] مطمئن ۱
+بودن که ... موق می‌شود. روی...شرط بستن
+put one's money where one's mouth is
+( محاوره) به جای حرف زدن سر کیسه را oS Jb
+a good / excellent run for one's money
+run? >—
+give sb a good run for their money —» run? )
+از توانایی مالی see the colour of sb's money
+کسی اطمینان حاصل کردن, مطمئن شدن که کسی پول دارد
+Don't let him have the car until you have seen
+تا از وضع پولش the colour of his money.
+مطمئن نشدی ماشین را به او نده. تا مطمئن نشدی پول
+دارد ماشین را به او نده.
+پول دز... است. ::. پول There is money in....
+تویش است
+( محاوره) Js خودرا throw one's money about
+حرام و حرس کردن, Ja خود dp Sail) خود را
+دور ریختن, ds خود را حیف و میل کردن
+You pays your money and you takes your
+choice. — pay?
+پول باعشِ Money is the root of all evil. (prov)
+dan بدبختی‌هاست.
+Js A زیادی به ارث بردن come into money
+Y به پول زیادی codes پول‌وپله پیدا کردن
+Js پول Money makes money. (prov) Solem
+پول Jide خرس Money doesn't grow on trees.
+نیست. پول آسان به دست نمی‌آید.
+AS کار بردی:
+money LIS در بین SIS مترادف, بیشترین مورد
+استفاده را دارد:
+Where can I change money?
+How much money do you have?
+taxpayers’ money
+کلم cash معمولاً به معنای پول به شکل سکه و
+اسکناس است تا به Spe چک يا کارت اعتباری:
+May I pay by Visa? _ I'm sorry, we only take
+cash.
+با این حال, cash LIS را می‌توان به هر شکلی از پول
+نیز که برای خرج کردن در Lt کسی هست. اطلاق کرد:
+We're going to Australia next year if we have
+the cash.
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+است VS معنای مقدار پول اضافه بر بهای 4 change 21S
+که فروشنده به خریدار پس می‌دهد:
+If it cost 25 pence and you gave her a pound,
+you should get 75 pence change.
+به معنای سکه یا اسکناس کم‌ارزش نیز change كلمهٌ
+هست:
+Can you give me change for a ten pound note?
+I keep all my small change for the coffee
+machine.
+معنای پولی است که برای هدفی خاص در «funds LIS
+نظر گرفته شده است:
+I need more funds if I'm to study abroad.
+We're short of funds at the moment.
+money-back guarantee /manr bak geronti: /
+پس iad [کالای فروخته‌شده ] ضمانت پس گرفتن.
+دادن پول
+moneybags | ۳۸۵82 / ( p/ moneybags)
+محاوره, به طعنه) آدم خرپول ( n
+money-boX /'manr boks/ قلک n
+money-changer/ man tfemndss(r) / صراف ۸
+moneyed /‘manid/ (کهنه) پولدارء ثروتمند.
+مرقّه. متمول, غنی. توانگر
+money-grubber /manr graba(r) / ادم مال‌اندوز. 2
+عاشقي پول» پول پرست
+money-grubbing/manr grabiy /  .زودنا‌لام.۱
+Js gle
+مال‌اندوزی, عشق پول .۲ ۸
+moneylender/mantlenda(r)/ (آدم) نزول‌خوار. n
+رباخوار
+moneylending /'mantlendry/ نزول‌خوار. .۱
+رباخوار
+نزول‌خواری, رباخواری .۲
+moneyless /'mantlis/ فقیر J gad
+money-maker /mant metka(r)/ ls آدمی که A
+دنبال پول است. پول‌دوست ۲. ( محاوره) کار پول‌ساز.
+پرصرفه NE کار پردرامد, کار پرصرفه؛
+money-making /'mant وهی R Sled ۳ ۱ adj
+پرصرفه
+پول‌سازی» پول دراوردن» مال‌اندوزی .۲
+money-market /mant makit/ (اقتصاد) بازار پول ۸
+money ۵۳0۵۲/۸۳۱ ۹:۵۹0(/ (Ju (در آمریکا ۶
+ad Sar پولی؛ حوالةٌ بُستی. Uy
+money-spinner/mant spina(r) / (در بريتانيا 7
+sly dee Sleds 5 le
+This hotel is a real money-spinner in the
+summer. این هتل کارش در تابستان حسابی
+است. Es
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1066 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: monger; Mongol; mongol i'moDgal; Mongolia; Mongolian; mongolism; mongoose; mongrel; monies; monitOr; monitreSS; monkey; monkey-nut; monkey-puzzle tree; monkey tricks; monocotyledon; monogamous; monogamy; monoglot; monogram; monogrammed; monograph; monolingual; monolog; monologue; monomania -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1C
+money supply /'manr saplar/ ioe (اقتصاد) n
+در گردش dm ds
+monger /'manga(r)/ (در ترکیب) ۱. ذلال؛ تاجرء a
+(Jal (ba) Y <an ronmonger> 58 dm
+8 <a scandal-monger > -درست‌کن
+Mongol /moggal/ (4 مغولی, مغول, (مربوط N adj
+مغول‌هاء ( مربوط 4( مغولستان
+Sore (GL) x مغولستان Jal مغول, ¥ ۸
+mongol /'moygal/ مغول‌واره «J 550 9a (یزشکی) 8
+Mongolia /mon'gavlia/ مغولستان nn
+Mongolian /mpy'gaslion/ مغولی. .۱
+به) مغولستان bg a) مربوط به) مغول‌هاء (
+مغولستان ۳ زبان) مغولی Jal (Joa .۲ 7
+mongolian ۲/۳۵ (پزشکی) منگول, / اع 4
+مغول‌واره
+mongolism /'moygalizam/ pr] 555 30 (پزشکی) nm
+شندرم داون, مغول‌وارگی
+mongoose /'mongus/ ( p/ mongooses)
+(جانوزشناتی) خدنگت) تشن (< نوعی مشق خزما) ۶
+mongrel /'mangral/ دونژاده. oS Nn
+دورگه ۲.گیاه پیوندی Ki
+دورگه (Jeol دونزاده. ۳ adj
+monies /'maniz/ p/ of money
+monitor /'monita(r) / ۱.(پزشکی, فنی) دستگاه
+.۳ کُتتزل. دستگاه مراقبت ۲.(شخص) موئیتور
+(تلویزیون, کامپیوتر) نمایش‌گر, (صفحهٌ) مونیتور؛
+.۴ (رادیو) دستگاو بازشنودء مونیتور» دستگاء ردگیر
+آموزشی) مبصر ۵. بزغاله‌مارء بزمجه (
+RY زیر نظر گرفتن «03S JS ] کار واغیره 68s] .۶ vt
+[برنامه‌های رادیویی ] مونیتور کردن
+MONItress /monitris/ ۰ (دختر) jah (آموزشی) 2
+monk /mank/ Lis SHU راهب. n
+monkey /'manki/ میمون ۲. (محاوره. بچّه) وُروجک, .۱ 72
+شیطان ۳ (عامیانه, دلار, بوند) پونصد چوق» پونصدی |
+monkey about/ around (محاوره) ۱. شیطنت. Wi
+.۲ شیطانی 0,5 خربازی درآوردن 03S |
+03,8 دخالت OAS مزاحم |
+monkey about / around with sth (محاوره) |
+چیزی را انگولک کردن B03 با چیزی
+monkey business /'manki biznas/ (محاوره) 1 |
+حقه. دوز و کلک. شیطنت. دغلبازی (SUS
+1130۳۵۷۰۳۹۵ / ما9۶ nat/ بادام‌زمینی n
+monkey-puzzle /manks pazt/ (درخت) اروکاریا ۸
+monkey-puzzle tree /'maykr paz! i: / |
+= monkey-puzzle
+ii=see 1=sit m=cal a=faher D=got o:= sa
+eI = say WU =g0 ar = five ay = NOW 31 =boy 3
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+37 monomania
+: monkey tricks /mank: triks/ = monkey
+business
+monkey-wrench /manki rentf/ asl 3 آچار 2
+: monkish /'manki)/ olaly (4 ۱.(مربوط 4
+lol .۲ راهبان pols (مربوط به) رُهبانان؛
+۰ زاهدانه؛ زاهدمنشانه, پارسامنشانه؛ زاهدمآبانه
+ْ Mono /'monau/ (محاوره) مونو تک‌شنود 4
+ٍ in mono صورتٍ) مونو 4) a
+: 101100۳013۱۵ /'monskrsum/ [تصویر, تلویزیون و ۱ adj
+| غیره] سیاه و سفید ۲. تک‌رنگ. تک‌فام
+. تک‌رنگ؛ نقاشي تک‌رنگ؛ عکس Aran
+BS, نک‌رنگ ۴. استفاده از یک رنگل,
+0۳۵۵1۵ /monakl/ یک چشمی Sipe 1 (
+“monocotyledon / monakotili:dan/
+(گیاه) تک‌لیه‌ای n
+monogamous /ma'nogamos/ (a ۱.(مربوط ad)
+تک‌همسری, تک‌همسر ۲. (جانورشناسی) تک جفت
+monogamy /manpgami/ Emad SSN 1
+(جانورشناسی) تک‌جفتی ۲
+monoglot /'monaglot/ [شخص ] یک زبانه, VN ad)
+تک‌زبانه
+فرد یک زبانه. فرد تک‌زبانه .۲
+monogram /'monagrazm/ شخصی, adhe nn
+اسم dsl حروفي po pas مارکي
+monogrammed /monagramd/ ۰ و غیره] pls] adj
+اول اسم کسی رویش نوشته شده» hy om که
+خصوصی SH شخصی, با cade دارای
+monograph /'mpnagra:f, (US) -graf/ تک‌نگاری. n
+مونوگرافی, رساله, تک‌نگاشت
+monolingual / monsTggwal / یک زبانه, تک زبانه ad)
+monolith /'monali6/ (معماوی) تک‌سنگ: 7
+سنگی یکپارچه ۲.(به طعنه) غول سیاسی؛ غول
+: َ اقتصادی
+monolithic /۸۵1:۵:/  یگنس ۱.(معماری) از ad)
+[opt 5 اتشکیلات plas] ¥ Kin ST ia LS,
+یکپارچه, یکدست؛ (به طعنه) غول‌پیکر. با ابعاد
+غول‌آسا؛ سرسخت
+monolog /'mpnalpg, (US) -la:g/ (US)
+= monologue
+monologue /'monalog, (US) -laig/ Sei ۱.(هنگام nn
+سخنرانی » پرحرفی (9 Sw
+۲ <it wasn't so much a discussion as a monologue. >
+و غیره) مونولوگ, تک‌گویی RI (
+۲۵۱۱۵۱1۱۵1۱12 /monas'meinta/  )یسانش‌ناور ۱.(کهنه. 7
+وسواس (تک‌جهته) ۲. یگانه جنون, یگانه عشق
+۷ v=cook ui=too A=cup s=bird a= about
+- -<وع ۳ U3 = pure ela = player aa = fire
+0= thin d= this [= shoe 3= vision 1) = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1067 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: monophonic; monophthong; monoplane; monopolisation; monopolise; monopolist; monopolistic; monopolization; monopolize; be the monopoly of sb; monorail; monosyllabic; monosyllable; monotheism; monotheistic; monotone i'monataun; monotonoUS; monotonously; monotony; monoxide; Monsieur; mOnSOOn; monster; monstrosity; monstrous; monstrously; montage; month; for; oY-; monthly; monument -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+monomaniac 10¢
+ws) 1 ۰ روان‌شناسی) / monomaniac / monav'meiniak
+| مبتلا به وسواس (تک‌جهته)
+[las] ad) | مونوفونیک. monophonic /monsfonik/
+مونو, تک‌شنود
+monophthong /'monafony/ Sly (syn
+| ساده, Opa ساده
+| هواپیمای monoplane /'monaplem/ ALS
+monopolisation/manopalarzei fn, (US) -Iv'z-/ |
+monopolization | =
+monopolise /monopaiaiz/ = monopolize
+monopolist /manopalist/ Solasit .۱ a |
+| انحصارطلب ۲. دارندةٌ go انحصاری, Golo ۱
+gan
+adj انحصاری؛ / monopolistic /manopatistik
+انحصار طلبانه, انحصارگرانه
+monopolization /monopslarzei fn, (US) -Ii'z-/
+از انسحصاری کردن, به انحصار خود درآوردن؛
+Slam! :
+۸ ۱.انحصاری کردن. monopolize /manopalatz/
+به خود amie کردن., به انحصار خود درآوردن؛
+به خود اختصاص ob قبضه کردن ۲. (مجازی)
+ples ذهن ...را 4 خود مشغول کردن. تمام فکر ...
+را به خود مشغول کردن؛ plo وقت ...را گرفتن
+۸ ۱.(اقصاد) امتیاز انحصاری, monopoly /manopali/
+انحصار ۲. حق انحصاری؛ حق استفادة انحصاري؛
+lb (She ۳کالای انحصاری, خدماتِ انحصاری
+be the monopoly of sb/ sth
+در انحصار کسی Sn] بودن
+n مونوریل, راه‌اهن ۲۵۳۵۲۵۱۱
+Jos dS
+monosodium glutamate / monassovdiam
+1 (در ple غذایی) مونوسدیم گلوتامات / ‘gluztamert
+[dS] .۱ ad) / رفح / monosyllabic
+pba تک‌هجایی ۲. [جواب ] کوتاه
+با کلمات  monosyllabically /monasrlebikli/
+تک‌هجایی, با کلماتِ کو تاه
+LIS an تک‌هجایی monosyllable /'monasilobl/
+با کلماتِ کوتاه in monosyllables
+توحید. ره monotheism
+یکتاپرستی, cola
+monotheist /monasbinst/  تسرپاتکی (U5 go
+monotheistic /monasoizisuk/ (Sx 55 Nad)
+( مربوط به) یکتاپرستی؛ یکتاپرستانه ۲. BE ga
+یکتاپرست
+۱. صدای یکنواخت؛ monotone /monatasn/
+لحن یکنواخت ۲. یکنواختی
+dao] ۳ 4 رنگ و غیره ] یکنواخت
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+ad) یکنواخت؛ monotonous /manptanas/
+amin کننناًه, TIS )2 کسالت‌باق, کسل‌کننده
+به طورِ monotonously /manntanast/
+یکتواختی؛ بسه نحو ملال‌آوری. به طور
+کسل‌کننده‌ای, به طرز خسته‌کننده‌ای
+یکنواختی: ۱ monotony /manotant/
+Al ملال‌آور, وضع کسالت‌بار
+۸ (شیمی) monoxide /monoksatd/ dS gi ge
+(وتتی, Monsieur /masjs:(r)/ ( p/ Messieurs)
+در خطاب) آقاء ola مو Baad
+۸ (مذهب) Monsignor /monsimja(r)/ ols Je
+۸ ۱. بادهای موسمی, monsoon /mon'su:n/
+مونسون ۲. موسم Job OLY مونسون
+a . هیولا؛ غول. غول monster /'monsta(r)/
+بی‌شاخ و po غول بیابانی ۲. جانورِ عجیب‌الخلقه؛
+oS عجیب‌الخلقه ۳ چیز Spd st جسم
+غول‌پیکر, حجم (fein) 1 Sad ob غتول پیگر,
+غول‌اسا
+فیلم‌های ترسناک. فیلم‌های هولناک monster movies
+1 چیز وحشتناک. monstrosity /mon'strosati/
+چیز زشت و بدقواره» چیزٍ گنده؛ dss بی‌شاخ و
+دم هیولای بی‌شاخ و دم
+ad) ۱. تکان‌دهنده, هولناک؛ monstrous /'monstras/
+شرم اورء بی‌شرمانه, شنیع, نفرت‌انگیز ۲. مهیب.
+وحشتناک., ترسناک., مخوف, فجیع ۳ غول‌اساء
+غول‌پیکر
+adv 4 طور هولناکی, monstrously /'monstrash/
+به طورٍ تکان‌دهنده‌ای, Sb A بی‌شرمانه‌ای, به
+طرزی شرم‌آور
+montage /'mnnta:3, (US) mon'ta:s/
+Se] .۱ 7 فیلم. آهنگ ] مسونتاژ؛ (ادییات) تلفیق.
+هم‌آمیزی x = مونتاژشده؛ (سینما) Loew
+مونتاژشده؛ (موسیفی) قطعدٌ مونناژشده؛ (ادبیات) Jada
+تلفیق‌شده, هم‌آمیزی ۳ (سینما) تدوین, مونتاژ
+2 .ماه (شمسی « برج ۲ ماه ی
+<several months later > ۳.(در ترکیب) - ماهه
+<a six-month contract >
+( برای ) مدتها, for / in a month of Sundays |
+( برای ) مدتهای مدید؛ هیچ‌وقت؛ خیلی وقت است / بود |
+aS مدنها است / بود که |
+flavour of the month — flavour |
+4 ۱.ماهانه. ماهیانه monthly /'man0li/
+0 . ماهی یک بار؛ be ga ماهانه؛ ماه به ماه |
+on ماهنامه ۴. بلیت ماهیانه
+s\n یادبود؛ monument /'monjumant/
+مجسمةٌ یادبود ۲. بنای تاریخی, اثر تاریخی ۳
+یادگار, اثر؛ مظهر, نمونةٌ بارز :
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1068 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: monumentally; monumental mason; mooch; mooch sth off; mooch about; be in a mood; moodiness; moody; ask; moon about; moonbeam; moon-face; moon landing; moonrise; moonshine -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+Nad) [نوشته. مجسمه و monumental / monjs'mentl/
+غیره ] (مربوط به) یادبود؛ تاریخی ۲. [ستون. بنا.
+سردر ] پرعظمت. عظیم ۳ [اثرٍ ادیی, اثرٍ موسیقی ] NEST
+عظیم؛ جاودانی, به‌یادماندنی. ماندگار ۴.(محاوره)
+
+[ موفقیت. شکسث و غیره ] aS, عظیم
+0 به شدت. / monumentally / monjs'mentali
+خیلی‌خیلی» Olen بی‌اندازه, بی‌نهایت. به غایت.
+به طورٍ وحشتناکی, فوق‌العاده. بیش از حد
+monumental mason / monjument! ‘mersn/
+۸ سنگی‌قبرساز
+7 ۱. صدای گای gl مومو moo /mu:/
+LY vi [گاو ] ماغ کشیدن, مو کشیدن
+۷ به زور گرفتن؛ [sn] تلکه کردن mooch /mu:tf/
+چیزی را از دست... mooch sth off / from
+درآوردن؛ diz) مشروب ] برای... مهمان ... شدن
+Wi (در Sl, محاوره) ول mooch 380۷۱ around
+گشتن. پرسه زدن؛ پلکیدن (دور)
+7 (در زبان (ay گاو kas/ :1۳ ۲۳۳۵۵-۵۵۷
+dbo > J n دل ودماغ mood’ /mu:d/
+مود؛ (روان‌شناسی) J i بدخلقی,
+Sho > بی‌دل و دماغی ۲ روحیه. حس؛
+Lab جو
+be in the mood for (doing) sth/to do sth
+حال چیزی / انجام کاری را داشتن. Hoyo چیزی /
+انجام کاری را داشتن, تو مود انجام کاری / چیزی بودن
+be in no mood for (doing) sth/ to do sthilo 4»
+کاری / چیزی را نداشتن, حال / دل و دماغ کاری /
+چیزی را نداشتن, تو مود انجام کاری / چیزی نبودن
+be in a mood / in one of one's moods
+goss Jo ~ دل و دماغ نداشتن» بی‌حوصله بودن
+1 (دستور) mood? /mu:d/ : ax
+0 با بی‌حوصلگی. گرفته. 1 ۲۱۵۵۵۱۱۷
+با کج‌خلقی. با بدعنقی؛ با بداخلاقی, با عصبانیت
+7 ۱.دّمدمی بودن, moodiness /‘mu:dums/
+(=a pode داشستن i>, متغیّر ۲.
+بی‌حوصلگی, بی‌دل و دماغی, گرفتگی؛ عصبانیت,
+بداخلاقی, کج خلقی» ترشرویی, rT
+22 موسیتی mood MUSIC /mud mjuzik/ «Sow
+موسيقي ملایم
+moody /nu:di/ (comp moodier, super moodiest)
+4 ۱.دمدمی. glad مودی Jog dos oY
+و دماغ, tas SSS عصبانی, بداخلاق, GE
+۱.مای قَمر؛ مهتاب ۱۹۹
+۲. (ستاره‌شناسی) قّمر
+ماه نو Shs ماه a new moon
+i=see 1=sit m=cal @=father D=got o:=s:
+go ar = five au = now or =boy 13 = تاه el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 moony
+a full moon ماد تمام Ha ماه پرء مهتاب.
+ask / cry for the moon آرزوی محال داشتن
+bay at the moon  ندنارورپ آرزوهای واهی در سر
+be over the moon محاوره) از شادی روی پای خود (
+
+بند نبودن, از شادی در پوستِ خود نگنجیدن
+خیلی وقت (ie مدتها پیش many ۲۱3۵۵۲۶ ago
+( سال‌ها پیش
+once in a blue moon — once
+promise the moon — promise 2
+1 (محاوره) CELE Js ول جرخیدن. moon? /mu:n/
+پرسه زدن؛ وقت تلف کردن
+(محاوره) ول moon about / around as
+Jy ( چرخیدن. پرسه زدن؛ وقت تلف کردن
+wr _(محاوره) [شخص ] همه‌اش moon over sb
+به ... فکر کردن. ples هوش و حواس کسی
+پیش ... بودن» در رژیای ...به سر بردن
+nH نور ماه پر تو ماه مهتاب moonbeam /'munbizm/
+صورت گرد" moon-face /mun fers/
+فرود در ماه moon landing /'mu:n landiy/
+wel] adj شب ] بی‌ماه. moonless /mu:nls/
+بدونٍ مهتاب, تاریک
+moonlighted ) مرا moonlight /'mu:nlart/
+2 نور ماه مهتاب ۲.(صفت‌گونه) در نورٍ مهتاب
+vi ۳ (محاوره) کار دوم داشتن؛ شب‌ها هم کار کردن
+ad) ¥ در 50 مهتاب؛ [شب ] مهتابی
+es 5) محاوره) do a moonlight flit
+ia شب به Sle 035 / دررفتن
+n (محاوره) کار دوم؛ / moonlighting /'mu:nlaitiy
+کار شب
+adj 2350 مهتاب., moonlit /'mu:nlit/
+در شب مهتابی؛ [شب ] مهتابی
+n درامدن ماه طلوع ماه ۲۵۵۱۹۵6/1
+ماه‌خیزان
+esha مزخرف. moonshine /munfam/
+UB مفت؛ حرف‌های مزخرف., حرف‌های Waka
+یاوه‌ها, اراجیف. مهملات. مزخرفات؛ فکرهای
+احمقانه؛ یاوه گویی ۲.(در آمریکا) مشروب Sle pd
+مشروب غیرقانونی
+۸ پرتاب سفینه به سوی ماه moon-shot/ mun fot/
+Ses, i RY n ماه moonstone /munstosn/
+۱. دیوانه. خل, ماه‌زده moonstruck /munstrak/
+۲ روژیایی» خیال‌پرداز Sr منگ
+Nad) [شخص ] خیال‌پرور. خیالباف. moony /munt/
+رویایی, که هميشه در dle ,5 است؛ [نگاه] SL
+خیره, گیج و مات ۲. [جنم ] گرد و برآمده
+
+۷ تا > 00 u:=100 A=cup 3: = bird 2= about
+
+= near ed = hair U2 = pure er = player ara = fire
+0= thin 0 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1069 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: moorhen; mooring; mooring-mast; moorland; moose; moot; a moot point; mop; mope; moped; moquette; moraine; moral; morale; moralise; moralist; morality; morality play; moralize -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+moor 10
+۱.(نیز در جمع) خلنگ‌زار» moor! /mua(r), mor)!
+بو ته‌زار؛ (Cad دشت و دمن at شکارگاه
+22ST Nw قایق ] بسگ. moor? /mua(r), mo:(r)/
+مهار کردن؛ به اسکله بستن؛ لنگر ...را انداختن
+۲ لنگر انداختن؛ کشتی را (به اسکله) بستن, قایق
+را ( به اسکله) بستن
+gaa ۸ عرب مّغربی Moor /mua(r)/
+n (پرنده) Sz نوک سرخ moorhen /'mushen, moh-/
+7 )$3,543( ۱.(در /'muariy, mo-/ (pam 1۱۵۵۲۱۳۵
+طناب‌های مهار طناب‌ها و a oi) طناب‌ها و
+لنگرهاء طناب‌ها ۲.(نیز در جمع) لنگرگاه ۳ (صفت‌گونه)
+مهار > mooring ropes >
+mooring-mast/‘muarry ma:st, ‘mary, (US) mast/
+son مهار LL مهار وان مهار
+ad) مَغربی» (مربوط 4( مَغربی‌هاء Moorish /'muarif/
+( مربوط به) مَغرب
+»2 )50 بریتانیا) moorland /'mualand, ‘ma:land/
+خلنگ‌زان Sha,
+moose /mu:s/ ( p/ moose) (US) = elk
+7 (رسمی) [مسئله ] مطرح کردن, moot /mu:t/
+عنوان کردن. طرح کردن؛ پيشنهاد کردن
+SS ad) قابل‌بحث. / a moot point
+FL قابل تردید
+mop /mop/ ( prp mopping, pi,pp mopped)
+12 ۱.(وسیله) زمین‌شورء 5 ۲.(وسیله) ظرف‌شور ۳ ]5[
+(Awd خرمن
+wt ¥ [زمین ] EWA, با زمین‌شور Sea 5 193
+[ظرف ] با ظرف‌شور شستن ۵. [صورت. اشک. آب و
+غیره ] پاک کردن
+( محاوره, در بحث و غیره) mop the floor with sb
+کسی را گوپیدن: کستی oats کردن
+۷ ۱. [آب. زمین و غیره ] پاک 05,5 Mop ۶4۳ /sbup
+۲ [کار ] تکمیل کردن. ples کردن, به انجام
+رساندن. قال ...راکندن ۳ (نظامی) [منطقه ]
+پا کسازی کردن» از (od) وجود دشمن پاک
+کرذن؛ [شخص و غیره ] از بین بردن» نابود کردن.
+جارو کردن؛ [متقاو نت۲ در هم شکستن ۴
+[شخص ] برخورد کردن با مقابله کردن با
+جلوی ... درآمدن
+عملیاتِ پا کسازی mopping-up operations
+ADEN vi خوردن. ماتم گرفتن. mope /mauvp/
+زانوی غم به بغل گرفتن, اه و 4b کردن
+7 ۲. ادم غصّه‌خور, pol دلمرده, ادم افسرده ۳.(در
+جمع) غم aa ey دلمردگی, افسردگی. ماتم ۴
+غصّه‌خوری
+غصّه خوردن have a bit of a mope
+بی‌حوصله این طرف و mope about/ around
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+آن طرف رفتن» بی‌حوصله چرخیدن, پلکیدن (در)
+I مو‌تور گازی moped /'mavped/
+7 ۱. موکت /moket, (US) mau-/ ۲۵۵۷۵11۵
+۲ (روکش مبل و نیمکت و غیره) پارچةٌ پرزدار XY
+(صفت‌گونه) موکت پوش؛ پوشیده از پارچهةٌ پرزدار
+12 (زمین‌شناسی) moraine /mo'rein, 7 ie
+adj ۱. [اصول, مسئله و غیره] / moral /'moral, (US) ‘moral
+اخلاقی, (مربوط به) اخلاق ۲. [وظیفه و غیره]
+اخلاقی. وجدانسی ۳ [شخص ] خوب, درست.
+درست‌کار, شرافتمند. پاک؛ پرهیزگار, متقی؛ پاکدان,
+عفیف ۴. [شخص, موجود ] که خوب و بد را از هم تمیز
+می‌دهد. دارای 378 تشخیص )>< از بد)» Ja!
+تمیز ۵. [داستان, شعر و غیره ] اخلاقی, آموزنده
+۸ ۶. درس اخلاقی. نتيجهٌ اخلاقی ۷در جمع) اصول
+اخلاقی, اخلاق
+فلسفةٌ اخلاق, (علم) اخلاق moral philosophy
+ادمی که پای‌بند 4 a person of loose morals
+اصولِ اخلاقی نیست, pol بی‌بند و بار
+moral certainty /mpral 's3:tntr, (US) mo:ral/
+n احتمال قوی
+morale /mo'ra:l, (US) -ral/ po n
+به کسی جرئت دادن, boost sb's morale Logy
+کسی را تقویت کردن
+به کسی روحیه دادن, be good for sb's morale
+به کسی od دادن
+moralise /'moralaiz, (US) 'moir-/ = moralize
+2 (به مسخره) moralist /'moralist, (US) ma:r-/
+معلم Gs
+Nad) [شخص. moralistic / moratistik, (US) moir-/
+جامعه ] GM] زده؛ (به لحاظ اخلاقی) محدود.ء بسته.
+متعصّب ۲. (به لحاظ اخلاقی) [رفتار, نگرش ] clans
+محدود
+Nn اصولِ اخلاقی, اخلاقیّات, morality /maralan/
+اخلاق ۲. اخلاقی بودن» درست بودن؛ میزانِ اخلاقی
+بودن ۳. نظام اخلاقی, اخلاق ۴. [شخص ] پای‌بندي
+اخلاقی؛ درستی, پا کی؛ پرهیزکاری, نقوی؛ پاکدامنی,
+عفّت 135.0 تشخیص خوب از بده 535 تمیز
+morality ۵۱3۷ 401 pler/
+(در قرون شانزده و هفده) نمایش اخلاقی
+Vi درس اخلاق moralize /'moralarz, (Us) 'mair-/
+دادن, موعظه کردن, روضه خواندن
+Nady مطابق morally /morals, (US) ۵:-/ «sd!
+اخلاقی ۲. از نظر اخلاقی, به لحاظٍ اخلاق, طبق
+موازین اخلاقی, اخلاقاً ۳ به احتمال قوی, به
+Jaz قریب به یقین ۱
+خیلی احتمال داشتن. be morally certain
+کاملاً محتمل بودن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1070 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: moral support; moral Victory; morass; moratoria; moratorium; morbid; morbidity; morbidly; mordant; more; be more than happy -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+moral support / moral sapa:t, (US) moa:ral/
+SS a معنوی, حمایتِ معنوی. کمک اخلاقی,
+دلگرمی ops قلب
+moral victory / moral 'viktari, (US) mo:ral/
+n شکستِ شرافتمندانه. پيروزي معنوی
+2 ۱. زمین باتلاقی, باتلاق, morass /ma'res/
+ماگ Y (مجازی) ورطه, گرداب
+moratoria / moratoria | pl of moratorium
+moratorium /mora'to:riam, (US) mo:r-/
+Nn تعلیق, p/ moratoriums, moratoria) (
+is موقّت. وقفه ۲. مهلت. مهلتِ قانونی, lal
+دیرکرد. استمهال
+4 ۱. [افکار. تخیل و غیره ] morbid /'ms:bid/
+بیمارگونه. تیره و GU سیاه ۲.(پزشکی) [رشد]
+"HL I غیرعادی, Xo وحجشتناک.
+(Sli 3 هراس‌انگیر, مخوفء هولناک
+[شخص ] فکرهای بد / وحشتناک کردن. be morbid
+دل بد کردن
+۱. [ذهن, افکار و غیره ] / :۵ / morbidity
+ال بیهارگونه» بیمارگونگي, Sole Epis
+۲ (پزشکی) SI مرضی, نشانه‌های بیماری؛ oad
+بیماری ۳ (در یک ناحیه. شهر و غیره) Ohm بیماری
+0 به طور بیمارگونه‌ای, اد ۲ morbidly
+به طرزی غیرعادی
+(am) ad) [انتقاد و غیره ] گزنده»  mordant /madnt/
+تند., نیشدار
+oh) rie .۱ 4 ذدیگر more /mo:(r)/
+XY pron بیشتر, تعداد بهشتری» مقدار بیشتری؛ چیز
+بیشتری» چیزی دیگر
+adv ۳ (برای تفضیلی کردن صفت‌ها و Fad
+more expensive > < ۴. بیشتر
+Would you like some more coffee?
+باز هم قهوه می‌خواهی؟
+Is there much more of this film?
+خیلی دیگر از فیلم باقی مانده است؟
+چند تای fae Ks دیگر a few more
+سه تای دیکر هم می‌خواهم. ۰ I'll take three more.
+امیدوارم بیشتر I hope I'll see more of you.
+شما را ببینم. بیشتر همدیگر را ببینيم.
+SY کافی؛ بیش از حدٍ لازم.  more than enough
+بیش از مقداری که لازم است. به SY lal
+باز هم از اين‌ها دارم. I've got more like these.
+هر چه بیشتر The more the merrier. (prov)
+باشیم بیشتر خوش می‌گذرد.
+هرچه بیشتر بهتر the more the better
+ii=see 1=sit =@=cal a= ۵06 D=gol  7
+el = say Ww =go a1 = five aU = Now oI = boy 13
+aya = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 more
+more carefully دقیق‌تر, با دقتِ بیشتری
+once more دیگر Wis یک بار دی یک
+more (...) than از بیش اه بیشتتر... تا go
+no / not (much) / nothing more than
+
+حداکث, فقط
+I've got more money than you.
+من بیشتر از شما پول دارم.
+بیش از بیش CUT و بیش more and more
+هی بیشتر
+تندتر و تندتر» هی تندتر more and more quickly
+LE A کماپیش, بفهمی نفهمی more or less
+اش Loi Japus به تخمین
+be more than happy / glad (to do sth)
+خیلی خوشحال / خوشوقت بودن (4S) خیلی هم
+خوشحال شدن (که)
+هم دیگر > no more <We shall see him no more.
+He couldn't lift the table and no more could I.
+نه او می‌توانست میز را بلند کند و نه من. او که
+نمی‌توانست میز را بلند کند هیچ من هم نمی‌توانستم.
+(gam) چشم از جهان فروبسته است. He's no more.
+Ss در میان ها ii
+فقط؛ (همراء با فعل منفی) بیشتر از no more than
+همان اندازه / همان قدر... که no more... than
+You are no more capable of speaking Chinese
+تو هم بهتر از من چینی حرف نمی‌زنی.  than Tam.
+مهم تر آن‌که. از این مهم‌تره what is more
+علاوه بر اين. تازه, سهل است
+دیگر any more
+هر چه بیشتر ... the more...
+The more you rest the quicker you'll get
+هر چه بیشتر استراحت کنی زودتر خوب better.
+می‌شوی.
+خیلی احمقی که (The) more fool you to go!
+می‌خواهی بروی! احمق‌تر تویی که می‌خواهی
+بروی!
+He is all the more happy (...).
+خیلی خوشحال است (...).
+AS کار بردی:
+ol yon more LIS صفت به کار می‌رود و کارکردی مشابه
+پسوندٍ mer دارد. یعنی صفت تفضیلی می‌سازد:
+This year's exam was harder for me.
+باید توجه داشت که ymore LIS پسوند -er را
+نمی‌توان با هم به‌کار برد. بنابراین صورت‌های از نوع
+more harder ... ... غلط است. il
+
+w  u=cook ui=100 aA=cup 3=bird a= about
+
+= near €a = hair U2 = pure ero = player  a1ra= fire
+0= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1071 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: morello; Mormonism; morn; morning; I'm going out this evening -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+morello 10
+از آنجا که پسوندٍ mer را برای صفت‌های یک هجایی و
+دو هجایی به‌کار می‌برند. ناگزیر صفت‌های چند هجایی
+
+sal ge more فقط با
+This year's exam was more difficult than last
+year's.
+
+morello /morelas/ بر آلبالو
+
+۲۱۵۲۵۵۷۵۲ /۱۱۵:۲۵۷۵)۲(/ «pl علاوه بر she & adv
+
+به اضافه: وانگهی: از این گذشته, مَضافاً بر این
+ASS کار بردی:
+از میان سه قید ۰۱۱۵۲۵0۷۵۳ also و besides (that) قید
+Moreover از همه رسمی‌تر است و در محاوره به‌کار
+نمی‌رود. البته. این قید گاه در گزارش‌های خبری به چشم
+می‌خورد:
+Local people would like a new road.
+Moreover, there are good economic reasons for
+building one.
+also 13 هم she بیان دلیلی یا نظری در جمله به‌کار
+می‌رود اما نسبت به moreover LAS خیلی رسمی نیست.
+این قید در Jl یک جمله برای ربط دادن of به Wor
+ماقبل Ma می‌رود: :
+You can stay at our house. Also, I can check the
+plane times for you.
+also 43 همچنین ممکن است در وسط جمله ly
+I can also check the plane times for you.
+قید LalS besides (that) غیررسمی‌تری است و به ویژه
+برای آوردن دلیلی در جمله به‌کار می‌ر ود:
+June isn't a good month to go there. Besides, I
+want to finish my exams first.
+علاوه بر این در انگلیسی از LS 4 نیز برای بیان
+دلیلی یا نظری در درون جمله‌ای واحد استفاده می‌کنند و
+چه بسا برای تأ کید بیشتر یکی از سه قیدٍ also (besides یا
+moreover ,1 نیز پس از آن بیاورند:
+You should switch to a healthier diet and
+moreover / also / besides that stop smoking.
+
+mores /'mo:reiz/ رسوم. nN (رسمی) n
+
+abn ip gue و oa]
+
+morganatic /mo:ganetik/ پایین ab [ازدواج ] با adj
+پایین جامعه, با این Slab مردی از طبقاتٍ بالا و زنی از ple =)
+شرط که همسر و فرزندان, وارشِ مقام و دارايي شوهر نخواهند
+Cos
+
+morganatically /mo:ganaukit/ ۰ ] [ازدواج کردن 0
+
+با db پایین
+
+2 ۱. (برای نگهداري اجساد) سردخانه  morgue /mo:g/
+
+Y (روزنامه) | رشیو
+
+moribund /'moriband, (US) 'mo:r-/ (omy) adj
+
+[تمدّن, صنعت و غیره] در Jo احتضار, مشرف به
+
+<!-- REGION: RIGHT COLUMN -->
+
+2)
+موت. رو به PS | در شرف نابودی» دم مرگ |
+Non عضو کلیسای مورمون‌ها. Mormon /'momman/
+مورمون |
+Yad) (مربوط به) مورمون‌ها؛ (مربوط به) کلیسای :
+مورمون‌ها |
+۸ مذهب مورمون‌هاء: /۳۵:۱۹/۱/2۵۳/ Mormonism
+YEE مورمون‌ها |
+۸ (کهنه, (Lod بامداد. eb بامدادان؛ morn /mo:m/ |
+پگاه. سحرگه |
+morning /'mo:niyg/ RSNA (ge Nn |
+۲ (صفت‌گوند) صبحگاهی. بامدادی, (مربوط به)
+صبرح )ی آغاز
+صبح به oa روز به خیر good morning
+pee bs صبح in the morning
+about 11 o'clock in the morning > <
+بیست و جهار ساعت. morning, noon and night
+تمام مدّت. شبانه‌روز, شب و روز
+صبح روز AR] صبح the morning before
+روز پیش ۱
+the other morning —» other
+صبح روز بعدش, صبح روز the morning after Jw
+the morning after (the night before)
+( محاوره) خماری ( مشروب)
+| 135 کارپردی»
+کاربرد حروفی اضافهٌ Lon yin اصطلاحات مربوط به
+زمان به قرارِ زیر است:
+حرف Lin Bla! کلماتی به‌کار می‌رود که بر
+قسمت‌های مختلف روز دلالت می‌کنند مانند amorning
+و evening خراه این کلمات به تنهایی امد
+باشند و خواه در ترکیب با عبارت‌های زمانی دیگر:
+in the morning / afternoon / evening
+at 3 o'clock in the afternoon
+وقتی صفت‌های late yearly نیز با کلمات مورد بحث
+آمده باشند باز حرف Blot 1۳ پیش از آن‌ها به کار می‌رود:
+in the early morning
+late in the summer
+با صفت‌های دیگر و همچنین با روزهای هفته و دیگر
+عبارت‌های زمانی خاص, > BLO 010 به‌کار می‌رود:
+on a beautiful spring 8
+on Friday afternoon
+on the previous / following day
+on the morning of the 4th of September
+با کلمات this morning yesterday tomorrow و
+نظایر آن‌هاء حروفی اضافه به کار نمی‌روند:
+We arrived yesterday afternoon.
+I'm going out this evening / tomorrow morning.
+در انگلیسی آمریکایی با عبارت‌های زمانی اغلب از
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1072 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: morning-after pill; morning dress; morning sickness; Moroccan; Morocco; morocco; moronic; morose; morpheme; morphia; morphological; morphology; morrow; Morse; morsel; a tasty; mortal; mortality rate; mortality table; mortally -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+حرف اضافهٌ on استفاده نمی‌شود:
+We left Friday morning and returned
+Sunday evening.
+The course meets Wednesdays at 3.
+morning-after pill / mo:n1y ۵:۸۵ pil, (US) "efta(r) /
+۸ (برای جلوگیری از حاملگی) oo A بعد از همخوابگی,
+قرص روز بعد ۱
+oS n فراک (تیره) morning coat /mom kaut/
+لباس رسمی. morning dress /'ms:niy dres/
+sal £308
+۸ )43( نیلوفر ( پیچ morning glory / mong ‘glort/(
+Morning Prayer / mong prea(r)/
+2 (در کلیسای انگلستان) Sl صبح
+(eres adv پیش‌از ظهرهاء  mornings /maniz/
+هرءز ور [era alll 6a
+morning sickness /momiy siknis/
+8 (در دوران بارداری) حالتِ تهوّع صبح‌ها
+n ستارةٌ ee 1( رحس ۱ morning star
+ستارهٌ بامدادی؛ زهره, ناهید
+ad) ۱. مراکشی, (مربوط به) /۵۲۵۵۵:/ Moroccan
+مراکش, (مربوط به) مغرب
+n ۲ اهل Sa مراکشی
+مراکش, مغرب Morocco /ma'rnkas/
+۸ (برای AS Wo کفش و غیره) /ma'rnkay/ ۲۱۱۵۲۵۵۵۵
+چرم» چرم Gr تیماج, ysl (صفت‌گونه) چرمی
+2 ۱. (محاوره به طعنه) ادم احمق. Moron /'ma:ron/
+ادم ابله ۲. (روان‌شناسی) کودن
+adj (محاوره به (ab احمق, moronic /ma'rontk/
+ابله؛ [رفتار ] احمقانه. ابلهانه
+ad) عبوس, گرفته. بدخلق, 3:6(« /marous/ ۱۳۱۵۲۵886
+بداخم, ترشرو؛ [حالت, قیافه ] عبوس» گرفته
+0 با گرفتگی, با بدخلقی, morosely /ma'rausit/
+گرفته, با ترشرویی, با چهره‌ای عبوس
+n گرفتگی, بدخلقی.  MOroseness /morausnis/
+بداخمی, ترشرویی
+2 (زبان‌شناسی) تک‌واژ, واژک morpheme /'mo:fim/
+/'ma:fia/ = morphine ۲۱۵۲۵1313
+مورفین morphine /ma:fin/
+4 ۱.(زیست‌شناسی)  morphological /ma:fslodsikl/
+bya) به) ریخت‌شناسی, ریخت‌شناختی ۲
+( زبان‌شناسی) ساخت‌واژی, bye) 4( ساخت‌واژه.
+(مربوط به) bo صرفی
+morphology /۳۵: ۲1 (zoey) Nn
+ریخت‌شناسی ۲.(زبان‌شناسی) ساخت‌واژه» صرف
+1=sit a@=cat a=father 05 80 J:=s: معا
+=go ar = five ay =now s1=boy 13 ناد Cl = say
+ava = hour j=yes w= wet  tf=chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 mortarboard
+morris dance /'mors dans, (US) ‘mains dans/
+Uy محلي انگلیسی که به a8, موریس‌دانس )= نوعی 12
+مردان انجام می‌شد)
+morris dancer /mors da:nsa(r), (US) 'mo:ris
+daensa(r) / موریس دانس, BALES, 1
+کسی که موریس‌دانس می‌رقصد
+morrow /'morau, (US) 'mo:r-/ do 3 Nha) ۸
+بامداد Naa روز بعد
+on the morrow روزء فردایش؛ فردا of فردای
+good morrow صبح به خیر (x48)
+Morse /mo:s/ ۱ مورس ht
+Morse Code /mo:s kaud/ مورس (lal) n
+morsel /'mo:si/ خرده؛ [غذا] لقمه 0s 5, 35 0
+a tasty / dainty / choice morsel of food
+hdd یک
+mortal /motl/ edi ea ۱.فانی, میراء فناپذیر, ad
+[Sin] ۲: کشنده, هلک [gd ضریه و ois]
+خونین, تا پای مرگ؛ [دشمن ] خونی, آشتی‌ناپذیر
+زیاد؛ [خطر] جدی aad ] کینه جو ۴. [ترس, وحشت
+($B) انسان. ادم .۵ a
+Here lie the mortal remains of...
+(روی سنگي قبر) آرامگاو ابدي...
+every mortal thing Soa محاوره) هر جور (
+همه چیزء هر چیزی؛ هر جور کاری, همه کار, هر کاری
+be no mortal good to anybody محاوره) (
+به 200 کسی نخوردن
+a mortal blow  ,رگناریو ضربه‌ای کوبنده, ضربه‌ای
+مهلکی do
+mortality /mo:talotr / ا.فناپذیری,» میرندگی pn
+میزان مرگ و میرء مزگ و میر ۳ تلفات ۲
+mortality rate 5ادان:۳۵/ ret/ میزان مرگ و 2
+میر» مرگ و میر
+mortality table /mo:tzlatr tebl/
+مرگ و میر saan
+mortally /'ma:talt/ ۱.به ۳ کُشنده‌ای, 0
+lie مُهلکی ۲ به شدت, شدیداً, 5b به
+mortal sin /motl sin/ . گناو کبیره, گناه بزرگ
+mortar’ /'mo:ta(r) / ساروج؛ «LOG ۱.(معماری)
+سیمان
+[اجر, سنگ ] به هم چسباندن ۳. ساروج کردن؛ .۲ wr
+سیمان کردن
+۲۱۱۹۲13۲2 07 خمپاره‌انداز. خمپاره .۱
+هاون .۲
+mortarboard /'mo:tabo:d / بر کلاو دانشگاهی؛
+کلاو فارغ‌التحصیلی
+۷ u=cook u:=t00 A=cup 3: = bird o= about
+= near €a = hair va = pure ela = player  ara= fire
+0= thin d = this [=shoe  3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1073 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mortgage; cloJJiJo c; mortgager; mortgagor; mortice; mortification; mortify; be mortified; mortise; mortise lock; mortuary; mosaic; Mosaic; moselle; Moses; mosey; Moslem; mosque; mosquito; mosquito-net; mOSS; mossback; moss-grown; mossy; most -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mortgage 10
+1 (حقوق) ۱. رهن ۲. وام. mortgage /'mo:gids/
+وام مسکن
+۳ (حقوق) [خانه. [Sh رهن گذاشتن, گرو گذاشتن.
+وام گرفتن روی
+وام گرفتن. take out / raise a mortgage
+وا مسکن گرفتن ۱
+وام خود را pay off / clear a mortgage
+تصفیه کردن, ملکي خود را از رهن درآوردن
+(of Aaa) ۸ وام‌دهنده / mortgagee / mo:grdsi:
+7 (حقوق) راهن وام‌گیرنده / mortgager /mo:gidsa(r)
+۸ (حقوق) راهن mortgagor /ma:.gi'dsa:r/
+mortice /۳۵:۹/ = mortise
+8 (در آمریکا) pele کفن و mortician /motifn/. ps
+"ld ge sala
+n خجالت., / ۳۵:۵۲ / mortification
+سرافکندگی, شرمساری, شرمندگی, ناراحتی X
+ریاضت
+mortify /'mo:tifar/ ( pr,pp mortified)
+eel pas ode cel .۱ سرافکندگی ...
+شدن ۲. ریاضت دادن (به) ۱
+خجالت کشیدن, احساس سرافکندگی / be mortified
+خقارت 538 rll من 31 خجالت of هرن
+ریاضت: کشیدن mortify the flesh
+mortise /'mo:tis/ PSG) 7
+XY wr وصل کردن. متصل کردن؛ (نجاری) کام و زبانه
+کردن
+۱(دو جیز ;|( 4 mortise sth and sth together
+هم وصل کردن, به هم Jae کردن؛ (نجّاری) کام و زبانه
+کردن ۲. (نجّاری) کام کندن درء سوراخ کردن
+a قفل توکار mortise lock /'mo:us Ink/
+mortuary /'ma:t fan, (US) 'matfuert/ 8
+۱.(برای نگهداري اجساد) سردخانه
+ad) ۲.(رسمی) (مربوط به) iS و دفن؛ (مربوط به)
+Les جنازه, (مربوط به) خاکسپاری, ( مربوط
+4( تدفین
+مُعرّق, کاشی مُعرّق. / Mosaic /mav'zenk
+مُعرّق‌کاری, کاشی‌کاری؛ ]08 اتاق. پیاده‌رو و Lon با
+(Sols se طرحدار فرش شده» با Sal طرحدار
+فرش شده
+( مجازی) تلفیقی از چیزی» mosaic(s) of sth
+آمیزه‌ای از چیزی
+The sky this moming is a mosaic of blue and white. > <
+(مذهب) ( مربوط (a موسی Mosaic /mov'zenk/
+A قوائین موسی ۲. Jad پنجگانه, تورات Mosaic law
+n شراب moselle /mav'zel/ Jae
+NT موسی, حضرتٍِ موسی Moses /'mavziz, -z1s/
+vi (در Aud محاوره) خوش‌خوشک MOSEY /'movzi/
+
+<!-- REGION: RIGHT COLUMN -->
+
+4)
+رفتن؛ خوش‌خوشک pl خوش‌خوشک قدم
+زدن. سلانه‌سلانه رفتن؛ یواش ales راه افتادن؛ |
+رفتن؛ آمدن؛ سری زدن
+Moslem /'mpzlem/ = Muslim
+mosque /mosk/ BR
+MOSqUIto /maskitau, mos-/ ( p/ mosquitoes)
+Aan |
+mosquito-net/maski:tas net, mps-/ Anal ۸ ۱
+MOSS /mps, (US) ma:s/ 0 > 1
+A rolling stone gathers no moss. (prov) |
+rolling stone —
+(در آمریکا. mossback /mosbzk, (US) 'mo:s-/
+محاوره) )231( فسیل, آدم کهنه پرست
+ad پوشیده MOSS-grown /'mos gran, (US) 'mo:s/
+از خزه, خزه‌پوش
+ad) ۱. پوشیده از MOSSY /'mpst, (US) 'ma:st/ wi
+خزه‌پوش, خزه گرفته ۲. Joe خزه, خزه‌مانند؛ [فرش
+و غیره] پرزبلند؛ [ریش, مو] بلند و درهم‌رفته ۳ به
+رنگي خزه, خزه‌ای‌رنگ
+Nad) بیشترین» زیادترین, حداکثر  most’ /mavst/
+۲. بیشترء اکثرء غالب, FONE
+pron ۳ حداکثر, حداکثر کار حداکثر چیز, بیشترین OS
+بیشترین چیز؛ بیشتر از همه, بیش از همه
+Harry got 6 points, Susan got 8 points, but Alison got <
+most. >
+۴. بیشترشان, بیشتر lag] پیشتزش
+Who do you think will get (the) most votes?
+SO می‌کنی چه کسی بیشتر از همه sb می‌آورد؟
+هر کاری / هر جچه Do the most you can!
+می‌توانی بکن!
+most of Ft
+حداکثر at (the) most
+[ وقت ] تلف نکردن, هدر ندادن؛ make the most of
+[فرصت. آفتاب و غیره ] Shas استفاده را از...کردن,
+بیشترین بهره را از ... بردن؛ Jn] استعداد و غیره ] بهترین
+استفاده را از ... کردن
+0 ۱.(برای gio ale عالی) most? /maust/
+-ترین < most beautiful > ۲. بیشتر از chen بیش از
+همه, بیش از هر جیز ۳.اکثراء bod, con Wl
+(sh ۴ بسیار ۵.(محاوره) تقریباً
+به اسان وین صورت / وجه most easily
+خوشگل تن از همه most beautiful of all
+ملماه most certainly [RE Aol
+ass کار بردی:
+most 2S هرگاه در معنای «تقریباً همه» باشد و موضوع
+سخن نیز عام و کلی all بلافاصله پیش از اسم tol go َ
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1074 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Mothering Sunday -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+Most cheese contains a lot of fat.
+Js این مورد خاص. درشت Ce اک بگوییم most of
+cheese
+Most Americans own cars.
+most of the = Le را هنگامی به کار می‌بریم که از
+بخشی از یک چیز مشخص, یا یک گروه معین صحبت
+می‌کنیم:
+Greg has eaten most of the cheese that was in
+the fridge.
+Most of the Americans we asked owned cars.
+در موردٍ ol یعنی در سخن گفتن از گروهی معین,
+می‌توان most ,1 بدونِ of the هم به کار برد:
+Most Americans we asked own cars.
+پس از the most در معنای «بیش از هر چیز دیگر»
+Ol $s اسم در حالت جمع L اسم غیرقابل‌شمارش به‌کار
+23
+The most damage was done to the houses nearest
+the cliff.
+به اين معنا که خسارت واردشده بر آن خانه‌ها بیش از هر
+جای دیگر بود.
+most JS هرگاه در بافت‌های از نوع زیر به‌کار رودء
+رسانندة معنای oe) از هر چیز (Ss استت:
+My swimming is the thing I most want to
+improve.
+I want to improve my swimming most.
+I most want to improve my swimming.
+wh در نظر داشت که بیشترِ صفت‌های کوتاه دارای
+صورتی نیز هستند که به est ختم می‌شوند و هنگامی of
+صورت‌ها را به‌کار می‌بریم که بخواهیم مفهوم (بیشتر از
+هر pr دیگر» را برسانیم. most LIS نمی‌توان با این
+Jd صورت‌ها به‌ کار برد:
+Manhattan is the richest area in New York.
+the dullest people I've ever met
+نیز به یاد باید داشت که عبارت most of the time
+صحیح است و غلط است اگر بگوییم:
+the most time
+most of times
+ad) بیشترین» بیشترشان, mostly /'mausth/ «ten
+همه‌اش؛ اکثراً, عمدتاً, در 281 موارد. غالبا معمولاً
+7 (در بریتانیا) ۱.(اتومبیل, محاوره) 7 ده MOT" /em
+alle (سالیانه) ۲ (اتوایبیل. منحاور8) )25,0( alae
+۷ ۳ (محاوره) [اتومبیل ] معاینه (سالیانه) کردن
+معاینه (سالیانه ) MOT test
+MOT? /em av 'ti:/ > Ministry of Transport
+n (در بریتانیا) وزارت راه و ترابری
+1 ۱.(در (paz [غبار و غیره ] S133 (ریز) mote /mast/
+۲ )0 چشم) خاک, اشغال, خار
+1=sit =m=cat a=father D=got 5 معا
+=go a1 = five au = Now o1=boy 13 ناه el = say
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 motherless
+the mote in sb's eye (کهنه, در سنجش با عیب
+کسی Sz 55 خود) عیب Siz
+motel /mav'tet/ Jon
+motet /mauv'tet/ C5 ga (موسیقی) 7
+آواز دسته جمعی کلیسایی) =)
+moth /mo8, (US) mo:6/ PAE ۱.شاهپرک. 4
+پروانه ۲. (جانور) بید
+mothball باندط۳۵۵/ (US) 'mo:6-/ نفتالین :
+in mothballs تو انبار مانده, انبار شده, انباری
+put in mothballs غیره ] کنار گذاشتن, 85]
+دور انداختن
+keep in mothballs  ؛ندرک استفاده نکردن از؛ قایم ۱
+هواپیما ] خواباندن Jos]
+moth-eaten /'moo i:tn, )15( 7 بيدزده» VN ad)
+] (محاوره, به طعنه) [میز و صندلی و غیره Y بیدخورده
+ie Blind فکسنی. زهواردررفته. لکنته.
+آنتیک؛ [افکار ] کهنه و پوسیده, خاک‌گرفته. مال
+بوق ME
+mother /'mada(r)/ ۱.مادر ۲.مامان ۳ مادرخوانده #
+مادرشوهر؛ مادرزن ۵.(مذهب) مادر مقدس, مادر ۴
+پرورش دادن BS ال ۶. [شخص, حویوان ] بزرگ
+Ol مادری کردن برای ۷. [شخص ] مراقبت کردن
+نگهداری کردن از. تر و خشک کردن ۸. لوس
+نازنازی بار آوردن eS کردن, ناز و نوازش
+Necessity is the mother of invention. (prov)
+—> necessity
+old enough to be sb's mother — old’
+every mother's son (عامیانه) هر کی همه‌شان,
+کُلُهم‌اجمعین
+mother country /'mads kantr1/ «gee .۱ (am) 7
+مادری. سرزميني ابا و اجدادی CR) مام وطن,
+کشور ola مستعمرات) کشورء کشور Win در ۷
+اصلی, میهن
+mother-figure / ۳۸۵۵ figa(r), (US) figjar/
+مادر معنوی, مادر
+motherhood مادر بودن؛ مادری ار ره
+mothering ۲۹۸۵۵۵ / ۱.مادری, مادری کردن 1
+EE مادری. عشق Cana .۲
+Mothering Sunday ['maBery sande, sandi/
+ایام روزه) 2S (دربریتانیا) روز مادر )= چهارمین ۸
+mother-in-law/ masa in I: / ( p/ mothers-in-law)
+مادرزن؛ مادرشوهر n
+motherland /'magalznd/ (Sooke سرزمین
+obs pl ابا و اجدادی, میهن. وطن. ed سر
+motherless /'madalrs/ بی‌مادر؛ مادرمرده» ینیم 4
+w  U=cook u:=too A=cup 3=bird a= about
+= near 2 = hair 9 = pure clo= player aro = fire
+6= thin §= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1075 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mother-naked; Mother Nature; mother ship; mother tongue; mothproof; motif; motion; motionless; motion picture; motivate; be highly motivated to do sth; motivation; motivational; motiveless; motley; motor; motorbike; motorboat; motorcar; motor cycle; motor cycling; motor cycliSt; motoring -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+motherlike 10
+مادرانه. مثل مادران motherlike /'masalaik/
+cms 1 مادرانه. motherliness /'masslurs/
+عشق مادرانه
+مادرا اند. مادری / 7 ۲۳۵1۳۵۲۷
+cad adj مادرزاد / mother-naked /'mads neikid
+n مادر طبیعت., Mother Nature /mads 'nextfa(r)/
+مام طبیعت, طبیعت
+(برای ساختن mother-of-pearl/madar av 'pa:l/
+yo ad Sass غیره) صدف؛ (صفت‌گونه) صدفی
+7 ( محاوره‌نبه mother's boy /'madoz bor/ (aa
+Hele my بچّه‌ننه. سوسول, فوفول, این مامان
+روز مادر ال Mother's Day /'madoz
+)= در بریتانیا چهارمین eS ایام روزه, در آمریکا دومین ۱
+یِکشنبةٌ ماو مه)
+a کشتی مادر mother ship /'mads fip/
+Mother Superior / mass su:praria(r), sjui-/
+۸ مادر مقدس؛ رئیس دیر
+bi:/ (pl mothers-to-be) ها mother-to-be / mass
+ol n آنده OJ آبستن
+# زبان مادری mother tongue /'mads tap!
+AN adj [لباس ] /-۳۵:۵ mothproof /'mo6pru:f, (US)
+ضدٍ بید
+XY wr [لباس ] dm do کردن
+ABN n نقش وانگار, motif /mauti:f/
+نقش‌مایه. نگارهء طرح ۲. (موسیقی, آدبیات) موتیف.
+مضمونِ مکررء درون‌مایه, بن‌مایه
+۱.حرکت., جنبش, تکان motion /'mausfn/
+۲ [دست. بدن] حرکت؛ اشاره ۳.(در جلسه و غیره)
+Folly (در Nilay رسمی, Jas (Spm دفع, تخلیه
+۵ در Wy رسمی) مدفوع
+4 ۶. اشاره کردن به ۷. راهنمایی کردن, هدایت کردن
+vi ۸.اشاره کردن
+go through the motions (of doing sth)
+(محاوره) تظاهر کردن (4S) وانمود کردن )48( ادا (ی
+sm کاری را) درآوردن
+We all said ''good night'' and went through
+همگی «شب به خیر» یم و وانمود  the motions.
+کردیم که می‌خواهیم بخوابیم. ۱
+propose a motion — propose
+به حرکت درآوردن؛ put / set sth in motion
+راه انداختن, به کار انداختن؛ SHIN و غیره] روشن
+کردن؛ (مجازی) به راه انداختن, به جریان انداختن
+کسی را بهداخل / به بیرون motion sb in/out
+هدایت کردن
+4 کسی تعارف کردن که motion sb to a chair
+بنشیند
+به کسی اشاره کردن که... motion (to) sb to do sth
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+4 بی‌حرکت. ساکن, motionless /masfuiis/ oll
+7 (در motion picture /mosfn ‘piktfa(r)/ (Sel
+فیلم (سینمایی) :
+WV wr [شخص ] برانگیختن. motivate /'mavtivert/
+برانگ یزانسدن» تهییج کردن. وادار کردن.
+انگیزٌ... بودن؛ Jas] [ انگیزة...شدن» GE ...شدن,
+موجب ...شدن ۲. ترغیب کردن, تشویق OS
+برانگیختن (که)
+adj [تصمیم, عمل ] دارای علّت. / motivated /mostverd
+a3 ga انگیخته؛ [شخص ] دارای 5:0 § مشخص
+سخت مایل / be highly motivated to do sth
+راغب بودن که. مشتاق / خواهان بودن که...
+با انگیز 8 سیاسی politically motivated
+۱. انگیزش, motivation /mostiver/n/
+ایجاد انگیزه ۲ انگیزه
+bye) ad به) کت motivational
+انگیزه‌ها, ( مربوط به) انگیزه, انگیزشی
+ode 5:5 Non دلیل؛ motive /'mouvtrv/ oP
+۲. نقش, نقش‌مایه. ,0 طرح ۳ (موسیقی, ادسیات)
+موتیف» مضمونٍ مکرر
+1 ۴. [نبرو ] (Sma محر که
+بی‌دلیل, بدون انگیزه  motiveless /mavtiviis/
+ناموجّه. Conger gt
+a) adj طعنه) جورواجور. قرو قاطی motley /motl/
+EHP
+rn دلقک‌هاء لباس آجق وَجق
+8 ۱.(درماشین آلات و وسايل /masta(r)/ (ais 13010۲
+موتور ۲.(در بریتانیا, کهنه) ماشین
+7 ۳ موتوری ۴.(مربوط به) Adis Joly موتوری ۵.
+[اعصاب, عضلات ] حرکتی
+4 ۶.(در بریتانیا (i ماشین‌سواری کردن, با ماشین
+آامدن؛ با ماشین رفتن
+۶ (در بریتانيا, محاور» / motorbike /'mastabark
+وسیلةٌ نقلیه) ۱. موتور ۲.(در آمریکا) دوچرخةٌ موتوری
+n قایق موتوری / motorboat /'mastabast
+۸ کاروانی از اتومبیل.  motorcade /mavtokerd/
+اسکورت. کاروانِ اتومبیل‌های تشریفات
+22 (در بریتانیاء رسمی) اتومبیل motorcar /mavtoka:(r)/
+nm اتوبوس رام motor-coach /mauto
+om) شهری)
+1 مو‌تورسیکلت. 90 57 motor cycle /'mouto satkl/
+۸ موتورسواری  motor cycling /'movts satklin/
+2 مو‌تورسوارء motor cyclist /mavto sarkitst/ 5) 57 ga
+۱. ماشین‌سواری» / motoring /'mavtariy
+اتومبیل‌سواری, اتومبیل‌رانی؛ گشت با ماشین ۲.
+(صفت‌گونه) [حادثه ] ( مربوط به) اتومبیل» (مربوط
+به) رانندگی؛ [تعطیلات. سفر ] با اتومبیل
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1076 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: motorise; motorised; motorist; motorize; motorized; motor launch; motor racing; motor-scooter; motor show; motorway; mottled; motto; mould to; mould sb; imculd; mouldering; moulding; mouldy; moult; mound; mount -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+جماعتِ اتومبیل‌سوار, the motoring public
+اتومبیل‌سوارهاء دارندگان Jere gl
+motorise /'mavtoraiz/ = motorize
+motorised /'mavtoraizd / = motorized
+1 راننده؛ اتومبیل‌سوار / motorist / motorist
+۱. موتوری motorize /'mavtoraiz/ 03S
+موتور گذاشتن روی ۲.(نظامی) موتوریزه کردن
+uy] NV adj نقلیه ] موتوری؛ motorized /'movtoraizd/
+[دوربین ] موتوردار ۲.(نظامی) 50 05 موتوری
+1a:ntf/ = launch? مان / motor launch
+diss 1 اتومبیل‌رانی / ۲۵۱۹۱ motor racing /'mavts
+موتور وسپا motor-scooter/ mauvto sku:ta(r)/
+motor show /mauta fau/ Jorn gi! JEL 1
+در بریتانیا) بزرگراه» / motorway /'movtower
+ol pt آزادراه
+ad خال‌مخالی, خال‌خال, mottled /moud/ JBL JS
+motto /'motsu/ ( p/ mottoes, mottos)
+5N 1 قانوادی BS 30 hy 58) Fmt [agi akin
+کراکز) laa ضرب‌المثل؛ شوخی؛ نکته
+7 ۱.(هنر, آشپزی, فلزشناسی: 1 ۲۵۵۱۵۱۲
+فنی و غیره) قالب ۲.مدل, الگو Asx قالبی ۴. [شخص ]
+شخضیّت. تیپ خمیره؛ ریخت
+JS Js] .۵ ۷ و غیره] شکل دادن, دراوردن (به
+صورت) ۶.ساختن, درست کردن ۷.(مجازی)
+[شخصیّت, افکار و غیره] شکل دادن (به)» ساختن.
+تاثیر گذاشتن بر؛ [شخص ] شخصیّت ...را ساختن.
+شخْصیّت ...را شکل دادن
+باعث شدن که جیزی mould sth to / round
+به ... بچسید. چیزی را به / دور ... چسباندن
+از یک سنخ. از یک تیپ cast in the same mould
+از جنس کستی be made in sb's mould 0g
+ARLE سرشتِ کسی را داشتن
+۱ از کسی / چیزی...ساختن  511111010 / ناه mould
+۲. چیزی را به صورتٍ... درآوردن
+تغییری تازه (در جیزی) break the mould (of sth)
+ایجاد کردن, قالب‌ها / قالب‌های ( چپزی) را شکستن.
+( در چیزی) سنت‌شکنی کردن
+0 جسیبیده بودن به؛ قالب ... بودن 1010 / mould to
+Her wet clothes moutdad round her body. > <
+mould? /mauld/ SSA 7
+SS vi زدن
+خاک mould? /masid/
+خاک برگ leaf mould
+VI پوسیدن و خاک شدن؛ / /maulda(r) 113۵۱۵۱6۲۲
+[ساختمان ] رفته‌رفته ویران شدن
+i=see  1=silL  w-cal  @=father
+el = say WU = 0 a1 = five au = NOW oI =boy 1
+wa = hour j= yes We wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 mount
+moulder? /'mavlda(r)/ RIE Sle dB gn
+ريخته گر
+mouldering /'mauvldariy / در حال پوسیدن و 4
+رو بنه 8350 Js [ویرانه‌هاً ] در spas SB
+: $b
+moulding /mauldig/ قالب‌سازی: ۱ 7۶
+
+قالب‌گیری» قالب‌ریزی, ریخته‌گری ¥ (Joe)
+شکل ols شکل‌دهی, ساختن ۳. محصول, ساخته
+۴ (مجازی) شکل‌گیزی ۵. (معماری) گچبری» ohh
+
+Gal تزیینی؛ (نجاری) ابزار
+adj .کیک ‌زده ۲. بوی نا گرفته.  mouldy /'mosldi/
+
+مانده؛ [بو ] (مربوط به) ناء bye) به) ماندگی ۳
+
+۱ ( محاوره: (aed ay (اثائیه و غیره) زنگ زده؛ از کارافتاده؛
+کهته. قندایمی. استقاط ۴. (در aS (ae Why
+
+مزخرف ۵.(در Ll, محاوره) [شخص ] عوضی
+
+They've given us a pretty mouldy pay
+
+امسال یک اضافه حقوقی 4 ما increase this year.
+
+دادند که به iad خدا هم نمی‌ارزد.
+N 4 [پرنده ] تو لک رفتن. moult /mouit/
+پرهای ...ریختن ۲. [سگ. گربه] موهای ... ریختن
+[nn] Xow ریختن
+۸ ۴. [برندگان ] تو لک ds پُرریزی؛ زمانِ پرریزی
+۵ [سگ, گربه ] موریزی؛ plas موریزی
+BSB aS a خاک؛ پشته 1 110
+( مجازی) کوهی آز, تلی از آنبوهی از amound of
+ig) ادبی) کوه؛ 45 ۱۳۱۹
+
+Mt Everest اورست (i)
+
+مون‌سن میشل St Michael's Mount
+YL ۷ رفتن )3 صعود کردن از mount? /masnt/
+[ama] ۲ سوارِ اسب کردن ۳. [اسب."دوچرخه ]
+سواز ...شدن ۴ [عکس, تمبر و غیره] جسباندن؛ )33(
+قذاه اج قرار دادن؛ [نقنه ] چسباندن, زدن؛
+[ دستگاه ] نصب کردن, کار گذاشتن؛ [جواهر] کار
+گذاشترج؛ ]5 "توب ] بسوار کترادن؛ ale ] SE]
+کردن ۵. [نمایشگاه, تظاهرات و غیره ] odd SoS
+ترتیب دادن؛ برپا کردن؛ [نمایش ] روی / به صحنه
+اوردن؛ [فیلم ] نمایش دادن ۶.محافظ گذاشتن.
+مراقب گذاشتن, نگهبان گذاشتن, کشیک گذاشتن؛
+[محافظ و [a گذاشتن ۷ در 2050 حیوان نر) Ola]
+
+ماده ] شور ... OAD
+YU A vi رفتن» صعود کردن, (به سمتِ بالا) رفتن A
+سوار اسب شدن A [قیمت, مقدار و غیره ] افزایش
+یافتن, بالا رفتن, زیاد شدن؛ [کارها, قرض‌ها و Lop
+روی هم انباشته شدن ۱۱. [گاو و غیره] سوار ماده
+شدن
+w  u=cook u:=100 A=cup @=bird a= about
+hair U2 = pure ero = player aa = fire = وع near =
+thin d= this [= shoe 3= vision n= sing = 6
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1077 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mount an attack; a mountain of; mountainside; mounted; mounting; mourn; mourner; mournfulness; play cat and mouse; mousehole; mOUSSe -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mountain 10
+[دستگاه و غیره] NF دوچرخه .۱۳ CS 2 اسب؛ NY 7
+] مقوا؛ [تمیر ] ol پایه؛ سکُّو؛ [جواهر ] پایه؛ [عکس,
+جاتمبری i جای
+mount sb on sth 93S yw اسب ] کسی را [
+mount an attack / an offensive حمله کردن.
+هجوم بردن اقدام به حمله کردن
+mount guard (at / over) نگهبانی دادن کشیک دادن
+mount the throne بر تخت نشستن, بر تخت
+سلطنت جلوس کردن
+A blush mounted to the child's face.  ِتروص
+گل انداخت. صورتِ بچّه سرخ شد. a5
+mount on sth ات ] سوار... فلقاقت [
+۱ mount (up) to sth یافتن, بالغ AE. تا
+رسیدن ve I بر... شدن, به
+mount up قیمت. مقدار و غیره ] افزایش یافتن. [
+قرض‌ها و غیره ] روی هم LB] بالا رفتن, زیاد شدن؛
+انباشته شدن
+mountain /‘mavntin, (US) -ntn/ کوه .۱
+(صفت‌گونه) کوهستانی, (مربوط به) کوهستان. .۲
+۳ کوهی؛ (مربوط به) کوه؛ [طوایف اقوام] کوه‌نشین
+اضافه تولید
+a mountain of / mountains of jl مجازی) کوهی (
+انبوهی از
+make a mountain out of a molehill (xb (بد
+از کاهی کوهی ساختن
+mountain ash / ام ‘2, (US) mavntn/
+(گیاه) تیس ۸
+mountain bike / mavntin baik, (US) mauntn/
+دوچرخةٌ کوهستان 1
+mountain chain /masntin ‘tem, (US) mavntn/
+= mountain range
+mountaineer / mavntr'nia(r), (US) -ntn'tar /
+کوه‌نورد ۲. کوه‌نشین .۱ 1
+mountaineering / 1, (US) -ntn'ra-/
+کووپیماییی ug Bins زا
+mountain lion /.mavntin 'laian, (US) wnavntn/
+پوماء شیر کوهی ۸
+mountainous /'masntinss, (US) -ntonas/
+[سرزمین ] کوهستانی ۲. [امواج ] عظیم. کوه‌پیکر, .۱ 4
+غول‌آسا
+mountain range /mavntm 'reinds, (US) mauntn/
+رشته کوه. سلسله‌جبال nn
+mountain sickness /'masntin siknrs,
+(US) 'mauvntn/ ارتفاع‌زدگی n
+mountainside /'mauvntonsard / کوه alo n
+mountebank /mavntibenk / زبان‌باز, (ps1) (x8) 1
+چاچول‌بازه شارلاتان, 53 حقه‌باز ©
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+ad) ۱. اسب‌سوار؛ دوجرخه‌سوار /۳۵:۵۸:۵/ mounted
+۲ (نظامی) سوار» سواره, سواره‌نظام ۳ [تفنگ و غیره ]
+سوارشده ۴. Se] نقشه و غیره ] پشت‌مقوّایی
+1 (محاوره) )528( پلیس Mountie /'mavntr/
+سوار (کانادا) TO
+پلیس سوار (کانادا) the Mounties
+adj [قیمت. lov و غیره ] فزاینده. mounting /mavntrg/
+رو به افزایش
+Wt ۱.سوگواری mourn /mo:n/ 09S
+عزاداری کردن. گریه کردن, مویه کردن a kX
+خوردن, غم خوردن. اندوه خوردن» ماتم گرفتن؛
+al lia بودن. تاسف خوردن, غصّه‌دار بودن
+عزادار» سوگوار mourner /'mo:mna(r)/
+adj [شخص ] غمگین. mournful /monfl/ sad
+ماتمزده؛ [لحن, نگاه و Los غم‌انگیز, غمگین. jaf 03
+اندوهبارء اندوهگین
+adv حالتی ماتمزده. / mournfully /'mo:nfals
+با حالتی غصه‌دار؛ با حالتی غمبار؛ با لحنی
+غمگین. با صدایی غمزده. با لحنی غم‌انگیز
+حالتِ غمزده» mournfulness /'ma:nfins/
+cls ماتمزده» wile غصه
+A ۸ عزاداری, سوگواری؛ mourning /'ma:niy/
+گریه و زاری, شیون» مویه die UY رختٍ عزاء
+لاس سیاه
+عزادار بودن. سیاه پوشیده بودن be in mourning
+نوار سیاه a mourning band
+ای عزا پوشیدن. go into mourning
+(لباس) سیاه پوشیدن
+رختِ عزا / لباس سیاه را come out of mourning
+درآوردن
+در لباس عزاء لباس عزا پوشیده dress in mourning
+YA n جانور) موش ’ mouse /mavs/ ( p/ mice)
+۲ (کامپیوتر) ماوس, موش ۳ (مجازی) آدم کمرو. آدم
+خجالتی؛ ادم do ادم ترسوء موش :
+play cat and 31۵00۶6/2 cat-and-mouse game
+with sb — cat
+When the cat's away, the mice will play.
+(prov) — cat
+quiet as a mouse —> quiet
+n سوراخ موش mousehole /'mauvshaul/
+n گربه موشوگیی 1( ,(1۳۵53)۲/ mouser
+AS a موش / mousetrap /'mavstrayp
+# (محاوره)  mousetrap cheese /mavstrap 'tfiz/
+پثیر اشغال
+7 موساکا (< نوعی غذای moussaka /mu'saka/ ly
+مرکب از گوشت و بادمجان و سس پنیر)
+1 ۱. موس (- نوعی دسر که mousse /mu:s/ Mo
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1078 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: moustache; moustached; mousy; look as if; leave a bad; mouth; mouthful; mouth-organ; mouth-to-mouth resuscitation; mouthwatering; movable; movable feast; move -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+10
+کذمانند دارد) ۲. پورةٌ گوشت؛ پورهٌ ماهی ۳ (در آرایش
+J; مو)
+moustache /masta:f/ ۱.سبیل(ها)
+(در جمع) سبیل‌های بلند .۲
+moustached /masta:ft/  دراد سبیلی که سبیل adj
+MOUSY /'mauvsi/ (comp mousier, super mousiest)
+(به طعنه) ۱. [رنگ ]ٌ موشی, قهوه‌اي مرده ۲. کمرو [
+بی‌سر و زبان» خجالتنی؛ ترسوء بزدل
+mouth’ /mas6/ ( p/ mouths /-8z/) ols #
+wkd] دهن ۲. [تونل, غار و غیره] دهانه, مدخل, در؛
+سر؛ ila کیسه و غیره ] دهنه, سر؛ [توپ. تفنگ]
+سوراخ ۳ [رود] مصب [cd صندوتي [
+have got a big mouth کشی 3 بوَدَنَ؛ od
+دهن‌لق بودن, دهانِ کسی چفت و بست نداشتن
+be all mouth and no action همه‌اش حرف زدن و
+مفت زدن Gm هیچ عمل نکردن,
+I don't want any mouth from you! در دهانت
+را ببند! حرف مفت نزن!
+five mouths to feed پنج سر نان‌خور wile پنج سر
+be born with a silver spoon in one's mouth
+— born
+look as if / though butter wouldn't melt
+in sb's mouth — butter
+by word of mouth — word
+down in the mouth J) WE SPR BR OV
+بی‌حوصله
+from the horse's mouth — horse
+keep one's mouth shut NEBL محاوره) (
+جلوی زبان خود را نگه داشتن im خود را
+leave a bad / nasty taste in the mouth
+—> leave
+live from hand to mouth — hand’
+look a gift horse in the mouth — gift
+Out of the mouths of babes and sucklings!
+حرف راست را از دهان بچّه بشنو!
+shoot one's mouth off — shoot
+put words into sb's mouth — word
+shut one's / sb's mouth — shut |
+take the bread out of sb's mouth — bread
+take the words out of sb’s mouth — word |
+make sb's mouth water کسی را آب انداختن leo |
+have one's heart in one's mouth — heart |
+mouth? /mass/ حرکت لب گفتن ۲ با ادا Ld wr |
+واصول گفتن, با احساس گفتن ۳ زمزمه کردن:
+طوطی‌وار گفتن» ور زدن (wb a) ¥ زیر لب گفتن |
+ii=see 1=sit z=cat a:=father D=got 9:=sa
+el = say W=go ar = five av = now s1=boy سا
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+)9 move
+> TSH 28 اون ob) کردن, Ean الب ES mci 91
+: اصول حرف زدن» رسمی صحبت کردن, با
+احساس حرف زدن ۷. زمزمه کردن
+تن یره /mauvdd/ در ترکیب) = دهن (
+أ > smail-mouthed >
+mouthful /maudful/ ( pf mouthfuls)  ]اذغ[ A بر
+ )یخوش ۲.(محاوره. به as, opi ] [نوشیدنی cand
+LS شوخی) a) ۳ دهسن‌پرکن Gs
+| قلمبه سلمبه؛ اسم قلمبه‌سلمیه
+3۵۷۹۳۰۵۲921 /'mav o:gan/ ساز دهنی
+ِ mouthpiece /۵01:5ن۱۵/ [sob پیپ. ساز wil] .۱ ۸
+| روزنامه و اغیره)سختگی بلندگو mind) ۷ BS (
+| mouth-to-mouth / mauve ts 'mave/ دهان 4 دهان ad)
+“mouth-to-mouth resuscitation /mauo to
+mau risasitetfn/ تنفشي oles 4 oles تنفس n
+Wak ans
+mouthwash /'masowo// (دارو) دهان‌شوی؛ 8
+Eg
+mouthwatering /'masOwa:tariy/  ]هریغ [بو و .۱ adj
+که دهن آدم را آب می‌اندازد. اشتهاآور ۲.(مجازی)
+و غیره ] وسوسه‌انگیز, اغواگر, هوس‌انگیز dn [جایزه
+movable /'mu:vabl / متحر ک؛ قابل‌جابجایی, AN ad
+قابل‌حمل, حرکت‌دادنی ۲.(حقوق) منقول ۳. [عید.
+که می‌گردد. متغیّر AS ph جشن ] که تاریخش تغییر
+منقول؛ اموال شخصی sal در جمع) Gai) ¥ 7
+movable feast / mu:vabl 'fi:st/ عیدی که n
+تاریخش تغییر می‌کند. عیدٍ چرخشی
+move' /mu:v/ حرکت. تکان, جنبش .۱
+مکان؛ تغییرِ شغل؛ [شفغل, مقام و Ja اسباپ‌کشی. ۲
+و انتقال ۳. (شطرنج و غیره) Jis غیره] جابجایی,
+Jes ZS lash ۴ حرکت؛ نوبت
+Get a move on! (محاوره)عجله کن! بجنب! زود
+باش! بجنبید! زود باشید!
+make a move محاوره) حرکت کردن. ۱
+راه افتادن, رفتن ۲. اقدامی کردن» حرکتی کردن, دست به
+مکان کردن, اسباب‌کشی کردن JET زدن as
+on the move ] در حرکت. در حال حرکت؛ [کشور
+Js در حال پیشرفت؛ (نظامی) در حال جایجایی, در
+نقل و انتقال
+be always on the move cS > (J) در [WH
+مأموریت بودن؛ [بچه. (J) در Lots ] بودن؛ [کارمند
+] یک جا بند نشدن, آرام و قرار نداشتن؛ [شخص [ols
+هميشه گرفتار بودن, هميشه کار داشتن, مرتب در حال
+دوندگی بودن
+move? /muv/  »ندروخ حرکت کردن, تکان .۱ vi
+۷ u=cook 010100 وله کل bird a= about
+= near €3 = hair Ud = pure ed = player  a1d = fire
+0= thin 8 = this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1079 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: move ahead; move about; move in s -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+move 11(
+جنبیدن, جنب خوردن» Pr خوردن؛ جابجا شدن؛
+| رفتن ۲.راه افتادن» رفتن. حرکت کردن ۳
+اسباب‌کشی کردن, نقلِ مکان کردن, رفتن, PRP
+دادن ۴ [کار]/پیشرفت oS پیش «rh زونتق
+| داشتن؛ [زمان ] [ews] RILEY ترقی کردن, بالا
+| رفتن 0 (شطرنج و غیره) بازی Solo Cus 03S )
+| 5 ود ۶ب تغییرِ عقیده دادن. تغییر رویّه (ols
+ِ تغییرٍ موضع دادن منحرف شدن» نظرِ خود را
+| عوض کردن ۷.اقدام کردن. حرکتی کردنء دست به
+کار شدن ۸.(پزشکی) [شکم ] کار کردن 8 (بازرگانی)
+[جنس J فروش رفتن
+الا ۱۰ حرکت دادن, تکان als جنبانن؛ جابجا
+کردن. جای ...را عوض کردن ۱۱. [شغل] عوض ۱
+کردن؛ [شخص ] JS ... را عوض کردن» منتقل کردن,
+انتقال دادن ۱۲. [زمان, تاریخ ] تغییر دادن عوض
+کردن؛ [مذاکرات. plage و غیره ] تاریخ ...را تغییر دادن.
+زمان...را تغییر دادن ۱۳. ght) و غیره) [مهره ]
+حرکت als بازی کردن با ۱۴. 4 هیجان آوردن.
+احساسات ...را برانگیختن؛ ثُر گذاشتن ابر / روی؟
+تکان دادن؛ متاثر کردن ۱۵. وسوسه کردن» ترغیب
+کردن. برانگیختن؛ واداشتن, واداراکردن, باعث
+شدن ۱۶.(اداری. مجلس) (le) پبیشنهادهکر دن)
+مطرح کردن ۱۷. عقيدةٌ... را تغییر دادن Bo ...را
+تغییر دادن» منحرف cell (oS عوض شدن
+KT AA as bode و غیره] پاک کردن
+به تدریج از They moved slowly out of sight.
+نظر پنهان شدند. به تدریج دور شدند.
+اتو Jus سر The car moved round the corner.
+خیابان پیچید.
+خیلی داشت تند He was certainly moving.
+edly po ۱
+از وسط جمن رد They moved across the lawn.
+شدند / عبور کردند.
+( محاوره) عجله کردن. جنبیدن, راه افتادن get moving
+( در پریتانیا) اسباب‌کشی کردن move house
+توجه خود را از جیزی به move from sth to sth
+چیزی معطوف کردن, کوشش خود را از چیزی روی
+چیزی متمرکز کزدن, از چیزی به چیزی پرداختن
+چیزی را کنار گذاشتن, از چیزی move off sth
+دست کشیدن
+( محاوره) [کارها, امور ] پیشرفت ...را get sth moving
+تسریع کردن / سرعت بخشیدن, GEL تسریع ...شدن
+( در بربتانيا. محاوره, در موردٍ move the goalposts
+de کار و غیره) شرایط را تغییر دادن, $3 TILE
+move heaven and earth (to do sth)
+(برای انجام کاری) خود را به آب و آتش زدن,
+(برای انجام کاری) زمین و زمان را به هم دوختن
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+[LE] پیشرفت کردن, پیش رفتن, move ahead / ony,
+داشتن؛ [ols] گذشتن؛ [قیمت ] ترقی کردن» بالا رفتن
+Move your chair nearer to the fire!
+صندلی‌ات را بیاور S05 بخاری!
+کتاب‌هایت را Move your books over here!
+بیاور اینجا!
+دستت را از اینجا بردار! Move your arm off here!
+He moved his family out of the war zone.
+خانواده‌اش را از dia جنگی خارج کرد.
+They moved the crowd off the grass.
+مردم را از چمن پیرون کردند.
+eS ۱ کردن؛ تکان move about / around
+خوردن. جنبیدن. جنب خوردن. Job خوردن, جایجا
+شدن؛ رفتن ۲. حرکت دادن تکان ols جنباندن؛ جابجا
+کردن, جای ... را عوض کردن ۱
+کسی را به خنده انداختن, move sb to laughter
+کسی را خنداندن
+کسی را عصبانی کردن, کسی را move sb to anger
+از جا دربردن
+Ke (کسی ) as / when the spirit moves one
+دلش بخواهد. اگر حوصله‌اش را داشته باشد
+be/ feel moved to do sth AN BS)
+خواستن که.... وسواشه شذن re dS
+(پزشکی) شکم کسی کار کردن. move one's bowels
+بیرون رفتن. gale! مزاج کردن
+۶4 جلو رفتن» حرکت 85 05 move along
+[ زانندةٌ اتوبوس ] برو جلو! Move along there!
+برو عقب! [مأمور راهنمایی ] حرکت  کنید! [مأمور پلیس ]
+ce شوید!
+7 اسباب‌کشی کردن. نقل move away
+مکان کردن, از اینجا رفتن» رفتن
+move (sb / sth) back OL SN wr
+EST Novi
+74 ۱. پایین بردن. move (sb / sth) down
+پایین آوردن؛ پایین‌تر بردن, پایین‌تر آوردن ۲.
+[شاگرد ] یک کلاس پایین‌تر بردن؛ [کارمند ] تنرّل
+ag دادن :
+8 ۳ پایین رفتن؛ پایین‌تر رفتن,» پایین آمدن؛
+پایین‌تر آمدن ۴. [شاگرد] یک کلاس پایین‌تر
+رفتن؛ (کارمند ] تَنرّلٍ رتبه پیدا کردن ِ
+۷ (حقوق, مجلس) تقاضای ...03,5« move for sth
+درخواست ...کردن
+۷ اسباب‌کشی کردن (و آمدن)» آمدن ۲۵۷۵۱۳
+move in for the kill —> Kill ٍ
+vt [محافل بالا و غیره ] نشست و move in sth |
+برخاست داشتن باء رفت و آمد داشتن با
+دمخور بودن با ْ
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1080 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: movement; mover; movie; movie-goer; moving; movingly; the moving spirit; mow; mower; mown; mpg -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+الا ۱. حمله بردن move in on sb / sth A
+هجوم آوردن به طرفی» رفتن به طرفي ۲.
+( محاوره) [شرکت. بازار و غیره ] قبضه کردن» در دست
+
+خود گرفتن» کنترل ... را دار دستت R= DL
+از اسباب‌کشی کردن (و آمدن)  move into sth
+Odal cay به
+Vi [اتومبیل, تظاهرکنندگان و غیره ] حرکت move off
+کردن. راه افتادن, از br کنده شدن
+۱. [جمعیت و غیره ] move (sb / sth) on Oza
+کردن. ,03,55 ۲ Lae] ساعت ] جلو بردن
+۸ ۳ به راه خحود ادامه دادن به حرکت خود ادامه
+دادن در ادامة سفر رفتن (به)» در ادامة راه
+رفتن (ay) دوباره راه افتادن» دوباره حرکت
+کردن ۴. [umes] متفرّق شدن ۵ سر چیز
+دیگری رفتن, سراغ چیزٍ دیگری رفتن ۶. سر
+کار بهتری رفتن» رفتن (به) ۷. [ols] گذشتن.
+سپری شدن
+[پلیس ] متفرّق شوید! )3 شوید! حرکت کنید! Move on!
+[مسئله, موضوع و غیره ] سر ...3( move on to sth
+سراغ ... رفتن, GB per رفتن
+۱. اسباب‌کشی کردن (و رفتن)» لاه 1۵۷۵
+رفتن ۲. [شخص ] رفتن و با کس دیگری زندگی
+کردن, گذاشتن و رفتن
+7 ۱. جا باز کردن, کنار move over WES
+of طرف‌تر رفتن SY / جای خود رابه کس
+65% دادن کار خحود را ترک کردن ۳. oly,
+تازه‌ای در پیش oh (BS بهتری انتخاب
+کردن» at تازه‌ای در پیش گرفتن» Sam
+بهتری انتخاب کردن
+4 ۱. [شخص, جیز ] VG بردن move (sb / sth) up
+۲ [کارمند ] ارتقا دادن؛ [شاگرد] یک کلاس بالاتر
+بردن ۳. [سربازان, افراد ] آماده باش دادن a
+۴. [شخص, پرچم و غیره] بالا رفتن ۵. آن‌طرف تر
+رفتن, جایجا شدن» رفتن ۶. [کارمند ] ارتقا پیدا
+کردن؛ [شاگرد ] یک کلاس بالاتر رفتن ۷. [سربازان,
+افراد ] در حال آماده‌باش بودن
+A 7 حرکت, جنبش, تکان movement /muvmant/
+| ۲ تغییرٍ جاء تغییر محل؛ YS] سرمایه و غیره ] انتقال؛
+| [نظامی ] جابجایی» نقل و انتقال ۳.(در جمع) حرکات.
+فعاليت‌هاء آعمال ۴. گرایش, میلء تمایل ۵. SRC)
+wos | حرارت ] نسوسان ۶.(سیاسی و غیره) جنبش.,
+۱ نهضت؛ (ادبیات, هنر) مکتب. موج ۷.(موسیقی) موومان
+cell] ۸ دستگاه] قسمت‌های متحرّک. اجزای
+متحرّک 4.(در آمریکا, پزشکی) Jas دفع, Nadi
+فعالیت, جنب و جوش, تحرّک
+®m=cat a=father D=got 0 3 الق ii=see
+=go at = five av =now or =boy 13 ناه el = say
+ayo = hour j=yes w=wet tf=chain  d3=jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+(1 mpg
+movement away from اکزامشی ا/ مج به
+دور شدن / فاصله گرفتن از
+upward movement (in sth) صعود. Bj
+افزایش, بالا رفتن
+ٍ have a movement بیرون رفتن, شکم کسی کار
+کردن ۱ أ
+ٍ a bowel movement دفع. تخلیه Jos (S23) ¢
+Mover /'mu:va(r)/ (اداری, مجلس) پيشنهاددهنده 22
+ِ a slow mover حیوان ] که کند حرکت می‌کند. [
+| کندرو
+| be a lovely mover خوب رقصیدن
+movie /muvi/ tlie 1.(سینما) فیلم ۲.(در جمع) 8 ۱
+| کار سینما
+a movie star کال تینما
+a movie camera دوربین فیلم‌پرداری
+a movie house; a movie theater Rize
+movie-goer /'mu:vr gava(r)/ سینمارو 7
+be a movie-goer سینما بودن, سینمارو بودن Jal
+moving /muviy/ متحدک؛ در حال حرکت. A adj
+محر که ۳ [داستان, (Soa جننده» خبان ۲+ [تیرو]
+رفّت‌انگیز؛ موْتّر Soll حادثه و غیره ] تکان‌دهنده؛
+اسباب‌کشی, نقل مکان .۴
+a moving picture ۱ (سینما) فیلم
+a moving staircase پله‌برقی
+the moving spirit / 6 (شخص, چیز) نیروی
+محر ک. موتور
+1۵۷۱9۱۷ 1 تکان‌دهتده‌ای؛ 75 4 adv
+FY APPIN JL YORE DUR FEN AY
+رقت‌انگیزی
+۲۵۷۷ /mas/ ( pt mowed, pp mown, mowed )
+[چمن ] زدن؛ [مزرعه ] درو کردن ۷
+mow sb down «03S [سربازان, مردم ] درو 4
+کردن, کشتن ple Js از پای درآوردن»
+MOWEr /'mava(r)  نیچ‌فلع دروگر؛ (Lane) 7
+ماشین درو؛ (ماشینِ) علف‌چینی ۳ (ماشین) .۲
+چمن‌زن
+۲۱۱۵۷۷۲۱ /maun/ pp of mow
+MP! /em 'pi:/ > Member of Parliament
+(در بریتانیا) وکیل مجلس, نمایندةٌ پارلمان 2
+۱۷۳۶ /em 'pi:/ > military police(man) دژبان‌ها؛
+دژبان؛ دژبانی
+mpg / em pi: 'dsi:/ > miles per gallon
+در مایل JE بر
+This car does 40 mpg. مصرفي این ماشین
+یک گالن در چهل مایل است.
+۷  U=cook u:=t00 نونج 01۲0 a= about
+- near €3 = hair U3 = pure €19 = player ara = fire
+8= thin 0 = this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1081 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mph; MPhil; Mr; MRBM; Mrs; MS; Ms; MSc; Mt; mth -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mph 111
+mph / em pi: ‘eitf/ > miles per hour
+مایل در ساعت > <a 70 mph speed limit :
+MPhil / em 'fil/ > Master of Philosophy
+2 (در علوم انسانی) ۱. (a0) کارشناسی ارشد.
+(درجهٌ) فوق لیسانس ۲. کارشناس ad) (دارندة
+درجهٌ) فوتق لیسانس ۱
+Mr /'mista(r)/ < Mister sBly a
+AS41500 ۲ محاوره) GY
+نِكتَهٌ کاربردی:
+با هم آيي کلمات: کلمات Lid Ms Miss (Mrs Mr
+قبل از نام کامل يا نام خانوادگي افراد به کار می‌روند:
+Hello, Mr Gray.
+The next candidate for the job is Mrs Betty )
+Schwarz.
+Oe زیر نادرست‌اند:
+Please Miss teacher.
+Good morning Mr Jerry.
+وقتی با کسی مستقیماً صحبت می‌کنيم یا برای او نامه
+می‌نویسیم معمولاً نام Jal او را نمی‌آوریم؛ مثلاً
+نمی‌گوییم: i
+Hello, Mr Alan Smith.
+Sk می‌گوییم:
+Hello, Mr Smith.
+کلماتِ Mr و 19و نظایرِ آن‌ها را معمولاً با نام افرادی
+که آن‌ها را به خوبی می‌شناسیم یا افرادٍ مشهوری هستند.
+نمی‌آوریم:
+This is my friend Annie Walker.
+the defeat of Adolf Hitler
+Clinton's health care policy
+"The Wave" by Hokusai
+آداب دانی: بسیاری از خانم‌ها ترجیح می‌دهند که
+به جای Miss یا Mrs با Ms oi) خطاب شوند زیرا Ms
+این ویژگی رأ دارد که به gb غیرضروری ذهن را متوجه
+FIL محرد بودن L متاهل Oy خانم‌ها نمی‌کند.
+MRBM /em a: bi: 'em/ > medium-range
+1 موشکي بالستيکي میان‌برد ballistic missile
+MRC /em a: 'si:/ > Medical Research Council
+1 (در بریتانیا) شورای تحقیقاتِ پزشکی
+۱.خانم ۲ خانم آقای Mrs /'misiz/
+MS /'menjuskript / ( pl MSS) < manuscript
+MS 2 /em 'es/ > multiple sclerosis
+a (پزشکی) [ُم لس .
+n خانم Ms /miz/
+MSC /em es 'si:/ > Master of Science :
+7 (در دانشگاه, در علوم)۱. (iss) کارشناسی آرشی
+(درجه) فوق لیسانس ۲. کارشناسی BA (دارندة
+درجهٌ) 38 لیسانس pay
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+MSS /'menjuskripts / pl of MS’
+MST /em es ti:/ > Mountain Standard Time
+cel nn وقتِ کوه‌های راکی (- یکی از ساعت‌های
+رتم 23 آمریکا)
+Mt /maunt/ < mount’
+mth /man6/ ( p/ mths) < month
+۱ زیاد( ی)» خیلی much’ /matf/
+pron . چیز زیادی, چیزهای زیادی, خیلی
+Huis ۱ چه اندازه, جه میزان how much
+۲. چه قیمتی, چند
+هر قدر... که. هر اندازه... که as much... as
+so much... (that) ASH)
+بیشترِ much of the night JS ETO
+۱ هر قدر (که) انقدر که. as much as
+۲. حداکثر ۳.(به) اندازه, فد
+تا as much as possible and Kan 4S bol
+تا آنجا که مقدور است, تا Jom ممکن. حتی‌الامکان, در
+2 امکان
+You could pay as much as £20 for that.
+You پوند اگر بدهی, می‌ارزد.
+He made a gesture as much as to say, "Help
+JP کرد me". RK RCO J SEC
+« کمکم کن».
+That's as much as saying I'm a liar.
+طوری حرف می‌زنی / رفتار می‌کنی (4S) انگار من
+دروغگوام. یعنی / می‌خواهی بگوبی من دروغ می‌گویم؟
+دوباره همان‌قدر, باز هم as much 28270 Xmen
+همان‌قدر دیگر
+دو برابر dsm) دو برابپرش twice as much
+cal ( چیزی)» نصفش half as much
+SO می‌کردم. حدس مي‌زدم.  I thought as much.
+می‌دانستم. :
+جندان / خیلی هم... نبودن not be much of a...
+جندان He's not much of a football player.
+فوتبالیستی هم نیست. خیلی هم فوتبالیست نیست.
+آن‌طور فوتبالیستی هم نیست.
+(محاوره) خیلی هم not be much of a one for sth
+عاشتي چیزی 0058 خیلی هم کشته و مردةٌ چیزی
+نبودن, خیلی هم Jol چیزی نبودن
+A 4 کسی چیپزی not think much of sth
+چندان چیزی هم نبودن, وَّقّعی به چیزی نگذاشتن,
+چیزی چشم کسی را نگرفتن
+A 4 من این don't think much of that film. 7
+فیلم Jl هم =| Ss چندان هم gt phd نیست.
+کسی را چندان ندیدن not see much of sb
+از کسی خبری نداشتن؛ hear much of sb 704 ۰
+از کسی حرفی (در میان) نبودن ی
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1082 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: with not; It is I was as much as sb can; much as; They visited many -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+We haven't seen much of you recently.
+پیدایت نیست. نمی‌بینیمت. خبری ازت نیست.
+not be up to much دردی نخوردن. چیزی هم 4
+نبودن, مالی هم نبودن
+They are (very) much of an age. تقریبا هم‌سن‌اند.
+همند. rp
+this / that much آن‌قدر, همین‌قدرء این‌قدر
+I'will say this much for him _ he never leaves a
+piece of work unfinished. همین‌قدر در
+تعریفش می‌توانم بگویم که هیچ وقت کارش را ناتمام
+نمی‌گذارد.
+make much of sb کسی را خیلی بزرگ کردن
+make much of sth  ,ندرک چیزی را خیلی بزرگ ۱
+Siz به چیزی خیلی بها دادن ۲. (در جملاتِ منفی)از
+زیادی نفهمیدن sex زیاد سر در نیاوردن, از چیزی
+so much of غالب, اکثر ei
+with not / without so much as — so’
+So much for his help! بفرمایید این هم از
+کمک کردنش!
+There isn't much to choose between them.
+There isn't much in it. چندان فرقی هم
+بینشان نیست. فرقی با هم ندارند. سر و ته یک کرباسند.
+too much NO زیادی, خیلی, بیش از
+be too much for sb — too
+much? /matf/ خیلی, زیاد. بسیار؛ چندان .۱ 0
+خیلی, حسابی؛ خوب ۳.(با صفت‌های تفضیلی و عالی) ۲
+J
+pretty much — pretty
+very much بسیار» خیلی
+Thank you very much! خیلی ممنون!
+however much هر چقدر (هم) که. هر قدر (هم) که
+how much چقدر
+not be much good at sth محاوره) در چیزی (
+خوب نبودن, خیلی از چیزی سر در نیاوردن
+He's not much good at English. محاوره) (
+انگلیسی‌اش خوب نیست. انگلیسی‌اش تعریفی ندارد.
+انگلیسی‌اش چنگی به دل نمی‌زند.
+as much همین کار؛ همین اندازه |
+1t is / was as much as sb can/ could do.... |
+حداکثر کاری که کسی می‌تواند / می‌توانست بکند این |
+iS / Cad
+much 25 / although با این‌که, اگُرچه. گرچه, هر چند |
+be (very) much the same Od همان‌طور |
+ON خیلی فرق |
+The patient is much the sane today.
+fi=see 1-sit z=cat o:=father D=gol o:~ sa
+e1= say تاه =go a1 = five av = ۷ ot =boy 12
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+03 much
+HEE VOR حال مریض امروز فرقی نکرده است. امروز حال
+: همان‌طوری است که بود.
+so much that aS a)
+| so much so that  هک‌نانج iS تا حدّی که. تا آنجا
+not so much sth as sth — آوو
+much to sb's surprise ey Jus در
+I can hardly bear to walk, much more/ less
+run. / راه به زحمت می‌روم» چه برسد به دویدن
+: دویدن که هیچ.
+: so much the better SA
+so much the worse چه بد. دیگر بدتر
+ْ That is much the best meal I've ever tasted.
+این غذا بهترین غذایی است که تاکنون خورده‌ام.
+much less چه برسد 4 (این‌که)
+| نكتةٌ کار بردی:
+| تنها با oof چه همراه با و۷۵۲ باشد چه بدون ۱6۵ LIS
+Hil منفی Ole هم در of اسامي غیرقابل‌شمارش
+به کار می‌رود:
+Did you get very much work done?
+How much money do you have?
+مغبت و با اسامی قابل‌شمارش از OMe در
+استفاده می‌کنند: many صورت‌های 101 8 و
+They visited many / a lot of countries.
+Were there many people there?
+Slax در Jab اغلب به همراه (very) much O50
+j سوْالی يا منفی به‌کار می‌رود.
+قرار des A هميشه در much Jin در حالتِ
+می‌گیرد:
+Do you go to London much?
+هم قبل از فعل می‌آید و هم much منفی» dbs
+اغلب در اخر جمله:
+I don't much like living in London.
+I don't like living in London much.
+اما غلط است اگر بگوییم:
+I don't like living much in London.
+too و much more (as much (so much عبارات
+به همراه افعال و اسامی غیرقابل‌شمارش در جملات 5
+’ مثبت به‌ کار می‌رود:
+I go to restaurants so much I'm tired of them.
+She smokes too much. ۱
+Try to relax as much as possible.
+We'll need much more money than that.
+Jul بعضی از oes به very much عبارت
+خصوص فعل‌هایی که معنی (دوست داشتن» می‌دهند.
+می‌تواند در جملاتِ مثبت نیز به‌کار رود:
+I love her very much. .
+v  U=cook ui=100 A=cup 3=bird o= about
+: near e3 = hair U9 = pure era = player aro = fire
+6= thin 6+ this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1083 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: muchness l'mAtfms; mucilage; mucilaginOUS; muck about; muckraking; drag sb; fling; muddle -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+muchness 11
+Thank you very much.
+very much Sle 5,6 قبل از فعل, به‌ویژه در
+انگلیسی بریتانیایی معمول است:
+Rhoda very much enjoys skiing. :
+اما غلط است اگر بگوییم:
+Rhoda enjoys very much skiing.
+صورتِ (very) much فقط قبل از more و too ۱
+می‌تواند با صفات به‌کار رود؛ یا در صورتی‌که صفت
+تفضیلی با ۰0۴ ساخته شده باشد. صورتِ مزبور نمی‌تواند به
+تنهایی به جای very پیش از صفات بیاید. پس درست
+است که بگوییم:
+This is much more / too difficult.
+همچنین درست است که بگوییم: )
+I am very sorry.
+اما غلط است اگر بگوییم:
+I am much sorry.
+I am sorry very much.
+بعضی Lodo به ed و 108 ختم می‌شوند و لذا در
+pl صورتِ فعلی دارن.. با این Jud صفات نیز از very
+به جای 3 استفاده می‌شود مگر Sol صفات مزبور
+همراه too more باشند. بنابراین در Was
+She was a much-loved colleague.
+از much استفاده می‌شود زیر loved فعل مجهول است.
+Gl در جملة: :
+The kids are getting very tired.
+از very استفاده:می‌شود چرا که tired صفت است.
+muchness /'mat/nis/
+7 (محاوره) Bd هم 35 be much of a muchness
+با هم فرقی (AHN عینِ هم بودن, شبیه هم بودن, سر و
+ته یک کرباس بودن
+7 (گیاه‌شناسی) لعاب mucilage /'mju:stids/
+adj ۱. (گیا‌شناسی)  :/ 5112031095 زد / mucilaginous
+لعاب‌دار ۲.(رسمی) J [gb] چسیناک
+ALBA ۶ پشکل؛ 035 پهن Muck /mak/
+۲۷(در Akay محاوره) کشافت, گند و که, اشغال
+pd کسی ,| drag sb's name through the muck
+به لج, کشیدن, pol کسی را لجن‌مال کردن
+common as muck —> common’
+( در 5 Mikey محاوره) به‌هم‌ريخته in a muck
+( در بریتائیاء محاوره) " make a muck of sth
+۱. چیزی را کثیف کردن, چیزی را به CIS کشیدن ۲.
+چیزی را خراب کردن, به چیزی گند زدن
+(محاوره) خیال She thinks she is Lady Muck.
+می‌کند A است.
+YE (در بریتانياء محاوره) muck 200۷1 around
+وٍل گشتن, JI J کردن ۲. مسخره‌بازی
+درآوردن
+با چیزی muck about / around with sth WR
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+با چیزی بازی کردن» چیزی را انگولک کردن؛ سر توی
+کاری کردن
+Wi (در بریتانیاء محاوره) با هم شریک 055« muck in
+با هم زندگی کردن؛ هم‌خرج بودن؛ با هم کار
+کردن
+wr [طویله و غیره ] تمیز کردن muck sth out
+7 (در بریتاتباء محاوره) ۱. کثیف کزدن» muck sthup
+گند زدن cap کثافت زدن به ۲. [کار, زندگی و غیره ]
+خراب کردن, گند زدن به
+7 (به طمند) muckraker /'makrerka(r) / (p21)
+رسوایی به پاکن, هوچی, 55 ۲.(آدم) شایعه‌ساز
+2 (به طعنه) ۱. رسوایی  muckraking /'makretkig/
+wo Sha جنجال به‌پا کردن, هوچیگری ۲.
+شایعه‌سازی, شایعه پراکنی
+72 (در بریتانیا, محاوره) گندکاری, MUCK-UP /'mak ap/
+خراب‌کاری
+به Soar گند make a muck-up of sth REE)
+چیزی را خراب کردن, به چیزی کنافت زدن
+/'mak1/ (comp muckier, super muckiest) ۲۵۷
+adj ۱.کثیف. چرک ۲ [هوا ] بد. مزخرف wi] Y داستان و
+غیره] کثیف» cms مبتذل
+ad) ۱.(پزشکی) مخاطی, MUCOUS /'mju:kas/
+بَلغمی ۲. لیزء ez J چسبنده, چسبناک
+sak مخاطی, غددٍ مترشحه mucous glands
+mucous membrane / mju:kss 'membremn/
+2 (کالیدشناسی) غشای مخاطی؛ مخاط
+8 ۱.(پزشکی) بَلغم. مخاط, MUCUS /'mju:kas/
+ترشحات ۲. مادة cs لعاب, لیزابه
+JS JS n و لای؛ گل و شلء گلابه  mud /mad/
+(as) clear as mud —» clear’ ۱
+drag sb / sb's name through the mud — drag’
+کسی را به لجن fling / sling / throw mud at sb
+کشیدن. آیروی کسی را 03 gd © کسی را لکه‌دار
+کردن
+نکبتی به آدم زود می‌چسبد. Mud sticks.
+sb’s name is mud —> name’
+plo n لجن. mudbath /'madba:6, (US) -bz8/
+JS plas
+۸ ۱.گل‌آلود muddiness /'madimis/ ods
+گلی بودن ۲. unl] رنگ و غیره] کدری؛ SSH] زبان ]
+آشفتگی, پریشانی, ابهام
+AN ۷ هم ریختن» به هم زدن /‘madl/ ۲۵۵۱۵
+۲ فکر ...را اشفته کردن, ذهن ... را مخشوش کردن,
+gS کردن؛ [افکار, ذهن ] اشفته کردن» به هم ریختن.
+مغشوش کردن ۳ با هم اشتباه گرفتن, با هم اشتباه
+کردن, با هم قاطي کردن
+n ۴ به‌هم‌ریختگی, آشفتگی 0 LY (57S
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1084 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: get in I into a muddle; muddled; muddle-headedness; muddlingi'mAdiiu; mud-flat; mudguard; mud hut; mudpack; mud-slinging; muesli; muezzin; muff; muffin; muffle; muffler; mufti; Mufti; mugful i'mAgfuI; mugger; mugginess; muggins; muggy; mug shot; Muhammad; Muhammadan; Muhammadanism; Muhammedan; mugwump -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+کسی / چیزی را muddle sb / sth (up) with
+با... اشتباه گرفتن, کسی / چیزی را با...عوضی گرفتن
+به‌هم‌ریخته بودن, اشفته بودن be in a muddle
+گیج شدن, دچار get in/ into a muddle
+سردرگمی شدن؛ [افکار ] آشفته شدن, به هم ریختن
+vi وقت‌کشی کردن. باری به muddle along
+هر جهت سر 03,5 بی‌هدف زندگی کردن
+Vi یک‌جوری جورش کردن. muddle through
+یک‌جوری ترتیبش را دادن» یک جوری کارها
+را راست و ریس کردن
+muddle sth / sb up = muddle vt
+adj اشفته, muddled /madid/  .مهري‌مهرد lis,
+مفشوش؛ [شخص ] گیج, منگ
+ad) ۱. [شخص ] 17 ۳۸۵۲ / ۲۵۵۱۵-62060
+Sanit پریشان, گیج, منگ؛ [افکار ] پریشان.
+مغشوش, درهم‌برهم؛ [ استدلال ] بسی‌سروته.
+به‌هم‌ريخته ۲. احمق, کودن
+muddle-headedness/ mad! hedidnis/
+ECHR n فکر, پریشانی, RPP VL منگی؛ افکار
+پریشان, ذهنِ مغشوش ۲.حماقت. نفهمی
+adj گیچ‌کننده / ۵ / muddling
+muddy /'madi/ (comp muddier, super
+SEN adj گل‌آلود؛ muddied) رام muddiest;
+[جاده] Jp و شل, پوشیده از گل, JS و شلی ند
+[آب. رود ]: JS الود؛ [آب. قهوه و [op کدرء 1333
+[رنگ ] کدر؛ [چهره ] بی‌روح» بی‌حالت؛ [چشم ] مات.
+بی‌حالت؛ [افکار ] درهم‌برهم. Azad] مغشوش
+Sr wm کردن؛ گل‌الود کردن
+(مجازی) آب را گل‌آلود کردن ۰ muddy the waters
+mud-flat mad 4 wg dS Lb JS n
+۸ (اتومبیل) گل‌گیر mudguard / madga:d/
+mud hut /mad hat/ SSA nm
+Sula n (صورت) mudpack /'madpzk/
+a) 7 طعنه) لجن پراکنی / mud-slinging /'mad sig
+J YO برشتوکت اجیلی muesli /'mju:zii/
+MUezzin /mu'ezin, (US) mju-/ 5803) (350 2
+1 خز دست., دست‌پوش خز muff’ /maf/
+۷ ۱.(محاوره) [توپ و غیره ] کسی muff2 /maf/
+نتوانستن که... را بگیرد. [co 3] od از Cwwd
+دادی
+۲.(محاوره) خراب کردن, mle کردن. افتضاح کزدن
+خراب کردن, ضایع کردن. muff it 8,5 clas!
+7 ۱.(در بریتانیا) (ub) cao GIS کماج muffin /'mafin/
+۲ در SOS فنجانی
+۷ ۱. پوشاندن» پیچیدن ۲۷1۱6
+ii=sce 1=sit @=cat G=father D=got 0 4
+=go a1 = five av = now 21 =boy 19 ناه el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 Muhammedan
+[زنگ: موتوز و غیره ] ضدای ...زا گرفتن, صدای ...را +۲
+[opts خفه کردن ۳ [خشم [ls] خفه کردن؛
+کم [sb] فرونشاندن, کاستن از, تخفیف دادن؛
+
+کردن. کاهش دادن
+پوشاندن, پیچیدن muffle up
+[lus] adj خفهء گرفته muffled /'mafid/
+muffler /'mafla(r)/ 03,5 (eg) ۱
+دستمال‌گردن ۲.(در آمریکا. اتومبیل) ge اگزوز
+1 [سرباز, افسر و غیره] mufti /'mafu/ ass oH
+PU معمولی
+n (مذهب) مفتی Mufti /'mafu/
+2 ۱.لیوان (دسته‌دار) mug’ /mag/ ol sd Y
+آبجوخوری ۳ (عامیانه) سر و صورت. پک و پوزء قیافه
+7 (در بریتانیا, عامیانه) ادم سادی mug? /mag/ lle
+ag خرء الاغ, خنگ
+(به طعنه) Colas محض, عین > game CJ 1۳8/5 2
+mug? /mag/ (prp mugging, pt,pp mugged)
+2 )50 بریتانیا, محاوره) [ درس و غیره ] mug sth up
+سریع OL مروری کردن. نگاهی انداختن به
+mug up on sth = mug sth up
+mug* /mag/ ( prp mugging, pz,pp mugged)
+۷ (محاوره) [شخص ] حمله کردن به, cid کردن
+7 (مقدار) لیوان / انعم / mugful
+دزد مهاجم؛ کیف‌زن؛ جیب‌بر /maga(t)/ ۲۷9۹96۲
+n [هوا] (S353 دَم‌دار 1 ۳۷991655
+پودن» گرم و خفه بودن, شرجی بودن
+لخت کردن, دزدی؛ کیف‌زنی؛ mugging /'magry/
+جیب‌بری
+iy, 50) 7 محاوره, به شوخی) muggins /'maginz/
+احمق, خرء هالو. bs Sos
+muggy /'magi/ (comp muggier, super muggiest)
+[هوا] گرم و خفه. 13p3 103 5p5 شرجی؛ [اتاق ]
+خفه. که دم دارد
+7 (عامیانه) عکس مجرم. mug shot /'mag fot/
+Se جانی
+11 )53 آمریکا, سیاسی) 3 3 MUGWUMP /'magwamp/
+مستقل, فرد تکرو
+7 (مذهب) محمّد Muhammad /mohamid/ (je)
+Lo jae محمّد (ص)
+adj (مربوط به)  Muhammadan /mshemiden/
+محمّد (ص)» محمّدی ۲. مسلمان, اسلامی
+: ¥ مسلمان
+Muhammadanism /mohemidanizom / hel n
+دین Stowe
+Muhammedan /mohzmidon/ = Muhammadan
+
+w  u=cook 1:=100 A=cup 3:=bird o= aboul
+
+= near €2 = hair Ud = pure eo = player a1 = fire
+
+6= thin d= this {= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1085 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Muhammedanism; mujaheddin; mujahedin; mulatto; mulberry; mule; muleteer; mulish; mulishness; mull; mullah; mulled lmAld; mullet; mulligatawny; mullion; mullioned; multicolored; multicoloured; multicultural; multiculturalism; multifamily; multifarious; multiform; multilateral; multilateralism; multilingual; multimillionaire; multinational; multiple; the least; multiple-choice; multiple sclerosis; multiple store; multiplex; multiplication; the multiplication sign; multiplication table; multiplicity; multiply -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+Muhammedanism 11
+Muhammedanism /mohemidonizom /
+Muhammadanism =
+mujaheddin / mu:dsehodi:n/ = mujahedin
+npl مجاهدین mujahedin /mu:dsshadi:n/
+mulatto /mju:lztes, (US) mal-/ ( p/ mulattos,
+Vw 8,5 (Lams) n و سفید mulattoes)
+1 ۱.اتوت؛ mulberry /'malbr, (US) 'malber1/
+درختِ توت ۲. Sao tO gla شاه‌توت ۳ توت
+سیاه؛ درختِ توت سیاه :
+A 2 (کشاورزی. برای حفظ ریشة mulch /maltf/ WAS
+نگهداري cub, خاک و غیره) پوشال, کاه, برگ؛ پهن؛
+نایلون» پلاستیک : ۱
+wr ۲.(با کا پوشال و غیره) [درخت. بوته ] پای ...را پوشاندن
+2 قاطر, استر ۲.(مجازی, محاوره) mule’ /mju:l/
+آدم BRAS, آدم لجباز
+(as) obstinate / stubborn as a mule
+خیلی کلّه‌شق, خیلی یکدنده, کله‌خر, بی‌مُخ. Jn قاطر
+pled سرپایی mule? /mju:l/
+n (کهنه) قاطرچی / muleteer / mju:la'tia(r)
+adj یکدنده, لجبازن لجوج, کلّه‌شق, / ارس / mulish
+مثل قاطر؛ [نگاه] حاکی از لجبازی. حاکی از
+یکدندگی
+0 با لجبازی, با کلّه‌شقی, mulishly /‘mjutifli/
+با یکدندگی, مثل قاطر
+n کله‌شقی. یکدندگی, mulishness /'mju:lifnis/
+لجبازی, لجاجت
+۷4 [شراب, آبجو و غیره ] گرم و شیرین و MUll' /mal/
+ادویه‌دار کردن
+1 (در اسکاتلند) سنگ پوز mull? /mat/
+/mal/ ۲۱۱3
+۷ فکر کردن راجع mull sth over ay
+خوب سبک و سنگین کردن. خوب بررسی
+کردن, حلاًجی کردن
+راجع به چیزی mull sth over in one's mind
+فکر کردن, اطرافی و Slo چیزی را سنجیدن
+mullah /'mals/ Ha nn
+adj [شراب, آبجو ] داغ و آدویه‌دار mulled /mald/
+a ۱. ماهی p/ mullet) Jus ( / الم / mullet
+۲ شاه‌ماهی ’
+سوپ کاری / mulligatawny /maligato:nt
+7 (معمازی) وادار mullion /'masan/
+adj (معماری) [پنجره ] واداردار  mullioned /malrond/
+multicolored / maltrkalod / (US) :
+multicoloured =
+4 چندرنگ, چندرنگه / multicoloured / maltrkalsd
+multicultural /maltkaltforsl/  .یگنهرفدنچ adj
+چندفرهنگه
+
+<!-- REGION: RIGHT COLUMN -->
+
+6)
+multiculturalism /malukaltforalizam / sow 7
+فرهنگ‌ها؛ دید چندفرهنگی
+ad) چندخانوار, / تامص الم / multifamily
+چندخانواره |
+adj (رسمی) گوناگون, | multifarious /maltfeorias
+متتوح. رنگارنگ
+adj جندشکل, چندشکله /malufs:m/ ۳۵۱1۵۲۲۲۱
+adj جندجانبه / multilateral / maltrlztoral |
+# سیاست  “multilateralism / maltlztorshizom/
+خلع سلاح چندجانبه |
+ad) جندزبانه. چندزبانی / multilingual / maltrlggwal
+adj جندرسانه‌ای multimedia / maltrmi:dra/
+multimillionaire / maltumiljonea(r) /
+4 مولتی‌میلیونر» میلیاردر
+Nad) چندملیتی / ۳۳۸۱۵۵۵/۶۵ / multinational
+a شرکتِ چندملیتی
+۱. چندجانبه؛ چندتایی؛ / ارام / multiple
+چندنفری XY متعدّد. زیادء چندین > multiple injuries >
+7 ۳.(ریاضی) FO aa (در بریتانیا) فروشگاه زنجیره‌ای
+مُضرب مشترک a common multiple
+the least / lowest common multiple
+کوچکترین مضرب مشترک. کمم
+woos] adj سوال multiple-choice /maltipl ‘tfors/  .]
+چندجوابی؛ چهارجوابی
+multiple sclerosis / maltipl skla'rousts /
+8 (پزشکی) od pl
+2 (در بریتانیا) muitiple store /maltipl ‘sto:(r)/
+فروشگاء زنجیره‌ای
+۱. چندگانه؛ / multiplex /'maltipteks
+[چشم بال و غیره] C85 ۲. [تلگراف. تلفن, سیستم ]
+مولتی پلکس ۳ سینمای چندسالنه
+»7 ۱.(ریاضی) ضرب multiplication /maltiplrkerfn/
+۷ (زیست‌شناسی) تکتیر؛ تولید مثل, زاد و ولد ۳.
+ازدیاد. افزایش
+culls ضرب the multiplication sign/symbol
+multiplication table / maltpirker fn terbl/
+n جدول ضرب
+slaw An زیادء جندین multiplicity /maltrplisatr/
+de ۲ کثرت. فراوانی؛ تکتّر ۳ چندگانگی, E35
+گوناگونی
+multiply /'maltplar/ ( ppp multiplied)
+7 ۱.(ریاضی) ضرب کردن؛ در هم ضرب کردن ۲.
+افزایش دادن, زیاد کردن ۳ (زیست‌شناسی) ASS
+کردن
+۴. افزایش یافتن, زیاد شدن, ازدیاد یافتن ۵.
+(زیست‌شناسی) تکثیر شدن؛ تولیدومثل کردن» زاد و
+ولد کردن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1086 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: multi storey; multitudinous; mummify; mumps; munch; munch at; mundane; municipality; munificent; munificently; murder -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+adj جندمنظوره» / multipurpose / maltrps:pas
+جچندکاره
+wali adj چندنژادی ۰ multiracial /maltrrerfl/
+adj جندطبقه, جنداشکوبه multistorey /malu'storrt/
+multistoreyed / maltr'sto:nid / = multistorey
+N (omy) 2 تعداد multitude /maltitju:d, (US) -twd/
+زیادی, تعدادٍ کثیری, bast چندین ¥ Cima
+X'S) ادم‌های زیادی, افراد slaps Yoo
+معمولی. عوام‌الناس., عامة hss (da مردم
+عادی, جماعت. تودة مردم. egal خلق
+روی خیلی cover / hide a multitude of sins
+چیزها ماله کشیدن, خیلی چیزها را رفع و رجوع WS
+روی خیلی چیزها سرپوش گذاشتن, عیب‌های زیادی را
+پوشاندن
+multitudinous / maltrtju:dinas, (US) -'tu:dinas /
+adj (رسمی) بسیار زیاد. انبوه» فراوان» کثیر, بی‌شمار
+ad) (در is, محاوره) ساکت mum’ /mam/
+( محاوره) ساکت ماندن, هیچ چیز نگفتن.  keep mum
+دم نزدن؛ چیزی بروز ندادن
+هیس! ساکت! حرف نزن! Keep mum!
+( محاوره) پیش خودمان باشد. mum's the word
+از من نشنیده بگیر؛ شتر دیدی ندیدی
+# (تحاوره) ole ننه mum? /mam/
+4 ۱. زیر لبی حرف زدن؛ mumble /'mambl/
+من ون کردن
+۷ ۲ زیر لب گفتن؛ با mal گفتن
+1 ۳. صدای نامفهوم؛ حرف‌های نامفهوم؛ مکالمة
+نامفهوم
+صداهای نامفهوم, a mumble of voices ged
+زیر لب گفتن. به طور نامفهومی  say in a mumble
+گفتن
+چیزی را زیر لبی گفتن mumble about sth
+aston که هميشه زیر mumbler /'mambla(r)/
+لب حرف می‌زند
+1 (به (ab اراجیف. mumblings /'mambligz/
+مزخرفات. 55955
+2 (محاوره)  mumbo-jumbo / mambas 'dsambas/
+=z 2 Zz, Z.
+۱ مراسم پردنگ وفنگ. مراسم پرالنگ و دولنگ
+۲. حرف‌های قلمبه‌سلمبه ۳ (چیز) قلمبه‌سلمبه.
+ی ۳
+1 )8 5( میم بازی mummer /'mama(r)/
+A,
+پانتومیمء بازیگرِ لال‌بازی
+۱. (کهنه. تکاتر) پانتومیم؛ / ۵ / mummery
+لال‌بازی ۲. (مذهب, به‌سخره) مراسم پرزرق وبرق,
+نمایش
+ii=see  I=sit z=cat a=father Db=got 9:=s:
+ar = five av = now a1 =boy 13 0 - ناه el = say
+aus = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+)7 murder
+mummification / mamifikerfn/ مومیایی ۸
+mummify /'mamifar/ مر اص) mummified)
+
+vt مومیایی کردن, حنوط کردن
+mumming /'mamiy/s5LJY (ra 5h (Fs ws) n
+dm 7 مومیایی‌شده» مومیایی mummy’! /mamr/
+(aya) 12 مامان mummy 2 /'mamr/
+n (پزشکی) آُریون» گوشک mumps /mamps/
+/ حسابی جویدن؛ با سروصدا munch /mantf/
+جویدن چیزی را با سروصدا خوردن
+Vi چیزی Ll سروصدا جویدن, munch at / on sth
+چیزی را با سروصدا خوردن
+adj ۱. دنیوی, مادّی. این‌جهانی mundane /mandemn/
+۲ [کتاب. فیلم و غیره] معمولی, مبتذل, پیش‌پاافتاده؛
+[زندگی ] بی‌هیجان, عادی, که در آن هیچ GU!
+خاصی AB) a
+adj ( مربوط 4( municipal /mju:nsipl / es
+شهری؛ (مربوط 4( شهرداری
+municipality /mju:nisipzlott/  ؛رهش .۱ (am) 7
+شهرستان ۲. شهرداری
+n (رسمی) کرم» بخشش, munificence /mju'nifisns/
+سخاوت. جود. گشاده‌دستی
+adj (رسمی) iw SS سخاو تمند. / munificent /mjunifisnt
+SISTERS گشاده‌دست؛ [هدیه وغیره ] FAW تمندانه
+0 (رسمی) با / munificently /mju:nifisntls
+گشاده‌دستی. سخاوتمندانه. به سخاوتمندی
+mpl (حقوق) اسناد / muniments /'mju:nimants
+۸ ۱. تجهیز کردن. دنز / munition
+مهمات رساندن به
+0 .(مربوط 4( مهمات‌سازی, (مربوط به) مهمات
+1 ۱.(نظامی) مُهمّات. munitions /mju:nifnz/
+اسلحه و مهمّات. تسلیحات؛ تجهیزات ۲.(صفت‌گونه)
+[ مربوظ به) SL
+۶۸ ۱.نقاشی دیواری, دیوارنگاره  mural /mjsaral/
+۲. [هنر, تزیینات ] دیواری
+Nn قتل, کشتن. آدم‌کشی؛ murder /'ma:da(r)/ J
+عمد Yo pbs (fio) قتل‌عام» sells
+خونریزی» sas ۴. (مجازی, محاوره) مصیبت.,
+بدبختی, عذاب
+it's murder trying to find a parking piace for the car. > <
+4 0 [شخص ] کشتن, به قتل رساندن ۶. (محاوره) Whi]
+موسیقی, زبان وغیره ] خراب کردن, گند زدن به. ضایع کردن
+CSS mY vi قتل pol OM کشتن
+(محاوره) کسی هر کاری ۰ get away with murder
+دلش خواستن کردن, کسی هر غلطی دلش خواستن کردن
+خونٍ ناحق پنهان نمی‌ماند. Murder will out. (prov)
+
+w م00 00100 A=cup خن 300 a= about
+
+= near €2 = hair U9 = pure elo = player  a1o = fire
+
+0= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1087 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: murderer; murderess; murderous; murderously; murk; murkiness; murmur; murmurous; murrain; murphy; muscat; muscatel; muscle; muscly; Muscovite; Muscovy; muscular; muscular dystrophy; musculature; museum; museum piece -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+murderer 11
+scream / cry blue murder; shout bloody
+( محاوره) داد و بیداد راه انداختن. murder
+جار و جنجال به پا کردن, داد.و فریاد کردن
+[کار, سر و صدا و غیره ] وحشتناک بودن. be murder
+BEY آدم را درآوردن؛ ol آدم را A اس رساندن. کشنده
+بودن
+( برای (Sox خیلی بد 35 be murder (on sth)
+(برای چیزی) fe بودن
+۸ قاتل, ادمکش, جانی / murderer /'ma:dara(r)
+قاتل (زن)» زن قاتل 41 murderess
+Nad) [شخص ] جانی,. / murderous /'ma:doros
+ادمکش؛ [LX] بی‌رحجم. خشن؛ [حمله. عمل]
+بی‌رحمانه. مرگبار؛ [نفرت, خشم] که بوی Os
+می‌دهد؛ [جاده ] مرگبار ۲. (محاوره) [هوا, گرما و [ont
+Slr GES]
+تمایل به قتل a murderous tendency
+کسی که a murderous-looking individual
+می‌تواند / بهش al gu آدم بکشد
+چاقویی که با آن a murderous-looking knife
+می‌توان مرتکپ قتل شد
+LY 0 قصد قتل, / murderously /'ms:daraslt
+2
+با قصد ras به قصد کشت ۲. به طور کشنده‌ای,
+به طرز طاقت‌فرسایی, بسیار سخت
+n تاریکی, ظلمت؛ murk /mak/  یگتفرگ Sw
+( هوا)؛ آبرهای تیره
+7 ۱. تاریکی )150( ظلمت؛ murkiness /'makins/
+گرفتگی, تيرگي هوا؛ هوای (SLU هوای تیره؛
+نورٍ کم ۲ سنگيني هوا؛ هوای ستگین Cat SY
+wo 02 تاری آب؛ Rig Lb ol
+murky /'ma:ki/ (comp murkier, super murkiest)
+da] 4 شب و غیره ] تاریک» تیره؛ گرفته؛ [نور] کم؛
+[تاریکی ] شدید ۲. [هوا] سنگین؛ [یه] غلیظ ۳ [آب ]
+AS ol کثیف؛ گل‌الود ۴ (مجازی) [رفتار, اعمال ]
+مشکوک. بودار
+72 ۱. همهمه؛ [دریا, باد و غیره ] murmur /'ma:ma(r)/
+صداء زمزمه؛ [زنبور] وٍزوزه [آب ] شرشر؛ [ترافیک ]
+صدا ۲ Hata (slaw) نجوا ۳ [شادی. cilia و
+[ot زمزمه؛ deja) اعتراض ¥ (Sam) [قلب ]
+سوفل
+Lp] .۵ 4 باد و غیره] صدا کردن» زمزمه کردن,
+صدای ... به وی رسیدن, زمزمة...به کوش
+رسیدن ۶. زیر لب چیزهایی گفتن؛ fates] کردن ۷.
+شکایت داشتن. معتر ض بودن
+vt ۸ زیر لب گفتن. اهسته گفتن, نجوا کردن» زمزمه کردن
+بدونِ هیچ شکایتی, بدون without a murmur
+هیچ غرولندی, بی هیچ اعتراضی
+AN ad) [باغ, فضا و غیره ] پر /'ms:moras/ ۲۱۷۲۲۱۷۲۵۱۹
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+از صداء پر از زمزمه. مترئم از ۲. [صدا] نجواگونه
+n (عامیانه) murphy /'ms:fi/ ( p/ murphies)
+سیب زمینی
+a ۱.گاومرگی ۲.(کهند) طاعون  /۸۲:۵/ murrain
+مرده شورت را ببرند! A murrain on you!
+خدا بکشدت!
+#ر انگور موسکا muscat /'maskzt/
+Nn شراب موسکا muscatel / maska'tel/
+CORE,
+#ر ۱ عضله, ماهیچه muscle /masl/  )دنوگ‌تنص( Y
+عضلانی ۳.قدرت (جسمانی)» نیروء 035 زور
+بازو ۴. قدرت. توان < political muscle >
+تکان نخور! جنب نخور!  Don't move a muscle!
+flex one's muscles —> flex?
+Wi (محاوره به طعنه) با قلدری سهم خحود muscle in
+را خواستن, با زور خود را شریک دانستن؛ با
+قلدری خود را تحمیل کردن؛ به زور خود را
+داخل ERY
+7 [بدن, اندام ] muscle-bound /'masl basnd/
+«sha ورزیده
+muscleman /'maslmzn/ ( p/ musclemen)
+7 آدم قوی‌هیکل. آدم گردن‌کلفت
+adi [بدن, اندام ] عضلانی, ورزیده؛ /ا۳۳۸۵/ muscly
+[pani] قوی‌هیکل. عضلانی
+71 (شخص) ۱. روسی دا / Muscovite
+۲. اهلِ مسکو, مسکویی
+1 (کهنه) روسیه maskavi/ ۱۳۱۳۹۹۷۱۷
+N 77 [بیماری. بافت و غیره ] / muscular /maskjula(r)
+عضلانی, ( مربوط به) عضلات. ( مربوط به)
+dae [تلاش ] بدنی ۲. [بدن, اندام] (has
+ورزیده؛ [شخص ] قوی‌هیکل,. عضلانی
+muscular dystrophy /maskjulo ‘distraft/
+n (پزشکی) تحلیل عضلانی
+pal 7 اندام, شخص ] / muscularity / maskju'laratr
+ورزیدگی, عضلانی بودن
+7 دستگاه عضلات. musculature /maskjslatfs(r)/
+سیستم عضلات. ساختِ عضلانی
+7 ۱. (اساطیر یونان و روم, در جمع. muse’ /mju:z/
+با حرف بزرگ) الاهگان «in موزها ۲.(مجازی)
+خلاقیتِ شعری, قريحةٌ شاعری؛ Cadi هنری
+vi ۱. در فکر فرورفتن, muse? /mju:z/
+GE فکر شدن
+LY wr خود گفتن (که)» با خود فکر کردن (که)
+muse about / on / over / upon sth
+غرق در چیزی شدن, در SE چیزی فرورفتن
+Nl موزه museum /mju:'ziom/
+. چیز موزه‌ای, museum piece /mju:ziam piss/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1088 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mushroom; mushroom cloud; mushroom growth; mushy; music; put; musical; musical box; musical chairs; musical comedy; musical instrument; musicality; musically; music box; music centre; music hall; rnusrcian; musicianship; musicological; musicologist; musicology; music-stand; music-stool; musk; musk-deer; musket; musketeer; musketry; musk-melon; muskrat; musk-rose; musky; Muslim; muslin i'mAzlm; musquash -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+چیز قدیمی؛ ساختمان قدیمی ۲.(به شوخی, به طعنه)
+چیز (Su) عتیقّه؟ ادم Sal
+7 ۱.(به شوخی) خمیر, شفته //۸ ۲۳۷۹۱
+The vegetables had been boiled to a mush. > < ۲. (در
+آمریکا) D336 a ¥ (محاوره, به طعنه) احساساتي
+ایْکنی: اه و تال اسوز و گدازه نوشن (SU pm
+حرف‌های پرسوز و گداز
+7 قارچ 7 mushroom /'ma from,
+Wi ۲. قارچ جمع کردن ۳ [شهر و غیره] go Ja سبز
+a یک‌شبه رشد کردن ۴. [دود و غیره] به FSS
+قارچ درامدن, به JS قارچ پخش pad به JE
+قارچ بال" رفتن
+قارچ جمع ادن go mushrooming
+جیزی یک‌شبه bag به...شدن mushroom sth into
+mushroom cloud /'ma from klavd, ‘ma fru:m/
+pln اتمی. قارچ اتمی
+mushroom growth /'mafrsm grav8, ‘ma fru:m/
+1 رشلٍ سریع, رشدٍ ناگهانی
+adj ۱. [غذا و غیره] خمیری, خمیر mushy /'maf1/
+۲ (محاوره به طعنه) [فیلم و کتاب ] آبکی» پرسوز و NE
+سوزناک
+4 ۱. موسیقی, موزیک ۲.نت‌ها؛  MUSIC /mjuzik/
+کتابچه‌های نت ۲ آهنگ, قطعه (موسیقی)» اثر؛
+نغمه۴. آثار (موسیقی)
+face the music — face?
+دل کسی را شاد کردن, be music to one's ears
+oS Js 5 a3 آب کرقاق
+[شعر ] روی... موسیقی put / set sth to music
+گذاشتن, برای ... آهنگ ساختن
+نت خواندن, نت‌خوانی کردن read music
+adj ۱.(مربوط 4( موسیقی. / musical /'mju:zikl
+موسیقایی ۲. Jal موسیقی. دوستدار stn gs
+موسیقی‌دوست ۳ [صدا] خوش آهنگ», گوش‌نواز.
+دلنشین, آهنگین, خوش ۴.موزیکال, همراه با ساز
+و اواز
+۸ ۵. فیلم موزیکال, کمدی موزیکال؛ نمایشی موزیکال
+dure ۸ موسیقیی ۰ musical box /'mju:zikl boks/
+جعبه‌ای که آهنگ می‌زند
+۱. صندلی‌بازی musical chairs /mju:zikl tfesz/
+ْ ۲ (مجازی) مسابقه برای کسب Cod و lie رقابت
+| برای اشغال Jase رقابت. 5h قدرت
+musical comedy /mjuziki komodi/ Ain
+موزیکال, کمدي موزیکال؛ نمایش موزیکال
+| / تاد musical instrument /,mju:zik!
+BY آلتِ موسیقی
+=father 05 80 sa هه 1=sit معا
+a= five ay = now o1 =boy 12 0 - تاه el = say
+ava = hour j=yes w= wel tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+)9 musquash
+| musicality / mju:zikzlatr / جوهر موسیقایی. ۸
+| موزیکالیته
+| musically /'mjuzikii/ .در موسیقی؛ از موسیقی؛ adj
+ یلیخ موسیقی ۲. خیلی آهنگین, BL به
+ ,ینیشنلد Saal گوش‌نواز» خیلی خوش آهنگ, با
+| به نحو خوش‌آهنگی
+music box /'mju:zik boks/ آمریکا) جعبةٌ 53) 7
+که آهنگ امی‌زند (glaan «Fin pa
+music centre /'mju:zik senta(r)/ رادیوپخش n
+music hall /'mju:zik ha:l/ (در بریتانیا) ۱. تماشاخانه 7
+(a0 در تماشاخانه) برنامه ۳.(صفت‌گونه) (مربوط ۲
+تماشاخانه‌ها
+musician /mju'zifn/  ربهر نوازنده» موزیسین؛ 7
+(ارکستر )؛ آهنگساز, مصنّف؛ موسیقیدان, ردیف‌دان
+musicianship /mju'zi/nfip/ (در اجرای موسیقی و 2
+رهبري ارکستر) مهارت, استادی, هنرمندی
+musicological/mju:zikalodsikl /  )هب (مربوط adj
+(مربوط به) موزیکولوژی. elit nn 5a
+موسیقی‌شناختی
+musicologist /mju:zikladsist/ موسیقی‌شناس, 1
+موزیکولوگ
+musicology /mjuzrknladsi/  .یسانش‌یقیسوم ۸
+موزیکولوژی
+music-stand /mjuzik stend/ (موسیقی) پو پیش 2
+سه‌پایه
+music-stool /'mju:zik stu:l/ صندلی ( پیانو) n
+musk /mask/ SAY
+musk-deer /'mask dia(r)/ آهوی ختن
+musket /'maskit/ (نظامی) شمخال 7
+musketeer / maskr'us(r) / : (نظامی) شمخالچی 7
+تفنگچی
+musketry /'maskitri / (کهنه) ۱. تیراندازی 7
+(با تفنگ) ۲. تفنگ‌ها
+musk-melon /'mask melan/ طالبی Bt op > Nn
+muskrat /'maskrzt/ 0 موش Nt
+musk-rose /'mask rosz/ نسترن شیراز n
+musky/ 'mask1/ (comp muskier, super muskiest)
+مثل مُشک؛ [عطر](مربوط 4( مُشک. مٌُشک‌بو. 4
+مُشک‌مانند
+Muslim /'muziim, (US) ‘maziom/ Seles A 7
+مسلمان ۳ ( مربوط به) مسلمانان؛ اسلامی . adj
+۲۳۷۵۱۱۵/۳۸ / Jae (پارچهٌ) موسلین, 7
+_ موصلی
+musquash /'maskwof/  ِتسوپ .۲ ol موش .۱
+موش ابي
+۷ u=cook ۷:۶ ۱۵0  A=cup 3: = bird a= about
+= near €2= hair U3 = pure era = player aia = fire
+6= thin 4 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1089 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mustachio; mustard gas -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+muss 11
+(در آمریکا محاوره) [مو و غیره] به هم MUSS /mas/
+ریختن؛ [لباس ] چروک کردن
+Muss sth Up = muss
+1 صدفي سیاه mussel /'masl/
+any . بایدء بایستیء می‌بایستی؛ must? /most, mast/
+لازم است ۲. لاید, حتماً, بدون شک؛ احتمالً
+۸ ۳ (محاوره) چیز واجب» sear ضروری؛ کار واجب؛
+یکی از واجبات
+ass کار بردی:
+هر دو فعل 4 و have to برای olay حال به‌کار
+می‌روند و هر دو در این معنی‌اند که تحقق چیزی ضروری
+است. فعل must را زمانی به‌کار We که بخواهند
+ss انجام کاری را صادر کنند یا بگویند که Jil انجام
+SL oF کشتی i ils
+You must be home by 11 o'clock.
+You must be careful crossing the road.
+I must wash the car tomorrow.
+فعل have to را زمانی به‌کار می‌برند که بخواهند
+بگویند Dm یک موقعیت, انجام کاری را ضروری
+می‌کند. یا کسی به غیر از گوینده دستور انجام آن را صادر
+می‌کند: ۰
+I have to collect the children from school at 3
+o'clock.
+You have to pay for the tickets in advance.
+Nurses have to wear a uniform.
+فعل must صورت گذشته و آینده ندارد. برای ols
+گذشته از had to و has had to استفاده می‌کنند و برای
+زمان آینده از .will have to
+برای Shox gS Jim حاوی to ۳۵۷6 از Job
+کمکی 40 بهره a 8 16 ’
+I had to wait half an hour for a bus. ’
+We'll have to borrow the money we need.
+Do the children have to wear a uniform?
+در جملات منفی, هر دو صورتِ must not و don't
+have to به‌کار می‌رود؛ همچنین از افعال don't ais
+need not need to نیز در همین معنی استفاده می‌شود.
+Jod منفي must not را هنگامی به کار می‌برند که انجام
+کاری را از کسی بخواهند یا انتظار انجام آن کار زا از او
+داشته باشند: i
+Passengers must not smoke until the signs have
+been switched off.
+از صورتِ کوتاه‌شدٌ mustn't بیشتر در انگلیسی
+بریتانیایی استفاده می‌شود: ’
+You mustn't leave the gate open.
+افعال منفی don't need to .don't have to یا need
+not ,| هنگامی به کار می‌برند که بخواهند بگویند انجام
+کاری ضرورت ندارد: .
+You don't have to pay for the tickets in advance.
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+She doesn't have to / doesn't need to work at
+weekends.
+صورت کوتاه‌شدٌ needn't نیز به‌ویژه در انگلیسی
+بریتانیایی زیاد به‌ کار می‌رود. :
+از فعل must not همچنین در pel اجازه گرفتن يا اجازه
+دادن استفاده S$) aS sa نکتهٌ کاربردي ذیل ای
+بر آب اانگور must? /mast/
+mustache /'mastz// (US) = moustache 8 .
+mustachio /ma'sta: fra, (US) -staf-/
+re anes 2 Joe n درویشی» (pl mustachios)
+سبیل استالینی
+1 اسب وحشی / ۲۱۹13۱91
+بر گرا آشپزی) خردل mustard /'mastad/
+(So) خردلی
+be (as) keen as mustard — keen’
+n 58 خردل mustard gas /'mastad ges/
+mustard plaster; mastad pla:sta(r), (US) plmsta(e)/
+1 (پزشکی) مشمّع خردل, ضماد خردل
+۸ پودر / mustard powder / mastad pavda(r)
+خردل
+۸ .اجتماع, جمع شدن, گرد muster /masta(r)/
+آمدن؛ (نظامی) صف بستن ۲. (نظامی) بازدید؛ سان ۳.
+(نظامی) Bs حضور و DLE صورتِ اسامي افراد
+۴ [اشخاص ] اجتماع, گردهم‌آيي؛ ال رس
+ال ۵. [اشخاص ] جمع کردن. گرد آامدن؛ (نظامی) به صف
+کردن ۶. (نظامی) بازدید کردن از؛ ple دیدن از ۷.
+J] افراد] جمع کردن, جمع‌اوری کردن ۸.
+[شجاعت. قدرت و غیره ] پیدا کردن, در خود ایجاد
+کردن» به دست آوردن, کسب کردن؛ [کمک, همدردی ]
+جلب کردن
+.٩ vi [اشخاص ] جمع 158 گرد Foal اجتماع کردن؛
+(نظامی) صف بستن, به صف شدن
+( نظامی) دفتر حضور و غیاب. صورتِ muster roll
+اسامی افراد
+pass ® 1 ج pass muster
+[شجاعت. قدرت و غیره ] پیدا کردن. muster up
+در خود ایجاد کردن, به‌دست آوردن, کسب کردن؛
+(SST همدردی ] جلب کردن
+بوی کیک؛ 65m کیک؛ mustiness /'mastinis/
+بوی نا
+mustn't /'masnt/ neg ot must’
+musty /'masti/ (comp mustier, super mustiest)
+ad) [بو. مزه] (مربوط به) SS (مربوط به)
+کیک زدگی؛ [شراب و غیره] AS بوی / مزةٌ کپی
+FAS, [اتاق و یره ] co iy انا گتررفتة Foal sn
+( مجازی, محاوره) [افکار, روش‌ها ] Asan 93 Ags 60 منسوخ.
+قدیمی, (مربوط به) هزارسال پیش, Jb عهد بوق
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1090 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mutate; mutation; mutatis mutandis; mute; mute button; muted; muteneSS; mutilate; mutineer; mutinous; mutinously; mutter; mutterer -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+grow musty ASU sy 1003 SS
+smell musty ol دادن یی انا KS بوی
+
+7 تغییرپذیری. / اند دایز / mutability
+قابلیتِ تغییر؛ ناپایداری» SW
+Af (رسمی) تغییر پذیر. mutable /'mju:tebl/
+EI AUN SY
+2 ۱.(زیست‌شناسی) موجود mutant /'mju:tont/
+جهش aly ۲. (محاوره) موجودٍ عجیب‌الخلقه
+ad) ¥ (زیست‌شناسی ) جهش یافته
+VN Vi (زیست‌شناسی) ۰ mutate /mjutert, (US) mjuitert/
+تغییر شکل یافتن. جهش یافتن
+7 ۲. (زیست‌شناسی) تغییر J دادن. cel جهش
+در... شدن
+تبدیل شدن به mutate into
+۸ ۱. تغییر» دگرگونی؛ / fn 1
+nis شکل ۲. (زیست‌شناسی) جهش, موتاسیون ۳.
+pea) 1) ) ادگراگونیی. واکه‌ای :۴ (زقست‌شناسی) gn جرد
+Towle
+mutatis mutandis / mu: ta:tis mu:tzndis/
+0 با تغییراتی, کمابیش, به نسبت
+ob] eS ad) بی‌صداء خاموش؛  mute /mjut/
+[نیلم [ صامت Y (کید) لال, گنگ ۳ [حرف]
+غیرملفوظ, که تلفّظ نمی‌شود
+۸ ¥ (موسیقی) سوردین, خفه کن ۵. (کینه) آدم لال, آدم
+گنگ
+1 ۶.(موسیقی) سوردین کردن ۷. [صدا] کم 5 £55
+ells] اشتباق و Tut کم کردن, کاهش دادن؛ [رنگ]
+ملایم کردن
+خاموش و متحیّر stare in mute amazement
+نگاه کردن
+[ab] ۸ دكمهٌ سکوت. mute button /mjuit batn/
+دكمة قطع صدا
+A ad [صدا] ارام muted /mjutid/  ,شاوی cares)
+خفه؛ نامفهوم ۲ [انتقاد. اعتراض و oles [ope پوشیده
+۳ موسیقی) [ساز] سوردین‌دار ۴. [رنگ] ملایم.
+روشن. کم‌رنگ
+das adv ارام As dnl /ا اس / mutely
+7 ۱. [صدا] ارام بودن؛ muteness /'mju:tnis/
+آهسته بودن. خفگی ۲ [حرف ] غیرملفوظ بودن
+۱. [شخص, حیوان ] mutilate / 1 A
+کردن. RLS کردن؛ ناقص کردن ۲ [اندام ] بریدن»
+قطع کردن ۳ [چیز ] خراب کردن, سیب رساندن به.
+صدمه زدن به؛ لت و پار کردن ۴. [کتاب, نوشته ] سر و
+ته...را زدن» خراب کردن؛ تحریف کردن
+۱. تکه‌تکه کردن. را ره mutilation
+i=see 1=sit @m=cat a=father D=got o:=s
+el = say U = go ar = five ay = 7 o1 = boy 12
+aus = hour j=yes w= wet t/ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 mutual
+Cd shan لت و پار کردن ۲. نقص عضو ء go Saka.
+Thousands suffered death or mutilation.
+هزاران نفر کشته و معلول شدند.
+mutineer /mju:t'nia(r)/  »یشروش (نظامی و غیره) 2
+یاغی
+mutinous /'mjuitinas/ ete شورشی, یاغی؛ .۱ ad)
+سرکش ۲. [رفتار] تمردامیز, یاغی‌گرانه whe BU
+mutinously /mjutmasti/ Ie تمرّدامیز, با 0
+تمرّدامیز, با سرکشی؛ با لحنی تمردامیز
+mutiny /'mju:unt/ دمم mutinied)
+نمرد. (iS (نظامی و غیره) شورش. طغیان؛ ۱ n
+Ea and
+کردن glib (ya 8 شوزش + vi
+mutt /mat/ ۱.(محاوره) خر, احمق؛ بی‌عر ضه.
+اسگن دورگه IK دست و پاچلفتی. هالو
+mutter /mata(r)/  هتسها یواش حرف زدن, NV vi
+soe ) صحبت کردن. یچ یچ کسزردان ۲ زیر لب
+od [رعد] Xoo) = (J 5) oes
+صدای ...شنیده شدن
+یواش گفتن» اهسته گفشن» زیر لب گفتن .۴
+ei ۶ صدای نامفهوم. بچ‌یچ canal lao .۵
+GLE
+mutter to oneself با خود حرف زدن.
+زیر لب حرف زدن
+۶.۶
+mutterer /'matora(r) / SBE gE 5 (ادم) n
+muttering /'matartn / ig Coan 55.290 1
+نق‌نق» غرولند
+mutton /mawn/ Sidon oF گوشیت (5321) 7
+a leg of mutton ران گوسفند
+a shoulder of mutton aiid cs
+a mutton chop گوسفند FEV)
+dead as mutton — dead’
+mutton dressed (up) as lamb. \> Lik , در (
+جوانان» پیری که 0 جوانیش cts به طعنه) پیر در
+افتاده
+mutton chops /matn ‘tfops/  شوگاپ (محاوره) ۵1
+ریش چکمه‌ای od
+mutton-head /'matn hed/ (Lanz طعنه, a (محاوره, #
+بی‌شعور po! خر. گوساله. الاغ
+mutual /mju:tfuel/  ,لباقتم ] [کمک. محبت و غیره LN ad)
+دوطرفه, دوجانبه ۲. همدیگر, یکدیگر ۳.(محاوره)
+<He is a mutual friend. > [دوست. منافع و غیره ] مشترک
+بازرگانی) تعاونی ( Ad
+a mutual admiration society los مسخره) 4)
+تعریف و تمجید از همدیگر, شرکتِ نان قرض هم دهی
+۷ U =cook u:=t00  A=cup 3: = bird a= about
+= near €0 = hair U3 = pure eld = player aro = fire
+6= thin d= this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1091 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mutual funds; mutual insurance company; mutuality; mutually; Muzak; muzzily; muzziness; muzzle; muzzle-loader; muzzle velocity; muzzy; MV; MW; my; mycology; myelitis; myna; mynah; myopia; myopic; myopically; myriad; myrmidon; myrrh; myrtle; mysteriously; mysteriousness; mystery; mystery play; mystiC; mystical -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+mutual funds 11
+conduct a mutual admiration society
+هی از همدیگر تعریف کردن, نان به هم قرض دادن
+1 (در آمریکا mutual funds /'mju:tual fandz/
+بازرگانی) شرکتِ سرمایه‌گذاری
+ادن mutual insurance company / mju:t
+n (بازرگانی) n'fuarans kampani, m'fairans/
+شرکتِ day تعاونی
+7 (رسمی) اشتراک mutuality / mju:tfvlat/
+0 به طور متقابل, متقابلا  / دننز / mutually
+از هر دو طرف
+be mutually exclusive / contradictory
+با هم متناقض بودن, با یکدیگر برخورد داشتن )
+1 موسيقي ابکی. موسيقي بازاری Muzak /'mju:zzk/
+gS adv منگ muzzily /'mazli/
+Nan منگی. گیجی MUuzziness /'mazinis/
+۲. [افکار و غیره] پریشانی, آشفتگی؛ [تصویر ] مبهم
+بودن» تار بودن
+7 ۱. [حیوان ] پوزه» پوز ۲. پوزه‌بند  /۳۸2۱/ muzzle
+[Ls] ۳ دهانه. سر
+۷ ۴. [سگ و [ond پوزه‌بند زدن به» پوزه‌بند بستن به ۵.
+(محاوره به طعنه) ans] روزنامه ] صدای ...را خفه
+«dS دهان ...را بستن
+muzzle-loader /'maz! lauda(r) / Kis 7
+سرپر / دهن‌پر
+11 سرعت muzzle velocity /'maz! valpsatr/
+al GIS 3d) سرعتِ دهانه‌ای
+MUZ2Y /'maz1/ (comp muzzier, super muzziest)
+(در (Ga ۱.منگ, oS ۲ [افکار ] css] درهم
+برهم» مبهم؛ OU [sa] مبهم
+hn کشتی موتوری MV /em 'vi:/ > motor vessel
+MW /'mi:diom werv/ > medium wave 5
+7 (رادیو و غیره) cs متوسط ام دبلیو
+MW 2 /'megownt/ > megawatt(s) ~
+(She cdo ad) اول شخص my /mar/ Che
+معادل لک من من: تا i
+کلاهم کجاست؟ : Where's my hat?
+عزیزم : My dear! !
+خدای من وای My. goodness! My God!
+۸ قارچ‌شناسی .| / mycology /markoladsi
+7 (پزشکی) مییلیت. اماس نخاع ماه / myelitis
+myna /'mams/ = mynah
+7 (مرغ) mynah /'maina/ Lis
+7 ۱.(پزشکی) myopia /mar'aspia/ cae
+میوپی ۲.(مسجازی به طعنه) فقدان (قدرت)
+آینده‌نگری, نزدیک‌بینی
+ad) ۱.(پزشکی) نزدیک‌بین» میوپ MYOPIC /marbpik/
+(asd 4) ۲ [سیاست, نظر ] فاقدٍ (قدرسي) آینده‌نگری,
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+نزدیک‌بینانه؛ [شخص ] نزدیک‌بین
+0 با فقدان oi Senta] / 7 ۲۱۷۵۵۱۵۵۱۱۷
+با نزدیک‌بینی
+sal) slay a صدهاء / ۲۷۲1۵۵
+ble میلیون‌هاء یک‌عالم
+۲. بی‌شمار
+Nn مزدور آدم. myrmidon /'ms:midan, (1S) -don/
+55 ۱ ۱
+(AS) ۸ صمغ سقزی,» myrrh /ma:(ry/ SG Fo
+Tossa) n 7 ۲۱۷۲16
+myself /mar'self/ 2 sash st ns pron
+ااول jin di 3 معادل وونل و من [isk
+[ خودم 7 بخودٍمن said so myself. - FERS 7
+دستم زا با چاقو 3 df inyself with, a kirife. io
+۱۷ نها تنهای تنها, خودم و خودم (all) by myself
+takes (A) YE بو کف HAE
+oo: Ca RE pass sat: ۱ هدوبر Tm not
+Cig SRL a ile fl
+asa] adj حادثه و غیره ] mysterious /mr'stiarias/
+مرموزء اسرارامیز؛ عجیب
+0 به طرز مرموزی,  mysteriously /mrsuoriasl/
+خیلی مرموزء به طور اسرارامیزی؛ به sr
+عجیبی. خیلی عجیب
+mysteriousness /mrstiariasnis/ <j ge pe CI 1
+a teal! Pe
+اسرارامیز بودن؛ عجیب بودن
+7 ۱.رازء سر mystery /'mistori/ (pl mysteries)
+ALE (در جمع) اسرار ۲.(محاوره) آدم مرموزء آدم
+عجیب ۳. lel پرده‌ای از ole! هاله‌ای از ابهام
+The origin of this tribe is lost in mystery, > < ¥. کارهای
+عجیب, کارهای مرموز؛ چیزهای عجیب ۵.(مذهب)
+,3 سر ۶.(مذهب, در (par آیین مقدّس» آیین؛ آیین
+قرباني dia ۷.(در یونان و روم باستان) آیین‌های
+ROP اسرار ۸+(متتنت‌گزنه) منقرموز, JETP EN
+ناشناخته .٩ داستان پلیسی؛ داستان جنایی
+It's a mystery to me why they didn't choose
+نمی‌توانم بفهمم چرا او را انتخاب نکردند. him.
+سر در نمی‌آورم چرا او را انتخاب نکردند.
+72 (در قرون وسطا) ple/ ماع / mystery play
+نمایش انجیلی
+A adj [نشانه. ois و mystic / «Sas [oh
+Je 5 شمبلیک ۲. [مراسم. آیین ] رمزی,
+نهان‌روشانه. سرّی, باطنی ۳. (Jb, عارفانه.
+شهودی ۴. ge a رارامیز؛ عسجیب.
+شگفت‌انگیز؛ غیرقابل توضیح؛ [قدرت ] جادویی
+7 ۵. صوفی. عارف
+mystical /misukl/ = mystic adj
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1092 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: mystically; mysticism; mystify I 'mrstrfar; mystique -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+0 .4 طور رمزی, 4 طور mystically /'misukii/
+Js به طورٍ Shad ۲. به طرز مرموزی» به طرز
+اسرارامیزی؛ به طورِ عجیبی» به Sk شگفت‌انگیزری
+SEY مراسمی رمزی, در یک om رمزی
+عرفان» Gai ۲۱۷511615177
+۸ ۱.گیجی, mystification /mistfike/n/
+سردرگمی, تحیّر؛ گیج 2h 33S سردرگمی N.Y
+طعنه) پیچاندن مطلب
+mystified) مرا۳) mystify /misufar/
+vt ۱.گیج کردن. سردرگم کردن؛ متحیّر کردن ۲
+پیچیده کردن, در هاله‌ای از ابهام پیچیدن
+n رازگونگی, حالتِ رازگونه. mystique /mrstik/
+Cl خاص, I اسرارامیز
+3 ند i: = see I= sit z=cat a:=father D=got
+ar = five au = now or =boy n 0 - ناه el = say
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 myxomatosis
+myth /mie/ اسطوره, افسانه ۲. اساطیر .۱ 2
+خیال. (Js (مجازی) افسانه. چیز موهوم. چیز ۳
+وَهم
+mythic /'miik/ = mythical
+mythical /'mi6ik1/ ۱.اساطیری, اسطوره‌ای,
+افسانه‌ای ۲.(مجازی) افسانه‌ای, موهوم. خیالی ¢
+mythological /mi6siodsiki / (4 ۱.(مربوط ad
+- میتولوژی» (مربوط 4( اسطوره‌شناسی, اسطوره
+شناختی ۲ اساطیری, اسطوره‌ای
+mythologist /mr0ooladsist/ اسطوره‌شناس #
+mythology /mrépladsi/ میتولوژی. .۱
+JBI Joon LTH
+myxomatosis / miksams'tauss / خرگوش‌مرگی n
+v  u=cook u:=100 A=cup =bird 9= about
+- near €3 = hair ¥d = pure end = player a3 = fire
+0= thin d= this [= shoe 3= vision 0) = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1093 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: NAAFI; Naafi; nab; nacelle; nadir; naff; nag; naiades; nail; a nail in sb; nail-biting -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+N, n /en/ (pi N's, n's) ان (- چهاردهمین حرف
+الفبای انگلیسی)
+N'/no:6/ < north
+N2 /'no:8an/ < northern
+N3 /'mjustral, (US) 'nui-/ > neutral Js سیم 1
+nN’ /neim/ < name اسم. نام n
+n2 /'mju:ta(r), (US) nu:-/ < neuter SES جنس
+nd /en/ هزار (do (محاوره) .۲ ol (ریاضی) ۱ 7
+Nn“ /nasn/ < noun
+"۵ /on/ = and
+NAACP /en er er si: 'pi:/ > National Association
+for the Advancement of Colored People
+حمایت از رنگین‌پوستان pe (در آمریکا) جمعیَتِ 1
+NAAFI /nzfi/ > Navy, Army and Air Force
+Institution  یاه‌هاگشورف (در بریتانیا) ۱. سازمان 7
+ارتش, مصرفي سپه ۲. فروشگاء ارتش ۳ (نظامی)
+غذاخوری,» بوفه
+Naafi /nzfi/ = NAAFI
+nab /nzb/ ( prp nabbing, pt, pp nabbed)
+محاوره) مچ ... را گرفتن, گیر انداختن؛ Mia (در ۷
+fi Ss
+nacelle /nzesel/ (هوانوردی) گهوارةٌ موتورء ناسل 7
+۱۱۹ (ot 5 ااکعد. کوشواژه isl (برای 7
+صدف؛ (صفت‌گونه) صدفی
+NACIEOUS /merkrias/ ۰ صدف‌گون» صدفی (a) adj
+nadir /neidia(r), (US) nerdar/ (ستاره‌شناسی) .۱
+حضیض Je سمت‌القدم ۲.(مجازی) پایین‌ترین
+in the nadir of اوج. در کمال, در...محض 23
+naff /maf/ عامیانه) [لباس و غیره ] بی‌ریخت. May (در adj
+به‌دردنخور؛ [ot بدترکیب, دهاتی؛ [نظر و oJ
+احمقانه
+۲۱۵91/2۵8 / by (محاوره, بد طعنه) 1
+nag? /nag/ ( prp nagging, pr,pp nagged)
+غُر زدن به ۲.(در موردٍ درد PRR ۱.مرتب نق زدن
+و غیره) مرتب آزار دادن دائم اذیت کردن» بیچاره
+کردن
+مرتب نق زدن. دائم غُر زدن ۳
+
+<!-- REGION: RIGHT COLUMN -->
+
+17
+۸ آدم sis آدم غُرغُرو nagger /naga(r)/
+A 4 [شخص ] نق‌نقو. nagging /nagin/ ste
+۲ [درد, شک و غیره] که دست از سرٍ آدم برنمی‌دارد.
+که ادم را عاصی می‌کند. was, a Se lay
+عذاب اور
+2 (در اساطیر naiad / ۵2۵ / ( p/ naiads, naiades)
+dg (obs آب‌های روان, آب‌ايزد
+of 40 ام / 2۵:۵۵:2 / naiades
+۱.ناخن ۲. میخ /۱ ۲۵۱
+۷ ۳ میخ کردن؛ میخ زدن به؛ (با میخ) کوبیدن. زدن
+۴ (محاوره) گرفتن» دستگیر کردن؛ گیر انداختن ۵.
+(محاوره) [شایعه و غیره] بی‌اساس بودن... Glas,
+دادن / امیکار oS
+fight tooth and nail — tooth
+a nail in sb/sth's coffin — coffin
+hit the nail on the head — hit’
+( محاوره) واه فی‌المجلس. نقداً on the nail
+عضلانی, ورزیده, قوی (as) tough as nails
+(as) hard as nails — hard’
+nail one's colours to the mast — colour’
+دروغی را nail a lie (to the counter) 5 SMa,
+بر زمین میخکوب شدن be nailed to the ground
+Now میخ زدن به» nail sth / sb down
+میخ کردن ۲ به دقت توضیح دادن دقیقا
+تعریف کردن ۳. کسی را وادار کردن که بگوید
+۱ چه pe خواهد بکند / چگونه فکر می‌کند
+I nailed him down to coming at 6 o'clock.
+وادارش کردم که بگوید ساعتِ شش می‌آید. قول ازش
+گرفتم که cel شش aly
+Wt (با میخ) 025 نصب کردن nail sth on
+LN ow میخ ) 055« نصب 03,8 nail sth up
+آویزان کردن ۲ [enn] میخکوبی کردن, میخ
+زدن cay تخته کردن؛ [خانه ] در و پنجره‌های ...را
+میخکوبی کردن / تخته کردن
+چیزی را در جعبه‌ای گذاشتن  nail up sth in a box
+و در of را میخ کردن
+7 ۱.ناخن جویدن / nail-biting /ne1l barry
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1094 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nail clippers; naive; naively; na'ively; naivete; naivety; na'ivety; nakedly; drag sb I sb's name through the mire; nakedness; in the name of sb -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+- اضطراب آور, دلهره‌آور, اعصاب‌خردکن, هیجان .۲ adi
+انگیز
+nail-brush/mett braj/  نخان ناخن‌شورء برس n
+nail clippers /meit ناخن‌گیر ’ دا npl
+nail-file /'meil fail/ سوهان ناخن
+nail ۱36006۲/۵0 lzka(r)/ = nail varnish
+nail polish /'neil polif/ (US) = nail varnish n
+nail-scissors/ neil sizoz/ قیجی ناخن‌گیری npl
+nail ۷۵۲۲151/۵1 vam/f/ لاک (ناخن) (Gey (در
+nail varnish remover / ۹۵۵۵ ۷۵:۲۲ 1
+(در بریتانیا) تون 1
+naira /۳۵:۲۵/ (pl naira)  )هیرجین Jy نایرا (- واحد
+naive /nari:v/ SL [شخص ] اد معصوم. .۱
+بی‌آلایش؛ ale gma ] بی‌آلایش؛ [رفتار, آرزو
+XY زودیاور wale ابتدایی» طبیعی ۲. ساده‌لوح.
+Wy تجربهء خام؛ [حرف. رفتار] [an]
+کودکانه
+31۷6/5271: / = naive
+۲3۷۵۱۷ 1 .از روی سادگی, adv
+با سعصومیّت. معصومانه: بی‌آلایش .با
+ساده‌لوحی, ساده‌لوحانه؛ کودکانه. بچٌگانه
+naively /nari:vli/ = naively
+naiveté /nar'i:vter / = naivety
+naivety /nari:vu/ ( p/ naiveties) سادگی, Non
+۳ معصومیّت ۲. ساده‌لوحی؛ بی تجربگی, خامی
+رفتار کودکانه LE حرف ساده‌لوحانه؛ کار
+naivety Iativir/ = naivety
+naked /'neikid / لّخت. برهنه, عریان A ad)
+PROC] Fo (جانورشناسی) بی‌مو؛ بی پشم؛ ۲
+] لُخت؛ [جراغ [ont [درخت. اتاق, زمین و sani برهنه,
+حباب, لخت ۴. بدونِ حامی. بدون پشتیبان. NEES
+کمک. بی‌پناه ۵ مجازی) آشکار, علنی NEES
+stark naked — stark
+as naked as the day he was born مادرزاد cid
+fight with naked fists جنگیدن, cod با مشت‌های
+بی‌دستکش جنگیدن
+the naked eye چشم غیرمسلح
+the naked truth حقیقتِ عریان
+the naked facts ari واقعیاتِ
+nakedly /netkidit / صراحتاً, LAST 0
+obs به صراحت؛ علناً ۲ به تنهایی ۳ لخت, برهنه,
+۴.بدون پشتیبان, بدون کمک, بدون حمایت. بی‌پناه
+nakedness لخت بودن. اد بت ره Gaby Nn
+.۳ عریانی ۲. صراحت. آشکار بودن» علنی بودن
+۱ عورتث
+همع زود وا a=father D=gol o:= sz
+el = say WU =go ar = five au > ۷7 o1=boy 19
+ava = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+15 name
+namby-pamby /nzmbr pambi/ [ [شخص .۱ adj
+رومانتیک., احساساتی؛ لوس. Jl sl
+سوسول, بجّه‌ننه. تی تیش‌مامانی؛ [حرف. شعر ] لوس.
+
+عننکت. آبگی
+8 ۲ (آدم) سانتی‌مانتال, رومانتیک. آدم احساساتی؛
+لوس, سوسول, بچه‌ننه . رز ۱
+
+۱.اسم, نام ۲. شهرت. اسم, اوازه» name’ /nem/
+اسم و رسم ۳ (صفت‌گونه) مشهور. معروف. Cals
+شده ۴ ادم مشهورء, ادم سرشناس, آدم کله گنده؛ )5
+
+(par مشاهیرء بزرگان» نامداران, کله‌گنده‌ها
+به نام خود. در تصرف خود to one's name
+جیزی از خود داشتن have sth to one’s name
+answer to the name of sth — answer? (
+be sb's middle name — middle name
+۱ به اسم. به نام Y به ed به نام by name
+A strange man, Fred by name, came to see me. > <
+به اسم. به نام by / of the name of
+He goes by the name 0۴ 0۰
+اسمش هنری است. به اسم هنری می‌شناسندش.
+آقایی با نام هنری someone of the name of Henry
+someone by the name of Henry
+یک آقایی هنری نام
+call sb names — call?
+drag sb /sb's name through the mire/ mud
+drag’ —
+drop names — drop?
+enter one's name; put one's name down
+(در دانشگاه و غیره) ثبت‌نام کردن, اسم‌نویسی 535 اسم
+خود را نوشتن ۱
+give a dog a bad name — dog’
+اسم خود را روی give one's name to sth
+چیزی گذاشتن
+۱ از طرفی, از سوی, in the name of sb / sth
+از جانپ, ۲. به نام ۳. به ble برای
+in God's name; in the name of goodness
+5 را به yams da رضای خدا
+اسماً Jal به اسم in name only
+lend one's name to — lend
+مهم ترین مسئله, اصل, the name of the game
+مهم‌ترین کار
+a name to conjure with — conjure?
+al در بساط not have a penny to one's name
+نداشتن. یک پول سیاه هم نداشتن
+اسم کسی / جیزی را put a name to sb/sth
+دانستن, اسم کسی / چیزی را به یاد آوردن
+
+۷ 05000 ui-100 A-cup  %=-bird  o- about
+
+= near 3 = hair ua = pure دوه player aio = fire
+
+6= thin §= this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1095 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: a big; to name; name sb; name-day; name-drop I 'nerm drop; name-dropping; nameless; namely; name-part; name-plate; namesake; name-tape; nan; nanny; nanny-goat; nap -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+name 11
+آدم مشهور. a big / great / famous name
+(oldu po! آدم کله گنده
+بیخودی اسم کسی را take sb's name in vain
+مطرح کردن؛ بیخودی پای کسی را به میان کشیدن؛ [خدا
+و غیره ] بی‌احترامی به اسم... کردن, با بی‌احترامی از ...یاد
+کردن ۱
+با pe مستعار ... ‘ under the name (of) sth
+تحت نام ...
+name names —> name?
+to name / mention no names; naming /
+REET این‌که اسم کسی را mentioning no name
+بخواهم بیاورم / بخواهیم بیاوریم, بدونِ اسم بردن از کسی )
+عملاء در in all but name Jes
+She's been his wife in ali but name for six years. > <
+make a name for oneself; make one's name
+مشهور شدن, اسم و رسمی به هم زدن, معروف شدن, اسم
+درکردن, سری توی سرها درآوردن
+(محاوره) po من اینجا My name is mud here.
+بد دررفته است.
+ass کار بردی:
+first name ole در کشورهای انگلیسی‌زبان به نامی
+اطلاق می‌شود که پدر و مادر هنگام تولد نوزاد برای او
+انتخغاب می‌کنند و دوستان و خویشاوندان او را ola نام
+می‌خوانند.
+عبارت christian name را در کشورهای مسیحی, گاه
+به جای first name Ole به کار می‌برند.
+forename LIS صورتی رسمی به جای عبارت first
+4 آاست و اغلب در پرسش‌نأمه‌ها و نظایر آن از آن
+استفاده می‌شود.
+ssurname JS عبارات family name و last name
+Kea ناظر بر نام خانوادگي اشخاصند که اغلب با القابی
+چون Mrs (Ms Mr يا 8188 به کار می‌رود. این القاب با
+۱ نام کوچک به‌کار نمی‌روند.
+middle name ols به نام کوچکی دوم اطلاق
+می‌شود که پدر و مادر برای فرزندشان انتخغاب aS ga
+full name ole نام کوچي Jil نام خانوادگی و نام
+KS دوم را شامل می‌شود.
+۷ ۱.اسم گذاشتن name? /nem/ (Sas
+نامی گذاشتن روی» نامیدن ۲ اسم «OO pn اسم ...را
+بردن, اسم... را مشخص کردن؛ نام بسردن SV
+اسم... را اوردن ۳ [زمان, قیمت و غیره] مشخص
+کردن, ame کردن» تعیین کردن ۴. در نظر WBS
+انتخاب کردن, نامزد کردن؛ منصوب کردن, گماشتن
+name sb / sth after sb; (US) name sb/ sth
+روی کسی / چیزی اسم کسی را گذاشتن for sb
+The child was named after / for its father. > >
+
+<!-- REGION: RIGHT COLUMN -->
+
+16
+اسم کسی را name sb sth JERI RUGS TES
+کسی را چیزی نامیدّن»:کسی را چپزی خواندن
+They named their child John. > <
+آدمی به اسم آقای اسمیت a person named Smith
+از کسی اسم بردن, اسم کسی را name names
+ss) از عده‌ای اسم بزدن, اسم کسانی را آوردن. اسم
+بردن 1
+من‌جمله, از جمله. to name but a few
+به: عنوان مثال, مثلاً
+Lots of our friends are coming, Anne, Ken and George, <
+to name but a few. >
+(محاوره) هرچه دلت بخواهد. هرجه you name it
+بتوانی فکرش را بکنی, تو فقط لب تر oS
+روز ازدواج را مشخص کردن name the day
+کسی را به ols چیزی name sb (as) sth
+انتخاب کردن, کسی را به عنوانِ چیزی در نظر گرفتن
+گفتند که دزد او است. He was named as the thief.
+۱.عیل اسم name-day /'nein der/
+۲ روز اسم‌گذاری
+name-drop /'nemm drop/ ( prp name-dropping,
+vi اسم onl اسم‌آدم‌های pLop name-dropped)
+als گنده را یردق خود را به slaps) گنده چسباندن
+7 أسم پراندن. name-dropping /nexm dropig/
+اسم‌پرانی g
+os adj اسم. بی‌نام؛ nameless /'neimliis/
+ناشناخته. گمنام. بی‌نام ونشان ۲ ip nals
+نامشخص؛ [شخص ] ناشناس ۳ [احساس., ترس و غیره ]
+ناشناخته. (rg نامعلوم؛ وصف‌ناپذیرء غیرقابل -
+توصیف ۴. [جنایت و غیره ] که اسمی / نامی رویش
+نمی‌شود گذاشت
+im adv به عبارتِ دیگر :۹ ۲12۵۱۷
+( تثاتر و غیره) name-part /neim pa:t/ SA
+SB ple اصلی
+7 (روی در و غیره) name-plate /nem pleit/ SO
+ol) 55 بونج
+n هم‌اسم. هم‌نام؛ هم‌فامیل / namesake /neimserk
+7 (برای دوختن به لباس) name-tape /‘nem terp/
+نوارٍ اسم
+7 (در Midi محاوره) مامان‌بزرگ nan /nen/
+2 (در بریتانیا) dy دایه. nanny /'nzni/
+پرستار(بچّه) ۲.(محاوره) مامان بزرگ
+n 3 (ماده) nanny-goat/ neni gout/
+nap’ /nzp/ ( prp napping, pt,pp napped)
+۱. چٌرت. پینکی. خواپ کوتاه
+vi ۲. یک Da خوابیدن, چرتی زدن
+یک چٌرت خوابیدن take a nap
+catch sb napping — catch! ۱
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1096 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: napeinerp; naphthalene; napkin; narc; narcissi; narcissism; narcissus; Narcissus; narcotic; narked; narrate; narratiOn; narrative; narrator; narrOW; narrow-minded; narrow-mindedly; narrow-mindedness; narrowneSS -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+4 [پارچه و غیره ] پُرز» خواب, کرک nap? /nzp/
+ناپلئون (< نوعی بازي ورق در بریتانیا) nap? /nzp/
+2 (نظامی) ناپالم napalm /nerpa:m/
+n نی کرد Ey گردن nape /nerp/
+oy گردن کسی, the nape of one's neck
+تن 28 کی
+on ۱.نفت naphtha /nafs/ La Y
+: نفتالین naphthalene /nzfali:n/
+۱. دستمال سفره / امه / napkin
+در Ma رسمی) Fey Arg پوشک
+7 (در بریتانيا, محاوره) کهنهٌ بجّه؛ پوشک NAPPY /napr/
+narc /na:k/ = nark3
+narcissi/na:'sisar/ pl of narcissus
+an ۱( روان‌شناسی) narcissism /'na:sisizem/
+خودشیفتگی ۲. عشق به خود. خودپسندی
+adj ۱.(روان‌شناسی) 8 / narcissistic / na:si'sistik
+( مربوط (a خودشیفتگی؛ [شخص ] خودشیفته ۲.
+خودپسندانه؛ [شخص ] خودپسند
+Narcissus /na:'sisos/ ( pl narcissuses, narcissi)
+n (گل ) نرگس
+n (اساظیر (oly نارسیس Narcissus /na:'sisas/
+2 .ماد مخدّر, داروی narcotic /na:kptik/
+مخدّر ۲. مادٌَ رخوت‌زاء مادَةٌ آرام‌بخش؛ )30(
+خواب اور
+ad) ۳ [دارو. انر ] مخدّر ۴. رخوت‌زاء آرام‌بخش ۵.
+( مربوط به) معتادان
+پلیس als 5 مواد مخدّر a narcotics agent
+she! به مواد مخدّر narcotics addiction
+1 (در بریتانيا, عامیانه) خبرچین, nark' /na:k/
+ادم‌فروش,» جاسوس, انتن
+(در Aik, عامیانه) کفری کردن؛ nark? /na:k/
+#3 کردن .
+2 (در آمریکا) پلیس دایرةٌ موادٌ مخدّر nark® /nak/
+41 (در بریتانیا, عامیانه) (ied دلخور؛ کفری narked /nakt/
+۸ [داستان, حادثه و غیره ] ۳۵۵۲۵۲۱/۰ narrate /na'rent, (US)
+نقل کردن» بازگو کردن. روایت کردن» حکایت
+کردن» تعریف کردن
+۱. [داستان, حادثه و غیره ] (Ji /0/:ع037/ narration
+بازگویی, تعریف ۲. حکایت. روایت. داستان, قصه
+۳ بازگویی حوادث, نقل ماجراها ۴. [فیلم و غیره ]
+ag بِ ۳
+1 ۱. روایت, حکایت. / narrative /narstiv
+داستان, قصه ۲. قصه (sts داستان‌سرایی, داستان -
+(sls pad «SVs ms قصه‌نویسی ¥ [داستان ]
+Gems روایی
+i-see 1-sit z=cal a=father D=gol i=
+=go a1 = five ay = now s1=boy 13 اه el = say
+ava = hour j=yes w= wel tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+17 Narrows
+[ادبیات. شعر ] روایی, داستانی؛ [قدرت. فنّ ] ( مربوط. ¥ ad)
+Ji به) روایت. ( مربوط به)
+narrator /na'reita(r), (US) ۳۵۵۲۵1۱۵ )۲( نمایش,/ ot] Non
+داستتان, گوبند ماجرا BES ۲ Goby [one قاستان و
+Narrow / ۵۲۵ / راه و غیره ] باریک. wot] .۱
+] دوستان als [گروه. Sa کم‌عرض ۲ [محدوده]
+ame ] محدود, کوچک ۳ [امکانات. درآمد و غیره
+کم؛ [اکنریّت ] ضعیف» ناچیز؛ [امتیاز ] کم. اندک؛
+] [شکاف. فاصله ] کم ۴ [ذهن ] محدودء بسته؛ [شخص
+کوته‌فکر, کوته‌بین» بسته؛ [نظر] کوته‌بینانه.
+تنگ‌نظرانه ۵. [مطالعه, بررسی ] دقیق, موشکافانه
+باریک شدن, کم‌عرض شدن؛ [چشم] [ole] .۶ vi (
+تک شدن ۷.(مجازی) [فاصله. شکاف ] کم شدن.,
+انتخاب. موضوع بحث ] محدود dll] کاهش یافتن؛
+355 5385 5
+KE ] باریک کردن. عر ض ... را کم کردن؛ [چشم .۸
+کردن ۹.(مجازی) محدود کردن
+have a narrow escape from death خطر از بیخ
+دررفتن od گوش کسی گذشتن,
+have a narrow lead over  ندوب کمی از... جلوتر
+have a narrow squeak دررفتن, ed (محاوره)
+از خطر جستن, جانِ مفت به در بردن
+in the narrowest sense (of the word)
+کلمه؛ در معنای خاص کلمه 33s به معنای
+the straight andinarrow — straight
+narrow (sth) down  ] (مجازی) [فاصله, شکاف NY vi
+کاهش یافتن؛ [مطالعه, انتخاب, موضوع (oa کم
+بحث ] محدود 03,5« دقیق‌تر کردن
+(مجازی) محدود کردن .۲. W2
+narrowly /mzrault/ (Cds به .۲ WS ALB LN adv
+دا موشکافانه ۳ به سختی, به زحمت ۴.با
+تعصّب, خیلی محدود., خیلی بسته
+narrow-minded / nzrav 'marndid / کوته‌بین. ad)
+محدود. Alana کوتهدفکر, متعصّب؛ [فکر. نظر]
+بسته؛ [برخورد ] کوته‌بینانه, کوته‌نظرانه, تعصّب آلود
+narrow-mindedly / nzros ‘maindidlr/
+متعصبانه pal با کوته‌فکری, کوته‌بینانه, تعصّب 0
+narrow-mindedness/ nzrav 'mamdrdnis /
+کوته‌فکری. کو ته‌بینی » تعصّب ۸
+Narrowness /naraunis/ باریک بودن, (SLL .۱ ۶
+تتگی ۲. محدودیت. محدود بودن؛ تنگن بودن» بسته
+بودن ۳.کم بودن» ناچیز بودن, اندک بودن
+Narrows / ۵۲۵2 / پاریک. گذرگاه xa .۱ 1
+بتجارایک: mnt ] باریکت»» راو باریکت؛ [جاده» خیابان
+جای باریک؛ [رود] تنگبار ۲. تنگه
+w  u=cook 0100 A=cup 3=bird = about
+= near ea = hair U2 = pure e1o = player a1o = fire
+0= thin d= this | = shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1097 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nasalisation; nasalization; nasalize; nasally; nastiness; nationalisation; nationalism l'nrefnalmm -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+narwhal 11
+( در خلیج (S580 تنگه the Narrows
+mn نیزه‌ماهی, ناروال narwhal /'na:wal/
+NASA /'nzsa/ > National Aeronautics and Space
+me (در آمریکا) ناساء Administration
+سازمان فضايي آمریکا
+ad) ۱.(مربوط به) بینی ۲.(آواشناسی)  nasal /neizl/
+خیشومی, غنه‌ای
+n ۳آوای / صدای) خیشومی
+صدای تودماغی a nasal voice
+nasalisation /nerzolarzer fn, (US) -2-/
+nasalization =
+nasalise /'neizslarz/ = nasalize
+nasalization /nerzolarzerfn, (US) -li'z-/  ]ادص[ n
+تودماغی شدن؛ (آواشناسی) خیشومی‌شدگی
+wr ۱. [صدا] تودماغی کردن؛  nasalize /neizolarz/
+( آواشناسی) خیشومی کردن
+i ۲. تودماغی شدن؛ (آواشناسی) خیشومی شدن ۳
+تودماغی حرف زدن
+0 تودماغی, با صدای تودماغی nasally /neizalt/
+ad) ۱.(رسمی) [صنعت. دموکراسی و nascent /'nzsnt/
+غیره ] نوپاء نوبنیاد؛ [استعداد] نلوظهورء نوشگفته؛
+[سووظن ] تازه ۲. (شیمی) در Cle نوزادی
+Sb LN adv بلاغ (US) 'nz-/ نان / nastily
+به طرز ناخوشایندی ۲. با بدجنسی, با رذالت. با
+پستی ۳ با بی‌حیایی» با بی‌شرمی, با وقاحت
+بدجوری باران می‌امد. It rained nastily.
+۱.بد بودن. nastiness /'na:stinss, (US) 'nz-/
+بدی؛ نفرت‌انگیزی؛ زنندگی, زشتی ¥ بدجنسی,
+رذالت ۳ [داستان و غیره ] مستهجن بودن, مبتذل بودن
+۴ بوی بد؛ مزهٌ بد ۵.کنافت
+n (گل) لادن nasturtium /no'sta: fam, (US) nz-/
+nasty /'na:str, (US) 'nz-/ (comp nastier, 8
+ola] .۱ ad) منظره و غیره ] بد. super nastiest)
+ناخوشایند. نامطبوع, ناگوار. دردناک؛ [تجربه ] تلخ؛
+[بو ] زننده» بد؛ [مزه] بد ۲. [شخص ] cu رذل؛ [اخلاق ]
+بد؛ [حقه, شایعه, فکر ] رذیلانه, کثیف ۳ [داستان, کتاب ]
+(2S مبتذل, مستهجن؛ [ذهن ] کثیف ۴ [هوا] بد.
+خراب؛ [نگاه ] تهدید mal [زخم, بیماری و wd [ot
+خطرناک؛ Se [easy] وخیم؛ [پیچ ] خطرناک
+leave a nasty taste in the mouth — leave
+( محاوره) آدم بیخود. a nasty piece of work
+pl مزخرف. ادم بد
+با کسی بد رفتار کردن / تا کردن, be nasty to sb
+با کسی نامهربان بودن
+عصبانی شدن, آن روی (کسی) بالا آمدن turn nasty
+خیلی بهش سخت He had a nasty time of it.
+malls پدرش دراد
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+زادگاه اد اها۲3 (a (رسمی) ۱.(مربوط 4
+7مربوط به) تولّد؛ (مربوط به) موقع تولّد
+۳مادرزادی
+natal day زاد روزء روز تولّد
+natal death مرگ به هنگام تولّد
+nation /metfn/ کشور, مملکت ۳ قوم .۲ chat ۸
+national /nefnol/ ۲.همگانی, عمومی. JLo ad)
+[مسائل, امور ] داخلی ۴. دولتی Fg ule
+تبعه؛ (در جمع) اتباع .۵ 1
+national 2111011/۳2 (nal ‘znfom/ سرود ملی 2
+national assistance nz nol o'sistans/
+اجتماعی, عائله‌مندی uals کهنه) Mis (در 2
+۱311002 ۵: [nal kan'ven fn /
+(حزب) pe (در آمریکا) مجمع 8
+national curriculum / nz nal ka'rikjslom/
+(pl national curricula) (در بریتانیا) برنامةٌ درسی 2
+- همگانی
+National Debt / nz nal ال
+the National Debt ملّی؛ بدهی دولنی isp on
+National Front /nzfnal frant/
+the National Front rs er (در بریتانیا) حزب a
+(oly حزبی افراطی درمسائل =)
+national grid /nefmsl ‘grid/  ةکبش (Gla, (در ۸
+ملّي نیروگاه‌ها
+National Guard / مره 1 ۹
+the National Guard Se (در آمریکا) گارد
+National Health Service / اعد held sa:vis/
+the National Health Services ian بریتانیا) 33) 7
+خدماتِ درمانی, خدمات درماني رایگان
+National Insurance / na nal in'fusrans, mn'fo:rans /
+تأمین اجتماعی dy (در بریتانیا) بیمه‌های اجتماعی, 1
+nationalisation/ nz [nalarzer fn, (US) -lr'z-/
+= nationalization
+nationalise/nzfnolaiz/ = nationalize
+nationalism /nznolizom/ میهن پرستی. Nn
+ملی؛ شووئیسم ۲. ناسیونالیسم, Gg وطن پرستی»
+ملی‌گرایی ۳ استقلال‌طلبی
+nationalist /nznalist/ FCI NU HR بر
+استقلال ‌طلب .۲ 1S
+ناسیونالیستی» ملّی‌گرایانه. ملّی ۳ ad
+nationalistic / az / ناسیونالیستی. / ام .۱ adj
+So ۳ ملّی‌گرایانه ۲. وطن پرستانه؛ شوونیستی
+nationality / ne fanzlati/ /م) nationalities)
+COMER J WREKIN J. JP, JUS. PRP
+ملیّت (ies ps3 ۴
+nationaiization / nz /nolar'zerfn, (US) -lr'z-/
+شدن a کردن؛ a [a [صنایع و n
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1098 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nationalize; nationally; national park; national service; National Trust; nationwide; native; Native American; native speaker; Nativity; nativity play; NATO; Nato; natter; nattily; natty; natural; natural childbirth; natural gas; natural history; naturalise; naturalism; naturalist; naturalistic -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+| 2 ۱. [کارخانه و غیره ] nationalize /'nafnolarz/
+j مر کرد ۲. تابعیّت دادن ay به تابعیّت پذیرفشن
+aay ۱ از دیدگاو nationally / noir / oe
+| ۲. در plo نقاط کشور, در سطح کشورء سراسری
+Son ملی, national park /nz nal ‘pak/
+Ah
+national service / na nal 81 Cad nn
+وظیفه, Ai y عمومی, سربازی
+National Trust / naz nal ‘trast/
+2 (در بریتانیا) سازمان حفظ the National Trust
+Sle فرهنگی, انجمنِ ote JT
+nt دولتِ ملی, ملت nation-state/netfn ‘stert/, 52S_
+0 در سطح کشور. nationwide /nerfnward/
+در ple نقاط کشورء در uli pm کشور؛ [اعتصاب,
+اعتراض ] عمومی. سراسری
+1 ۱. [شهر, کشور ] اهل؛ )53 جمع) native /'neimv/
+اهالی, اهالی Joe ۲. بومی؛ (در جمع) بومیان ۳.
+(حیوانِ /گیاو) بومی
+adj ¥ [شهر, کشور ] زادگاه. مادری؛ [زبان ] مادری ۵.
+whi] لباس و غیره ] (pa محلی؛ ملی؛ ( مربوط به)
+بومیان ۶. [استعداد. زیبایی و غیره ] ذاتی» طبیعی, فطری
+[گیاه. حیوان ] بومی native to
+Jal لندن, لندنی : a native of London
+She speaks French like a native. ’
+فرانسه را Joo فرانسوی‌ها حرف می‌زند.
+[مهاجر ] رسم و رسوم اهالی (جایی) را go native
+پذیرفتن, بومی شدن "
+He's emigrated to the USA and gone
+به آمریکا مهاجرت کرده completely native.
+و حسابی آمریکایی شده است.
+بومی / وا ماد Native American /neittv
+AS] بومي امریکایی» سرخپوستِ آمریکایی؛
+(در (pa بومیان امریکاء بومیان امریکایی.
+سرخپوستان آمریکا
+native speaker / nev 'spika(r)/ ELD Jo! n
+سخنگوی بومی
+انگلیسی‌زبان a native speaker of English
+/ داد / Nativity
+7 ۱.(مذهب) ولادت, میلاد؛ ولادتِ حضرتِ the Nativity
+مسیح» 5 مسیح؛ عیدٍ Vhs مسیح ۲. نگارة ول مسیح
+بر نما یش 5 مسیح nativity play /natwvatr pler/
+NATO /'neitas/ > North Atlantic Treaty
+4 ناتو سازمان olan آتلانتیی Organization Jl.
+Nato /'nertas/ = NATO :
+4 ۱.(در بریتانيا, محاوره) natter /nats(r)/
+{—see 1=sit @=-cat 012007 D=got 53
+ar = five ay =now  dl=boy I: 0 - ناه el = say
+ava = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 naturalistic
+حرف زدن, گپ زدن, اختلاط کردن؛ یکریز حرف
+زدن» یک‌بند حرف زدن
+محاوره) گپ؛ اختلاط May ۲.(در
+natter ۵ (در بریتانياء محاوره) حرف زدن: گپ زدن.
+اختلاط کردن؛ یکریز حرف زدن, یک‌بند حرف زدن
+۲2۱۷ 1 Gand لباس پوشیدن ] تر و adv
+قشنگ, شیک؛ شیک و پیک. چسان‌فسان کرده
+natty /natt/ (comp nattier, super nattiest)
+قشنگ, شیک؛ a ترو [A] (مسحاوره) ad)
+آراشته: jens 5 5 Spt [mi] شیک وچیگت؛
+خوش‌سر و وضع؛ اتوکشیده ۲. [ابزار] خوش‌دست؛
+حل [ استادانه, ib] خوب طرّاحی‌شده؛ [Bans]
+هوشمندانه
+natural /matfral/  یعیبط ] [نیروها, پدیده و غیره .۱ ad)
+۳ [استعداد و غیره ] طبیعی» ذاتی, فطری, خداداد ۲
+[نویسنده, خطیب وغیره ] مادرزادء دارای استعدادٍ فطری
+wale [مرگ. زندگی ] طبیعی ۵ [رفتار ] طبیعی. ۴
+[iu] A بی‌پیرایه ۶.(موسیقی) بکار ۷. [فرزند ] واقعی
+Co نامشروع
+Shoal (موسیقی) نت بکار؛ علامت بکار ۱۰.ادم A 2
+ماهر ادم کا رکشتیه؛ ادم مستعد. po! مناسب: pol
+بااستعداد
+the natural world طبیعت ole
+die of natural causes به مرگي طبیعی مردن
+He's a natural painter. نقاش است. Bhs
+It is natural to do sth/ that... طبیعی است که...
+for (the rest of) his natural life as تا پایان
+برای ابد
+be a natural for sth برای جچیزی ساخته شده بودن
+natural childbirth /nzt ral tfarldba:0/ زایمان 7
+ib
+natural gas /nxtfrol 'gas/ گاز طبیعی n
+natural history /nztjrol istri/ تاریخ طبیعی .۱ ۶
+Slab ۳ تحوّل Fob X
+naturalisation / nztfrslarzes fn, (US) وا
+= naturalization
+naturalise /natfrolaiz/ = naturalize
+naturalism / net frolizam / ۱.(هنر, ادبیات)
+Io cada ناتورالیسم ۲. (فلسفه) طبیعت‌گرایی,
+طبیعت‌مداری (and
+naturalist /natfolist/ ۱.طبیعیدان ۲. (هنر, ادبیات) 7
+TS Dp طبیعت‌گراء (ads) ۳ ناتورالیست
+طبیعت. طبیعت‌مدار؛ (در جمع ) طبیعیون Jol
+naturalistic / nat rolistik / ۱.(هنر. ادییات) adj
+ناتورالیستی؛ [نویسنده, نقاش ] ناتورالیست ۲. (فلسفه)
+Ww U-cook ui=to0 A=cup si=bird a= about
+= near €3 = hair va = pure elo = player ata = fire
+0= thin 8 = this [= shoe 3= vision 1) = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1099 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: naturally; natural number; natural philosophy; natural religion; natural science; nature; nature conservancy; Nature Conservancy Board; Nature; nature reserve; naturism; naturist; naturopath; naturopathy; naught; naughtily; naughtiness; naughty -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+naturalization 11
+طبیعت‌گرایانه, طبیعت‌مدارانه؛ [شخص ) طبیعت‌گراء
+طبیعت‌مدار
+naturalization / natfralar'zer fn, (US) -li'’z-/
+۱. اعطای تابعیّت؛ قبول تابعیّت ۲. [کلماتٍ بیگانه ]
+وام‌گیری» پذیرش ۳ [حیوان, گیاه ] بومی کردن؛ بومی
+شدن
+آسناد naturalization papers coal
+7 ۱. [شخص ] تابعیّت دادن naturalize /natfrolarz/
+به., به تأبعیّت پذیرفتن, تبعه کردن ۲. [کلماتٍ بیگانه ]
+پذیرفتن, وارد کردن, وام گرفتن ۳ [حیوان, گیاه ]
+اوردن. وارد کردن, بومی کردن
+تبعه ( کشوری ) شدن be naturalized (in...)
+n ۱ اصل ws kd بدا natural law / nzt/ral ۱
+قانونِ فطری ۲. قانونِ طبیعت؛ قوانین طبیعت ۳
+اصل, قانون ر .. ر
+0 ۱.ذاتا, naturally ۱2۵/۲۷ Mol bls
+abo ۲ طبیعتاً؛ الیته, Ws ۳ به sb طبیعی,
+خودبه خود ۴. [رفتار کردن ] طبیعی, راحت. بدونِ
+تکلّف, عادی
+برای کسی کار راحتی بودن. come naturally to sb
+برای کسی کاری نداشتن
+n رفتار طبیعی. / اد 2۵۱/۲ / naturalness
+Js, ساده, رفتارِ راحت. PE. Ip سادگی.
+طبیعی بودن
+۸ (ریاضی) /( ۲۵۲/۲۵۱ / natural number
+عددٍ طبیعی
+natural philosophy /nztfral 810598 / (x8) n
+حکمتٍِ طبیعی, علوم طبیعی
+۸ دین طبیعی  /«۲:1:439 natural religion /nztjrol
+اد natural resources / nat ral n'sasiz,
+npl منابع طبیعی 21 (115)
+n علوم natural science /nzt/ral 'sarons/
+طبیعی
+انتخاب natural selection /nzt ral srlekfn/
+ینوی
+A 7 طبیعت؛ جهان, Je / 0
+۲. زندگی سادةٌ بشر ad) زندگی بٌدوی ۳ نیروهای
+طبیعت., عوامل طبیعی. Sais bb اج [مشخض. وان ]
+Tne] to bs oldcanb ales was a
+lio yas ویژگی‌ها ۵. نوع, گونه
+به طبیعت بازگشتن, get / go back to nature
+به زندگی ساده روی آوردن
+in a state of nature — state! 8
+a call of nature — call’
+گذاشتن که کارها fet nature take its course
+جریان عادي خود را طی کنند
+pay the debt of nature; pay one's debt to
+
+<!-- REGION: RIGHT COLUMN -->
+
+20
+مردن nature
+طبیعتاً, Jot فطرتاً, به ذات by nature
+غیرطبیعی, غیرعادی؛ غلط. against nature
+نادرست. زشت. خلافی اخلاق
+1 ج one's better nature
+شبیه جیزی بودن. be in the nature of sth
+مثلِ چیزی بودن»ء نوعی چیزی بودن
+ole ثانوی )5( second nature (to sb)
+comb نانوی (کسی)
+چیزهایی از این دست. things of that nature
+این نوع کارها
+نیروهای طبیعت. 1 ۱31۲6
+عوامل طبیعی. طبیعت
+nature conservancy / neitfs kansa:vansi/
+۶ حفظ محیط زیست
+:3 ولا / Nature Conservancy Board
+vansiba:d/
+7 (در بریتانیا) the Nature Conservancy Board
+سازمانِ حفاظتِ محیط زیست
+۸ درمان از راه‌های  nature cure / ۵۱/۵ kjva(r)/
+ی
+(در ترکیب) - جنس, -نهاد.  -natured /nettfad/
+- سرشت. -ذات > good-natured >
+۸ (محیط زیست) 1 ۵ ]۵۱ / nature reserve
+منطقهٌ حفاظت‌شده
+nature study /mertfs 7 as (sal) n
+طبیست: rb pole
+گردشگاءو )2550( nature trail /nertfo tretl/
+مسیر حیات وحش
+naturism /meitfarizem / = nudism
+naturist /nertforist/ = nudist
+Son علفی naturopath /neit fropz6/
+adj ( مربوط 4( / naturopathic / next ropzfik
+درمان از راه‌های طبیعی؛ [درمان ] از راه‌های طبیعی
+0 [درمان کردن ] / naturopathically/neitfropzikit
+از راه‌های طبیعی, با روش‌های طبیعی
+n درمان از راه‌های /۳۵:/۵۲۵۲۵0۲/ naturopathy
+طبیعی, طبیعی‌درمانی
+naught /na:t/ = nought
+با شیطنت, با بدجنسی naughtily /no:tilx/
+بد رفتار کردن؛ [بچّه ] شیطانی کردن behave naughtily
+PE .۱ شیطنت. naughtiness /no:tmis/
+شیطانی, تخس‌بازی ۲. [داستان. جوک و غیره ] زشت
+بودن» بد بودن؛ کارهای زشت. چیزهای زشت
+naughty /'noitt/ (comp naughtier, super
+ad) ۱.(محاوره) [بچّه ] شیطان, naughtiest)  ,شتآ Ob
+alas] تخس شر؛ حرف‌نشنئو؛ [رفتار]
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1100 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nauseate; nauseatingly; naval; navy -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+RICKS ۲ (محاوره) [جوک. حرف و غیره] بد.
+زشت. وقیح, زننده
+It was naughty of Father to stay out so late.
+بابا هیچ کار خوبی نکرد که تا دیروقت بیرون ماند.
+a ۱.(حالت) nausea /'ns:zis, -s1a, (US) ‘na: fa/
+Ee دل‌به هم خوردگی, دل Blast) ۷۱ Ail
+نفرت, A lp)
+nauseate /'na:zrert, -siert, (US) 'no:f-/
+2 (نیز مجازی) دل... را به‌هم زدن, دل... را اشسوب
+کردن. ge J به ... دادن
+nauseating /no:zieitry, -stet-, (US) ‘no: f-/
+J "ny DIESE A adj آدم را به‌هم می‌زند ۲.(مجازی)
+نفرت‌انگیز, مهوّع, که J آدم را به‌هم می‌زند
+-ste1-, (US) ‘no: f-/ ۲1356211۳9۷
+sb 4 adv تهوّع اوری, به طورِ مهوّعی, انقدر است که
+Jl ادم را به‌هم می‌زند
+nauseous /'no:ziss, -s1as, (US) ‘no: fas/
+adj ۱. تهوّع آور, که حال آدم را به‌هم می‌زند ۲.(مجازی)
+NE نفرت‌انگیز, که حال آدم را به‌هم می‌زند
+( نیز مجازی) SA تهوّع داشتن. be/ feel nauseous
+J کسی به‌هم خوردن, دل کسی آشوب بودن / شدن
+( نیز مجازی) J کسی را make sb nauseous
+به‌هم زدن, Js کسی را آشوب کردن
+ad) (مربوط به) دریانوردی, / اما / nautical
+دریایی؛ (مربوط به) دریانوردان, (مربوط به)
+ملوان‌هاء ملوانی
+دریانورد. ملوان 1 a nautical man
+nautical mile /no:tikl 'mart/ bs Jee n
+nautilus /no:tilas, (US) mo:talas/ (pl nautiluses)
+n نو تیلوس )#52 نرم‌تن دریایی)
+(LB) ad) ۱.(مربوط 4( نیروی naval /mervl/
+pbs دریایی ۲.(مربوط به) ناوها
+هواپیمایی نیروی دریایی. naval aviation
+هوادریا :
+پایگاه دریایی a naval base
+نیروهای دریایی, قوای دریایی naval forces
+قدرتِ دریایی a naval power
+7 [کلیسا ] شبستان. صّحن مت ارات نی
+[چرعخ] توپی؛ ناف nave? /nerv/
+۸ (کالبدشناسی) ناف / 13۷61
+navel orange /nervl 'prinds, (US) :۲-/ J& n
+sgl پر تقال تاأمسون
+7 555,18 غیره ] / navigability / nevigabilatr
+قابلیّتِ کشتی‌رانی ۲. [بالون و غیره] هدایت پذیری»
+قابلیتِ هدایت
+fi=see 1=sit ®m-cat 00 8060 D=got 9
+a1 = five ay = ۷ oI =boy I¢ 0 - ناه el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+21 NBC
+navigable /nzvigabl / [دریا, رود و غیره] .۱ adj
+قابل‌کشتی‌رانی ۲. [بالون, موشک و غیره ] قابل‌هدایت.
+
+هدایت پذیر
+[کشتی ] قابل حرکت be in a navigable condition
+بودن» حرکت‌دادنی بودن
+wr ۱. [کشتی, هواپیما ] هدایت کردن navigate /navigert/
+۲ [کشتی. هواپیما, اتومبیل ] مسیر ... را مشخص کردن ۳.
+[دریاء رود و غیره ] با کشتی از... عبور کردن / گذشتن
+۴ [خیابان و غیره ] گذشتن HN عبور کردن ازء رد شدن از
+WE ۵.(دریانوردی. هوانوردی) ناوبری کردن, جهت‌یابی
+کردن؛ کشتی را هدایت کردن؛ هواپیما را هدایت
+کردن؛ (مجازی, در اتومبیل) راه را نشان دادن
+navigate a Bill through Parliament {
+esl شدن که لایحه‌ای از مجلس بگذرد. لایحه‌ای را از
+مجلس گذراندن
+۱. هدایت کشتی؛ ۱
+colin هواپیما ۲. عبور از aol سفر (دریایی) ۳
+)53( جهت‌یابی ۴. دریانوردی؛ ناوبری» Glan ob
+کشتی ۵. هوانوردی؛ ناوبری (هوایی) 03 Calan
+هواپیما ۶. کشتی‌رانی» عبور و مرور کشتی‌ها ۷.
+عبور و مرور هواپیماها
+adj (مربوط به) ناوبری؛ / navigational / neviger fant
+(مربوط به) جهت‌یابی؛ (مربوط به) Salas
+کشتی» (مربوط به) Colas هواپیما
+۱.(دریاتوردی) افسر navigator /navigeta(r) / tol
+( هوانوردی) افسر ناوبر ۲. دریانورد
+#1 (در بریتانیا) aad ala کارگر ساده nevi) ۳3۷۷۷
+# ۱. نیروی دریایی ۲ ناوگان " 07 ۲3۷۷
+hii رنگی) سرمه‌ای
+ad) ۴. [رنگ ] law uw آبي سیر
+(el) نیروی دریایی the Navy
+Department of the Navy; Navy
+( در آمریکا) وزارت دریاداری Department
+(در آمریکا) وزیر دریاداری Secretary for the Navy
+adjin )555( سرمه‌ای / navy blue / nevi blu:
+0 (کهنه) )9 حتی. نم nay /ner/ (aS) J
+سهل است (که)» غلط گفتم
+<formonths, nay for years > ۲. نه. نی
+nad) \ )50 آلمان) نازی Nazi /na:ts, nztsi-/ (ab 4) Y
+فاشیست. نازی
+1 نازیسم Nazism /na:tsizom, 'nats-/
+int )38 با حرف کوچک) NB /en 'bi:/ > nota bene
+ead توجّه
+NBC / en bi: 'si:/ > National Broadcasting
+n ( تلویزیونٍ / رادیوی) OM بی سی Company
+
+۷ 05000 00100 A=cup 3=bird a= 001
+
+= near 9 = hair U3 = pure elo = player aro = fire
+
+0= thin d= this [=shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1101 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: NCO; NE; Neanderthal; neap; Neapolitan; neap tide; or near; as near as dammit; not anywhere; near-; nearby; Near East; nearer; nearest; nearly; nearneSS; nearside; near-sighted; near-sightedness; neat -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+NCO 1
+NCO /en si: 'au/ > non-commissioned officer
+(LS) #2 درجه‌دار
+شمال NE! /no:0 'i:st/ > North East SB
+Jus adf شرقی i:stan/ > North Eastern 5:0 / 818۳2
+[out] adj نغاندرتال؛ Neanderthal /ni'zndata:1/
+[ فرهنگ. صنعت ] ( مربوط 4( ols! نئاندرتال
+n (جغرافی) که کشند. neap /7::0/  فیفخ dag ym
+ad) ۱.(مربوط به) Neapolitan /niapoitan/ «JG
+seb
+REV PV TYR ۸
+.= ایتالیایی. Neapolitan ice-cream
+بستني میوه‌ای )
+neap tide /ni;p taid/ = neap
+near' /uw(r)/ (comp nearer, super nearest)
+ad) ۱.(در مکان و زمان) Susp ۲. [ خویشاوند. رابطه, شباهت و
+غیره] نزدیک؛ [دوست ] نزدیک. صمیمی؛ [حدس ]
+قریب به یقین؛ [تصویر و غیره ] cand نزدیک به اصل؛
+[رقابت. مسابقه ] فشرده, تنگاننگ؛ [نتیجه ] تقریبی ۳.
+Gd چپی,» Se چپ. Sd چپ. چپ ۴.
+خسیس, ناخن خشک. oS
+تقریباء حدودا, با تقریب to the nearest
+HIRI نزدیک, به )$35 زود in the near future
+.)53 485500 و 06( It was a near miss.
+نزدیک هدف خورد. چیزی نمانده بود به هدف بخورد.
+۲. (مجازی) خطر از بیخ گوشمان گذشت. خدا رحم کرد.
+به خیر گذشت.
+جچیزی را از نزدیک get a near view of sth
+بررسی کردن
+در وسط؛ در جلو in the near distance
+a near thing — thing
+نزدیکان کسی, one's nearest and dearest
+خویشان و آشنایان کسی
+one's nearest and dearest friends
+دوستان Sip کسی
+(در ۳ (NS یا به or near / nearest offer
+بالاترین پيشنهاد, یا جیزی در این حدود
+این کار It's a very near concern of mine, Ju
+من است. این کار کار من است. pred من روی این کار
+خورده است. این مسئله is من است. این مسئله JU
+من اشت.
+پولش به جانش He's near with his money.
+پسعته Cann]
+near? /nis(r)/ Susy adv
+sail near to the wind — sail?
+]=[ دم Cas همین‌جا؛ [جا] near at hand
+همین (Jar همین‌جاء همین نزدیکی‌ها؛ [رویداد ] نزدیک.
+همین روزها
+
+<!-- REGION: RIGHT COLUMN -->
+
+22
+تا جایی کد. تا آنجا که as near as
+as near as dammit / damn it; as near as
+makes no difference; as near as no matter
+(محاوره) یا جیزی در این حدود. یا جیزی تو این مایه‌ها
+far and near — far?
+هیچ not anywhere / nowhere near Sol
+خیلی مانده تا
+این‌قدر نزدیک و so near and yet so far
+با این حال دست‌نیافتنی, چه نزدیک و چقدر دست‌نیافتنی
+prep .)53 زمان و مکان) 5 nears /nia(r)/ SSG
+۲ نزدیک به, تقریباً
+دار clan در شرف near to
+نزدیک بود / جیزی  I came near to screaming.
+نمانده بود (که) فریاد بزنم. دیگر داشتم فریاد می‌زدم.
+تزدیک بود/ چیزی She was near to tears.
+نمانده بود (که) بزند زیر گریه.
+heart ج near to sb's heart
+be near to home — home’
+۶ ۱. نزدیک شدن / near* /nia(r)
+wr ۲. نزدیک شدن به
+تقر near-/'nis(r)/ < near-perfect > ls
+adj .این اطراف, این نزدیکی‌هاء / ۹ / nearby
+آینجا
+adv .همین نزدیکی‌هاء در این (sm این طرف‌هاء
+همین دور و برها
+/ا Near East / nor
+7 خاورمیانه, خاور نزدیک the Near East
+prep نزدیک dy نزدیک‌تر به 1( 1۱63۲6۲
+از همه نزدیک تر به. nearest /'nianist/
+خیلی نزدیک به
+Luis ۱ 0 حدوداً, کمابیش, چیزی nearly /mialt/
+نمانده است aS نزدیک است aS جیزی نمانده بود
+که نزدیک بود که ۲. خیلی, به مقدار زیادی, کاملاً
+Nea Sel به هیچ وجه not nearly
+pretty nearly — pretty
+۸ ۱.(در زمان و مکان) nearness /moms/ «Kuo
+نزدیک بودن ۲. [رابطه. شباهت و غیره] نزدیکی.
+قرابت؛ [تصویر و [od شباهت. نزدیکی؛ اصل ۳.
+خسّت. ناخن خشکی. کنسی
+ad) ۱.(در بریتانیا) دستِ چپی. nearside /nissaid/
+eed چپ., ee چپ. چپ
+(Shay 2). 8 دس چپء a چپ
+adj نزدیک‌بین near-sighted / nis 'satrd/
+اصلاً دور را ندیدن, be very near-sighted
+نزدیک‌بین بودن
+7 نزدیک‌بینی  near-sightedness/ nw saiidnis/
+adj ۱. [شخص, اتاق و غیره ] مرتب» منظم, neat /ni:t/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1102 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: neatness; nebulae; nebulous; necessitOUS; necessity; the scruff of the; this -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11 :
+مرتب و منظم؛ تمیز, پاکیزه ۲. [لبساس] اراسته.
+ترو تمیز؛ [چهره, ماشین و غیره ] قشنگ, خوشگل؛
+gl] با (Saale خوش‌تزاش ۳ ihn] خل
+| و غیره] DAS a LAS مور ماهرانه؛ [کار, نوشته ]
+اشسته و رفته: ترو تمیز» دقیق ۴ (در OF WORTH
+| [ فیلم. فکر و غیره ] عالی» محشرء معرکه. تمیز ۵.(در
+| آمریکا) [مشروب ] (So خالص
+‘neath /ni:6/ = beneath |
+0 ۱ مرتب, phate مرتب و منظم؛  neatly /mitl/
+پاکیزه, تمیز؛ [لباس پوشیدن ] آراسته. تر و تمیز ۲.
+ماهرانه, استادانه, با مهارت., قشنگ؛ به دقت
+7 ۱. [اتاق. کار و غیره ] نظم, neatness /ni:tnis/
+ترتیب, نظم و ترتیب؛ [شخص, لباس ] آراستگی؛
+تمیزی» پاکیزگی ۲. [مچ دست. ساتي پا و غیره] قشنگ
+بودن, خوشگل بودن» خوش‌تراش بودن ۳ مهارت.
+wold
+nebula /nebjula/ ( p/ nebulae, nebulas)
+2 (ستاره‌شناسی) oD
+nebulae /mebjuli:/ p/ of nebula
+(مربوط 4( nebular /mebjsla(r) ta ol
+سحایی‌مانند
+۱.(مربوط به) سحابی‌ها  nebulous /mebjulas/
+۲. [مایعات. غیره] aS تیره, تار ۳. [افکار, خاطرات و
+غیره ] مغشوش, درهم‌برهم, اشفته؛ مبهم, گنگ.
+نامشخص, نامعلوم
+0 الزاما. / دود necessarily /nesa'seralt,
+ضرورتاً, لزوماً؛ ناچار, ناگزیر, لاجرم
+necessary/ nesasari, (US) -ser1/ ( p/ necessaries)
+ose YN ad) الزامین, 2506 اجتناب‌ناپذیرء
+محتوم ۳ واجب, بایسته
+۸ ۴.(در (px چپزهای oN چیزهای ضروری؛
+مایحتاج ( زندگی) gd ضروریات
+در صورتِ 3 اگر لازم if necessary aly
+عنداللز وم
+امر اجتناب‌ناپذیر, امر 250 a neccessary evil
+(oss) کاری را که لازم است  do the necessary
+انجام دادن, هرچه که باید کردن
+(omy) VI ضروری ساختن, necessitate /ni'sesttert/
+الزامی کردن. مستلزم ... بودن» ایجاب کردن
+4 (رسمی) ۱. [شخص. necessitous /nr'sesitos/
+خانواده ] (ih نتگدست, نیازمند, محتاج ۲. [شرایط.
+وضعیت ] ( مربوط به) is (مربوط به) تنگدستی,
+( مربوط به) نیازمندی ۳ ose واجب
+An احتیاج, necessity /nrsesati/ ( pl necessities)
+نیاز؛ ضرورت. لزوم ۲. امر اجتناب‌ناپذیر» ah
+1=sit ®=cal a=father D=got oi=s موس
+el = say 3 = go ar = five au = ۷ oI = boy 7
+avd = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 neck
+محتوم؛ اجتناب‌ناپذیری,» محتوم بودن ۳ چیز لازم.
+چیز ضروری» چیز واجب؛ (در جمم) ضروریات.
+جات اوّلیه ۴. قانون. اصل ۵. فقرء نیازمندی, laa
+تنگدستی, احتیاج
+make a virtue of necessity ج 6
+Necessity is the mother of invention. (prov)
+Ca) احتیاج مادر اختراع
+of necessity ضرورتا؛ به ناچار, ناگزیر Lig
+be under the necessity of doing sth
+ناگزیر بودن که... dS مجیور بودن که.... ناچار بودن
+in case of necessity  ِتروص لزوم. در Sse در
+ضرورت, عنداللز وم
+bow to necessity ام محتوم / ضرورت Ar در
+تسلیم شدن
+neck /nck/ ۱.(کالیدشناسی) گردن ۲. [لباس ] یقه 2
+(آشپزی) گوشتِ گردن, گردن ۴. [بطری ] گردن؛ ۳
+ویولن و غیره ] دسته ۵. تنگه [
+(محاوره) [دختر و پسر ] همدیگر را بوسیدن .۶
+the scruff of the / one's neck — scruff’
+break one's neck (doing sth / to do sth)
+محاوره) (با کار) خود را خفه کردن, خود را کشتن (
+breathe down sb's neck — breathe
+He got it in the neck. محاوره) خدمتش رسیدند. (
+پوستش را کندند. پدرش را دزاوودنة. دمار از
+روزگارش درآوردند.
+be a millstone round one's neck — millstone
+neck and crop PALS
+neck and neck (with sb/sth) مسابقه و غیره) 5)
+Lal شانه به شانه, مساوی,
+this / one's neck of the woods محاوره) این (
+دور و ورهاء این اطراف, اینجاها
+neck or nothing با به خطر انداختن همه چیز,
+که یا ستز برود i هچ We با رسک کردن» يا همه
+یا کلاه بياید
+It's neck or nothing. محاوره) علی‌الله! (
+یا جان رسد به جانان یا جان ز تن برآید. هرچه بادا باد!
+یا سر می‌رود يا کلاه می‌آید.
+a pain in the neck — pain
+risk one's neck جان خود را به خطر انداختن
+save one's neck خود را نجات دادن ol
+stick one's neck out — stick 2
+be up to one's neck in sth ] [کار, گناه و غیره
+تو...غرق بودن, تا خرخره در... بودن
+win by a neck با اختلافی کمی بردن
+lose by a neck با اختلافی کمی باختن
+۷  v=cook u:=100 A=cup 300100 o=about
+= near eo = hair vo = pure elo = player ala = fire
+6= thin 8= this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1103 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: be around; neckerchief; necklace; necrology I no'krolsdn; necrophilism; nectar; nectarine; needle -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+neckband 1
+wring sb's neck — wring
+be around / be hanging round one's neck
+( محاوره) وبال گردن کسی بودن
+یک باریکه راه, یک باریکه خشکی aneck of land
+2 بقه؛ دور neckband /nekband/ Ay
+n دستمال گردن neckerchief /'nekatjif/
+1 (محاوره) ماچ و بوسه necking /'nekig/
+a گردنبند, شینه‌ریز necklace /nekirs/
+۸ ۱.گردنبند, سینه‌ریز necklet /neklit/
+۲ خز 59 گردن
+۸ بقه / ال ۲۵۵۷۱۱۱۵
+mn (در آمریکا, necktie /nektar/ Obl Seg
+7 (در فروشگاه) پوشاکي / neckwear /nekwea(r)
+گردن
+BIR مردگان. / necrology /na'krolads1
+(LUT) متوفیّات ۲. آگهي pi آگهي ترحیم
+necromancer /‘nekrovmansa(r) /
+sas axl a ارواح :
+necromancy /‘nekrssmansi / lst axl n
+ارتباط با مردگان
+1 مرده‌دوستی؛ مرده‌بازی / necrophilia /nekrav'filta
+11 مرده‌دوست. / necrophiliac / nekrov'filizk
+مبتلا به مرده‌دوستی؛ مرده‌باز
+necrophilism /nekrofilizam / = necrophilia
+necropolis /nrkropalis/ ( p/ necropolises)
+n قبرستان, گورستان
+(rags nn نوش nectar /'nekta(r)/ XK
+۲ (اساطیرٍ یونان و روم) شراب خدایان» نکتار؛ (مجازی)
+Alay بهشتی
+بر شلیل / nectarine /nektorin
+NEDC /en i: di: 'si:/ > National Economic
+1 (در (Gs, شورای Development Council ls
+dew ys اقتصادی ۰"
+Neddy /nedi/ = NEDC
+با نام خانوادگي پدري née /ner/
+Jane Smith, née Brown > <
+0 در جمله‌های منفی و سژالی) بایستن. need’ /ni:d/
+| مجبور بودن, لازم بودن» ضرورت داشتن
+| مجبور نیست برود. لازم نیست برود. He needn't go.
+| احتیاج نیست. برود. نباید برود.
+| لازم است کتاب را Need I finish the book?
+| تمام کنم؟ حتماً باید کتاب را تمام کنم؟
+She needn't have come in person.
+. الازم نبود شبخصاً بیاید. احتیاجی نبود خودش بیاید.
+| ایا این الراما / ضرورتاً Need that be true?
+درست است؟
+wr : .احتیاج داشتن ay لازم داشتن» ۰ need? /mid/
+
+<!-- REGION: RIGHT COLUMN -->
+
+24
+خواستن, نیاز به...داشتن ۲. لازم HRY VE JOT
+I need to consult a dictionary. . 1
+باید / لازم است به فرهنگ مراجعه کنم. i
+It/He doesn't need me to tell him. ;
+احتیاجی نیست / لازم نیست من به او بگویم.
+i This plant needs watering / to be watered.
+باید la گیاه ols ol این oS احختیاج به آب yl
+ویزا می‌خواهد. ویزا لازم است. A visa is needed. |
+تعطیلاتی که خیلی بهش = much needed holiday ۰۵ :
+نیاز بود؛ تعطیلاتی که شفا بود أ
+a ضرورت. لزوم need? /nid/ lal Y
+ننیاز ۳ )50 (pa احتیاجات اولیه. ضروریّات. :
+احتیاجات ۴. فقرء تنگدستی, احتیاج, نیازمندی ٍ
+I feel a need to talk to you.
+احتیاج دارم با تو صحبت کنم. |
+There is no need for you to start yet.
+لازم نیست / احتیاجی نیست / ضرورت ندارد / BPE
+ندارد حال" شروع کنی.
+اگر لازم باشد. در صورتِ نیاز, در صورتِ if need be
+آزوم. عنداللزوم
+تو از من Your need is greater than mine.
+نیاز بیشتری داری. (به شوخی) تو از من محتأاج‌تری.
+لازم داشتن, have need of; be in need of
+به... احتیاج داشتن, به ...نیاز داشتن؛ محتاج... بودن,
+نیازمند... بودن
+a friend in need — friend
+Lor 58 El بودن, محتاج بودن be in need
+به هنگام احتیاج. in one's hour of need
+a سختی, هنگام تنگدستی
+لازم. ضروری, بایسته 01 ۱۵۵۵۲۱
+هر کاری لازم است انجام do the needful
+دادن / کردن؛ In لازم را فراهم کردن
+0 (کهنه) Jal ضرورتا / 46 / needfully
+1 فقرء تنگدستی, احتیاج.  neediness /nidmis/
+نیازمندی
+2 ۱.(خیاطی) سوزن ۲.(بافندگی) میل؛ /0::41/ needle
+( قلاب‌بافی) a قلاب ۳ [قطب‌نما و غیره] عقربه ۴.
+(پزشکی) سوزن؛ (در آمسریکا, مسحاوره) آمپول ۵
+(گیاه‌شناسی) برگي سوزنی ۶. صخرءٌ سوزنی, قلةٌ
+سوزنی ۷. [گرامافون ] سوزن A (محاوره, در مسابقه و
+غیره) خشونت ٩.(معماری) تک‌ستون. Sb
+۶ ۱۰.(با سوزن) دوختن ۱۱.(با سوزن) سوراخ
+کردن ۱۲. ob] خود] 4 زور باز کردن ۱۳.(محاوره)
+[شخص ] تحریک (03S سیخونک زدن به ۱۴.
+(محاوره) اذیت کردن؛ نیش زدن به
+(عامیانه) کسی را اذیت کردن. give sb the needle
+اعصاپ کسی را خطخطی کردن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1104 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: a needle game; needless; needlessly; needlewoman; needle work; needn't; needs; needy; ne'er; ne'er-do-well; nefariOUS; nefariously; nefariousness; neg; negate; negation; negatively; negativity; neglect; leave sb -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+get the needle (عامیانه) اعصاب کسی خطخطی شدن
+look for a needle in a haystack
+
+(مجازی) در کاهدان دنبال سوزن گشتن
+sharp as a needle — sharp
+به کسی Jes! زدن. give sb a needle
+به کسی سوزن زدن
+dbl خشن, بازی خشن a needle game / match
+needlecraft/ni:dikra:ft, (US) kreft/ «bls n
+گلدوزی.» برودری‌دوزی
+Sau p] adj و غیره ] غیرلازم» needless /midlis/
+غیرضروری, که احتیاجی به ان نیست. اضافی,
+doy بی‌مورد.ء به‌دردنخور. بی‌فایده
+نیازی به گفتن نیست که» needless to say
+گفتن ندارد که
+0 بی‌جهت. بی‌دلیل, needlessly /ni:disli/
+بی‌مورد. بیخود. بدون جهت
+needlewoman/ ni:dlwsman/ ( p/ needlewomen)
+n دوزنده, bls )03(
+۱. خیّاطی؛ گلدوزی, needle work /ni:dl wak/
+$5938« سوزن‌دوزی ۲. کارهای خیّاطی؛
+کارهای گلدوزی
+needn't /'ni:dnt/ = need not
+needs /ni:dz/ Lai (ab 4) adv
+Needs must when the devil drives. (prov)
+وقتی ادم مجبور باشد هر کاری می‌کند. G3 ضرورت
+چو نماند گریز - دست بگیرد سر pad تیز.
+needy /'ni:di/ (comp needier, super neediest)
+«pad A adj محتاج, تنگد سینت
+۲. فقراء تهیدستان
+در فقره در تنگدستی in needy circumstances
+ad) (کهند) هیچگاه, هرگز, Mol و ne'er /nea(r)/ lal
+om ادم بی‌خاصیّت. ne'er-do-well /mes du: wel/
+po! بیکاره
+adj ۲ بیکاره. بی‌خاصیّت
+adf (رسمی) [عمل ] زشت. / nefarious /nrfearros
+شنیم» غیراخلاقی؛ خلافي قانون؛ [شخص ] nt
+شرور
+0 (رسمی) به طرزی / ۵ / nefariously
+شنیع. به صورتی زشت؛ با منتهای شرارت
+(us) [اعمال ] / دهد / ۲۵13۲0۱۷51655
+| زشتی, قباخت, شناعت
+neg /'negattv/ < negative no
+ve (رسمی) negate /nrgeit/ (33 SOSH
+ٍ نفی کردن ۲. [نظریه و غیره ] باطل Boa S کردن X
+بی‌اثر کردن» خنثی کردن
+3 ند ii=see I=sit @=cat a:=father D=got
+a1 = five au = now oI = boy 12 0 - ناه el = say
+aya = hour j=yes w= wet t/ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+25 neglect
+negation /nr'gei/n/ ASSEN (om)
+| Gd (ga) ¥ an جواب Ym sags ¥
+| negative /'negotiv/ [iss پاسخ. نظر, نتیجه و [ ۱۰
+| منفی ۲ (دستور. ریاضی, برق) منفی ۳ (منطق) سالب,
+| 35S (عکاسی) Fale
+| (iis اداتِ نفی ۶. جواب a AS (Ges) :۵
+| منفی ۷ برق) قطب منفی, کاتود Adan $3, جواب
+ ویتاگن )یساکع(.٩ منفی pus منفی؛ lie ۸.ریاضی)
+| 03 55 نپذیرفتن» قبول 0S (رسمی) ۱۰ رد 4
+ .ندرک Sloth od SL مخالفت کردن
+کردن ۱۲ بی‌اثر By نادرستی ...را نشان دادن,
+کردن, خنثی کردن 0
+a negative reply رد loa پاسخ منفی»
+a negative definition سلبی ca «ad تعریف به
+be negative [شخص ] نظر ... منفی بودن
+a negative adverb ; منفی hd
+in the negative دستور) به صورتِ منفی. (
+منفی Al در
+put sth in the negative [جمله [ منفی کردن
+be in the negative [جواب ] منفی بودن
+answer in the negative OM منفی ole
+جواپ ,3 دادن» به طور منفی پاسخ دادن
+negatively 1 صورتِ منفی؛ AN 0
+منفی JL با دید منفی ۲.(برق) با
+answer negatively isk, جواب als جواپ منفی
+negativity / nego'tivit / نگرش منفی, دید منفی n
+neglect /nr'glekt/ بی‌توجهی کردن به. .۱ ۶
+[aby کردن؛ [کار. Js توجه نکردن به. نرسیدن به.
+قصور کردن درء کوتاهی کردن 50 مسامحه کردن
+اعتنا نکردن (ay در؛ [قانون, مقررات ] محل نگذاشتن
+به؛ [فرصت ] از دست دادن؛ [توصیه ] نادیده گرفتن؛
+نکردن (به) Jas [قول ] زیر پا گذاشتن,
+کردن. غفلت؛ [کار. Jy بی توجهی, نرسیدن (به)» Yn
+ama a کوتاهی, Jal قسصور, [ub
+سهل‌انگاری (در)؛ [توصیه, قول ] نادیده گرفتن؛
+قوانین, مقررات ] بی‌اعتنایی ( به) [
+neglect oneself به سر و وضع خود توجهی نکردن»
+به خود نرسیدن oS خود را ول
+neglect doing sth/ to do sth (45) فراموش کردن
+دریغ کردن از, مضایقه کردن ازء فروگذار کردن
+leave 50 / sth in neglect کسی / چیری را به
+خدا رها کردن, به کسی / چیزی رسیدگی نکردن» oll
+کسی / چیزی را ول کردن
+The garden is in a state of neglect. باغ را ول
+کرده‌اند. به باغ نمی‌رسند.
+v 00000 u:=100 A=cup 30 8100 a= about
+= near 2 = hair U3 = pure eI = player aro = fire
+6= thin d= this = shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1105 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: neglected; neglectfully; neglige; negligence; negligently; negligible; negotiation; enter into I open; negotiator; Negro; Negus; neighboring; neighborlineSS; neighborly; neighbour -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+neglected 11
+adj [همسر, خانواده ] به‌امان / neglected /nr'glektid
+خدا رها شده؛ wa] باغ ] بد نگهداری شده., به‌امان
+خدارهاشده؛ [نواحی, مناطق ] محروم؛ [کتاب و غیره ]
+مورد بی‌توجهی / بی‌اعتنایی قرارگرفته.
+
+فراموش شده؛ [سر و وضع ] به‌هم‌ريخته. آشفته
+
+خود را تنها احساس کردن, feel neglected
+
+کسی احساس کردن که همه او را فراموش کرده‌اند
+ad) (رسمی) بی توجه neglectful /nrglektfl/
+بی‌توجهی کردن )4( be neglectful (of)
+
+کوتاهی کردن (در موردٍ), قصور کردن (در مورد)»
+
+مسامحه کردن (نسبت به)
+0 با بی‌توجهی, / neglectfully /nrgiekifalr
+از روی مسامحه
+بی توجهی, / neglectfulness/niglekifinis
+کوتاهی, قصور. مسامحه. اهمال, سهل‌انگاری
+n رب‌دوشامبر négligé /'neglizer, (US) negli'ser/
+توری
+negligee /'negiiser, (US) negh'zer/ = négligé
+7 بی توجهی, کوتاهی,  negligence /negiidsons/
+قصورء مسامحه. اهمال, اهمال‌کاری, سهل‌انگاری.
+بی‌مبالااتی. بی‌دقتی؛ بی‌احتیاطی
+oN 4 توجه. مسامحه‌کار. negligent /neghidsant/
+
+اهمال‌کار, سهل‌انگ ار. بی‌دقت. بی‌مبالات؛
+
+بی‌احتیاط ۲. [رفتار, حرکات ] راحت, بی تکلّف.,
+بی‌خیال |
+
+negligently 7 / (SS a .با adv
+راحت. با بی‌قیدی. بی‌خیال ۲. با بی‌توجهی, از
+روی مسامحه. با سهل‌انگاری
+
+قابل‌اغماض, قابل چشم negligible /negiidsobl/
+پوشیدن, چشم‌پوشیدنی» صرف‌نظرکردنی؛ جزئی.
+
+بی‌اهمیّت, کوچک, کم, ناچیز
+
+negotiable /nr'gou abl / قابل‌مذاکره. ۱ adj
+مذاکره کردنی. قابل‌بحث ۲. [چک. سهام ] نقدکردنی,
+قابل نقدکردن؛ واگذارکردنی, قابل‌واگذاری,
+se pls [oi رود و wlan] ۳ قابل‌انتقال
+
+عبورکردنی
+
+negotiate /ni'gas fie / ۱.مذاکره کردن بر سرء wr
+گفتگو کردن دربارةٌ ۲. [چک ] نقد کردن؛ پذیرفش.
+قبول کردن؛ [سهام و غیره ] فروختن؛ خریدن؛ [چک.
+سهام و غیره] واگذار کردن. انتقال دادن ۳. [مانع, رود و
+عبور کردن از؛ [مشکلات] فائق ol غیره] گذشتن
+پس ... برآمدن ۴ به Sn oes ade آمدن بر
+
+توافق رسیدن در مورد
+vi ۵.مذاکره کردن, گفتگو کردن
+
+come to the negotiating table بر سر میز
+
+مذاکره آمدن ) ای
+
+negotiation /nigos/reifn/ مذاکره» (pax ۱.(نیز در 8
+
+<!-- REGION: RIGHT COLUMN -->
+
+26
+گفتگو, مذاکرات ۲. [مانع و غیره ] عبورء گذشتن (از)؛
+[مشکلات ] ade (بر) ۳ [چک ] نقد کردن؛ [سهام]
+فروش؛ خرید؛ [چک. سهام و غیره ] واگذاری, انتقال
+enter into / open / carry 6
+با کسی ly 5 مذاکره شدن. negotiations with sb
+باب مذاکره را با کسی 59528
+7 مذا کر «کفنده. / f1eita(r) دی ۱/۳۵ negotiator
+طرفي مذاکره. طرفي گفتگو
+2 زن سیاه‌پوست؛ دختر Negress /mi:gres/
+سیاه پوست؛ دده‌سیاه"
+7 سیاه پوست. Negro /'ni:grau/ ( pl Negroes)
+سیاه؛ کاکاسیاه
+Ass کار بردی:
+آداب‌دانی: آفر یقایی تبارها ( چه امروزی‌هاء چه قدیمی‌ها)
+معمولاً ترجیح می‌دهند که black نامیده شوند. در ایالا
+متحده نیز ترجیح می‌دهند که African-American نامیده
+شوند. در بریتانیا بیشتر SG اصطلاح Afro-American
+در موردٍ آفریقایی‌تبارها به‌کار می‌رود. برخی تصور
+می‌کنند که به‌کار بردن coloured LIS در 3,50 آن‌ها
+Glos است. اما اکنون دیگر کاربردٍ این کلمه, LIS Jao
+رد توهین آمیز و غیر LG قبول محسوب 2 258
+mena] VN adj و غیره ] / 1 ۷0
+سیاه پوستی» سیاه‌وار
+7 ۲. سیاه‌پوست. سیاه‌ریخت. سیاه‌وارء نگروئید
+(در حبشه) Negus /'ni:gas/ sod
+7 ۱. شیهه. صدای اسب neigh /ne1/
+Agen .۲ Vi کشیدن
+neighbor /meiba(r) / (US) = neighbour
+neighborhood /'neibshud / (US)
+neighbourhood =
+neighboring /meibsrig / (US) = neighbouring
+neighborliness/memalinis/ (US)
+neighbourliness =
+neighborly /meibait/ (US) = neighbourly
+VN 1 همساید / neighbour /meiba(r)
+۲. (شخص / چیز ) ple بغل‌دستی» کناری؛
+( جغرافی) همسایه ۳ هم‌نوع؛ St
+wi ۴. رفت و امد کردن, معاشرت کردن
+eS بودن, کنار... بودن. neighbour on
+بهلوی<اقززار abs
+When the tree fell, it brought down two of
+وقنی ol درخت its neighbours. oll
+دو تا از درخت‌های بغل‌دستی‌اش را هم انداخت.
+2 ۱.ناحیه. منطقه. ۰ neighbourhood /netbshod/
+محل. محلّه ۲. حول و حوش, حوالی, اطراف.
+دوروبّر ۳ اهل محل
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1106 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: neighbouring; neighbourlineSS; neighbourly; neither; nelly; nelson; neoclassicism; neologism; neology; a neon lamp; neophyte; neoplatonism -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+I]
+in the neighbourhood of در همشایگی,
+در مجاورتٍ. نزديکي, اطرافي, حوالي, در حول و حوش,
+
+دورو بر ۲. در حدود. Lz دور و بر
+neighbourhood watch / neibshusd ‘wot /
+۸ نگهبانی Jos مراقبت از محلّه
+ad) همسایه, مجاور / neighbouring /netbarig
+n رفتار دوستانه.  neighbourliness/merbslinis/
+رفتارِ گرم, رفتارِ محبت‌آمیز». صمیمیت؛ احساساتِ
+FH COPE
+ad) [شخص, مردم ] مهربان. neighbourly /erbali/
+بامحیت. tp —S [اخستتاسات, cab go [Lh
+محبت امیز., گرم. صمیمانه :
+adj ۱.(در مورد دو جچیز  neither /'naida(r), (US) ni:dar/
+با دو شخص) هیچ 51K هیچ کدام ازء نه این ...(و)
+نه ol
+8 ۲ (در 932500 چیز یا دو شخص) هیچ ne هیچ کدام, نه
+این (و) نه ol
+adv, conj ۳ هم
+هیچ‌ یک از دو جواب  Neither answer is correct.
+درست نیست. نه این جواب درست است (و) نه OF
+هیچ WS هیج کدام neither one
+هیچ‌کدام از آن‌ها را I'll choose neither of them.
+انتخاب نمی‌کنم. نه این را انتخاب می‌کنم (و) نه ان را.
+He doesn't like Beethoven and neither do 1.
+او از بتهوون خوشش نمی‌آید. من هم خوشم نمی‌آید. نه
+او از بتهوون خوشش می‌آید. نه من. او از بتهوون
+خوشش نمی‌آید. من هم همین‌طور.
+tA 4k رهم neither... nor...
+او نه می‌داند He neither knows nor cares.
+نه اهمیت می‌دهد. هم نمی‌داند هم اهمیت نمی‌دهد.
+AS کار بردی:
+بعد از کلمات neither و «either اسم و فعل به صورت
+مفرد به کار می‌روند:
+Neither candidate was suitable for the job.
+Either candidate will be suitable for the job.
+به دنبال عبارت‌های none of either of neither of
+یا of انم فقط adr el ach! به‌ کار می‌رود ولی فعل
+یا به صورتِ مفرد به کار می‌رود یا به Sogo جمع. 2208
+فعل Suey جمع به خصوص در گفتار رایج است:
+Neither of my parents has / have a car.
+Does / Do either of you like strawberries?
+None of the staff speaks / speak a foreign
+language.
+Does / Do any of children play a musical
+instrument? |
+a=father D=gol o:= sa اه ده ii=see 1=sit
+cl=say  ov=go al=five  as=now 1-007 ۵
+ava = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+27 nephew
+نیز فعل می‌تواند هم به neither..nor بعد از عبارت
+جمع: Spe صورتِ مفرد باشد و هم به
+Neither the television nor the video works /
+work properly. |
+nelly /melr/
+not on your nelly (در بریتانیا, عامیانه) ۱. نه. a
+و ابداً ۲. ارواح شکمت. خواب دیدی خیر است Sol
+nelson /'elsan/ (گُشتی) مایه اوج‌بند a
+a half nelson مایه اوج‌بند. نیم نلشن
+a full nelson AL تمام نلشن, دوبل
+nem con / nem kon/ به اتفاتی آراء متفقاء 0
+بدونِ هیچ مخالفتنی 0
+nemeses /'nemssi:z/ pl of nemesis
+nemesis /memosis/ ( p/ nemeses) (رسمی) 1
+محتوم dang .۲ پادافره aS ۱.مکافات. جزاء
+neoclassical ni:avklasiki / (ادبیات. هنر)
+نوکلاسیک, نئوکلاسیک, (مربوط به) نوکلاسیسیسم
+neoclassicism/ni:avklasisizam/  )رنه (ادبیات, 2
+سیسیسم AS 555 ren AS 53
+neocolonialism/ni:svkslaonislizom / استعمار نو 7
+neofascism/ ni:ov'fe f1zom/ ENE نئو 7
+فاشیسم نو
+neolithic / ni:oli6rk / نوسنتگی adj
+the Neolithic Age دوران نوقتنگی, عصرحجر جدید
+neologism /ni:bladsizom / re كلمة oles An
+معنی تازه ۳ واژه‌سازی. [als] .۲ تازه 550,
+واژه‌بازی؛ کاربردٍ واژه‌های تازه
+neology /ni:'bladsi/ = neologism
+neon /'ni:on/ O89 (شیمی) :
+a neon lamp / light ورن (oY / (چراغ
+neonatal / ni:snertol / نوزادان. (4 bye) adj
+مربوط 4( نوزاد (
+۱۳ (پزشکی) نوزاد ۸
+neonazi/ ni:au'na:tsi, -nets-/ نئونازی 4
+neophyte /miafait/  .بهذمون (رسمی) ۱.(فردِ) 2
+تازه گرویده ۲.مبتدی, نوآموز, تازه‌کار
+neoplatonic/ ni:ouplatonik / نوافلاطونی 4
+neoplatonism / \ni:au'pleetanizom /
+مکتب نوافلاطونی
+neoplatonist/ ام ندز ERS n
+nephew /nevju:, nefju:/ ly پسر .۱ 7
+برادرزاده؛ پسر خواهر, خواهرزاده ۲.(پسر)
+برادرزادة زن؛ برادرزادة شوهر؛ خواهرزادة زن؛
+شوهر Bl ls
+w  u=cook u:=t00 A=cup 3:=bird o= about
+- near e9 = hair U3 = pure cto = player aia = fire
+0= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1107 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nepotism; Neptune; nereid; nerve; be a bag; nerve-cell; nerve-centre; nerveless; nervelessly; nervous; nervous breakdown; nervously; nervousneSS; nervous system; nervy; nest; nest-egg; nestle; nestle up against; nestling -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nephritis 11
+#2 (پزشکی) نفریت., عفونتِ کلیه / nephritis /nrfrartis
+mn پارتی‌بازی / nepotism /nepatizom
+۸ (ستاره‌شناسی) 0 Neptune /'meptju:n, (US) -tuin/
+bl) n یونان) نرئید. الهة دریایی / nereid /'nrorid
+n ۱ کالنشتامی) عقتب» nerve /nzv/ “ws
+des عصبی ۲. (محاوره, در (par اعصاب ¥ شهامت.
+شجاعت., جرئت. جسارت., دل؛ اعتمادبه‌نفس ۴.
+(محاوره) رو پررویی» گستاخی ۵.(گیاه‌شناسی) رگبرگ
+
+wr ۶. جرئت دادن way قوّتِ قلب دادن بهء دل دادن به
+
+دست (روی) جای hit / touch a (raw) nerve
+uli گذاشتن, به جای حسّاسی زدن
+
+strain every nerve — strain
+
+suffer from nerves ناراحتی اعصاب داشتن
+
+have nerves of steel  »ندوب اعصاب (کسی) قوی
+
+اعصاپ )5( آرام بودن؛ خونسرد بودن
+
+be a bag / bundle of nerves; be all nerves
+
+خیلی عصبی بودن
+
+get on sb's nerves کسی را las (محاوره)
+
+ناراحت کردن, اعصاپ کسی را خرد کردن. کسی را
+
+عصبی کردن
+
+be in a state of nerves  .ندوب اعصاب کسی خرد
+
+las! کسی خراب بودن
+
+His nerves were on edge.  .دوب داغون ila!
+
+live on one's nerves تمام مدت نگران بودن.
+
+دائما دلواپس بودن
+
+خونسردی خود را حفظ کردن.  keep one's nerve
+
+خود را نباختن
+
+lose one's nerve خود را باختن
+
+بر اعصاپ خود مسلط شدن.  regain one's nerve
+
+PRPS بازیافتن؛ اعتمادیه‌نفس خود را دوباره
+به‌دست آوردن
+
+nerve oneself to do sth به خود جرئت دادن که....
+
+به خود O38 قلب دادن که...
+
+جه رویی! رو را بروم! رو که نیست! What a nerve!
+
+nerve-cell /mav ٩۵۱/ (کالیدشناسی) سلول عصبی, #
+eas Rl
+nerve-center/na:v senta(r)/
+
+(US) = nerve-centre
+nerve-centre/na:v senta(r)/ مر کز عصبی .۱
+
+۷ (جازی) قلبء مرکز اصلی, id مرکزی
+بر گاز اعصاب 1 nerve gas /'na:v gas/
+۱.ضعیف: nerveless /navlis/  .ناوتان coal
+
+۳ کرخ ۲. خونسرد. بی‌خیال Jo tole
+
+جسور, باشهامت. شجاع
+
+nervelessly /naviisli/  لاح‌یب .با بی‌حالی, adv
+با خونسردی, خونسرد. با بی‌خیالی ۲
+
+nerve-racking/nav rzkiy/ ۰ اعصاب‌خردکن adj
+
+<!-- REGION: RIGHT COLUMN -->
+
+28
+۸ متخصّص nerve specialist /'ms:v spefalist/
+اعصاب, 5 (Kb اعصاب
+7 ۱.(کالبدشناسی) عصبی. 1 ؟ Nervous
+( مربوط 4( اعصاب ۲ ترسو؛ [فریاد. خنده و غیره]
+ناشی از ترس, حاکی از ترس ۳ [شخص ] seas
+بی‌قرارء ناارام؛ [رفتار ] عصبی؛ [سابقه ] هیجان‌انگیز
+۱ ترسیدن ۲. عصبی بودن. be nervous
+دلشوره ذاشتن, دلواپس RE ERY] بودن
+nervous breakdown /na:vas 'bretkdaun /
+n کوفتگي عصبی,» پريشاني عصبی, آشفتگي روانی
+0 .با حالتی عصبی nervously /'na:vasli/
+با نگواتی ابا 5 Glare بدلشوره با S$ Sis
+GAPS An عصبی, Nervousness /'na:vasnis/
+عصبی بودن ۲. ترس., (SL دلواپسی, دلشور»
+اضطراب
+nervous system /'ns:vss sistam/ dd n
+اعصاب. دستگاه عصبی
+nervy /ns:vi/ (comp ۵۲۷1۵۲, super nerviest)
+ad) (محاوره) ۱.(در بریتانیا) عصبی, ناراحت. عصبی مزاج؛
+نگران, دلواپس .۲.(در آمریکا) پرروء بی‌حیا
+7 ۱. [برنده] wo آشیانه, آشیان؛ nest /nest/
+[موش, مورچه و AY [od سوراخ, خانه ۲.جای
+Em, گوشة ss جا 7 [دزداق [ns باتوی ۴
+ar] قابلمه و غیره ] Sp تو هم رو Gad توهّم رو
+۵ [ تیربار. توپ و غیره ] اشیانه
+۶ لانه ساختن, آشیانه ساختن, خانه کردن ۷. دنبال
+لانةٌ پرندگان گشتن, دنبال تخم پرنده گشتن :
+feather one's (own) nest — feather?
+۱ محیط خود را foul one's (own) nest asl
+HES خود را آلودن ۲ از خانوادة خود بد گفتن؛ از شهر
+خود بد گفتن؛ از کشور خود بد گفتن
+دنبال BY پرندگان گشتن. go nesting
+Ji تخم پرنده گشتن
+a hornet's nest — hornet
+a mare's nest —» mare
+LY فساد a nest of vice
+یک دست میز a nest of tables pry
+Sl mn اندوخته /'nest eg/ ۱۵۹1-699
+Lo ۷ آغوش گرفتن» بغل کردن  nestle /nesl/
+۲ [سر, شانه و غیره ] تکیه دادن گذاشتن
+coed ۸ آرمیدن, جا خوش کرده بودن, جا گرفتن
+بچّه‌ای را در بغل nestle a child in one's arms
+تکان دادن؛ ly را در بغل گرفتن
+4 تکیه دادن چسبیدن nestle up
+nestle up against / to sb /
+به کسی / چیزی چسبیدن, JH کسی / چیزی رفتن
+NN جوجه ( پردرنیاورده) / تاد / nestling
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1108 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nett; netting; nettle; grasp; networked; neuralgia; neuralgic; neurasthenia; neurasthenic; neuritis; neurological; neurologist; neurology; neuron; neurone; neuropathy; neuroses; neurosis -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+2 ۱ تور net’ /net/ (prp netting, prpp netted)
+توری ۲.(مجازی) دام تک تله
+caught in a net of crime > < ۳. شبکه ۴ ( تیش والیبال و
+غیره) do نت ۵. (با حرف بزرگ) Si) جهانی)
+اینترنت :
+wr ۶. [ماهی ] (با تور) گرفتن» صید کردن؛ [دزد و غیره ]
+گرفتن؛ به دام pS will کردن؛ [ase] به
+تور انداختن, تور کردن ۷. [رود] تور انداختن در؛
+[درختِ میوه ] تور کشیدن روی؛ [سود] دست وپا
+اکن فراهم کردن, به همراه داشتن ۸.(ورزش)
+JE [os] کردن؛ نت کردن
+slip through the net —> slip?
+حوزهٌ collab خود را وسیع cast one's net wide
+کردن, زمینه را وسیع گرفتن, دستِ خود را باز گذاشتن
+spread one's net — spread
+( تنیس, والیبال و غیره) نت شدن come up to the net
+( ورزش) de نت a net ball
+Jt زدن net a goal
+net? /net/ ( prp netting, pr,pp netted)
+win] .۱ قیمت, سود ] خالص, ویژه» خرج دررفته؛
+[وزن ] خالص ۲. [Sans] نهایی
+wr ۳ سود (خالص) بردن؛ سود (خالص) داشتن,
+سود کردن؛ [سود] بردن, به دست آوردن؛ داشتن, به
+همراه آوردن
+پس از کسر مالیات. مالیات‌دررفته net of tax
+n نت‌بال )= بازی شبیه بسکتبال) netball /netbo:l/
+ad (کهنه. ادبی) ops آسفل» nether /neda(r)/
+پایینی
+جهان مردگان. the nether regions / world
+Je اموات
+(به nether garments Sad lhe (ef
+Netherlands /negolandz/
+7 هلند the Netherlands
+aS) adj ادبی) پایین ترین» nethermost /medormaust/
+زیرترین؛ عمیق‌ترین» AFB
+nett /net/ = net?
+os a توری ۲. توربافی؛ netting /'netiy/
+توری‌بافی, توری‌سازی ۳ ماهیگیری (با تور)»
+صید؛ شکار با تور ۴.اجازةٌ صید
+۶ ۱.(گیاه) گزنه لت تن
+ur | ۲. عصبانی کردن. خون ...را به جوش آوردن؛
+| ناراحت کردن» رنجاندن؛ ازردن
+| 8 & سفید dead nettle
+| (مجازی) مشکلاتِ grasp / seize the nettle
+| ( چیزی) را به جان pn سختی‌ها (ی کاری) را
+ii=see 1=sil @-cal a=father D=gol  0:= sz
+=go a1 = five ay = now o1=boy 19 ناه el = say
+aya = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+29 neurosis
+:  )یزیچ( تحمل کردن. بهایش را پرداختن, شجاعانه با
+ٍ : مواجه شدن
+: ۵1116-13810 / ۵۷ (پزشکن) کهیر از a
+network /neiwa:k / شبکه ۸#
+networked /netwaikt/ ۰ ۱.شبکه‌شده, شبکه‌ای: ad)
+ِ (تلویزیون) شبکه‌ای, سرتاسری ۲
+networking /netws:kiy / aS ابتسشکه تسا زون؛ n
+| neural /'njsaral, (US) nu-/ (کالبدشناسی) عصبی, ad)
+| مربوط 4( اعصاب (
+‘neuralgia / ,تاه دنز (US) nu-/ (پزشکی) درد 7
+| اعصاب. نورالژی» عصب‌درد
+۱۵۷۲۵۱96 /njsarzldsik, (US) nu-/ (Sey) adj ۹
+Seg اعصاب»:عصیی» (4 bye)
+neurasthenia/ njssras®iznis, (US) nu-/
+اعصاب. dino ola el خستگی (Sejm) n
+نوراستنی
+neurasthenic/ njsorosenik, (US) mu-/ (Sy) adj
+مربوط 4( خستگي اعصاب, (مربوط به)
+ضعفي اعصاب, (مربوط به) نوراستنی ۲. مبتلا به
+اعصاب, مبتلا به Cans اعصاب. دچار LES
+zal)
+(یزشکی) مبتلا به خستگی اعصاب. مبتلا به ۳
+اعصاب gins نوراستنی» مبتلا به
+neuritis / ,کته دنز (US) nu-/ Ce (پزشکی) mn
+التهاپ اعصاب
+neur(o)- /njvar(ou), (US) nu-/ اعصاتی
+< neurophysiology >
+neurological/ njuara'lodsikl, (US) nu-/
+عصب‌شناسی, عصب‌شناختی» (مربوط (4 by 0) ad)
+نورولوژی (4
+neurologist /njuaroladast, (US) nu-/
+اعصاب Sp عصب شناس؛ متخصص اعصاب., n
+neurology /njsaroladsi, us) 7-/ عصب‌شناسی. n
+نورولوژی
+۲۱۵۱۲۵۲۱ /njuaron, (US) nu-/ عصبی, نورون Lx on
+a sensory neuron EET
+a motor neuron SS عصب
+neurone /'njueravn, (US) 'nu-/ = neuron :
+۳۵۵۵۳۹۵۱۵9۷۷ njuorapa®nladar, (US) nu-/
+آسيب‌شناسي اعصاب. نوروپاتولوژی n
+neuropathy /njua'ropa01, (US) nu-/ 8 بیماری 7
+اعْصاب
+neuroses /njusa'rousiiz, (US) nu-/ p/ oi neurosis
+NEUresIS /njuarausis, (US) no-/ ( pl neuroses)
+S805 روان‌رنسجوری» روان‌نژندی, (Sam) Non
+v  u=cook u:=100 a=cup  3-bird a= about
+- near ed = hair U9 = pure cro = player ara = {ire
+0= thin 0= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1109 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: neurotic; neurotically; neutralisation; neutralise; neutrality; never -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+neurosurgery 11
+اختلال اعصاب ¥ هراس, ترس, نگرانی» اضطراب,
+| دلشوره» دلهره
+neurosurgery / njsora'sz:dseri, (US) nu-/
+جرّاحی اعصاب
+neurotic /njsa'rotik, (US) -/ (4 Lath) A adj
+اعصاب, عصبی, ناشی از بيماري اعصاب, ناشی از
+روان‌رنجوری؛ [شخص ] روان‌رنجور. روان‌نژند.
+مبتلا به بيماري اعصاب ۲. [شخص ] دچارِ وسواس,
+وسواسی؛ [نگرانی, نامه و غیره ] بیمارگونه
+۸ ۳ روان‌رنجورء روان‌نژند. Mae به بیماری اعصاب
+0 به لحاظ neurotically /njssrotikis, (US) nu-/
+عصبی؛ مثل slaps! عصبی
+۱.(دستور. گیاه‌شناسی)  (US) 'nuz-/ ,(۲)هاننازد/ neuter
+خنشی ۲.(جانورشناسی) BU (aes
+4 ۳ (دستور) اسم خنثی, cle ختشی ۴.(جانورشناسی)
+حشرةٌ عقیم ۵. حیوان اخته
+۷۸ ۶. [حیوان ] اخته کردن
+[ ۱. [کشور. داور و غیره] /-:۵ neutral /'nju:tral, (US)
+بشی <b ۲ [شخص ] Joona عادی؛ [صدا]
+بی‌حالت؛ [زنگ ] تیره. بی‌حالت؛ [واکس و [ot
+بی‌رنگ؛ [حالت ] is ۳ (اتومبیل) [دنده] خلاص ۴.
+( شیمی, زبان‌شناسی) خنشی ۵.(برق) نول
+۸ ۶. آدم بی‌طرف, شخص بی‌طرف؛ (سیاسی) شهروند
+کشور بی‌طرف ۷. کشورٍ بی‌طرف. دولت بی‌طرف
+۸اتومبیل) دندةٌ خلاص
+سیاستِ بی‌طرفی a neutral policy
+ماشین را تو leave a car in neutral gear
+دندة خلاص گذاشتن
+( دنده را) خلاص کردن put the gears in neutral
+[ اتومبیل, موتور ] خلاص بودن be in neutral
+nju:tralarzerfn, (US) -li'’z-/ / ۲۵۷1۳۵۱1931108
+neutralization =
+neutralise /nju:tralaiz/ = neutralize
+۸ [شخص, کشور و neutrality /njutralot, (US) nui-/
+غیره] بی‌طرفی
+neutralization / nju:tralarzer fn, (US) -lr'z-/
+۱.(شیمی) خنثی سازی» بی‌اثرسازی ۲.(سیاسی) اعلام
+بی‌طرفی, بی‌طرف اعلام کردن؛ بی‌طرفی ۳.
+( زبان‌شناسی) خنئی‌شدگی
+pi] .۱ 7 اسید و غیره] / neutralize /mjutrolatz +
+sl ...را خنثی کردن, خنلی کردن» بی‌اثر کردن X
+(سیاسی) بی‌طرف اعلام کردن
+0 به طور neutrally /nju:traly, (US) nu:-/ wb
+با بی‌طرفی, بی‌طرفانه
+۸ نوترون neutron /'nju:tron, (US) 'nu:-/
+بمپ نو ترونی a neutron bomb
+adv ۱. هیچ وقت. هیچگاه» هرگز never /'neva(r)/
+
+<!-- REGION: RIGHT COLUMN -->
+
+30
+۲ هیچ. Bringing up children is never easy. > So! <
+4 ۳ (محاوره) نه باباء تو را خداء جدی, نو راست
+می‌گویی. > got the job! _ Never! | <
+هیچ‌وقت. Sa Ju مطلقاً هرگز never ever
+اصلاً 4 درد That will / would never do.
+نمی‌خورد. هیچ مناسب نیست.
+یک لحظه هم چشم هم I never slept a wink.
+نگذاشتم. هیچ خوابم نبرد.
+اصلا نترس! هیچ نترس! Never fear!
+مهم نیست! هیج عیب ندارد! Never mind!
+Sa! اشکال ندارد! پی‌خیالش! ولش کن!
+اتوبوس نیامد که نیامد. My bus never arrived.
+عجب, که اين‌طور. چشمم روشن, well, I never (did)
+به Go چیزهای نشنیده
+حتی یک لبخند He never so much as smiled.
+هم نزد.
+حتی یک نفر never a one
+جا که نگذاشتیش!  You've never left it behind!
+جا نگذاشتیش (4S
+تمام‌نشدنی. nevar ‘endry/ / ۲۵۷۵۲-۵۵۱۹۵
+a Rll پایان‌ناپذیرء colle بی‌انتها
+7 [منع ] تمام‌نشدنی.  never-failing /nevo 'ferliy/
+پایان‌ناپذیر؛ [روش ] تضمین‌شده
+0 (کهنه) دیگر هیچگاه. nevermore /nevamo:()/
+دیگر هرگز
+never-never/ neve ‘neva(r)/
+7 (در بریتانيا, عامیانه) قسطی on the never-never
+never-never land / neva ‘neva lend/ red n
+رویاهاء Cred re ارزوها
+adv,conj (رسمی) با وجود nevertheiess/ nevadalles/
+اين» با این وجود. با این حال, با ايتهمه. معهذاء
+cally وصف
+(US) nu:/ (comp newer, super newest) زد / New
+ad) ۱.جدید. تازه, نو ۲. [سیب‌زمینی, هویج و غیره ] نوء تازه»
+نوبرانه ۳ ma] نان و غیره ] تازه ۴. [Lana] تازه‌وارد.
+Lait
+0 ۵. تازه
+$F pref تازه- |
+برای کسی تازگی داشتن be new to sb |
+در جیزی تازه‌کار بودن be new to sth |
+در جایی غریب بودن؛ در جایی be new to a place |
+تازه‌وارد بودن |
+تازه کار بودن, هنوز در کار be new to the work |
+جا نیفتاده بودن |
+نو ثرو تمندان. نو دولتان؛ تازه‌ به the new rich |
+دوران رسیده‌ها
+کشور تازه به استقلال رسیده, کشور نوبنياد new country و
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1110 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: New Age; newborn; new-built; new deal; newel; newfangled; newcomer; new-found; new-laid egg; newly; newly-wed; new math; new moon; newneSS; neWS -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+a new nation gla تازه به استقلال رسیده» Ca
+yp
+brave new world — brave
+break new ground — ground’
+be (as) clean as a new pin — clean’
+new blood — blood’
+(as) good as new مثل روز اوّل os نو 8
+a new broom (sweeps clean) — broom ’
+a new lease of life; (US) a new lease on life
+—> lease
+ring out the old year and ring in the new
+— ring?
+teach an old dog new tricks — teach
+turn over a new leaf زندگی تازه‌ای را آغاز
+کردن, فصل تازه‌ای را آغاز کردن
+He came new to the firm last year. :
+پارسال کارش را در این شرکت شروع کرد.
+There's nothing new under the sun. (prov)
+هميشه همین‌طوری بوده است. دنیا چیز تازه‌ای Lis
+: ندارد.
+What's new? محاوره) تازه چه خبر؟ (
+نكتةٌ کار بردی:
+وحود Ws در موردِ چیزی به‌کار می‌رود که new LIS
+چیزی نگذشته باشد: of نداشته و از تولید و پیرایش
+What's Lucy's new baby called?
+I've bought a new computer.
+Is your car new or second-hand?
+در مورد contemporary و modern sll
+دارند و به gle حال obs چیزهایی به کار می‌روند که به
+يا شیوه‌ای نو به‌وجود آمده‌اند: Sou
+Do you like modem architecture?
+the Institute of Contemporary Arts
+را می‌توان برای دوره‌ای طولانی که از modern LIS
+گذشته تا حال ادامه داشته است نیز به‌کار برد:
+Modem English )۱۵۰۰ (یعنی از سال
+حال oles هميشه مربوط به contemporary وازةٌ
+نمی‌شود و می‌تواند در مورد وقایعی به‌کار رود که در یک |
+زمان خاص در گذشته اتفاق افتاده‌اند: |
+Shakespeare's plays tell us a lot about ’ |
+contemporary life. |
+در اینجا زندگی قرن contemporary که منظور از |
+Co شانزدهم است. |
+New Age /nju: 'erds, (US) nu:/ (مربوط به) عصر adj |
+پس‌گشت )= عصر گریز از pas (4 واگشت, (مربوط |
+تجدد و گرایش به سنت) ۰
+ii=see بقاوع D=got o:=sa
+el=say  aU=go a= five ay=now  or=boy 12
+ays = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+31 news
+: newborn /'njubom, (US) nw-/ cod تازه متولد 4
+| نو زاد
+! ۵۷۷-۵۵11 /nju: bi, (US) nu/ تازه‌سازء, نوساز,
+نوبنیاد
+newcomer /'njuzkama(r), (US) 'nu:-/ تازه‌وارد. #
+نو وارد
+new deal / nju; بان" (US) (سیاسی, اقتصاد) اس 72
+| اقدام اساسی
+ْ newel /mjsol, (US) nu:al/ ۱.ستون پلکان مار پیچ ۸
+ِ پایة نردة پلکان ۲
+3 newel post نردة پلکان AL
+newfangled /mju:feogld, (US) nu-/ ws) ad
+| به طعنه) نوظهورء من‌دراوردی
+new-found / nju: ‘favnd , (US) ,nu:/
+" تویافته, 035 نو تازه کشف شده coal Cais ng تازه ad
+| new-laid 699 /nju: led ‘eg, (US) 7
+IU Ess iso Erb 8
+newly /njuly, (US) nuilt/ ۰ مفعولی) cio (پیش از 0
+Tagamet BE تاره به
+نحو جدیدی به 4 .۲ <a newly formed group >
+i صورشِ جدیدی
+newly-wed /'nju:lt wed, (US) nu:li/ نوعروس؛
+تازه‌داماد
+new math / nju: ۳۵۵, (US) nu:/ ریاضیات جدید rn
+new moon /nju: 'mu:n, (US) nu:/ نیقی olan
+| هلال ماه
+New-Mown / nju: ‘moon, (US) nu:/  ]هریغ [علف و adj
+تازه جیده شده cos تازه درو
+newness /mjumnss, (US) nuinis/ [افکار, مُد و غیره] nn
+نو بودن» [opt تازگی؛ جدید بودن» نو بودن؛ [لباس و
+[ob شیر و om] نوی؛ [شخص ] بی‌تجربگی, خامی؛
+تازه بودن
+News /nju:z, (US) nu:z/ ۱.خبر آخبار, خبرها؛
+خبرهای تازه ۲.(صفت‌گونه) خبری ۳ (رادیو, تلویزیون)
+آخبار ۴ موضوع خبرء موضوع جالب برای خبرء
+جالب 85 5m
+It's news to me.  .مونش‌یم قبلاً نشنیده‌ام. تازه دارم
+برایم تازه است.
+be in the news خبرساز بودنء در روزنامه‌ها و
+Ls شدن, در Como رادیو و تلویزیون از (کسی)
+اسم (کسی) آمدن؛ اسم (کسی) سر زبان‌ها بودن, مطرح
+i بودن
+break the news (to sb) (به کسی ) خبر دادن,
+(به کسی ) گفتن
+no news is good News Cel پی‌خبری خوش‌خبری
+v  u=cook u:=too A-cup a-bird a= about
+= near €9 = hair U9 = pure ero = player ara = fire
+0= thin 0= this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1111 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: It wi; news agency; news-boy; newscast; news COnference; newsdealer; newspaper; newspaperman; newsprint; newsreader; newsreel; news room; news-sheet; news-stand; news-vendor; newsworthy; newt; New Testament; Newtonian; new town; New Year's Day; New Year's Eve; New Zealand -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+news agency 11
+It will be news to him that we are here.
+بفهمد ما اینجا هستیم. (4S) تعجب می‌کند
+Bad news travels fast.  .دسر‌یم خبرهای بد زود
+a news item یک خبر
+the news media رسانه‌های خبری
+be good news دلخوشی Ala ] (محاوره) [شخص, چیز
+مفید بودن (OO
+be bad news دردسر بودن Ll ] محاوره) [شخص, چیز (
+news agency /'nju:z exdsensr, (US) nu:z/
+اژانس خبری wl بز
+newsagent /'nju:zerdsent, (US) muiz-/  )ایناتیرب (در n
+۱ . روزنامه‌فروش ۲. روزنامه‌فروشی, مطبوعاتی .۱
+news-boy /'mju:z box, (US) 2 روزنامه‌فروش., n
+روزنامه‌ای
+newscast /'nju:zka:st, (US) 'nu:zkeast/ (رادیی 7
+تلویزیون) اخبار
+newscaster /nju:zka:sta(r), (US) 'nu:zkast-/
+گویندةٌ اخبار, گویندةٌ خبر
+news conference /nju:z konfarans, (US) امس
+کنفرانس خبری, مصاحبةٌ مطبوعاتی 2
+newsdealer / نز 2۵01: 1۵0(, (US) 'nu:z-/ (US)
+= newsagent
+newsflash /mjuzfizf, (US) nuiz-/ (رادیی تلویزیون) 7
+اطلاعیه. خبر کو تاه؛ خبر فوق‌العاده
+newshawk /‘nju:zho:k, Us) rea
+(عامیانه) خبرنگار #
+newshound /'nju:zhavnd, (US) 'nu:z-/
+= newshawk
+newsletter /nju:zleta(r), (US) 'nu:z-/ خبرنامه. n
+بولنني خبری
+newsman /'nju:zmen, (US) ۵:2-/ OA a Nn
+گزارشگر ۲. روزنامه‌فروش
+newsmonger /mju:zmanga(r), (US) nu:z-/
+شایعه‌درست‌کن؛ حرف‌درست‌کن. سخن‌جچین. 1
+خبربر, دهن‌لق
+newspaper /'nju:sperpa(r), (US) nu:z-/
+روزنامه WY روزنامه .۱
+a daily newspaper روزنامه ( یومیّه)
+newspaperman /‘nju:sperpamen, (US) nu:z-/
+( pl newspapermen) رو زناهه نار n
+newsprint /mjuizprint, (US) 'nuiz-/ کاغذ روزنامه 1
+newsreader /mju:zri:da(r), (US) 'nuiz-/
+= newscaster
+newsreel /‘nju:zri:l, (US) nu:z-/ فیلم خبری
+News recom /'mju:z rum, rom, (US) ‘nuiz/  ییدار( 7
+تلویزیون, روزنامه) اتاتي خبرء اتاقی آخبار
+news-sheet /mju:z fit, (us) ‘nz خبرنامه 7
+
+<!-- REGION: RIGHT COLUMN -->
+
+32
+news-stand /nju:z stend, (US) nuiz/  )اکیرمآ 53) 2
+روزنامه‌فروشی. AS بساط روزنامه‌فروشی,
+روزنامه‌فروشی؛ بساط کتاب‌فروشی Sess
+news-vendor /nju:z venda(r), (US) 'nu:z/
+روزنامه‌فروش n
+newsworthy /'nju:zwa:d1, (US) 'nuiz-/
+می‌خورد. Jnl [واقعه. رسوایی و غیره] که به درد 7
+جالب توجه؛ مهم a دارای آرزش خبری؛
+NEeWSY /'nju:zi, )115( 17 (محاوره) پرخبر adj
+newt /nju:t, (US) nu:t/ شمندر آبی ۸
+pissed as a newt — pissed i
+New Testament / nju: ‘testomant, (US) 7
+the New Testament جدید. انجیل gs (مذهب) 2
+Newtonian / مها زد (US) nu:-/ نیوتونی. 4
+مربوط به) نیوتون؛ پیروٍ نیوتون (
+new town / ندز tavn, (US) 'nu:/
+(در بریتانیا) شهر جدید 7
+new wave /nju: 'werv, (US) nu:/ موج نو n
+New World /nju: 'wa:ld, (US) nu:/ 8
+the New World  ایند‌هگنپ بر جدید. Nell (5,8) =n
+new year /nju: Yjra(r), j3:(r), (US) nu: 1
+سال نو عید
+Happy New Year! شما مبارک! سال نو مبارک!
+New Year's / au: jarz/ (US) ’
+= New Year's Day
+New Year's Day’ nju: jaz der, ja:z, (US) nu: j3irz/
+روز عید )= اول زانویه) 2
+New Year's Eve /nju: jioz 1, jz, (US) nu: jarz/
+نو ( 2 ۳۱دسامیر) Je cd ire شب
+New Zealand /nju: ‘zi:land, Us) Fe) oy زلانر An
+Bal 5s
+(4 زلاند 5 زلاندٍ نوی, (مربوط (4 bg a) Yad
+نیوزیلند. نیوزیلندی
+New Zealander /nju: ‘zi:londa(r), (US) nu:/
+نیوزیلند. نیوزیلندی Jal os اه زلاند ۸
+next! /nekst/ (oh (SAR موردٍ مکان) 0) ad)
+dd ۲.(در مورد زمان) آینده, A چسبیده tA) بغلی.
+دیگر ۳ (در 2030 ترتیب) بُعدی, بُعد
+بعدی (ea) بعدی؛ LEY ۸
+(کهنه) پهلوی,» کنار .۵
+from one day to the next - day
+The next house to ours is a mile away.
+نزدیک‌ترین خانه با خانهٌ ما یک مایل فاصله دارد.
+better luck next time — better’
+(the) next time I saw him دیگری که دیدمش lads
+the year after next سال بعد نه سال بعدش
+(the) next but one بعدیشٌ Py ۳7
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1112 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: as good; as far; NFL -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+[1
+(the) next but two  شیدعب بعدی نه بعدیش هم نه
+the next day but one پس فردا؛ دو روز بعدش.
+پس فردای آن روز
+as good / well as the next man به خوبي هر کس
+دیگری, مثلِ هر کس دیگری
+as far / much as the next man به اندازة هر کس
+دیگری, به قدرِ هر کس دیگری
+the next world جهان دیگر, جهان پس از مرگ.
+دار باقی, دنیای آخرت Ls ol
+Who's next? کی است؟ بُعدی؟ Cay
+I come next after you. من درست پشتٍ سر
+تو هستم.
+the next size یک سایز / اندازه بزرگ‌تر
+the next size down یک سایز / اندازه کوچک‌تر
+The next to read is "'War and Peace".
+خواند «جنگ و صلح» است. wb بعدی‌ای که ols
+to be continued in our next (issue)
+آینده lass بقیه
+next to OV بعد .۲ Cas Ja JR کنار, پهلوی, ۱
+RR پس از
+(the) next to last یکی مانده به آخر
+next to nothing تقریباً مجّانی Cada (rg
+get next to sb محاوره) باکسی دوست شدن: (
+به کسی نزدیک شدن
+wear wool next to the skin لباس پشمی را روی
+تن پوشیدن, زیر لباس پشمی چیزی نپوشیدن
+the thing next to one's heart چیزی که بیش از
+آدم بسته Plz هر چیزٍ دیگر برای آدم عزیز است / به
+Cann}
+next? /nekst/ سپس, بعدش, بعد؛ Jaw adv
+بعد And دفعهٌ دیگر,
+A new dress! What(ever) next!
+لباس تازه! دیگه چی!
+the next oldest building تقریباً قدیمی‌ترین
+ساختمان, دومین ساختمانِ قدیمی
+one's next oldest daughter دوم 3
+the next tallest boy دوّمین پسر بلندقد
+the next youngest son پسرٍ یکی مانده به آخر
+کار بردی: Ass
+به معنای «(مورد) بعدی» در (the) next Oyo
+سلسله‌ای از رخدادهاء مکان‌ها یا اشخاص است:
+When is your next appointment?
+Turn left at the next traffic _ lights.
+Who's next?
+if=sece il-sit =m-cat @=father D=got نو
+el=say  ou=go ar=five av=now . ar=boy =
+ava = hour j=yes w= wet tf = chain d3= jum
+
+<!-- REGION: RIGHT COLUMN -->
+
+33 nib
+به معنای «نزدیک‌ترین (the) nearest صورتِ
+مورد)» به لحاظ زمانی يا مکانی است: (
+My party will be on the Saturday nearest to my
+birthday.
+Where's the nearest supermarket?
+رسانندٌ دو next (to) و nearest (to) اضافة iy >
+معنای متفاوت‌اند که در دو جملةٌ زیر بازنموده شده‌اند:
+Janet's sitting nearest (to) the window.
+بیانگر این‌که ژانت از همه کس به پنجره نزدیک‌تر
+ses
+Sarah's sitting next to the window.
+پهلوی پنجره نشسته است. Ll Sl Sb
+next-best/nekst best/ بهترین. Ls adj
+بهترین ... ممکن. دومین ... قابل قبول
+< The next-best solution is to abandon the project
+altogether. >
+next door /nekst 'do:(r)/ « Ja Ss پهلویی» G5 adv
+بغلی Gb! پهلویی. Gul خانهٌ همسایه؛
+the boy next door  .یلفب SL ~ پسر همسایه.
+می‌کند SX) ay Bl پسری که در
+the house next door بغلی, Sl پهلویی, AB
+p خانة همسایه
+next-door /mekst do:(r)/ پهلویی, بغلی. ad)
+مجاور lms دیوار به dylan
+next door to /nekst do: ta/ در همسایگی.
+/ پبهلويي. 2° اپارتمان بغلي / (A در خانة
+پهلويي» دیوار به دیوار
+be next door to (مجازی) نزدیک به... بودن»
+چیزی با... فاصله نداشتن, در شرف... بودن
+next of kin /nekst ov kin/ (رسمی) نزدیک‌ترین 72
+خویشاوند؛ نزدیک‌ترین خویشاوندان
+NEXUS /'neksas/ ( pl NEXUSES) (رسمی) رشتةٌ پیوند» 72
+رشته‌های پیوندء رشته. واسطةٌ عقد؛ ارتباط, پیوند
+NFL /en ef 'el/ <National Football League
+سراسري فوتبال SI (در آمریکا) 7
+۸۱۲۹/۵۵ ext] 'es/ > National Health Service
+خدماتِ درمانی (Sls خدمات day (در بریتانیا) 1
+: رایگان
+۸۸۱1 / nz امد m'fo:rans, m'[vorans/ > National
+Insurance (در بریتانیا) بیمه‌های اجتماعی, 7
+تأمینِ اجتماعی ow
+۲1۱2 /,n0:0an ‘aoland/ < Northern Ireland
+ایرلند شمالی
+niacin / ۵ (دارو) نیاسین :
+nib /nib/ قلم Sy نوک خودنئویس.
+۷۷ U=cook u:=to0 A=cup 3=bird a= about
+= near ed = hair Uo = pure eld = player aia = fire
+0= thin 8 = this [=shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1113 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nibble; nibs; Nicaragua; Nicaraguan; nice-looking; nicely; niceneSS; nicety; niche -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nibble 11
+vi ۱.دندان زدن. تک 58085 nibble /mml/ ys)
+نوک زدن؛ گاز گرفتن ۲ ناخنک زدن. SNE کردن
+۳ دندان زدن cas تک زدن به, گاز زدن ode نوک
+
+زدن به؛ گاز گرفتن
+#ر ۴.گاز ۵. لقمه (غذا)
+
+nibble sth away را ریز ریز خوردن. Ge
+
+چیزی را 033035 جویدن
+
+have a nibble at sth 02) چیزی گاز 4
+
+به چیزی SN زدن, به چیزی نوک زدن؛ ریز ریز خوردن,
+
+0330353 خوردن
+احساس کردم که I felt a nibble at the bait.
+ماهی‌ای دارد طعمه را گاز می‌زند. دیدم al طعمه را
+نوک می‌زند.
+مشروب و مزه drinks and nibbles
+4 [پيشنهاد. توصیه و غیره ] تمایل نشان nibble at sth
+دادن به
+nibs /nivz/
+(در 5 Mika محاوره, به مسخره) آقا, حضرت  his nibs
+اجل, شازده
+/nikaragjus, (US) “razgwa lol 481, n ۱11۳3730103
+,1,51
+Nicaraguan / nika'regjuan, (US) -ra:gwan/
+ad ۱.(مربوط به) نیکاراگوئه. SHS یی
+۲. اهل نیکاراگوئه. اهل نیکاراگو |
+nice /nais/ (comp nicer, super nicest)
+adj ۱. [شخص ] خوشگل, قشنگ؛ خوب, دوست‌داشتنی,
+نازنین؛ [eas] قشنگ, مطبوع, خوشایند؛ [مزه, بو]
+خوب., مطبوع؛ [غذا] خوشمزه., لذیذ؛ [حرف, نکته ]
+ی 2 ۰ H
+قشنگ؛ Jer] روز. تعطیلات ] حوب. pds مطبوع؛
+یس 2 g
+[ دختر بچه ] قشنگ, خوشگل, مامانی, ناز ۲. مهربان.
+بامحبّت ۳ [تفاوت. plas و غیره] ظریف, دقیق ۴.
+مشکل‌شند. aly 0 Sain, اصوّل, 35 an
+درستکار, باوجدان ۶. [pasa] خوب. موْدّب؛
+[ رفتار ] مود بانه, درست
+
+4 کسی خوش گذشتن have a nice time
+قشنگ It's not nice to pick your nose. ۰ / ces
+درست نیست / خوب نیست دست توی دماغت کنی.
+هوا گرم و The weather is nice and warm. o>
+است. هوا گرم و مطبوع است. :
+
+The car goes nice and fast. . مأشین بُرُویی است.
+
+ماشین پرشتابی است.
+
+nice long holidays تعطیلاتٍ طولانی خوب,
+
+تعطیلاتٍ خوپ طولانی
+
+This is a nice mess you've got us into!
+
+(به طنز) عَجب دردسری برای ما درست کردی!
+(به طلز) ak قشنگ That is a nice thing to say!
+حرف می‌زنی! ol حرفی cal که باید )5
+
+<!-- REGION: RIGHT COLUMN -->
+
+34
+خوشن به حالش., nice work if you can get it
+خوش به حالش که دارد. خوش به حال آن‌هایی که دارند
+( چقدر ) لطف کردید How nice of you 10.... aS
+از آشتایی با شما خوشوقتم. Nice to meet you.
+باکسی خوب بودن, با کسی be nice to sb
+خوش‌رفتاری کردن
+ass کاربردی:
+صفت nice اغلب به کمک حرف ربط band صفتی دیگر
+ترکیب می‌شود و بعد از افعال از نوع Oo seems is
+اسم به کار می‌رود: ’
+Your new house looks nice and big.
+J nice and Ss از اسم نمی‌آید؛ پس اگر صفتی که
+4 با آن ترکیپ می‌شود همراه اسم Gm wl ربط
+0 را نمی‌توان بین آن‌ها به‌کار برد:
+This is a nice big house!
+صفتِ mice در انگلیسی گفتاری زیاد به کار می‌رود؛ با
+اینهمه بسیاری از مردم بر ین عقیده‌اند که در نوشتار نباید
+از آن زیاد استفاده کرد و بهتر است که به جای Cio of
+دیگری را به کار بریم که منظورمان را دقیق‌تر بیان می‌کند.
+Wie در es
+That area of France is really nice.
+به جای صفت nice می‌توانیم از صفات دقیق تر beautiful
+interesting L استفاده کنیم که هر دو منظورمان را
+روشن‌تر بیان می‌کنند.
+Lani] adj [ قشنگ. / nice-looking / nas ‘lvkig
+خوشگل؛ برازنده. خوش تیپ
+adv ۱.خوب. به خوبی, خیلی خوب nicely /maisli/
+۲ موْدّبانه. خیلی موْدّبانه ۳ به دقت. با ظرافت
+. به خوبی پیش رفتن, خوب انجام شدن.  do nicely
+پیشرفت کردن, بهتر شدن
+4 ۱. [شخص ] خوبی, دوست داشتنی niceness/nasnis/
+بودن؛ [a] قشنگی ۲ دقت. ظرافت
+1 ۱:(رسمی) دقت؛ p/ niceties) ( / ناقهد / nicety
+ظرافت؛ حساسیّت ۲.(در جمع) جزئیات. دقایق.
+نکاتِ ظریف ¥ در lilo (ga محاسن, خوبی‌ها
+دقیق, درست. با cdo زیاد. دقیقاً to a nicety
+7 ۱.(توی دیوار) تاقجه niche /nt/, ni:f/
+۲ (مجازی) جاء جای مناسب. موقعیتِ مناسب؛
+جایگاءو واقعی؛ جاپای محکم ۲ مأُواء گوشةٌ دنج,
+مقام امن
+ass, در زندگی find one's niche (in life)
+پیدا کردن
+۱.(در چینی) پریدگی؛ 10۱/4
+(در چوب و غیره) خط؛ (در پارچه) پارگی, سوراخ؛ )» |
+پوست) خراش» بریدگی |
+۷ ۲. [تخته و غیره] زخمی کردن, خط انداختن. |
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1114 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nlck-nack; nickname; nicotlne-stalned; niece; niff; nifty; Niger; Nigeria; Nigerian; niggardlineSS; niggardly; niggle; niggling; nigh; nig; in the; have -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+(روی)...را خراش دادن؛ a] تیغ ] لپ ...را
+پراندن؛ [پارچه ] پاره کردن, قلوه‌کن کردن؛ [صورت.
+
+پا ] زخمی کردن, خراش دادن, خراشاندن
+( در بریتانيا, عامیانه) وضع ( چیزی)  bein good nick
+خوب بودن, سالم بودن؛ [شخص ] خوب مانده بودن
+( در بریتانياء, عامیانه) وضع )>( be in bad nick
+خراب بودن؛ [شخص ] درب و داغون بودن
+در i لحظه., in the nick of time
+درست به موقع, سربزنگاه
+Sls خود را هنگام nick one's chin while shaving
+اصلاح بریدن i
+(در بریتانیا. عامیانه) ۱. هٌلفدونی nick? /nik/
+۲ کلانتری, پاسگاه
+۳ (در بریتانیا: (We [ش‌خص, دزد] گرفتن؛
+دستگیرکردن ۴.(در بریتانیا. عامیانه) کش رفتن, بلند
+کردن ۵.(در آمریکا, محاوره) [شخص ] تیغ زدن
+nickel /nikl/ ( prp nickelling, (US) nickeling,
+(a2) A 7 نیکل nickelled, (US) nickeled) متام
+امک رخ اي
+از CIR دادن
+nickel silver /niki ۹:۱۷۵)۲(/  وشرو (ks 36) n
+nick-nack/'nik nzk/ = knick-knack
+۶ ۱.اسم خودمانی nickname /nikneim/ Cd.
+۷ ۳ روی (کسی) اسم... را گذاشتن, (کسی) را...
+نامیدن» به (mS) ...دادن؛ به (کسی)... AE
+نیکوتین nicotine /'nikatin/
+4 زردشده / و nicotine-stained/nikati:n
+(از دود سیگار)
+۱. دختر برادرء برادر زاده؛ niece /nis/
+دخترِ خواهر, خواهرزاده ۲.(دختر) برادرزادةٌ زن؛
+برادرزادةٌ شوهر؛ ol ales زن؛ Bb ales شوهر
+7 (در بریتانیا, عامیانه) بو؛ بوی گند niff /nif/
+4 (در بریتانیا, عامیانه) بوگندو ۵۱۲ niffy
+بو دادن, بو گند دادن be niffy
+adj (محاوره) Nifty /nifu / (comp niftier, super niftiest)
+۱.ماهرانه, استادانه, قشنگ» تمیز, عالی؛ [شخص ]
+| ماهر, استاد ۲. [وسیله ] مفید. عملی, به‌دردبخور.
+خوب ۳ شیک, شیک . پیک
+| 7 نیجر / Niger /maidsa(r)
+| 7 نیجریه Nigeria /nardsioria/
+ad) | ۱.(مربوط 4( نیجریه.  Nigerian /mardsiorian/
+| نیجریه‌ای
+Joly ۶ نیجریه, نیجریه‌ای
+اب آدم بخیل, آدم نظرتنگ؛ niggard /nigad/
+ادم خسیس
+Fosee ios @-cal 0001۵00 39 808
+el = say “i= 0 ai = five ay =now 91 = boy 12
+av? = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+35 night
+niggardliness / gadis / بُخل: نظرتنگی, ۸
+| تنگ‌نظری؛ خسّت
+: 81992701۷ /nigadlt/ ۱.بخیل, نظرتنگ؛ خسیس, ad)
+ ؛یرظن‌گنت کنس ۲. همراه با نظرتنگی, توأْم با
+| کم آندکت amb [luie 135i)
+| با بُخل, با نظرتنگی؛ با خسشت ۳ 0
+۸100067/۳1 (عامیانه, به تحقیر) کاکاسیاه» 7
+ِ سیاه زنگی
+عاوونط /'nigl/ ۱.مته به خشخاش گذاشتن؛ Wi
+. یراد گرفتن, ُر زدن؛ ق زدن
+دادن Lh ناراحت کردن, اذیت کردنء .۲ wr
+niggling /'niglry / [جزئیات ] بی‌اهمیت. .۱ 4
+X پیش پاافتاده؛ [نکات] کوچک., جزئی» بی‌اهمیت
+آزاردهنده» ناراحت‌کننده؛ [ درد ] موذی
+niggly /migit/ = niggling
+nigh /nai/ ۱.(کهنه) نزدیک 0
+(کهنه) نزدیکی. نزدیک به. قریب . prep
+well-nigh : تقریباً
+nigh on / onto / unto نزدیک به is (248)
+night /nart/ آزشب ۲ تاریکقی
+morning, noon and night — morning
+night night در زبان کودکان ) شب‌بخیر, بای‌بای, لالا (
+on the night of Friday, June 13th جمعه شب
+شنبه سیزدهم ژوئن bie) سیزدهم
+all night (long) شب der a تمام
+be all right on the night — right
+the night before (of دیشب؛ شب ی(
+the night before last (of پریشب؛ دو شب پیش (از
+at night شب. شب‌ها
+by night شب. شبانه
+have an early night زود خوابیدن
+have a late night دیر خوابیدن
+have a good night شب خوب خوابیدن
+have a bad night شب بد خوآبیدن
+far into the night تا دیروقت (شب)
+in the / at dead of night — dead?
+like a thief in the night — thief
+the livelong night — livelong
+We made a night of it. شب خوبی بود.
+آن شب خیلی خوش گذشت.
+night after night شب‌های متوألی, شب‌ها و شب‌ها.
+هر شب خدا
+night and day; day and night شب و روز
+have / enjoy a night out شب بیرون رفتن
+the maid's night out شب مرخصی خدمتکار
+۲ 000006 0:5 100 ۸0 600 3080
+- near €9 = hair va = pure ea = player ale = fire
+6= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1115 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: night-life; night-line; nightmare; night porter; nights lnarts; night safe l'nart serf; nightshade; nightshirt; night-time; nlqht-blindness; nightclotheS; nightfall; nightingale; night-watchman; nihilism; nihilistic -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+night-bird 11
+ships that pass in the night — ship’ i
+in the still of the night —> still" |
+spend the night with sb — spend |
+things that go bump in the night — thing |
+turn night into day کار روز را شب انجام دادن |
+The night is falling. دارد تاریک می‌شود. ۰
+دارد شب می‌شود. |
+کار بردی: Ass |
+در توصیفی رخدادهایی که از روی ۸۲ night عبارتِ |
+عادت شب‌ها اتفاق می‌افتد به کار می‌رود: |
+Nocturnal animals such as bats and owls only |
+come out at night. |
+) I don't like driving at night. |
+را می‌رساند و at night همان معنای by night عبارتِ
+به خصوص زمانی به‌کار می‌رود که بخواهند شب را در
+تقابل با روز به‌ کار برند يا بخواهند بگویند که یک چیز به
+خصوص در تاریکی چگونه به نظر می‌رسد يا احساس
+می‌شود:
+The guide takes you on a tour of Paris by night.
+The desert is a place of scorching heat by day
+and bitter cold by night.
+معمولاً برای اشاره به شبی که in the night عبارت
+گذشته است به‌کار می‌رود:
+I'm exhausted. The baby woke up three times in
+the night.
+نیز می‌تواند چنین کاربردی during the night عبارتِ
+داشته باشد یعنی به معنای «در طول شب گذشته» به‌کار
+Co ELE
+It rained hard during the night.
+شب به‌خصوصی مورد نظر باشد. از حرف ches 5 وقّتی
+استفاده می‌شود: might قبل از on BL
+on a night in May
+on a cold winter's night
+night-bird /'nart ba:d/ مرغ شب .۱ 8
+شب زنده‌دار eo! (مجاوره) ۲
+night-blindness/ nat blamdnis/  یروک‌بش 7
+nightcap /nartkap / (مشروب) Y ۱.شب‌کلاه 1
+خواب Say رختخواب, AS
+nightclothes /nartklosdz / el gimp pu npl
+nightclub /nartkiab/  ~ کلوب شبانه, نایت‌کلاب
+nightdress /natdres/ ۰ لباس خواب (زنانه) #
+nightfall 1 غروب., سر شب
+nightgown / هناهد / = nightdress
+nighthawk /nartho:k / آدم شب زنده‌دار n
+nightie /'nartr/ (محاوره) لباس‌خواب 7
+nightingale /naitiggerl, (US) -tng-/ بلبل, ۸
+۱ هزاردستان, عندلیب
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+7 (پرنده) nightjar /nartdsa:(r) / 3 S58
+n تفریحاتِ شبانه night-life / nat larf/
+n چراغ خواب night-light / ۵۶ 1art/
+n جوب ماهیگیری (شب)  night-line /nat lamm/
+night-long/mnart ۱۵9, (US) loin/ «on Job » \ adj
+که تمام شب اذامه دارد, شب:تا صبح
+adv ۲ تمام pl wt Job شب, شب تا صبح
+۱.شبانه, (مربوط 4( شب ام nightly
+{ هر شبه
+adv ۳ در شب ۴. هر شب
+7 (نیز مجازی) کابوس / 0
+adj وحشتناک. هولناک. nightmarish /naitmeartj/
+هراس‌انگیز, کابوس‌مانند
+8 (محاوره) آدم شب زنده‌دار /1ن۵ night owl /mait
+(در (Jo دربان 1( ۵60۲1۵۲/۵۲ night
+(SS) شب
+0 (در آمریکا) شب‌هاء شب nights /naits/
+(Sy po) ۶ باجة شب night safe /mnart serf/
+n مدرسهٌ شبانه night school /mnart sku:l/
+۸ (گیاه) تاجریزی nightshade /nartferd/
+تاجريزي سیاه black nightshade
+مهرگیاه, پلادّن deadly nightshade
+تاجريزي پیچ woody nightshade
+22 ۱.شیفتِ شب. Cush شب night shift /nait [1R/
+۲ کارکنانِ ins شب. کارگران شیفتِ شب, Cin
+# لباس خواب (مردانه) nightshirt /nartfa:t/
+n 255 مّبرز. کودٍ انسانی 7 م5۵ / night-soil
+(در آمریکا) باتوم / nightstick/'nartstik
+شب؛ تاریکی شب. night-time /'nait taim/
+شبانگاه, شب‌هنگام
+# ۱ نگهبانی شب, ادخهد / night-watch
+کیک ی SUG tnt oS a SLY
+night-watchman nat ‘wot/man/
+n نگهبان ct کشیکی شب (pl night-watchmen)
+ nighty /narti/ = nightie
+7 ۱. (فلسفه) نیست‌انگاری, nihilism /naulizom, ‘nthil-/ |
+نیهیلیسم» هیچ‌انگاری, پوچ‌انگاری Y (سیاسی) ٍ
+2 ۱. (فلسفه, سیاسی) نیهیلیست / nihilist marist, nihil-
+<!-- CHECK SOURCE: possible extraction line-break hyphenation; preserved without reconstruction -->
+a آدم نبهیلیست. آدم پوچ‌گراء آدم هیچ‌انگار
+nihilistic / nan'lisuk, \nthrl-/ (ads) Nad) :
+(مربوط 4( نیست‌انگاری,» ret (مربوط !
+DY WES نیست‌انگارانه» پوج‌انگارانه ۲.
+(سیاسی) نیهیلیستی» (مربوط به) نیهیلیسم. . :
+n هیچ nil /nn/ Ao :
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1116 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nimbi; nimble; nimblenesS; nimbly; nimbus; nine; ninepin; ninepins; nineteen; nineteenth; ninetyi'namu; ninthly; nip; nipper; nipple; nippy; nip off; ninny; ninth; nirvana; niter; nit-picking; nisi; Nissen hut; nit -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+of nimbus ام nimbi /'nimbai/
+nimble /'nimbl/ (comp nimbler, super nimblest)
+ad چابک. چالاک, فرزء تند و تیزه: [انگشتان ] ماهر ۲.
+(مجازی) [ذهن ] Ge تند
+pol] پیر ] هنوز ذهنش خوب She's still nimble.
+کار می‌کند.
+۱. چابکی, nimbleness /nmbins/ (SV
+فرزی,» تندو تیزی؛ [انگشتان ] مهارت ۲. [ذهن ] تیزی.
+تندی
+0 با چالاکی. با چابکی, فرز؛ nimbly /'nimbh/
+با مهارت
+nimbus /nimbas/ ( p/ nimbuses, nimbi)
+2 ۱.(در نقاشی و غیره) es Als حلقه‌ای از نور X
+(هواشناسی) ابر بارانی» ابر نیمبوس
+nincompoop /‘nigkampu:p / (0ys\on aS) 11
+(آدم) احمق, خر الاغ
+4 اه (تا) nine /nam/
+(sae ۲ n شمارة eg
+تا nine times out of ten Alan
+هفت تا جان دارد. He's got nine lives.
+جان سگ دارد.
+psd )= ساعت کار اداری در بریتانیا) nine to five
+تمام ay تمام وقت
+dress? ج dressed up to the nines
+۸ (در بازي بولینگ) Jeo چوبی / ninepin /'nampm
+7 بازی بولک ۱ / ninepins /nampinz
+(مجازی) تار و مار شدن.  go down like ninepins
+مثل برگي خزان به زمین ریختن
+adj ۱. نوزده (تا) nineteen /nam'ti:n/
+7 ۲. عدد نوزده؛ شمارةهٌ نوزده
+talk nineteen to the dozen — dozen
+۱. نوزدهم, نوزدهمین  nineteenth/namtin®/
+Yn نوزدهمی ۳ یک نوزدهم
+ninetieth /mamus0/ GBs $35 A 4
+n ۲. تودمی ۳ یک pos
+adj .نود (تا) ninety /namu/
+۶ ۲. عدد نُود؛ با spies ۳ یک p35
+ninety-nine times out of a hundred
+در نود و نه درصدٍ موارد. تقریباً همیشه
+۱ اعداد بین 3% و صد the nineties
+۲ سال‌های نوّد. دهد Vag درجهٌ حرارتِ om نوّد و صد
+در سال‌های نوّدٍ عمر خود in one's nineties
+2 (محاوره) احمق, Je ۲۱۱۳۱۷
+ap PR adj ۱
+GY n ۳ یک نهم
+و -father D=got همه i=see 1=sil
+er=say © au=go al={ive  av=now  2i=boy  K
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+37 nit-picking
+۱۱۳1۳۷ 1 همین بار wd adv
+nip' /nip/ (prp nipping, رام nipped)
+
+] ۱.گاز گرفتن؛ نیشگون گرفتن ۲.(در مورد سرما) [گیاه wr
+بردن» خشک کردن om صدمه زدن به. از
+به دو Stal محاوره) به دو oly 5 ۳گاز گرفتن ۴ (در vi
+رفتن, تندی رفتن
+۵یگازوانیشنگون ۶ سوزء بادٍ سرد a
+She nipped her finger in the door.
+انگشتش ماند للای در.
+The cold air nipped the fruit trecs.
+سرما درخت‌های میوه را خشک کرد. درخت‌های میوه
+را سرما زد.
+nip at sth چیزی را گاز گرفتن
+nip sth in the bud چیزی را در نطفه خفه کردن
+nip in and out ویراژ دادن
+nip in به دو تو آمدن / رفتن
+nip off / out به دو بیرون رفتن 7 آمدن
+nip up به دو بالا رفتن / آمدن
+nip down به دو پایین رفتن / آمدن
+give sb a nip کسی را گاز گرفتن؛
+کسی را نیشگون گرفتن
+nip and tuck در مسابقه) رقابتِ فشرده؛ (
+صفت‌گونه) فشرده؛ سخت. شانه به شانه (
+nip sth in تنگ کردن؛ ]550[ گرفتن؛ (bls) vi
+| RHE تو
+nip sth off OAS ] [جوانه wm
+nip? /nip/ یک جرعه Lot [ویسکی, عرق و n
+nipper /mipa(t)/ [خرچنگ و غیره ] جنگال, پنجه .۱ 1
+My (محاوره, در جمع) گازانبر؛ انبردست ۳ (در ۲
+محاوره) بچّه, بچهٌ نوپا
+nipple /nipl/ Sly ¥ نوک پستان .۱ a
+سر شيشه ۳ (اتومبیل) گریس خور ۴. [لوله ] مغزی
+NIPPY /'nip1/ (comp nippier, super nippiest)
+.۲ (محاوره) 3 تندو تیز» چابک؛ [اتومبیل ] تیز ad)
+هوا] سرد ۳. [مزه ] تند wt]
+It's nippy. هوا سوز دارد.
+nirvana /misvans/ بودا) نیروانا ool آیین هندو و 3) 72
+nisi /'nassat, 'narsi/ os (حکم) طلاتي n
+Nissen hut /'nsn hat/ تونلی؛ PLEA] n
+RE
+nit! /mit/ Set .۲ انترشک 7
+nit? /nnt/ او ر5) احمق, خر, الاغ Gs, (در n
+آدم خرفت. خنگ
+niter /mnarta(r) / = nitre
+nit-picking /'it pikin/ (محاوره, به طعنه) تکیه روی A 7
+
+۷  u=cook 00100 A=cup 3=bird a= about
+= near وع = hair ua = pure ero = player  a1s = fire
+
+6= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1117 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nitrate; nitriC; nitric acid; nitrogenous; nitro-glycerine; nitroUS; nitrous oxide; nitty-gritty; nitrogen; nix; nitwitted; no; There's no saying; No -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nitrate 11
+جزئیَاتِ بی‌اهمیت. ايرادگيري بی معنیی» ملانقطی‌بازی
+adj ۲ [سخنرانی و غیره ] پر از ایرادهای بی‌معنی. پر از
+
+ایرادگیری
+
+ایرادگیر بودن, ایرادی بودن, be nit-picking
+
+ایراد گرفتن, ملانقطی بودن
+1 (شیمی) نیترات nitrate /'nartrest/
+ool ad n سدیم؛ ool pd پتاسیم. / 0 ۲11۳
+شوره
+adj (شیمی) (مربوط به) نیتروژن. / اد / nitric
+( مربوط به) Sl ۱
+۸ (شیمی) اسید نیتریک. /2۹:۵4 nitric acid / nartrik
+۰ تیزاب» psx شوره
+O58 5m (st) nn ارت اس سرت ۱۱۱۹
+adj (شیمی) ( مربوط به) / nitrogenous /nartrodsimas
+نیتروژن» (مربوط به) آزت. نیتروژنی
+nitro-glycerin/naitras ‘glisari:n, (US) ‘glisarin/ :
+(US) = nitro-glycerine
+nitro-glycerine/ nartras ‘glrsari:n, (US) ‘glisarin /
+1 نیتروگلیسیرین
+adj (شیمی) ۱ (مربوط nitrous /'nartras / ERR (a
+سدیم؛ (مربوط به) Olas پناسیم» (مربوط به)
+شوره ۲. نیترو
+1 (شیمی) اسید نیترو  nitrous acid /nartras ‘®sid/
+1 (شیمی) اکسید nitrous oxide / nartras ‘pksaid/
+نیتروء مونوکسیل نیتروژن» گازٍ خنده‌آور
+(محاوره) اصل مطلب, اه nitty-gritty / nour
+اصل قضبیه
+Sadly زندگی the nitty-gritty of life
+the nitty-gritty of one's aims
+اصل هدف‌های کسی, هدف‌های اصلی کسی
+1 (محاوره) ادم احمق. pol خر nitwit /'nrtwit/
+po! الاغ ۱
+احمق جان, الاغ جان, خنگ‌علی you nitwit
+4 (محاوره) احمق, nitwitted / nit'witd / FV
+خرفت
+7 ۱.(عامیانه) هیچی NiX /niks/
+0 ۲ (در Ayal عامیانه) نه» نچ
+wr ۳ (در آمریکا, محاوره) رد کردن» جواب رد دادن به
+adj ۱.هیچ. حتی یک no! /nas/ ( pl noes)
+No student is to leave the room. > <
+ir .ند La se نه, نه LL ترا به dis راست
+می‌گویی ٍ
+LF adv ۵. هیچ اصلا
+n ۶ جواب AS جواب رد پاسخ منفی ۷در (gar اراء
+منفی؛ مخالفان i
+yes and no — yes
+(محاوره) غیرممکن, بی‌فایده, بیخود no go
+
+<!-- REGION: RIGHT COLUMN -->
+
+38
+< It's no go trying to get him to help us. >
+(It's) no wonder (that) ... (45) تعجّب ندارد
+عجیب نیست (که)
+by no means به هیچ وجه
+There's no saying / telling / knowing ...
+Jeol (4S) نمی‌شود فهمید tor Commi shan هیچ
+نمی‌شود گفت ( که)...
+There's no pleasing him. هیچ جیز راضیش
+نمی‌کند. راضی بشو نیست.
+No smoking! سیگار نکشید! استعمال دخانیات
+ممنوع!
+No entry! No admittance! ورود ممنوع!
+وارد نشوید!
+No parking! توقف ممنوع!
+whether he comes or no چه بياید چه نياید
+Hungry or no you'll eat it.  هچ باشی 4a § Ax
+نباشی باید بخوریش. «گرسنه نیستم و نمی‌خورم»
+باید بخوری. mols
+a question of no great importance
+سوّالی کم‌اهمیت
+The noes have it. اکثریت با آراء منفی است.
+کار بردی: dass
+کلمه به معني «هیچ» قبل از اسم و صفت به‌کار می‌رود:
+No problem.
+That's no good _ it's broken.
+He's no slimmer than he was before.
+به خصوص قبل از 8۵4 LS در غیر این صورت. از
+استفاده enough و much .many .all a کلمه‌های
+می‌شود:
+Not many tourists come here.
+Not enough food for all of us.
+She's not stupid.
+The news was not good.
+به معني «هیچ‌کس) هميشه به nobody LIS: a Val 385
+واحد نوشته می‌شود: LISS صورت
+There was nobody there.
+در body پیش از اسم mo که می‌توان آن را با استعمالي
+زیر مقایسه کرد: dor
+There was no body there.
+به معنی حسد است. body در اینجا
+N02 /'namba(r)/ = 3
+No /nx6/ (US) < north
+N02 /'na:8an/ (US) < northern
+8103 /'namba(r)/ (pl Nos) > number (برای روزنامه. 7
+ala (برای خانه) 6 je تلفن. اتاق و غیره) شمارة,
+پلاي, كاشي
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1118 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nobble; nobility; nobleman; nocturnally; nocturne; nod I nod; have a nodding acquaintance with sb; nod one's agreement -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+n نوح Noah /'nova/
+SS نوح Noah's ark
+22 (در بریتانیا, عامیانه, به طعنه) کله گنده» nob /nob/
+آدم کلفت
+طوری He acts as if he's one of the nobs. ls,
+می‌کند که انگار پسر آتورخان است.
+7 ۱.(کریکت) خطای پیز تاي, اد no-ball / nav
+Ls & 5
+۳.(کریکت) [بازیکن ] خطای ... را اعلام کردن
+2 (در بریتانیا, عامیانه) ۱. [اسب مسابقه nobble /nobl/  ]
+چیزخور کردن ۲. [ قاضي, داور و غیره ] خریدن ¥ Jal
+sh و [ost با sus اگیزر اوردن ۴. [دزد و غیره ] گرفتن,
+گیر انداختن
+جایزةٌ نوبل Nobel Prize /naubel prarz/
+an ۱. اشراف, اعیان, نجباء nobility /nau'bilat/
+اعسیان واشراف, نجیب‌زادگان, اشرافیّت ۲.
+نجیب زادگی. اشراف زادگی, نجابت ۲ اصالت.
+بزرگی, بلندی ۴. شرافت. بزرگ‌منشی, بلندطیعی,
+pub Ble ازخودگذشتگی, بلندنظری
+noble /naubl/ (comp nobler, super noblest)
+adj ۱. نجیب‌زاده, اشراف‌زاده, اعیان‌زاده؛ [خانواده]
+اصیل ۲ [شخصیت. روح ] deol بزرگ, بلند؛
+[احساسات. خصلت ] (Je (Jeol ناب ۳ [شخص]
+شریف. درستکار؛ شجاع؛ cies بلندطبع,
+ازخودگذشته, بلندنظر ۴. باشکوه, عالی, شکوهمند.
+باعظمت؛ [شراب ] عالی, ناب ۵. [فلزات ] نجیب
+۶. نجیب زاده, اشراف زاده
+از خانواده‌ای اصیل, از خانواده‌ای of noble birth
+cms از اعبان. JME رشب
+آدمی شریف؛ a man of noble character
+آدمی بلندطبع
+aS, شمارا It was noble of you to...
+نشان می‌دهد که..., ازخودگذشتگی کردید که.... آقایی
+کردید که.... نجابت به خرج دادید که ...
+nobleman /'navblman/ ( p/ noblemen)
+n نجیب زاده» اشراف زاده
+n اقتضای noblesse oblige /naubles abli:s/
+اشراف زادگی, بالاخره اشراف‌زاده‌ای گفته‌اند.
+اشراف زاده بودن یک خرجی هم دارد
+noblewoman /navblwsman / ( p/ noblewomen)
+nn نجیب زاده (زن)» اشراف‌زاده (زن)
+adv 4 طرز شرافتمندانه‌ای: nobly /'naublr/
+شرافتمندانه؛ با ازخودگذشتگی؛ با بلندنظری, با
+Ye طبع, با بزرگ‌منشی 3b a باشکوهی, به
+طرز تحسین‌آمیزی» به طرز شکوهمندی
+ii=see 1=sit =m-cal a=father D=got o:i=s
+el = say 9 =go ar = five ay = now or=boy 1
+aya = hour j=yes w= wet t/ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+39 nod
+nobly born wos از خانواده‌ای اصیل, بااصل و
+اعیان‌زاده
+nobody /'navbadi / ( p/ nobodies) کس. gn \ pron
+هیچ کسی, هیچ کي
+ادم بی‌سروپاء ادم معمولی؛ کسی. هیچ‌کس Xn
+He's nobody's fool. — fool!
+It's nobody's business. نیست. by به هیچ کس
+I worked with him when he was a nobody.
+وقتی هنوز کسی نمی‌شناختش با او کار می‌کردم.
+no-claims bonus / nas مسا bavnas/
+خسارت sled عدم EL اتومبیل) ian (در ۸
+nocturnal /nok'ts:nl/ ] تاریکی و غیره im] .۱
+] شبانه, (مربوط به) شب ۲. [حیوان ] شبرّو؛ [یرنده ¢
+که در شب phd [LS] شب‌پر؛ Oly met
+(مربوط tam (4 (مربوط [cole] می‌روید؛
+شب‌پروازی (4
+nocturnally /nok'ta:nlr/ در شب., شب all adv
+nocturne /'nokts:n/ ۱.(موسیقی) نکتورن 12
+(تقاشی) منظرةٌ شب ۲
+nod /nod/ ( prp nodding, pt,pp nodded)
+| ۱.(به نشانة موافقت) سر خود را تکان:دادن:.با تشر 7
+سلاع) سری تکان Bm گفتن, با سر تصدیق کردن؛ (به
+دادن؛ (برای انجام کاری) با سر اشاره کردن, با سر
+گفتن ۲. کسی چرتش بردن, کسی خوابش بردن,
+درخت ] تکان JEL ۳۲ کسی افتادن. چرت زدن AUS
+خوردن, خم شدن ۴. سهو کردن, دچارٍ لغزش.
+شدن» از دستِ کسی دررفتن
+(به نشانة موافقت. سلام و غیره) [سر] تکان دادن ۶.با .۵ ۷
+حرکتِ سر گفتن (که)
+سر Cade سر, OWS (به نشانة موافقت, سلام و غیره) ۷ 7
+have a nodding acquaintance with sb/ sth
+با کسی سلام و علیکی داشتن, با کسی / چیزی آشنايي
+مختصری داشتن
+catch sb nodding مج کسی را گرفتن
+(Even) Homer (sometimes) nods. (prov)
+بشر جایزالخطا است.
+nod one's agreement / approval با (حرکتِ)
+سر (SS) سر موافقت خود را اعلام کردن, کسی
+گفتن که موافق است. با سر تصدیق کردن
+give sb a nod (محاوره) با سر به کسی آره گفتن.
+با سر با کسی موافقت کردن؛ با سر به کسی سلام کردن,
+برای کسی سری تکان دادن
+the Land of Nod —> land’
+a nod is as good as a wink (to a blind horse /
+man) همان یک اشاره کافی است, فهمیدم چی
+۷۷  u-cook ui=t00 A=cup 3=bird o= about
+= near €9 = hair ua = pure elo = player ara = fire
+0= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1119 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: cl-'; nodal; noddle i'nodl; nodular; nodulated; nodule; Noel; noggin; no-go-area; no-good; no-hoper; nohow; noise; noiseless; noiselessly; noiselessness; noisome; noisy; nomad; nomadic; no man's land; nom de plume; nomenclature; nominal; nominally; nominate -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nodal 11
+می‌خواهی بگویی, لازم نیست بیشتر توضیح بدهی
+( در 5 ks, محاوره) go through on the nod
+[ پيشنهاد و غیره ] فوراً با...موافقت شدن
+( در Lk, محاوره) چیزی را buy sth on the nod
+نسیه خریدن
+Wi (محاوره) چرت 035« چرتی nod off O33
+کسی چرتش بردن, کسی خوابش بردن
+adj (فیزیک و غیره) گرهی. / ]1۵۵۵
+(مربوط به) odie (مربوط به) گره
+1 (محاوره) AS ۲۱۵۵۵6
+7 ۱.(گیاه‌شناسی) گرهءبند؛ (کالیدشناسی)  node /nasd/
+گره ۲.(فیزیک. ستاره‌شناسی) عقده» گره؛ (ریاضی) گره ¥ )
+( زبان‌شناسی, در نمودار درختی) گره
+۱.(گیاه‌شناسی. nodular /modju:la(r) / (aad
+گره‌دار, رنه پوکره ۲ (زمین‌شناسی) دارای
+گرهک, دارای دول
+nodulated /nodju:lertrd / = nodular
+۱ (گیاه‌شناسی, nodule /'nodju:l, (US) npdsu:l/
+کالیدشناسی) wedi گره» برامدگی ۲.(زمین‌شناسی)
+گرهک. dod
+1 کریسمس, (عید) Noel /navel/ Fo
+noes /navz/ pl of no’
+(در آمریکا) [بیمه اتومبیل ] no-fault / nos ‘fa:it/
+NEL کروکی ۱
+2 ۱. [مشروب ] Joi ۲. (محاوره) کله؛ noggin /nogm/
+&
+منطقةٌ ممنوعه no-go-area/ nov 'gov earia/
+4 (محاوره) به‌دردنخوز, no-good / nav 'gud/
+بی‌فایده
+2 (محاوره, به طعنه) آدم / no-hoper/ nas ‘havpe(r)
+بی‌خاصیت. ادم بی‌عر ضه. po! بی‌بو و خاصیت
+0 (محاوره) هیچ جوری؛ / هداد / ۲۱۵۱۱۵۷۷
+با هیچ کلکی؛ به هیچ وجه
+7 ۱. صدا ۲. سر doy همهمه., هیاهو noise /noz/
+۳ (رادیو, تلویزیون و غیره) پارازیت, toil ia bg
+(کامپیوتر) 5355 اختلال
+سر و صدا کردن؛ سر و صدا راه انداختن, make a noise
+جار و جنجال به پا کردن, جنجال کردن
+اظهار محبت کردن. make polite noises
+اظهار لطف کردن
+انچه را که لازم است گفتن, make the right noises
+حرف‌های لازم را زدن, حرف بیخود نزدن
+( محاوره) وانمود make a noise about doing sth
+کردن که ..., 8 که..:. نشان دادن که..:
+7 (رسمی) شایع 03,8 noise sth abroad
+انتشار دادن
+Joo adj بدونِ noiseless /morzlis/  هتسهآ dao
+
+<!-- REGION: RIGHT COLUMN -->
+
+40
+0 بی‌سر و صداء اهستد.  noiselessly /mozlisli/
+QIN صدا
+n سکوتا: noiselessness/nowzlisnis/
+بی‌سر و صدایی, ارامش
+0 با سر و صدای ob شلوغ‌کنان اد noisily
+سر و صداء سروصدای ره noisiness
+زیاد. هیاهو, همهمه. شلوغی
+(yom) ad) [بو. منظره و noisome / ۵ / {opt
+ناراحت‌کننده؛ زننده. مشمئ زکننده. نفرت‌انگیز
+NOISY /'na1zi/ (comp noisier, super noisiest)
+ad) [بجّه. خیابان و غیره ] پرسر و صداء شلوغ؛ [بازی, بحث و
+[ot پرسروصداء پرهیاهو؛ [اتومیل, دستگاه ]
+پرسر و صدا
+[شخص ] شلوغ کردن, pw 5 صدا کردن؛ be noisy
+[ دستگاه ]سر و صدا کردن, پرسر و صدا بودن
+۱. چادرنشین. ایل‌نشین. nomad / novmad/
+ایلیاتی. کوج‌نشین؛ بادیه‌نشین» بَدّوی. صحرانشین؛
+(در جمع) عشایر ۲.(مجازی) خانه‌به‌دوش, اواره
+ad) ۱. [زندگی و غیره ] nomadic /۸3000۵4:/ «gle ete
+ایلیاتی. ( مربوط به) چادرنشینی؛ ( مربوط به)
+بادیه‌نشینی» (مربوط به) صحرانشینی؛ [طوایف.
+جسامه ] چادرنشین, ایسل‌نشین, کوج‌نشین؛
+بادیه‌نشین. صحخراگرد. صحرانشین ۲ (مجازی)
+[زندگی ] ( مربوط به) خانه‌به‌دوشی
+n چادرنشینی. nomadism /'navmadizom/
+ایل‌نشینی» کوچ‌نشینی؛ بادیه‌نشینی» صحرانشینی
+on ۱. زمین 1 no man's land /'nos manz
+موات ۲. oles dole دو Sad متخاصم ۳ fle
+بی‌طرف ¥ (مجازی) گم‌آباد
+da plum/ ( p/ noms مد / nom de plume
+اسم مستعار de plume)
+nomenclature /namenklat f2(r), (US)
+۸ (رسمی) ۱. سیستم نامگذاری, / ‘naumanklert far
+نامگذاری ۲. نام‌هاء اسامی
+4 ۱. [رئیس. موافقت و غیره ] اسمی»  nominal /aommnl/
+صوری, ظاهری ۲. Goin] اجاره و غبره] ناچیز,
+So اندک, فورمالیته. برای خالی نبودنِ عریضه
+. ۳ (دستور) اسمی. ( مربوط 4( اسم
+2 ۴.(زبان‌شناسی) نامواره
+Na adj ظاهراً, در ظاهر؛ nominally /nommali/
+برای فورمالیته» برای خالی نبودنِ عریضه
+از ۱. پيشنهاد کردن. nominate /npminert/
+معرّفی کردن, نامزد کردن ۲. منصوب OS
+گمالادن ۳ ور Asal 88 Ji 0.8
+۱. [شخص ] معرّفی. nomination /nomrnerfn/
+پیشنهاد ۲.انتصاب ۳ فره پيشنهادشده, فرد
+معرّفی‌شده., نامزد
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1120 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: norninee; norns de plume; non-; non-alcoholic; non-aligned; non-appearance; non-attendance; nonce; nonce-word; nonchalance; nonchalantly; non-combatant; nonconforrnisrn; nonconforrnist; nonconformity; non-cooperation; none -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+nominative /nomimativ/ فاعلی SI ۱.(دستور) 4
+فاعلی (Ges) XY ad)
+nominee / nomr'ni:/ 35 نامزد. کاندیدا Nn
+پيشنهادشده ۲ (بازرگانی, در 2550 سهام, حساب و غیره)
+اسمی, مالک اسمی ole
+noms de plume / nom ds ‘plum/ p/ of nom
+
+de plume
+non- /non/ > non-alphabetical > غیر .\ pref
+
+۲ نات 4 — > non-story >؛ عدم > non-attendance >
+7 (حقوق) صغر سن / ۱۹۵۹۱۹96
+
+A 1 آدمی که در nonagenarian/ nonadsinearian/
+دهد 54 عمرٍ خود به سر می‌برد. po حدوداً صدساله
+SY ad در as 38 عمر خود به‌سر می‌برد. حدودا
+صدساله تو نود i
+pas n تجاوز non-aggression/non a'grefn/
+adi [نوشیدنی [ غیرالکلی / :216۵۳۵1 non-alcoholic/ non
+adj (سیاسی) غیرمتعهّد 1 non-aligned / non
+جنبش عدم تعهّد., the non-aligned movement
+جنبش غیرمتعهّدها
+7 عدم تعهّد non-alignment/ non o'lamnmant/
+7 (رسمی) عدم  non-appearance/non spiorans/
+حضورء Comb
+11 عدم حضورء  non-attendance/ non atendons/
+Cif
+non-believer/ non bili:va(r) / oll adjn
+لامذهب. بی‌مذهب
+ad) [کلمه اسم ] ساختگی, من‌درآوردی NONCE /nons/
+n (کهند) ۰۱ He فعلاً ۲ برای همین for the nonce
+یک مر Ad
+7 (زبان‌شناسی) نوواژه nonce-word /nons wa:d/
+بی‌اعتنایی, / داد / non / ۲1۵۳۵۳۵126۵
+Fs خونسردی
+adj [شخص ] بی‌اعتناء nonchalant /'nonalant/
+بی‌تفاوت. خونسرد؛ [رفتار] ناشی از بی‌تفاوتی.
+ناشی از خونسردی
+0 با بی‌اعتنایی, / ۵6۹۵۱21۱۷
+با بی‌تفاوتی, با خونسردی
+NON-COM /'non kom/ < non-commissioned
+7 (در آمریکا, محاوره, نظامی) درجه‌دار officer
+non-combatant/ non kombatont/
+71 (نظامی) خارج از صف
+non ka'mifand/ / ۲۵۳۰۵۵۳۳۳195۵060
+ad) (نظامی) فاقدٍ درجه (افسری)» Gada درجه
+(mil)
+
+a non-commissioned officer درجه‌دار
+ii=see 1=sit @=cal father D=got 0:=s
+el = say ناه - 0 al = five ay =now 31 = boy 13
+aya = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+41 none
+non-committal /non komitl/ [جواب. نامه حکم و adj
+NAS alsa [ asia] غیره ] محافظه کارانه؛
+be non-committal خود را درگیر نکردن, خود را متعهّد
+نکردن, از خود محافظه کاری نشان دادن, کنار کشیدن
+non-committally / non ka'mutli/. g ,\S با محافظه 0
+محافظه کارانه
+non-compliance / non kamplatans/ «J 9:5 pas n
+موافقت؛ سر پیچی. تمرّد pas
+non compos mentis / non kompas ‘mentis/
+۱.(حقوق) مجنون ۲. (محاوره) منگ, گیج ad
+non-conductor/ non ken'dakta(r) / (فیزیک) عایق, 7
+غیرهادی, نارسانا
+ات مروت زورره روز وه /
+۲ اتاهمرنگی, ناهمخوانی, نامتعارف بودن A 2
+(مذهب) مخالفت با کلیسای انگلستان؛ اعتقاداِ
+مخالفی کلیسای انگلستان
+۲۵۳۵۵۵1۵۲۳151 / nonkan'f>:mist / آدم ۱ 2
+غیرمتعارف., ادم خاص
+] [شخص ] غیرمتعارف. خاص؛ [رفتار, عقاید XY adj
+REET CIR AEE JAE
+Nonconformist/ nonkan'fo:mist/ (cad) adj
+کلیسای انگلستان Callin
+nonconformity / ۱۵۳۵۳8:۳۶ / ار ۱ ناهمرنگی.
+ناهمخوانی, نامتعارف بودن ۲.(مذهب) مخالفتِ با
+کلیسای انگلتان؛ اعتقاداتِ مخالفیي کلیسای
+انگلستان ۳ ناهماهنگی, ناسازگاری, ناهمخوانی
+۲۵۳۰۵۳۳۵۵۲۷ / non مسانزط ادا (US)
+kon'tribjuto:rr / غیرحصّه‌ای adj
+a non-contributory pension scheme
+بازنستگي غیرحصّه‌ای Gado
+non-cooperation / non kav,nparelfn/
+عدم همکاری n
+nondescript /nondiskript / ۱.ادم معمولی.
+ادم‌عادی
+صدا و غیره] معمولی, عادی, wir (بد طعنه) [شخص, .۲ ad)
+فاقدٍ هرگونه مشخصه‌ای
+none /nan/  ؛زیچ هیچ یک. هیچ کدام ۲. هیچ .۱ pron
+هیچ کس ¥ (رسمی) هیچ کس
+none but فقط, تنها؛ هیچ چیز / کس جز
+It's none other than Tom. کسی نیست جز تام.
+خود خودٍ تام است.
+none at all اصلاً و ابداء هیچ چیز Sol
+have none of sth; want none of sth رسمی ) چیزی (
+چیزی را اجازه (BB را تحمل نکردن, چیزی را
+ندادن؛ چیزی را نپذیرفتن
+Ww لمع u:=t00 A=cup %=bird a=about
+- near  €d= hair ua = pure eld = player ara = fire
+0= thin 0= this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1121 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: non-exlstence; non-lntervention; non-ladder; no-no; nonsense -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nonentity 11
+adv هیچ 3 نکرده He's none the worse for it.
+است. Sol برایش بد نبوده است. چندان بهش سخت
+نگذشته است.
+(به شوخی) پول بی‌پول! Money have I none!
+پاک بی‌پولم!
+این مسئله I like him none the worse for it.
+علاقه‌ام را به او هیچ کم نکرده است.
+ماشینم زیاد My car is none the worse for wear.
+کار کرده Jy خوب مانده است.
+هیچ‌چیز بر معلوماتش He was none the wiser.
+اضاقه نشد. هیج‌چیز نفهمید.
+Sal بهتر نشدن be none the better
+هیچ. Sol به هیچ وجه none too )
+Ass کار بردی:
+در انگلیسی گفتاري عادی. هرگاه پس از عبارت
+of 6 آسم جمع داشته باشیم. po جمله را به صورت
+جمع می‌آوریم:
+Ncne of us are ready yet.
+اما در انگلیسی نوشتاری رسمی در چنین مواردی Job
+جمله را به صورت مفرد می‌آوریم:
+None of our factories is in operation yet.
+بعضی معتقدند که در pl جایگاه فقط 3p) صورتِ
+مفرد Jab صحیح است. ا
+A 8 (به (ab آدم nonentity /nonentatr/ «J sama
+po! پیش پاافتاده, pol بی‌سر وپا ۲. بی‌سروپایی,
+پیش پاافتادگی ۳ موجودٍ خیالی, چیز خیالی
+non-essential/ non rsenjl/ «S92 pt adj
+غیرواجب. بی‌اهمیت
+۸ (رسمی) ادم بی‌نظیر, nonesuch /mansatf/ pol
+بی‌همتا, ادم بی‌رقیب؛ pz بی‌نظیر
+0 به هر حال, با وجود  nonetheless /nandales/
+ای elon gall با اینهمه. معهق
+(محاوره) دماغ‌سوختگی. 0۳-۵۷۵1۱۲۵۳
+شکست واقعی
+عدم وجود. non-existence, non 1gzstons/
+نبودء lads محض
+ad) که وجود 5,10 non-existent/ non 1gzistant/
+که وجودٍ خارجی ندارد؛ موهوم
+وجود نداشتن, موجود نبودن» وجود be non-existent
+خارجی نداشتن, حکم LS داشتن, 88 3 احمر بودن
+اثار غیرداستانی, ام non-fiction nor
+se ul
+adj نون io دی / non-flammable’ non ‘flamabl
+غیرقابل‌اشتعال
+4 ۱. غیرانسان. non-human / non ‘hju:man/
+غیرانسانی ۲. غیرطبیعی
+
+<!-- REGION: RIGHT COLUMN -->
+
+۰ 42
+non-interference/ non mta'frarans /
+۸ (سیاسی و غیره) عدم مداخله, عدم دخالت. AS
+ماندن
+pis n مداخله, non-intervention/ non mtavenfn/
+عدم دخالت
+ad) [لباس, پارجه ] NON-iron / non ‘atan, (US) 'atarn/
+بشورو بپوش
+adj [جوراب و غیره ] درنرو /(۱1*4:)۲ non-ladder /non
+(شیمی) غیرفلزء نافلز؛ non-metal / non 'met!/
+a فلز
+2 (محاوره) چیز ممنوع, کار قدغن /۸۵0 NO-NO /'nas
+4 (رسمی) عدم non-observance/ non sb'za:vans/
+رعایت. رعایت نکردن
+NO-NONSENSEe/ nau nonsns, (US) 'nonsens/ Jk] adj
+توافق و غیره ] جدّی» صریح
+:۱ (رسمی) (us) “rel / pat با درد / nonpareil
+بی‌نظیر» آدم بی‌رقیب, pol بی‌همتا؛ چیز بی‌همتا
+(es) Yad) بی‌نظیرء بی‌همتاء بی‌رقیب
+1 (رسمی) عدم non-payment/ ۵۵۵ ‘permant/
+(EES پزداخث نکزردن
+nonplus /non'plas/ ( psp nonplussing,
+(US) nonplusing, pt,pp nonplussed, (US)
+VI مبهوت (33S متحیّر کردن nonplused)
+& خوردن: حپرت کردن be nonplus(s)ed
+adj [دارو]آ / non-prescription/ non prr'skrip fn
+بدون نسخه
+adj [سازمان ] غیرانتفاعی / ۵۰۵۲۵۸1/۵۵
+adj [سازمان ] non-profit-making/ non ‘profit meriig/
+غیرانتفاعی
+pralifarerfn/ دم non-proliferation/
+2 ۱. [سلاح‌های اتمی و غیره ] محدودسازی, منع گسترش
+۲ منع گسترش سلاح‌های w=! (و شیمیایی)
+[Fi] adj غیرقابل non-refundable/ non rifandabl/
+برگشتت؟ غیرقابل‌استرداد
+win] ad) ] تمام‌شدنی,/ non-renewable non rinjuiabl
+غیرقابل تحدبد, تجدیدنشدنی
+4 ا(رسمی ) non-resident / non ‘rezidont/ [asc]
+غیرساکن؛ غیرمقیم؛ pm] شغل ] غیرحضوری
+adj [دانشجو شغل ] non-residential / non rezidenft/
+غیرحضوری
+NON-run/ non ‘ran/ (US) = non-ladder
+Nn مزخرفات. nonsense /'nonsns, (US) -sens/
+ُهملات. چرندیات» حرف‌های مسزخرف.
+حرف‌های چرند؛ مزخرف. مُهمل, یاوه چرند.
+جرت و پرت. شِر وور» Sis ¥ رفتارٍ lias
+حرکاتِ احمقانه» OAS om نامعقول, مسخره‌بازی
+مُزرخرف 1,50 چرند نگو! مزخرف است! Nonsense!
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1122 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nonsensical; nonsensically; non sequitur; non-slip; non-smoking; non-standard; non-starter; non-stop; nonsuch; non-U; non-violence; non-violent; non-white; nookrnuk; noon; noonday; no one; noose; nope; nor; NordiC; norm; normal; normalcy; normalisation; normalise; normality; normalization; normalize -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+0
+چیزی را بی‌معنی کردن؛ make (a) nonsense of sth
+چیزی را خراب کردن, چیزی را بی‌اثر کردن
+stuff and nonsense — stuff’
+SS] adj جمله و غیره ] nonsensical /non'sensikl/
+بی‌معنی» ag مزخرف» پوچ» چرند. مُهمل؛
+[شخص ] احمق, بی‌معنی
+adv خیلی بی‌ربط. nonsensically /non'sensiklir/
+خیلی بی‌معنی. چرندء مزخرف
+VN 2 (منطق) non sequitur /,non 'sekwita(r)/ does
+کاذب ob ov بی‌ربط ۳.استدلال غلط. مغالطه
+adj [تایر] 3s لغزندگی, شرنخور non-skid / non ‘skid/
+4S adj سر نمی‌خورد؛ اناد" non-slip / non
+که els سر خوردن نمی‌شود. که جلوی لیز
+خوردن را 54 pS §
+7 ۱.غیرسیگاری  ‘smavka(t)/ ۲۵۳-5۲۵۷۵۲/۳۲۵۵
+8 ردام و TOPE CAAT J
+bye) ad به) / اند ۹۳ non / ۵۳۰۹۲۳۵۵۵۵
+غیرسیگاری‌ها
+غیراستاندارد. non ‘stzndad/ ۲۵۳-۹13202۲0
+خارج از استاندارد
+1 ۱. (اسبدوانی) اسب non-starter/ non 'sta:ta(r)/
+غَاگ ۲ (جازی, uals نشبدنی» کاز igi
+ادم ناموفق
+2d) [ظرف ] نَچسب؛ تفلون non-stick / non 'stik/
+adj ۱. [پرواز, قطار و غیره ] non-stop /,non 'stop/
+مستقیم. بدونِ توقف» یکسره ۲. HST صحبت ]
+ARB yo مداوم
+adv ¥ [پرواز کردن و غیره ] بدون توقف, یکسره ۴. یکریز.
+یکسره. مدام. بی‌وقفه
+nonsuch /'nansatf/ = nonesuch
+7 (در ks, محاوره) [کلمات, ang و non-U /non jui/
+غیره ] عامیانه؛ [لباس, رفتار ] کلاش‌پایین. عامیانه
+ad) ]58 [ غیرعضو NON-Union /.non Yju:nian/
+asl) ۲. [کارخانه. شرکت ] که کارگرانش عضو
+اتحادیه نیستند :
+non-violence / non vawlons/ (24 / sli) 2
+عدم خشونت 8
+adj [تظاهرات, اعتراض و غیره ] /۷۵:۵1۵04 non-violent/ non
+بدون Jos به acs pis آرام. صلح آمیز
+nadj رانگین بوست. non-white / non ‘wart, (US) ‘hwart/
+غیرسفید 2 Cow
+7 ( آشپزی, در جمع) رشته؛ ورمیشدل؛ noodle’ /nudl/
+رشته‌فرنگی
+7 (کهنه, محاوره) احمق, cal خر noodle? /mudl/
+mS ۸ گوشه, جای دنج / nook / nuk
+خن i: = see 1=sit @®=cat a:=father Db=got
+el = say WU =go ar = five av = now o1=boy 12
+ava = hour [<< 5 w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+43 normalize
+| every nook and cranny محاوره) همه سوراخ و (
+| سمبه‌هاء هر سوراخی
+noon /nun/ (رسمی) ظهر 1
+| morning, noon and night — morning
+noonday /'nu:nder / نیمروز gb (a) n
+no one /nos wan/ = nobody
+noontide /nu:ntard/ = noonday
+noose /nu:s/ خفت di حلقةٌ طناب, .۱
+دار olds دار ils ۳ کمند ۲
+put one's head in the noose دم به تله دادن
+خود را گیر انداختن
+be facing the hangman's noose las! در استانة ¢
+قرار داشتن, پای چوبة دار قرار گرفتن
+nope /navp/ (عامیانه) ند نج nr
+nor /no:(r)/ 4 ند و (neither (بعد از .\ conjady
+(رسمی, بعد از صورتِ .۲ < Neither you nor I can do it. >
+وا هم (de gi
+That's not funny, nor is it true.
+خنده‌دار نیست و حقیقت هم ندارد.
+nor'= /no:(r)/ <noreast> شمال (S53) adj
+Nordic /'na:dik/ ۱.(مربوط به) کشورهای ad)
+اسکاندیناوی؛ (مربوط به) اسک‌اندیناوی.
+.۲ اسکاندیناویایی» (مربوط به) ارویای شمالی
+مربوط به) نژاد نورش (
+norm /na:m/ ضابطه Glas اصل, قاعده, .۱ nn
+dX پذیرفته‌شده, امر عادی Jol Old ۲
+میانگین, حدٌّ مطلوب؛ حدّ متوسطٍ کار Spe
+normal /'na:mi/ [on و lm [رفتاز. موقعیّت: .۱ 7
+.۲ عادی» معمولی, معمول, طبیعی, متعارف, بهنجار
+WB) عادی, نرمال (Jl [شخص ] طبیعی,
+عمود ۴. (شیمی) [محلول ] نرمال؛ [هیدروکرین ] خطی؛
+ES
+نرمال؛ حالت ds ۵.حذٌ طبیعی, میزان عادی. ۸
+سطح tl طبیعی, حالتِ عادی ۶.(ریاضی) خط
+نج en
+normalcy /'no:misi/ (US) = normality
+normalisation / no:malarzer fn, (US) -li'’z-/
+= normalization
+normalise /‘noumslaiz/ = normalize
+normality /na'malatt/ Ciao s (sole ۱.حالت 2
+X طبیعی, حالتِ تُرمال؛ بهنجاری, عادی بودن
+(شیمی) تُرمالیته
+normalization / no:molarzer fn, (US) -Ir'z-/
+03,5 [روابط و غیره] عادی‌سازی, عادی 1
+normalize /nomolaiz/  یداع ] [موقعیّت. روابط .۱ v7
+۷  v=cook ui=too a=cup 30 010 o= about
+> €3 = hair U9 = pure ed = player aro = fire
+6= thin 8 = this [=shoe I= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1123 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Norman; north; northerner; north-facing; northward; northwards; north-westerly; Norwegian; Nos; fol -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+normally 11
+| کردن. به Se عادی درآوردن ۲. [املای کلمات و
+| غیره] به صورتِ متعارف درآوردن, عادی کردن
+vi ۳ [موقعّت, روابط ] عادی شدن, به حالتِ عادی
+بازگشتنٍ
+NY gana N adv در normally /nomali/ sole Cdl
+به طورٍ معمول ۲. به طورٍ amb طورٍ عادی,
+(seb عادی
+7 (در آمریکا) مدرسةٌ normal school /'noml skul/
+on 5 معلم, دانشسرا
+[ ۱.(معماری) 9 (ole, رومانسک Norman /mnoman/
+bse) ۲ 4( نورمان‌هاء (مربوط 4( نورماندی
+adj (رسمی) تجویزی. normative /no:mauv/
+دستوری, هنجاربنياد
+۱. خانوادة زبان‌های اسکاندیناویایی Norse /nois/
+۲ (زبان) نروژی؛ نروژي کهن» نروژي باستان
+ad) ۳ (مربوط به) اسکاندیناوی gS اسکاندیناوی
+بای انب ایکا ند asl ( سر بوظ بل ls
+اسکاندیناویایی؛ )0 by به) اهالی اسکاندیناوی
+۴ مربوط Sos (a نروژی؛ (مربوط به) نروژی‌ها
+( زبان ) اسکاندیناویایی کهن / باستان Old Norse
+۱.شمال؛ نواحی شمالی, مناطقي north /no:6/
+شمالی
+(les .۲ adj ( مربوط به) شمال
+0 ۳ 4 طرفي شمال, رو به شمال, به سوی شمال
+( محاوره) در شمال؛ به سمتِ شمال up north
+اتاقی با پنجرةٌ رو a room with a north light
+به شمال
+شمال آفریقاء آفریقای شمالی North Africa
+Jes n نواحی (Sez مناطق شمالی North /n>:6/
+adj [عبور و espe راه و Northbound /mo:basnd/ [op
+رو به شمال, به سوی شمال
+North Country /'n:6 kantrr/
+شمال انگلستان, نورت‌کانتری  the North Country
+North-countryman/ns:0 kantriman/ :
+n اهل نورت‌کانتری, Ja! شمال انگلستان
+۸ ۱.شمال شرقی north-east / no: i:st/
+0 رو به شمال شرقی, به ob تال شرقی
+بادٍ شمال شرقی ’ 3
+north-easterly/no:0 ‘i:stali/ [54 pe] A adj
+Je شرقی
+Jus 3b Xn شرقی
+adf شمال شرقی north-eastern/ns:6 ‘i:ston/
+/no:0 ‘isstwad/ : ۲۵۲1۳۰۵۵851۷۷۵۲0
+north-eastwards =
+north-eastwards/n:0 ‘isstwadz/ Sb 4 adv
+Ja شرقی, رو به Jt شرقی
+۱. [باد. oe جغرافیایی ] / ۵:۵ northerly
+
+<!-- REGION: RIGHT COLUMN -->
+
+14
+شمال, رو به شمال (Bb شمالی ۲.(به
+شمال sb Ja shy a
+northern /no:don/  لامش (4 شمالی, (مربوط adj
+northerner /'no:3ona(r) / Jo! (شخص) شمالی, n
+بشما ان
+Northern Lights /no:dan ants / شمالی. $s انا,
+شمالی Gas
+northernmost /no:donmoust / شمالی‌ترین adi
+north-facing /ns:0 feisty / شمالی Jes رو به
+North Pole / فندم 'pavl/
+the North Pole Jai قطب n
+North Star /no:0 'sta:(r)/
+the North Star ستارةٌ قطبی, جٌدی 7
+۲۱۳۳ شمالی, رو به شمال .۱ ad)
+به طرفي شمال Jez .رو به 0
+northwards /no:6wadz/ رو به شمال, 0
+Jez به طرفي
+north-west /no:6 'west/ ۱.شمال غربی
+شمال غربی ob غربی» به Jes 3 زو ۷ adj,ady
+northwester / no:0'westa(r) / بادٍ شمال غربی
+north-westerly /no ‘westolit/ [bos] N ad)
+غربی Jes
+بادٍ شمال غربی .۲
+north-western /ns:6 ‘westan/ we شمال غر adj
+north-westward / no: 'westwad/
+= north-westwards
+north-westwards /no:0 ‘'westwadz/ <3 b 4 adv
+شمالِ غربی» رو به شمال غربی
+Norway /'no:wer/ نروز 7
+Norwegian /0۵:۷/1:4300/  هژورن ۱.(مربوط به) ad)
+نروژی
+نروژی» اهل نروژ ۳.(زبان) نروژی .۲ ۸
+NOS /'namboz/ > numbers (برای روزنامه, خانه و غیره) 1
+شماره‌های
+NOS /'nambaz/ = Nos
+nose’ /novz/ بینی» دَماغ ۲. [اتومبیل, هواپیما. .۱
+.۴ ایزار و غیره] سر جلو ۳. شامه. (حش) بویایی
+مجازی, محاوره) شم شامّه ( تیز) ۵.(در مورد شراب) (
+بوی خوب
+powder one's nose — powder ۱
+be no skin off one's nose — skin
+blow one's nose — blow’
+by a nose با اختلافی کمی
+cut off one's nose to spite one's face
+دودش به چشم خودٍ کسی رفتن, ضررش به خودٍ کسی
+برگشتن
+follow one's nose — follow
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1124 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: poke; thumb one's nose at sb; nose about; nosedive; nostalgia; nostalgic -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+]1
+( عامیانه) کفر کسی را درٌآوردن» get up sb's nose
+کسی را کلافه کرذن
+( محاوره) OUST و غیره ] have one's nosc in sth
+کسی تو... بودن
+( محاوره) سر کسی توی کار keep one's nose clean
+خودش بودن, خود را قاطي ماجرا نکردن
+( محاوره) از keep sb's nose to the grindstone
+کسی حسابی کار کشیدن, حسابی کار از PRL کسی
+REELS
+(محاوره) سخت keep one's nose to the grindstone
+کارءکر ان پدر خود را دراوردن, 25 کاز 53.5
+lead sb by the nose — 3
+look down one's nose at sb/ sth
+( محاوره) به کسی / Gor محل سک نگذاشتن, دماغ
+خود را برای کسی / چیزی بالا گرفتن, کسی / چیزی را
+قابل ندانستن
+( عامیانه) درست زدی You've hit it on the nose!
+forbs
+pay through the nose — pay?
+plain as the nose on one's face —> plain’
+( محاوره) poke / stick one's nose into sth
+تو کاری فضولی کردن, تو کاری دخالت کردن. تو کاری
+SH کشیدن
+put sb's nose out of joint — joint?
+rub sb'’s nose in it — rub’
+thumb one's nose at sb/sth — thumb
+( محاوره) چیزی را قابل 5۶0 turn one's nose up at
+ندانستن, به چیزی اعتنا نکردن, برای چیزی اهمیت FU
+نشدن, برای چیزی تره هم خرد نکردن
+(محاوره) درست (right) under sb's (very) nose
+جلوی چشم کسی
+( محاوره) با تکیر, with one's nose in the air
+با فیس و افاده
+تودماغی حرف زدن speak through one's nose
+جلوتر از دماغ see no further than one's nose
+خود را FW
+( در (Ws, یک ردیف a line of cars nose to tail
+ماشین سپر به سپر
+۱. [هواپیماء اتومبیل و غیره ] nose? /novz/
+اهسته رفتن, ارام جلو رفتن ۹
+v2 ۲. [هواپیما, اتومبیل و [od اهسته بردن» ارام جلو بردن
+[کشتی ] oly خود را باز 035 nose one's way
+اهسته پیش رفتن
+7 (محاوره) فضولی کردن» nose about/ around
+به هر کجا سر کشیدنء سَرّک کشیدن
+see 1=sit @®=cat q=father D=got :=s: :1
+er=say ou=go ai=five  av=now  oI=boy It
+chain d3= jam = زا ava = hour j=yes w= wet
+
+<!-- REGION: RIGHT COLUMN -->
+
+45 nostalgic
+nose about / around for sth چیزی به Ju 4
+هر کجا سر کشیدن. 4 دنبال چیزی گشتن
+nose into sth 3 05S !لا (محاوره) فضولی
+کشیدن در SL
+nose sth out (محاوره) ۱. بو کشیدن و ...را 7
+شدن از فهمیدن. بو ts پیدا کردن ۲ ( مجازی)
+بردن از؛ [خطر ] بو کشیدن
+۲۵۶۵۵۵9 /naszbag/ os pg ] [اسب 1
+nosebleed /nauzbli:d/ خون‌دماغ
+nose cone / masz koun/ [موشک ] کلاهک 2
+-nosed /navzd/ = بینی gles ترکیب) 53)
+< long-nosed >
+nosedive /'navzdarv / [هواپیما ] شیرجه .۱
+سقوط [eas] (مجازی) تنزل ناگهانی, آفت؛ ۲
+[هوایینا ] شیرجه رفتن ۴ به شدت تنزل کردن؛ ۳
+سقوط کردن [bos]
+take a nosedive به شدت تنزل کردن, سقوط کردن
+۱۹۱۹۹13۷ 1 گل) awd) n
+nosering /navzriy / بینی Aik ۸
+nose-wheel /'nasz wil, (US) hwi:l/ ] [هواپیما 7
+چرخ:جلو
+۱۵5۵۱۷ /'navzi/ (comp nosier, super nosiest)
+(محاوره) فضول adj
+Nosey Parker /novzt ‘paka(t)/ (در بریتانیا, محاوره) 72
+معرکه. فضول‌باشی J pb فضول,
+nosh /noj/ Jae ۱.(در بریتانیا و استرالیا, عامیانه) a
+غذای (smd خوردنی ۲. غذای سرپایی. غذای
+سیک
+خوردن, زدن (alae oly, (در ۳ ۸
+have a (quick) nosh چیزی 1028 چیزی زدن
+no-show / nas 'fou/ (محاوره, در مسافرت‌های 72
+جامانده plas ule pls هوایی /زمینی و غیره)
+nosh-up /'nof Ap/ در بریتانیا, عامیانه) غذای سل 2
+nosily /'navzrir/ از روی فضولی 0
+nosiness /'novzinis/ فضولی n
+nostalgia /nostzldss/ 42538 ۱.حسرت, حسرتِ ۸
+گذشته. دلسنگی ۲ غم غربت. غربت‌زدگی. NY
+i nF هوای وطن,
+nostalgic /nostaldsik/ pal [شعر, آهنگ و غیره ] که ad)
+را به یادٍ گذشته‌ها می‌اندازد. خاطره‌برانگیز؛ [نگاه]
+حسرت‌بار؛ [شخص ] دستخوش حسرتِ گذشته
+get / feel nostalgic گذشته‌ها افتادن, ob به
+خوردن, by 2d هوای گذشته‌ها زانکنردن, حشرت
+هوایی شدن
+make sb nostalgic . . گذشته انداختن ol کسی را به
+۷ 0000 ui=too A=cup 3=bird o= about
+= near €9 = hair U3 = pure ero = player aro = fire
+0= thin 3 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1125 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nostalgically; nostril; nostrum; nosy; Nosy Parker; not; She did not; notability; notable; notably; notarial; notary; notary public; notation; notch; note -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nostalgically 11
+0 با حسرت. nostalgically /no'staldsikir/
+با wast حسرت‌زده
+7 سوراخ i سوراخ دماغ؛ nostril /'npstral/
+( در (por منخرین َ
+2 ۱.(رسمی, به طعنه) دوای nostrum /‘npstrom/
+دروغیء دوای عوضی, دوای بی YX Cho
+(مجازی) راه حل ساده‌انگارانه. داروی سهل‌الوصول
+NOSY /'navzi/ = nosey ۱
+Nosy Parker /nasz1 ‘pa:ka(r)/ = Nosey Parker
+0 نه. 25 (<نشانة نفی فعل) not /not/
+او را ندید. She did not / didn't see him. i
+به من Seif نيایم. He told me not to come.
+Does he know? _ I believe not.
+می‌داند؟ - فکر کنم نه / فکر نمی‌کنم.
+باور بکنی یا نه / Believe it or not, she has gone.
+باور کنی یا نکنی / چه باور بکنی چه باور نکنی, او رفته است.
+اگرنه, Ny در غیر این صورت if not
+Are you hungry? _ Not hungry, just
+bi wan 8 Shan 3 خیلی very tired. plas
+It was not greed but ambition that drove him
+حرص نه بلکه جاه‌طلبی بود که او to crime.
+را به سوی جنایت سوق داد. حرص نبود. جاه‌طلبی بود
+که او را به جنایت واداشت.
+حتی یک. هیج؛ نه حتی یک not a
+هیچ کس نمی‌دانست. حتی Not one man knew.
+ک نفر هم نمی‌دانست.
+هر کسی نمی‌تواند Not everyone can do that.
+این کار را بکند.
+بیشتر نه» دیگر نه not any more
+و شاید هم حتی می‌شود not to say wis
+نه (که / بلکه ) اگر نگوییم
+It would be foolish, not to say mad, to sell your car. > <
+نه تنها... بلکه. نه فقط aS... 0عل2 not only...but
+۱ به هیچ وجه. Ja So! هیچ ۲.(در not at all oy
+تشکر) قابل نبود, چیزی نیست, قابلی نداشت, خواهش می‌کنم
+نه این‌که ... not that...
+She argued, and not without reason, that no
+می‌گفت. وانه بدونِ one could live with him.
+دلیل, که هیچ کس نمی‌تواند با او زندگی کند.
+He had many enemies, but found he was not
+دشمن زیاد داشت. without friends as well.
+اما فهمید که هیچ بدون دوست هم نیست.
+در اینده‌ای نه in the not too distant future
+چندان دور
+تعداد ... a not inconsiderable number of
+قابل‌ملاحظه‌ای ( از )...
+هیچ متأسف نمی‌شوم که ... I shall not be sorry to...
+
+<!-- REGION: RIGHT COLUMN -->
+
+16
+aS 153,85
+not LIS با افعال have has .were (was .are .s
+does odo chad نظایر آن معمولاً در انگلیسی گفتاری و
+نوشتاري غیررسمی به صورتِ ۲ کوتاه pe دز آن
+(he عبارتِ shall not به صورت 112۶ و عبارت will
+4 به صورتِ Won't در می‌آید (و shan't تنها در
+0 انگلیسی بریتانیایی RET Se
+نِکتةٌ آملایی: کوتاه شدةٌ كلم ۱۵4 به صورتِ It است و
+nt ©
+وقتی صورتِ کامل ۵۲ با فعل lo can هر دو
+JS یک کلمه می‌دهند و سر هم نوشته می‌شوند:
+The two sides in the dispute still cannot reach
+an agreement.
+I simply cannot understand what he's talking
+about. |
+nota bene / nauto 'bener/ = NB
+7 (آدم) سرشناس., / notability / nautabilatr
+ادم مهم po! برجسته
+LG ad) توجه. مهم / ااداندد / notable
+قابل‌ملاحظه, درخور توجه. برجسته
+pol lis pm (p21) Yn مهم. آدم برجسته
+adv \ 594 مخصوصا notably /neutoblz/
+۲ به نحو چشمگیری, به 3b قابل توجهی
+adj )500,05 غیره ] محضری / notarial /nsu'tearal
+الا [سند و غیره ] Spam کردن / رات 0۳ 10۱و
+سردفتر, محضردار / ۹ ۱۵13۲۷
+دفتر اسنادٍ رسمی. a notary public office
+دا مُحضر
+notary public /nastart 'pablik/ = notary
+whe LEI n علائم, notation /nau'ter/n/
+نشانه‌هاء نمادها ۲. نشانه‌گذاری, علامت‌گذاری؛
+(am) 5 یی
+7 ۱.(در چوب و غیره) بریدگی, فاق» notch /notf/
+شکاف؛ دندانه ۲. (محاوره) درجه, پلّه ۳ (در (Sql
+83 باریک
+vr ۴.شکاف ایجاد کردن در؛ دندانه‌دار کردن.
+دندانه‌دندانه کردن
+۷1 (محاوره) [ پیروزی, امتیاز و غیره ] notch sth up
+کسب 03,5( به دست آوردن
+۱ یادداشت. نت ۲. نامه کوتاه, note /nout/
+یاددائیت ۳.(سیاسی) سادداشت ۴. (در کتاب و غیره)
+cai a یادداشت, توضیح 0 اسکناس ۶ (بازرگانی)
+سفته ۷.(موسیقی) نت ۸. )448( نغمه. اواز A (موسیقی)
+wis ۱۰. رکه اثر, نشانه, حالت
+There was a note of self-satisfaction in his speech. > <
+۱ توجه. دقت
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1126 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: hit; Let me strike a note of hopefulness; strike; notebook computer; notebook; notecase I 'noutkers; notelet; notepad; There is nothing in -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+compare notes — compare
+make a mental note — mental
+take / make a note of sth
+از جیزی یادداشت برداشتن, چیزی را یادداشت کردن
+[سخنرانی و غیره ] hit / strike the right note
+به دل نشستن؛ گُل کردن؛ [شخص ] goo مطلب را ادا
+کردن
+[ سخنرانی و غیره ] به  hit / strike the wrong note
+Js ننشستن؛ نگرفتن؛ [شخص ] حق مطلب را ادا نکردن
+[بدبینی, نگرانی و strike / sound a note of sth (in)
+[ot آشتزی (Lo) ESL ae) نشانی از... در خود
+داشتن, بوی... از چیزی به مشام رسیدن
+She struck / sounded a note of pity in her
+در حرف‌هایش آثری از isl دیده می‌شد. speech.
+The article struck a pessimistic note.
+مقاله رگه‌ای از بدبینی در خود داهنت.
+Let me strike a note of hopefulness / a hopeful
+بگذار چیز امیدوارکننده‌ای بگویم. .... note,
+بگذار حرفي امیدوارکننده‌ای بزنم. بگذار امیدوار باشیم و
+بگوییم که....
+( مجازی)کار اشتباهی  strike / sound a false note
+کردن. کار نابجایی کردن؛ حرف نابجایی زدن. خارج از
+مقام زدن
+dy ... توجه کردن, take note of O91 dor gta
+?2 نظر گرفتن
+مشهورء سرشناس, ge برجسته of note
+۷ ۱. توجه کردن به / که. note? /naut/
+دقت کردن به / که ۲. متوجه شدن که؛ متوجه بودن
+که. ملنفت شدن که: ملنفت بودن aS متوجه...
+(AL متوجه...بودن, ملاحظه کردن (که) ۳
+یادداشت (00S نوشتن, ثبت کردن ۴. ذکر کردن.
+اشاره کردن wy خاطرنشان (aS متذکر شدن ۵.
+(رسمی) در نظر گرفتن, مورد توجه قرار دادن
+alas, ur کردن, note sth down CO
+ثبت کردن
+۸ دفتر, دفترجه. کتایچه؛ / notebook /nastbuk
+| دفتر یادداشت
+notebook computer /navtbuk kampju:ta(r) / |
+کامپیوترٍ کتابی
+iS n پول notecase /moutkers/
+ٍ }/ مشهور, معروف, سرشناس noted /nauvtid/
+| بر کاغذ نامه هکت نت نی
+ِ : دفتر یادداشت. یادداشت؛ notepad /nastped/
+دفترنامه
+n | کاغذنامه / notepaper /'nautpeipa(r)
+ii=see 1=sit @=cal a=father D=gol o:- sa
+el = say W=go a1 = five au > ۷ o1 =boy 2
+aya = hour j=yes w= wet t{ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+47 nothing
+{ noteworthy /nostwa:81/ درخور vam 5 قابل adj
+| Gey
+| nothing /maéin/ So Teh eh pb \ pron
+: اصلاء به هیچ وجه. هیچ Y adv
+بیخود. چیز ax به‌دردنخور؛ pal بیخود. po! Yn
+به دردنخور
+not for nothing به یک دلیل بسیار موجه.
+| خوبی J به
+Not for nothing was he called the king of pop
+music. بیخود نیست که خدای موسیقی پاپ لقب
+i OM PE 4
+He's five foot nothing. قدش درست پنج 4 & است.
+ده nothing مجّانی بودن, مفت بودن
+۰06 nothing to sb برای کسی هیچ چیز نبودن, ۱
+al پیش کسی ارزشی نداشتن, برای کسی هیچ
+| پیش کسی علی‌السّویه بودن ۲. برای کسی ساده ol
+JUN بودن, برای کسی هیچ کاری نداشتن ۳. به پای
+| نرسیدن» قابل‌مقایسه با کسی نبودن
+for nothing مجّانی, مفت ۲. بی‌نتیجه. بیهوده. ۱
+بی‌فایده آلکی ۳. بی‌دلیل, بی‌جهت
+have nothing on sb محاوره) ۱. به پای کسی (
+نرسیدن ۲. [پلیس ] هیچی از کسی تو دست نداشتن,
+هیچی از کسی نداشتن
+have nothing to do with sb/ sth
+چیزی هیچ کاری / SLB طرفي کسی / چیزی
+نداشتن؛ به کسی / چیزی ربطی نداشتن
+nothing but Bo go فقط.
+nothing if not محاوره)خیلی, حسابی, خیلی خیلی (
+nothing less than یکسره. تماماً Hal
+nothing more than فقط, تنها؛ چیزی جر
+nothing much چیزی که (age هیچ چیز, هیچ چیز
+چیزی باشد؛ هیچ کاری
+(There's) nothing to it.  یلیخ هیچ کاری ندارد.
+خوردن است. چیز سختی ندارد. ol ساده است. مثل
+There is nothing in/to... هیچ چیز جالبی ۱
+نیست که ...۰ هیچ چیزی نیست که.:: ۲. حتقیقت نذارد
+که.... دروغ است که...
+there is / was nothing (else) for it (but to do
+sth) هیچ کار دیگری نمی‌شود / نمی‌شد کرد (جز...)
+fit for nothing به‌دردنخور
+to say nothing of بدون 53 1 بدونِ توجه به, گذشته از
+think nothing of کاری نداشتن, SESH,
+برای کسی اهمیت نداشتن, برای کسی کار ساده‌ای بودن
+Think nothing of it! خواهش می‌کنم!
+حرفش را هم نزن!
+۷ 0000 00100 A=cup &=bird a= about
+- near €a = hair Ua = pure e19 = player - ars = fire
+6= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1127 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nothingnesS; noticeable; notlce-board; notifiable -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nothingness 11
+۱ برایکسی هیچ کاری نداشتن. make nothing of
+برای :کرت کار XY gos lool از ... هیچ جیز نفهمیدن.
+| از ...سر در نیاوردن
+لخت بودن have nothing on
+عقیم ماندن, به نتیجه نرسیدن. come to nothing
+| به جایی نرسیدن
+There was nothing doing at the club so I went |
+ِ (محاوره) تو باشگاه خبری نبود. رفتم خانه.  home.
+Will you come? _ Nothing doing! |
+Spl on | - نه! نمی‌توانم!
+Sol (0550) | هیچ, به هیچ وجه nothing like
+| (به شوخی) حرف‌های عاشقانه. sweet nothings
+| راز و نیاز )
+(sis ۱ 8 عدم ۲. nothingness /madignis/ Ha
+[Ca
+مردن pass into nothingness
+۶ ۱. اطلاعیه. آگهی. اعلان؛ notice /nastis/
+تابلو ۲. اطلاع, اطلاع last last As قبلی ۳.
+(در روزنامه) [کتاب. فیلم و غیره ] نقد. اظهار نظر
+۷۸ ۴. متوجه ...شدن, متوجه شدن aS دیدن (aS)
+فهمیدن (که)» توجه کردن به / که
+4 ۵. متوجه شدن, فهمیدن» پی بردن, دیدن دریافتن
+not take a blind bit of notice — blind"
+بدونِ اطلاع at short notice ob Js
+Ola کمی؛ به محض اطلاع
+به game اطلاع, at a moment's notice Jos
+بی‌درنگ, Ao
+اطلاع قبلی؛ اخطار قبلی advance notice
+تا اطلاع بعدی, until further notice
+تا اطلاع ثانوی
+do 09500 Clge ده‌روزه ten day's notice
+در موردٍ چیزی Ns اطلاع دادن give notice of sth
+give notice; give in/ hand in one's notice
+[کارگر, کارمند و غیره ] استعفا دادن, کار خود را ول کردن
+[کارگر و give notice to sb; give sb his notice
+غیره] اخراج کردن, عذر...را خواستن؛ [مستأجر]
+از ... خواستن که خانه را تخلیه کند
+give notice to sb; give sb one's notice
+[کارفرما و غیره ] کسی به ... اطلاع دادن که می‌خواهد
+کارش را ول کند / استعفا دهد. به... اعلام استعفا کردن,
+استعفای خود را به... دادن؛ [صاحبخانه ] کسی به... اطلاع
+دادن که می‌خواهد خانه را تخلیه کند
+اخراج شدن get one's notice
+به کسی / چیزی take notice of sb/ sth
+توجه کردن, متوجه کسی / چیزی شدن, به کسی /
+چیزی اهمیت دادن, به کسی / چیزی اعتنا کردن
+take no notice / not take any notice (of)
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+توجه نکردن )4( اعتنا نکردن )4( اهمیت ندادن )8(
+بی‌اعتنایی کردن (به)
+از نظرها پنهان ماندن, escape (sb's) notice
+از چشم کسی پنهان ماندن
+جلب ax کزدن attract notice
+(رسمی) توجه کسی bring sth to sb's notice
+را به چیزی جلب کردن, کسی را متوجه چیزی کردن
+کسی متوجه چیزی شدن. come to sb's notice
+توجوکسی را جلب 53.8
+( رسمی) قابل نبودن که be beneath sb's notice
+کسی به آن توجه کند
+sit up and take notice — sit
+موردٍ توجه قرار گرفتن be noticed
+AC) محسوس, مشهود. / noticeable /navtisabl
+آشکار؛ قابل توجه. قابل‌ملاحظه, چشمگیر
+0 به 325 محسوسی. noticeably /nautisabli/
+به طرزٍ بارزی, اشکاراء به poo مشهودی؛ به طرز
+قابل‌ملاحظه‌ای, به طورِ چشمگیری, خیلی.
+7 (در بریتانیا) تابلوی /noutis bo:d/ ۵1106-۵0۵۲۵
+SU
+wan] (amy) ad] جُرم و «[ / notifiable /navtifarabl
+که باید گزارش داده شود. که باید اطلاع داده شود
+1 (رسمی) ۱. [ییماری: notification /nsstifrker/n/
+رگ. تولَد و غیره ] گزارش؛ he اطلاع ۲ اطلاعیه.
+اعلامیه
+VI (رسمی) notity /'nastifar / ( ps, pp notified)
+اطلاع داذن به. مطلع کردن. خبر دادن به
+جیزی را به notify sb of sth; notify sth to sb
+gb! کسی رساندن, چیزی را به کسی اطلاع old
+کسی را از چیزی مطلع کردن
+۸ ۱.مفهوم ۲. تصوّر, فکر, خیال  notion /nasfn/
+۳ عقیده, نظرء فکر ۴. میل, قصد. (ET تصمیم ۵.(در
+آمریکا, در جمع) pols خیاطی
+تصوّر کردن have a notion that... wn dS
+فکر کردن که.... خیال کردن که.... احساس کردن که...
+تصوّری داشتن ( از { have some / any notions (of)
+اطلاعی داشتن )31( |
+هیچ تصوّری نداشتن have no notion (of) |
+( از ). هیچ اطلاعی نداشتن (از) |
+کوچک ترین the slightest notion (of) ۳۵۷۵ ۰
+تصوّری نداشتن (از) |
+۱. فرضی ¥ خیالی, موهوم  notional /nosfonl/ |
+۳ نظری ۴.(فلسفه) تصوّری, مفهومی |
+Bday adv نظری, از نظرِ مفهوم /naufanalt/ 11011021 :
+Noa بدنامی. اسم oA / ات اند / notoriety أ
+سوء شهرت؛ انگشت‌نمایی: رسوایی ۲ آدم ra
+ادم gay | أ
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1128 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: notoriOUS; notoriously; nougat; noughts and crosses; noun; nourish; nourishment; nOUS; nouveau riche; nouveaux riches; Nov; nova; novelistic; novae; novelette; novelist; novella; novelty; November; noviciate; novitiate; now; now for sb; nowadays; noway; noways -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+(به (ad [شخص ] بدنام.  notorious /navtomas/
+رسوا؛ [جنایتکار, دروغگو ] (Dy me مشهور؛ [محل و
+
+غیره] که Oo gt بدی دارد. بدنام
+انگشّت‌نما ( ی (dan بودن be notorious
+tet adv به نحو بارزی. / notoriously /novtomash
+آشکاراء 4 5b وحشتناکی
+۱:(رسمی) / notwithstanding / notwi&'standy
+علیرغم, به رغم. با وجود
+Y adv (رسمی) با وجود ont معهذاء Slims
+conf ۳ گرچه. با Sel با وجود Seal
+nougat /'nu:ga:, 'nagat, (US) ‘nu:gat / $y n
+(<نوعی شیرینی)
+A ۸ صفر ۲.(کهنه) هیچ چیز» هیچ nought /not/
+noughts and crosses / nats an krosiz/
+7 (در بریتانیا) بازي ایکش او
+1 (دستور) اسم 160۲۲۱1
+2 (دستور) گروو اسمی  noun phrase /navn freiz/
+wr ۱.غذا دادن Ya (رسمی) nourish /'narif/
+[عشق, [de زنده نگه داشتن» پر وبال دادن به؛
+[نفرت و غیره ] دامن 035 به؛ پروراندن
+ad) ]132[ مغدّی, nourishing /nar iy / Sie
+a ۱. غذا ۲. تغذیه nourishment /'narr fmont/
+1 (در بریتانيا, محاوره) (Jas شعورء فهم  NOUS /naus/
+عقل کسی رسیدن که... have the nous to do sth
+nouveau riche /nu:vay ri: f/ ( p/ nouveaux
+7 ۱.(به تحقیر) dS es نودولت, riches)
+تازه به دوران رسیده
+bye) Yad) به) نوکیسه‌هاء (مربوط (a تازه‌به‌دوران -
+رسیده‌ها
+1i:[/ pl of nouveau تاداس / nouveaux riches
+riche
+NOV /nas'vemba(r)/ < November
+2 (ستاره‌شناسی) nova /'nasva/ ( p/ novas, novae)
+ly
+novae /'nauvi: / pl of nova
+نو جدید. wb بدیع. نو ظهور novel /mpvl/
+7 (ادبیات) مان 7 novel?
+7 ۱. رمان کوتاه؛ dad بلند novelette /novalet/
+۲ رمان بازاری, ol آبکی؛ gles عاشقانه
+7 رمان‌نویس, novelist /novalist/ coma polls
+نویسنده
+adj (رسمی) مناسب novelistic /novalistik / whey
+که در رماأن به کار می‌رود. که در رمان‌نویسی به
+| کار می‌رود. ( مربوط به) رمان
+pln کوتاء novella /navela/ ( pl novellas)
+او i=sec 1=sit x=cat a=father D=gol
+=go ar = five au = now 31 = boy 12 ناه el = say
+aud = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+49 noways
+novelty /novin/ (pl novelties) تازگی, .۱
+ ٌةبرجت تازه؛ IES غرابت. نوی ۲. چیز تازه» چیز نوه
+ ,یزاب‌بابسا کوچک, Ldn تازه ۳ چیز کوچک.
+| عروسکي کوچک
+| عجیب. بدیع on ES ad)
+| November /nasvemba(r)/ نوامبر )= یازدهمین ماو 7
+سال میلادی)
+novice /'novis/ تازه‌کارء تازه‌وارد (Sz n
+نوکشیش؛ نوراهب؛ نوراهبه ۳. (در مسابقات) اسب .۲
+: تازه‌کار
+noviciate /navijiat/ نوکشیشی؛ نوراهبی؛ Non
+نوراهبگی ۲. دورةٌ نوکشیشی؛ دورةٌ نوراهبی؛ دورةٌ ¢
+نوراهب‌ها؛ Bl نوکشیش‌ها؛ Ser نوراهبگی
+نوراهبه‌ها SL
+novitiate /navifist/ = noviciate
+NOW /nav/ Sw در حال حاضر, Ye adv
+الان ۲. الساعه. Salon اکنون, هم‌اکنون, اینک,
+5s همین حالاء همین الان ۳ ان وقت. در ان موقع.
+برای پر کردن کلام) obey همین موقع ۴ (بدون آشازه به
+AAT TRAC:
+Ni .۵ 2
+اکئون که WSN .۶ conf
+(every) now and again / then هر از گاهی,
+هر از چندی, گاه گاه, گاهی, هر چند وقت یک بار, گهگاه
+10۱۷۰۰۰720۷۷ / then (3) I ALS
+بعضی (gy گاهی ... است, بسعضی وقت‌ها...است
+وقت‌ها... است
+right now همین الان Ns همین
+it's now or never هیچ وقت, یا حالا یا هرگز LY
+now, now (بیانگر خشنودی) خوبه, خوبه خوبه.
+یگو A
+now then; there now rake ناخشنودی) Sb) A
+(RSS 5b) ¥ Sood od bk od
+خُب
+now for sb/sth  ...ِتقو برویم سر Vl el و
+for now در حأل حاضر De
+by now تا حالا, £05356 )59 جملة منفی) هنوز ۱
+موقع ol در ۲
+before now حالاء تا کنون bl پیش
+now that که. اکنون که YL
+nowadays / له / Aad, این cess al adv
+] امروزه روز
+noway /maswer/ حرفش lol (sls (در آمریکا, 0
+را هم نزن, ابدا به هیچ وجه
+nowaye /maswerz/ = noway
+v  u=cook w:=i00 A=cup 3=bird a= about
+- near ¢a = hair U3 = pure ele = player  ato= fire
+0= thin 8 = this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1129 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nowhere; be nowhere-to be found; come I appear from; nowise; nowt; noxious; noxiouslyi'nokfash; noxiousness; nr; NRA; NSB; n't int; nth; Nth; nuance; nub; nuclear; nuclear disarmament; nuclear family; nuclear-free; nuclear power; nuclear power station; nuclear reactor; nuclear winter; nuclei; nucleic acid; nucleus; nude; nudgeinAd -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nowhere 11
+nowhere /‘noswea(r), (US) -hwear/ هیچ جاء 0
+eles
+go nowhere [oi درامد و Jp] .۲ جایی نرفتن ۱
+به جایی نرسیدن, به هیچ جای آدم نرسیدن ۱
+get nowhere; be nowhere به جایی نرسیدن. ۱
+تلاش کسی بی‌ثمر بودن |
+get sb nowhere کسی را به جایی نرساندن, |
+به کسی کمکی نکردن |
+come nowhere [مسابقه‌دهنده ] آمتیازی به دست
+نیاوردن, کاری نکردن ٍ
+in the middle of nowhere  یلیخ (محاوره) جای
+پرتی» آن ور دنیا
+nowhere near — near?
+be nowhere to be found / seen; be nowhere in
+sight آثری از (کسی / چیزی) پیدا نبودن
+come / appear from / out of nowhere
+(کسی) پیدا شدن, یکهو (کسی) از غیب Uy ناگهان سر
+پیدایش شدن, ناگهان سر از زمین درآوردن
+come from nowhere to sth از هیچ یز :به
+چیزی رسیدن
+۲۵۷۷۱56 / ۹0۳/۵2 / = noway
+۲۵۷۷] / انش / (Brit) = nothing
+NOXious /'nok fas/ (رسمی) ]8 393 مادّه ] مضی adj
+و غرم]ً Ab مسموم(کننده)؛ [ رفتار: ‘ga زیانمند.
+Fae ] زیان‌بخش, مخرّب؛ [کتاب
+noxiously /nokfaslt/ (رسمی) به‌طور زیان‌آوری, 0
+SP به صورتِ
+۲۵0۷۶۵95 / nok asnis/ ye (رسمی) 2
+بودنء زیانمندی SS
+nozzle /ozl/ لوله؛ سر شیلنگ؛ PRY
+Foe = i
+ow ] سر جاروبرقی؛ سر تفنگ؛ [لوله, شیلنگ و غیره
+پوز les دهنه ۲ (عامیانه) [ Kis] پخش‌کن؛
+Nr /'me(r)/ < near
+NRA /en air 'e1/ > National Rifle Association
+(در آمریکا) انجمن ملی تفنگ
+NSB / ۵ es 'bi:/ > National Savings Bank
+(در بریتانیا) صندوقي پس‌انداز ملی 2
+NSPCC /en es pi: si: 'si:/ < National Society
+for the Prevention of Cruelty to Children
+از کودکان Coles انجمن ملي (Gy, (در 2
+NT' /nju: testomant, (US) nu:/ > New Testament
+NT2 / ne nol ‘trast/ <National Trust  ایناتیرب (در 4
+pe میراشی (ai روی
+n't /nt/ = not
+nth /ens/ (محاوره) هزارمین. صدمین adj
+(to) the nth degree / power اعلا I> (4)
+the nth time هزارمین دفعه
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+Nth /n>:6/ < North
+nuance /’nju:a:ns, (US) 'nu:-/ wi Jb تفاوتِ n
+جزئی» اختلافیي مختصر 3A
+nuanced /njuanst, (US) nui-/ متنوع. گونهگون ad
+nub /nab/ [زغال و غیره ] تکه. قلنیه .۱
+اصلی, اصل, لب BG ] غیره adi leds] ۲
+nubile /'nju:bail, (US) ‘nubl/ ] زن 2] adj
+دم بخت. رسیده ۲. سکسی, جذاب. تودل‌برو.
+خواستنی
+۲61۵2۲ / njuklia(r), (US) nui-/ ] [فیزیک. جنگ و غیره adj
+هسته‌ای . اتمی
+nuclear disarmament / دتامانیزم disazmamant,
+US) nu:-/ خلع سلاح اتمی. خلع سلاح هسته‌ای n
+nuclear energy /njuklior ‘enadsi, (US) nu:-/
+اتمی» نیروی هسته‌ای 550 n
+nuclear family / njuklie 'famols, (US) nu:-/
+خانوادةٌ هسته‌ای (anda) 2
+nuclear-free /njuklis 'fri;, (US) nu-/ [ناحیه و adj
+غیره ] غیراتمی, عاری از سلاح هسته‌ای
+nuclear fusion /njuklrs 'fu:sn, (US) nu:-/
+گداختِ هسته‌ای a
+nuclear power / njuklia ‘pava(r), (US) nu:-/
+= nuclear energy
+nuclear power station /njuklirs 'pavo sterfn,
+(US) nui-/ نیروگاه اتمی
+nuclear reactor / nju:ktra rizkta(r), (US) nu:-/
+راکتورٍ اتمی
+nuclear war / nju:klas 'wo:(r), (US) nu:-/
+هسته‌ای Lim (ait Kim 1
+nuclear winter / njukine ‘winta(r), (US) nu:-/
+زمستان اتمی ۸
+nuclei /'njukizar, (US) 'nu:-/ pl of nucleus
+nucleic acid /nju:kli:rk 'zsid, (US) nu:-/
+SAS 55 اسید ۸
+nucleus /‘njukliass, (US) 'nu:-/ ( pf nuclei)
+هستةٌ اصلی, هستةٌ مرکزی, قلب, مرکز, کانون .۱
+(فیزیک) هسته (اتم) ۳ (زیست‌شناسی) هسته .۲
+(سلول)
+nude /nju:d, (US) nu:d/ wes وغیره) add adj
+oi عریان, برهنه ۲.(مربوط به) لُختی‌هاء
+نقاشي Es | Ji برهنه؛ Od wd بدن (ry n
+.۴ لخت؛ عکس لخت؛ تصویرِ برهنه؛ پیکرةٌ برهنه
+| بودن Cd برهنگی,
+1۵ the nude لخت. برهنه
+nudge /nads/ .با آرنج به پهلوی ... زدن» ۷
+۳ یواش زدن به a زدن به ۲. اهسته زدن adil
+ٍ تشویق کردن» ترغیب کردن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1130 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nudist; nullification; nullify; nullity; numbed -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+:۵ ازساندن fds jer dy .سین dete 4g .۴ 7
+Adil .۶ تشویق cmb
+nudge sb out of the way کسی را کنار زدن.
+کسی را پس زدن
+nudge one's way through sth راه خود را از
+چیزی باز کردن ole
+give sb a nudge به پهلوی کسی زدن, J! با
+به کسی سقلمه زدن ۱
+nudism /'nju:dizom, (US) NU آختی‌گری. نو د یسم n
+nudist /nju:dist, (US) ‘nu:-/ طرفدار لختی‌گری. n
+نود یست؛ لختی
+nudist camp /nju:dist kemp, (US) 'nu:-/ مجتمع 1
+لختی‌ها
+nudist colony /ju:dist kolons, (US) ‘nu:-/
+= nudist camp
+nudity /'nju:d nu-/  ,ینایرع نگی,
+ity /'nju:dat1, (US) ۵ پرهنگی عریانی n
+لخت بودن. لختی
+nugatory /'nju:gatarr, (5ن1) 2 / (oes) adj
+mr [فکر. پيشنهاد و غیره] بی‌ارزش» بی‌اعتبار؛
+بی‌نتیجه. بیهوده
+nugget /magit/ [طلا و غیره] که قلنبه 0 ۸
+با ارزش oleh) (مجازی. در جمع) ۲
+full of nuggets of information  تاعالطا پر از
+با آرزش
+nuisance /'nju:sns, (US) ‘nu:-/ ۱.(شخص, جیز)
+دردسر, اسباب زحمت., موی Ble مزاحم. دردسر,
+دماغ ۲. (حقوق) مزاحمت
+make a nuisance of oneself اسباب زحمتِ
+aad may ble دیگزان شندن
+Commit no nuisance! Jal در اینجا [BER
+در اینجا ادرار نکنید! Wd .۲ نریزید!
+null /nal/ ۱.(حقوق) 280 آرزش حقوقی.
+کان‌لم‌یکن ۲ بی‌ارزش. Olas om باطل,
+به‌دردنخورء بی‌اهمیت ۳.(ریاضی) [ماتریس, نتیجه و
+صفر؛ [مجموعه] تهی [ont
+null and void آرزش حقوقی, BU حقوق) (
+بی‌اعتبار, کان‌لم‌یکن (Jbl
+nullification / nalxfrker fn / ] [قرارداد و غیره .۱ 7
+بی‌اترسازی. خنتی کردن Ri لغو Ja فسخ.
+nullify /malifar / ( pr, pp nullified) [قرارداد و .۱ ۶
+غیره ] فسخ کردن. مُلغی کردن. باطل کردن.
+00S Sm (ames) ۲ کان‌لم‌یکن اعلام کردن
+خنثی کردن |
+nullity rmalat/  ینوناقریغ May بی‌اعتباری» ۸
+بودن |
+ii=see I=sit a=cat a=father Db=got  2:=sa
+cr=say  av=go ai=five ay=now ol=boy 1
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+51 number
+| a nullity suit 55 ازدواج, اعلام غیرقانونی fed
+| ازدواج
+"NUM /en ju: 'em/ <National Union of
+~ Mineworkers (در بریتانیا) اتحادیة سراسري ۸
+| کارگران معدن
+numb /nam/ comm gt [دست. انگشت و غیره.] Nad)
+| کرخت. سر
+[دست. انگشت و غیره ] بی‌حس کردن» کرخت کردن. .۲ wr
+سر کردن ۳ (مجازی) فلج کردن
+leave sb numb مجازی) [ ترس و غیره ] کسی را (
+فلج کردن
+be numb with terror کسی از ترس خشکش زدن
+be numbed with fear کسی از ترس خشکش زدن
+numbed /namd/ بی‌حس, کرخت. سر .۱ adj
+030g ۲
+number /namba(r)/ Sled ۱.عدد ۲. تعداد. 7
+شمارهء پلاک. [als] ۴ گروه par (ay) Ye
+0 کاشی؛ [اتاق ] شماره؛ [تلفن, اتومبیل ] شماره» نمره
+شماره ۶. [سیرک. تماشاخانه ] برنامه؛ [don [روزنامه,
+خواننده, نوازنده و غیره ] قطعه ۷.(دستور) عدد ۸.(عامیانه) [
+No چیز؛ لباس؛ ماشین 8 (محاوره در جمع) حساب
+وزن pd در جمع) hil)
+شماره‌گذاری کردن, شماره گذاشتن, شماره .۱۱ wr
+بالغ بر...شدن, به...رسیدن ay زدن ۱۲. بالغ شدن
+شامل ... بودن, حاوي...بودن ۱۴. شمردن» Av
+O33
+by numbers قدم‌به قدم. مرحله‌به‌مرحله
+in round numbers — round’
+Book of Numbers luis} ous سفر اعداد. (Cad)
+There's safety in numbers. — safety
+times without number — time’
+weight of numbers — weight
+a number of تعدادی, جند
+a number of people چند نفر
+a great number of books کتاب‌های زیادی
+on a number of occasions در چندین مورد.
+در موارد متعدد
+numbers of بسیار زیادی» چندین و چند. Slaw
+شمار زیادی
+They were 10 in number.  .دوب تعدادشان ده نفر
+ده نفر بودند.
+any number of  .هملاع یک Gly x (محاوره) یک
+تا دلت بخواهد
+any number of times صد دفعه, هزار دفعه
+in numbers زیاد slaw به
+vw  u=cook u:=100 A=cup هو 000 a= about
+- near €3 = hair ua = pure era = player aa = fire
+0= thin 3 = this [= shoe 3= vision 0 = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1131 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: sb's; number cruncher; number crunching; numberless; number-plate; numbing; numbly; numbness; numbskull; numeracy; numeral; numerate; numeration; numerator; numeric; numerical; numerically; numerOUS; numinous; numismatics; numismatist; numskull; nunnery; nuptial; nurse ling; nursemaid -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+number cruncher 11
+win by force of numbers / by sheer numbers |
+| به bl برتری در نفرات پیروز شدن
+یکی از ما one of our number
+( محاوره) کار راحت؛ Sind ga خوب a cushy number
+( عامیانه) دای که در have got sb's number
+AS کسی چه 2 38,& کسی را خوب شناختن, دانستن
+که کسی جه جور ادمی Za
+(عامیانه) کسی اجلش سرامده one's number is up
+بودن / سررسیده بودن
+(محاوره) ۱. خودٍ کسی number one
+۲ (شخص, چیز) Jol درجه یک
+(محاوره) خوب She's a pretty little number. )
+چیزیست. خوب تیکّه‌ایست.
+بیست نفر بودیم. .20 We numbered
+بیست نفر می‌شدیم.
+sb's/ sth’s days are numbered — day
+معدود بودن, محدود بودن. be numbered
+انگشت‌شمار بودن
+کسی / number sb / sth among / with sth
+چیزی را جزو ... به حساب آوردن» کسی /
+چیزی را در زمرهٌ... محسوب داشتن
+4 (نظامی) ole خود راگفتن, شمردن number off
+1%4 کسی 7 number cruncher/namba krantfa(r)/
+(pal) کرم عدد, 55 olael خدای اعداد
+number crunching /mambs krant/1g/ slow) 7
+کامپیوتر) lone سریعم, پردازش سریع (اعداد).
+محاسبةٌ نجومی
+1 شماره‌گذاری؛ شمارش: numbering /mambary/
+adj (رسمی) numberless /nambalis/ oles go
+sie حصر
+2 (اتومبیل) number-plate /nambs plert/ «SW
+co i شماره
+ad ناراخت‌کننده, آزاردهنده numbing /namry/
+0 .با بی‌حسی, بی‌حس., numbly /'namir/
+با کرختی, کرخت ۲. بهت زده
+1 ۱. بی‌حسی. کرختی؛ numbness /'namnis/
+اثرِ کرخت‌کننده ۲. بهت‌زدگی, بُهت. شوک
+numbskull /namskal/ = numskul ۱
+numeracy /'nju:marast, (US) ‘nu:-/ lg n
+شمردن و حساب کردن
+Nn عدد numeral /njumaral, (US) nu:-/
+adj ۲.عددی, (مربوط به) اعداد
+4 که قدرتِ numerate /nju:morat, (US) 'nu:-/
+شمردن و حساب کردن دارد؛ که شمردن بلد است.
+که حساب می‌داند. حساب‌دان
+شمردن بلد بودن؛ حساب دانستن be numerate
+7 (ریاضی) numeration /njuma'rer fn, (US) nu:-/
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+۱. شمارش؛ ola دستگاه led دستگاه laced
+عددنویسی ۲. خواندن اعداد. عددخوانی
+2 (ریاضی) numerator /nju:morerta(r), (US) ‘nu:-/
+صورت (کسر)
+/nju:'merik, (US) nu:-/ = numerical ۲۵۲۵
+4 عددی. numerical /nju:merikl, (US) nu:-/
+( مربوط (a اعداد
+توانایی شمردن و حساب کردن numerical ability
+adv ۱.به لحاظ numerically /nju'merikly, (US) nu:-/
+شماره, از نظر عددی, به شماره ۲. به Bld تعداد.
+از نظر تعداد, از tae تعداد
+adj (رسمی) /'nju:marss, (US) 'nu:-/ ۲۱۷۲۱۱۵۲۵۱۷۹5
+بی‌شمار, بی‌حدّ و حصر, بسیارء فراوان» متعدّد؛
+[خانواده ] پرجمعیّت
+NUMINOUS /'nju:minoas, (US) 'nu:-/ (cad) adj
+ریّانی» رفاخانیج قداست آمیز ۲ پرهیبت» پرعظمت
+۳ جادویی» اسرارامیز
+numismatics / nju:mizmatiks, (US) nu:-/
+n شکه‌شناسی؛ جمع آوري Sn
+numismatist /nju’mrizmoatist (US) nu:-/
+soled Seu n اکل کی تشکه
+۸ (محاوره به تحقیر) numskull /namskal/ oS dls
+کودن, احمق, خر
+n راأهبه. nun /nan/ Los SLL
+۸ سفیر واتیکان NUNCIO /'nansias / ( p/ nuncios)
+n (کهنة) صومعه. در ۰ ۰ /۱۸۵۲1/ nunnery
+ad) ۱.(رسمی) ( مربوط به) ازدواج, nuptial /'napf1/
+bye) به) نکاح
+Y 21 (رسمی, در جمع) ازدواج. نکاح
+ole nN a برس ۲. پرستار nurse’ /nais/ Adu
+۳ دایه :
+v2 ۷ بربستاری کرردن nurse? /nas/ Sl
+5 و خشک کردن ۲. [بچّه] شیر دادن به ۳ [چیز] با
+احتیاط نگه داشتن, با دقت گرفتن؛ [a] بغل
+کردن, در بغل گرفتن, درأغوش گرفتن ۴. [گیاه و غیره ]
+پرورش دادن. پروردن؛ [برنامه. طرح ] حمایت کردن
+of زیر Jb خود گرفتن؛ [اسب. اتوسیل و غیره ] مراقبت
+کردن ازء رسیدن به, مواظبت کردن از ۵. [امید و غیره ]
+در Jo پروراندن؛ [نفرت, خشم وغیره ] دامن زدن به
+Wi ۶. پرستار بودن, به پرستاری مشغول بودن ۷. [بجّه ]
+شیر خوردن (از)
+کسی مراقب خودش بودن تا nurse a cold
+سرماخوردگیش خوب شود. استراحت کردن
+(مجلس) به حوزهٌ انتخابی nurse a constituency
+خود سرکشی کردن
+nurseling /ns:slig/ = nursling
+n پرستار بجّه nursemaid /ma:smexd/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1132 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nurseryman; nursery rhyme; nut; a hard; nuthatch; nut-house; nutmeg; nutcase; nutrient; nutriment; nutritiOn; nutritional; nutritionally; nutritionist; nutritious; nutritive; nuts inAts; nutshell; nutty -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+۸ ۱. مهد کودک ۲ اتاقي بجّه‌ها؛  nursery /nasori/
+(در بیمارستان) اتاقي نوزادان ۳ (کشاورزی) نهالستان,
+قلمستان, خْزانه؛ گلخانه
+nurseryman /'na:sariman/ ) p/ nurserymen)
+# خزانه‌کار, صاحب نهالستان؛ متصدی نهالستان.
+متصدی گلخانه؛ کارگر نهالستان. کارگر گلخانه
+n ساره nursery nurse /'na:sor ey
+n شعر کودکان, nursery rhyme /mns:sart raim/
+کودکانه
+۸ مهد کودک؛ nursery school /'ns:sarr sku:l/
+کودکستان
+7 (در nursery slope /'na:sort ٩1300/  )یکسا ol,
+پیستِ مبتدی, شیب مبتدیان
+4 (اسبدواتی) nursery stakes /na:sar stetks/
+dal. دوساله‌ها
+7 پرستاری nursing /'na:siy/
+# ۱.بیمارستان / nursing-home /'na:sty ham
+(کوچک)؛ زایشگاءو خصوصی ۲ آسایشگاه
+معلولین؛ آسایشگاة سالمتدان
+# مادری که / nursing mother /na:sig 'mada(r)
+بچّه‌اش را شیر می‌دهد. مادر بچّه شیرده. مادر شیرده
+S355 1 شیرخوار, nursling /nasl/
+شیرخوره» بچةٌ شیری ۲.(شخص. چیز) 1 8355 دست
+[au] .۱ 7 پروراندن. / (( ۱۷۲1۱۲۵۵
+پرورش دادن بزرگ کردن ۲. [گیاه] پرورش دادن
+۳ (مجازی) [استعداد. ذهن و غیره ] پرورش دادن» تربیت
+کردن؛ [برنامه. طرح ] حمایت Shoes زیر بال خود
+گرفتن؛ [امید و غیره ] پروراندن» بال و پر دادن a
+[AS] .۴ 1 پرورش ۵.(مجازی) [ذهن. استعداد و غیره ]
+«ams پرورش؛ Coles [wb] (از)
+N 4 پسته و بادام, مغز (هسته )؛ hut /nat/
+(در جمع) اجیل ۲.(فنی) (She) Xo ge [شخص ] کله؛
+مُخ ۴.(در جع) cass زغال 0 de) در جمع)
+[شخص ] تخم ۶.(عامیانه) ls خل, pal خل‌وضع؛
+po! عجیب و غریب؛ ادم احمق, خر ۷. gals
+کشته‌مردٌ Blas
+Aon, 55) عامیانه) Nol و for nuis Sot Jad
+هیچ. مطلقاً
+( محاوره) ۱. کار a hard / tough nut (to crack)
+ach (چیز) سفن { آدم سخت, آدم سرسخت
+پیچ و مهره bolts and nuts
+( محاوره) ۱. کارهای اصلی, the nuts and bolts
+الفبا ۲. چرخ و دنده‌ها
+( در بریتانيا, عامیانه) کل کسی سوت do one's nut
+| کشیدن, جوش آوردن
+ii=see I=sit m=cat a=father D=got  0:= sa
+ar = five av = ۷ ol =boy 19 0 < تاه el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+53 nutty
+off one's nut سل دیوانه (alle)
+You must be off your nut! tlds عامیانه) )03 به (
+Nuts! (عامیانه) گور بابات! به تخمم!
+11 [چنم. مو] فَدقی؛ رازه زد ad)
+سیاه Lon] [جهره ] سبزه؛
+nutcase /matkers/ خل وضع (Jo دیوانه. (sole) 1
+nutcracker /natkrzko(r) / ۱.(در آمریکا) فندق‌شکن ۸
+(پرنده) زاغ خال‌دار ¥
+nutcrackers /'natkrakoz / " فندق‌شکن mpl
+۲۷1۳31۵/۵ / جنگلی SS es (پرنده) ۸
+nut-house /nat havs/ (غامیانه) دتواند‌خاند 7
+تیمارستان
+nutmeg ۵ / جوز بویا جوز هندی
+nutrient / هنیزه (US) nu:-/ ’ (رسمی) Nn
+غذایی 3b
+مقوّی SP غذایی؛ (ams) Y ad)
+nutriment /nju:trimant, (US) ‘nui-/ JAE (رسمی) 2
+غذایی, موادٍ غذایی HI
+nutrition/njutrifn, (US) nu:-/ تغذیه؛ علم تغذیه 2
+غذایی olga (olds مادةٌ As ۲
+nutritional /nju:'trt fan, (US) nu:-/ غذایی adj
+the nutritional value آرزش غذایی
+nutritionally /nju:'tri بتافده/ (US) nu:-/ به لحاظ
+غذایی
+nutritionist / :دزد ۳۱/۵078, (US) nui-/  صّصختم n
+ads
+nutritious /njutr fas, (US) nu-/ (رسمی) [غذا] 4
+shia مقوّی.
+nutritive /nju:trativ, (US) nu:-/ (رسمی) ۰۱ غذایی adj
+مغدّی (Ske ۳ مربوط 4( تغذیه ( 7
+Nuts /nats/ خُل‌وضم» دیوانه. (JE (عامیانه)
+خُل‌وجل
+nuts about / on Sle کشته‌مردٌ دیوانف
+nutshell /matfel/ [فندق, گردو, پسته و غیره] پوست 2
+in a nutshell (مجازی) در یک کلمه. خلاصه
+put sth in a nutshell موضوع ] در یک کلمه Alia]
+خلاصه کردن, لب ...را گفتن
+nutter /'mata(r)/ oJ دیوانه, Coyshous Ais 5 2) 72
+خُل‌وضع؛ عجیب و غریب؛ احمق, خر
+Nutty /'nau/ (comp nuttier, super nuttiest)
+[شیرینی, شکلات ] بادامی؛ فندقی؛ پسته‌ای؛ .۱
+مزه ] (مربوط به) بادام؛ ( مربوط به) Je] گردویی؛
+.۲ فندق؛ (مربوط به) پسته؛ (مربوط به) گردو
+] خُل‌وضع» دیوانه؛ [رفتار, نامه J ] (عامیانه) [شخص
+عجیب و غریب؛ احمقانه
+w  s=cook u:=too a=cup 0زا خن a= about
+= near ea = hair Ua = pure eta = player aia = fire
+0= thin 8 = this [= shoe 3= vision 1) = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1133 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nymphet lmm'fct -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+nuzzie 11
+(as) nutty as a fruitcake ali (عامیانه)
+ENCE
+nuzzle/mazl/ &} 4 / دماغ (ob درامُورو سک اتب و 7
+خود را مالیدن به؛ دماغ / پوزةٌ خود را زدن به
+nuzzle up to; nuzzle (up) against
+خود را مالیدن به vi
+NW! / 15:0 ‘west/ > North-West
+NW 2 /no:6 'weston/ > North-Western
+NY /nju: ‘jo:k, (US) nu:/ > New York نیویورک 1
+NYC /nju: jo:k ‘sitr, (US) nu:/ > New York City
+(شهر ) نیویورک n
+nylon /'nailon/ نایلون ۲. (صفت‌گونه) Non
+(por [جوراب. پبارچه ] نایلون. الیاف ۳ (کهنه. در
+
+<!-- REGION: RIGHT COLUMN -->
+
+54
+جوراب نایلون
+2 ۱.(اساطیر یوتان و روم) nymph /nimf/ iS
+ایزددخت ۲. (ادبی) «Sp حوری ۳ [سنجاقک و غیره]
+نوزاد
+7 (محاوره, دختر) تیکّه, لعبت.  nymphet /nmfet/
+عروسک
+7 (محاوره) nympho /'nimfas/ ( p/ nymphos)
+Sap)
+nm (در زنان) / nymphomania / nimfa'meinta
+جنون جنسی
+4 [زن ] مبتلا 4 nymphomaniac /nimfomernizk/
+NE جنسی
+NZ / nju: ‘zi:land, (US) nu:/ > New Zealand
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1134 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: o'; oaf; oafish; oak; oaken; Oaks; oakum; OAP; oarlock; oarsman; oarsmanship; oast; oarswoman; OAS; oases; oasis; oasthouse; oatcake; oath; be on; oats; put I place sb on; swear; oatmeal -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+oO
+-
+0, 0 /au/ (pl O's, 0's /avz/) پانزدهمین =) 14 n
+So حرف الفبای انگلیسی) ۲.(در گفتن شمارة تلفن و غیره)
+0 /au/ ۱.(بیانگرِ تعجّب. شادی, ترس و غیره) وای. 41
+al (gm (کهنه. a وای؛ «sl درد) Si) وای‌وای؛
+<0 God > I= gl اوخ ۲. در خطاب)
+0 yes! بله‌پله! البته!
+0'/a/ = of
+oat /aut/ (pl oafs) آدم احمق, خر, الاغخ؛ ۸
+- ادم دست‌وپا “og ادم زمخت, دهاتی؛ ادم
+چلفتی
+[شخص ] احمق. خر, الاغ؛ رون ده 4
+] زمخت. دهاتی؛ بی‌عرضه. دست‌وپاچلفتی؛ [رفتار
+احمقانه, بی‌ادبانه» دهاتی‌وار
+oak /ouk/ ۱.(درختِ) بلوط ۲. چوپ بلوط 8
+(صفت‌گونه) بلوطی, بلوطی‌رنگ؛ از چوب بلوط؛ ۳
+Lob مربوط به) (
+an oak tree درختِ) بلوط (
+Big / tall / large oaks from little acorns grow.
+(prov) کوچک روید. El بلوط بزرگ از
+گردد وانگهی دریا شود. gare ie
+oak-apple / اند pl/ (گیاه و غیره) مازو 2
+oaken /'sskan/ (رسمی, کهنه) (از) چوب بلوط ad)
+Oaks /auks/ ’
+the Oaks اوکس Slabs (اسبدوانی) mpl
+oakum /'sskam/ SUS (دریانوردی) 2
+طناب برای درزگيري قایق) (ads =)
+OAP / ناه e1 'pi:/ > old-age pensioner (در بریتانیا) 7
+کسی که مستمري کهولت می‌گیرد, سالخوردةٌ
+مستمری‌بگیر
+02۲/۵:)0(/  ندز (دربانوردی, ورزش) ۱. پارو ۲. پارو 2
+put / shove / stick one's oar in; put/shove/
+stick in one's oar محاوره) فضولی کردن, Ln 5 در (
+مداخله کردن, دخالتٍ بیجا کردن, خود را قاطی کردن
+oarlock / (در آمریکا) جاپارو / لاد nm
+oarsman/%:zmen/ ( p/ oarsmen) پاروزن n
+f—see 1-sit @-cat a:=father D=gol 9
+el = say ناه - 0 a1 = five ay = now or =boy I
+aud = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+oarsmanship /%:zmanfip/ پاروزنی n
+oarswoman /'s:zwoman/ ( p/ oarswomen)
+زنِ پاروزن ۸
+OAS / بنج e1 'es/ > Organization of American
+States (در آمریکا) سازمان کشورهای آمریکایی 2
+oases /oversi:z/ pl of oasis
+0asis /aulersis/ ( pl oases) ۱.واحه. ابادی 2
+(مجازی) مفرء دری از بهشت. بهشت ۲
+an oasis of calm in a troubled universe
+جهانی آشوب‌زده Jo آرامشی در
+oast /aust/ رازک‌خشک‌کنی 8,55 7
+oasthouse /austhaus / بریتانیا) 53) 7
+رازک‌خشک‌کنی
+oat /out/ oR مربوط 4( جو, ( 4
+oatcake /'sutkerk / جو SS n
+oath /su6/ (pl 0aths)  ,شحف.۲ ۱.سوگند. قسم 8
+بد و بیراه» ناسزا
+be on / under oath حقوق) سوگندخورده بودن. (
+قسم‌خورده بودن
+on my oath قسم می‌خورم dos به
+put / place sb on / under oath aS 4 حقوق) (
+قسم دادن کسی را سوگند:دادن
+swear / take an oath حقوق) قسم خوردن, (
+39,5 اد aS en خوردن؛ AS pm
+oatmeal /aomit/ «pS بلغورٍ جو ۲.(رنگي) .۱ 8
+نخودی
+oats اعاناد/ ox دوسر, یولاف ۲. فرنی oN 1
+جوشیر
+feel one's oats محاوره) سرحال بودن, انرژی داشتن. (
+حالش را داشتن
+be getting one's oats عامیانه) مرتب سکس داشتن, (
+دائما میلةٌ کسی در توپ بودن, اوضاع کسی میزان بودن
+be off one's oats محاوره) بی‌اشتها بودن, (
+به غذا نداشتن Jeo
+sow one's wild oats جوانی‌های خود را کرده بودن.
+w uv=cook u:=t00 A=cup 3:=bird  9= about
+= near €a = hair U3 = pure elo = player aia = fire
+6= thin 0 = this {= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1135 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: obduracy; obediently; obey; moncy; object; objector I ob'dzekta; objectionably; object lesson -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+OAU 11:
+| خوش‌گذرانی‌های خود را کرده oy خوشی‌های خود
+| را کرده بودن
+ju:/ < Organization of African Unity | ه OAU / ou
+n | سازمان Dds آفریقا
+adj متوفی در ob /aubi:/
+of obbligato | ام obbligati/ pbliga:ti:/
+obbligato/ sbirga:tas/ ( pl obbligatos, obbligati)
+SEM (om) madi
+2 (رسمی) obduracy /'obdjuarasst, (US) -dar-/
+لجاجت. یکدندگی, سرسختی, انعطاف‌ناپذیری
+adj ٍ (رسمی) [شخص ] (US) -dar-/ بادادنزةداد"/ obdurate
+a یکدنده, خودراأی‌سوسخنا ph Baal
+[رهبری. جواب ] خودسرانه. انعطاف‌ناپذیر
+0 با یکدندگی,. obdurately /'obdjuaratls, (US) -dor-/
+با لجاجت, با سرسختی
+bi: i:/ < Officer (of the Order) of نم / OBE
+n (در بریتانیا) صاحب عنوان the British Empire
+اج ای و
+nr اطاعت. فرمانبرداری, obedience /abi:dians/
+حرف‌شنوی
+he adj فرمانبردار, سربه‌راه» obedient /sbi:diont/
+حرف‌شنو
+( رسمی, کهنه, در پایان Your obedient servant (a\
+جان‌نثار, چاکر
+0 از روی فرمانبرداری.  /:30::0:201/ obediently
+با حرف‌شنوی, با سربه‌راهی, مطیعانه
+He whistled, and the dog came obediently.
+سوت زد سگ هم اطاعت کرد و آمد.
+(رسمی, کهنه) تعظیم, obeisance/aubersns/
+میوش
+به کسی تعظیم pay obeisance to sb / 00/2146
+کردن, به کسی کرنش 3S پیش کسی سر فرود آوردن
+/ خم کردنر
+تک‌ستون. اپلیسک / ادا / obelisk
+ad) (رسمی, پزشکی) چاق, فربه obese /aubi:s/
+۸ چاقی, فٌربهی obesity /oubi:sati/
+vi ۱.اطاعت کردن, تمکین کردن obey /ober/
+wr ۲. اطاعت کردن Gl فرمانبرداری کردن Sb تمکین
+کردن از؛ [دستور ] اجرا کردن» عمل کردن به
+(ams) VE [ذهن و غیره ] / ماود ۵ / obfuscate
+(0S pl مغشوش کردن, اغتشاش su)
+کردن در؛ di] و غیره ] ody 038« بغرنج کردن؛
+[شخص ] ذهن... را مغشوش کردن, گیج کردن
+: (عمل) اشفته کردن. obfuscation /pbfaskerfn/
+پیچیده کردن
+obit /subit/ = obituary
+obiter dicta /pbrta 'dikta/ pl of obiter dictum
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+obiter dictum / pbito ‘diktom/ ( p/ obiter dicta)
+n ( رسمی, حقوق) اظهار نظرٍ ضمنی
+آگهی 5 obituary /sbitfuan, (US) -tfvert/ eo
+۲ سوگنامه
+2 .شیم چیز ۲.(شخص, جچیز)  object! /'obdsikt/
+موضوع, اسباب, مایه ۳ قصد. نیّت. هدف. منظورء
+F cule (در بریتانياء محاوره) (gah) مضشحک؛ (چیز)
+Sova a )== ( مسخره ۵ دستور) مفعول ۶
+Eat (4d) شناسایی, Cp oJ shina شی ء؛ عین
+po! Ja برایش می‌سوزد.  He's an object of pity.
+She's the object of his desires. :
+خیلی می‌خواهدش. FEHR) او ات
+پولش مهم money / expense (is) no object (Zed
+خرجش مهم نیست
+فاصله‌اش مهم نیست. distance (is) no object
+راهش مهم نیست
+vi ۱. اعتراض object? /ab'dsekt/ WO S
+مخالفت کردن, مخالف (os اعتراض داشتن
+۸ ۲.(به اعتراض ) گفتن
+۸ (فیزیک)  /فهاع object glass /'obdaikt glass, (US)
+عدسي شیئی
+۱. اعتراض, مخالفت. ایراد objection /abidsekfn/
+۲. علتِ cde cdl اعتراض
+adi 0 [رفتار ] بد. / objectionable /sbdsek fanabl
+زشت. زننده ناخوشایند؛ [بو] Loge بده؛
+[حرف‌ها ] ناخوشایند؛ [obs] زشت x قابل‌ایراد.
+قابل‌اعتراض, قابل‌سرزنش, غیرقابل قبول
+0 به طرز بسیار  objectionably/sb'dsck fonablt/
+زننده‌ای» به طرز بسیار زشتی, خیلی زشت
+ad) ۱. [گزارش, رفتار و غیره] objective /ob'dsektiv/
+منصفانه» بی‌طرفانه, عادلانه؛ برون‌گرایانه؛ [ass]
+منصفء بی‌طرف. عادل ۲.(فلسفه) عینیء واقعی, خارج
+از ذهن, دارای وجود Ee ۳ (دستور) مفعولی
+۸ ۴. هدف, Cole ۵.(فیزیک) عدسی شیئی
+0 ۱. بی‌طرفانه. alias /:04300۷۱د/ objectively
+با بی‌طرفی؛ برون‌گرایانه ۲. به es BY خارج از
+ذهن
+۸ (فلسفه) بررون‌گرایی»؛ / objectivism /ab'dsektivizam
+عین‌گرایی
+۱. بی‌طرفی, objectivity /pbdsektvat/ clas
+انصاف ۲ ( فلسفه) Cans واقعیّتِ خارج از ذهن.
+وجودٍ خارجی ۳۲ برون‌گرایی» sl Beds
+واقع‌نگری» واقع‌بینی
+object lens /'obdsikt lenz/ = object glass
+0 (مجازی) درس, object lesson /'obdaikt fesn/
+BBL عبرت
+“objector /ob'dsekta(r) / 2 sme villian
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1136 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: objets d'art; oblate; oblation; obligated; repay; place; obligatory; obliged; obligingly; oblique; oblique angle; oblique stroke; obliquityia'bhkwan; obliteration; oblivion; oblong; obnoxiOUS; obnoxiousneSS; oboe; oboist; obloquy -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+چی زا objets d'art) ام) 'da:/ هنم / objet d'art
+dn کار تزیینی» چیز SA
+of objet d'art ام objets d'art / pbser ‘da:/
+adj (ریاضی) ]3+[ re شٌلغمی oblate /oblert/
+۸ (مذهب) قربانی؛ نذر؛ oblation /ablerfn/
+(در جمع) نذورات, خیرات
+4 (رسمی) ملزم کردن, او اد / obligate
+موظف ساختن, واداشتن. مقیّد کردن (که)
+0 (رسمی) ۱.مجبور. / obligated /'biigertsd
+موظف., ملزم, مکلف ۲ مدیون» وام‌دار
+Non الزام. قید؛ وظیفه؛ obligation /pblrgeifn/
+ge دٍین ۲.اجبار
+دین خود را ادا repay / fulfil an obligation
+کردن, ادای دٍین کردن, جبران کردن
+be under an obligation (to sb/ to do sth)
+مدیون بودن (به )» 25 دٍین (کسی) بودن؛ ملزم بودن
+)£45 موظّف بودن (که). مجبور بودن (که)
+be under no obligation (to sb/ to do sth)
+زیر od (کسی ) نبودن؛ agate نبودن, SUG نداشتن (در
+lin / که)» موظّف نبودن (که) ملزم نبودن (که):
+مجبور نبودن (که)
+place / put sb under an obligation (to sh/ to
+mS را مدیون (کسی) 221095 به گردنِ do sth)
+کی Capi} به کسی) گذاشتن؛ کسی را ملزم گردن
+(که)» کسی را متعهّد کردن (که). کسی را موظّف کردن
+( که )» کسی را مقیّد کردن (aS)
+place / put sb under no obligation (to sb/
+کسی را مدیونِ (کسی) نکردن» دینی 4 to dosth)
+DUE SFY کسی) نگاشتن؛ کی را ملزم
+نکردن (که) کسی را متعهّد نکردن (که). کسی را ib ga
+نکردن )45( کسی را is نکردن (که)
+adj (رسمی) اجباری, /۵:۲۲- obligatory /abligatrr, (US)
+الزامی
+۷ ۱. ملزم کردن. oblige /ablards/ (03,5 ib 5a
+مجبور کردن ۲. لطفی کردن در Gm به. خدمتی
+کردن در حقٍ. منّت گذاشتن بر
+vi ۳. خدمتی کردن
+Could you oblige me with five pounds?
+می‌توانی لطفی کنی و پنج پوند پهم قرض بدهی؟
+/دلدااد/ obliged
+be obliged (to sb) (for sth/ doing sth)
+ad) (از کسی) )4 pL چیزی) ممنون بودن, متشکر Pp
+سپاسگزار بودن
+خیلی متشکرم, خیلی سپاسگزارم, much obliged
+بی‌نهایت ممنونم, خیلی ممنون
+i—see 1=sit @=-cal a=father D=got d=:
+=go ar = five au = now o1 = boy IS اه cl = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+57 obscene
+obliging /oblardsty / ] همسایه ars] ad)
+مهربان Cal حاضربه خدمت. همراه.
+obligingly /abladsigli/ کمک به دیگران. (gl adv
+: از روی محبّت
+oblique /ablik/ imi) مورّب» [ody [خط Nad)
+مایل ۲ [اشاره, نتیجه و غیره ] غیرمستقیم, ضمنی =
+اسم ] نامشخص GI] (Hamed) ۳
+خط موب Xn
+oblique angle /sbli:k ‘zygl/ غیرقائمه Luly ۸
+obliquely /abliklr/ .کج به طور مورب adv
+Ly ols غیرمستقیم. ob 4 به طورٍ ضمنی, ۲
+obliqueness /abliknis/ = obliquity
+oblique stroke /abli:k stravk/ خط مورب ۸
+obliquity /901:0۳3/  ندوب .کج بودن, مورّب 1
+ضمنی بودن. غیرمستقیم بودن ۳. حرف .۲
+حرفي غیرصریح elias uf
+obliterate / [اثر انگشت و غیره ] اناد .۱ 1
+/ پات کرَدَن؛ محو کردن. اثار ...را از بین بردن
+زدودن ۲. [خاطره, گذشته ] از یاد بردن, فراموش
+Ont خود زدودن ۳ نابود کردن, از od کردن, از
+بردن
+obliteration / امحاء 1 اد (gad ۸
+نابودی, نابودسازی .۲
+00 نسیان؛ cp gal pV 1
+ناهشیاری ۲. فراموش‌شدگی, از یاد رفنگی wg eo
+fall / sink into oblivion به دستِ فراموشی
+سپرده شدن, از یادها رفتن
+oblivious /ablivias/ (PE توجه. ad)
+بی‌اطلاع
+obliviousness/sblviasnis / بی توجهی.
+غفلت. بی‌اطلاعی WS
+oblong /'obibg, (US) مستطیل / وندا- A ۸
+مستطیلی‌شکل. مستطیل, مستطیلی .۲ adj
+obloquy /'pblakwi/ (رسمی) ۱. فحش, ناسزا ۸
+رسوایی» بی‌ابرویی X
+obnoxious / اد مداد wll) [رفتار ] زشت. adi
+نفرت‌انگیز.بد [pase] شنیع؛ [بو ] تهوع اور بد؛
+obnoxiously /abnok fasit/ طور نفرت‌انگیزی, 4 adv
+ادم را به‌هم J به طور تهوع آوری» انقدر ...که
+می‌زند / به‌هم می‌زد
+obnoxiousness/obnokfasnis/ رفتار زشت. 2
+زننده lo (Sai رفتارِ زننده؛ [رفتار ] زشتی»
+oboe /'subas/ (موسیقی) آبوا 72
+۰ rd
+oboist /'subauist/ نوازندهٌ آبوا
+obscene /ab'sin/ کتاب و غیره ] زشت. WS] ad)
+۷  U=c00k u:=t00 A=cup 3:= bird 2= about
+= near €3 = hair ua = pure els = player ~~ a1a = fire
+8= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1137 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: obscenely; obscenity; obscurantism; ob'skjuorantrzcm; obscurantist; ob'skjuorannsr; obscure; obscurelyiab'skjuah; obscurity; obsequies; obsequious; obsequiously; observable; observance; observant; observantly; observation; observation car; observation post; observatory; observe; observer; obsess; obsession; obsessional -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+obscenely 11!
+کثئیف. مٌستهجن؛ [شخص ] کثیف؛ JS] تفاوت و [las
+شرم‌اور» خجالت اور
+0۷ به طرز زشتی, به طرز 0056616۷
+Samp به صورتِ شرم‌آوری
+حرف‌های کثیف / مُستهجن زدن talk obscenely
+۱. [حرف. رفتار ] کثیف بودن» obscenity /ab'senati/
+مٌستهجن بودن؛ هرزگی ۲ حرفي iS حرف
+رکیک. Oo مٌستهجن؛ Jas کثیف. Jat زشت؛
+Jos شنیم. Jos شرم‌اور
+obscurantism/ obskju'rentizem, (US)
+1 (رسمی)۱. pb'skjuarantizam / (Sten
+مبهم‌سازی؛ مبهم‌گویی SLL (8 pm ls —
+اندیشی
+obscurantist/ pbskjurantist, (US)
+pb'skjuorantist / a ISL are bs 4
+ad) ۱. تاریک. es تار / obscure /ab'skjua(r)
+۲ [معنی, مفهوم ] مبهم, گنگ؛ [ کتاب, شعر و غیره ] core
+پرایهام. [Tyee ba غامض, نامفهوم؛ [منشا و [ot
+نامعلوم. نامشخص ۳ wat] دهکده و غیره ] گمنام.
+als
+wl] .۴ ۷4 خورشید و [ome روی ...را ola om پنهان
+کردن؛ [منظره] تار کردن, تاریک کردن؛ (مجازی)
+[شکست او غیره ] تحت‌الشّعاع قرار دادن ۵.(مجازی)
+مبهم کردن, نامفهوم کردن. نامشخص کردن
+0 به طرز «gos «sagen به obscurely /abiskjvalt/
+صورتِ پیچیده‌ای, پیچیده. به طرز نأمفهومی, نامفهوم
+obscurity /ab'skjuaratr / ( pl obscurities)
+۱. تاریکی, ظلمت؛ تیرگی, تاری ۲. [حرف, فکر و
+غیره ] le! پیچیدگی؛ [ose soo] نامعلوم بودن.
+نامشخص بودن ۳ (رسمی) حرف مبهم. مطلب
+(por 3) HE a] dake 3 EE غوامض.
+پیچیدگی‌ها ۴. گمنامی, ناشناختگی
+mpl (رسمی) مراسم تدفین. obsequies /'pbsikwiz/
+ple خاکسپاری, تشییع جنازه
+بله‌قربان‌گی obsequious /obisikwios/ «skate
+چاپلوس. جرب زبان. اهل مداهنه
+0 جاپلوسانه. / obsequiously/ob'sikwiasli
+متملقانه, با Slows
+۸ بله قربان‌گویی, obsequiousness/sbsikwiasnis/
+چاپلوسي, تملق, مداهنه. چرب‌زبانی
+4 مشهود. اشکار / observable /ab'za:vabl
+قابل‌مشاهده؛ قابل‌ملااحظه, درخور توجه
+۱. [مقرّرات. رسوم و غیره] /3023:0305/ 0۳56۲۷۵1106
+رعایت. حفظ. مراعات؛ [سالگرد. dp و غیره]
+برگزاری, جشن گرفتن؛ Jui] مذهبی] بجای
+REIT) گزاردن؛ اقامه EY, ( رسمی) tom! مراسم؛ (در
+جمع) مناسک, آعمال, آداب
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+۱. تیزبین» دقیق. observant /ab'za:vent/
+متوشکاف ۲ (رسمی) [رسوم, سنّت‌هاوغیره] مراعات -
+کننده: رغایت‌کننذه» بجای ool
+0 با دقت. با تیزبینی»  observantly/sbzaventt/
+با موشکافی
+2 ۱. مشاهده, ملاحظه؛ /00567۷21[011/,0023۷0:/۳
+(پزشکی) معاینه ۲. حرف. نظر, اظهارنظر ۳ (رسمی, در
+(par مطالعات. مشاهدات. اطّلاعات, asl ۴. قوةٌ
+مشاهده
+تحت‌نظر بودن؛ be under observation
+(پزشکی) تحت مراقبت بودن
+کسی / چیزی keep sb / sth under observation
+را Bees گرفتن؛ (پزشکی) کسی coi) مراقبت قرار
+دادق
+(ستاره‌شناسی) رصد کردن take an observation
+دیده نشدن, از انظار پنهان escape observation
+ماندن, از چشم پوشیده ماندن
+7 (راه‌آهن) observation car /pbza'ver fn ka:(r)/
+Lalas 551
+بر (نظامی)  observation post / pbzaver fn paust/
+ged دیده‌بانی
+n رصدخأنه 17 observatory /sb'zs:vatn, (US)
+Wt ۱.دیدن, مشاهده observe /sbzav/ 60S
+ملاحظه کردن؛ مطالعه کردن ۲.(رسمی) [قوانین.
+مقرّرات و [on رعایت کردی: مراعات کردن؛ [آعمال
+مذهبی ] بجای آوردن» گزاردن؛ اقامه کردن؛ [روزه ]
+گرفتن؛ [سکوت ] حفظ کردن ۳ (رسمی) [سالروز, sds
+غیره] جشن گرفتن, برگزار کردن» گرفتن ۴. (رسمی)
+اظهارنظر کردن, اظهار داشتن )45(
+vi ۵.دیدن
+۱. مشاهده‌کننده. / observer /ab'za:va(r)
+مشاهده‌گرء بیننده؛ Jel] .۲ BU مذهبی, رسوم و غیره ]
+مراعات‌کننده» رعایت‌کننده, بجایآورنده ۳ (در
+کنفرانس و غیره) تماشاچی؛ ( در کلاس درس ) مستمع آزاد
+(Pl) ۴ دیده‌بان ۱
+1 (در مورد نگرانی, ترس و غیره) [شخص ] obsess /abses/
+ذهن ...را به خود مشغول کردن؛ آزار دادن.
+خوردن
+اشتغال ذهنی, obsession/absen/ od pate
+فکری, مشغلةٌ ذهنی, دل‌مشغولی, وسواس
+He's got an obsession with sport. Sport is an
+تمام فکر و ذکرش شده obsession with him.
+است ورزش. ورزش تمام So او را به خود مشغول کرده
+and
+فکر کردن دائمی‌اش his obsession with death
+به مرگ, فکر کردنِ وسواس‌گونه‌اش به مرگ
+4 ۱. [شخص ] وسواسی؛  obsessional/sbsefonl/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1138 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: obstacle; obstinacy l'obstanas; obstructionism; obstructionistlab'strAkfamst; obstructive; obstructively -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+é n ۰ 2 ۰
+[فکر ] وسواس‌گونه, وسواس‌امیز ۲. وسواس‌برانگیز
+VN ad) [شخص ] وسواسی؛ / اد / obsessive
+[ فک و غیره ] وسواس‌گونه. وسواس Y Same
+( روان‌شناسی) وسواسی
+2 ۳.(روان‌شناسی) فردٍ وسواسی
+0 به طور obsessively /ab'sesivit/ gla Sul gms
+با وسواس
+1 [کالا, دستگاه و غیره]  obsolescence pbsalesns/
+رم 2۰ ۰ =
+کهنه شوندگی, کهنگی پذیری؛ کهنگی
+( بازرگانی) planned / built-in obsolescence
+[کالا ] = برنامه‌ریزی‌شده
+NS] ad) دستگاه, کلمه و غیره] obsolescent/pbsslesnt/
+در J کهنه pas در حالِ از رده خارج BERR
+شرفي منسوخ شدن؛ کهنه
+داشتن کهنه شدن. become obsolescent
+ذاشتن از رده خارج شدن
+ad کهنه. قدیمی» منسوخ؛ obsolete /'bsali:t/
+[کلمه ] کهنه» مَهجور
+مانع, سدّ obstacle /pbstaki/
+(ورزش) دو با مانع obstacle race /'obstakl re1s/
+(پزشکی) ( مربوط به) زایمان obstetric /abistetrik/
+obstetrical /ob'stetrik! / = obstetric
+n متخصّص زایمان obstetrician / pbsta'tri/n/
+۸ (پزشکی) (رشتةٌ) زایمان  obstetrics /abstetrrks/
+n سماجت؛ لجاجت. / obstinacy /'vbstanasi
+لجبازی, یکدندگی, کله‌شقی. سر سختی
+adj ۱ سمج؛ لجوج. لجباز, obstinate /'obstonat/
+BNR, کله‌شق. سر سخت؛ [ رفتار ] لجاجت امیز.
+لجوجانه ۲ [مقاومت. مبارزه و غیره ] سرسختانه. سخت؛
+[بیماری و غیره ] سخت. صعب‌العلاج؛ ped) علف ] سمج
+(as) obstinate as a mule — mule’
+0 با سماجت؛ با لجاجت. obstinately /pbstonathi/
+لجوجانه, با یکدندگی؛ سرسختانه
+Unemployment figures are remaining
+ارقام بیکاری همچنان بالا است. obstinately high.
+adj (رسمی) obstreperous/sbstreparss/ [Lani]
+ms وصدا پرهیاهو؛ Si خودسر.
+لجام‌گسیخته؛ [رفتار ] لجام‌گسیخته. خودسرانه
+0 (رسمی) با obstreperously/ab'streporasli / sala
+با قیل و قال؛ خودسرانه. لجام‌گسیخته
+7 (رسمی) / obstrepercusness/sb'streparasnis
+هیاهو. قیل وقال؛ خودسری, سرکشی. لجام -
+v2 ۱. [جاده, لوله و غیره ] پستن.  /0091۲01/2051۳۸1
+مسدود کردن؛ [عبور و مرور] بند اآوردن؛ [پیشرفت ]
+4 ک 0 1=sit @=cat a=father D=got وا
+=go a1 = five ay = now o1 = boy 13 ناد el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 obtain
+کردن. Tne متوقف بکرردی ۳۲+ مانع ...شدن, راو... را
+جلوی ...را گرفتن, سدٍ راو...شدن
+obstruction /ab'strak fn / بستن, مسدود کزدن؛ .۱ 1
+Bhd تنگ ( S335) HAD phasis بسته شدن,
+ممانعت؛ کارشکنی, (mile انسداد ۲.ایجاد
+اشکال‌تراشی ۳ مانع؛ (در لوله و غیره) گرفتگی؛
+.۴ تنگ‌شدگی, گرفتگی؛ (در جاده) زاه‌بندان (Say)
+کردن Jaw (ورزش)
+cause an obstruction معبر کردن؛ راه را بند آوردن Jew
+obstructionism /ab'strak fanizam / (سیاسی) 1
+کارشکنی, اشکال‌تراشی
+00 fanist / Ja! ۱.(سیاسی) 12
+کارشکنی, طرفدارِ کارشکنی
+به) کارشکنی bg ye) Y adj
+obstructive /ab'strakuy / ] [تداییر, سیاست ad)
+بازدارنده, که ایجادٍ کارشکنی می‌کند؛ [شخض ] که
+ایجادٍ مانع می‌کند. که اشکال‌تراشی می‌کند. که
+کارشکنی می‌کند
+0651۲۵1۷۵۷ 1 با ایجادٍ مانع, 0
+با کارشکنی
+0013 به دست آوردن. پیدا کردن. NVI
+گیر آوردن, گرفتن, کسب کردن
+۳.(رسمی) [قانون, رسم و غیره] اجرا شدن, معمول WE
+حکمفرما بودن (HAL بودن» مرسوم بودن» مجری
+نَكتَهٌ کار بردی: ۱
+گفتاری یا در نامه‌های ob; رسمی است و در 001۵1۳ Jad
+شخصی غالباً غیرطبیعی به نظر می‌رسد:
+Where can I obtain a list of restaurants?
+Fresh fruit and vegetables were especially
+difficult to obtain.
+33 Ugg) Cams در معنای اه get استفاده از فعل
+گفتار و نوشتار غتزرسمی بسیار معمول است؛ هر چند
+Jad برخی افراد می‌گویند باید از استعمال مکرر این
+اجتناب نمود:
+Where did you get that painting?
+He gets about $200 a week at the textile mill.
+را نیز می‌توان در get hold of عبارت فعلی
+اشیا یا gal موقعیت‌های غیررسمی به معنای «به دست
+دستیابی به آن‌ها به (By اطلاعات» به کار برد به خصوص
+آشانی,ممکن نباشد:
+I need to get hold of a powerful computer.
+At last I managed to get hold of her address.
+را در مورد اطلاعات به کار می‌بریم: find out Ju
+I need to find out where my classes are.
+Luss زمانی به‌کار می‌بریم که در |, achieve فعل
+۷0000 u:=to0 A=cup 3010 0 1
+= near €9 = hair U3 = pure elo = player aio = fire
+0= thin d= this [=shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1139 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: obtainable; obtrude; obtrusion; obtrusive; obtrusively; obtrusiveness; obtuse; obtusely; obtuseness; obviate; obvious; obviously; obviousness; ocarina -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+obtainable 11
+تلاش‌های شخصي خود به موقعیتِ بهتری دست می‌یابیم:
+We are working to achieve better results /
+quality / independence.
+Regular exercise helps people achieve better
+health.
+فعل receive را زمانی در موقعیت‌های رسمی به‌کار
+می‌پريم که چیزی را به طور طبیعی به دست می‌آوریم یا
+ol را به ما می‌دهند:
+The charity receives most of its money through
+private donations.
+ad) موجود. در دسترس / obtainable /sb'ternabl
+به Cand آمدن, پیدا شدن. be obtainable
+گیر آمدن, موجود بودن
+
+4 ۱.(رسمی) تحمیل کردن سود رت دراه
+
+/ خود را تحمیل کردن؛ سرزده آمدن (amy) Y VE
+.۳ رفتن, مزاحم شدن؛ عقاید خود را تحمیل کردن
+(رسمی) بیرون زده بودن, اشکار بودن؛ بیرون زدن
+
+۱ خود را تحمیل obtrude oneself (on / upon)
+کردن (به )؛ سرزده (نزد...) Hal / رفتن, مزاحم (...)
+شدن ۲. Ale خود را (به... )تحمیل کردن
+obtrude on / upon sb's attention
+حواس کسی را پرت کردن
+An old song kept obtruding (itself) upon my
+یک Sal قدیمی بدونِ این‌که consciousness.
+بخواهم مرتب به ذهنم می‌آمد.
+The author's opinions do not obtrude.
+نویسنده ple خود را تحمیل نمی‌کند.
+
+1 (رسمی)۱. تحمیل خود؛ /ab'tru:sn/ ۵0(
+سر زده وازه 9a ورودٍ ناخواسته؛ مزاحصمت.
+تصدیع ۲. تحمیل عقاید خود
+
+۱. [شخص ] مزاحم؛ obtrusive /sbitrusiv/
+ناخوانده؛ [رفتار ] گستاخانه, بی‌شرمانه ۲. [صدا]
+[Ki] fmol tof ily Joi 5
+زننده؛ [بو ] as ناخوشایند؛ Satie] می‌خواهند
+جلب توجه AS
+تو ذوق )503 چشم be obtrusive WO)
+تو چشم خوردن, نمایشی بودن
+0 ۱. سرزده, ناخوانده؛  /abtrusivit/ 0801۲۷51۷61۷
+بدونِ ملاحظه ۲. به ob آزارنده‌ای, به طور
+مزاحمی؛ به طورٍ زننده‌ای
+
+n تحمیلي خود؛ / ون منت یت ارت رده(
+2555 سرزده, ورود ناخواسته؛ مزاحمت
+
+4 ۱.(رسمی, به طعنه) obtuse /ab'tju:s, (US) -tus/
+کودن, کندذهن؛ dl) احمق؛ [حرف] ابلهانه.
+احمقانه ۲.(ریاضی) [زاویه ] SL منفرجه
+
+obtuse angle /sbtuss zggl, (US) abtuis/ (amin) 1
+a ite sly Sb Lol
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+0 با بلاهت. / اه obtusely /ab'ju:sit, (US)
+به Hob احمقانه‌ای
+n بلاهت, 7 (US) ,فتدکندزا داد / obtuseness
+حماقت؛ کندذهنی
+2 (رسمی) ۱. روی سکه؛ obverse /'obva:s/
+روی: مدال؛ [سکه و غیره] رو ۲. عشق. حقیقت و غیره ]
+Seo Jolie Lis روی دیگر, آن سوی ۳ (منطق)
+نقیض |
+VF (رسمی) [مشکلات, خطر و [o,f 00۷211
+برطرف کردن, مرتفع ساختن, رفع کردن, از ole
+برداشتن
+obvious /'bbvias/ 2s asia Sal 4
+روشن, معلوم, بدیهی
+در مورد چیزی be obvious about sth
+روشن / صریح حرف زدن, همه چیز را گفتن .
+
+state the obvious توضیج واضحات دادن ۹
+06۷۱۵۹۷1 Ads Liat adv
+AS واضح است aS روشن است aS معلوم است
+
+بدیهی است که
+
+0۵0 یی REY آشکار n
+روشن بودن, بدیهی بودن
+
+ocarina /,pka'ri:na/ نوعی ساز بادی) <( Sn
+
+۱. موقعیّت. فر occasion /okersn/ Co
+gia مناسب, وقت مناسب. وقت, موقع ۳
+
+(رسمی) دلیل, whe موجب. ta ضرورت.
+ole احتیاج ¥ sls اتفاق؛ مراسم, جشن ۵.
+
+(رسمی) بهانه, cle ظاهری
+4 ۶.(رسمی ) موجب ...شدن, باعی ...شدن
+
+یک بارء در یک موقعیّت on one occasion
+
+به ندرت. در مواردٍ استثنایی on rare occasions
+
+on several occasions دفعات, چندین بار 4
+
+on occasion هر از چندی, هر از گاهی, (amy)
+
+گهگاه؛ در موقع لزوم, عنداللزوم؛ در موقع مناسب
+
+a sense of occasion حس تشخیص موقعیّت.,
+
+موقعیّت‌شناسی, موقع‌شناسی
+
+have a sense of occasion بودن که My کسی
+
+در هر موقعیّتی چگونه رفتار AS موقعیّت‌شناس Ode
+
+موقع‌شناس بودن
+
+as the occasion requires بسته به موقعیّت.
+
+بر حسب موقعیّت
+
+rise to the occasion بر مشکلات 36 آمدن.
+
+EP شدن, از عهده برآمدن
+
+take this / that occasion to do sth | / از این
+
+فرصت استفاده کردن که.... فرصت را مفتلم شمردن
+
+dS
+
+on the occasion of (رسمی) به مناسبتِ
+
+for the occasion به مناسبتِ خاصّی
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1140 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: occasional; occasionally; Occident; occlusive; occult; occupant; occupation; occupational; occupational hazards; occupational therapist; occupational therapy; occupied; be occupied in doing sth; occupier; occupy; occur -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+ad) ۱: [خادئد, برشنوژد. بارآن و / occasional /okersonl
+غیره ] گهگاه, گاه و wl پراکنده, BE ۲.(رسمی)
+[شعر ] که به مناسبتِ خاصّی سروده شده است؛
+
+[ آهنگ ] که به مناسبتِ خاصّی تصنیف شده است
+گاه‌گاه ای We have an occasional visitor.
+به دیدن ما می‌آید. هر از چندی مهمان داریم.
+هر از گاهی از They passed an occasional car.
+کنار اتومبیلی می‌گذشتند.
+A adv ازچندی, / تاده‌د ماد / occasionally
+هر ا زگاهی, گاه‌گاه, گاه و بی‌گاه. هر وقت بشود
+به ندرت. دیر به دیر very occasionally
+۸ (میز) غسلی occasional table /okersonl tebl/
+Occident /'oksidant/
+1 (رسمی) غرب. the Occident
+کشورهای غربی, مالک غربی, مغرب‌زمین
+7 ۱.(رسمی, شخص) غربی  Occidental /pksrdentt/
+ad) ۲ (رسمی) غربی» ( مربوط به) غرب
+۱.(آواشناسی) انسدادي, occlusive /pklusiv/
+انفجاری
+n ۲ (آواشناسی) همخوان انسدادی, همخوان انفجاری
+(side Olen .۱ مکتوم. occult /okalt, (US) a'kalt/
+نهان» پوشیده ۲. سرّی, رمزی ۳ اسرارامیزء مرموز
+Jaa] ۴ کتاب و غیره ] ( مربوط به) علوم خفیه. در
+موردٍ علوم غریبه؛ [پیشگو ] مطلع از علوم خفیه.
+عالم به علوم غریبه؛ [نیرو] غیبی. جادویی
+۸ ۵. علوم wis علوم غریبه. علوم Fazio
+نیروهای غیبی؛ پدیده‌های جادویی؛ مرأسم جادویی
+علوم خفیه. occult arts; occult sciences
+علوم غریبه, علوم Apfel
+۸ (رسمی) ۱ علم occultism /'okaltzom, (US) skal-/
+غیب ۲.اعتقاد به علم غیب, اعتقاد به علوم خفیه
+72 (رسمی) معتقد به occultist/‘okaltist, (US) akal-/
+علم غیب, معتقد به علوم خفیه؛ عالم به علم غیب.
+مطلع از علوم Cas ۱
+2 ۱. [خانه. زمین و غیره ] / 0.۵0
+GSEs mS Shr i oT شدن, la
+[مقام ] اشغال, Lhe ۳ ha سکونت. ole اقامت
+of ساکنان, سکنه؛ ساکن ۵.ساختمان؛ خانه؛
+ار تما ود دفتر ۶. [ساختمان ] نوع استفاده, استفاده
+industrial occupancy > <
+# [خانه. اتاق و غیره ] ساکن؛ / occupant /'okjspont
+[pla Jaz] صاحب, متصدّی, دارنده؛ Ham] نقلیه ]
+سرنشین؛ [صندلی ] کسی که روی ... نشسته است؛
+[تختخواب ] کسی که روی ...خوابیده است؛ Ab]
+اداره ] کسی که در... کار می‌کند؛ (در (pa کارکنان
+D=got i= se طاه خن هماع معا
+el = say oU = go a1 = five ay = NOW s1=boy 12
+ava = hour j= yes w= wel tf = chain ds= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 occur
+| occupation / okju'per fn / تصرّف., SLs ا.
+eat سکونت. استقرار ۲.(رسمی) شغل, i La
+حرفه ۳ مشغولیّت. سرگرمی» کار ۴.(سیاسی و غیره)
+| اشغال؛ (نظامی) اشغال, تصرف
+| the occupation of a house by a family
+سکونتِ یک خانواده در یک خانه
+We found them already in occupation.
+دیدیم که دیگر مستقر شده‌اند.
+the army of occupation اشغالگر oi)
+occupational okjuperfanl/  .یا‌هفرح شغلی, adj
+مربوط 4( کار و پيشه (
+an occupational discase بيماري شغلی, بيماري
+۱ ناشی از کار
+occupational hazards /okjsper fonl
+hazodz/ حین کار dle OWS خطراتِ ناشی از mpl
+occupational therapist / okjuper fan!
+‘Berapist / متخصّص کاردرمانی n
+occupational therapy / okjuper fon! ‘Berapt/
+کاردرمانی n
+occupied /'okjspard / ۱.اشغال, پر ۲. مشغول, adj
+سرگرمء گرفتار ۳. [سرزمین ] اشغالی اشغال‌شده
+be occupied  ندوب توالت ] اشغال بودن» پر Ge] ۱
+کسی بند بودن, گرفتار بودن Cos ۲
+be occupied in doing sth / with sth
+سرگرم کاری / چیزی 335m مشغولٍ کاری / چیزی
+بودن, سر (کسی ) به کاری گرم بودن
+occupied territory منطقةٌ اشغالی (A)
+occupied with the thought of غرق در فکر
+occupier /'vkjspata(r)/ [خانه, اتاق و غیره] صاحب. 7
+Sle مالک؛
+OCCUPY /'okjupar/ ) pt,pp occupied)
+[خانه, زمین و غیره ] سا کن ... بودن» زندگی کردن در؛ Nove
+[صندلی ] نشسته بودن روی؛ [نختخواب ] خوابیده
+بودن روی ۲.(نظامی) اشغال کردن» تصرّف کردن, به
+تصرّف درآوردن؛ (سیاسی و غیره) اشغال کردن ۳ [جاء
+گرفتن, اشغال کردن؛ [ساعت. روز ] طول [Las
+کشیدن. وقت گرفتن؛ [وقت ] پر کردن ۴. [شخص.
+کردن ۵ [شغل, مقام ] داشتن a8 5 کردن,» Jann ده
+occupy oneself (in doing sth / with sth)
+خود را مشغول کردن, سرٍ خود را گرم کردن, وقتِ خود
+را پر کردن (با)
+OCCU /aks:(r)/ ( prp occurring, 01, م0 occurred)
+Y روی دادن» بیش آمدن, رخ دادن oll GAEL vi
+(رسمی) وجود داشتن» بودن؛ یافت شدن» پیدا شدن.
+دیده شدن
+vw  t=cook ui=t00 A=cup 3 00 o= about
+= near  €9= hair Ua = pure era = player aro = fire
+6= thin 6= this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1141 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: It suddenly occurred to; J'; ocean-going; ocelot; ochre; five -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+occurrence 11
+به SS کسی رسیدن, به ذهنِ کسی رسیدن. occur to sb
+از BS کسی گذشتن, به ذهنِ کسی خطور کردن
+نكتَةٌ کار بردی:
+افعال occur to و strike را هنگامی به‌کار rs که
+بخواهیم بگوییم فکری به ذهنمان خطور کرده است:
+It suddenly occurred to / struck me that I hadn't
+seen Peter all day.
+occur Jed در 30,18 رسمی‌ترش با فعل happen
+هم‌معنی است و استعمالش در این معنی در انگلیسی
+گفتاری معمول نیست: ۱
+The court will decide what really occurred.
+occur to Jad در این معنی استعمال نمی‌شود؛ پس
+files
+A problem occurred to me.
+به معني «به SS مشکلی افتادم» است و نه به معني
+«مشکلی برایم پیش aad ۱
+there is Jy ;| معمولا برای oly پیشامدها به‌کار
+می‌برند:
+There was a loud bang from outside.
+There's been an accident.
+There's going to be a meeting next Tuesday.
+وقتی از شخصی یاد می‌کنيم که پیشامدی برایش رخ
+داده است. از Jo 6 استفاده می‌کنيم:
+He had an interview lust week.
+She's bound to have trouble with the customs
+officials.
+افعال happen و happen to به رخدادها و فرآیندهایی
+اشاره دارند که به طور پیش‌بینی نشده اتفاق می‌افتند:
+All sorts of unexpected things might happen.
+The Industrial Revolution happened in the
+eighteenth century.
+What's happening to us?
+فعل take place را اغلب هنگامی به‌کار می‌بریم که
+Db چیزی سخن می‌گوییم که پیش‌بینی و برنامه‌ریزی
+شده باشد:
+The wedding will take place in St Peter's
+Church.
+فعل 6 کاربردی رسمی دارد و با up Jad که
+2208 غیررسمی دارد هم‌معنی است و هر دو بر بروز
+مشکلات و مسائل و يا رخدادها و ole ناگهانی و
+غیرمنقظره اشاره دارند:
+Let's consider what kind of difficulties might
+arise from the situation.
+I have to go home early _ something's cropped
+up.
+LS آملایی: صورت‌هاأی 062۳۳۵۵ و 060۳۸18 هر دو
+دارای دو حرف 0( هستند.
+OCCUrrence /okarons/ ulin sls WEN #
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+رویداد, las; واقعه ۲. (رسمی) وقوع, روی دادن,
+پیش امدن؛ وجود. بودن. یافت شدن ۳ (رسمی)
+میزانِ وقوع
+(رسمی) بسیار اتفای be of frequent occurrence
+افتادن, بسیار روی دادن
+( رسمی) به ندرت اتفاق be of rare occurrence
+(poll بسیار کم روی دادن
+: اقیانوس 06
+a drop in the ocean — drop’
+( محاوره) یک خروارء یک Je خیلی؛ oceans of sth
+to کون
+اقیانوس‌پیما ocean-going /'asfn gasiy/
+2 (جزایر) اقیانوسیه Oceania | fremnra/
+adj ( مربوط به) اقیانوس‌هاء  oceanic /aufrenk/
+اقیانوسی
+جریان‌های دریایی oceanic currents
+Jas دریایی, ocean lane /,2u/n ‘lein/
+Bs کشتی‌رانی
+a کشتی ocean liner /'ss/n lama(r)/ SA
+اقیانوس‌پیما "
+n اقیانوس‌شناس / (0)دد 2 هد ناد oceanographer/
+n اقیانوس‌شناسی / oceanography /ss/anografi
+KY n وحخشی ocelot /'susilot, (US) 'psalat/
+AC
+/ (در اسکاتلند و ایرلند. بیانگر تعجب) oCh /ok, ox/ (gly
+So of تأسف) ای وای, آخ؛ S00) موافقت یا سخالفت)
+وا
+ochre = /(0)ماند / ocher
+۱.آخراء ochre /'aska(r)/ FANE
+۲ زنگي) آخراتی
+0 (بعد از عدد) o'clock /akink/ cele
+cele شش six o'clock
+as کار بردی:
+Solis انگليسي آمریکایی و بریتانیایی: واژةٌ o'clock را
+تنها در اعلام as cal بدون dds ثانیه. به‌کار
+می‌برند:
+nine o'clock
+و دیگر در اعلام ساعت همراه با دقیقه و ثانیه از آن استفاده
+تمی‌کنند:
+ten to nine
+برای اعلام دقیقه بعد از sel در انگليسي بریتانيایی
+از واژة past استفاده می‌کنند و در انگلیسی آمریکایی از
+وازة :after
+(انگلیسی بریتانیایی) five / a quarter / ten past nine
+(انگلیسی آمریکایی) five / a quarter / ten after nine
+در انگليسي بریتانیایی برای (Wel نیم ساعت پس از
+هر ساعت. half past Ole را به‌ کار می‌برند. ولی در
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1142 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: It's five minutes of two; oct I ok'tervou; OCtagon; octagonal I nk'taiganl; octane rating; OCtaVe; octavo I ok'tervau; octane I 'nktem; octane number; octet; octette I ok'tet; October; octogenarian; octopus; octosyllabic; ocular; oculist; odd ind; be an; oddball; oddity; odd-job man -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+وجود ندارد. half after انگلیسی آمریکایی دیگر عبارت
+همچنین برای اعلام دقیقه قبل از ساعت. در انگليسي
+استفاده می‌کنند و در انگلیسی امریکایی to بریتانیایی از
+of از
+twenty / a quarter to eight (ells medSSh
+It's five minutes of two / a quarter of eight.
+(انگليسي آمریکایی)
+وقت و زمان را می‌توان با استفاده از اعداد تنها نیزاعلام
+کرد:
+The meeting is at 10.15.
+I'll pick you up about 3.20.
+Oct /ok'tosba(r) / < October
+oct /pk'tervas/ < octavo
+octagon /'pktagan, (US) -gbn/ (ریاضی) 2
+Seats ad Sein هشت‌ضلعی؛
+octagonal /pk'tzganl / tots ad)
+هشت‌گوشه, هشت‌بر
+octahedron / pkts'hi:dran / (ریاضی) هشت‌وجهی n
+octane / آکتان ماد (az) #
+octane number /oktem namba(r)/  ناتکآ sas #ر
+octane rating /'okten reitin/ = octane number
+octave /'okuv/ اکتاو, هنگام, py) 4 #
+Re هشتم ۲ (ادبیات) هشت‌بینی.
+octavo / 01161۷۵ / ( pl octavos) LS] .۱ (ریاضی) nn
+وزیری, هشت‌تایی ۲.کتاپ وزیری؛ fa ] صحنه
+هشت‌تایی uo
+octet /ok'tet/ cast (موسیقی) N12
+(ادبیات) هشت‌بیتی» مثمّن Y
+octette /ok'tet/ = octet
+October /pktouba(r) / میلادی) Jiu اکتبر )= دهمین ماو 2
+octogenarian | pkiadsinearian / RW
+ad حدودا نودساله. ادمی که در pol هشتادساله,
+هشتاد عمرٍ خود به سر می‌برد
+هشتادساله, تو هشتاد, حدوداً نودساله, که در ۲ ad
+هشتادٍ عمر خود به سر می‌برد dad
+octopus /'vktapss/ ( pl octopuses) آختاپوس» n
+هشت‌پا
+octosyllabic / pktosst'tebik / ۱.(ادبیات) ad)
+هشت‌هجایی, چهار رکنی
+چهار رکنی؛ وزنِ ad هشت‌هجایی, al (DAs) ۸
+چهار رکنی
+ocular /'skjsla(r)/  .مشچ (رسمی) ۱.( مربوط به) adj
+(مربوط به) بینایی ۲. بصری
+عدسی چشمی ۳
+oculist /okjulist/  مشچ چشم‌پزشک, متخصص 2
+نا see 1=sit @®=cat a:=father D=got 3: 4
+el = say ناد =go ar = five ay = now o1 = boy 12
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 odd-job man
+OD / au 'diz/ (3rd pers sing pres OD's, prp OD'ing,
+prop OD'd) (محاوره) داروی / موادٍ مخدر زیادی Wi
+
+مصرف کردن
+[ دارو» موادٍ مخدر و غیره ] زیادی on 54۳ Gas 07
+کردن, زیادی زدن
+ad) ۱.عجیب. EE و odd /od/ mE
+خاص ۲ [عدد] فرد. ای ۳ [کفش. جوراب و [ot
+تکی. تیک ۴ اضافی. زیادی, باقیمانده ۵.(پس از
+عدد) (gas خرده‌ای ۶. جورواجور.ء پراکنده.
+متفرّقه. مختلف
+یک (oS کمی. یک ذرّه, یک خرده. an/theodd
+یک 8
+He's an odd fish. —> ۱
+یک لنگه کفش an odd shoe
+جوراب‌های لنگه به لنگه odd socks
+be an / the odd man / woman / one out
+۱ [شخص, چیز ] تک ماندن, تنها ماندن, تک و تنها
+ماندن, اضافه آمدن. تک بودن» یکی اضافه بودن ۲.
+[شخص. چیز ] با بقیّه فرق داشتن, غیر از i بودن ۳.
+(محاوره) [شخص ] همرنگي بقیّه نبودن, با دیگران جور
+نبودن
+سی سال و اندی. thirty-odd years
+سی و خرده‌ای سال, سی چهل سال
+گهگاه / هر ,3< I take the odd bit of exercise.
+شد ورزش می‌کنم.
+He has written the odd article.
+یکی دو مقاله نوشته است. چندتایی مقاله نوشته است.
+یک دقیقه وقت Do you have an odd minute?
+داری؟
+in odd corners all over the house
+در گوشة,و کنار خانة
+در اوقاتِ بیکازی, در وقت‌های  at odd moments
+اضافی, هر وقت شد
+گهگاه. هر از گاهی, le چندی, at odd times
+SRY
+2 ۱.(محاوره) pol عجیب و oddball /'odbo:l/ cE
+ادم مخصوص
+ad) . عجیب و غریب., عوضی
+2 ۱.غرابت. عجیب (pl oddities) / :600011۷/54
+بودن» غریب بودن ۲. آدم عجیب, آدم عجیب و
+غریب؛ چیز عجیب. چیز عجیب و غریب؛ Bolo
+عجیب؛ رفتار عجیب., کار عجیب, Jot عسجیب؛
+خصوصیّتِ عجیب, خصوصیّی عجیب و ,غریب
+esl n که همه جور odd-job ۲۱۵۲/۵۵ ‘dob man/
+کاری می‌کند
+
+w  u=cook u:=t00 A-cup 3=bird o= about
+
+= near 92 = hair U3 = pure er = player aio = fire
+
+0= thin 0 = this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1143 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: oddness; odds and sods; ode laud; odium; odometer; odorless; odourless; odyssey; oecumenical; oenologist; o'er; oesophagi; oesophagus -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+odd jobs 11
+pl خرده‌کاری, کارهای odd jobs / ۵۵ 'dsobz/
+مختلف, کارهای جورواجور
+adj عجیب و غریب., عجیب odd-looKing /'od lvkin/
+0 عجیب و غریب, به طرز عجیب و oddly /'odii/
+غریبی» عجیب. به طرز عجیبی
+Coe است / بود که, come این‌که. oddly enough
+از عجایب Spl
+7 ۱. [کالا, پارچه ] ته‌مانده. oddment /'odmant/
+اضافی ۲.(در جمع) خرده‌ریز» خرت و پرت. we
+11 عجیب بودن. oddness /'bdnis/ (O35 am SE
+غرابت
+mpl ۱.نرخ شرطبندی ۲. شانس. odds /ndz/
+احتمال؛ شانس موفقیّت. امکان پیروزی» احتمالی
+موفقیّت ۳ برتری. GE ۴. اوانس, اوانتاژ؛ امتیاز
+۵ اهمیّت. فایده ۶.اختلاف
+I bet three pounds on a horse running at odds
+of twenty to one and won sixty pounds.
+روی اسبی سه پوند شرط بستم که نرخ شرطبندی‌اش
+بیست به یک بود و در نتیجه شصت پوند بردم.
+پنج:به یک با کسی 1 give /lay sb odds of Sto
+شرط بستن
+شرط بستن lay odds
+شرط‌بندي کلان long odds
+ganb 2 کوچک short odds
+شانس با شماست. The odds are in your favour.
+احتمال 5 288 شما زیاد است.
+شانس با او نیست. The odds are against him.
+احتمال RE زیاد است.
+احتمال می‌رود که.... The odds are that...
+احتمال دارد که.... احتمالش هست که...
+even odds —> even'
+have the odds stacked against one —> stack
+( در بریتانیاء محاوره) بیشتر از over the odds Jo
+معمول, بیشتر از 3 لزوم
+بدونِ شک» یقینا, هر جور که حساب by all odds oS
+a victory against overwhelming odds
+پیروزی علیرغم برتري hm پیروزی بر رقیپ FES
+علیرغم تمام مخالفت‌ها, against (all) the odds
+با وجود تمام مشکلات
+( ورزش) اوانس دادن, اوانتاژ دادن give odds
+( ورزش) آوانشش گرفتن. آوانتاژز گرفتن receive odds
+اهمیّنی ندارد. فرقی نمی‌کند makes no odds از
+( محاوره) چه أهمیّنی دارد؟ What's the odds?
+چه فرقی می‌کند؟
+be at odds (with sb) (over /on sth) (SL)
+)7 چیزی) اختلاف داشتن, دعوا داشتن» جر و بحث
+داشتن :
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+set two people at odds 05 دو نفر را به‌هم Sl
+دو نفر اختلاف انداختن ob
+odds and ends /.ndz an 'endz/ خرت و پرت. pl
+خرده‌ریز Jal آنت و
+odds and sods /,0dz an 'sndz/ = odds and ends
+odds-0n/pdz که احتمال موفقینش زیاد است/«0 adj
+the odds-on favourite با بزرگ ABE jd)
+It's odds-on that... 1 احتمالش زیاد است
+... خیلی احتمال دارد که ..., به اغلب احتمال
+ode /aud/ i قصیده, چکامه 7
+odious /'sudras/ (رسمی) نفرت‌آنگیز؛ شنیع adj
+Comparisons are odious! — comparison
+odiousness /'audiasnis / (رسمی) نفرت‌انگیزی 4
+odium /'ssdiom/ (رسمی) نفرت» انزجارء تنفر 7
+odometer /p'domita(r), su-/ (US) = mileometer
+odor /'asda(r)/ (US) = odour
+odoriferous / suda'rifaras / sha (رسمی) خوشبی all]
+odorless /'asdarlis/ (US) = odourless
+odorous /'sudaras/ (رسمی, کهنه) که بو دارد. 0
+که بو می‌دهد؛ معطر, خوشبو؛ بدبو
+odour /'ssda(r) / عطر aul) (رسمی) بو؛
+be in good odour (with sb) آدم خوش‌نامی بودن.
+خسن شهرت داشتن
+be in bad odour (with sb) ادم بدنامی بودن؛
+اسم کسی بد در رفته بودن
+odourless /'sudalis/ بی‌بوء بدون بو
+odyssey ۵:1 پرماجراء سفر؛ Sh 11
+(مجازی) سیر و سلوک
+OECD/ ou i: si: 'di:/ < Organization for Economic
+Co-operation and Development سازمان 7
+همکاری اقتصادی و توسعه
+oecumenical/ikju:menikl, ekju-/ = eclimenieal
+Oedipus complex /i:dipss komploks, (US) ‘ed-/
+ادیپ ude (روان‌شناسی) 2
+oenologist/i:npladsrst/ شراب‌شناس n
+oenology /i‘noladsi / شراب‌شناسی
+o'er /»:(r)/ > +2
+oesophagi /rsofogar/ ام of oesophagus
+oesophagus /vsofagas/ ( pl oesophaguses,
+cesophagi) (پزشکی) مری
+oestrogen /i:stradson, (US) هورمون) /-ده ( n
+استروژن
+oestrus /istros/  یگدش‌نشگ گشن‌شدگی؛ دورةٌ a
+08۱0۷۲۵ مجموعهٌ آثار/۷۲۵::/ UT ] [نویسنده, هنرمند ۷
+of /av, nv/ ۰۰ بیانگر تعلق با slit تسب les N prep
+مالکیت: دز فاریین گا+ معاال نکر« اضاقه یی یه
+fest | Coke و نیز ازه
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1144 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Ofaf -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11€
+the wife of the doctor EIT)
+the responsibilities of a nurse ۱ Lo] :
+یک پرستار gadis زا
+that house of yours شما SW pl i
+a friend of mine یکی از دوستانم, دوستم :
+a picture of the queen's J ۱
+Sho به glaze عکسی / تصویری :
+a picture of the queen  هکلم عکس ملکه. تضویر i
+fear of the dark : َ تزش از تاریکی
+hope of being elected امید انتخاب شدن ۱
+بیانگر خاستگاه, دودمان یا محل زندگی: ۳ |
+the miners of Wales مجدنچیان وبلز [
+a woman of royal descent hl. زنی از خانواد؛ : |
+ob راجع به. dole ارتباط و تعلق, در فارسی Al ۳ |
+در مورد. در خصوصي, از: |
+stories of crime داستان‌هایی دربار جنایت ۱
+a picture of the Pope تصویری از پاپ : ٍ
+I've never heard of such places. . : |
+هیچ وقت چیزی راجع به این محل‌ها نشنيده‌ام. 3 |
+جنس چیزها, معادل از: SW SE
+adress of silk . پیراهنی از آبریشم ati oa |
+بیانگر اندازه و میزان یا چیزی که اندازهگیری می‌شود. بدون 0]
+معادلی 233 دز فارسی:
+an increase of 2.5% ۱ افزایشی ۲/۵ درصدی :
+2 kilos of potatoes سیب زمینی RE :
+a sheet of paper ELST STN
+"20 years of age Adlai,
+معادلي ازء از میان, و نیز سره JS رابطة جزء و Kha?
+\ i . Lol,
+: six months of the year سا از*سال, as :
+شش ماو سال
+: of all همه olin Shad از بینْ همه بین
+"Of all the cheek! : بر Tv رد ۱
+_ today of all days روزها IA 315% 8 i
+some of his friends بعضن از 57 از دوستانش 1
+the last of the girls آخری SE) خر Sad
+: lots 8 نکر فاصلهٌ مکانی, معادلی از و vi
+within 100 metres of the station. صد (15) Ly
+ایستگا اب PHO ICR CN J
+SOT PRM Tol 5 بان
+"within a year of their divorce فامَلةً یک شال re:
+CIE A TERT SR یم از
+tay ay در آمزیکا) بُرایآنشان دادن وقت؛ معادل مانده ( A
+a quarter of eleven 1 دیع ال Tks ay در
+تا ه REE یک زبع به پازده
+لوسر مود m-cat سل ۵06 D=got 5
+el = say ناد - 0 at = five au = now اد =boy 1
+aya = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 of
+| اضافه: oS Jalan پیانگرٍ تاریخ, ۰
+. the first of May اول قه
+. زماني ممین, بدون معادل: Jel مکرر در gs Sh AR
+They used to visit me of a Sunday. عادت داشتید
+| یکشنیه‌ها / هر یکشنبه به دیدنم بيایند.
+Often, of an evening, we see hin. عصرها او et
+. را مي‌بينيم. :
+of late — late?
+be slow of speech کرد کُند ود Cazes p>
+پس از اسم‌های مشتق از قعل, برای معرفي مفعول یا فاعل NY
+".. آن فعل‌ها, معادل کسرهٌ اضافه:
+beloved of all موب همه
+: a taste of garlic ; سیر دادن 850
+"a lover of music 3 ‘ عاشق موسیقی
+. the love of a mother for her child یک Jr :
+: ۱ CRNA x ob :
+: بیانگر فقدان یا بهبودی از چیزی. معادل از: AY
+deprived of his mother's love مهر مادرش fi محروم
+. به علست.. ble از, به Johan بیانگر علت, ۴
+6 of pnetimonia ذات‌الر یه مردن cle از /آیه
+because of 7۶ په دلیل Je 4 به خاطر,
+: It did not happen of irself نیفتاد: GWE) به خو 5 خود :
+: i? : نیفتاد. lst خودش
+oben غبارتی که بزای توصیفن اسم قبل از آن میع‌آید, po بر ۵:
+be eA 1 : .: باه دارای:.
+. a coat of many colours SS opi با ssl
+agit of ten © JUN دختری با ده سال
+OYE AS ize دو اسنم که اولی دومی را Ob در .۱۶[
+9 : وا Ss دقیق: Jota
+that idiot of a doctor’ Ges) آن دکتر
+a real palace of a house ادا مثل قضر :
+: a fine figure of a woman Sis FIAT زني ۱
+FE دی olan رفتار, پداون Bl edo پس از ۷۱
+nd was wrong of You 10°suggest ۰ 3 که 5d oll :
+1 ۱ I 1 3 و : 1 gr i ۸ این پیشنهاد را کردی, ی :
+کار بردی: 4S
+چیزی را به کسی Gb دستوری: وقتی می‌خواهیم BS
+بیان کنیم به جای حرف اضافة ۵۶ از ۶ و درصورتی که اسم
+’ ناظر بر مالک, جمع باشد از 81 استفاده می‌کنيم:
+Clive's new hairstyle
+ny friend's car
+| the students’ grades
+ یزیچ وقتی می‌خواهیم بگوییم که چیزی بخشی از
+ٍ استفاده کنیم: of BLS است می‌توانیم از حرف Ks
+| the corner of the street
+w  U=cook ul=too A= cup 3:=bird a= about
+= near ea = hair va = pure ela = player aia = fire
+B= thin 0 = this [=shoe  3= vision y= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1145 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: of course; Off; off -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+of course 1]
+the top of the mountain
+the street corner
+از و" و "5 در گفتگو از برهه‌هایی از زمان نیز استفاده
+می‌کنیم؛ Wo می‌گوییم:
+a day's work
+three weeks' vacation
+8 به طور روزافزونی با اسامی مکان‌ها به‌کار می‌رود؛
+به ویژه در روزنامه‌ها و در انگليسي آمریکایی:
+Chicago's favourite son
+China's recent history
+وقتی حرف تعریفی مانند ۰۵ sthat «this (the some
+نظایر آن همراه با اسم آشیایی آمده باشد که متعلق به یک
+شخص هستند. یا همراه با ol خود آن شخص امده باشد.
+می‌توانیم حرف BL ۵۲ و ۶" را با هم به‌کار ببریم:
+that old bike of Cathy's
+a friend of Terry's
+0 البته. مسلماً, طبیعتاً, of course /'v ka:s/
+به طورٍ قطع
+4 ۱.(اتومبیل) دستِ جاده. اند off! /of, (US)
+Can راننده ۲. [روز. اوقات ] بد» old نحس ۳.
+ii] شیر و غیره ] فاسد, مانده؛ [شخص] بدعنق, تلخ,
+عبوس, تند ۴.(کربکت) اف )= محوطهةٌ جلو و om راستِ
+چوب‌زن) ۵. [خیابان ] فرعی ۶. غیرقابل قبول»
+نپذیرفتنی ۷. ناخوش, کسل
+0 ۱.(در مکان و زمان) دورء دورتر off2 /of, (US) 2:f/
+۲ (بازرگانی) به عنوان تخفیف Cat (FB) YX صحنه
+تا شهر پنج کیلومتر مانده The town is 5 km off.
+است. پنج کیلومتر مانده است به شهر.
+تا Mb من یک My holiday is a week off.
+هفته مانده است. مرخصي من یک din دیگر شروع
+می‌شود.
+Be off! Off with you! Off you go! 12 oS :
+گورت را گم کن! راهت را پکش برو!
+۱ رفتن» حرکت کردن, راه افتادن be off
+۲ (محاوره) [مهمانی, ازدواج و غیره ] به‌هم‌خورده بودن.
+لغو شده بودن ۳. [ آب. گاز, برق ] قطع شده بودن؛ [شیر,
+شیر گاز ] بسته بودن ۴. [موتور, دستگاه و غیره ] خاموش
+بودن؛ [رادیو, تلویزیون و Gm alot نبودن؛ [ترمز ]
+| بریده بودن, کار نکردن, خراب بودن ۵.(در رستوران)
+| ]142[ تمام شده 100 موجود نبودن ۶. مرخصی بودن؛
+| تعطیل ol O33 بودن؟ سر کار نبودن ۷: [غذاء شیر و
+| ده So go شده بودن, مانده بودن ۸
+| [ در» درپوش ] باز بودن, برداشته شده بودن A [دسته.
+ِ دکمه و غیره ] کنده شده بودن؛ افتاده بودن
+thy | حرکت کنیم! We're off! Off we go!
+| ( ورزش) مسابقه شروع شد! They're off!
+۰ [ روز بعدازظهر و غیرة ] مرخصی have got ... off
+
+<!-- REGION: RIGHT COLUMN -->
+
+66
+بودن؛ تعطیل بودن. al بودن» tepals Col zal سر کار
+نبودن ا
+مریض است (و سر کار نیامده‌است).  He's off sick. ۱
+( محاوره) Js] لاس و be off for sth [opi
+وضع ...کسی خوب بودن
+be badly off for sth — badly :
+be well off for sth — well
+گاه‌به گاه. گهگاه. off and on; on and off
+به طور پراکنده, به طور نامنظم
+( محاوره) بلافاصله, درجا,  right off; straight off
+بی‌معطلی ُ
+( محاوره) bit / rather off (with sb) 002
+polo کردن. رفتار بدی داشتن (با)؛ بد حرف زدن (با)؛ ٍ
+as ls |
+۱ [لباس ] دراوردن, کندن؛ have sth off
+[کلاه ] برداشتن ۲. [ریش ] زدن. تراشیدن
+بدونِ کلاه with his hat off
+آن جوراب‌ها را دربیاور! Off with those socks!
+سرش را قطع کنید! سر از Off with his head!
+تنش جدا کنید! او راگردن بزنید!
+( عامیانه) cams خر کوتاه! دستت را پکش! Hands off!
+پنج پوند تخفیف دادن give £5 off
+[YK] ده درصد تخفیف داشتن have 10% off
+صداهای Cots صحنه noises / voices off
+۱. از روی, از بالای 1 /of, (US) 0113
+fall off a ladder > ۱۵ > ۲. از
+He borrowed a pound off me. > > ۳ [کوجه. ابا |
+منشعب از ۴. دور از > a big house off the street >
+They were only 100 metres off the summit.
+از / تا / ds تنها صد متر فاصله داشتند.
+We're getting right off the subject.
+داریم از موضوع دور می‌شویم.
+Scientists are still a long way off (finding) a
+دانشمندان هنوز از درمان آن خیلی فاصله cure.
+دارند. :
+a narrow lane off the main road
+کوچهٌ باریکی که به خیابانِ اصلی می‌خورد / باز می‌شود
+حمامی که a bathroom off the main bedroom
+از اتاق خواب اصلی راه دارد. حمام.اتاق خواب اصلی
+There are two buttons off my coat.
+دو تا از دکمه‌های پالتویم؛کنده شده‌اند / افتاده‌اند.
+در جعبه برداشته شده بود. The lid was off the tin.
+۳ جعیه باز بود.
+نو بشقاب‌های They eat off chipped plates.
+لب‌پریده غذا می‌خورند. پ
+غذا فقط یک They dined off a chicken.
+مرغ داشتند:
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1146 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Off; off-centre; off-colour; offence; offend; offend against sb; offender; offensive; go on; offensively; offensiveness -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11¢
+I'll take something off the price for you. |
+| از قیمت So چیزی برایتان کم می‌کنم. چیزی به شما
+| تخفیف می‌دهم.
+(محاوره) دیگر 4 قهوه میلی ندارم.  I'm off coffee.
+| از قهوه ( خوردن) افتاده‌ام. به قهوه بی‌میل شده‌ام.
+ا ( محاوره) دیگر سیگار نمی‌کشم. I'm off smoking.
+ٍ سیگار را ترک کرده‌ام.
+| ( محاوره) به داستان‌های I'm off love stories.
+| عشقی دیگر علاقه‌ای ندارم. داستان‌های عشقی دیگر
+برایم کششی ندارند. 5559 از داستان‌های عشقی خوشم
+نمی‌اید.
+۱.(ورزش) شروع مسابقه 1 off? /of, (US)
+۲ (کریکت) Aba اف
+n کله پاجه:؛ glo و کال 1 (5ا) offal /'o11,
+دل و قلوه
+(محاوره) [لباس, رفتار,  /3:۲, off-beat / of 61: (US)
+شخص و غیره ] غیرعادی, عجیب و غریب, نامعمول
+off-center / ۵۶ senta(r), (US) >:f/ (US) = off-centre
+off-centered /'of sentad, (US) 2:f/ (US)
+off-centred =
+adj .که ار وسط off-centre /'of senta(r), (US) "o:f/
+قرار داده نشده, کچ یکوّری؛ [چرخ و غیره] لنگردار
+۲ غیرعادی, عجیب و غریب
+adv ۳ کنار
+adj ۱. که در وسط off-centred /۵۲ sentad, (US) ٩:۲۸
+قرار داده نشده, (gS یکوّری؛ [جرخ وغیره ] لنگردار
+۲. غیرعادی, عجیب و غریب
+n احتمال tfans/ اند off 0۳۱3۳۵۵/۵۶ tfamns, (US)
+ضمیف. احتمال کم
+on the off chance — chance’
+off-color /'of kala(r), (US) 2:7 (US) = off-colour
+Nad) [شخص ] دَمغ. 7 off-colour /'of kala(r), (US)
+کج خلق ۲.(محاوره) [داستان (aS مبتذل, مُستهجن
+22ST 22 چوب ] کناره 7 (15) off-cut /۵۶ kat,
+1 (محاوره) روز بدبیاری» /۱:۶ off-day /'of der, (US)
+روز 0 روز مزخرف. روز نحس
+8 ۱. جُرم» خلاف؛ گناه؛ جنایت / داد / offence
+۲. توهین, بی‌احترامی, بی‌حرمتی ۳.(رسمی) cx oe
+ناراحتی, موجب Ala Lh دلخوری ۴.(رسمی)
+i nya
+جرمی با a capital offence plas! Olle
+نخستین بار ارتکاب p> جرم اول  a first offence
+pas توهین نیست no offence (to sb), but...
+امّا.... منظوری ندارم امّا..., هت / بهتان برنخورد امّا....
+ناراحت نشو / نشوید امّا...
+و D=got 0۲اه 0 1=sit  z=-cal و
+elf = say W=go al = five ay = NOW a1 =boy 1
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 offer
+No offence (taken / meant)! توهین نداشتم! aa
+منظوری نداشتم!
+take offence به (کسی) برخوردن, ناراحت شدن,
+رنجیدن :
+give offence کردن lg 00S توهین
+be an offence to the eye ob 31 چشم آدم را
+چشم‌آزار بودن
+weapons of offence سلاح‌های تهاجمی
+0 رنجاندن, ناراحت کردن. .۱ ۷
+.۲ دلخور کردن, احساسات ...را جریحه‌دار کردن
+اذیت کردن ۳ [قانون ] زیر پا PARES UI ] [چشم؛ گوش
+گذاشتن, نقض کردن, تخلف کردن از, تخطی کردن از
+قانون‌شکنی کردن, قانون را زیر پا گذاشتن .۴ vi
+offend against sb / sth قانون و غیره ] زیر پا [
+گذاشتن, نقض کردن, تخلف کردن, تخطی کردن از,
+تجاوز کردن به؛ (در موردٍ رفتار) خلافی... بودن
+be offended رنجیدن, ناراحت شدن.
+به کسی پُرخوردن, دلخور شدن
+offender /sfenda(r) / ا. متخلف, خلافکار؛ مجرم. 7
+چیز مضر Xe SS
+offending /sfendin/ دردسر, Lle پردردسر, .۱ ad)
+مزاحم cont مشکل
+جَّرمء ارتکاب جَرم ۲ n
+offense’ /ofens/  ؛هلمح (در آمریکا, ورزش) خط 7
+حمله
+offense? /فماد/ (US) = offence :
+offensive /s'fensiv/ ] [رفتار, زبان و غیره .۱ adj
+موهن؛ ناراحت‌کننده. برخورنده. eed توهین
+مشمئزکننده, زننده» olen ] آزارنده ۲ [بو و غیره
+بد ۳. (رسمی, نظامی و غیره) تهاجمی
+هجوم, تهاجم., بورش IVP ; n
+be on the offensive در حال حمله بودن؛
+تهاجمی داشتن CI
+go on/ take the offensive شروع به حمله کردن.
+تهاجمی گرفتن؛ (مجازی) lo دست به حمله زدن,
+پیش گرفتن Ged
+011651 به طرز زننده‌ای, 0
+به نحو ناراحت‌کننده‌ای, به طور آزارنده‌ای, به
+oe برخورنده‌ای, od طرزی ناخوشایند. خیلی؛ با
+/ طرزٍ توهین آمیزی» انقدر... که به آدم برمی‌خورّد
+۰ 358%
+offensiveness/sfenstvars/ wis; cn
+ ؛یگدننسک‌تحاران ناراحت‌کننده, Gb Sas)
+. برخورندگی elo برخورنده, حالس Cl
+offer via), (US) 1 پچشنها دک دن؛ A wr
+۱۷ uv=cook ui=1l00 A=cup F=bird. a= about
+= near دوع U2 = pure وه = player aio = fire
+0= thin 6 = this {= shoe 3= vision n= 8
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1147 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: offhanded; offhandedly; offhandedness; office; Office; offering; offertory; offhand; office bearer; office-block; office boy; office girl; office holder; office hours; Officer -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+offering 1]
+[پاداش, جایزه ] تعیین کردن؛ [سیگار و غیره] تعارف
+کردن؛ [کالا] عرضه کردن ۲. [کمک. پول و غیره]
+پيشنهاد ... کردن؛ [هدیه, Jas ] دادن؛ [مقاومت. خشونت و
+غیره] (از خود) نشان دادن, دست به... زدن؛ wie]
+[is اظهار کردن, ابراز کردن ۳ (رسمی) پدید آوردن»
+ایجاد کردن؛ عرضه کردن, فراهم کردن, در اختیار
+گذاشتن ۴.(رسعی) [قربانی] پیشکش padi isp oS
+کردن
+VE ۵.(رسمی) [ فرصت و غیره ] dy دست آمدوزت پیش onal
+پیدا (as دست دادن
+۶. پيشنهاد ۷.(بازرگانی) پیشنهاد
+جیزی برای عرضه کردن داشتن,  0176۳ have sth to
+چیزی عرضه کردن, چیزی داشتن
+(رسمی) (برای دست دادن)  offer (sb) one's hand
+Gand خود را (به سوی کسی) دراز کردن
+offer one's hand (in marriage) (saw)
+( از کسی) خواستگاری کردن
+slp چیزری:/ offer oneself for sth SNS
+داوطلب شدن
+۱ تلاش کردن که.... offer to do sth
+سعی کردن که... ۲. پيشنهاد کردن که... ۳. حاضر بودن
+کهد..., مایل بودن iS
+معذرت خواستن, پوزش طلبیدن offer an apology
+چشم‌انداز داشتن offer a view
+محبت کردن, از خود محبت offer an affection
+plage» دادن ۱
+توصیه کردن offer some advice
+( رسمی) به دست آمدن. offer itself / themselves
+پیش آمتت. gals ces پیدا شدن
+به درگاه خدا offer (up) a prayer (to God)
+دعا کردن, نیایشی به درگاه خدا کردن
+به درگاه خدا offer (up) thanks (to God)
+شکر کردن
+be open to (an) offer / offers — open!
+۱ کالا ] حراج شده بودن be on offer
+۲ در دسترس بودن, موجود بودن
+or nearest offer — near!
+(در بریتانیا) [ ساختمان [ مشتری داشتن be under offer
+Nn پيشنهاد offering /'pfarty, (US) '2:f-/
+Y (رسمی) هدیه» پیشکش؛ کمک؛ اعانه ۳ (مذهب)
+ٍ قربانی؛ نذر
+(رسمی, در مراسم مذهبی) offertory /'ofatri, (US) -toirr/
+اعانه, کمک (J) پول ۱
+adj [رفتار ] بی‌نزاکت. /۶:م offhand /ofhend, (US)
+ils) ٍ زمسخت؛ [ant] بی‌نزاکت. زمخت.
+بی‌ادب ۲ [رفتار] بی‌تکلّف, خودمانی, زاحت
+adv ۳ بدونِ فکرء بی‌مطالعه. فی‌البداهه, همین‌طوری
+
+<!-- REGION: RIGHT COLUMN -->
+
+68
+۱ [رفتار ] اند ofthanded / pf handid, (US) |
+بی‌نزاکت. بی‌ادبانه. today [شخص ].بی‌نزاکت. !
+زمخت. بی‌ادب ۲. [رفتار ] Pe LC خودمانی,. :
+راحت
+adv \ بی‌ادبانه. /-:  offhandedly / of handidis, (US)
+ATS a § تکلفت,خو‌دمانی. راخ
+ام offhandedness/ ofhaendidnss, (US)
+(sb PSE JRF J SL 1 |S
+خودمانی بودن
+Ya (اداری, بازرگانی) دفتر؛ 1 office /'nfrs, (US)
+اداره ۲. (صفت‌گونه) اداری, دفتری ۳ (اداری) دفتر,
+اتاق ۴.(در آمریکا) [پزشک ] مطب ۵. main pli ٍ
+red شغل, وظیفه, کار ۶.(در جمع) کمک, خدمت. |
+مساعدت ٍ
+[شخص, حزب ] سر کار بودن؛ در قدرت be in office
+بودن, قدرت را در دست داشتن, در aly کار بودن
+ans] حزب ] سر کار نبودن. be out of office
+در oh کار نبودن ۹
+به. قدرت رسیدن, سر کار امدن take office
+(pm) از مقام ag استعفا دادن lay down office
+از کار کناره گرفتن
+(رسمی) Cod توجهات, through the offices of
+با مساعی, با مساعدت‌های, با همكاري
+(رسمی) 4 لطنب کسی. through sb's good offices
+با gma کسی
+# ۱. وزارت ۲.(مذهب) آیین» /۶: Office /'ofis, (US)
+le
+office bearer /'ofis beara(r), (US) 'o:f-/
+office holder =
+rn ساختمان اعد office-block / 2۵۵ blok, (US)
+ادازی, ساختمانٍ تجاری
+بر تحصیلدار a اعد office boy /'vfis bor, (US)
+پادو؛ کارمند صفر
+n تحصیلدار (زن)؛ office girl /'ofis gail, (US) 9:f-/
+پادو )03(
+office holder /'ofts havida(r), (US) 5:f-/ lon
+منصب» pli. lo
+mpl ساعات اداری, /۹:۶ office hours /'ofis avaz, (US)
+وقتِ اداری, cel کار
+2 ۱.(نظامی) افسر؛ 1 officer /'ofisa(r), (US)
+(کهنه) صاحب‌منصب ۲. [دولت, شرکت و غیره ] ple
+یکی از مسقامات؛ )2 جمم) مقامات, مسئولان ۳.
+مأمورٍ پلیس, پلیس ۴.(در خطاب به pole پلیس)
+سرکار
+افسر a commissioned officer
+درجه‌دار a non-commissioned officer
+yn گمرک "a customs officer
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1148 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: official; officialdom; officialese; officioUS; officiously; officiousnesS; offing; off-key; Off-licence; off-limits; off-line; off-load; off of; off-peak; offprint; off-putting; off-season; offset; offshoot; offshore; offspring; off-street; off-the-cuff; off-the-peg -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+(رسمی) Bl قانون an officer of the law
+7 ۱ [شغل, اسناد, ملاقات, زبان و غیره] ۰ /38/1/ official
+رسمی
+XY n (شخص) مقام؛ مقام رسمی. یکی از مقامات؛ (در
+(par مقامات
+officialdom /2'fi [idem / (Spm as) 2
+۱.مقامات, مسئولان ۲. بوروکراسی, کاغذبازی.
+قرطاس‌بازی
+2 (به مسخره) زبان منشیانه.  officialese /afifoliz/
+obs آداری :
+Nat, A adv به طور رسمی / ناد 5د/ officially
+۲ ظاهراً, اضما در ظاهر
+0 (حقوق) official receiver /sfifl msiva(r)/ jae
+تصفیه, ome) دادگاه
+(ad) vi مراسم را اجرا کردن  /۵11[0[816/08/:0۸.
+در مقام... انجام وظیفه کردن. officiate as
+مقام... را به عهده گرفتن / داشتن
+( مذهب) مراسم... را احرا کردن officiate at
+ad) (به طعنه) [شخص [ بدمنصب,» officious /a'fifas/
+رئیس‌ماب؛ [رفتار ] رئیس‌مابانه, آقابالاسرانه
+whl, adv اناد 6د/ officiously
+با حالتِ رئیس‌مآبانه‌ای
+7 بدمنصبی,» officiousness/sfifasnis/ lo pus,
+offing /'ofiy, (US) 1
+7 (محاوره) در راه بودن be in the offing
+0 ۱ (موسیقی) خارج. ان off-key / of 'ki:, (US)
+فالی ۲.(مجازی) das gp بی‌معنی» بی‌مناسبت
+7 (در بریتانیا) off-licence /'of laisns, (US) 'a:f/
+۱ مغازةٌ) مشروب‌فروشی ۲. جواز مشروب‌فروشی
+4 (در آمریکا) [منطقه, محل ] off-limits / ۵:۶ limuts/
+دارای Cut sree 29,9 که ورود به on ol
+Eas)
+ورود...به جایی ممنوع بودن be off-limits to
+adj (کامپیوتر) خارج از خط off-line / of lam, (US) o:f/
+[LL] wr خالی کردن. loud, (US) a:f/ 0۶,/ 011-1080
+تخلیه کردن؛ [سافر ] eal کردن
+( محاوره) [کار و غیره] off-load sb/sthon/onto
+سر ... eS CI انداختن
+off3 = /۲:ه off of / ۵۶ av, (US)
+adj ۱.(برق) (مربوط 4( /۵:۶ off-peak / of pick, (US)
+مواقع کم‌مصرف. ( مربوط 4( ساعاتِ کم‌مصرف؛
+[زمان ] کم‌مصرف., که مصرف کم است ۲. (راه‌اهن و
+غیره) ( مربوط به) cole کم‌مسافر, (مربوط به)
+مواقع کم‌مسافر, (مربوط به) ایام کم‌مسافر؛ [قیمت ]
+خارج از فصل؛ [زمان] کم‌مسافر, که مسافر کم
+see 1= sit z= cat a:= father ~~ b= got 2:= 82 1
+=go a1 = five ay = ۷ a1 =boy 19 ناه el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 off-the-peg
+کم‌ترافیک. که ترافیک [ols] است ۳.(ترافیک)
+سبک است ۴.(بازرگانی) [زمان ] کم‌مشتری» خلوت.
+
+که نی کم asl
+(برق) ساعاتٍ کم‌مصرف, ساعاتِ  off-peak hours
+پایین gay مصرف؛ [ترافنیک ] ساعاتٍ کم‌ترافیک,
+ساعاتِ سبکي بار ترافیک؛ (راه‌آهن و غیره) lel
+کم‌مسافر؛ (بازرگانی) lel کم‌مشتری
+[dE] 1 چاپ مستقل» /۰:۶ offprint /'ofprint, (US)
+Gls جداگانه. تیراژ
+7 (در Ailes, محاوره) /۵:۶ off-putting / 0۶۱۳09, (US)
+[شخص] نچسب.» گوشت تلخ؛ [ رفتارء پذیرایی ] خشک.,
+om که تو ذوق می‌زند. ناخوشایند. زننده
+7 (جهانگردی) off-season /'of si:zn, (US) ‘o:f/
+Jab 5 مسافر؛ (بازرگانی) فصلي (oS مشنتری,
+خارج از فصل
+prp offsetting, ( /۲۳:د offset /'ofset, (US)
+۸ ۱. جبران کردنء تعدیل کردن؛ offset) رام
+متوازن کردن ۲.(چاپ) cmd کردن
+Jule ۳ a تعدیل‌کننده, عامل جبران‌کننده ۴.(چاپ)
+cd] ۵.(گیاء‌شناسی) پاجوش
+7 [درتخت, گیاه ] 1 (15) offshoot /'offu:t,
+جوانةه جانبی؛ شاخهةٌ کناری, شاخةٌ فرعی ۲.
+[سازمان, نزاد و غیره ] aslo شعبه ۳. فعالیت جنبی؛
+Aon جنبی» J same جنبی؛ Jos] مذاکره و غیره ]
+do
+ad) ۱. [جزیره, ماهیگیری  offshore / pf fair), (US) 0if-/
+و غیره] نزديکي ساحل؛ [آب‌ها] ساحلی ۲. [باد] رو
+به Los ۳. (بازرگانی) برون‌مرزی
+مه ۴ انز یک ساخان؛ دور آزاسا حل, دوز تره ازاساحل
+ad) ۱. (فو تبال و غیره) ام offside! / pf'said, (US)
+آف‌ساید ۱
+(Jas). 0 تو آف‌ساید
+
+offside? /pf'sard, (US) oif-/ cooler Cows (اتومبیل) [
+
+Craw راننده؛ ( حیوان) Cras جاده
+
+offspring /'vfspriy, (US) 2:f-/ ( pl offspring)
+
+(yey) 12 ۱. فرزند» خلف؛ فرزندان» اولاد ۲. [ حیوان ]
+
+بجّه؛ بچّه‌ها ۳ (مجازی) ثمره» Az
+
+off-stage / of 'sterds, (US) :f/ Sta (تاتر) 6
+
+صحنه
+
+off-street / of strit, (US) o:f/ (ترافیک) خارج از ad
+
+خیابان اصلی
+
+off-the-cuff / of 85 kaf, (US) :f/ فی‌البداهه»
+
+بالبداهه
+
+off-the-peg /.of ۵۵ ‘peg, (US) o:f/ [لباس [ دوخته. 4
+
+«spol پیش دوخته. آماده
+
+w  v-cook u:=100 A=cup  3-bird a= about
+
+= near €2 = hair vo = pure era = player aia = fire
+
+6= thin 6 = this {= shoe 3= vision f= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1149 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: off-the-record; oft; often; oft-times; ogle; ogre; ogreish; ogress; ogrish; oh; ohm; OHMS; OhO; OHP; oi; oil; oil-bearing; oilcake; oilcan; oilcloth; oil-colour; oiler; oilfield; oiHired; oilman; oil-paint; Oil-paper; oil rig -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+۱ off-the-record tH
+ی off-the-record/,of 0s ‘rekad, (US) انم ۵۵ ‘rekard/
+غیررسمی, خصوصی. محرمانه Nad)
+طور غیررسمی, به طور خصوصی, به طور 4X adv
+مانه oe
+off-white / of ‘wart, (US) 2:f hwart/ (رنگی) 7
+سفید Bla شیری؛ استخوائین؛ (رنگي) تو
+oft /oft, (US) 2:ft/ (کهند) اغلب, غالباً, بارهاء 0
+به دفعات. کراراً, مکیّر
+; an oft-told tale oud داستانی که بارها گفته شده
+۰ داستان تکراری
+often / ۵ ,داد" (US) ‘5:fn/ اغْلب. غالباً, AN adv
+بارهاء به Jes غالب اوقات. dees, بیشترٍ
+مکرّراً ۲ در بیشتر موارد. lS دقّعات: مکرّر, به
+۱ غالباً, پیشتر
+as often as هر جند دفعه که. هر چند بار که
+as often as not; more often than not
+بیشترٍ مواقع, هميشه. به کرّات
+۱ every so often گهگاه, هر از جندی, گاه گاه.
+گاهی. هر چند وقت یک بار
+once too often — once
+how often وقت به چند وقت, جند وقت یک بار A
+oft-times /'vft taimz, ))05( اغلب, (18) adv
+غالباً, بسیار, به دفعات
+ogle /'augl/ ازن. تن و بدن ] با چشم خوردن. vr
+تو نخ ... رفتن» دید زدن
+ogle at Bost Fe yell
+تو نخ... رفتن, دید زدن
+ogre (1 ۱.غول, دیو ۲.(مجازی, شخص) 7
+Shes غول بی‌شاخ و دم؛ (وضعیت) کابوس
+ogreish / ]دود / = ogrish
+ogress /‘augres/ ماده‌غول, عفریته ۸
+ogrish / [1 وحشتناک. خوفناک؛ غول‌آسا ad)
+oh /au/ «Sls بیانگر تعجب. شادی, ترس و غیره) ۱ int
+وای وای ۲.(پیش از نام اشخاص) هی, آهای, ببین ۳.(به
+Tog Bo spd Drs) .۳ ۱ (ash گام
+3 Oh yes! بله بله! البته! اهان بله!
+Oh dear! خدای من! خدا جون! وای!
+Oh to be in France! جان می‌دهد که آدم
+فرانسه باشد! وای اگر فرانسه بودم!
+Oh really? نه بابا! جدی؟
+ohm /aum/ (برق) هم 1
+OHMS / 25 لاه em 'es/ > On His / Her Majesty's
+Service در بریتانيا, روی نامه‌های رسمی) معاف از تمبر (
+oho /ouhau/ ۲.عجب, عجبا lal ۱.های,
+به ۳
+OHP / auvahed pra'dsekta(r) / > 0۷۵۲۳۵۵۵ 07
+Qi اوهوی اد wl بریتانیا) yo) int
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+۸ ۱. روغن CB Y ۳.نفت (سفید)؛ 72117 oil
+بنزین؛ گازوئیل؛ سازوت. is کوره ۴.(محاوره)
+( نقاشي ) SS, روغن ۵.(هنر. در جمع) رنگي روغن
+۶ (صفت‌گونه) روغنی؛ نفتی؛ بنزینی؛ گازوئیلی
+۷ ۷. [دستگاه] روغن زدن به. روغن‌کاری کردن؛
+گریسن‌کازی کردن
+strike oil —> strike 2
+burn the midnight oil — burn?
+pour oil on the flames — pour
+pour oil on troubled waters — pour
+cel تسهیل oil the wheels wore LoS
+wel کچ کارها شدن
+(محاوره) سبیل کسی را جرب oil sb's palm 5S
+به کسی رشوه دادن
+aie] adj ] نفتی, نفت‌خیز  oil-bearing ail beorty/
+adf ]2 اجاق ] oil-burning/ail 03:0۱(/ seid
+نسفتی؛ Ko] بسخار, کوره و غیره] گازوئیلی,
+گازوئیل‌سوز؛ مازوت‌سوز
+pn کنجاله, کنجاره / 011036
+روغن‌دان 0۵0
+n مشمّع, پارچةٌ 17 oilcloth /a11ktno, (US)
+مشتایی
+8 )2( رانگن روغن 1( اد / oil-colour
+4 ۱. روغن‌دار. روغن‌زده. روغنی 01
+[لخن, 545[ چا پل Je متملقانه ۷۳ [کره] sada)
+۴ در بربتانياء محاوره) مست, پاتیل
+۸ ۱.(شخص) گریس‌کار, (ابزار) oiler /otla(r)/ ads
+گریست؛ روغن‌دان ۲. (کشتي) نفت‌کش
+۸ منطقةٌ نفت‌خیز, حوزهٌ نفتی.  /0([]1610/:۱/:۱۵4
+میدن نفتی
+Sow Ks] adj کووه و oil-fired / 511 'farad/ [ot
+گازوئیلی. گازوئیل‌سوز؛ مازوت‌سوز
+eb] Non و غیره ] oiliness /oimis/  ینغور SI
+۲ اغذا, پوست و غیره | چرب بودن» چربی ۳ [رفتار, لخن
+و غیره ] متملقانه بودن, چاپلوسانه بودن
+oilman /siman/ (pl oilmen)  ِتعنص SSN 2
+aS نفك‌گز؛ کقارمنت صنقت نفات LSB
+تأسیساتٍ نفتی ۱
+pemnt/ = oil-colour اند / oil-paint
+۸ (هنر) ۱.کار با رنگي  oil-painting /5u pernuy/
+روغن ۲.(نقاشي ) So روغن
+(محاوره) [شخص ] اش be no oil-painting
+دهن‌سوزی نبودن, چنگی به دل نزدن
+7 (گیاه) نخل روغن 7 ۲/٩۱۱ ]0[۱-03
+$n روغنی 7( اد / 3067 0[1-0
+(در خشکی) دکل حفاری اون ااد/ oil rig
+(oa) (در دریا) سکوی pre (نفت)
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1150 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: oily; ointment; he old enough to he sh's father; okra; pay -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+0۵00 / پارچهٌ مشمّایی .۱ 7
+slats oY (pam در ۲
+۵1۱-8110 / نفتی اد ASS ۸
+oil-tanker /'u tanka(r) / نفت‌کش (22S) 4
+۱ تانکر نفت §
+oil well ۱٩ wel/ Eg
+Oily / اناد (comp oilier, super oiliest) ] [مایع AN adj
+چاچول‌باز, Glob (wb روغنی ۲. چرب ۳ (به
+Galles چرب‌زبان, چاپلوس, متملّق؛ [رفتار]
+Melle
+oink /oigk/ .صدای خوک, خُرخُر, ونگ‌ونگ ۶
+] ونگ‌ونگ کردن؛ [شخص wd Sao ] [خوک ۴ 4
+ضدای خوک درآوردن
+00 پماد. مرهمء روغن؛ کرٍم an
+a/the fly in the ointment —> fly!
+OK /avket/ (pr,pp OK'd; pl OK's) = okay
+okapi /ovka:pi/ آکاپی (- نوعی 155 آفریقایی)
+okay | (محاوره) خوب؛ درست اند NN adj, 0
+ایرادی ندارد. Las ما خیلی asl (محاوره) XY de
+عیبی ندارد. اشکالی ندارد. قبول
+قیول کردن؛ تأیید [ut (محاوره) [ پیشنهاد, نظر و ۳ ۷
+کردن, موافقت کردن, موافقت کردن باء اوکی کردن
+اوکی؛ اجازه «isl ga (محاوره) .۴ 1
+be okay حال کسی خوب بودن, خوب بودن ۱
+وضع چیزی خوب بودن, سالم بودن ۳. ایرادی ۲
+نداشتن, اشکالی نداشتن, عیبی نداشتن ۱
+That's okay with me. از نظر من ایرادی ندارد.
+برای من خوب است.
+I did okay in the exam. امتحانم خوب شد.
+do okay وضع کسی خوب بودن / شدن
+okra /ukra/ (گیاه, آشپزی) بامیه 7
+old" /asld/ (comp older, super oldest) em Nady
+آداب و wobble] ۳ مسن, سالخورده. کهن‌سال ۲. سن
+Lord کهن, قدیمی, کهنه؛ [اتومبیل, لباس و [ot
+wags] Foils [ot هویج و AUR) قدیمی. کهنه؛
+.۶ سابق, قبلی,» پیشین .۵ AL دشمن ] قدیمی»
+(رسمی) کهنه کار
+no fool like an old fool — fool’
+old beyond one's years عاقل‌تر از سر خود.
+خود Lm پخته‌تر از
+(have) an old head on young shoulders
+— head’
+an old trout  وفاه‌فاه (محاوره) پیرزن 2,8 5 پیر
+teach an old dog new tricks ed teach
+young and old — young
+ii=see 1=sit =z=cat a=father D=got o:=s:
+cl = say W=go a1 = five ay = now 31 =boy 13
+aus = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+Al old
+old people; old folk(s) افرادٍ یر افرادٍ مسن.
+و پیرزن‌ها Undo i ناتدای
+be old before one's time  ندوب خود Go پیرتز از
+grow old before one's time & دچار
+: . زودرس شدن
+That dress is too old for you. این لباس برای
+سِنّت زیاد است. این لباس سِنّت را زیاد می‌کند.
+He's forty years old. چهل سال دارد.
+چهل ساله است.
+at fifteen years old در پانزده سالگی
+How old are you? جند سال داری / دارید؟
+چند سالت / سالتان است؟ چند ساله هستید؟
+a fifty-year-old یک آدم پنجاه‌ساله
+be old enough to be sb's 12406۳ 7 جای باپای
+۱ پدر کسی بودن
+be old enough to be sb's mother جای مادر
+کسی بودن
+be old enough to do sth آنقدر پزرگ شده
+بودن که..., به سنی رسیده بودن که...
+You are old enough to know better!
+دیگر بزرگ شده‌ای! دیگر عقلت می‌رسد!
+when you are older خطاب به بچّه) وقتی (
+Siz ببزا رگ رد که ens
+older than بزرگ‌تر از
+in the old days قدیم‌هاء قدیم ندیم‌هاء در ایام گذشته
+be a chip off the old block — chip
+money for old rope — money
+be (as) old as the hills بوق بودن: Ne Jb
+دقیانوس بودن ge Jl
+be old hat Oo عهدٍ بوق Jl محاوره, به طعنه) (
+دقیانوس بودن ge Jl
+an old ۱۱۷۶" tale خرافی, bli
+اعتقاداتِ خاله‌زنکی. حرف‌های خاله پیرزن‌ها
+one of the old school آدم قدیمی, آدم محافظه کار
+pay / settle an old score انتقام خود را گرفتن,
+OOS خرده‌حساب‌های گذشته را تسویه
+rake over old ashes —» rake
+ring out the old year and ring in the new
+—» ring?
+tough as old boots — tough
+the good old days روزهای خوش (گذشته)
+the bad old days (42238) روزهای بد
+for old times' sake به پاس گذشته‌هاء
+گذشته‌ها bls روزهای خوش گذشته؛ به bls به
+good old Angela جون Sol آنجلا؛ (در خطاب)
+w 00006 0000 A=cup 3=bird a= about
+= near €3 = hair U3 = pure era = player aia = fire
+0= thin d= this = shoe 3= vision 1) = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1151 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: old man; have; old girl; old-age pensioner; old country; Olde; olden; Old English; old-tashlonedrsara 'frefnd; give sb I sth an old-fashioned look; old folks' home; Old Glory; Old Harry; oldie; oldish -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+oid 11
+خیلی: You're a funny ۵1۵ thing! pal
+بامزه‌ای هستی!
+Ca gd عزیزه old man / chap / boy / fellow
+آقای عزیز :
+( محاوره) هر چیز, هر چی any old thing
+هر جا, هر any old where LS
+خیلی پهمان We had a great old time.
+hy گذشت:
+همان lads همیشگی! It's the same old story!
+( محاوره) بدون نظم و ترتیپ, درهم‌برهم any old how
+the grand old man — grand
+have / give sb a high old time — high’
+ass کار بردی:
+از مقايسهٌ صفت‌های ancient elderly (aged (old و
+4 می‌توان دریافت که هر یک از آن‌هاء علیرغم
+شباهت‌های line کاربردٍ متفاوتی دارند.
+old Cis در گفتگو از انسان‌هاء حیوانات و اشیا به‌ کار
+می‌رود و بیانگر آن است که شخص, حیوان یا چیز 2050
+بحث برای مدتی طولانی زندگی کرده یا وجود داشته است:
+an old woman / dog / church
+Ole وصفی old friend کسی اطلاق می‌شود که
+شخص gobs aa با او آشنا بوده است. البته این بدان
+معنا نیست که آن‌کس لزوما پیر است:
+Kate's an old friend of mine _ we were at school
+together.
+Cio 010 به معنای «سابق» یا («پیشین» نیز هست:
+He was much happier at his old school.
+my sister's old boyfriend
+aged Chis خیلی رسمی‌تر از صفت 0[ است و برای
+توصيفي )23 بسیار پیری به‌ کار می‌رود که احتمالاً دچار
+ضعف نیز شده‌اند.
+elderly Cus کلمه‌ای است lage برای توصیفب
+اشخاص پیر و اغلب در obs رسمی به‌کار می‌رود:
+There are increasing numbers of elderly people
+in western socicties.
+عبارت اسمی older people و older person UL را
+هنگامی به کار می‌برند که بخواهند به شکلی مودبانه بگویند
+شخص جوان نیست:
+Many older people in Britain live alone on low
+incomes.
+صفت‌هاي 01 و antique معملاً برای lal به‌کار
+می‌روند. چیزی را که هزاران Jl قبل وجود داشته ad
+با صفت 200601 توصیف می‌کنند:
+the ancient Greek civilization
+She's studying ancient history.
+صفت antique برای شیئی به‌کار می‌رود که از
+گذشته‌های دور باقی مانده و بنابراین باارزش است:
+He collects antique furniture. ۱
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+2 افراد پیر» سالمندان, سالخوردگان old? /auld/
+۱ قدیم, گذشته, سابق, قبلی, پیشین؛ از گذشته of old
+۲ از قدیم. قبلاء از سابق, از قدیم‌الا یام
+در گذشته, در گذشته‌ها in days of old
+«sm 1 سالخوردگی, کهولت /۵45: old age auld
+2 (در بریتانیا)  old-age pension /suld exds ‘penfn/
+مستمري کهولت
+eds ‘pen fana(r)/ فان / old-age pensioner
+1 کسی که مستمري اکهوالل Sede
+آمووشی) اشا گراصسابَق: old boy /'auid bor/
+Joana سایق (mt)
+۰ ۶ (محاوره) پیرمرد اند old boy? /uld
+7 (در بریتائیا  old-boy network / ould bor netwak/
+محاوزه) شبکة rama سابق, SL هم‌کلاس‌های
+سابق
+klavdz di:la(r), klovz/ فان / old-clothes dealer
+کت و شلواری, لباس کهنه فروش / خر
+n وطن اصلی, kantrr/ فاد / old country
+3385 زادگاه
+i aS) adj شوخی) قدیمء باستان / olde /ould, ‘auld
+ad) (کهنه) گذشته. قدیمء کهن olden /'suldan/
+n انگليسي Old English / auld ‘1nghf/ RY
+انگلیسی باستان
+adj دیرینه old established / auld rstzblift/ gS
+قدیمی, کهنه. Sadly;
+4 ۱. [لباس, suid 1 Saw /10۳۵۵ 0۱۵-1391
+فکر و غیره ] قدیمی, کهنه؛ ازمٌدافتاده ۲. [شخص ]
+FART
+8 ۳ (در آمریکا) کوکتلي ویسکی و میوه
+4 کسی / give sb/ sth an old-fashioned look
+چیزی چپ‌چپ نگاه کردن
+7 عشق سابق, عاشق قدیمی old flame / ould flerm/
+(p31) 7 کهنهپرست. old fogey ould favgt/ Jil
+بر خانةٌ old folks' home / auld ‘favks hasm/
+سالمنذان
+3 ( آموزشنی) شاگراد سابق, old girl" /'ssid ga:l/
+Jame سابق (دختر)
+7 (محاوره) 55m او old girl2 /,uld
+7 (در آمریکا) پرچم آمریکا Old Glory / auld ‘glort/
+7 [حزب و غیره ] old guard / suid 'ga:d/
+اعضای قدیمی, اعضای محافظه کار
+۸ (ادم) خبره, کارکشته. ۰ old hand / auld hand/
+زبردست
+2 (کهنه, محاوره) شیطان Old Harry / suid ‘haert/
+7 (محاوره) ۱ آدم پیر» پیری ۲. چیز oldie /'auldi/
+قدیمی, چیز AE
+Sm EN ad) نسبتا پیرء / 0105
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1152 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: old-line; oldster; old style l'auld starl; old-time l'auld tarm; old-world; olfactory I ol'frektan; oligarchy; olive-tree; Olympiad; Olympic Games; omelet l'omht; omelette l'omht -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+کهنه, نسبقاً قدیمی Lo سنگذاشیته۲. a
+old lady (محاوره) ۱.مامان, مادر بل فاد,/ 2
+Jue زن؛ .۲
+old lag / فان "lzg/ (در بریتانيا, محاوره) زندانی 72
+قدیمی. زنداني سابقه‌دار
+old-line /'svld lamn/ محافظه کار 4
+old maid / ould 'merd/ (به طعنه) پیردختر, 1
+دختر ترشیده
+old-maidish / auld ۳۵:۵۲// ۰] [شخص (usb (بد adj
+پیردخترها Joe ] وسواسی, ایرادگیر؛ [رفتار
+old man / شوهر فان .۲ LLY (محاوره) 2
+رئیس ۳
+old man's beard / svld manz brad/ (گیاه) n
+زبان‌گنجشکي زینتی ۲. دم اسب ۳ کلک سفید. .۱
+کلماتیس سفید
+old master / فاند 'ma:sta(r), (US) ‘maesta(r)/ (2) n
+شاهکار قدیم» نقاشي XS shed (ats ۱.استاد
+استاد قدیم
+Old Nick / auld 'nik/ = Old Harry
+Old One / فلع 'wan/ = Old Harry
+old people's home / auld ‘pizplz haum/
+= old folks' home '
+old school / auld 'skull/ مدرسةٌ سابق, مدرسه‌ای 1
+که سابق کسی در آن درس می‌خوانده است
+old school tie / auld sku:l 'ta1/ کراواي .۱
+مدرسةٌ سابق ۲. غیرتٍ همشاگردی‌گری
+Old Scratch / وا 'skraetf/ = Old Harry
+old stager auld steidso(n)/ کهنه کار (p31) (محاوره) 7
+oldster /'suldsta(r) / (محاوره) آدم پیر» پیری, 8
+پابه‌سن pol
+old style /'auld stail/  هداتفادٌمزا قدیمی, کهنه, adj
+کهنه گرا: کهنه پرنست ۲
+old sweat / محاوره) لاند Mok, (در 7
+(آدم) کهنه کار؛ سرباز کهنه کار
+Old Testament / auld 'testomant/ ’
+the Old Testament Shy عهد عتیق, Nn
+old-time /'auld taim/ قدیمی 4
+old-timer / (آدم) کهنه‌کار, آدم 7( ما۵ Nn
+پرسابقه. ادم باسابقه ۲. پیرمرد. ادم پیر. ادم مسن
+old woman / ssid 7 (تحاورة) ۷. مامان 1
+آدم نق‌نقو EE زن» عیال ۳ (به طعنه. مرد) آدم ۲
+old-womanish /ould womanif/ ۰ [مرد] (ab (به adj
+SEs a
+old-world /'suld waild/ [دهکده, زیبایی و غیره ] قدیمی ad)
+Old World / فاد 7 :
+معا 1-sit @=cat a= father D=got o:= sa
+el = say ناه =go ar = five ay = now o1=boy 19
+aus = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 omelette
+the Old World دنیای قدیمء بر قدیم
+oleaginous/eul'zdsines / (رسمی) روغنی‌شکل؛
+روغنی؛ چرب
+oleander / aulr'ends(r) / خرزهره 1
+O Level /as levi/ (در بریتانا) آموزش سطح 1
+غادی؛ مدري سطح عادی. امتحان سطح عادی. اولول
+olfactory /218:0۲7/ (رسمی) (مربوط به) بویایی, ad)
+بو (a مربوط (
+oligarch /oligak/ (سیاسی) عضو شورای حاکم
+oligarchy | مانه‌عا / qed SPA (geal m
+خاکم, ALY Wns Site Cu Se
+Sle شورای
+olive /'pliv/ زیتون SY زیتون .۱
+(رنگي) زیتونی» سبز زیتونی ۳
+زیتونی ۵. [چهره ] گندمگون ¥ adj
+011۷۵-۵۲۵16 / راد bra:mntf, (US) brantf/ شاخ Nn
+نماد صلح ۲ (مجازی) نشانة آشتی Enh
+hold out the olive-branch to sb 4 دوستی Cond
+جانپ کسی دراز کردن
+olive-green/ piv 'gri:n/ زیتونی, (553) n
+سبز زیتونی
+olive-oil / plrv "orl / روغن زیتون
+olive-tree /ol tri:/ درخش: زیتزن A
+Olympiad /otimprzd/ بازی‌های المپیک. .۱ ۸
+بازی‌های المپیک ple ole .۲ المپیک
+Olympian / ۱.(اساطیر یونان) یکی از / ماد 7
+Samal} #ناوزقش) فسهرمان call Gla 2
+Sell شنرکت‌کنندة در
+یونان) (مربوط به) کوو المپ؛ (مربوط به) BAN) ۳ ad)
+خدایانِ المپ ۴. (رسمی) عظیم؛ پرعظمت., پرشکوه»
+هن Ss
+Olympic /۵1:۳۵:۴/ ۰  کیپملا ۱.(مربوط به) ad)
+بازی‌های المپیک. مسابقاتِ المپیک (pan .(در ۸
+Olympic Games /a)impik ‘geimz/
+the Olympics Game ole بازی‌های المپیک. mpl
+المپیک. المپیک
+OM / ۵ 'em/ > Order of Merit (در بریتانیا) ۱. عنوان 7
+olf صاحب عنوان ۲ (2) shah عنوان =) oi
+ombudsman /'ombudzman, -man/ ’
+(pl! ombudsmen): ویژه» ool (اداری) 7
+مامور ویژه wy saul
+omega /'svmigs, (US) au'mega/ بر امگا
+Alpha and Omega — Alpha
+omelet /'omiit/ = omelette
+omelette /omlit/ املت (5521) 2
+w  s=cook u:-100 A=cup 3=bird a= about
+= near ea = hair U3 = pure ero = player  a1o= fire
+€= thin 8 = this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1153 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: ominously; omission; omen; He omitted to say; omnibus; omnipotentiom'mpotont; OmnipresenCe; omnipresent; omniscience; omniscient; omnivorOUS -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+omen 11]
+make an omelette without breaking eggs
+بدونِ دردسر به نتیجه رسیدن, بدونِ زحمت به جایی
+Oa)
+You can't make an omelette without breaking
+هر که را طاووس باید جور cggs. (prov)
+هندْستان کشد. هر چه پول بدی آش می‌خوری.
+nm نشانه, علامت omen /‘ssmen/
+چیز Bobs خوش‌یمن, JB نیک. a good omen
+شگون
+چیز Los) بدیمن, چیز / حادئة a bad omen
+بدشگون, چیزٍ / Bole شوم JU بد
+SRN که شکواق دارگ of good omen
+بدیمن, بدشگون, نامیمون, نحس, شوم of ill omen
+استخاره کردن, JW زدن take omens
+ad) [حادنه. نشانه و غیره ] بدیمن. /۵۵۶/ ominous
+بدشگون, نامیمون, نحس, مشئوم, شوم؛ [نگاه لحن.
+ابر و غیره] ترسناک., دهشت‌ زا تهدیدامیز
+0۷ به صورتِ تهدیدامیزی» ominously /ommaslt/
+تهدیدکنان, به نحو ترسناکی
+۸ .حذف, از قلم انداختن.  omission /smin/
+کنار گذاشتن؛ ترک ۲ ازقلم‌افتادگی, افتادگی؛ چیز
+از قلم‌افتاده
+(رسمی) Sp pls اوامر؛ sins of omission
+قصور خدمت, تقصیر
+omit /amit/ ( prp omitting, prpp omitted)
+۷ ۱. غفلت کردن درء کوتاهی کردن در قصووار کردن
+در فرأموش کردن که کسی بادش رفتن که ۲.
+حذف کردن. قلم گرفتن. زدن؛ از قلم انداختن, کنار
+گذاشتن
+He omitted to say / saying whether he would
+نگفت که come. FAN al po
+4 ۱.(رسمی. omnibus /'bmnibos/ ) p/ omnibuses)
+کهنه) اتوبوس (شهری) ۲. [نویسنده و غیره] ie gama
+UT کلیّات؛ de gamma داستان‌ها؛ (تلویزیون) [برنامه
+چندقسمتی ] ide یکجا
+the man on the Clapham omnibus — man’
+a قدرت. قدرتِ / omnipotence /opmmnipatons
+مطلق, قدرت بالغه
+4 ۱.(رسمی) قدر omnipotent /omnipatont/ (Aad
+پرقدرت. قَدّرقدرت, مقتدر؛ [خدا] قادر elas
+قدیر 7
+7 ۲. (با حرف بزرگ) قادر متعال, قادر مطلق
+1 (رسمی) حضور ی omnipresence
+در همه da حضور شامل
+(رسمی) : 00
+همه جاحاضر, فراگیر
+/vmmnistons, 7 0۲۳1961666
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+۸ (رسمی) a ple همه or آگاهی از هر چیزء علم.
+(lls دانش فراگیر
+(sams) adj عالم 2 omniscient /om'nisiant, -n1fant/
+همه am دانا بر همه Gam دانای (JS که همه جیز
+را می‌داند. Jae کل؛ [1a] علیم :
+4 (رسمی) ۱. [ حیوان ] OMNivOrous /omnivoras/
+همه چیزخوارء گوشت وگیاه‌خوارء هم گوشت‌خوار
+و هم گیاه‌خوار ۲.(مجازی) [کتاب‌خوان ] که هر چیزی
+می‌خواند. همه‌چیزخوان؛ [بيندة تلویزیون ] که هر
+چیزی را می‌بیند. همه چیزیین ۱
+رژیم گوششی و گیاه‌خواری. an omnivorous dict
+همه چپزخواری
+a AN adv سر هم یکریز. o وقفه. on' /on/
+یک‌بند؛ 5% >( همجنان Ay حرکت به جلو در مکان
+و زمان) پیش به پیش
+They wanted the band to play on.
+می‌خواستند ارکستر باز هم بزند. می‌خواستند ارکستر
+همچنان به زدن ادامه دهد. :
+on and off — off?
+Sty سر هم, GSN یک‌بند. لا ینقطع. on and on
+بی‌وقفه. هی
+به Sb ایستگاه walk on to the bus-stop
+اتوبوس رفتن. 0 سر ایستگاه رفتن
+They sent my letters on to my new address.
+نامه‌هایم را به dl جدیدم فرستادند.
+از آن روز به بعد from that day on
+به پیش! برو جلو! بروید جلو! On!
+۱ برنامه را ادامه بدهیم! On with the programme!
+۲. برنامه را شروع کنیم!
+It was getting on for 2 o'clock.
+ساعت داش دو می‌شد. جیزی به cele دو نمانده بزد.
+پاسی از شب It was well on in the night.
+گذشته Dy
+اواسط ماه It was well on into September.
+سپتامبر بود. نیمه‌های سپتامبر بود.
+عینکش را زده است. She has got her glasses on.
+عینکش روی چشمش است.
+پالتوش را پوشیده بود. He had his coat on.
+پالتوش تنش بود.
+پیژامه‌ات را بپوش! On with your pyjamas!
+درش بسته است. درش گذاشته است. The lid is on.
+درش رویش است.
+دارم یک جیب I'm sewing a pocket on.
+بهش / روش می‌دوزم. دارم یک جیب برایش می‌گذارم.
+صاف / درست قرار It's not on straight.
+نگرفته است. کج است. سر جای خودش نیست.
+از بهلو, با پهلو. از ناحيهٌ broadside on she
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1154 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: ion -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11 ۵ 1
+با سرء از جلو, از ناحَْيِهٌ سر head on
+از ia از قسمتِ ته end on
+۱ [دستگاه, موتور ] روشن بودن, be on
+, مشغول کار بودن, کار کردن؛ nab] تلویزیون ] روشن
+بودن, باز بودن؛ [چراغ ] روشن بودن؛ [شیر ] باز بودن؛
+[ اجاق, منبع و غیره ] شیر ... باز بودن؛ [ترمزدستی ] کشیده
+بودن, بالا بودن ۲. [ آب. گاز ] وصل شده بودن؛ آمده
+(Gog داشتن ۳. py اعتصاب و [om شروع شده بودن
+۴ [مسابقه و [od شروع شدن ۵. (تلویزیون و غیره)
+[ فیلم. برنامه.] پخش شدن, نشان دادن؛ (رادیو) [برنامه ]
+پخش شدن ۶. (رادیو, تلویزیون و غیره) [ana] برنامه
+داشتن» برنامه... شروع po ۷. [کارگر, کازمند [opty
+سر کار NEY مشغول کار بودن A (در اتومبیل و غیره)
+سوار شده بودن A (محاوره) olga} و [opt درست
+بودن؛ خوب بودن؛ [شخص ] حرفی...درست بودن؛ حق
+با...بودن ۱۰. [رستوران, مدرسه و غیره ] باز بودن, دایر
+
+بودن, برقرار بودن
+(محاوره) )13 کاروی / چیزی) be on (for sth)
+شرکت کردن, بودن
+( محاوره) در مورد be/ go / keep on about sth
+چیزی بالای منبر رفتن, سر چیزی سر درددل کسی باز
+شدن, چیزی را شروع کردن
+( محاوره) به کسی بند be/ go / keep on at sb
+کردن, پا بخ 5 کسی گذاشتن. پاپي کسی شدن
+هنوز ادامه داشتن be still on
+( تلویزیون, سینما) امشب جچی  What's on tonight?
+نشان می‌دهند؟ (رادیو) امشب چی پخش می‌کنند؟
+[کارگر, کارمند و غیره ] کار... شروع شدن, go on
+سر کار بودن
+حرفش را نزن! شدنی نیست! نمی‌شود! . It's not on!
+I've (got) nothing on this evening.
+امشب برنامه‌ای ندارم. امشب کار خاصی ندارم.
+later on — later
+prep .(ببانگر جا و موقعیت) روی» بر /on/ 0۲۶
+Leave the glass on the table! > > ۲. (در مورد وسیلة نقلیه)
+3« توی > have lunch on the train < ؛ (بیانگر نوع Ns
+نقلیه) با ۳. (با ضمایر شخصی) (i همرای BA) FL
+موقع و زمان) در ۵.(بیانگر هم‌زماني تقريبي دو حادنه) باء به
+مجرّدء به ae ۶. دربارٌ در موردء راجع به. در
+خصوص, در باپ. پیرامون
+<a lesson on philosophy > ۷. (بیانگر عضویت در جایی)
+عضو توی, در > SL) ۸ <1 be onthe team جهت)
+4 طرفي, به Sm به سوی 8 )2 مکان) 55 503(
+(lr LS پهلوی, در > a house on the main road <
+۰ در زمان) حدودء SSN قریبپ
+0:=s: اوعد a=father اه عم اوه i=see
+cl = say ou =go ar = five av =now 31 =boy 3
+aud = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 on
+اعاز > ۱۱. بر طبق. بر اساس: بر 0۳ a year ago >
+عَلقت: بدا در انامه 4 ble .یره به Lucas
+منبع Sok) AY < On your Advis | applied for the job. >
+4 ؛ (محاوره) > to live on one’s savings > با (a 3 تأمین
+AY > Drinks are on me. > پای (ols به BUEN
+؛ از > to play a tune on the recorder > بیانگر وسیله) با (
+«Sa, بیانگر افزایش) (۰۱۴ > broadcast on the TV/ radio >
+هدف, وضعیّت و edb ۱۵.(بیانگر > atax on tobacco > بر
+\# < to be away on business > دنبای 4 shy (op
+(رسمی, میان دو بار تکرار یک کلمه) روی, پشت. بعد. از
+
+پس > NY > to suffer defeat on defeat نسبت به
+Prices are up on last veh > <
+
+the diagram on page 5 $0 dio نمودار در
+
+نمودار صفحهٌ ۵
+
+put a picture on the wall را به دیوار زدن ۳۳۲
+
+hit sb on the head تو سر کسی زدن؛
+
+به کسی توسری زدن
+
+travel on an island به اطرافي جزیره‌ای
+
+سفر کردن
+
+a ring on one's finger انگشتری‌ای به / تو
+
+iS کسی
+
+hang on a string 03S ols! از / به نخی
+
+travel on the bus wa Saal با اتوبوس رفت و
+
+با اتوبوس آمدن / رفتن؛ سوار اتوبوس بودن / شدن
+Have you got any nioney on you?
+
+پول پیشت داری؟ پول داری؟
+
+on Sundays یکشنبه‌ها anes در روزهای
+
+با شنیدن این خبر, & مجرّد on hearing this
+
+شنیدن این od همین‌که این خبر را شنید. تا این خبر را
+
+شنید
+
+This joke is on you. جوک توپی. op) هدف
+
+Which / Whose side are you on? کی Sb
+
+هستی؟ کدام طرفی هستی؟ طرفی که را می‌گیری؟ از
+
+plas عقیده طرفداری می‌کنی؟
+
+Most cars run on 764010  نیزنب ماشین‌ها با Je
+
+کار می‌کنند.
+
+be on pills قرص خوردن IS مصرف yo
+
+برای کسی قرص تجویز کردن. put sb on pills
+
+کسی را به قروص:بستن
+
+live on bread and water با نان و اب / a
+
+زنده بودن, فقط نان و آب خوردن, با نان و آب گذراندن
+
+be on drugs معتاد بودن
+
+دوباره سیگار را شروع کردم. I'm back on cigarettes.
+
+I'm on £3000 a year. سه هزار پوند JL
+
+درمی آورم / درآمد دارم.
+
+۷  U=cook U:=100 A=cup :=bird a= about
+
+= near €0= hair Ud = pure etd = player ard = fire
+
+0= thin 0= this [= shoe 3= vision y= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1155 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: give sb; oncoming -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+on 11
+دانشجوی بورسیه؛ a student on a grant
+دانشجوی هزینه‌بگیر :
+cy خود را به کسی کردن  turn one's back on sb
+در طرفي زاست, God راسنت, on the right
+Coa راست؛ به Sb راست
+مبتنی بر» based on RR
+قول می‌دهم )48( on my word
+در J سوختن on fire
+در Js اعتصاب on strike
+قرض داده شده بودن be on loan
+عمداً, به عمد؛ از روی عمد on purpose
+روی موضوع جدیدی I'm on a new subject.
+کار می‌کنم: سر موضوع جدیدی هستم.
+درسی / کلاسی را گذراندن be on a course
+رسیدیم 4 فعل‌های We're on irregular verbs.
+بی‌قاعده.
+on? /on/ Gb sparse) 5) Abra (85, 8) n
+چوب‌زن)
+adj (برق, رادیو و غیره) be in the on position
+[کلید ] روشن بودن, زده بودن
+(محاوره) ان روز It wasn't one of his on days.
+حالش سر جایش نبود. ol روز سردماغ نبود. آن روز تو
+pb نبود. روز خوشیش نبود.
+flax ۸ منقطع / دهد / onanism
+آاستمتای (las
+0 .یک LL یک دفعه, یک once /wans/ Ade
+ند یک وقتی» یک موقعی, «(Bs روزگاری؛ Ss
+سابقاً ۳.(در جمله‌های منفی و سوالی) هیچ وقت, هیچگاه.
+هرگز, sie یک ol یک بار هم
+conf ۴. به محض اين‌که. همین‌که. تا؛ وقتی‌که. هنگامی‌که
+هفته‌ای 4 بارء یک بار در هفته once a week
+ناگهان, یکدفعه, یکهو, یکباره all at once
+WSs Joss A بی‌درنگ» بلافاصله؛ at once
+همان موقع؛ oI ۲. با هم در یک زمان, هم‌زمان؛ در
+J oe هم هم ۱
+همین یک ads استثنائا, (just) for once
+فقط یک بار, فقط همین دفعه
+یک با دیگی, once again; once more
+یک ids دیگر, دوباره, دومرتبه, باز
+یک بار برای همیشه. once (and) for all
+برای das آخر, برای هميشه
+مارگزیده از Once bitten, twice shy. (prov) gles
+شیاه و سفید می‌ترسد.
+(محاوره) به ندرت. once in a blue moon
+هر از قرنی, خیلی کم؛ سال تا سال
+(every) once in a while; once and again
+هر از گاهی, هر از چندی, گاه گاه, گهگاه
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+یکی دو بار once or twice
+بیش از حدٌّ. زیاده once too often P|
+You're only young once. — only?
+وقتی / همین‌که / یک once punished, he...
+بارکه تنبیه بشود, دیگر...
+Once a borrower always a borrower.
+یک بار که پول قرض کنی هميشه پول قرض می‌کنی.
+یک بار مقروض هميشه مقروض.
+کشوری که یک وقتی a once powerful nation
+قدرتمند بوده است
+(در ابتدای قصه) روزی روزگاری, once upon a time
+یکی بود یکی نبود
+7 (محاوره) یک LU یک دفعه؛ همین یک دفعه the once
+همین یک دفعه, فقط همین دفعه, just this once
+فقط یک بار
+7( ۷۷۸۳۶/ 0۵0۱۱۵۵-۵۷۵۲
+7 (محاوره) کسی / چیزی give sb/ sth the once-over
+را ورانداز کردن, به کسی / چیزی نگاهی انداختن
+give the room the once-over with the duster
+اتاق را گردگیری کردن. دستی به اتاق کشیدن
+4 ۱. [اتومبیل و غیره ] که oncoming /'onkamry/
+نزدیک می‌شود؛ [خطر ] قریب‌الوقوع؛ [جلس. مهمانی و
+غیت ] FS PUR راوترو؛ اطرفی* تقایل
+۸ ۴.(رسمی) نزدیک (HA فرارسیدن
+XS Nad) (علامست نکره) یک. one’ /wan/ Cm
+۳ تنهاء یگانه ۴. (رسمی, پیش از نام اشخاص) شخصی به
+نام فردی به نام ’
+(Gas). n یک؛ شمارة یک
+minority ج in a minority of one
+درست همان: Cad یک one and the same
+یکی دوتا one or two
+۱. یکی شدن. become one; be made one
+pas Ada ۲. ازدواج کردن
+کتاب اول Book One
+نها ws یکاند one and only
+The one and only Charlie Chaplin!
+چارلی ean gr solr
+کسی به اسم اقای اسمیت. one Mr. Smith
+اقای اسمیتٌ نامی
+( رسمی ) هم‌عقیده بودن, be of one mind
+Po مشابهی داشتن
+number one — number
+سال‌ها پیش, خیلی وقت پیش in the year one
+نقشه‌ات Your plan is a good one. ek
+خوبی است.
+این یکی مشکل است. That's a difficult one.
+این یکی از مشکل‌هایش است.
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1156 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: the one who; the ones who; the one about sb -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+These are the difficult ones.  شیاه‌لکشم by!
+هستند.
+this one oh این یک. این
+these ones این‌ها. این یکی‌ها
+that one ol آن یک. آن یکی.
+those ones LSS ol آن‌هاء
+which one کدام, کدامش ee کدام
+which ones یکی‌ها, کدام‌ها, کدامشان plas
+I want the red one. آن قرمز(ه) را می‌خواهم.
+آن یکی را که قرمز است می‌خواهم.
+the grey ones خاکستری‌ها, خاکستری‌هایش
+the Holy One SW باری SS خدای
+my dearest one +S tS oe عزیزم. عزیز دلم!
+You're a one! محاوره) عجب ناقلایی هستی! (
+5 a lS
+the one who / which آننَ که. آن = / جیزی که
+the ones who / which J آن کسانی a8 آن‌هایی
+چیزهایی که
+the one on the floor آنی که روی زمین است.
+آن (یکی) که روی زمین است
+the little ones کوچولوها lado
+the one about sb/sth : جوک دربارةٌ کسی / چیزی
+one? /wan/ (به عنوان مقعول یا پس از حرفی اضاقه . pron
+ECE (PERTH pH برای جلوگیری از 155 لسم)
+po! شخص, فردء
+= (رسمی) .¥ < John is one who must be invited. >
+انسان
+one of HS
+no one of هیچ یک از هیچ کدام از
+every one of هر کدام از CICS PE
+(the) one after the other یکی بعد از دیگری
+one from another یکی از دیگری
+be all one to sb — ali?
+be at one (with sb/ sth) جیزی) / SL) |
+موافق بودن, (با کسی) هم‌عقیده بودن ۰
+get one over sb (محاوره) روی دستِ کسی زدن, ۱
+از کسی جلو زدن, نسبت به کسی دستِ بالا پیدا کردن |
+(You've) got it in one! (محاوره) خوب |
+پیدایش کردی! زدی به هذف! |
+I for one... من یکی مثلاً من» یکیش من |
+(all) in one S55 یکجا؛ ۱
+It's a pen, a pencil and a knife all in one. :
+(به طورٍ یکجا) هم خودکار و هم مداد و هم چاقو است.
+خودکار و مداد و چاقو با هم است. :
+one and all همگی B35 (کهنه, محاوره) همه, تک‌تک, :
+ii=see 1=sit m-cat a-=father D-got و
+e1= say W=go a1 = five au = now oi=boy 1m
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+77 one
+i Thank you, one and all! / 5 35 3 / 5S از
+همگي شما متشکرم / متشکریم!
+i one by one یکی‌یکی, یک‌یک, دانه‌دانه
+ا one up (on / over sb) و گردن بالاتز eS
+بالاتر (از کسی) dy از کسی). یک (
+i in/ by ones and twos یکی‌یکی. دوتادوتا,
+۱ تک و توک
+: I haven't got any stamps. Could you give me
+one? هیچی تمبر ندارم» می‌شود یکی پهم بدهی؟
+: The problem is one of moncy. پول dts مسئله
+: Cad
+be one for sth / doing sth برای چیزی / کاری
+چیزی / کاری Jal آدم کاری بودن؛ Og آدم مناسبی
+بودن, مرد چیزی بودن
+ِ One likes to see one's friends happy.
+آدم دلش می‌خواهد دوستانش را خوشحال ببیند.
+| | کاربردی: Ais
+معنای «شخص به طور کلی» واژه‌ای کاملاً «one Las
+| از ضمیر 6 ole مردم تعمولاً به pb است. pe
+در همین معنا استفاده می‌کنند. مثال‌های زیر نشانگر ۷
+َ همین تفاوت‌اند:
+One can do what one likes here.
+You can do what you like here.
+در انگليسي نوشتاری one pad ent افزون بر
+چه گفتاری برای پرهیز از تکرار گروه اسمی نیز استفاده
+می‌کنند:
+The reason is basically an economic one.
+هم هنگامی استفاده.می‌کنند که دو صفت ones از ضمیر
+برای مقايسهٌ چند چیز به کار رفته باشند. البته در انگلیسی
+نوشتاری و رسمی» بهتر است از این کلمه استفاده نشود:"
+He buys German rather than British cars. ©
+(رسمی)
+He buys German cars rather than British ones.
+(غیر رسمی)
+صورت‌های 0۳6 و 0065 را «som, در گفتار و نوشتار
+در موارد زیر به‌کار نمی‌برند: ;
+Mary's و your ails بعد از صورت ملکی کلمات. .۱
+مگر این‌که بعد از صورتِ ملکی صفت آمده باشد:
+This is my car and that's my husband's.
+My cheap camera takes better pictures than his
+expensive one.
+هرگاه تفاوتی را با در صفت نشان دهند: .۲
+The students compared British with American
+universities.
+Lor در گفتار یا نوشتار غیررسمی» جملةٌ زیر رایج‌تر از
+بالا است:
+۲ 000006 00100 A=cup.. 3-bird  5= about
+: ۵2۳ €3= hair U9 = pure ela = player aro = fire
+0= thin 8 = this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1157 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: one-armed bandit; one-horse race; one-man band; one-man show; oneness; one-night stand; one-off; One P; onerous; oneself; one-sidedly; one-sidedneSS; one-time i'wAll taun; one-track; one-track mind; one-upmanshlp; One-way; one-woman; Onion; on-licence I 'on larsns; onlooker -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+one- 117
+The students compared British universities {
+with American ones.
+۱ ۳ بعد از کلمات ithose these
+Do you prefer these designs or those? |
+dar ۱ بالا بسیار رسمی‌تر از جمله مشابهی است که در آن از
+8 استفاده شده باشد:
+or those ones? : ...
+: چه در obs رسمی چه در obs غیررسمی. اسم‌های one
+i و ones را بعد از which به کار می‌برند تاء به ترتیب, 5301
+i معنای مفرد یا جمع کنند:
+Here are the designs. Which one / ones do you :
+prefer? ۱
+: یک تک - > one-/wan/ > a one-act play
+8 یکدیگر همدیگر one another /wan smada(r)/
+one-armed bandit / wan a:md ‘bendt/
+| 7 (در بریتانیا) جک پات
+| 24 [گاری ] تک‌اسیه. one-horse /wan 'ha:s/
+| کته
+| ( مجازی, به مسخره) pre مرده, a one-horse town
+| شهرٍ سوت و کور
+one-horserace / wan hos ‘reis/ Bln
+Slips لو معلنم
+۶ (محاوره) متلک, one-liner / wan 'lama(r)/
+خوشمزگی, تیکه. مزه. لوتّر
+adj تک‌نفره, یک‌نفره» یک‌تنه wan ‘men/ / 0۳۵-۲3۲۱
+n ارکستر one-man band / wan man 'band/
+تک toi (مجازی) کارٍ یک‌نفره
+I run the business as a one-man band.
+( مجازی) تمام کارها را خودم یک‌نفره / یک‌تنه اداره
+می‌کنم.
+n نمایش اناد" one-man show / wan man
+یک‌نفره» نمایش تک‌نفره؛ (مجازی) کار یک‌نفره
+This business is a one-man show.
+( مجازی) تمام این کارها را یک نفر می‌چرخاند. پشتِ
+تمام این کارها یک نفر است.
+n وتقهت)) یگانگی, یکی بودن oneness /'wannis/
+one-night stand /wan nant 'stend/ (Fs) n
+نمایش یک‌شبه؛ (موسیقی) اجرای یک‌شبه ۲.(محاوره)
+Ail, یک‌شبه, سکس یک‌شبه؛ (شخص) سکس
+i i 25S
+one-off / wan 'of, (US) 1 Lawl nad)
+(چیز ) استشنایی, SU(m)
+mn (سکهٌ) یک پنی 1 ۵/۱۳۸۵ one
+one-parent family / wan pearont ‘fazmol1/
+1 خانوادةٌ تک‌سر پرست. خانوادةٌ با ولی منفرد
+A adi [لباس ] one-piece / ‘wan pi:s/ S550
+oH Xn یک‌تکه؛ مایوی یک‌نکُد
+
+<!-- REGION: RIGHT COLUMN -->
+
+ONEIOUS /'bnoras/ «BLE (رسمی) دشوار, سنگین, Af
+als طاقت‌فرسا.ء
+oneself /wan'self/ خود. خوبشتن
+< one's ability to wash oneself >
+(all) by oneself Sw به تنهایی. تنهایی؛ بدون
+agg دیگران, به
+one-sided / wan ۱۶۵:4:۵/  ]هریغ [عقاید. داوری و .۱ adj
+غیرمنصفانه؛ ilo ad یک‌طرفه, slay
+ab S ] [شخص ] مُغرض, غرض‌ورز ۲. [سابقه
+Hla
+one-sidedly / wan ‘sardidl1/ طور 4 adv
+lite ib جانیه. مغرظانه. Sy یک‌مانبد‌ای.
+one-sidedness/ wan ‘sardidnis/ [تصمیم, داوری و 4
+] غیره] یک‌جانبه بودن, مغرضانه بودن؛ [شخص
+غرض‌ورزی, طرفداری, جانب‌گیری
+one-time /'wan taim/ سابق, که روزگاری ... بوده adj
+قدیمی., ( مربوط به) دورانِ گذشته, پیشین Sam!
+one-to-one / wan ts 'wan/ یک 4 یک؛ 0
+[ترجمه ] کلمه به کلمه
+one-track /'wan trak / (راء‌آهن) تک خطه. 7
+یک‌خطّه
+one-track mind / wan ذهن 01 ما۲ on
+تک‌بُعدی, ذهن تک خطّی
+have (got) a one-track mind ید Ws مجازی) (
+داشتن SASS یک چیز فکر کردن, ذهنِ
+one-upmanship/ wan 'apmonjip/ (مخاوره) 7
+قلدری؛ آقابالاسری, خان‌بالاخانی
+one-way /wan 'wer/ ] [خیابان. حرکت و غیره .۱ adj
+یک طرف [ant] ۳۲ یکسره [BL] .۲ یک‌طرفه
+آینه؛ [آینه ] یک طرف شیشه
+راه را SOF adv
+I'll go by boat one-way. یک راه را با قایق می‌روم.
+رفتن را با قایق می‌روم.
+one-woman /'wan 7 یک زنه؛ [5,2] adj
+یکه‌شناس
+۵۱90921 whe در دستِ اقدام, در
+| تکوین Jl جاری. موجود؛ در
+onion /'anjan/ پیاز
+| know one's onions — know
+a spring onion پیازجه
+on-licence /'on lassns/ (در بریتانیا) جواز 7
+پیاله‌قزروشی
+۱۵۳۰۱۵۵/۵۵ ‘lam/ Ls داخل (Ga) ad)
+:  رتویپماک کامپیوتری, وصل به کامپیوتر» مجهز به
+i onlooker /'onluka(r)/ تماشاچی. تماشاگر .۱ a
+شاهد. گواه 7
+i only! /'aunl1/ تنهاء یگانه, یکنا 4
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1158 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: onomatopoeia; onrush; OnSet; onshore; onside; onslaught i'onsht; on-stage; on to; onto; be onto sb; ontological; ontology; onUS; onward; onwards; onyx; oodleS; ooze -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+1
+one and only — one’
+an only child یک‌دانه. By تک‌فرزند, تک‌بجّه,
+یکی‌یک‌دانه ds
+تنها و تنها 1 م0۷۷۶ Us bis gs adv
+only to do sth درست زمانی که, به محض این‌که.
+7 pd
+I arrived at the shop only to find I'd left all
+my money at home. ۰ همین که / به محض اين‌که
+PAE رسیدم 4 تغازة دیدم کیفم را دز خأنه جا
+for sb's eyes only — eye!
+if only — if
+not only ... but also نه تنها / نه فقط ... بلکه
+Not only was it dark, but it was also foggy.
+تاریک که بود هیچ مه‌آلود هم بود. تاریک بود سهل
+هم بود. dlls است,
+only have eyes for sb; have eyes only for sb
+— eye!
+only just همین حالاء تازه, تازه همین حالا ۱
+< He only just caught the train. > به زحمت ۲
+only too به‌راستی؛ fa Sats خیلی,
+<I shall be only too pleased to help. > of بیش از
+You're only young once. آدم فقط یک بار
+جوان است. ادم فقط یک بار به دنیا می‌اید.
+only yesterday همین دیروز
+only? /'sunli/ جز آن‌که. ais (محاوره) اماء ولی. 7
+الا این‌که. سخوّای اين‌كة
+He would come too, only he's ill. مي‌آمد. اما
+مریض بود. مریض است. وگرنه می‌آمد.
+ONO / ۵۶ en اند > or near offer (NS در فروش (
+یا (چیزی):در این حدود. يا به بالاترین پيشنهاد
+onomatopoeia onamatapiza/ زبان‌شناسی) نام‌آوا ( 7
+onomatopoeic (زبان‌شناسی) سر adi
+نام‌آواییء ( مربوط به) نام‌آوا |
+an onomatopoeic word نام اوا
+onrush /'onraf/ تند؛ ob ] (رسمی) [آب 2
+سیل, سیلان» فوران pom وغیره] cman]
+onset /'onset/ پورش pas حمله, .۱ |
+[زمستان, بیماری و غیره ] شروع» آغاز ۳.(آواشناسی) ۲
+SEAN
+onshore /'onjo(r)/ [باد] رو به ساحل ad) |
+۲.ساحلی i
+به طرفي ساحل ۴. در ساحل PR رو به ۳ 2۵20
+onside /onsaid/ lad (فوتبال) در موقعیتِ 64600 |
+be onside بودن Sled آف‌ساید نبودن, در موقعیتِ ۱
+onslaught /onsloit/ هجوم. ,5( تاخت das nn
+ii=see 1=sit  @=cal a=father b=gol om sa
+el = say W=_go al = five ay = now 91 = boy 19:
+ava = hour j=yes w= wet tf = chain ds= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+79 ooze
+i on-stage /.on 'sterds/ در صحنه Amo رزوی 0
+: on to /'on ts, 'bn tu:/ = onto
+i onto /'bnts, ‘bantu: / (روی)» بر» روی uN prep
+: 4 wd به طر .۲ < Water was dripping onto the fioor. >
+: < The crowd ran onto the pitch. > سوی
+: be onto sb/ sth D351 کسی JL (محاوره) ۱
+lor در تعقیپ کسی بودن ۲. با کسی حرف زدن ۳ به
+| پی بردن» از چیزی بو بردن, متوجّه چیزی شدن, چیزی
+کسی شدن, سرنخی از چیزی به دست آوردن Saws
+۵60۵ a good thing محاوره) 4 نوایی رسیدن, (
+| نان کسی تو روغن بودن
+i ontological / هستی‌شناختی» ,مداد ad)
+مربوط به) هستی‌شناسی (
+: ontology / ۵۶ (فلسفه) هستی‌شناسی. / بدا 7
+وجود oun
+0008 /'sunos/ Shad nes وظیفه 1 ies) #
+onward /'onwad/ [حرکت ] رو به جلو .۱ adi
+ٍ جلو, به پیش Ob رو به جلوء به ۲
+| > from lunchtime onward > طرف oy) بعد. به 4 ۳ adv
+0۲۷/2۲05 /'onwadz/ طرف جلو, 4 yl 4 رو ۱ 0
+بعد. به آن طرف ay به پیش
+ONYX /'oniks/ سنگی سلیمانی, باباقوری»
+چشم‌پلبلی ie
+oodles /'u:diz/ (محاوره) یک عالم» خروارها 2
+oomph /umf/ (محاوره) ۱. سرزندگی» روحیه, 21
+تشاط, شور و شوق ۲ جاذبة جنسی ۳ جاذیه,
+جذّابیت» اقسون
+0026 /u:z/ 3S روغرق و غیره ] شنت al) A Wi
+بیرون زدن» تراوش کردن» ریختن, درامدن,
+چکیدن؛ [خون, چرک ] امدن
+خون ] پس دادن ۳ (منجازی) [اعتماد. دشمنی و To .۲
+غیره ] پخش کردن» پراکندن, ساطع کردن» بیرون دادن
+JAS #ر ۴.لای و لجن, گل و لای ۵.(زمین‌شناسی)
+۶.(رسمی) تراوش, جریان, جاری شدن mle
+ooze with sth ] (مجازی) [اعتماد. دشمنی و غیره
+از (کسی / چیزی) ساطع شدن, از (کسی / چیزی)
+باریدن, از (کسی / چیزی) بیرون زدن
+writing oozing with hostility نوشته‌ای که از
+آن دشمنی می‌بارد / می‌تراود
+His voice oozed sarcasm. از صدایش نیش و کنایه
+می‌بارید / می‌تراوید. صدایش نیش و طعنه به اطراف
+می‌پراکند.
+ooze away [مایع ] ریختن» رفتن .۱ 7
+فروکش کردن» کم شدن.؛ Losi اشتیاق و ops] ۲
+تحلیل رفتن
+۲ u=cook ۷:۶ 100 A=cup 3:< 01۳0 o=about
+near €2 = hair Ua = pure ero = player aro = fire
+6= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1159 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Opacity; opaqueness I ou'petknts; have; keep -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+op 118
+۱ 4 [مایع ] بیرون ریختن, خارج شندن؛  ناه 0026
+Om زدن, درآمدن, بیرون تراویدن
+2 (محاوره پزشکی) عمل op’ /op/ < operation
+: 7 (موسیقی, نیز Op? /'aupas/ < opus (Son,
+پوس
+[azz] A a مات بودن؛ opacity /avpasati/
+: کدر بودن, کدری, تار 103m تاری, Eg ۲
+(مجازی) ابهام؛ پیچیدگی
+Jil | (<نوعی Som نیمه‌قیمتی) opal /'aupl/
+adj (رسمی) opalescent/ avpaesnt/ ol
+قوس و قزحی. متلوّن, رنگارنگ
+Nad | [شیشد ] مات؛ کدر, UG تیره opaque /aspek/
+| ۲ [نوشته. جمله و غیره ] مبهم؛ پیچیده, مشکل؛ زکعلّمه ۲
+ٍ تیره
+(ges adv | پرابهام. به ابهام؛ opaquely /su'perkir/
+| پیجچيده
+opaqueness /oupetknis/ = opacity
+fbn بصری op art /'op a:t/
+(در ارجاع) اثر فوق‌الذکر, op cit op 'sit/
+اثر پیش‌گفته, کناب سابق‌الذکر
+OPEC /aupek/ > Organization of :
+n اویک. Petroleum Exporting Countries
+سازمان کشورهای sas ole نفت
+NY ad) ]0 چشم. کتاب و غیره ] open’ /'supan/ Ob
+گشوده؛ [گل ] SL شکفته ۲. dn] فضا و غیره] Sha
+ازاد ۳. wil] مدرسه و غیره] بازء دایسر ۴. [اتومبیل,
+کالسکه ] روباز» کروکی؛ [i] باز؛ [چاه] سرباز ۵.
+hb] بحث, رقابت و غیره ] آزاد. عنمومی. هنمگانی؛
+[فروشگاه] که ورود به آن برای عموم آزاد است.
+ورودازاد؛ [دادگاه ] علنی #. PUCCINI FRETS
+غیره] علنی» اشکار ۷. ans] شخصیّت] صادق,
+روراست. بسی‌غل وغش؛ oS) صسزیح؛ [رفتار ]
+صادقانه. بی‌شیله پیله. بی‌غل وغش ۸. [ams]
+حل‌نشده, که هنوز جای بحث دارد 8 [پارچه و [opt
+درشت‌بافت, cold
+GL las .۱۰ فضای آزاد: هوای آزاد
+[ درء پنجره ] ناگهان باز شدن, flow open
+gas باز شدن, یکمرتبه باز شدن
+]0 پنجره ] ناگهان باز شدن, : burst open
+با سر و صدا باز شدن
+sik باز کردن, درقی باز کردن؛ crack open
+[بسته و غیره ] شکستن
+[ذر, گاوصندوق و غیره ] شکستن؛ break sth open
+به زور باز کردن, شکستن و باز کردن
+[ لباس ] یقه‌باز open at. the neck
+دکمه‌های پالتویش باز بود. His coat was open.
+حواس خود را جمع  keep one's ears/ eyes open
+
+<!-- REGION: RIGHT COLUMN -->
+
+)
+کرذن» دقت کردن, چشم‌های خود را باز کردن, مواظب
+بودن
+keep an eye open —> eye!
+keep a weather eye open + weather!
+leave the door open —> leave’
+آدم صاف و ساده. آدم بی‌شیله پیله an open book
+ادم صاف وساده‌ای His mind is an open book.
+است. اد بی‌شیله پیله‌ای است.
+wide open — wide
+with one's eyes open —> eye
+with open arms — arm’
+در هوای:باز / آزاد. بیرون؛ in the open air
+[استخر ] روباز
+در فضای باز, خارج از 43 in the open country
+sol آزاد. آب‌های بین‌المللی the open seas
+ice 3] انتخاب و غیره ] برای کسی be open to sb
+وجود داشتن, برای کسی امکان‌پذیر بودن, در اختیار
+CoS
+ورود برای عموم آزاد است. It's open to the public.
+The course is not open to women.
+زنان نمی‌توانند این درس را انتخغاب RS
+۰ . آزادی که قبول نکنی. It's open to you to refuse.
+مختاری که رد کنی. می‌توانی قبول نکنی.
+چندین Several choices are open to them. ol;
+بسرای آن‌ها وجود دارد. چندین انتخاب دارند.
+انتخاب‌های مختلف دارند: :
+[جا, مکان ] در...را sth open (to sb) ۳0۷ ۰
+به روی کسی / به روی همه باز کردن, به کسی / به همه
+۰ اجازه دادن که به..:وارد شود / شوند؟ [جاسه, بحت و
+غیره] به کسی / به همه ... اجازه دادن که در... شرکت کند
+کنند.ا . ْ
+دیگر همه می‌دانند که ...: ... It's an open secret that :
+اظهرمن‌الشمس است کهد... :
+eb به تاریخش Let's leave the date open!
+تصمیمی نگیریم! تاریخش را مشخص نکنیم!
+Cady = بلیتٍ بی‌تاریخ i an open ticket
+این پُست هنوز خالی است. {This post is still open.
+ol شغل هنوز هست؟ Is the job still open? :
+آمادة i have / keep an open mind / hes
+پذیرفتنٍ نظراتٍ تازه بودن؛ تصمیم نهایی نگرفتن؛ RET
+چیزی را باز نگه داشتن :
+one's options open —> option 1006 / جوم
+پيشنهاد هنوز به The offer is still open. SP |
+خود باقی ات ol پيشنهاد هنوز پابرجاست. i
+خود ,}> 540 be/ lay oneself (wide) open to :
+معرض چیزی قرار دادن پذیرای چیزی بودن, آمادة
+Jd چیزی بودن ۱ ا
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1160 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: be open to offer I offers; open one's; open one's heart; open into -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+می‌شود شک کرد It's open to doubt whether...
+که.... جای تردید هست که...
+isla شنیدن توصیه هستم. I'm open to advice.
+Ai اشتباه می‌کنم  I'm open to correction, but...
+بگویید. )1 ممکن است اشتباه کنم, ولی...
+[ساحل و غیره ] بادگیر open to the winds
+۱ ( نظامی) در معرض حمله open to attack
+آماد؛ Ohad وان 7 be open to offer / offers
+پيشنهادات بودن
+bring sth (out) in / into the open
+[ راز و غیره ] علنی کردن» برملا کردن, فاش کردن
+بیرون بودن؛ be (out) in / into the open
+در فضای آزاد بودن؛ (مجازی) فاش شده بودن, علنی
+شده بودن
+بیرون آمدن, come (out) in/into the open
+به فضای آزاد آمدن؛ (مجازی) فاش pad علنی شدن,
+برملا شدن, از پرده بیرون افتادن
+جیزی را come (out) into the open about sth
+فاش کردن, چیزی را برملا کردن
+WN ۷4 [در, کتاب, چشم و غیره ] باز کردن» open? /supan/
+گشودن؛ ama] [ در ...را برداشتن؛ [a] باز کردن؛
+[بالتو, [es دکمه‌های ...را باز کردن؛ [قبر] نبش
+کردن ۲. [معدن, تونل, چاه ] حفر کردن, کندن؛ [جاده ]
+ساختن, باز کردن, کشیدن ۳ [حساب بانکی ] باز
+کردن, افتتاح کردن؛ da] کلاس ] شروع کردن.
+آغاز کردن؛ [صحبت. مذاکره ] سر ...را باز کنزدق.
+با ...را گشودن ۴. [فروشگاه, بیمارستان و غیره] باز
+کردن. aad کردن؛ دایز کردن, تاسیتن کردنٌ؛
+[کسب و کار ] راه انداختن ۵. [ساختمان, مراسم ] افتتاح
+کردن
+4 ۶. [در وغیره] باز شدن» گشوده شدن ۷. کل و غیره ]
+باز شدن, شکفتن ۸. [فروشگاه, بانک و غیره ] باز Oa
+lad] شدن؛ باز بودن ada] .٩ کلاس و غیره ] شروع
+gus اغاز gues
+open one's /sb's eyes to sth + eye
+چشم کسی را بر open sb's mind to sth.
+روی چیزی باز کردن؛ کسی را به چیزی علاقنند کردن
+[خشم. غصه و غیره open the flood-gates of sth  ]
+به ... میدان eels (oly طْغیان ... شدن, یکمر تبه سر ...را
+باز کردن, SA A شدن ... شدن؛ [انقلاب ] esl
+Ain GS کبریتی شدن و در خرمن ... افتادن؛
+[ قحطی, بیماری ] باعث شدن که... از JAS خارج شود
+Js HF خود را باه open one's heart /mind to
+پیش کسی باز کردن / گشودن, با کسی درددل کردن,
+sai 255 را با کی زدن
+1-sit m=cat a=father D0=got oi=s 0سا
+er=say  ou=go al=five av=now or=boy It
+aus = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 open
+open fire (at /on) 5S شلیک کردن, تیراندازی
+(4) آتش گشودن
+the heavens opened هنگام بارندگی) درهای (
+اسمان باز شد
+Open Sesame! 1,2 باز rosea هزار و یک شب) 52)
+openinto/onto sth «a [در و غیره] باز شدن Wr
+راه داشتن به
+open (sth) out [شرکت. مژسسه ] توسعه دادن .۱ ۷
+دادن Cras
+[5a] FF Bhd page TS بهق‌تر [ole] ۳۶۲ ۰
+.۴ پدیدار شدن, نمایان شدن, جلوه‌گر شدن
+شدن؛ Soe Wad [شخص ] اجتماعی‌تر
+] شرکت aug] .۵ آشنا شدن dbase خودمانی
+گسترش یافتن (BL توسعه
+open 0:4 to sb  ندرک با کسی ارتباط / رابطه برقرار
+open (sth) up باز کردن, گشودن .۱ we
+از 05,5« افتتاح کر دن؛ [ont 5 [فتروشگاه ۲
+ساختن؛ «03S جاده ] باز Wl] ۳ کردن el
+[جنگل و غیره ] راه کشیدن به ۴. [معدن, زمین ] آماده
+بهره‌برداری کردن, شروع به بهره‌برداری
+از ...کردن ۵. [امکانات. فرصت‌ها و غیره] پدید
+فراهم 03,8 به وجود آوردن» ایجاد 03,51
+کردن
+راحت شدن. (AE (محاوره) روی کسی باز .۶ Vi
+.۷ خودمانی شدن, راحت حرف خود را زدن
+شکفتن,۹. od باژ شدن: گشودن.۸. کل ]از
+oda] .۱۰ [فروشگاه و غیره ] افتتاح شدن, باز شدن
+و غیره ] امادةٌ بهره‌برداری شدن ۱ شروع به
+کبردن ۱۲. [فزست: SLE (OS تیراندازی
+Waal امکانات ] پدید آمدن, پیدا شدن» فراهم
+به دست آمدن
+open up a country for trade تجاری را SUI
+برای کشوری فراهم کردن
+open (sth) with sth ] [داستان و غیره 4
+شروع کردن با ۲. شروع شدن با .۱
+کاربردی: AS
+برای باز کردن و بستنِ انواع open و shut close افعال
+۱ چشم» در پنجره, جعبه, بطری, مغازه و oles di چیزها
+به‌کار می‌روند. ol جز
+به معني شروع کردنٍ جلسات و مذاکرات نیز 0000 Jab
+به معنی cose Jad هست اما در این معنی تنها در مقابل
+1 فعل Hla ity به پایان رساندن قرار می‌گیرد
+Madam Chair, I think we should close the
+meeting at eight. :
+به ترتیب, 4 باز کردن و بستن do up و undo افعالي
+w  u=cook 00100 A=cup a=bird a= about
+= near eo=hair  va= pure eo = player aia = five
+8= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1161 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: open house; open-air; open-and-shut; opencast; open city; open day; open-door; open ended; opener; open-eyed; open-handed; open-handedly; open-hearted; open-heart surgery; Opening; opening hours; opening-time; open letter; openly; open market; open-minded; open mindedness; open-necked; openneSS; open-plan; open prison; open question; open sandwich -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+open-air 11
+دکمه‌های لباس. بندٍ کفش و نظایرِ آن اشاره دارند:
+She did up her boots / shirt.
+افعال turnon turn off به باز کردن و بستن آب 3
+38 اشاره دارند.
+افعال switch 0۳ switch off برای روشن کردن یا
+خاموش کردن وسایل الکتر یکی به کار می‌روند:
+Turn that radio off.
+She opened her laptop and switched it on.
+فعل Open up به معنی پدید آوردن. فراهم آوردن
+فرصت‌ها و SU تازه است:
+to open up the world of higher education کسام
+to people from poor backgrounds
+4 در فضای open-air / span ‘ea(r)/ ob
+در هوای ازاد؛ pal] غیره ] Sl روباز
+ad) اشکان بارزء  open-and-shut/oupon an ‘fat/
+اظهر من‌الشمس, از روز روشن‌تر
+Woe} adj استخراج ] opencast/supanka:st, (US) -kast/
+Hl) سطحی, روزمینی
+1 (در supon ‘tfek/ Oh Se (Gly, / 60۵6۳-۵۱۵0۵
+Sr تفدگرّدنی
+1 (نظامی) A بی‌دفاع 1 open city / supan
+۸ روز بازدید همگانی ۸ ددم / open day
+adj (سباسی, اقتماد) درهای open-door / 20030 ‘doi(r)/
+باز؛ (سیستم و غیره) باز
+adj [بحث و غیره ] ازاد.  open ended /20030 ‘endid/
+SL نامحدود؛ Slant BG [alan]
+1 ۱.(در $5 وسیله) - بازکن / opener /'aupna(r)
+a bottle-opener > >؛ (شخص) بازکنندةٌ کسی که ... باز
+Hess X25 a
+(در XS Jal محاوره) برای for openers art
+برای دستگرمی
+0 با چشم باز؛ open-eyed/ supon ‘aid/
+(در تعجّب, وحشت و غیره) با چشم‌های از حدقه
+درامده ۲.(مجازی) با چشم‌های ob به دقت. با
+حواس جمع
+open-eyed in astonishment; in opcn-eyed
+با چشمان گردشده از تعجب astonishment
+adj دست‌ودل‌باز, open-handed/ supsn 'hendid/
+سخاوتمند. گشاده‌دست
+0 با دست و 1 دنام open-handedly/
+دل باز, با گشاده‌دستی: سخاو تمندانه
+8 1 دنام open-handedness/
+۸ دست‌ودل‌بازی, سخاوت. گشاده‌دستی
+adj صادق, روراست. 'ha:tid/ 006۲-11۵2۲160/,3002
+بی‌غل و غش؛ خوش قلب. مهربان
+open-heart surgery /,supon ha:t 'sa:dsorr/
+n (پزشکی) جرّاحي قلب باز
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+۸ خانه‌ای که درش بد open house /aspon hass/
+روی همه باز است
+مهمان‌نواز keep open house PLE BERNER"
+باز بودن
+7 ۱.(در دیوار, در و غیره) شکاف. opening /avpnig/
+las [sts Bil 535 al, hs ورودی ۲.
+[کتاب. فیلم ر غیره ] شروع» اول, اغاز ۳ [در, نامه ons
+باز کردن, گشودن؛ [جنگ, تبراندازی ] شروع, آغاز ۴.
+زُل ] شکفتن» باز شدن ۵. [فروشگاه, کتابخانه و غیره ] باز
+males last otal sus مراسم oles!
+افتتاحیه ۶.(اداری) جای خالی, ced خالی ۷.
+فرصت مناسب. موقعیتِ مناسب, فرصت ۸.
+oS (Ja) اول
+J) 8 ad) نخست, نخستین ۱۰.(مربوط به) افتتاح,
+افتتاحیه, ( مربوط 4( oles
+mpl [بانک, فروشگاه و opening hours /'aupniy avoz/
+غیره ] ساعات کار
+opening night / supnty nart/ { Fs)
+شب افتتاح
+۸ ۱. [بانک. فروشگاه و /1۵۱۱۱ opening-time /ospniy
+cel [Ls شروع کار ۲.ساعت باز شدن
+Coby ps pe
+۸ نامه شرگشاده 1( open letter / supan
+(sds adv علناً, آشکارا openly /'asponit/ Liat,
+به صراحت. بی‌پرده. رک و راست؛ پیش همه.
+ool
+۸ بازار آزاد open market / supan 'ma:kit/
+kes adj از open-minded / 30030 ‘maindid/ «laa
+روشن, با Gav dan دارای دید باز
+open mindedness / supon ‘mamdrdnis / Aa 1
+صدرء دید بازء بی تعصبی
+0۷ (مجازی) با open-mouthed / span ‘mavdd/
+دهانی 13 بهت‌زده, شگفت زده: مات و مبهوت
+با دهانی باز از تعجب in open-mouthed surprise
+adi [پیراهن ] aupan nekt/ Shai / 00611-۳۵06۵
+۱. صراحت؛ صداقت. 005
+بی‌غل و غشی ۲. [زمین ] i So iS باز بودن ۳
+PRC AR
+dan صدر, بلندنظری openness of mind
+adi (معماری) ai] ساختمان, plan/ 030ن2,/ 00911-01211
+اداره ] بدون ols باز
+۸ زندان باز" open prison /aupon ‘prizn/
+open question / supan ۵۵ / Aa 2
+حل‌نشده, مسئله‌ای که هنوز مشخص نیست.
+pos Aes
+open sandwich / upon 'senwids, (US) ‘senwitf /
+n ساندویچ 5b
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1162 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: open sesame; operable; opera-glasseS; opera-house; Operate; operatically; Operating System; operating-table; operatinq-theatre; operationsroom; operative; operator -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+open sea /supan اه Los وسط nn
+open season /oupan siizn/ صید. Jab n
+
+فصل شکار
+(sma) n جواز Open sesame / aupan ‘sesami/
+OE اسم عبورء اسم شب. کلید
+Being the boss's daughter is an open sesame to every <
+job in the firm. >
+Open University / supon junrvaisatt /
+n دانشگاه the Open University ob
+دانشگاه مکانبه‌ای
+۸ (حقوق) حکم open verdict / supon 'va:dikt/ NERY
+محکومیت, حکم بدونٍ تعیین مجرم
+4 (آواشناسی) مصوّت  vaval/ دود / open vowel
+ashy ob باز
+1 ا.(در پارچه) open-work /'aspan wak/
+برودری‌دوزی؛ تور ۲.(در جوب. آهن و غیره)
+مشبّک‌کاری
+ad) ۳ [یارچه ] برودری‌دوزی؛ [تور] سوراخ‌درشت؛
+[جوراب ] توری» گیپور ۴. [فلز, چوب ] Sita
+ایراً opera’ /'vpra/
+opera? /'opara/ pl of opus
+4 ۱. قابل‌کاربرد. عملی, operable /'oporabl/
+قابل‌استفاده ۲.(پزشکی) عمل‌کردنی, قابل‌جراحی
+opera-glasses/'opra gla:siz, (US) glastz/
+1 (در نثاتر یا اپرا) دوربین
+بر (تالار) opera-house /'opr> 5 LI
+[ans] (gy) vi کار کردن. operate /opareit/
+Jos کردن ۲. [دارو عوامل, تبلیغات و غیره ] مور 03
+کارگر بودن» عمل کردن؛ [شرکت. [amor فعالیت
+داشتن, باز بودن ۳ [شرکت. سازمان ] EY شدن ۴.
+(پزشکی) عمل کردن, جرّاحی کردن ۵. [سربازان,
+ناوگان ] دست به عملیات زدن, عملیات کردن؛
+[پلیس, دزد و غیره ] فعالیت داشتن
+[en] .۶ ۷ به کار انداختن, کار انداختن.
+راه‌انداختن ۷. [شرکت. سازمان ] اداره کردن, گرداندن
+rsa A شدن, gel ...شدن, به بار آوردن, به
+دنبال داشتن
+Such a law will operate considerable changes. > >
+(پزشکی) کسی را Jas کردن, operate on sh
+کسی را جرّاحی کردن
+کار کردن be operated
+(پزشکی) Had loa عمل شدن be operated on
+(a bye) Near) ady آپرا operatic / pporatk/
+0 ۰ به لحاظ آپرایی. . operatically /oparaukis/
+از جنبةٌ lyf ۲. مثل بازیگران Lif
+ود m=cat =father .D=got لمح
+five au = now oI = boy 1 ]0 اي < ناه ¢I = say
+sia = hour j= yes w= wet tf = chuin d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 operator
+operating room /'oparcitig rum, wm/ (US)
+= operating-theatre
+operating system /'oporeitiy sistom/  )رتویپماک( 22
+سیستم عامل
+operating-table/vpareitty teibl/ (پزشکی) تخت un
+عمل, تخت جرّاحی
+operating-theatre/ vparcitiy 01ata(r), (US)
+Oiota(r)/ slo اتاق Jee (پزشکی) اتاق 7
+operation طرز کار مرو عمل؛ اس ۱
+عمل؛ [دارو] تأثیر, اثر ۲. [سازمان: شرکت ] اداره؛ SIS
+.۴ فغالیت. غمایات ۳, mes گزاداندن:؟ [آترر] کر
+جرّاحی. عمل ۵.(بازرگانی) (loa Jas (پزشکی)
+Jos شرکت ۶.(نظامی, نیز در جمع) عملیات ۷.(ریاضی)
+be in operation 33 کار J دستگاه ] در [
+فعالیت Jo کار کردن؛ درست بودن؛ [شرکت و غیره ] در
+Sor Lom بودن, فعالیت داشتن؛ باز بودن؛ [قانون و
+خود باقی بودن LF بودن, معتبر بودن, به
+come into operation دستگاه ] به کار افتادن, [
+راه افتادن, شروع به کار کردن؛ [شرکت ] شروع به
+] خود را شروع کردن؛ [قانون cull فعالیت کردن,
+شدن, اجرا شدن؛ [نقشه. تصمیم ] عملی شدن J pens
+bring / put sth into operation [دستگاه ] به کار
+JUS ] انداختن, راه انداختن, روشن کردن؛ [شرکت
+معمول کردن, اجرا کردن. به جریان [os کردن؛ ]056 و
+انداختن؛ [ تصمیم, نقشه ] عملی کردن
+in full operation دستگاه, کارخانه ] با تمام ظرفیت؛ |
+] تواتایی؛ [قانون Slam [شرکت و غیره ] با تمام یرو. با
+Ss
+operations rescarch تحقیق عملیاتی
+the four operations اصلی = Je
+operational /pporerfonl/ (نظامی و غیره) ۱ (amy) 4[
+عملیاتی, ( مربوط به) عملیات ۲. مادةٌ استفاده»
+عملیات Solel امادةٌ بهره‌برداری؛ (نظامی)
+operational costs هزینه‌های بهره‌برداری
+operational research تحقیق عملیاتی
+operations room /opo'ret/nz rum, 7 (نظامی) n
+اتاق جنگ oles aU
+operative /'oparatty, (US) cet سمی) ۳ A adj
+] [قانون ] قأابل|اجرا؛ مجراء جاری؛ [تصمیم, نقشه
+عسملی؛ [تأسسات. دستگاه] ad Js
+کار J قابل‌بهره‌برداری؛ در
+مخفی, جاسوس, عامل sola .۳ (رسی) ۲. کارگر
+the operative word ’ کلیدی dS
+operator /'vparerta(r) / ] [دستگاه. تجهیزات .۱ 2
+تلفنچی, اپراتور؛ [ob] .۲ مأمور» مسئول sega
+Ww امس u:=t00 aA=cup 3=bird = about
+= near ea=hair  va= pure cra = player ara = fire
+0=thin = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1163 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: operetta; ophthalmia; ophthalmic; ophthalmic optician; ophthalmologist; ophthalmology; opiate; have a good; take; opinionated; opium; opp; opportune; opportunely; opportunism; Opportunist; opportunistic; Opportunity; OppOSe; oppose sth to; opposed; opposing; opposite; play; opposite number -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+va
+operetta 11
+[تلکس ] اپراتور؛ [تلگراف ] متصدی ۳۰ [شرکت. کارخانه و
+غیزة] مدیز, گزدانننده؛ صاحب ۴. (محاوره, شخص)
+> He's a clever operator. > حقه, کلک؛ آدم
+a travel operator شرکتِ مسافرتی
+operetta / pparets/ & (مو سیقی) پر 2
+600۳۱۳۵۱۲1۵ /of'9zimra/ (پزشکی) افتالمی. ۸
+rz التهاپ
+ophthalmic /0۶021۳:/  )هب (مربوط (Se) adj
+چشمی (plik 7
+ophthalmic optician /ofezlmik op'tifn/
+: بینایی‌سنجی gaa n
+ophthalmologist ofzImoladsist/ S25 aia 7
+ophthalmology /pfzimoladst/. . چشم‌پزشکی 1
+ophthalmoscope / of ozimaskasp/ (Say) n
+آفتالموسکوپ. چشم‌سنج
+opiate داروی حاوی تریاک /0131:د/ (ay) 1
+> the opiate of alk day delevision > (مجازی) افیون .۲
+حاوي تریاک ۴. مخدّر, خواب آورء آرام‌بخش ۳ ad
+opinion /spinian/ SSS wh عقیده» نظر, . 7
+عمومی ۳ نظر SSE باور ۲.عقيدةٌ عمومی, عقاید.
+’ : کارشناسی, عقیده
+be of the opinion that... (رسمی) بر این عقیده
+بودن که.... بر این باور بودن که.....معتقد بودن که...
+one's considered opinion — consider
+have a good / high opinion of sb/sth «4 را اجع
+کسی / چیزی خوب فکر کردن
+have a bad / poor / low opinion of sb/ sth ۱
+راجع به کسی / چیزی بد فکر کردن
+in one's opinion; in the opinion of sb عقیدة 4
+کسی, به نظرٍ کسی, به اعتقادِ کسی
+a matter of opinion + matter! ; . :
+be of sb's opinion با کسی هم‌عقیده بودن؛
+با کسی همدلی داشتن, با کسی mals کسی را fade
+: موافق بودن
+take / get a second opinion : باایک شخص .
+کردن. پیش یک شخض دیگر هم ارفتن. Ste Ko
+را هم خواستن Gf نظرِ شخص
+opinionated /spmmnertid / . (به تحقیر ) خودرای, adj
+مستبد, متعصّب., کله خشک .
+opinion poll /spmion paul/ نظرسنجی,
+نظرخواهی, سنجشي افکار
+opium /‘sspram/ . تریاک؛ افیون ۸
+OPOSSUM /:00:۵/  قیراس آپوسوم, ساریگ, 2
+(<نوعی جانور کیسه‌دار)
+OPP /'opazit/ < opposite ~
+opponent/opsunont/ رقیب, حریف, هماورد» N 2
+خصم, طرف )1523( ۲.مخالف Jlis طرفي
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+(رشمی) opportune /'bpatju:n, (US) -tu:n/
+۱ [وقت. زمان ] مناسب. مقتضی ۲. Jae] حرف..حادثه ]
+بجاء به‌موقع, مناسب, به‌مورد. بهنگام. درخور
+adv در /'opatju:nl, )]715( 1 ora ۵۵0۵۲۳۷
+مناسب, در موقع مقتضی, به‌موقع, بجاء به‌مورد.
+بهنگام ۱
+opportunism / ppstju:nizam, (US) -tu:n-/
+فرصت طلبی» این‌الوقتی؛ (سیاسی) اپور تونیسم
+opstjunist, (US) -tun-/ / 6۵۵۵۲۳۵51
+فرصت ‌طلب. ابن‌الوقت؛ (سیاسی) Ces)
+opportunistic / ppstju:nstrk, (US) -tu'n-/ :
+adj فرصت طلبانه. اپورتونیستی
+opportunity / opstju:natt, (US) -'tu:n-/
+(pl opportunities) JU PS ANGIP PURINE
+take the opportunity to do sth/ of doing sth
+از فرصت / Cand ge استفاده کردن و...
+make the most of one's opportunities
+از موقعیت‌های / فرصت‌های خود؛بیشترین استفاده را
+کردن, وقت را Cat دانستن
+wr ۱ مخالفت oppose /spavz/ 03S
+ضدّیت کردن باء روینارویی کردن باء اعتراض
+کردن به: ۲.(رسمی) رقابت کردن باء مقابله کردن با
+(رسمی) چیزی را در oppose sth to / against
+مقابل... قرار ob چیزی را در برابز... گذاردن, چیزی .
+را رویاروی... گذاشتن
+ad) مخالف. متضاد قاس رت هه 0(
+مخالفی, مخالف باء ضدٍ opposed to
+در (lis بر عکس as opposed to
+I am here on business as opposed to
+من اینجا برای کار آمده‌ام نه برای تعطیلات. pleasure.
+adj [منظره و غیره ] مقابل» روپرو؛ opposing /opavzin/
+[بازیکن ] طرفي مقابل» رقیب, حریف
+ad) ۱. [خانه صفحه و [op روبرو» opposite /opazit/
+«Jilin روبرویی ۲. [جهت. نظر, قطب ] مخالف؛ [معنی ]
+متضاد
+adv ۳ آن روبروء طرفي Res آن طرف
+۴ مقابلي, روبروی» برابر
+1 ۵.(چیز, ) مخالف, Oo عکس؛ (كلمهٌ) متضاد
+مقابل, رویروی, برابر opposite to
+دو میز ’ opposite ends of the table
+در re > یگر on the opposite side of the road
+جاده ’ :
+جنس مخالف the opposite sex
+ایا بکاتر ) نقش play / appear opposite sb
+Ble کسی رابه عهده داشتن / بازی کردن
+7 (اداری, / opposite number / opozit ‘namba(r)
+سیاسی) Lian
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1164 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: opposition; oppositional; oppress; oppression; oppressive; oppressively; oppressor; opprobriOUS; opprobriouslyla'praubrrash; opprobrium; ops; opt; optic; optical; optical fibre; optical illusion; optically; optician; optics; optima; optimal; optimise; optimism; optimist; optimistic; optimistically; optimize; optimum; option; optional; opulence; opulent; opulently; opus; or -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+۸ ۱. مخالفت؛ مقاومت opposition /,opazifn/
+Y مخالفان. Nori daca > As, مخالف. 25 a9
+رقیب: ۳ (سیاسی, نیز با حرف بزرگ) جناح مخالف.
+آپوزیسیون؛ احزاب مخالف؛ حزب مخالف, حزب
+رقیب؛ نمایندگان مخالف. نمایندگان جناح مخالف
+۴ رسمی) تقابل, تضاد ۵.(ستاره‌شناسی) مقابله
+در جناح مخالف, در آپوزیسیون in opposition
+حزب مخالی the party in opposition
+مخالفی؛ بر خلافی, در مقابل, in opposition to
+در برابر؛ در تضاد باء در تقابل pod مخالفت با
+ad) (رسمی) متقابل, متضاد oppositional /ppazifanl/
+۷4 ۱. ظلم کردن به. ستم کردن /apres/ «pn 000۳685
+تحت فشار قرار دادن؛ سرکوب کردن. جور کردن
+بر» تعدّی کردن به ۲. [شخص ] ازار gals اذیت
+کردن, فشار اوردن بهء پریشان کردن
+ad) ستمدیده, ستمکش, مظلوم oppressed /sprest/
+BACHE VOM مردم the oppressed 0d date
+مظلومان
+«Wb (pi) 7 جورء نعدّی. Oppression /opre/n/
+SPX GY J WC مظلومیّت. PLACE ۳
+پریشانی, تشویش, ناراحتی, افسردگی
+adj ظالمانه. ستمگرانه, oppressive /spresiv/
+غیرعادلانه؛ جابرانه» مستبدّانه؛ [مالیات ] LI
+شاق ۲. [نگرانی, اضطراب ] غیرقابل تحجّل, تحمّل -
+ناپذیر؛ [هوا]گرفته» سنگین؛ [گرما] خفه‌کننده»
+طاقت‌فرسا
+adv 44 طرز ظالمانه‌ای» /:307687۷1/ oppressively
+به طرزٍ جابرانه‌ای ۲. به طرز تحمل‌ناپذیری, به
+oo) pe طاقت‌فرسایی
+1 ستمگر, ظالم, ستمکار . oppressor /spresar/
+جبّار؛ فرمانروای J حاکم ستمگر
+adj (رسمی) [کلمات. سخن opprobrious /307۵007728/  ]
+زشت. rE توهین آمیز» شرم‌اور» موهن؛
+تحقیرامیز
+0 (رسمی) به زشتی» opprobriously /apravbriasli/
+به pio به خواری
+2 (رسمی) ۱. رسوایی.  /3073007:20/ opprobrium
+ننک tools خفت. خواری. تحقیر ۲ اهانت؛
+نکوهش, سرزنش
+2pl (محاوره, نظامی) عملیات /pps/ > operations 0085
+vt تصمیم گرفتن (که) 1 opt
+wr انتخاب کردن, اختیار کردن opt for sth
+۶ (محاوره) شرکت 03,5 opt in
+Vi (محاوره) بیرون آمدن, شرکت نکردن» optout
+کناره گرفتن
+ود 1=sit @®=cat a:=father Dp=got معا
+er = say av =go ar = five aU = now s1=boy It
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 or
+optic /'opuk/ (رسمی) (مربوط 4( چشم. ad)
+مربوط به) بینایی (
+optical چشمی, بصری ۲.(فیزیک) ام .۱ ad]
+نوری Sun
+an optical lens عدسی, عدسی آپتیکی
+optical art / ppuki 'a:t/ هنر بصری 4
+optical fibre /.optikl 'faba(r) / فیبر نوری
+optical illusion /opukl rlusn/  هرصاب خطای a
+optically /opukli/ با ابزارهای بصری؛ به لحاظ 0
+بصری؛ به لحاظ نور
+001[012۲/0۳4/0/ .  شورف‌کنیع Sluis) 1
+بینایی‌سنجی. بینایی‌سنج alate ۲
+optics /'bptiks/ نورشناسی» آپنیک 1
+optima /'bptima/ p/ of optimum
+optimal /'bptimal / بهترین» مناسب ترین؛ (
+VM CA مطلوب,
+optimise /'optimarz/ = optimize
+optimism /'optimizam/ Us
+optimist /'optimust/ آدم خوش‌بین
+optimistic ۱ [شخص ] خوش‌بین؛ اراس هد adj
+[نظر ] خوش‌بینانه
+optimistically / pptrmustiklr / خوش‌بینانه. adv
+با خوش‌بینی
+optimize /'optimarz/ (رسمی) بهینه ساختن, V2
+بهینه کردن
+optimum / مسا / ( p/ optima, optimums)
+بهترین. مناسب ترین؛ مطلوب, مناسب A adj
+مطلوب, بهترین حد Jo .۲ ۸
+option /'opfn/ قدرتِ انتخاب. lasts a
+امکان گزینش ۲ انتخاب, IC حق انتخاب.
+فروش Ga شق ۳.(بازرگانی) حقی خرید؛ ol) امکان,
+I've little option but to چاره‌ای جز رفتن ندارم..0ع
+keep / leave one's options open خود را باز Cus
+گذاشتن, دستِ خود را نبستن
+optional /'opfonlt/ teal اختیاری. adj
+opulence /opjulans/  ییاراد ثروت. توانگری؛ .۱ 7
+[مو گیاه ] فراوانی» انبوهی, وفور ۲
+opulent /opjulont/  .لّومتم (رسمی) ۱. ثروتمند.
+گرانبهاء [asl] تعرانگنق دارا؛ [زندگی] مجلل؛
+گیاهان ] آنبوه» پرپشت se] ۲ گران‌قیمت
+opulently /opjsiontl/  اهبنارگ مجلل, با اثائية 0
+OPUS /'aupas/ ) pl opera) ۱.(موسیقی) آپوس ۸
+هنری Sl (mr) ۲
+0۳:01 > Is it green or blue? > نیا این‌که LN conf
+Wy وگرنه, ۲
+w  u=cook u:=too A=cup 3 010 a='about
+= near €3 = hair U9 = pure era = player aia = fire
+6= thin d= this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1165 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: oracle; oracular; Orangeman; orang-outan; orate; oration; oratorio; orchard; orchestra; orchestra pit -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+oracle 11
+das ۳.(در < Tum the heat down or your cake will bum! >
+منفی ) و نه
+I need a new coat _ or do 7 یک پالتوی تازه
+احتیاج دارم - یا واقعاً دارم؟
+either...or — either
+or else وگرنه. والاً ۲. (محاوره) وگرنه ۱
+هرچه دیدی از چشم خودت دیدی
+or rather بگویم Feb ERED یا به عبارتِ
+or so یا جیزی در این حدود
+< We stayed for an hour or so. >
+or somebody Bus pS Kal (محاوود)
+or somewhere از این نوع ve (محاوره) یا یک
+or something محاوره) یا جیزی تو این مایه‌ها (
+somebody or other محاوره) یک کسی (
+somewhere or other (محاوره) یک جایی
+something or other Se (محاوره) یک
+a...or two <a minute or two >... 53 یکی
+whether... or... ; whether or not ~» whether
+IIe can't read or write. (5) می‌تواند بخواند &
+نه بئوینتد.
+
+7 ۱.(در بونان باستان, مذهب) ۳-7 oracle /'orakl, (US)
+MEPS وٌخشگاه, معبد ۲.(در یونان باستان, مذهب)
+پاسخ غیبی, ندا ۳.(در یونان باستان مذهب) وخشگر.
+کاهن, غیبگو ۴.(مجازی) آدم صاحب‌نظر, آدم clas
+آدم وارد؛ ay) مسخره) Jie کل ۵ در تورات)
+قدس‌الاقداس ۶.(در بریتانیاء کامییوتر, با خرف بزرگ)
+اوراکل
+
+(محاوره) با کلک موفق شدن work the oracle
+al] ad) الهام ] غیبی / oracular /orakjsta(r)
+۲ [ جمله. جواب ] مبهم, NEC دوپهلو؛ مشکل
+4 ۱. [امتحان, [cle شفاهی ۲.(پزشکی) / اند / oral
+(مربوط به) دهان, دهانی ۳.(آواشناسی) دهانی
+Xn امتحان شفاهی
+قرص is بارداری oral contraceptives
+adv ۱ به طور شفاهی. ANP / اند / orally
+سینه به سینه ۲ (دارو) از sl, دهان, از طریق دهان
+(روی دارو) برای استعمال Not i be taken orally
+خارجی. غیرقابل‌خوردن
+
+orange /'oninds, (US) 2:r-/ پرتقال؛ درختِ .۱ 7
+
+پرتقال ۲. نارنج ۳.(رنگي) نارنجی ۴ آب پر تقال
+ad) ۵.نارنجی (رنگ)
+درختِ پرتقال an orange tree
+dle 55 ۸ پرتقالی /۳:د, orangeade/ prindserd, (US)
+orange-blossom /‘orinds binsom, (US) ۳7
+۸ بهارنارنج, شکوفهٌ پرتقال
+Orangeman/ windsmen, (US) >r-/ pl Orangemen)
+۲ اورانویست )= درایرلندٍ شمالی, پروتستانِ طرفدار پیوند با بریتانیا)
+
+<!-- REGION: RIGHT COLUMN -->
+
+36
+نارنجستان, / orangery /'orindsar, (US) ‘oir
+باغ مرکبات؛ BLAS مرکبات ٍ
+اجه orange squash /orids ‘skwof, (US)
+(در (ke آب پر تقال, شربتِ پر تقال
+orang-outan /s;rxy u:'teen, (US) aren 1 ٍ
+orang-utan = |
+/وهاد orang-outang/o: ran u'tan, (US) aren |
+orang-utan = |
+i orang-utan /o.ray u'ten, (US) ary a'tan/
+اورانگوتان |
+vi ۱.سخنرانی کردن. اد orate / 00۷ (US)
+نطق کردن ۲.(به مسخره) روضه خواندن, بالاای منبر |
+رفتن |
+1 (رسمی) سخنرانی, نطق, oration /sreifn/ alas
+7 (رسمی) ناطق, خطیب؛ orator /'orata(r), (US) oir-/
+سخنران, سخنور
+/ مرن oratorical/ vrotwrikl, (US)
+4 ۱.(رسمی) [سبْک. نوشته ] (lalla a خطابه‌مانند ۲.
+[رفتار ] خطیب‌ما بانه؛ [جملات ] پرطمطراق, مُغلق
+رقابت در سخنئوری an oratorical contest
+oratorio / uration, (US) ۵:۳/ ( pl oratorios)
+1 (موسیقی) اوراتوریو
+ERIN n کوچک 1 (1(5) oratory’ /'pratin,
+ob n خطابه؛ 1 (115) oratory? /'pratri,
+خطابه, نطق, سخنرانی, سخنوری
+۸ ۱.(کهند. ستاره‌شناسی) کره ۲.گوی ob/ob als
+(GT چشم؛ Cr pe
+7 ۱.(ستاره‌شناسی. فضانوردی, فیزیک) مدار orbit /obit/
+۲ (کالبدشناسی) Boo چشم. کاسه چشم ۳.(مجازی)
+دایرة نفوذ. das اختیارات, مدار قدرت
+Savi در مدار... قرار داشتن, در مدار... حرکت کردن.
+به ورام Ode ۵ [سفینه | در ماو قرار دادن
+vi ۶. [هواپیما و غیره ] دور زدن» چرخیدن
+ad) ۱.(ستاره‌شناسی. فبزیک, فضانوردی) ۷7 0۲۱۱۱3
+(#مربوظ laa (ay مداری ۲. [جاده] کناوگذره
+کمربندی
+7 ۳.(در بریتانیا) ( sls (gx mS (asks اکتا زگذر
+ارکستر 0۲۵۵۱/۵۳3
+orch? /'>kistrenid / > orchestrated (by)
+تنظیم‌شده برای ارکستر (توسط)
+/o:kestral / > orchestral 0۲۵۳3
+۸ باغ (میوه) orchard /'5:tfad/
+۱. ارکستر ۲.(در آمریکا, orchestra />kisio/  (;\5
+ردیف‌های درجه یک
+4 ارکستری؛ / orchestral /5:kesirol
+( مربوط به) ارکستر
+2 )55( جایگاه ارکستر orchestra pit /okistro pit/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1166 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: ordain; ordeal; put; call sb; gd one's -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+orchestra stalls />:kistro sto:lz/ (;\s) mpl
+ردیف‌های درجه یک
+۷ ۱.(موسیقی) برای ارکستر orchestrate /okistrert/
+تنظیم کردن ۲. جفت و جور کردن, Sales کردن:
+[تظاهرات و غیره ] ترتیب دادن, طراحی کردن.
+سازمان دادن سازماندهی کردن
+تنظیم‌شده برای ارکستر (توسط) orchestrated (by)
+n ۱ تنظیم برای / s:kisirer fn موادت وه
+omens | آرکس راون Sales ٩ 3558
+SEE مها ری سازماندهی ۳. زمینه چینی. توطئه
+(AN تعلب ۲. (گل) ارکیده 0۲۳۵
+orchis /'a:kis/ = orchid ۱
+hit کیش OES] بُه کشتیشی ا ۱1 وه
+منصوب کردن. لباس کشیشی به تن ...کردن ۲.
+(رسمی) مقدّر کردن, از پیش رقم زدن؛ دمَرّر داشتن
+a ۱. آزمایش سخت. ازمون /4:۱:د ordeal /5:dith,
+He lg دشوار, امتحان, مصیبت ۲.(کهنه.
+حقوق) امتحان
+Non نظم. ترتیب, سامان؛ 006۲6
+نظم و ترتیب ۲. نظم, انضباط ۳ دستور, فرمان. امر؛
+۱ حقوق) حکم ۴.(بازرگانی) سفارش ۵.(بازرگانی) کالای
+سفارشی. سفارش ۶.(مالی) حواله؛ حواله کرد ۷.
+ands] مجلس و [ont دستور حلسه. دستور کار
+LL, کار؛ مقرّرات ۸.(رسی) plas (اجتماعی).
+ola (اجتماعی )؛ (به مسخره) طبقه ٩.(زیست‌شناسی)
+راسته ۱۰.مقام, مرتبه ۱۱.نشان ۱۲.(مذهب) مرتبه
+(wx) NY > the Order of Deacons / Priests / Bishops >
+فرقه. مسلک ۴ در بونان و روم باستان, معماری) WS
+شیوه ND (رسمی) نوع. قسم ۱۶.(سذهب) iy yd
+روش, شیوه. مسلک
+به تر تیب in order of
+بچیزی را مر تب کردن, put / leave / set 5111 in order
+به چیزی نظم و ترتیب دادن به چیزی سر وسامان دادن
+in apple-pie order — apple-pie
+be in running / working order
+[دستگاه ] خوب کار کردن, روبه‌راه بودن
+درست بودن, اشکالی نداشتن be in order
+( رسمی) برای این‌که. به خاطر این‌که.  inorder that
+به اق,مقصود که.ربة shite ,اپریکه. اقا
+برای این‌که. تا, که in order to do sth
+in/into reverse order — reverse!
+in short order — short!
+( رسمی, برای بیان اندازه) of / in the order of
+در حدود. رازه
+نامنظم. بههم‌ر بخته out of order
+ 2i=S رک با ‘Thee
+cles say a =go a1 = five ay = Now ot =Dbaoy 1
+hour j= yes w= wel tf = chain d3= jam = 452
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 order
+be out of order [دستگاه و غیره ] خراب بودن ۱
+.۳ (رسمی) [مسئله و غیره ] خارج از دستور بودن .۲
+رفتار ] نادرست بودن, غلط بودن [
+a/ the pecking order — peck’
+put 7 set one's (own) house in order — house
+call sb / sth to order — call?
+law and order — law
+Order! Order! نظم را رعایت کنید! آرام باشید!
+keep order نظم را برقرار کردن
+keep sth in order نظم را در ... برقرار [ok [کلاس و
+کردن, مرتب نگه داشتن
+My orders prevent me from doing that.
+این کار برخلافی دستوراتی است که به من داده شده
+است.
+be under orders )10 do sth) دستور داشتن (که).
+(4S) مأموریت داشتن
+under the orders of le تحت امر. تحت
+زیردستِ
+under starter's orders — starter
+by order of ol به دستور, به فرمان, به حکم, به
+حسب‌الامر, بنا به دستور
+get one's / give sb his maiching Sildens
+— marching
+an order to view بازدید lel از خانة فروشی) (
+take orders from sb از کسی دستور گرفتن,
+کسی بودن Phys تابع
+have (got) sth on orders: جبزی را سفارش داده
+(made) to order سفارشی
+to the order of حواله کرد 4, ۱
+be in order to do sth (رسمی ) در دستور
+بودن که..., در دستور بودن که...؛ As East کار تردن
+مُجاز بودن که...
+the order of the day [جلسه. مجلس [ دستور روز
+کار, دستور جلسه pis
+to order طبق دستور جلسه
+holy orders مراتب روحانیت مسیحی
+be in (holy) orders کسوت روحانی / Ll در
+بودن, کشیش بودن
+take (holy) orders جامهٌ / کسوتِ روحانی
+به تن کردن, کشیش شدن
+02 AS) دستور دادن به .۱
+که؛ دستور ...را a امر کردن به / که. فرمان دادن
+حکم aS دادن. فرمان ... را دادن؛ (حقوق) حکم دادن
+صادر کردن کسه ۲. (بازرگانی) سفارش دادن:
+شروب ] سفارش دادن Jie] ۳ سفارش ...دادن
+Ww v=cook  u: So atop الاو a=: about
+= near ea = hair vo = pure e1a = player a= fire
+0= thin ۵+ this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1167 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: order sb in; order sb out; crder-book; order-form; orderlineSS; order-paper; ordinal number; ordinance; ordinarily; ordinary; ordinary level; ordinary seaman; ordination; ordnance; ordnance factory; Ordnance Survey; ordure; ore; organ; organdie; organdy; organ-grinder; organic; organic chemistry; organisation; organisational -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+order-book 11
+دستور ...دادن ۴ (رسمی) [زندگی, فکر و غیره ] نظم و
+ترتیب دادن به, سامان دادن. نظم دادن به
+VE ۵.(در رستوران و غیره) چجیزی سفارش دادن؛ غذا
+سفارش.دادن؛ نوشیدنی سفارش دادن
+به کسی دستور دادن که وارد شود / order sb in
+بیاید توه کسی را به درون خواندن
+به کسی دستور دادن که خارج شود / order shout
+برود بیرون
+v2 مر و نهی کردن به. order sb about/ around
+دستور دادن به. Kos کردن به
+۸ (ورزش) (از Coren اخراج کردن order sb off
+2 [پلیس, سزبازان ] دستور order sb out
+گشت‌زنی دادن yes cag مداخحله دادن به
+zn (بازرگانی) دفتر order-book /'»:ds buk/ aT RIA
+ad) منظم, بسامان, مرتب و منظم  ordered /o:dsd/
+نامنظم, بی‌نظم, اشفته, درهم‌ریخته.  badly ordered
+ريخته و باشیده
+n (بازرگانی) 0 سفارش. order-form/:ds fo:m/
+درخواستِ سفارش
+7 [زندگی, اتاق و غیره ] / orderliness /%:dalins
+نظم. نظم و ترتیب
+۱. [اتاق, زندگی و غیره ] منظمء orderly /'5:dal1/
+مرتب» مرتب و منظم؛ [شخص, ذهن ] hia منضبط
+Come] ۲ و [ot آرام, منظم
+Sx a (بیمارستان) ۴. (نظامی) گماشته» مصدر
+7 (در بریتانیا, مجلس) / order-paper/'s:da perpa(r)
+دستورجلسه
+۱. [عدد] ترتیبی ordinal /%:dinl, (US) -denl/
+8 ۲. عددٍ ترتیبی
+1 ادلی ordinal number /5:dml ‘namba(r), (US)
+عددٍ ترتیبی
+(رسمی) فرمان, اس ordinance /':dmans/
+دور حکم
+ordinarily /':donralr, (US) o:rdn'erali/
+adv .به طورِ عادی, به ob معمولی؛ عادی, معمولی
+pana ¥ به sob معمول
+بیش more than ordinarily A Jl
+ordinary /'s:donr1, (US) 's:rdonert / (5) gone AN adj
+عادی XY )0 سخره) [غذاء آدم ] معمولی, متوسط
+۳ چیز عادی, امر عادی
+در Ls عادی, in the ordinary way
+اگر اوضاع عادی بود
+غیرعادی, استشنایی out of the ordinary
+1 (108) باه ordinary level /'5:donrr
+=O level
+ordinary seaman / o:donrr 'si:xmen, (US) |
+ِ 7 (نظامی) مهناوی سوم / oirdonert
+
+<!-- REGION: RIGHT COLUMN -->
+
+38
+7 (مذهب) ordination / o:drner fn, (US) -dn'ex/n/
+مراسم اعطای رتبه‌های مقدّس
+۱۶ توپخانه ۲. اسلحه و /:dnans/ ۵۲۵۲۱۵۵6۵
+مهمات ۳ (رسته) آردنانس, ادارة آردنانس |
+ordnance factory /s:dnans ‘faktri, 'fektorr /
+# )55,8( اسلحه‌سازی, مهمات‌سازی
+Ordnance Survey /o:dnons 'saiver/ (Gls, , 58) 7 |
+سازمان جغرافیایی {io سازمان نقشه‌برداري
+کشوری
+(amy) 72 [انسان, حیوان ] ordure /'s:djua(r), (US) -dsor/
+مدفوع, کنافت
+nr سنگي معدن, کانه ore /a(r)/
+1 مرزنجوش» oregano /prigainay, (US) areganas/
+مرزنگوش
+2 ۱.(موسیقی) ارگ؛ (کهنه) ارغنون  organ /sgon/
+۲ (کالبدشناسی) اندام». عضو ۳ (رسمی) وسیله, Obl
+[do] نهادء ارگان ¥ (رسمی) [حزب و غیره] OE
+ارگان رسمی. نشریه ۵.(به شوخی) CIV (جنسی)
+(پارجچهة) / :ود (US) بتلمهو دا organdie
+ارگاندی
+(US) ‘2:rgand1 / (US) : ,تلع :د/ organdy
+organdie =
+mn نوازندة / organ-grinder/s:gan gramda(r)
+Sl دستی
+adj ۱.(رسمی. پزشکی) عضوی organic /o:'genik/
+۲ (شیمی) آلی ۳ Sus] و غیره] (مربوط به)
+LIL (مربوط به) موجودات جاندار ۴.
+[کشاورزی, کشت ] بدون استفاده از موادّ صنعتی؛
+[محصول ] که بدون استفاده از Mga صنعتی پرورش
+داده می‌شود. طبیعی ۵ لَکُل. وصداتجانقد [opty
+سازمان‌يافته, نظام‌یافته. دارای سیستم» تشکّل -
+cam ارگانیک, اندام‌وار. مُنسجم. یکپارجه.
+رتکدست ۶. Jol [cad wiz] ذاتی, نجذایی‌نا پذیر
+۷ [ تغییرات, توسعه, ساختار و غیره ] طبیعی
+نظریه‌ای که the organic theory of the novel
+رمان را موجود زنده ,2 Lk اندام‌وار ole)
+موجود زنده an organic being
+At \ adv از لحاظ / اا ۱۵ organically
+جسمی, عضوی, به لحاظ عضو ۲.(کشاورزی) بدونِ
+استفاده از موادٌ صنعتی, از راه‌های (sre با
+استفاده از مواّ طبیعی ۳ اساساً, ذاتاً ۴ به طور
+طبیعی
+Nt شیمی آلی organic chemistry /s: genik kemustrr/
+organisation /o:gonar'zer/n, (US) -nr'z-/ 8
+organization =
+organisational /s:gonarzerfonl, (US) -nr'z-/
+organizational =
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1168 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: organise; organised; organiser; organism; organist; organization; organizational; Organize; organized; organizer; organ-loft; orgasm; orgasmic; orgy; oriel; oriel window; orient; oriental; Orientalist; orientate; orientate sth towards sb; OrientatiOn; orienteering; orifice; origin; origirial; originality; original sin; origmate -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+organise /'s:ganaiz/ = organize
+organised /':ganarzd/ = organized
+organiser /'s:gsnaiza(r) / = organizer
+2 ۱. موجود organism /%:ganrzam/ wd)
+ارگائیسم ( زنده) ۲ uaz) )ادشتگاه, plas سیستم.
+سازواره, سازمان, اندام‌واره
+نوازندهة اژگ, ازگ‌نواز / دید / organist
+organization /s:gsnar'zet fn, (US) -nrz-/ ۰
+۱. سازماندهی, سازمان دادن ۲. سازمان‌مندی.
+ساخت. ساختمان منطقی. op oe! سازمان‌یافتگی
+۳ سازمان. pas دستگاه. سپستم؛ (در جمع)
+تشکیلات
+(US) -n1'z-/ ,8227261/0 ند / organizational
+bye) adi به) سازماندهی ۲. سازمند. نظام‌يافته.
+asl ll ۳. سازمانی, تشکیلاتی
+vt ۱.منظم کردن. مرتب کردن. organize /‘s:gonaz/
+نظم بخشیدن ۲. سازمان دادن» سازماندهی کردن؛
+[حزب. دولت. ارتش ] تشکیل دادن, پدید آوردن» بنیاد
+نهادن, تأسیس کردن ۳ id lp] و Lo ترتیپ
+دادن ۴. [کارگران ] Jez کردن
+۱. [شخص, سازمان و غیره]  organized /o:genarzd/
+منظم, Se منظم و مرتب ۲. سازمان eases
+سازمان‌یافته؛ از پیش سازمان داده شده ۳. [کارگران ]
+تشکل aly متشکل
+nn سازمان‌دهنده. گرداننده / 6۲931260727
+nn (در کلیسا) تالار  /۱۵:8 /'s:gan ۱۵8, (US) 0۵۲93-10۵11
+ارگ ’
+n اوج ol جنسی. آرگاستم 05
+ad ۱.(مربوط به) اوج orgasmic Io'gezmik/ od
+جنسی, (مربوط به) ارگاسم ۲. لذت‌بخش.
+ESE
+ad) (رسمی) ۱. [مراسم, مهمانی orgiastic/o:dsizstk/  ]
+(ale bol شادخوارانه ۲. [موسیقی و [om
+Glog uly pir وحشیانه
+8 ۱.(دریونان و روم باستان) آرژی orgy /'s:dst/
+«olde ۲ میگساری؛ edna عیّاشی, مجلس
+wd و فجورء شادخواری ۳ (محاوره) bl sl
+زیاده‌روی ۹
+7 (معماری) as پیش sal درد / oriel
+oriel window /:r1al 'windau/ = oriel
+۱.(ادبی) a مشرق, شرق  orient! /'amont/
+۲ با حرف بزرگ) مشرق‌زمین» آسیا ۳ (با (S330
+خاور دور
+orient? /'s:rrent/ (US) = orientate
+4 ۱.(مربوط 4( مشرق‌زمین» oriental /oimrentl/
+ii=see I[=sit z=cat a=father D=got O0:= sz
+go a1 = five au = now oI = boy 19 = ناه el = say
+av? = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+39 originate
+شرقی, (مربوط به) آسیا ۲.(مربوط به) خاورٍ دور
+.۴ مشرق‌زمین» آسیایی Jal (با حرف بزرگ) شرقی» ۳ 8
+چشم‌پادامی Gas خاورٍ دور؛ (به Jal
+شرق‌شناس. / ادا ند / زا0۳۵۵
+خاورشناس
+orientate /2:7:۵۸:۱/ [ساختمان ] رو به ... ساختن A wr
+جهت دادن pala جلب کردن. علاقمند کردن, ۲
+۳ [برنامه. کلاس ] برای هدفي خاصّی طراحی اکر5 ۳
+[دانشجو, نوآموز ] آشنا کردن
+orientate sth towards sb / sth [ برنامه. کلاس [
+برای کسی / چیزی برنامه‌ریزی کردن / طراحی کردن
+orientate oneself oS راه خود را پیدا ۱
+خود را تشخیص دادن, دانستن که شخص در Clad ye
+/ جدید آشنا کردن Jaa کجا قرار دارد ۲. خود را با
+آشنا شدن, خو گرفتن ols Gade
+orientated /3:۳:3010::۵4/ cay (در ترکیب) علاقمند
+گ؛ مور child-orientated > 4 پای‌بند 4( دلبسته
+> theory-orientated > مدان -بنیاد
+orientation / 2:۲7:1۵: /۸/ جهت‌گیری ۲ جهت Nn
+تشخیص موقعیّت ۴. آشناسازی؛ (sheer
+Comb ga روان‌شناسی) تشخیص ۵ SS 5 ER
+orienteering / pirian'tiarty / (ورزش) مسابقة 1
+جهت‌یابی
+orifice /'brifis/ (رسمی) [گوش و غیره ] سوراخ؛ ۸
+[لوله, معده و غیره] دهانه, مدخل
+0۲۱9۱ / سرچشمه. Joe Late ۱
+(por ابتدا ۲.(نیز در ST خاستگاه؛ اصل, ريشه؛
+اصل و نسب. اصل
+original /snidsant / ad 3l ۱.اوّلین. نخستین.» ad)
+ابتدایی ۲ [فکر طرح ] نوء بدیع» اصیل, [Je] اصلی؛
+۳ خلاق, اصیل, خاص Sn [hs mini] تازه؛
+[نوشته, نسخه, تابلو ] اصل, اصلی
+.۵ Jol اصلی, dss اصل, Aes ] [نقاشی, نوشته .۴ ۸
+[نوشته ] زبان اصلی ۶.(محاوره) آدم عجیب و غریب.
+پدیده» چیز
+originality /sndsonzlati / اصالت (S56 a
+خلاقیّت. نوآوری, ابتکار ۲
+originally /sridsanals / NSS به طر .۱ 0
+صورتی ابتکاری ۲. از اغازء Re صورتی اصیل, 4
+از ابتداء در ابتداء بدواء در اصل
+original sin /ondsonl 'stn/  .یلصا (مذهب) گناو 1
+گناهكاري ذاتی
+originate / 4 wo Seas vi
+ريشه گرفتن» ريشه داشتن؛ آغاز شدن
+«33S ابداع REPO (رسمی) مُبدع ... بودن؛ .۲ VE
+w  U=cook ui=too A=cup 3=bird a=about
+= near وع = hair U3 = pure ela = player  ara= fire
+6= thin 0 = this [=shoe 3= vision y= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1169 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: originalc from; orion; ornamental; Ornate; ornateness; ornithologist; ornithology; orphan; orphanage; Orris; orris-root; orthodox; Orthodox Church; orthodoxy; orthographic; orthcgraphy; orthopaediCS; orthopaedist; orthopedist; ortolan; Oryx; OS -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+originator 11
+باب کردن؛ [حادثه. نتیجه ] موجب ... بودن» به وجود
+اوردن, پدید اوردن, پدیداورندة... بودن
+[ رسمی) زا کسی originate from / with sb Le
+BU If از کشی سرجشنمه CK HI PR
+در یزی Ay داشتن: originate in sth
+از چیزی سرچشمه گرفتن, از چیزی نشئت گرفتن
+ی مُبدع. پدید اورنده., / 600
+RC باب‌کننده
+(پرنده) ۱. انجیرخوار, As اد oriole
+مرغ گیلاس ۲. انجیرخوارِ امریکایی
+(Aa Lb) اورلون 010
+a ۱.طلاسان XY چیز طلاسان 1 0۲۲۲۹۵۱
+۸ ۱.(رسمی) 5 (pm ارایش ornament’ /amamant/
+۲ چیز تزييني. dhl زیور» زیسنت؛ (در جمع)
+تزبینات. زینت‌الات؛ زیسورالات ۳.(مسجازی, ادیی.
+شخص. Lila ( er زیبایی: esl La Toons ota
+فخر
+mp ۷ کرد 0۲316۱2
+Lab! دادن, ell ینت (aS ریت wooly
+زینت بخش ... کردن
+ad) تزبینی» زینتی؛ / 0۲۱۵۲۱۵۲۱۵۱
+برای قشنگی
+Wy elm FN ,0۵00
+آرایش, زیور؛ تزیینات. زرو زیور
+4 ۱. پرزرق و برق» پرزرو زیور 06
+an] ۲ 5[ متقکلفت. pais پرطمطراق, مغلق
+Nady پرزرق و EF با زرق و برق /3:30۱:۱1/ ornately
+۲. [نوشتن ] متکلفانه, با تکلف, با طمطراق
+Nn زرق و برق 0۲3161655
+۲ [شعر, 5[ تکلف., ss
+(در آمریکا, محاوره) کله‌شق, مد /omart/ 0۲۳۱۵۲۷
+یکدنده؛ بدقلق؛ Gio
+ad) (مربوط به) 0۵۲۳:1۹۵۱
+پرنده‌شناسی, پرنده‌شنا ختی؛ پرنده‌شناسانه
+پرنده‌شناس / ادلا0 :2:0 ornithologist/
+پرنده‌شناسی / دد۵۱ :۵:۵ / ornithology
+[lo] .۱ (om) 4 پرطنین. 00
+مر دانه ۲. مُطنطن, بر AAD پرطمطراق
+tay a پدرمرده؛ بی‌مادر 00
+om ۷ شدن, پدر و مادر کسی دردن؛ be orphaned
+پدر کسی مردن؛ مادر کسی مردن
+orphanage ۱۹:5 / Sat, wan
+(ples) دارالایتام
+۷ زنبق زرد / Orris /'brs, (US) ‘ais
+Ag ۷ زنبق 5 (5ل0) orris-root / ۵۹ rut,
+adj (پزشکی) orthodontic /,۵:0340:۱:۲/ (a4 bg a)
+Ed -
+ار تودونسی. bg) 4( دندان‌آرایی
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+۸ (پزشکی) ُرتودونسی, | Orthodontics / o:0adunuks
+دندان‌آرایی
+متخصّص 0۵00۵
+ارو دنسر Laks دندان آرایی
+4 ۱. [رفتار, اعتقاد و غیره ] orthodox /:0adoks/
+رسمی, ca pd معمول, متعارف., مرسوم. tole
+درست. صحیح [pai] X دزسیت اسبریم میتی 7
+Teal) دوسیتاکمنی, هی Ss Br خی
+اد Orthodox Church /5:0aduks
+۲7 کلیسای از ندوکتن the Orthodox Church
+7 ۱. [رفتار, اعتقاد و غیره ] orthodoxy /'5:0advksi/
+متعارف بودن, پذیرفتاری, ستّنی بودن؛ درستی؛
+[#تسغصض,] mrs ینی,, XS SE SERS
+donde nad jo (BE مکغارف, Sie درست» boast
+متعارف, شیوهٌ معمول؛ عمل متعارف. عمل عادی
+JTC FW LX PARTE 4 8
+ot 7 خطنویس orthographer/s/0ngrafa(r)/
+adj (مربوط 4( دستگاه orthographic / »:0agrefik i
+خط, (مربوط به) خط, خطّی, (مربوط به) et
+Ohl املایی
+orthographic = / هدند 0۲۱۳۵۵۲۵۵۳۵۵۱۲
+۷ به لحاظ خط. /:0۲1۳۵9۲۵0۳102[[۷/3:036۲۸:۱:۲۱
+به Bld املاء ار نظل Lhd
+(an) 1 ۱.دستگاو orthcgraphy ۱:08:30 / as
+Jai شوه Sel رسم‌الخط ۲ املا؛ املای صحیح.,
+املای در ی
+(Seo) ad) ۱.(مربوط orthopaedic /»:0apidik/ (a
+ارتوپدی, (مربوط به) جرّاحي استخوان؛ ( مربوط
+(a شکسته‌بندی ۲.(مربوط به) استخوان,
+استخوانی
+جرّاحی استخوان orthopacdic surgery
+کفش orthopaedic boots re
+۸ (پزشکی ) ار توپدی.  /3:0301:0:0,/ orthopaedics
+جرّاحی استخوان؛ شکسته‌بندی
+ارتوپدی, 1 orthopaedist/
+cho استخوان؛ شکسته‌بند
+orthopaedy />:0apizdi / = orthopaedics ~~
+orthopedic / 5:03pi:dik / = orthopaedic
+orthopedics /»:0api:diks / = orthopaedics
+orthopedist’ >:0apixdist/ = orthopaedist
+orthopedy /'3:00p1:di/ = orthopaedy
+a ۱.(پرنده) 03,5 6 سرزیتونی / ortolan /'>:talon
+Shy .۲ زرده‌پره
+رن Js آفریقایی, 7 /'oriks, (US) 0۲۷
+گاوآهوی آفریقایی
+'es/ > ordinary seaman زا 081
+'es/ > Ordnance Survey با 092
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1170 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: OS; oscillator; oscillate; Osier; osmosiS; osmotic; osprey; osseous; ostensible; ostensibly; ostracize; be such an ostric; OT -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+'es/ < outsize 083/05
+(سینما) جایزهٌ اسکار Oscar /'bska(r)/
+wi . آمدن و رفتن, نوسان داشتن, oscillate /vsiten/
+نوسان کردن. تاب خوردن ۲.(رسمی. مجازی) [شخص |
+مردّد بودن؛ دودل بودن, متزلزل بودن؛ [عقیده. نظر ]
+Tae بودن» مرتب عوض OAL در نوسان بودن ۳.
+( فیزیک. برق) نوسان کردن
+۷ ۴. به نوسان دراوردن. تاب دادن
+oscillating current /'nstleiuy karant/
+۸ (برق) جریان Ses
+7 (رسمی) ۱. نوسان, oscillation/psiteifn/ (OU
+(ad, تکان ۲.(مجازی) [شخص ] تردید. دودلی,
+تزلزل؛ [عقیده, نظر [ بی‌ثباتی» تغییر ۳ (شیزیک. برق)
+نوسان
+oscillator /'osileita(r) / Sly (Sed) 7
+adj نوسانی / ‘psilatar ,هم / oscillatory
+۸ (فیزیک) oscillograph /osilagia:f, (US) -graef/
+نوسان‌نگار
+۸ (فیزیک) نوسان‌نما / oscilloscope /ssilaskaup
+7 (گیاه) سرخ‌بید. 77 (۱05) osier /'auzia(r),
+Je A ۱
+22 ۱.(زیست‌شناسی, شیمی) آسموز OSMOSIS /pzmausts/
+Y (مجازی) Al تدریجی, القای تدریجی. gi
+خزنده
+4 (زیست‌شناسی, شیمی ) آسموزی ید0۵
+فشار آسمو ی osmotic pressure
+n ای ماهیگیر 7 650۲6۷
+adj (رسمی) استخوانی؛ استخوان‌دار  /'vsias/ 60856005
+۱.استخوان‌سازی ossification /usifikeifn/
+۲ استخوانی‌شدگی؛ سخت‌شدگی. سفت‌شدگی,
+(Foun oo) FL سخت‌دلی «بسی wlan
+سنگدلی؛ au انجمادٍ فکری, تعصّب
+ossified) درد ام) / ناهد / ossify
+7 ۱. استخوانی شدن, تبدیل به استخوان شدن؛ سخت
+شدن ۲.(رسمی, مجازی, به طعته) متحجّر شدن؛ سخت
+(GAD خشن شدن
+۷ ۳. استخوانی کردن, تبدیل به استخوان کردن؛
+سخت کردن ¥ (رسمی, مجازی به lish متحجّر کردن؛
+سخت کردن, خشن کردن
+2 ۱. [دلیل ] ظاهری ostensible /v'stensabl/
+۲ آشکارء نمایان. ظاهری
+ad ظاهراً, به ostensibly /v'siensabli/ ab
+alll de بنا به ظاهر
+#(بدطت) تظاهر, ostentation / pstentier fn/
+۱ نمایش, خودنمایی, جلوه‌فروشی
+b= got i= sa لا که امه =see  1=sil |
+¢l = say AW =go a1 = five ay =now 21 = boy 13
+hopr j= yes w= wel tf = chain d3= jam = 2.12
+
+<!-- REGION: RIGHT COLUMN -->
+
+01 other
+ostentatious /psten'terfos/  .هویش طعنه) [ رفتار, 4) ad)
+نفرت, کوشش و غیره] نما یشی. متظاهرانه, تظاهرامیز,
+: مبالغه امیز؛ [شخص ] متظاهر, خودنماء جلوه‌فروش؛
+ِ [زندگی, جواهرات و غیره ] پر تجمّل. تجمّلی.
+پرزرق و برق
+0۵316131160 ماد ۱ ۷ ]با ۵ fash / به طور 0
+متظاهرانه‌ای. با خودنمایی, متظاهرانه
+03100-3۲۳۲5 / (پزشکی) / اب00 نداد n
+ْ وی :
+| IVR SY التهاپ مفاصل, استئو
+osteopath استئوپات, متخصّص اس امه n
+| استخوان‌درمانی
+(مربوط به) سا امه زعت دریه ad)
+استخوان‌درمانی, ( مربوط به ) استئوپاتی
+osteopathy / استئوپاتی» 7رد داد n
+’ استخوان‌درمانی
+ostler /'osla(r)/ (کهنه) مهتر 7
+ostracise /'ostrosarz/ = ostracize
+ostracism /ostrosizom/ طرد. از میان ۸۱ Gps) 7
+خود راندن؛ بی‌اعتنایی ۲ طردشدگی؛ انزوا
+ostracize /strasaiz/ (رسی) طرد کردن, راندن؛ 7
+خود طرد کردن؛ مورد pla خود راندن؛ از pla از
+بی‌اعتنایی قرار دادن
+ostrich /'vstrit/ شترمرغ .۱ on
+Js (محاوره) دم خوش ۲
+be such an ostrich (مجازی) مثل کبک سر خود را
+بستن Daily زیر برف کردن, چشم خود را روی
+OT / فاناد 'testomant/ > Old Testament عهد ۸
+تورات (Gate
+01۵۲/۵0 ole id BLY ۱.دیگر 4
+< That's true for Italy, but not for other countries. > دیگر
+XSL (در جمع) دیگران: کسعان دیگر؛ بقیه, X pron
+5 ۳ص
+دیگری
+some other time یک وقتِ دیگر, بعداً
+every other — every
+the other day روز بیش Ma
+the other morning چند روز پیش صبح.
+صبح چند روز پیش
+the other week چند هفته پیش
+the other month چند ماه پیش
+other... than سوای؛ / (TF Cel FF
+هر...دیگری جز / غیر از / مگر / الا
+Other women than Sally would have said
+nothing. غیر از / جز سالی PRON هر زن
+نمی‌گفت. WPS هیچ
+the other way round — way’
+۷ v=cook  ui= 0 A= cup m= bird a= abou
+- near ca = hair Ud := pure elo = player a= fire
+0= thin 0 = this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1171 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: somebody; other than; otherwise; Otiose; otter; ottoman; Ottoman; OU; oubliette; ouch; oughtn't to; ought to; Ouija; Ouija board; ounce I auns; ours; ourself; ourselves -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+other than 11
+the other one آن یکی دیگر ws Bao
+These shoes don't fit _ haven't you got any
+others? دیگری sla mas این کفش‌ها تنگند
+
+نداری؟
+SS کشی one or other
+شما و نه هیچ کس you and no other Sas
+somebody / something / somewhere or other
+or >—
+this, that and the other —> this
+one after the other — one? .
+0( جز این‌که. مگر این‌که.  other than /'a8s 8on/
+الا (این‌که)
+
+هیچ ... جز no other than
+هیچ کس دیگری جز. none other than
+هیچ چیزی جز
+
+She seldom appears other than happy.
+هميشه خوشحال به نظر می‌رسد.
+
+She can hardly be other than grateful.
+نمی‌تواند ممنون نباشد.
+
+0 ۱.به گونه‌ای دیگر, هت ناوت و ده
+به شکلی دیگر, به صورتی دیگر, Job دیگر, جور
+Kos ۲. از Sos Sle به جز اين» این به SoS
+این که oie ۱
+
+XY conf وگرنه. در غیرٍِ این صورت. والا
+
+yam ۴ adj دیگر. برعکس
+
+خلافی جچیزی را دانستن know otherwise
+
+otherwise than جز
+
+< | could not do otherwise than agree. >
+
+electrical or otherwise برقی و غیربرقی
+Montgomery otherwise (known as) Monty
+
+مونتگمری که به مونتی نیز مشهور است
+
+other woman /ads ‘womon/  هقوشعم مترس, 11
+
+other-worldly / طرز فکر ] 71 و۸۵ whic] adj
+جهانی؛ [شخص ] اخرت‌بین» در onl غیر (slo!
+بند آخرت
+
+otiose /'sutraus, (US) ‘ou f1aus / 03 54m (رسمی) adj
+بی‌فایده, بی‌ارزش» غیرلازم
+
+otitis / ورم کون ااتماناه EES التهاب n
+
+OTT / au ti: 'ti:/ <overthe top محاوره) ils , (در 4
+مبالغه آمیز So بیش از mel زیادی,.اغراق
+
+1 سمورٍ آبی, نگ otter /'ota(r)/
+
+. پوستِ سمورٍ st!
+نیمکت )= نیمکتی که از آن به ottoman /'otomen/
+ose صندوق هم استفاده می‌شود)
+۱. عثمانی : Ottoman /'otoman/
+8 ۲. ترکي (glass عثمانی
+OU / au ju: / (Brit) = Open University
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+n سیاهچال, هلفدونی oubliette /u:bir'et/
+int آخ. آی. اوف 00۳/1
+oughtn't to /2:tnt to, t:/ neg of ought to ‘
+ought to /%:t to, tu:/ ( neg ought not to,
+نس بایدء بایست. بایستی oughtn't to)
+1 )2 احضار روح) Amino حروف Ouija /'wi:dsa/
+Ouija board /'wi:dss ba:d/ = Ouija
+2 أونس )= واحدٍ وزن. برایر با ۲۸/۳۵ گرم) OUNCE /avns/
+( مجازی, محاوره) ذرّه‌ای» یک مثقال, an ounce of
+یک جوء سر سوزنی
+(مجازی) تمام قدرت تا every ounce of strength
+آخرین C035
+Sh Cio adj اول شخص our /a:(r), (1 ax
+oe Solas مان:
+دخترمان, دختر ما our daughter
+io pron ملکی برای اول شخص ours /a:z, ‘avaz/
+جمع. گاه معادلی Ju ماء متعلق به ما:
+یکی از دوستان ما a friend of ours
+Ly ol احمي ی that stupid son of ours
+( رسمی) بر ما نیست که It's not ours to decide.
+تصمیم بگیریم. تصمیم به عهدهٌ ما نیست.
+4 (رسمی, در اشاره به یک نفر)  ourself /0:۹۵[1۶ ava'self/
+خودمان, خود
+ourselves /a:selvz, ava'selvz/
+pm pron انعکاسی و تأکيدي اول doles par pains خود ماء
+خودمان, خود:
+۱ به تنهایی, به تن (all) by ourselves os
+۲ بدون کمک دیگران
+. خوش بودن؛ خوش گذراندن enjoy ourselves
+از خود بی‌خود شده بودیم. We were not ourselves.
+خودمان نبودیم.
+VE (رسمی) خلع کردن. معزول کردن. oust /aust/
+برکنار aS برداشتن؛ دست ...را کوتاه کردن
+oom adv خارج ای out’
+out for some fresh air > 90 ۱۵ > ۲. (با صفتِ عالی) موجود
+۳ خاموش > The fire has gone out. > ۴. تا آخر, تا ته,
+کاملا > Supplies are running out. > ۵. [صدا زدن؛ فریاد
+زدن ] بلند. با صدای بلند؛ [صحبت کردن ] شمرده.
+محکم ۶.(ورزش) [بازیکن ] سوخته؛ [توپ ] اوت.
+خارج
+برو بیرون! Out you go!
+go out this evening; have an evening out L
+شبی را بیرون رفتن / بودن
+شب مرخصیش است. It's her evening out.
+خارج از شهر زندگی کردن live out in the country
+راو خروج, خروجی (way) out
+ان بیرون out there
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1172 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: out; outage; outback; outbalance; outboard; outboard engine -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+out here بیرون on)
+It's the best car out. بهترین ماشین موجود است.
+Out with it! حرف بزن! اعتراف کن!
+out loud فاش, آشکارا؛ Je با صدای بلند؛
+
+QIN واهمه
+اسمش تو دهنم I couldn't get his name out.
+نمی‌گردد.
+۱ بیرون بودن؛ بیرون رفن be out
+۲. (در کتابخانه و غیره) [کتاب. نوار ] امانت بودن, امسانت
+رفته بودن ۳. (به سفر) رفته بودن؛ نبودن؛ غایب بودن ۴.
+SD] خبر ] فاش شده بودن, برملا شده بودن, علنی شده
+بودن؛ [حکم ] صادر شده بودن؛ [AST درآمده بودن.
+منتشر شده بودن» بیرون آمده بودن ۵. [JE] باز شده
+OO شکفته شده بودن,؛ درامسده بنودن؛ [ درخت ] pt
+ده بُسوَدن؛ گل داده بودن, شکوفه داده بودن.
+Ns gE شده بودن ۶ [خورشید. ماه ] درآمده بودن.
+پیرون آمده بودن, طلوع کرده بودن, درخشیدن ۷.
+wr] حکومت ] سر کار نبودن, قدرت را در دست
+نداشتن, در یی قدرت نبودن ۸ . [لباس ] مُد نبودن, از
+مُد افتاده رد بیهوش بودن ۰.۱۰ <i] دریا] جزر
+بودن AY در Jl اعتصاب (oy اعتصاب کرده بودن
+۲ ناممکن بودن, نامقدور بودن, ممکن نبودن AY
+[چراغ و غیره ] خاموش بودن ol] NY هفته ] تمام (gd
+به‌سر رسیدن ۱۵.(در محاسبه. شمارش و غیره) اشتباه
+کردن, اشتباه داشتن
+We're ten pounds out in our calculations. > < ۱۶. ( ورزش)
+[بازیکن ] سوختن؛ سوخته بودن؛ [توپ ] اوت بودن /
+شدن, خارج بودن
+]225 و غیره ] در دریا بودن» be out at sea
+ES کرده بودن
+The ship was four days out from Lisbon.
+کشتی چهار روز بود لیسبون را ترک کرده بود.
+افتاب بود. (هوا) افتابی بود. The sun was out.
+مهتاب بود. ماه می‌درخشید.  The moon was out.
+(هوا) مهتابی بود.
+(محاوره) با سه‌تا glasses and he's out (cold). 3
+گیلاس Jl پاتیل می‌شود / رو زمین ولو می‌شود.
+(مشت‌زنی) ناک‌اوت شدن. : be out (for the count)
+دیگر بلند نشدن
+جزر شده است. The tide is out.
+آپ دریا پایین رفته است.
+ele جیزی 391( Jus چیزی be out for sth
+بودن» کشته‌مردة چیزی بودن, چیزی هدفي کسی بودن
+(مجازی) به خونت تشنه He's out for your blood.
+است. سایه‌ات را با تیر می‌زند.
+ii=see 1-sit @-cal a=father D=got di=s
+el=say oau=go  al=five av=now  oI=boy  K
+aya = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 outboard motor
+He's out for trouble. دنبال دردسر می‌گردد.
+تنش می‌خارد.
+be out to do sth کمر به انجام کاری بستن.
+قصدٍ انجام کاری داشتن, مصمّم بودن که. تلاش کردن تاء
+ال و بلاً می‌خواهد که
+be out and about (again) دوباره سر پا ۱
+بودن, بستر ( بیماری) را ترک کرده بودن, دوباره سالم و
+تندرست بودن ۲ سفر کردن. گشتن
+out and away به مراتب. بسیارء به درجات.
+با فاصلةٌ زیاد
+all out — all?
+
+These trousers are out at the knees. The knees
+
+are out on these trousers.
+سر زانوهای این شلوار رفته است / سوراخ اشت:
+
+2 ۱. خارج, بیرون ۲.(ذر (gor پرداخت‌ها OUL? Jast/
+۳ خروج؛ راه خروج. راو برون‌شد. She ۴.(در
+بیسن‌بال, کریکت) سوخته ۵.(ورزش) وت ۶. de بهانه
+۷ دد Al در جمع) حزبی / گروهی که سر کار
+نیست
+
+[ساختمان ] از یک ضلع from out to out
+SI تا ضلع دیگر
+دعوا داشتن, be at out / on the outs
+مسئله داشتن, مشکل داشتن
+the ins and outs — in*
+adj خروجی out? /aut/
+7 (در آمریکا) [ آب, گاز, تلفن و outage /asuds/ [oe
+قطعی؛ قطع برق. خاموشی
+ad) [دروغگی out-and-out / aut on ‘ast/ wsdl
+دزد و غیره ] تمام‌عیار, دواتشه., CoS] Tp
+som [ تمام‌عیار, تمام JS کامل, صددر صد
+بر و بیابان؛ پشتِ کوه. / outback /'avtbzk
+جای پرت
+
+outbalance /astbzions/ ۱.سنگین‌تر بودن از v1
+بیشتر اهمیت داشتن از؛ جلوتر Gl مهم‌تر بودن ۲
+پیشی داشتن بر ol بودن
+outbid / astbid / ( prp outbidding, pz,pp outbid)
+
+۱.(در حراج و غیره) رو دست ... بلند شدن
+
+vi ۲. بیشتر خریدن» بیشتر پیشنهاد دادن
+
+۱. بیرونی» خارجی؛ 0۵0
+( دریانوردی) بیرون از کشتی ۱
+2 ۴.(دریانوردی) موتور بیرونی
+outboard engine / avtbo:d 'endsin/
+outboard motor =
+
+outboard motor /astbo:d 'mavta(r)/  )یدرونایرد( 7
+
+موتور بیرونی
+u:=to0 A=cup 3:=bird  o= about 00006 ۷
+near €3 = hair ua = pure ela = player ars = fire =
+thin 8 = this [= shoe 3= vision 1 = sing = 0
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1173 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: outbound; outbox; outbreak; outcast; outdone; outdoor; outdoors; outer; OUtface; ouUought -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+outbound 1 1¢
+(gpa, adi’ | [ پزواز+مشافر [ / outbound /astbasnd
+خروجی
+vt (مشت‌زنی) ناک‌اوت کردن. outbox /autbuks/
+ٍ شکسشتت دادن
+۷ از پس ... بوامدن. outbrave /autbrery/
+ٍ مقاومت کردن در hy ایستادگی کردن در Alp
+جنگیدن با؛ گوي سبقت بردن از
+۸ [جنگ, تظاهرات و غیره ] / outbreak /autbreik
+| شروع؛ [خشونت. قیام ] درگرفشن؛ [احساسات. خشم ]
+انفجارء طغیان, فوران, غلبه. بروز؛ [بیماری ] شیوع.
+همه‌گیری, ظهور؛ [جوش ] بیرون ریختن
+۸ ساختمان جنبی. / outbuilding /'astbildiy
+ساختمان بیرونی, ساختمان فرعی
+4 ۱. [بخار و غیره ] فوران؛ outburst /asa:st/
+[خنده ] انفجار, شلیک, OLS) [خشم ] old فوران
+۲. عصبانیت. از جا دررفتن
+ad) ۱. مطرود. رانده.  outcast /avtkaist, (US) -kast/
+رانده‌شده ۲. بی‌خانمان, بی‌کین. در dA بی‌پناه
+XY nu (ادم) مطرود. رانده‌شده ۴ ادم بح ps! oly
+بی‌اکتس» po! بی‌خانمان
+(US) -kast/ (x2 53). adj باکنولان / outcaste
+طردشده از کاست» رانده‌شده از طبقه؛ خارج از
+کاست / طبقه
+4 ۴.(در هند) فرد طردشده از کاست / طبقه؛ فرد
+خارج از کاست / طبقه
+۷ ۳ از کاست طرد کردن. از طبقه بیرون کردن
+wr جلو زدن از outclass / astklass, (US) -klas/
+پیشی گرفتن از» پشتٍ سر گذاشتن
+۸ نتیجه, حاصل, پيامد. بازده  outcome /avtkam/
+۸ (زمین‌شناسی) برون‌زد.» outcrop /'avtkrop/
+OSES
+۸ ۱. فریاد. fr داد ۲. فریاد / outcry /‘astkrar
+اعتراض, anal Cilla ol el غریو اعتراض
+4 [لباس ] از مٌدافناده؛ / outdated / ast'dertid
+[رسوم ] کهنه. قدیمی. منسوخ شده. فراموش‌شده؛
+[ نظریه, کلمه. مفهوم ] از رواج افتاده» کهنه
+of outdo ام outdid /astdid/
+۷ جلو افتادن از. / outdistance/ astdistons
+فاصله گرفتن oF پیش افتادن از» جلو زدن از.
+سبقت گرفتن Sl پشتِ سر گذاشتن
+(3rd pers sing pres outdoes, pt اسلا | outdo
+۷ پیشی outdid, pp outdone) Nod S
+جلو زدن ازء پیش افتادن Sl رو دست...زدن
+برای عقب نماندن از قافله not to he outdone
+outdone /astdan/ pp of outdo
+4 ۱. [لباس, کفش ] بیرون خانه. outdoor /autdo:(r)/
+بیرون از als بیرون؛ [فعالیت, کار ] ( مربوط به)
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+فضای sm Sb ساختمان, خارج از ساختمان,
+بیرونی؛ [بازی, مسابقه ] gm سالن» خارج از سالن؛
+صحرایی؛ cdi] آموزشی ] خارج از کلاس؛ [استخر ]
+سرباز؛ [شنا] در استخر سرباز Joly فضای باز
+زندگی در فضای باز outdoor life
+0 بیرون» در فضای outdoors / avt'ds:z/ Sb
+در sla آزاد؛ oles RE] خارج از
+ساختمان؛ ERC] خانه. خارج از خانه
+۸ فضای HL فضای the great outdoors wohl
+Gy شهرء خارج شهر؛ صحرا, دشت و بیابان
+4 بیرونی» خارجی؛ [پوشش. لایه ] 0
+روبی؛ [در, پنجره ] رو به بیرون
+لباس‌های رویی, لباس‌های رو outer garments
+0 دور ترین؛ Fam ترین. outermost /'astomaust/
+خارجی ترین
+Las ۸ فضای کبهانی.  outer space /auta 'spers/
+فضاهای دور
+۷ ۱. خیره شدن JF chy زدن؛ / outface /autfes
+از رو بردن ole BY کسردن در برابرٍ, ایستادن
+جلوی, رو در روی ...ایستادن
+2 [رودخانه, برکه ] دهانه, در رو outfall /astf>:1/
+راو خروج آب
+7 (کریکت. بیس‌بال) ۱. محوطهٌ outfield /‘autfi:1d/
+بیرونی ۲. بازیکنان محوطهٌ بیرونی
+۸ (کریکت. بیس‌بال) بازیکن / outfielder /astfi:ldo(r)
+محوطةٌ بیرونی
+zg vr از .ی outfight /avtfart/ (pr,pp outfought)
+مبارزه کردن» بهتر از...جنگیدن؛ (ورزش) بهتر از...
+بازی کردن
+outfitted ) رام outfit /avtnie/ ( prp outfitting,
+۸ ۱. لوازم. وسایل, ساز و برگ. ابزار» تجهیزات؛ [سفر ]
+بار و پنه ۲. [سفر, ورزش و غیره ] لباس ۳ (محاوره) گروه»
+دسته. تیم
+seme .۴ کردن, تجهیز کردن
+جعبةٌ ابزار ماشین a car repair outfit
+۸ ۱. مسئول outfitter /autfito(r) / ol Lg
+مسئول 26 تجهیزات. ساز و برگ چی ۲. فروشندهة
+لباس, لباس‌فروش ۳ فروشگاء لباس
+فروشگاه لباس مردانه a (gents') outfitters
+فرونشگاه لاس ورزشلی a sports outfitters
+(LAB) 4 [دشمن ] دور زدن؛ outflank /astflank/
+از پشت حمله کردن به ۲.(مجازی) غافلگیر اکرردن؛
+گیر RK ES Ev
+2 ۱. [آب ] جریان, دررفت؛ “outflow /astflas/
+dnl مهاجران ] ob خروج ۲.محل خروج. راو |
+خروج» خروجی ۳ Ole دررفت. Ole خروج ٍ
+of outfight رام outfought/astta:t/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1174 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: outfox; outgeneral; outgoing; outgoings; outgrew; outgrow; outgrown; outgrowth; outgun; outhouse; outing; outlandish; outlandishly; outlast; outlaw; oullet; OU Iii Ve; oullook -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+(vps) درتحقّه‌بازی outfox /ast'foks/
+از ... جلو )00 در زرنگی SH ges پشت
+
+بستن, رو دست ... زدن, کلک زدن به
+17 (نظامی) ۱. با فرماندهی  outgeneral/astdsenral/
+بهتر شکست دادن ۲. با سازماندهي بهتر شکست
+دادن
+adj ]228 هواپیما و غیره ] / outgoing /‘astgoviy
+در شرف حرکت. در شرف re] flay
+رئیس‌جمهور. دولت ] در شرف رفشن. رفتنی. در FHC
+رفتن. در حال کناره‌گیری ۲ [شخص, شخصیّت ]
+زودجوش. معاشرتی. اجتماعی. خونگرم. راحت.
+oh
+اب Js جزر an outgoing tide
+cay a pl هزینه‌ها, وان / outgoings
+مخارج, خرج
+outgrew /autgru: / pr of outgrow :
+outgrow /avt'gras/ ( pt outgrew, pp outgrown)
+۷ ۱. [لباس خود, iS خود و غیره] (بیش از Go بزرگ
+ga یرای ۲. بتزورگ‌تر Gita Ady Sl pad
+داشن از ۳ [عادات. Fle کودکی و غیره ] is
+گذاشتن, فراتر رفتن ازء» برگذشتن از؛ با گذشتِ
+زمان ترک کردن, با گذشتِ زمان کنار گذاشتن
+You will outgrow your shoes very soon.
+به‌زوادی Bd pe 055 / SoS Eyl pyle 20S
+(به ome 335 سریع) outgrow one's strength A
+کسی ضعیف 0d نیروی کسی تحلیل رفتن
+outgrown /ast'grasn/ pp of outgrow
+1 (رسمی) outgrowth /'avtgrasd/  »یعیبط AsV
+پيامد طبیعی. محصول ۲. رشد (lol رویش ۳
+زائده
+ve )53 آمریکا) [شخص ] outguess /autges/
+دست ...را خوانسدن؛ hla] و [ot وضع ...را
+پیش‌بینی کردن
+outgun / astgan/ ( prp outgunning,
+۱.به لحاظ نظامی قوی‌تر ptpp outgunned)
+بودن SY برتری داشتن بر ۲. برتری یافتن بر» تفوق
+یافتن بر
+| ۱ به لحاظ نظامی ضعیف‌تر بودن be outgunned
+| ۲. ضعیف‌تر بودن
+outhouse /'asthaus/ ( p/ outhouses) ...5 zg vr
+ie | ساختمانِ فرعی ۲.(در آمریکا) مستراح تو
+blo مستراح بیرون
+۱2 گردش, کشت ؛ سفن outing /avtiy/
+تفریحی ۲.(محاوره) [al] حضورء بازی
+pr,pp of outlay? | / هتعاس / outlaid
+ii = see 1= sit z= cat a:= father DbD=pgot o:=sa
+el = say W=go ar = five av = now 31 =boy 1a
+avs = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 outlook
+outlandish /astiandif/ ] [لباس, رفتار و غیره ad)
+| عجیب و غریب, غریب؛ عوضی, ناجور, زننده
+outlandishly /avt'lendi tr / به طرز عجیب و 0
+ناجوری bh غریبی» به طرز غریبی؛ به
+: ۵11300181695 / عجیب و / 5 لد اتید A
+ ,یروجان غریب بودن, غریب بودن؛ عوضی بودن»
+| زنندگی
+| outlast / avtla:st, (US) -last/ بیشتر از ... عمر ۷۸
+ِ نیز اگذاشتن oom along) پس (dS
+outlaw /'autl: / was آدم نفی بلد (eg) yon
+یاغی. قانون‌شکن Af asi; 4 Jae
+| (کهند) نفی بلد کردن, مطرود اعلام کردن. طرد ۳ ۷۸
+| کردن, راندن ۴. غیرقانونی اعلام کردن, ممنوع
+| کردن, قدغن کردن
+“outlay! /'astier/ سرمایه‌گذاری؛ هزینه .۱ 7
+وجوه. مخارج Hla
+outlay? /autlet/ ( pr,pp outlaid) (در آمریکا) wr
+هزینه کردن, خرج کردن,» صرف کردن [Us]
+outlet /astlct/ [آب. بخار و غیره] خروجی: .۱ 7
+] ۲.(صفت‌گونه) [لوله, دریچه 5505 a راو خروج»
+] خروجی. ( مربوط به) خروج + [ استعداد. نیرو و غیره
+جولانگاه» جلوه‌گاه ۴ ( بازرگانی) 2 pa محل
+فروش ۵.(در آمسریکا) Joes نمایندگی. فروشگاه؛
+پریز؛ فیش
+an outlet for one's anger راهی برای بیرون ریختن
+aE ie
+outline /avtlam / ] [چیز, ساختمان, درخت و غیره .۱ 7
+خطوط اصلی, پرهیب. نما, طرح (SS خطوط
+SUS (Alas gf, ] سخنرانی da] ۲ کلی. طرح
+چکیده cas 0d ud عمده. خطوط اصلی.
+...را Sy طرح ...را کشیدن. خطوط اصلي XY ov
+کشیدن ۴. [کتاب. سخنرانی و غیره] خلاصه‌ای از...به
+چکیدةٌ...را به‌دست دادن خطوط abs دست
+طور A ] كلي ...را تر سیم کردن؛ [جزئیات. وقایع
+خلاصه گفتن
+an outline map اجمالی Lok کلی. PRN
+in (broad) outline به اجمال, به طور اجمال,
+کلی sb 2
+outlive /autlv/ بیشتر از ... عمر .۱
+.۲ کردن / زندگی کردن, پس از...زنده بودن
+(ماندن و) پایان...را [emt (مجازی) [علاقه, نفرت و
+IE Lge Calg دیدن؛
+outlook /astisk/  امنرود منظره, چشم‌انداز, .۱ ۶
+نگرش ۳ (مجازی) was sis طرز EVE] ۲
+افق ۴. پیش‌بینی هواء وضع هوا (در اینده) ean!
+۷  U=cook ۷:۶ ۱۵0 A= ۳ 3:< 01 <و about
+100۳ ۵ hair U3 = pure eo = player ara = fire
+0= thin 0 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1175 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: outlying; outmaneuver; outmanoeuvre; outmatch; outmost; outnumber; out of; but-of-date; out-of-door; out-of-doors; rk'spenstz; out-of-the-way; outpatient; outpost; outpouring; output; output device; outrage; outrageous -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+outlying 116
+a narrow outlook دید محدود. دید بسته
+have a narrow outlook (oly دید محدودی |
+
+dew | صدر نداشتن ۱
+
+outlying /'astlaniy/ [ناحیه. منطقه ] 595« دوردست. adj |
+
+دورافتاده» پرت؛ دور از مرکز
+
+601۱۳۱۵۳۵۷۷۵۲ / astmanu:va(r)/ (US) i
+= outmanoeuvre |
+
+outmanoeuvre/astmonuva(r)/  ]بیقر [حریف. ۸ |
+
+پیش افتادن از, گوي سبقت بردن ازء برتری یافتن
+بره تفوّق یافتن بر
+
+| 4 (در راهپیمایی) پیش افتادن  outmarch /astma:t//
+
+ازء جلو زدن از
+
+۶4 (در مسابقه) جلو Shas | همان / outmatch
+
+پیش افتادن ازء برتری داشتن بر
+
+outmoded / astmaudid/ کهنه. ازمٌدافتاده, قدیمی adi
+
+outmost /astmoust/ ترین. SI دورترین؛ adj
+
+خارجی‌ترین
+
+outnumber / astnamba(r) / Ob بیشتر بودن VE
+
+4 شماره برتر بودن از
+در اقلیّت قرار داشتن, کمتر بودن  be outnumbered
+۲ ۱. بیرون OV خارج از بیرون ر اب اند / out of
+خارج .از روی, به bls به علتٍ؛ از فرط ۳ از
+pk از ۴, از جنس, ازء با
+<The hut was made out of wood. > ۵. بدونء بی -. فاقر
+He's been out of work for six months. > > ۶. از
+<a scene out of a fim > ۷. دور ازء دورتر ازء در
+HH :
+JE K2) A و غیره ] نداشتن, be out of sth
+فاقدٍ... بودن ۲. [ تیم کار و [opt شرکت نداشتن در
+توی... نبودن, در... دستی نداشتن
+در سفر بودن be out of town
+دور از دستزش  : out of reach
+[ کتاب, نشریه ] out of print LL
+out of pocket — pocket
+تمرین نداشتن, آماده نبودن be out of training
+از مغازه بیرون go out of the shop WB
+از مغازه خارج شدن :
+(محاوره) تنهاء بی‌کس, غریب out of it
+(محاوره) احساس غربت / تنهایی کردن feel out of it
+Cosshoe) A بو کم شوا Get out of it!
+LY (عامیانه) دست وردار! Jy کن Ly
+4 ۱. قدیمی, out-of-date / ast ov 'dest/ AS
+مستعمل؛ به درد نخور؛ [لباس ] از مُدافتاده ۲:
+[گواهینامه و غیره ] فاقدٍ اعتبار, که مهلنش تمام شده:
+باطل شده ۳ wb] سفهوم ] کهنه. از رواج افتاده»
+منسوخ ۴ [کلمه [ از چرخش wots) خارج 50
+گردش, ,کهنه
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+
+out-of-door / ast av 'do:(r)/ = outdoor
+out-of-doors / ast av 'do:z/ = outdoors
+out-of-pocket expenses / avt av pokit
+
+1k'spensiz/ مخارج جزئی؛ مخارج نقدی A npl
+
+۲. هزینه‌های قابل‌برگشت
+
+out-of-the-way /avt ov 82 'wer/  .هداتفارود ۱ 7
+
+دوردست. پرت. دور ۲. [نظریه, فیلم, کتاب ] غیرعادی,
+RIAN JPR LIFE JA PEAT
+
+out-of-work / ast ov ‘wa:k/ بیکار 4
+outpace /avtpers/ جلو زدن از Sl پیش افتادن ve
+
+Bap caddie Sony از.,:بوادن
+
+outpatient /'autper/nt/ بیمارٍ سرپایی .۱
+
+۱ ۲ (صفت‌گونه) ( مربوط به) بیمارانِ سرپایی
+
+the outpatient department ol بخش بیمارا
+
+سرپایی
+
+outperform /avtpafom/ «3S بهتر از... عمل 7
+
+بهتر از...کار کردن؛ بهتر از ... بودن
+
+outplay /avtpler/ (ورزش) بهتر بازی کردن از Vf
+
+رو دست eee زدن
+
+2 (مشت‌زنی و غیره) با امتیاز astpomt/ / 001001۳1
+
+بردن, بیشتر امتیاز آوردن از
+
+outpost /'astpaust/  .یرو‌هدید Sams .۱ (نظامی) 72
+
+cud دیده‌بانی ۲. پایگاه
+
+1 ۱. برون‌ریزی» ریزش)؛ /(2۱۳۵:۲/ outpouring
+
+سرریزی» فوران ۲.(در جمع) طغیان احساسات.
+غلیانٍ عواطف, جوش. و خروش؛ [خشم. غم و غیره]
+
+ohh «Jem غلیان
+output /astpst/ ( prp outputting,
+
+pt,pp output, outputted) تولید. Jara .۱
+
+حاصل؛ بازده» میزانِ تولید ۲. (برق, کامپیوتر و غیره)
+
+خروجی, برون‌داد :
+YX 4 (کامپیوتر) بیرون دادن, دادن
+1 (کامپیو تر) output device /astput divars/
+دستگاو خروجی :
+
+4 ۱. خشونت؛ تعدّی, outrage /astrerds/ xu oils
+۲. بی‌حرمتی. San حرمت. توهین. اهانت ۳ |
+Glasto خشم. عصبانیت شدید |
+۴. اهانت کردن Sb aay حرمت ...را کردن» توهین :
+کردن به, حرمت... را زیر پا گذاشتن ۵. نفرتِ...را |
+برانگیختن, به خشم آوردن, عصبانی کردن ۱.۶
+زنای به عنف کردن باء تجاوز کردن به ۱
+adf ۱. [جنایت. درد ] / outrageous /autrerdses
+وجشتناک. هولناک. تکان‌دهنده؛ [رفتار, عمل] :
+شرم‌آورء اهانت‌بار» تغفرت‌انگیز, زشت. زننده, ُ
+شنیع, وقیهانه؛ [قیمت. حرف ] وحشتناک, نامعقول ۲. :
+عجیب و غریب,» عجیب, نامعمول, غیرمتعارف ۰
+adv به طرز زشتی.  outrageously /astreidsosl/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1176 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: outre; outreach; outrider; outrigger; outshine -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+116
+: خیلی easy به طرزٍ بی‌شرمانه‌ای, به نحو
+: وقیحانه‌ای ۲. به شدت. بی‌حدٌ. به طرز وحشتناکی,
+
+به طور نامعقولی
+outran/avtren/ pz of outrun :
+۷۸ (رسمی) AS po بالاتری outrank / astrenk/
+داشتن از درجةٌ بالاتری داشتن Gl مافوق ...
+۱ بودن؛ سر بودن ازء برتری داشتن بر
+adi [رفتاز, حرف ] عجیب و outré /'urrer, (US) u'tret/
+غریبء غیرعادی, مسخره, مضحک
+۱ امداد, امدادرسانی هه تاه
+24 ۲.امدادی
+۸ ۱.(موتورسوار) اسکورت | outrider /‘avtratdo(r)
+۲.(کفند) جلودار, ملتزم رکاب
+abl ۶ کشت ] Sool 1( 0۲۱996۴۲
+محافظ ۲ GB بازودار
+Nady صراحتاء صریح., outright’ /autrart/
+4 تضریج. با صراحت. oS) رک و راست؟ قاطعانه
+wl J, ۲ یکدفعه. درجا., سر ضرب؛ oye
+T 7 ۰ ۰ Z.
+بی‌درنگ. بلافاصله, فوری Ader علنی, اشکارا
+۴ کامل(, bs به تمام وکمال
+oN 7 قاطع. اما outright?
+سر راست. پوست‌کنده» رک ۲ روشن. مسلم.,
+مسحقق. حتمی. تردیدناپذیر ۳ کامل. مطلق,
+تمام‌عیار, تمام وکمال
+outrival / astravl / ( prp outrivalling,
+(US) outrivaling, pr,pp outrivalled, (US)
+4 (رسمی) (در رقابت) outrivaled) Cats
+سرگذاشتن, سبق بردن ازء برتر بودن SV پیشی
+گرفتن از
+outrun /astran/ ( pt outran, pp outrun)
+. بهتر دویدن ol تندتر دویدن از ۲.(مجازی) فراتر
+رفتن SV برگذشتن oH تجاوز کردن از
+4 ۱. بیشتر outsell / aust'sel/ ( pr,pp outsold)
+فروختن Sl بهتر فروختن Sl در فروش پیش
+افتادن از .۲. بیشتر فروش رفتن Ol بهتر فروش
+رفتن از
+dat Hel nm اول outset /avtset/
+از Sled از اول, از ابتداء ) from the outset (of
+از وهلة GSE از aN از شروع
+در اغاز, در اول, در at the outset (of) dual
+gh? در Gar
+outshine /avt' fam / ( pr, pp outshone)
+7 بهتر درخشیدن از تست ‌الشماع قرار دادن» بیشتر
+درخشیدن )3 گوي سبقت ربودن از
+of outshine ام fun/ ان / outshone
+i'=see 1=sit @®=cat a=father o=got 3:=5
+=go al = five ay = Now s1=hoy 1 تاد el = say
+aya = hour j=yes w= wet tf = chain ds= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 outside
+outside’ / avt'sard/ بیرون. خارج؛ .۱ a
+خارجی؛ (مجازی) ظاهر, Cad بیرونی» Sed
+lo ie abo son بیروتی: Aho serif SAU] صورت
+بیرون
+at the outside بالا Cas حداکثر, در نهایت.
+on the outside از قسمتِ خارجی PEPYS A
+(مجازی) به ظاهر, در ظاهر, از بیرون ۳.(در راندن ۲
+موتورسیکلت) از سمتِ چپ (جاده)؛ (در بریتانیا و غیره)
+از سمتِ راست ۴. خارج از زندان
+the outside of خارج از Sl خارج., بیرون oom)
+فراتر از, خارج از, ورای ۳. سوای, به جزء غیر از ۲
+outside? /avstsard/  ]راوید[ ۱.خارجی, بیرونی؛ 4
+مشرف به بیرون ۲. بیرون از ساختمان ۳.(مجازی)
+ثانوی ۴ ناچیز. prea ] بیرون؛ خارج؛ [علائق
+اندک. جزئی, کم
+بیشترین. .۵ < an outside chance of winning the game > -
+بالاترین Shas
+an outside seat Jus در اتوبوس, هواپیما و غیره) (
+کنار راهرو ,
+outside opinion عمومی DAES عقیدةٌ مردم,
+outside help کمک خارج از موسسه
+outside? /avtsaid/ بیرونٍِ» خارج. بیرون از prep
+از, خارج 3 ورای ۳ سوای, SY خارج.از
+SLB غیر از ۴. نزديکي, Gra
+۵:سرون. خارج؛ از بیرون؛ از خارج ۶. در فضای 0
+بیرون bl در فضای sb
+۱ کار بردی: As
+LGU است که شخص در درون of بیانگر outside LIS
+CL Nel ساختمان نیست اما در نزدیکی آن
+You have to go outside if you want to smoke.
+It's cold outside.
+آن است که شخص از ساختمان, به ASL; out ls
+زندگي اوست یا وقتِ زیادی را Jou ویژه ساختمانی که
+| ۱ در آن می‌گذراند. دور است:
+| Let's go out for a meal / drive.
+| I'm sorry Mr. Davies is out at the moment.
+| در انگلیسی (out of doors (یا عبارت outdoors کلم ۱
+ٍ غیررسمی و خودمانی بیانگر آن است که شخص بیرون از
+۱ هر گونه ساختمانی است:
+| I'd like a job where I can work outdoors.
+بیرون رفتن یا ole برای 01 of دستوری: عبارتِ USS
+بیرون آمدن از جایی به‌کار می‌رود:
+۱ He comes out of prison next week.
+out of جای عبارت «out from Sole در جملةٌ بالا
+and درست
+Ww دنل امد 00 A=cup 9 0100۲ a= about
+=near  ed=hair .  ua=pure era = player ara = fire
+0= thin 8 = this {= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1177 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: outside lane; outside left; outside line; outside right; outsize; outsized; outskirts; outsmart; outsold; outspokenly; outspokenness; outspread; outstanding; outstandingly; outstation; outstay; outstrip; out-take; out-tray; OUtVOte; outward; outward bound; Outward Bound Movement'; outwardly; outwards -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+outside broadcast 11
+Water poured out of the pipe.
+در انگلیسی آمریکایی و در Som غیررسمی و گفتاري
+انگلیسی SUL, جملةٌ بالا را می‌توان بدون 0۲ و به
+se زیر بیان کرد:
+Water poured out the pipe.
+برای بیان مفهوم بیرون بودن يا بیرون رفتن از خانه از
+عبارت out of the house استفاده می‌کنیم اما برای بیان
+جدا بودن از خانواده عبارت away from home را به‌کار
+می‌بریم.
+outside LIS به ویژه در انگلیسی گفتاری و انگلیسی
+امریکایی ممکن است به تنهایی يا با حرف اضافة of
+کار رود:
+He lives outside (of ) Miami.
+در dos بالا کاربردِ عبارت «outside from جای
+عبارت Outside of درست نیست.
+outside broadcast astsard bro:dka:st,
+1 (رادیو, تلویزیون) Ll خارج از / (US) 'bro:dkaest
+استودیو؛ ضبط و پخش خارج از استودیو
+واحد سیّار an outside broadcast unit
+n (ترافیک) .1 1 outside lane /autsard
+بت Ls a وسط
+7 (فوتبال) فوروارد چپ outside left / avtsard left/
+n [تلفن ] outside line /avtsaid lan/  »نوریب Jee
+Tas خارج از اداره
+outsider /astsaida(r)/  بیرغ Ay ay .۱ 8
+۲ (اسب. شخص) بازنده, کم‌شانس ۱
+2 (فوتبال) فوروارد outside right / avtsard 'rast/
+راست
+LU] adj شخص ] فوق‌العاده بزرگ, outsize /auvtsaiz/
+ایکس‌لارج
+outsized /'avtsarzd/ = outsize
+mpl ]42[ حومه, اطراف, outskirts /autsks:ts/
+حوالی؛ [جنگل ] کنار» wel حول و حوش
+vt 555,35 بودن از.ء 0
+رو دستِ...زدن. در زرنگی دست ...را از پشت
+بستن, بیشتر از... زرنگی کردن, کلک زدن به
+of outsell رمرم outsold /aust'sauld/
+pu ro adj صریح‌اللهجه. ۰ outspoken /avtspavkan/
+رک. رک‌گو؛ [جواب ] صریح, سرراست. بی‌پرده
+0 با صراحت. رک ۰ outspokenly/astspavkanli/
+بی‌پرده
+1 صراحت. / outspokenness/ avt'spavkannis
+صراحتٍ aryl رک‌گویی
+JU] adi دست و غیره ] گشوده, outspread/astspred/
+گشاده باز؛ گسترده» پهن‌شده
+۱. [شخص, دانشجو [ / outstanding /ast'stzndiy
+برجسته, (Sle Slee طراز اول؛ [استمداد. زیبایی [
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+(plied فوق‌العاده ۲. [ خصومیات. Gob [abs
+برجسته, مشخّص, چشمگیر ۳ [قرض. حساب ]
+پرداخت‌نشده, معوّق, عقب‌افتاده؛ [کار ] انجام‌نشده.
+معوّق؛ [مسائل ] حل‌نشده؛ [سود. Log واریزنشده
+0 فوق‌العاده» / outstandingly / astsuzendrnli
+به نحوی استئنایی, به طرز فوق‌العاده‌ای؛ به نحو
+بارزی, به طورِ چشمگیری؛ بسیار
+PLC n دورافتاده؛ / fn عادانه / outstation
+پایگاه دورافتاده؛ پُستِ دورافتاده
+از بیشتر از...ماندن 013
+(در جایی) بیش از حذ outstay one's welcome
+ماندن. 1۳1 ماندن که میزبان خسته شود
+outstretched ast'strett/ SUL wees JU] ad)
+گشوقه
+دراز کشیدن. دراز به دراز افتادن lay outstretched
+با پازوان گشوده. with outstretched arms
+پا وال باز
+prp outstripping, ( / ماکان / outstrip
+(roo) 4 wr جلو زدن pt,pp outstripped ) Ob
+پشت سر گذاشسی. پیش ode JH pala] گذاشتن,
+سبقت گرفتن از ۲. بیشتر شدن Ol بالاتر رفتن ازء
+Chen بیشتری یافتن از
+(سینما) برداشتِ teik / (dd اند / out-take
+Lew زائد
+کازية کاغذهای خروجی, ان / out-tray
+458 نامه‌های خروجی
+vf ری بیشتری آوردن از outvote / avtvaut/
+در رأی‌گیری esis داهن
+<b نیاوردن. sh کمتری آوردن be outvoted
+[oS ei] .۱ 4 به outward / avtwad / Om
+Sb 4 بیرون» رو به بیرون» بیرونی؛ [کُشتی]
+ole امادهٌ he در J عزیمت (به خارج) ۲
+[AU] بیرونی» ظاهری, خارجی ۳ ظاهری,
+صوری؛ ab نمایان, Suid
+OI ob aX adv رو به بیرون» به بیرون» روبه
+خارج. به خارج ۵. اشکارا به نحو اشکاری.
+معاینه. فاش
+علی‌الظاهر, to (all) outward appearances
+بنا به ظاهر
+ad) 251 و غیره outward bound /astwad bavnd/  ]
+عازم سفر, عازم Sm در Jl عزیمت, عازم
+Outward Bound Movement /astwad 0
+n ( آموزهی) گردش علمی mu:vmant/
+adv ظاهراً, در ظاهر, / outwardly /‘astwodir
+علی‌الظاهر, بر حسب AE
+0 (در بریتانیا) ۱. به outwards /avtwadz/ ob
+Oa "رو oom AN Om A زاو به خارج. ی
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1178 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: outwear; outwit; outwork; outworn; ouzel; OUZO; ova; ovarian; ovary; oven; oven glove i'Avn glxv; ovenproot -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+11
+خارج ۲. آشکاراء به pm آشکاری, معاینه, فاش
+outwear / astwea(r) / ( pt outwore, pp outworn)
+۷4 [لباس, کفش ] بیشتر دوام آوردن ry Gh کار
+کردن از
+vt اعتبار بیشتری داشتن outweigh / 1 ob
+Gen بیشتری داشتن ازء چربیدن برء برتر بودن
+Ol بیشتر بودن Gl غالب gael غلبه کردن برء
+YG cus پیدا کردن بر
+outwit / astwit/ ( prp outwitting, pi pp
+ECR ANT زرنگی کردن outwitted ( SV
+زبلي بیشتری نشان دادن از ۲. کلک زدن به, گول
+زدنء شیره مالیدن سر
+outwore / astwa:(r)/ pt of outwear
+7 ۱.(نظامی) استحکامات / outwork /‘astwa:k
+خارجی, سنگرهای خارجی L,Y تو خانه, کار
+بیرون (از کارخانه )
+n 5,8 توخانه, کارگر  /()۹:۸۷۷۹:۷۵/ outworker
+بیرون‌کار
+4 [لباس ] کهنه. فرسوده؛ / 61۷۲۹۱
+[عادات, نظریه ] کهنه, قدیمی؛ از رواج افتاده» پوسیده؛
+]4[ منسوخ
+( نیز مجازی) کهنه شدن. از ud افتادن. be outworn
+قدیمی شدن؛ از رولج افتادن
+outworn? / 2:۳۷: / pp of outwear
+mn (برنده) ۱. توکای طوقی ouzel /u:z1/
+۲ زیرآب‌روک
+1 اوزو (<نوعی مشروب الکلی یونانی) اناد / 6۵20
+ova /'auve/ pl of ovum ’
+4 ۱. بیضی / ۱ 0۷۵۱
+۲. بیضی, بیضی‌شکل, تخم‌مرغی؛ [چنم ] بادامی
+ad (مربوط به) تخمدان 0۵0
+# (گیاه‌شناسی, جانورشناسی) تخمدان 1 ۵۷۵۲۷
+2 ابراز احساسات, استقبالی گرم ovation /auver/n/
+به افتخار کسی give sb a standing ovation
+برخاستن و کف زدن
+تنور؛ فر oven /'avn/
+تنور گازی؛ فر گازی a gas oven
+have a bun in the oven — bun 1 J
+(مجازی) Ju جهنم. Jo کوره like an oven
+7 (در بریتانیا) دستکش تنور؛ oven glove /'avn glav/
+دستکش 2
+adj [ظرف ] نسوز ovenproof /'avapru:f/
+adj [مرغ وغیره] آمادء پخت. /:۲۵۵ oven-ready /avn
+salad طبخ
+7 ظروفي نسوز / ovenware /'avnwea(r)
+f=see 1-sit m=cal 00 2060 D=got i=:
+=go ar = five au = NOW 91 =boy JF ناه el = say
+ava = hour j= yes w=wet  tf=chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 over
+over’ /'auva(r)/ ۱.(به) زیر )4( پایین. 0
+از این سو به آن .۲ > Don'tknock thatvase over! > فرو
+سوء از این رو به ان رو؛ از این دنده به آن دنده؛
+زیرورو ۳ ان طرف, آن سوء آن ورء طرفي دیگر.
+
+این طرف. این سو
+Let me row you over to the other side of the lake! > < ۴.
+دوباره, از نوء دومرتبه, از سر ۵. باقی, زیادی
+If there's any food (left) over, put it in the fridge. > < ۶
+بیشتر, بالاتر, اضافه > metres and a bit over 10 > ۷.
+تمام, به آخر رسیده, پایان‌يافته ۸. به تمامی, SS
+از اول تا اخر از سر تا ته. سرتاسر؛ سرتاپا
+A > Cover her over with a blanket! > بالاء از NU
+V+ < This one goes over and that one under. > بیش از
+J خیلی؛ بیش از اندازه
+چیزی را برگرداندن turn sth over
+تا over to
+اینجا over here
+over there iP]
+رفته است تا کانادا. He has gone over to Canada.
+They're over from Belgium.
+از بلژیک BY اینجا) آمده‌اند.
+I'll be over at 7 o'clock. bol ۷ cel
+( پیش شما) هستم.
+(رسمی) در «Julie در برابر؛ over against sth
+در قیاس باء در سنجش با
+in گذشته پیش We had them over last week.
+ما بودند. i
+Labs دیگر که when you're next over this way
+اینجا می‌آیی
+dash بارها و بارها, به کرّات several times over
+دوبارهء دومر AS بار دیگر, از نو (all) over again
+از سر
+بارها و بارهاء به کرّات, over and over (again)
+کراراً, به دفعات
+۰ بخش بر ۷ into 30 goes 4 with 2 over. 7
+می‌شود ۴ و ۲ تا باقی می‌ماند.
+کارش تمام است. It's all over with him.
+رفتنی است.
+به دشمن بیوسته  He's gone over to the enemy.
+است.
+لطناً جای Please change the plates over!
+بشقاب‌ها را عوض کن!
+(در ارتباط با Message received _ over (to you).
+بی‌سیم) ply دریافت شد. به گوشم.
+سر AN جهان (all) the world over
+
+۷ 05000 0000 A=cup 3=bird 0 20001
+
+= near €a = hair Ua = pure elo = player aia = fire
+
+0= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1179 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: have an advantage over sb -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+over 12
+all over همه جاء هر جا
+I'm not over glad to see him. جندان هم / خیلی
+
+هم از دیدنش خوشحال نیستم.
+
+over? /'suva(r)/ روی ۲.بالای, pws, prep
+
+NL سرء بر Gl فرازء روی ۳ از این سو به آن
+
+سوی, از این طرف بو آن طرفي, از oles از وسط؛
+
+از روی, از بالای ۴. ان طرفی, آن سوی,» آن ورء
+
+hs فراسوی ۵. در سر تاسر. re] در همه
+جای, در تمام؛ روی ples ۶. بیش ازء بیشتر ازء بالغ
+
+بر زیاده از ۷ ,> He ruled over a great empire. > ؛
+
+< She has only the director over her. > بالادست: مافوتقي
+
+cm fb oe A در خلال, سرء در ple همراو
+
+٩ نا اخر, تا پایان, تا بعد UO ۱۰. بر سرء سر به
+
+َ توی Shes be از ۱ Ri بالای؛ bls
+
+We heard it over the radio, > < 8
+علاوه بر» گذشته از over and above
+I couldn't hear what he said over the noise of
+از was فرط صدای ترافیک the traffic.
+صدایش را نمی‌شنوم.
+( محاوره) چیزی را پشتِ سر گذاشتن, be over sth
+از چیزی خلاص شدن, چیزی را از سر گذراندن
+دور / sit over the fire N/E
+آتش نشستن
+چیزی را زیر نظر 3 3 mount guard over sth
+مراقب چیزی بودن :
+نسبت به have an advantage over sb/sth
+کسی / چیزی امتیازی داشتن, از کسی / چیزی بهتر
+بودن
+یکمر 43 عوض A sudden change came over him.
+شد. ناگهان تغییر کرد.
+
+She was all over me in her efforts to make me
+stay with her. هر کاری که می‌توانست کرد
+تا پیشش بمانم.
+
+They were all over him when he told them the
+news. وقتی خبر را به آن‌ها می‌داد از سر و کولش
+می‌رفتند. Yh
+How long will you be over it? چقدر وقت سرش
+می‌گذاری؟ چقدر وقتت را می‌گیرد؟
+
+1 (در کریکت) (یک) دور پرتاب,  auva(r)/ 0۷۵۳۲3
+
+(یک) دور سرویس
+
+overabundant/suverabandant/  »ناوارف خیلی adj
+
+So بیش از ils
+
+overact / suvarzkt/ در نقش خود مبالغه vi
+کردن, به طور اغراق آمیزی بازی کردن؛ (بد سخره)
+
+زور زیادی, زدن
+
+[am] .۲ ۶ مبالغه کردن در افراط کردن Go با اغراق
+:آبازی کردن ۱ را ۱
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+ad) بیش از overactive / suvorzktiv / JB Se
+بسیار فعّال
+۸ (در آمریکا. بازرگانی) / ۱/۷3 overage’
+اضافه کالاء مازاد
+(برای کاری) بیش از overage? /ssvarerds/
+A مسن, که ستشی زیاد است
+( برای کاری) خیلی پیر بودن. be overage
+Or کسی زیاد بودن
+4 ۱. [اندازه, طول, قیمت ] overall’ / suvor's:l/
+( مربوط به) JS کلی ۲ [مطالمه, بررسی ] کلی. جامع.
+DPW] POTN فراگیر :
+adv ۳ کل در کل ۴. روی‌هم‌رفته. در NS par به طورِ
+کلی, 2 Looe
+a (در بریتانیا) ۱. زوپوش 1 overall?
+۲ در جمع) oY کار
+4 خیلی دلواپس., / و بارخ دی / 0۷۵۲2۵20۱5
+خیلی بی‌قرار» خیلی بی‌تاب؛ (AZAD عاشتی
+سینه چاک
+۱. بر فراز... قرار داشتن, overarch/ suvaraity/
+در بالای ... افراشته بسودن,» مشرف بودن بر ۲.
+تحت‌الشعاع قرار دادن هسنة...را تشکیل دادن.
+در قلپ ... قرار داشتن
+pani] ad) صخره ] / :۹ / overarching
+مُشرف, فرازنده, سایه گستر ۲ فراگیر, گسترده»
+دامنه‌دار؛ غالب, عمده
+(ورزش) ۱. از باللای سر؛ 0۵0
+[بازیکن ] که از باللای سر توپ می‌زند
+0 .از باللای سر
+overate/suvoret/ pr of overeat
+۷ ترساندن, مزعوب کردن, / overawe / suvara:
+هراساندن؛ به احترام واداشتن
+7 ۱. [شخص [ تعادل overbalance/suvebelions/
+خود را از دست woh تعادل... به‌هم خوردن,
+کنترل خود را از دست دادن؛ [چیز ] از تعادل خارج
+شدن. تعادل ... به‌هم خوردن
+wr ۲. تعادل ...را یه‌هم زدن ۳ (مجازی) موازنة...را
+برهم زدن
+svvabea(r)/ ( pt overbore, / 0۷۵۲۵۵۵۲
+sly wr پای دراوردن, به زانو pp overborne)
+دراوردن, به زمین انداختن Ade کردن بر
+مسلط شدن برء پیروز شدن برء مستولی شدن بر
+Vi ¥ بیش از gpa da 6 دادن ’
+4 [رفتار ] امرانه. / overbearing /svvabearty
+سلطه‌جویانه. تحقیرامیز» تحمیل‌کننده, تکبّرامیز؛
+[شخص ] سلطه جو
+0 به طور overhearingly/ sovabeorinlt/ «gla al
+A طرز سلطه جویانه‌ای, Spe |i Co) ee a
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1180 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: overbid; overblown; overboard; throw sth; overbold; overbook; overborne; overburden; overcame; overcapacity; OVe rca pita Ii sat ion; overcapitalise; overcapitalization; overcapitalize; overcast-; overcautious; overcoat; be overcome with; Overcompensate -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+overbid' / asvabid/ ( prp overbidding,
+۷ ۱.(در حراج) رو دست ... پلند pt,pp overbid)
+ced (pa بالاتری پيشنهاد کردن از ۲.(در حراج)
+قیمتِ بالایی پيشنهاد کردن برای ۳ (ورق‌بسازی) رو
+دست ... خواندن
+۸ ۴. بیشتر خواندن
+7 ۱.(در حراج) پيشنهاد بالاتر  /auvabid/ 0۷6۲0102
+۲ (ورق‌بازی) بیشتر خواندن, بیش‌خوانی
+ad) £10 ] کاملاً شکفته.  / نادند / overblown
+کاملا GL باز باز؛ (مجازی) [زیبایی ] رو به زوال, رو
+به پس؛ [زن ] رو به Som ۲ (رسمی) [سبک ] مطنطن,
+پر طمطراق, مغلق ۳ [شخص ] جاق؛ گنده
+adv (دریانوردی) [افتادن, پریدن و overboard /'ouvaboid/
+غیره ] از کشتی به دریاء بیرون از کشتی
+یکی افتاد تو دریا! Man overboard!
+( محاوره, به مسخره) go overboard (about / for)
+دین و ola خود را از دست دادن (به {bls بی‌قرار
+شدن (برای)
+چیزی / کسی را کنار  throw sth/sb overboard
+گذانسش, Lays از شرٍ چیزی / کسی خلاص کردن.
+دست از Cubes کسی برداشتن
+adj متهوّر, بی‌باک. بی‌پرواء  /20:302014,/ 0۷6۲0010
+جسور؛ [عمل ] جسورانه. بی‌با کانه
+wr [پرواز, کاتر و غیره] بلط / overbook / suvabuk
+زیادی فروختن برای؛ [Ja] جا زیادی رزرو کردن
+برای
+/ssvabo:(r)/ pt of overbear 0۷۵۲۳۵۲۵
+overborne/asvabon/ pp of overbear
+wr زیادی بار ...کردن. overburden /asvaba:dn/
+کار اضافی به دوش ...گذاشتن
+زیر بار جیزی بودن,  be overburdened with sth
+بار سنگین چیزی را بر دوش داشتن. زیر بار PS So
+کسی خم شدن
+4 پرمشغله, گرفتار, بیش از /:20۷30:2/ overbusy
+Jo مشغول
+overcame / 20361: / pt of overcome
+n ( بازرگانی) / overcapacity / suvokapasoti
+اضافه ظرفیت
+overcapitalisation/ssvakapitalar'zer fn,
+(US) -l1'’z-/ = overcapitalization
+overcapitalise/suvokapitolaiz /
+overcapitalize =
+overcapitalization/osvokapitolai'zer fn, (US)
+۱.سرمایه‌گذاری بیش -l'z-/ NPE
+. براورد بیش از حذٍ سرمایه
+نم  I=sit z= cat a:= father p= got 306 دنا
+el = say W=go a1 = five av = now a1=Dboy 19
+avd = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+)1 overcompensate
+~overcapitalize / suvokapitolarz / ] [شرکت .۱ wr
+ .تکرش[ .۲ سرمایه‌گذاری کردن در Je بیش از
+ دروآربت ای i از a موه ] تشرمایة... را
+| کردن
+۵۷۵۲۵3۲۵ / suvakeafi / وسواسی adj
+overcast! / sovaka:st, (US) [آستنان ] هل N adj
+ابری» پوشیده از ابر؛ [هوا] گرفته ۲.(مجازی) گرفته.
+غمگین. مغموم
+overcast? / مادنهمادید (US) -kast/ پوشش .۱ 8
+ob Y wl olan] ۲
+overcautious/suvvako: fos/ خیلی محتاط, adj
+محافظه کار da دست‌به‌عصاء بیش از
+0۷۵۲۵۹۵۲9۵ /ouvs'tfa:ds/ ا.گران حساب 4
+بیشتر ody کردن باء زیاد گرفتن ازء اجحاف کردن
+اضافی دادن به JL ] گرفتن از ۲. [دستگاء برق ۰
+گران حساب کردن. زیاد گرفتن + vi
+overcharge (sb) for sth جیزی را (به کسی)
+گران فروختن, چیزی را (با کسی) گران حساب کردن
+overcharged with از oh (مجازی) اکنده
+سرشار از, لبریز از
+overcharge? /asvatfa:ds/ ۱.گران‌فروشی, ۸
+زیادی, اضافه قیمت PY اجحاف ۲.(در گران‌فروشی)
+(برق) بار اضافی ۳
+overcloud / افکندن بر / وا دید Le vt
+تیره کردن ۲.(مجازی) سایه‌ای از غم افکندن بر
+سنگینی کردن بر؛ [چهره ] گرفته کردن, مغموم
+کردن, گردٍ غم پاشیدن به. حالتی غمگین بخشیدن به
+be overclouded پوشیده از ابر پودن / شدن.
+آبری بودن / شدن
+overcoat /'suvokaut/ Fale n
+overcome /svokam/ (pr overcame,
+pp overcome) ] وسوسه, عاداتِ بد و غیره eta] .۱ 1
+پیروز شدن بر»ء شکست دادن, غالب ep غلبه کردن
+امسدن بر چیره شدن بر, مغلوب کردن,
+مسلط شدن بسن [os ...شدن؛ [خشم. Fe
+جلوی... را گرفتن, فائق شدن بر .از پای
+انداختن» از پای دراوردن؛ بیمار کردن. مسریض
+کردن. Jem ] مشکل gl] ۳ کردن؛ ضعیف کردن
+Obie راهی برای ... پیدا کردن» برطرف کردن, از
+آمدن بر Bl برداشتن,
+بُردن (OAL ۴.(رسمی) پیروز VE
+be overcome with / by ترس, غیره ] از pis]
+Saal yo به زانو OA ... فرط ...از پای درآمدن, مغلوب
+فلج شدن از ol
+overcompensate/ ssvokompensert/ بیش از Vi
+w  u=cook ui=t00 A=cup %=bird 0 about
+= near €3 = hair ud = pure e1a = player  a1a= fire
+0= thin 0= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1181 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: overcompensation; overconfidence; overconfident; overcook; overcritical; overcrowd; overcrowded; overcrowding; overcurious; overdelicate; overdeveloped; overdid; overdo; overdoes; overdone; overdraft; overdraw; overdrawn; overdreSS; overdressed; overdrew; overdrive -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+overcompensation 12
+حذ جبران کردن, زیادی ober کردن؛ بیش از حدّ
+براورد کردن
+1 جبران overcompensation/suvokompen'set/n/
+پیش از J جبران مضاعف, جبران مفرط؛ براورد
+بیش از A
+۱ اعتماد / overconfidence/ ssvakonfidans
+بیش از حد. اطمینان مفرط؛ اطمینان بی‌جهت ۲.
+sled بیش از de به خود. اطمینان مفرط به خود؛
+اطمینان بی‌جهت به خود
+adj .بیش از حد overconfident/suvokonfidont/
+مطمئن, زیادی مطمئن ۲. بیش از Sm مطمئن از
+خود. مغرور
+4 زیادی پختن. overcook /asvakuk/
+بیش از de پختن
+Sal) 4 ملانقطی / overctritical / ssvokruki
+prp overcropping, ) / دی ۲ OVercrop
+۷ [زمین ] زیادی کاشتن در overcropped) ام
+زیادی حاصل برداشتن ازء شيرةٌ... را کشیدن
+Fa vt کردن. / svvakraud / 0۷۵۲۵۲۵۷۵
+پر 325« اتباشتن
+ad) خیلی overcrowded /,ouvakraudid / Fake
+پر از (Claman پرازدحام؛ پرجمعیّت
+i ازدحام. شلوغی, overcrowding /avvakravdin/
+جمعیّتِ زیاد
+ad فضول / و دنز دبس / 0۷۵۲۳۵۷۵
+AN adj اسب پذیر. / وا اعل درد / overdelicate
+نازک‌نارنجی ۲. بسیار obi
+A ad) بیش از 3 رشد overdeveloped/auvadivelapt/
+کرده. زیادی پیشرفته؛ بیمارگونه Y (عکاسی) بیش از
+ds در داروی ظهور مانده, که ظهور اضافی دارد
+overdid ۱ asvadid/ pt of overdo
+overdo /suva'du: / ( 3rd pers sing pres overdoes
+wr ۱.افراط کردن درء pt overdid, pp overdone)
+مبالغه کردن در تند رفن در. شور ...را درا ورداق:
+زیادی پیش رفتن در؛ [نمایش, نقشس ] با GLA بازی
+کردن ۲. بیش از do مصرف کردن, زیادی به‌کار
+(oy زیادی استفاده کردن از؛ [غذا] زیادی
+خوردن. پر خوردن, اضافی خوردن؛ [اشامیدنی ]
+اضافه نوشیدن؛ [سیگار ] زیاد کشیدن ۳ بیش از Jo
+پختن, زیاد پختن
+cae ۱ کار کرادن. بیش از overdo it/ things
+Js کار کردن, خود را خسته کردن ۲. (در کاری) افراط
+eS اغرّاق کرد Laos را os
+She rather overdoes the loving wife.
+( محاوره) ادای OJ فداکار را p05 2231
+3rd pers sing pres / عم دنم | 0۷۵۲۵065
+of overdo
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+۱ مبالغه آمیز overdone! / suvadan/
+۲ [غذا] خیلی پخته. زیادی پخته
+overdone? | / pp of overdo
+nn [دارو ] مقدار بیش از overdose! /osvadaus/ Je
+دوز زیادی
+از مصرفي زیادی دارو / مواد die of an overdose
+مخدر مردن
+از die of an overdose of  ندرم...یدایز Ub a
+داروی اضافه خوردن take an overdose
+I've had rather an overdose of T.V. this week.
+(مجازی) این هفته خیلی / زیادی تلویزیون دیدم.
+wr ۱ ۱. بیش از de دارو overdose? /suva'dovs/
+دادن به. داروی زیادی خوراندن به. به داروی زیاد
+بستن
+۸ . داروی زیادی خوردن؛ بیش از حذّ دارو / مواد
+مخدر مصرف کردن
+[قرص, دارو ] به کسی بیش 5110 overdose sb with
+از J دادن به کسی زیادی خوراندن
+[ دارو. ala مخدر و غیره ] زیادی overdose on sth
+مصرف کردن, بیش از do مصرف کردن
+7 (بانک) overdraft /'suvadra:ft, (US) -draeft/
+۱.اضافه‌برداشت ۲. اعتبار. اعتبار بانکی
+اضافه‌پرداشت کردن take out an overdraft
+تسهیلات اعتباری overdraft facilitics
+overdraw | suvadra: / ( pt overdrew, pp
+۸ ۱.(بانک) اضافه برداشت کردن از overdrawn)
+Asai .۲ اغراق امیزی دادن shel Ob کردن در
+مبالغه کردن در
+۸ ۳ (بانک) اضافه برداشت کردن, از اعتبار خود
+استفاده کردن؛ So بی‌محل کشیدن
+ad) ۱.(بانک) [حساب ] 0۵06
+پدهکان bls کسر موجودی. که کسر موجودی
+دارد ۲. مبالغه امیز, اغراق امیز
+به حساب خود بدهکار بودن. be overdrawn
+5 موجودی داشتن
+overdrawn? / ssvo'dro:n / pp of overdraw
+vi زیادی شیک overdress/suvadres/ SES
+خیلی به سرووضع خود رسیدن, چسان‌فسان
+کردن. شیک و پیک کردن
+adj چسان‌فسان‌کرده. overdressed / suva'drest/
+شیک و پیک. شیک
+ad) زیادی رسمی لباس پوشیده بودن؛ be overdressed
+زیادی شیک پوشیده بودن
+pt of overdraw / :۷31۳۳ | 0۷۵۲۵۲۵۷۷
+72 (اتومبیل) دندةٌ اضافی؛ / overdrive /'ssvadrarv
+دنده پنج
+( اتومبیل) تو دندة اضافی go into overdrive
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1182 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: overestimate'; overfishing; overground -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+گذاشتن؛ (مجازی) پشتِ کار گذاشتن, زیاد کار کردن
+4 [قطار. اتوپوس ] (US) -du:/ نژ دی / overdue
+که تاخیر دارد. dy موقع نرسیده. دارای seb
+[اصلاحات ] دیرشده, که زمانش گذشته است؛
+[ قدردانی, عذرخواهی ] بات خیر؛ [ols] عقب‌افتاده.
+پرداخت‌نشده, معوّق, منقضی, از موعدگذشته
+ad) شیفنه, مشتاق, / overeager/ avvari:ga(r)
+کشته‌مرده
+[ (در آمریکا) over-easy/ouvvar zt!  ]ورمین fre]
+دو طرف سرخ شده
+overeat / suvari:t/ ( pt overate, pp overeaten)
+Vi پر خوردنء زیادی خوردن, پرخوری کردن
+overeaten/ ssvori:tn/ pp of overeat
+پرخوری overeating /suvori:tig/
+n تا کین بیش ان /asvoremfasts/ 0۷۵۲۵۲۵۳۵55
+>13 اصرار بیش از سح
+overemphasise / suvaremfosarz/
+overemphasize =
+we بیش از overemphasize / ssvaremfasarz/ Jo
+تاکید کردن بر
+overemployment / auvarnm'plormant /
+۱.استفادةٌ بیش از (lash) Y da وفور LAS زیادی
+کار
+adj زیادی / سا overenthusiastic/ svar
+مشتاق؛ بیش JET I PU
+wr [قیمت, مقدار ] overestimate! / suvorestiment/
+اضافه براورد کردن, بیش از do براورد کردن؛
+[ نیرو. استعداد و غیره ] زیادی بها دادن به, بیش از Jo
+Pl کردن روی
+n براورد بیش از overestimate? / auvar'estimat/
+اندازه, تخمین زیادی؛ مبالغه
+بیش از overexcite / suvorik'sait / Fos is
+هیجان اوردن, سخت هیجان‌زده (53S به شور
+REST)
+ad) سخت هیجان‌زده  / overexcited/ssvorik'saiid
+/ مد overexcitement/
+a هيجان‌زدگي بیش از de جوش و خروش زیادی
+نت وتا(
+Vi به خود فشار overexert oneself das)
+خود را به زحمت انداختن, خود را کشتن
+(We) Nr نور / overexpose / asvarik'spavz
+اضافی دادن به, زیادی نور دادن به ۲. [شخص ] بیش
+از Js مطرح کردن؛ بیش از da سر زبان‌ها
+انداختن
+[فیلم ] نور دیدن be overexposed
+ii= see 1= sit = cat a: = father n= got 3:5 4
+cl = say W=go ar = five ay = ۷ ar =boy 13
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+)3 overhang
+
+overexposure/ ssvarik'spau3sa(r) / (عکاسی) n
+نوردهي اضافی, نورٍ اضافی
+
+overfishing / 20۷35 /:(/ ماهنگیزی بیش از حد n
+
+overflew / suva'flu: / pt of overtly
+
+N 4 سرریز overflow! /suva'flos/ (33S
+لبریز شدن, سررفتن؛ [رود] طغیان کردن؛ سرازیر
+شدن (به)
+
+۲. سرریز کردن Ol جاری شدن از. سرازیر شدن از
+coma] ۳ و lost فراتر رفتن ازء بیرون زدن ازء از
+گنجایش ... بیشتر بودن
+
+[ جمعیّت. جلسه و غیره ] overflow into (A)
+تا (جایی ) کشیده شدن, تا به (جایی) رسیدن
+overflow with Soo wd ol gos Slew
+آکنده بودن از مالامال as gf
+
+The audience overflowed into the street.
+جمعیّت تا خیابان می‌رسید. جمعیت تا خیابان کشیده
+شده بود.
+
+overflow? /'suvaflos/ [مایع ] ریزش,» سرریزی .۱ a
+مازاد. اضافی ۴. مجرای [cima] ۳ سرریز ۲
+سرریز A سرریزء
+
+مجرای WA pe سرریز an overflow pipe
+overflown /asvaflasn/ pp of overfly
+overtly / ssvafla/ ( pr overflew, pp overflown)
+۷ پرواز کردن از روی / از فراز
+[ .بیش از i> دک 0۵0
+بسخشنده. دست‌ودل‌باز؛ اسراف‌کار. مسرف ۲
+اسراف‌کارانه؛ [کمک ] بیش از حد
+0 (در بریتانیا) overground /'suvagravnd /  ]ریسم oly]
+زمینی؛ [راه‌آهن ] رو زمینی
+4 ۱. زودرس, پیش‌رس؛ OVEergrown/auva'grosn/
+که بیش از Xa رشد کرده است ۲. پوشیده از..پر از
+غرقی در؛ پوشیده از گیاه. غرتی در علف
+پوشیده ازء پر از غرق در overgrown with
+
+7 ۱. [گیاه ] overgrowth / ۹0 / west
+توده ۲. WS] بافت ] رشدٍ بی‌رویّه. رویش بیش از
+J
+
+an overgrowth of nettles گز نهزار
+0۵0 / از بالای سره 0
+NL از
+overhang’ /suvohay/ دم ام) overhung)
+
+Now آویزان بودن بر Sp معلق بودن بالای؛ [صخره.
+تاقجه ] برفراز ...قرار داشتن. بالای ...قرار داشتن.
+سایه انداختن بر ۲. اویزان بودن از فراز / از بالای
+۳ [خطر و غیره] دور سر ... چرخ زدن» روی سر...
+سایه انداختن, تهدید کردن, بالای سر... بودن
+
+۷ 0 ۷: 100 ۸5 0 3: = bird 3= about
+= near d= hair v3 = pure eld = player ara = fire
+0 = thin d= this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1183 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: overhang; overhead; overhead projector; overheat; overlaid; overland; overlap; overlay; overindulge; overindulgence; overjoyed; overleap; overleapt; overlook -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+overhang 12(
+Xvi | اویزان بودن, معلق بودن؛ [صخره, 4285[ پیش
+sal | بودن, جلو آمده بودن
+۶ ۱:(معماری) پیش‌نشستگی overhang? /auvehaen/
+| ۲ [صخره ] شیپ منفی, پیش‌آمدگی
+۷/۸ ۱. [ماشین, دستگاه ] overhaul' / ssvaha:l/
+ٍ بازدیدٍ کامل کردن, سرویس کردن؛ تعمیر کردن؛
+| [برنامه ] تجدیدٍنظر کردن؛ زیر ورو کردن ۲. سبقت
+گرفتن Sl جلو زدن Ol پیش افتادن از
+7 ۱. [ماشین, دستگاه ] بازدید / overhaul? /'suvaho:l
+کامل, سرویس؛ تعمیر ۲. (محاوره, پزشکی, به شوخی)
+معاینه. سروس
+call] .۱ ad) کابل ] هوایی؛  overhead! /svvohed/
+سیم ] sb سر؛ [چراغ., [Ls سقفی؛ [در ] بالارونده؛
+[آبیاری ] از بالا ۲.(بازرگانی) [bana] جاری.
+عمومی. ثابت
+7 ۳ (در آمریکا) هزینه‌های جاری, هزینه‌های تابت.
+مخارج غعمومی
+0 بالای سر؛ در هوا؛ overhead? /asvahed/
+در VG Gad (در) بالا؛ از YU
+overhead projector / ۵0۷ 60 1 ( /
+Pi 4
+7 (دستگاه) ترانسپارانت. آورهد
+1 (بازرگانی) مخارج عمومی. overheads /'ouvohedz/
+هزینه‌های جاری, هزینه‌های ثابت
+overheard) در /0) overhear / suvahia(r)/
+۷ [مکالمه و غیره ] اتفاقی شنیدن, ناخواسته شنیدن» به
+—S SS ۰ خوردن؛ [شخص ] حرف‌های ...را
+اتفاقی pans حرف‌های ... به گوش کسی خوردن
+overheard ۱ auvohs:d/ pr,pp of overhear
+wr زیادی گرم کردن؛ اد / overheat
+بیش از de داغ کردن
+Xvi [موتور ] داغ کردن, جوش آوردن
+۱ [اتاق ] بیش از 3 / زیادی be overheated
+گرم بودن؛ [ترمز ] داغ کرده بودن؛ [موتور ] جوش آورده
+بودن ۲. [شخص ] عصبانی بودن؛ آتشی شدن, جوشی
+شدن
+of overhang’ تام overhung /susvshay/
+۱. [شخص ] overindulge / ssvarn'dalds/
+لوس کردن؛ Jor] هوس ] میدان دادن به. جلوی ...را
+باز گذاشتن, افراط کردن در
+vi ۲. افراط «aS زیاده‌روی کردن
+bial 2 / 203700۸1035208 / 0۷۵۲1۵01961166
+زیاده‌روی» ناپرهیزی ۲. اغماض J PP
+چشم پوشي زیادی
+Js 4 خوشحال, / ssvadsord 0
+شاد وگ
+خیلی خوشحال شدن / بودن. از be overjoyed
+خوشحالی در پوستِ خود نگنجیدن, عرش را سیر کردن
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+7 ۱.(نظامی) توانایی کشتار overkill /'auvakil/
+بیش از حدّ؛ کشتارٍ بیش از Jom قتل‌عام ۲.(مجازی)
+زیاده‌روی, تندروی, افراط
+overlaid / csvalerd/ pr,pp of overlay’
+in] adjad سفر کردن و غیره ] / overland /'ssvaland
+زمینی» از راو خشکی, از راو زمینی
+راو خشکی. oly زمینی an overland route
+(prp overlapping, / مدید | overlap!
+Vi ۱.روی هم pi,pp overlapped) cools)
+روی هم قرار گرفتن, یکدیگر را پوشاندن,
+همپوشی داشتن با ۲. با هم مصادف (pad هم‌زمان
+شدن؛ با هم تداخل داشتن
+۶ ۳ روی ...افتادن» روی ... قرار گرفتن, پوشاندن A
+مصادف شدن باء هم‌زمان شدن با؛ تداخل کردن با
+۸ همپوشی, روی هم افتادگی؛ /۷۵۱۶:۵:/ overlap?
+تداخل
+pr,pp overlaid) ( / 0۷۵۲131/10
+۷ روکش 03S روی...را پوشاندن, روی... را اندودن
+aly) آب طلا داده شده overlaid with gold
+1 ۱. روکش ۲.(مجازی) / overlay? /suvaler
+پوشش, wold روکش, لایه
+a story of deep sadness with an overlay of humour > >
+0 در his دیگر, overleaf / ouvaliif/
+در dm dis در Satu ورق
+overleapt, (US) مردام overleap /auvalip/
+۱. جٌستن از روی» پریدن از روی overleaped)
+۲ از قلم انداختن, US گذاشتن, گذشتن Ob نادیده
+گرفتن, صرفي‌نظر کردن از
+dul بزرگتر از plas خود برداشتن, overleap onesell
+روی خود زیادی حساب کردن, تند رفتن
+overleapt/suvalept/ prpp of overleap
+۶7 ۱. [حیوان, کامیون ] زیادی  overload! /auvalovd/
+بار...کردن؛ [شخص ] زیادی کار روی دوش ...
+گذاشتن, JIS سنگین بار...کردن ۲.(برق) [شبکه ]
+بار... را زیاد کردن
+n ۱برق) اضافه‌بار, / overload? /'asvolosd
+بار اضافی ۲. بار سنگین > mental overload <
+۷ ۱ مشرف بودن بر» رو overlook /uvslk/
+به ... بودن؛ [ینجره ] رو به... باز شدن ۲. [خطا و [opt
+از قلم انداختن» ندیدن, متوجه ...نشدن, از زیر
+RSE کستی درزفتن ۳ نادیده گرفتن, کنار گذاشتن؛
+اعتنا نکردن به, بی‌اعتنایی کردن به؛ ندیده گرفشن,
+چشم پوشیدن از ۴. زیرٍنظر گرفتن, نظارت کردن بر
+We overlook the church from our house.
+LS مشرف به کلیسا است.
+del ما از Our garden is not overlooked.
+جایی دید ندارد.
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1184 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: overlord; overly; overman; overmanned; overmanning; over-much; overnight; overnighter; overpaid; overparticular; overpass; overpay; overpayment; overplay; overpopulated; overpopulation; overpower; overpowering; overpriced; overprint'; overprtnt-; overproduction; overran; overrate; overreach; overreaction -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+(12
+۸۸ (کهنه) خان, آرباب overlord /'suvalo:d/
+0 بیش از حدٌ. بیش از اندازه» overly /'auvalt/
+خیلی؛ Jo) منفی) plate خیلی هم آنقدرها هم
+overman /ssvaman/ ( prp overmanning, 7
+wr [کار, کارخانه ] افراد زیادی overmanned)
+استخدام کردن برای؛ کارمندٍ بیش از Jo استخدام
+کردن برای؛ کارگر زیادی به کار گرفتن در
+Jlrs ad) تورم نیروی  /20:37204,/ overmanned
+LS دارای نیروی کار اضافی
+oll اضافی داشتن, نیروی کار be overmanned
+اضافی داشتن؛ als اضافی داشتن؛ کارگر اضافی
+داشتن i
+استخدام اضافی؛ overmanning/susvamaniy/
+نیروی کارٍ اضافی؛ کارمند زیادی؛ کارگرِ اضافی
+ssvama:sta(r), (US) -maes-/ / 0۷۵۲۱۳۵916۲
+۸4 [احساسات, شخص [ چیره شدن Cp غالب آمدن بر
+ade کردن بر
+(US) -mas-/ رو مان ۳ ی / 0۷۵۲۳33161۱۳0
+ad) (رسمی) [میل, شور ] مقاومت‌ناپذیر. lads
+OB سرکش
+۱. بسیار زیاد. امد دی / over-much
+خیلی زیاد. بیش از اندازه, زیاد از Ja مفرط
+adv ۳ تیش از حد. خیلی؛ ( با J منفی) جندان هم
+انقدرها هم خیلی هم
+0 ۱.شب. برای شب., overnight! / ssvanait/
+شب‌هسنگام. تمام شب ۲.(محاوره) یک‌شیه.
+ناگهان, یکدفعه 8
+4 ۱.شبانه؛ یک‌شبه ۹ 0۷۵۲۱۵۱۱
+۲ (حاوره) SEL یک‌شبه
+Jaw Sl (یک‌شبه) an overnight bag
+7 وسایل سفر / overnighter /‘suvanaita(r)
+(یک‌شبه). Sl سفر (یک‌شیه)
+of overpay ام overpaid / suvaperd/
+adj [شخص [ / overparticular/ suvapatikjsla(r)
+بسیش از حذدٌّ دقیق, خیلی باریک‌بین, خیلی
+موشکاف؛ [استحان ] بیش از As دقیق, خیلی
+موشکافانه. خیلی سخت
+(در آمریکا, overpass /'auvepa:s, (US) -pas/ (Jems
+پل (slop روگذر
+wm زیادی overpay /suvaper/ ( pr,pp overpaid)
+دستمزد دادن به. بیش از dm حقوق دادن به؛
+[صورت‌حساب و غیره ] Js زیادی دادن برای؛ [شغل ]
+حقوقی زیادی پرداخت کردن برای
+al n اضافی, / 4 دناد / 0۷۵۲۵۵۲۳۵1
+اضافه پرداخت؛ دستمزهٍ اضافی؛ حقوقی اضافی
+1=sil @-cal =falher D=got 9 وا
+=go ar = five au = Now o1 = boy 7 ناه ei = say
+ava = hour j=yes w= wet  tf=chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 overreaction
+overplay / suvapler/ do اهمیت دادن (goby v2
+بهای بیش از حدّ دادن به, خیلی بها دادن به. مهم
+935 جلوه دادن گنده کردن: در, اهمیت::+غلی
+overplay one's hand درگیر شدن. PU بیش
+زیادی خطر پذیرفتن, زیادی جلو رفتن
+overpopulated/ suvapopjulertid / پرجمعیّت. adj
+dol دارای جمعیّتِ بیش
+overpopulation /ssvapopjsler/n/ جمعیّتِ زیاد. 2
+Er کول نیا 1 Sri i
+overpower / suva'pava(r) / غلبه کردن بر wr
+شکست دادن غالب آمدن برء پیروز شدن برء چیره
+مغلوب کردن, از پا دراوردن. مطیع کردن py شدن
+be overpowered مغلوب شدن, از پا افتادن,
+شکست خوردن؛ عاجز شدن
+overpowering /asvapavarry / [نیرو]
+طاقت‌فرساء اک so مقاومت‌نا پذیر؛ [ درد. غم ] کشدند
+درمی آورد؛ [بو و غیره] تند, شدید؛ B51 انسان را
+شخصیّت ] مقهورکننده؛ [میل. هوس ] شدید. ana]
+مقاومت‌ناپذیر lal
+overpriced / suva'praist/ خیلی گران. ad
+زیادی گران
+0 / ssvaprint/ چاپ رو چاپ کردن ۷7
+overprint stamps with a new price قیمتِ جدید
+جدیر Goad قبلي تمبرها چاپ کردن, cd را روی
+تمبرها را چاپ رو چاپ کردن
+overprint sthon 51۳  پاچ چیزی را روی چیزی
+کردن
+overprint? /۵0۷۵۳۲:۲۱/  پاچ (رسمی) چاپ رو 2
+overproduction / auvoprsdakfn/  .دیلوت اضافه 2
+تولیدٍ اضافی
+0۷۵۲۲3۲۱۵0۷3۳۵ / pr of overrun’
+overrate /ouvarert/ زیادی بها دادن به. vr
+ارزش دادن به, ارزش بیجا دادن به. As بیش از
+los خیلی بزرگ کردن. مبالغه کردن
+overrated /ouvorertid/ ] [کتاب, فیلم و غیره adj
+بزرگ شدهء گنده کردهء گنده‌شده. که do بیش از
+زیادی) گنده‌اش کرده‌اند (
+0۷۵۲۲۵۵0۱ دس |
+0۷۵۲۳۵۱۱۱ بزرگتر از dad) از
+دهانِ خود برداشتن» روی خود زیادی حساب کردن,
+تند رفتن
+overreact حساسیّت بیش از اه vi
+نشان دادن, واکنش نامعقول نشان دادن As
+عکس‌العمل تند نشان دادن
+0۷۵۲۳۵۵01101/20۷0۳9۷/0/ بیش Ciel 7
+Ww  u-cook 09100 a=cup 3:=bird a= aboul
+= near وع = hair U3 = pure eld = player a= fire
+0= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1185 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: overseas; overseen; overshoe; oversize -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+overridden 12
+از Sm واکنش نامعقول, عکس‌العمل تند. واکنش
+مدید J = J
+pp of override / لد / overridden
+override /avvoraid/ ( pt overrode,
+4 ۱. [دستور, اعتراض, ادّعاهای pp overridden)
+کسی و غیره ] نادیده گرفتن, اعتنا نکردن به. توجه
+نکردن به. اهمیت ندادن به؛ [قانون. حقوق و غیره ] زیر
+پا گذاشتن. پایمال کردن؛ [تصمیم] ملغا کردن؛ رد
+کردن. نپذیرفتن؛ [شخص ] به عقاید... اعتنا نکردن.
+بی‌توجهی کردن به, کنار گذاشتن ۲.مهم‌تر بودن از
+برتر بودن از اهمیت ببشتری داشتن از
+تحت‌الشّعاع قرار دادن
+adi [خواسته. عامل ] درجة / overriding / suva'raidiy
+(J) تعیین‌کننده, عمده, اصلی؛ [اهمیت ] درجه‌اول.
+بی‌چون و چرا؛ [جواب. دلیل ] قانع‌کننده, قاطع,
+دندان‌شکن
+overrode / suvarasd/ pt of override
+۸ [ تصمیم. رای ] overrule / suvarul/ «3 S53,
+کان‌لم‌یکن اعلام کردن؛ لغو کردن» ابطال کردن.
+باطل کردن؛ کنار گذاشتن؛ [اعتراض, ادّعا] وارد
+ندانستن» قبول نکردن, رد کردن
+/asvaran/ (psp overrunning, 0۷۵۲۲۵۵۱
+Wf ۱.(در مورد آرتش) pt overran, pp overrun)
+amt] سرزقیی. earl 25m [Ue قراز دادن» اشیغال
+کردن, تصرّف کردن؛ (در موردٍ موش, علف) گرفتن,
+برداشتن, از در و دیوار ...بالا رفشن؛ ( در موردٍ توریست)
+پر کردن, گرفتن, rea خود کردن, هجوم آوردن
+به ۲. [لبه. خط. [lad Jou رد شدن Gl گذشتن Ob
+جلوتر رفتن ازء فراتر رفتن از ۳. [وقتِ مُجاز, زمانِ
+پیش‌بینی‌شده ] بیشتر Job کشیدن از؛ [شخص ] بیشتر
+طول دادن از ۴. هزین (چیزی) از...فراتر رفتن,
+بیشتر از... خرج برداشتن
+vi ۵. [برنامه, کنسرت ] (از وقتِ مُجاز) بیشتر طول
+کشیدن؛ [شخص ] بیشتر Job دادن
+a ۱. اضافه مقدار overrun? /'ssvaran/
+۲ اضافه هزینه؛ [هزینه و غیره] افزایش پیش‌بینی
+نشده؛ باللارفتن بی‌رویه ۳.اضافه تولید
+oversaw / 30/353: / pf of oversee :
+۱. [ تجارت, بازار, مستعمره, کمک ] /20۷351:2,/ overseas
+خارجی, ماورای بحار؛ (رادیسو. تلویزیون) [برنامه ]
+برون‌مرزی
+X adv خارج (از کشور)» در خارج؛ به خارج
+overseas students; students from overseas
+دانشجویانِ خارجی
+دانشجویان خارج از کشور students overseas
+از خارج, از ماورای بحار from overseas
+(pr oversaw, pp overseen) / :51 داد / oversee
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+۷ نظارت کردن برء زیرٍنظر گرفتن. سرپرستی کردن,
+تحت نظارت گرفتن؛ پاییدن
+overseen / 20۷۵۹۱: / pp of oversee
+nn )8( [کارخانه, کارگاه و غیره]  / overseer /'ssvasia(r)
+ناظر, مباشر, سر پرست؛ [زندانی ] مراقب, مأمور
+oversell / ssva'sel/ ( pt,pp oversold)
+۱ [شخص ] مجیز ...را گفتن. گنده 3S هندوانه
+زیر Ja ... گذاشتن؛ [ چیز ] اغراق کردن در مورد.
+مبالغه کردن در مورد ۲. [نمایش, سابقه ] بیش از
+ظرفیت بلیت برای ... فروختن
+بیش از oversensitive/ asvasensativ/ So
+حسَاس؛ اسیب پذیر. زودرنج. نازک‌نارنجی
+«Su ad) نشهوری: over-sexed/ auvs ‘sekst/
+پرشهوت
+wr ۱.سایه انداختن / اولح | دود | overshadow
+بر / روی» زیر Al خود قرار دادن ۲.(مجازی) در
+غبارٍ غم فروبردن, سایه‌ای از غم بر...افکندن, گرد
+غم پاشیدن بر ۳.(مجازی) تحت‌الشّعاع خود قرار
+دادن َ
+گالشی / overshoe /'suvafu:
+overshot) در overshoot / ssva fu:t/ (pt,
+الا ۱. [هدف] نزدن به. بالاتر زدن 3,00 شدن Gl
+گذشتن ol فراتر رفتن از
+The aircraft overshot the runway. > >
+خطا کردن, به هدف نزدن. overshoot the mark
+تیر کسی به هدف نخوردن
+pt,pp of overshoot ۵۱۱ ند / overshot
+7 ۱. بی‌توجهی, عدم توجه. oversight /suvasart/
+غفلت. سهی اشتباه ۲ نظارت: سر پر ستی, مراقبت
+over-simplification/.osva stmplifikerfn/
+ساده 03S بیش از 3s ساده‌انگاری بیش از 3
+‘simplifar / دهد / over-simplify
+۷۸ بیش از حد ساده کردن. (pt.pp over-simpiified)
+زیادی ساده کردن؛ بیش از J ساده انگاشتن
+/'suvasaiz/ = oversized ۵0۷60۲5126
+آلباس ] خیلی بزرگ. oversized /‘suvasaizd/
+بیش از اندازه گشاد. گنده؛ [خانواده] شلوغ,
+پرجمعیّت. گل و گشاد. بی‌در و دربند
+oversleep/ suvasli:p/ (pr,pp overslept)
+vi خواب ماندن. کسی خوابش بردن» دیر بیدار شدن,
+به موقع بیدار نشدن
+of oversleep ام overslept/suvaslept/
+pp of oversell ام oversold / auva'sauld/
+overspend’ /ouva'spend/ ( pr,pp overspent)
+۷ .بیش از do استفاده کردن, رُس...را guess ۲.
+[درآمد ] بیشتر از... خرج کردن, زیادتر از... خرج کردن
+vi ولخرجی کردن, خیلی خرج کردن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1186 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: overspent; overspill i'auvasprl; an overspi; overstaffed; overstate; overstatement; overstay; overstep; overstock; overstrain; overstretch; overstrung; oversubscribe; oversubscribed; overtake; overtaken; overthrow; overtime -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+خرج اضافی. overspend? /'suvaspend/
+اضافه خرج
+overspent/ suva'spent/ pr,pp of overspend’
+m2 ,5 ۲.مازادٍ جمعیّت. overspill /svvasprl/
+اضافه جمعیّت
+an overspill housing development Ses
+حاشیه‌ای, شهرک اقماری
+[اداره ] (US) -staft/ مناد / 00۲131160
+پرکارمند. که بیش از 3a کارمند ls که عضو
+زیادی دارد ۱
+vt ببزرگت کردن: گنده کردن. overstate /auvosteit/
+اغراق کردن دربارٌ مبالغه کردن در شاخ و برگ
+دادن به
+ale n مبالغه / هه overstatement
+4 (در 5,50 اقامت) بیش از ۰ overstay /ovvaster/
+Se طولانی کردن, طولانی‌تر کردن, طولش دادن
+(در جایی) بیش overstay one's welcome
+از Js ماندن, ev] ماندن که میزبان خسته شود
+( نظامی. اداری) بیش از overstay one's leave
+ple مرخصی ماندن
+/suvastep/ ( prp overstepping, 0۷۵۲۹1۵۵
+vr [حدود., حدّ ومرز ] فراتر pt,pp overstepped)
+رفتن از تجاوز NC برگذشتن ازء با فراتر
+گذاشتن از
+از 3 )355( overstep the line / mark
+تجاوز کردن, بیش از حدّ پیش رفتن, پا از گلیم خود
+درازتر کردن, از حدود oblast خود فراتر “a,
+ut ۱. بیش از حد پر کردن» overstock/svvastok/
+بیش از حدّ انباشتن ۲. زیاد ذخیره کردن, بیش از
+J انبار کردن
+مزرعه‌ای با اضافه‌دام an overstocked field
+ani] ۷4 اسب. قلب ] خیلی overstrain/auvastrern/
+خسته کردن, کوفته کردن, زور آوردن ear زیاد کار
+کشیدن Gl فشار آوردن به؛ [نیرو, منابع ] بیش از حدّ
+استفاده کردن از :
+الا [شخص. چیز ] فشار | اد اند / overstretch
+زیادی آوردن به. بیش از Go استفاده کردن از
+تحت فشار زیادی بودن؛ be overstretched
+Jb زیادی بر دوش داشتن
+ad) عصبی, هیجان‌زده. / overstrung' / suva'strag
+برانگیخته؛ عصبانی» برافروخته
+adi [پیانو ] دارای / overstrung? /'suvastran
+سيم‌بندي ضربدری
+WUT [ تشک ] خوب /svvastaft/ 0۷6۲511160
+پرشده Y (مجازی) 5 FRAN!
+D=got O:=s: تطاه خن i=see 1=sit @=cal
+=go ar = five au = now oI = boy I ناه el = say
+aya = ۳ j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 overtime
+oversubscribe/ suvasab'skraib / [سهام, بلیت و 4
+موجود پیش‌خرید کردن؛ بیش از do غیره ] پیش از
+
+do نام‌نویسی کردن برای
+تقاضای بیش از عرضه داشتن  be oversubscribed
+YE] ad) خدمات و / 5۵:00 دود اند / 0۷6۲50050۲1060
+[oe دارای تقاضای بیش از Os با تقاضای بیش
+از موجودی
+(am) 4 [خصومت و overt /'asvait, (US) au'vairt/ [od
+اشکار, (He مشهود. Gol معلوم, ls سرراست
+overtake | asvoterk / ( pt overtook,
+۱.سبقت گرفتن Gl جلو زدن از pp overtaken)
+گرفتن. ری شدن از oes) oi Sept (shee dat
+افتادن Sl رف ads Gawd شدن؛. [ ترش امجب] AE
+امدن بر مستولی شدن بر؛ [حوادث ] غافلگیر کردن؛
+بر سر ... فرود Ol
+4 ۳ سبقت گرفتن
+ناگهان گرفتار... شدن, be overtaken by / with
+ناگهان RECT i. J
+( در بربتانيا آتو مبیل) سبقت ممنوع no overtaking
+overtaken / suva'teikan/ pp of overtake
+4 ۱.(رسمی) [شخص ] فشار overtax / suva'taks/
+آوردن ed زور آوردن به ۲. بیش از Sm مالیات
+بستن برء SUL سنگین بستن بر؛ [شخص ] بیش از
+is مالیات گرفتن از
+به خود فشار آورادن overtax one's strength
+Sp LAS را لبریز overtax sb's patience
+کردن, کسی را از جا دربردن
+overthrew / suvo'dru: / pt of overthrow!
+overthrow! /suvatros/ ( pr overthrew,
+Wt [شخص, حکومت ] سرنگون pp overthrown)
+po = ساقط کردن. برانداختن. موجب
+انقراض ...شدن؛ [دشمن, کشور] شکست ols
+مغلوب کردن
+2 ۱ سرنگونی, سقوط؛  overthrow? /'auvafras/
+انقراض؛ سرنگون کردن, ساقط کردن؛ mms]
+کشور ] شکست ۲.(کریکت) پرتاپب دور
+pp of overthrow 01 دی / overthrown
+7 ۱.اضافه‌کار, اضافه‌کاری overtime /ovvatamm/
+۲ در آمریکا ورزش) وقتِ اضافه
+adv ۳ به عنوان اضافه کارء فوق‌العاده
+اضافه کار be on overtime NG
+)55( اضافه کار overtime payment
+(محاوره) تمام نیروی work overtime to do sth
+خود ۱ اصراف (کاری) کردن, تمام سعي خود را کردن
+dS
+
+w  u=cook u:i=t00 A=cup a=bird a= about
+
+= near وع = hair U9 = pure ero = player aro = fire
+
+0= thin 0 = this [=shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1187 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: overtly; OVertone; overtook; overture; overturn; overuse; overview; overweighted; overwhelm; be overwhelmed with; overwhelmingly; overwork'; overwritten; overzealous; oviform; ovine; oviparoUS; ovoid; ovulate; ovulation; ovule; ovum; OW; owe -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+overtly 12
+0 (رسی) overtly /swvatly, (US) suvartli/ (ike
+آشکاراء علنی, به رأی‌العین, بی‌پرده
+1 ۱.(موسیقی) هارمونیک اد overtone
+.در جمع) اشاره‌های تلویحی. سایه, لحن. رگه.
+ر نک > His speech had political overtones. <
+pr of overtake / دی / overtook
+overture /‘suvatfsa(r), -tiva(r)/ Po 7
+نیز در جمع) فتح wl تماس, مقدمه چینی ۲. (موسیقی)
+اورتورء پیش‌ذرامد ۳ [شعر] مطلع
+با کسی باب صحبت را make overtures to sb
+گشودن, با کسی سرٍ صحیت را باز کردن
+wt ۱ واژگون کردن. 0۵0
+سرنگون کردن, بسرگرداندن, باعش چپ
+شدن ...شدن ۲.(مجازی) به هم زدن, 25 و رو کردن.
+عوض کردن» تغییر دادن ۳ [حکومت ] سرنگون
+کردن, برانداختن, ساقط کردن
+VE ۴. واژگون شدن, سرنگون شدن» برگشتن» چپ
+کردن. چپ شدن
+VI بیش از Ao استفاده کردن overuse’ /auvajuiz/
+از, استفادة زیادی کردن ازء زیادی به‌کار گرفتن
+sland nn بیش از حد overuse? /suvajuis/
+استفادةٌ زیادی, ae بیش از Jo
+8 (رسمی) رئوس کلّی, / مات وت ازی
+خطوطٍ IS نمای (AS شرح مختصر
+۱.(رسمی) [غرود. overweening/ssvawimnig/
+تکبّر, بلندپروازی ] pam yd به‌غایت ۲. [شخص ]
+ازخودراضی. Foe
+ad) .بیش از 3 سنگین. overweight /sovawent/
+سنگین‌تر CR مجاز ۲. TE
+۲ ۳ چاقی, اضافه‌وزن ¥ سنگيني بیش از d= وزن
+زیاد؛ اضافه‌بار
+(Lewy) adj ۱. بیش از /30۷3۷:۵,/ 0۷۵۲۷۷۵۱011160
+Se سنگین (iow) XY انباشته از» سنگین از» پر از
+4 ۱ (در مورد overwhelm /osva'welm, (US) “hwelm/
+آب. سیل) پوشاندن, در خود گرفتن. غرق کردن, در
+خود غوطه‌ور ساختن, در خود فروبردن؛ (در مورد
+خاک, بهمن) بر سر ... فروریختن؛ (در موردٍ احساسات) از
+پای درآوردن ۲. ms] حریف ] از پای درآوردن,
+شکست pols غلبه کردن ip پیروز شدن برء در
+هم کوبیدن
+wi] ناامیدی و غیره ] be overwhelmed with sth
+غرق در... بودن؛ [منت ] زیر بار... بودن
+be overwhelmed with / by sb's kindness
+شرمنده pla کسی شدن
+overwhelming /suva'welmiy, (US) -hwelm-/
+1 [احتیاج, میل ] شدید. زیاده از حدٌ اجتناب‌ناپذیر؛
+[ بیروزی, شکست. اکثریت ] bls مسلم, چشمگیر؛
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+[قدرت. فشار ] مقاومت‌ناپذیر» نفس‌گیر؛ [بدبختی, غم.
+گرما] طاقت‌فرساء کشنده, شدید؛ [اخبار خوش ]
+مسرّت‌بخش, شادی‌بخش؛ [اخبار بد] Shea 2b
+دردناک؛ [استقبال ] بسیار گرمء خیلی صمیمانه
+برداشتِ غالب  one's overwhelming impression
+overwhelmingly / suva'welmigls, (US) -hwelm-/
+A adv [پیروز شدن, شکست خوردن ] به طرزی قاطعء به
+—b ۱ 55( چشمگیر؛ [رأی دادن, opi رد کردن ]
+dios, همگی das Ly بی‌نهایت
+7 ۱. [شخص, اسب ] به کار overwork! /asvawaik/
+زیاد وآداشتن, کار ,زیاد کشیدن 3 خستة کرهدن: از
+پا انداختن ۲. [کلمه. عبارت ] زیاد به کار بردن» از فرط
+استفاده بی‌معنی کردن. عادی کردن, پیش‌پاافتاده
+کردن ۳ به هیجان آوردن؛ عصبی کردن, خسته
+کردن
+4 ۴. سخت کار کردن, زیاد کار RIES: زحمت کشیدن
+n کار سخت. کار زیاد: 0
+زیادکاری, کار شاق, زحمت زیاد
+overwrite / ssvarart/ (pr overwrote,
+v2 (کامپیو تر) [فایل و غیره ] pp overwritten)
+روی ... نوشتن, روی هم نوشتن
+pp of overwrite / ادن / overwritten
+overwrote / suvarast/ pr of overwrite
+adj ۱.عصبی, آشفته. overwrought / ssvaro:t/
+به‌هم‌ريخته. پریشان ۲. (کهنه) خسته. کوفته ۳ بیش
+از Am سزیین‌شده. پرزینت. پرزرق (Bt
+پرلفت ولعاب
+adj بیش از J شایق / داد در / overzealous
+بیش از J شوق و ذوق داشتن be overzealous
+1 (کالیدشناسی) Ag رحم 0۵0
+ad) بیضی‌شکل, بیضوی, oviform /asvifo:m/
+تخم‌مرغی
+adj گوسفندی؛ مثل بره ovine /'svvamn/
+[Loe] adj تخم‌گذار, تخم‌زا  /20۷:09۲35/ oviparous
+(as) Nad) تخم‌مرغی‌شکل. ovoid /'asvard/
+بیضوی
+۲.(رسمی) چیز تخم‌مرغی‌شکل, چیز بیضوی
+7 (پزشکی, زیست‌شناسی) ovulate /'ovjulert/
+[زن ] تخمک گذاشتن
+28 پزشکی, زیشت‌آفنناشی) 0۵0
+تخمک‌گذاری
+WE) 7 جانور) اوول» تخمک ovjul/ ,اندازاناد/ ovule
+2 (زیست‌شناسی) تخمک ovum /'asvem/ ( pl ova)
+int آخ. وای OW /au/
+VI ۱. بدهکار بودن cds مقروض بودن OWE /au/ dy
+مدیون بودن به. بدهکار ... بودن ۲. بدهکار بودن,
+مقروض بودن ۳. رهینی gale ... بودن» مدیون ... بودن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1188 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: owing; owing to; delayed due to; owlet; owlish; owlishly; own; get; He has his own room; He has his very own room -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+vi ۴..بدهکار بودن. مقروض «B35 مدیون بودن.
+بدهی داشتن
+(محاوره) به کسی بدهکار شدن, owe sb one
+مدیونِ کسی شدن, یکی به نفع کسی بودن
+think the world owes one a living — world
+به کسی کینه داشتن, owe sb a grudge
+با کی = داشتق
+باید آزت برای... تشکر کنم. I owe you thanks for...
+مدیونش که نیستی. You owe him nothing.
+ازت طلبکار که نیست.
+چیزی را مدیون... بودن. owe sth to
+چیزی را مرهونٍ... بودن؛ چیزی را از... داشتن
+استعدادش به  He owes his talent to his father.
+پدرش رفته است.
+He owes his failure to his own carelessness.
+بی‌دقتی‌اش esl شنکستخش شد.
+(رسمی)  2 ...0۶ To what do I owe the honour
+افتخار ..: را مدیون چه هدمتیم؟
+ما باید به We owe loyalty to our country.
+کشورمان وفادار باشیم.
+4 [بول ] نیرداخته. مانده, که owing /'auiy/ LL
+پرداخت «gay پرداختنی
+به سبب, به A we جهت. ان owing to /su1y
+به دلیل, به Cb
+نظر به این‌که, از آنجا که owing to the fact that
+dads a اين‌که
+از این رو بدین سبب, لذا owing to this
+۱ نكتةٌ کار بردی:
+owing to Ole در انگلیسی گفتاری کمتر از Sols
+due to کاربرد دارد اما این هر دو عبارت تا حدودی
+wil jay و اغلب در آگهی‌های اداری b بیانیه‌های عمومی
+به کار می‌روند:
+All flights into London Heathrow have been
+delayed due to / owing to thick fog.
+در انگلیسی گفتاری به جای دو Ske بالا معمولاً از
+عبارتِ because of استفاده می‌شود:
+All flights have been delayed because of fog.
+thanks to Ole غیررسمی است و به خصوص برای
+توضیح دلیل يا چگونگی وقوع پیش‌آمدهای خوب به کار
+7 می‌رود:
+Thanks to the public's generosity, we've been
+able to build two new schools in the area. ۱
+5 دستوری: owing to Cols را نمی‌توان بلافاصله
+پس از Jud ۵6 ۵ به‌کار برد؛ اما پس از افعال دیگر
+می‌توآأن.
+I= sit @ = cat a: = father D= got . 3:= 4 6 <<
+al = five au = ۷ oI = boy Ic 0 < ناد el = say
+aud = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 own
+بعد از wb را فقط due to بعضی معتقدند که عبارتِ
+را با افعال ol به کار برد اما بسیاری از مردم to be Jo
+
+دیگر نیز به کار می‌برند:
+The accident was largely due to human error.
+Prices have risen due to an increase in demand.
+جغد. بوف, بوم owl /aul/
+wise as an owl — wise
+صدای جغد the hoot of an owl
+۸ جوجه‌جغد. بجّه Jar بان شوت اند
+۱.(مربوط به) جغد ¥ lysis /]:آنه/ owlish
+مانندٍ جغد, جغدی؛ PLANT) ] فکورء جدّی؛ عبوس
+daa asl adv مثل جغد؛ اد owlishly
+فکورانه. جذدّی؛ با حالتی عبوس
+4 ۱.خود. خویش own’ /aun/
+1 ۲ مال خود
+By یکی‌یکدانه‌ام my own one
+به دلایل خاص خودش for reasons of his own
+قدر ی 5 come into one's / its own
+معلوم شدن. ارزش جیزی / کسی دانسته odd چیزی /
+کسی خودش را نشان دادن
+۱ از خود دفاع hold one's own (against) (in)
+کردن, از پس ... برامدن ۲ مقاومت کردن. ca
+کردن, پایداری کردن
+برای خود. از yes of خاص 355 of one's own
+۱ به تنهایی, تنها (all) on one's own
+Y دست تنها, as به Oa wel کمک آدیگران ۳.
+(محاوره) بی‌همتاء تک. عالی, فوق‌العاده
+( محاوره) انتقام get / have one's own back (on)
+خود را گرفتن"
+هر کسی راه خودش, هر کسی each to his own
+کار خودش lh خودش, هر کسی Bid خودش را دارد
+1a | کاربردی, : |
+BS دستوری: own LS را تنها پس از صورت‌های
+She کلمات. نظیر company's John's .my و »7 ol
+به کار می‌بریم:
+He has his own room / a room of his own.
+کلمة Lown قبول very IS دارای sts بیشتر می‌شود:
+He has his very own room / a room of his very
+own. ۱
+۷ ۱.داشتن, صاحب ... بودن, own? /sun/
+مالکي... بودن» در Shad کسی بودن؛ eS Ji
+بودن ۲. اعتراف کردن به. مقر آمدن gawd (A شدن
+به؛ پذیرفتن aS قبول کردن که آقرار کردن AS
+
+۷ 090006 u:=t00 A=cup 3=bird = a=about
+
+= near ea = hair Us = pure ده = player ara = fire
+6= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1189 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: ownerless; oxalic acid; Oxbridge l'oksbnd; oxblood; oxen; ox-eye; ox-eyed l'oks aid; oxidation; oxide; oxidisation; oxidize; Oxon; an oxyacetylene burner; oxygenate; oxygen bottle; oxygenise; OXygenize; oyster; oyster bed -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+own brand 121
+: اعتراف کردن که. تصدیق کردن که. اذعان کردن که
+۳ معترف (pos اذعان داشتن, تصدیق کردن.
+اعتراف کردن, پذیرفتن, خستو شدن
+Vi] قبول 05,5 پذیرفن. own up (to sth)
+| تن دردادن, به گردن گرفتن. اعتراف کردن
+بر «کالا با مار / own brand / aun ‘brand
+فروشگاه, کالای سفارشی
+[YS] Y adj سفارشی, با مارکي خصوصی
+(San صاحب, دارنده OWNEr /'suna(r)/
+sal, # مالک /(۱۵۲۵۷۹0 ۵:0۵ / owner-driver
+اتومبیل
+44 بی‌صاحب, بدون مالک.  ownerless /aunalis/
+ِ بدون صاحب
+4 [خانه ] در sunar ‘pkjupard/ 0۷۵۳-۵060
+Gnas مالک, که صاحبخانه خود در آن می‌نشیند
+: مالکی که owner-occupier/ ssnar 'okjupaia(r)/
+در 8B خود می‌نشیند. صاحبخانه‌ای که خانه را
+در تصرّفي خود دارد
+Non مالکیت؛ ownership /'aunafip/ Sas
+Ga ۲ مالکیّت
+7 (ورزش) گُل به دروازه 'gaul/ ند / own goal
+خود؛ (محاوره) خیطی, گاف
+x را به دروازةٌ خودشان زد. It was an own goal.
+(مجازی) خیطی بالا آورد. گاف کرد.
+own label / aun 'letbl/ = own brand
+۱. ورزاو گاوٍ نر ۲.گاو OX /pks/ ( pl oxen)
+۳ ( محاوره, بهتحقیر) Job بی‌شاخ ودم. گاو
+اسید اگزالیک, oxalic acid /okszlik ‘zs1d/
+جوهرٍ تشک
+n (رنگ) قرمزٍ تند»ه سرخ | ادها / oxblood
+جگری. ( قرمز ) Ga گاوی
+adj [دریاچه و غیره ] طوقی, oxbow /'pksbau/
+نعلی‌شکل
+7 (در بریتانیا) ( دانشگاه‌های)  Oxbridge /'oksbrids/
+اکسفورد و کمبریج
+| کسفورد و کمبریج‌دیده Oxbridge educated
+dmg |اکسفورد و کمبریج an Oxbridge accent
+۸ گاری گاوکش oxcart /'okska:t/
+OXen /'oksn/ pl of ox 1
+(JS) n گاوچشم؛ /'pks ar/  یدوواد tlie 60-2۷۵
+[Lani] ad) چشم‌درشت. ox-eyed /'pks aid/
+چشم‌گاوی؛ [جنم ] باباغوری
+Lgl 7 گاوی؛ ال ده ام / ox-eye daisy
+مارگریت
+Oxfam /'pksfzm/ > Oxford Committee for
+n موْسسةٌ خيريةٌ آکسفام Famine Relief
+oxhide /'okshard/ Wow, n
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+oxidation /,oksrderfon/ [شیمی) اکسیداسیون» 72
+اکسایش, اکسید شدن, اکسیدن؛ ]8[ زنگ‌زدگی
+oxide /'vksard/ (شیمی) کسید 22
+oxidisation / pksidar'’ze1 fn, (US) -dr'z-/
+= oxidization
+oxidise /'oksidaiz/ = oxidize
+oxidised /'vksidarzd / = oxidized
+oxidization / pksidar'ze1 fn, (US) -d1'z-/
+= oxidation
+oxidize /'oksidaiz/ ۱.اکسید شدن ۲. زنگ زدن vi
+باعش زنگ زدن...شدن ۳
+| اکسيد کردن ۴ 7
+oxidized /'oksidarzd/ اکسیده adj
+Oxon’ /'vksn/ < Oxonia آکسفورد. آکسفوردشایر n
+Oxon? /'vksn/ > Oxoniensis [ [درجه. فارغالتحصیل adj
+از دانشگاه | کسفورد
+oxtail /'oksteil/ دنبالجة گاو
+oxyacetylene / pksia'setalin/ آکسی‌استیلن. n
+مخلوط اکسیژن و استیلن
+an oxyacetylene 00۳6۲۳ / 1200 / torch
+مشعل جوش اکسیزن
+oxyacetylene welding جوشکاری با اکسیژن.
+جوش اکسیژن
+oxyacetylene equipment دستگاه جوش اکسیژن
+0 (شیمی) اکسیژن ۸
+0۵0 / dy 53) آاکسیژن 7
+اکسیژن‌دار کردن؛ با اکسیژن آمیختن, اکسیژن دادن
+oxygen bottle /'vksidson botl/ کپسول اکسیژن 72
+oxygen cylinder /'oksidsen silinda(r) /
+= oxygen bottle
+oxygenise /'pksidsonaiz/ = oxygenize
+oxygenize /'vksidsanarz/ ۱.اکسیژن زدن بد. ve
+اکسیژن‌دار کردن, با اکسیژن آمیختن, اکسیژن دادن
+اکسید کردن ۲
+... زدن 3 cello اکسید شدن ۴. زنگ زدن vi
+شدن
+oxygen mask /'oksidsen ma:sk, (US) mask/
+اکسیژن Sela n
+oxygen tent /'vksidson tent/ چادر اکسیژن nn
+۵65 /aujes/ = oyez :
+0۵۷02 Javier! خاموش «iS (در دادگاه و غیره) گوش 4
+oyster /'asto(r) / صدف, صدفي خوراکی
+| the world is one's oyster — world
+| shut up like an oyster ماندن, JY مجازی. محاوره) (
+| کسی درنيامدن GH
+oyster bed /arsto bed/ محل پرورش LBs 7
+| i صدف
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1190 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: oyster-catcher; oyster farm; OZ fauns; ozone; ozone-friendly; ozone hole -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+oyster-catcher /sists kat far) / (تزنگه) 1
+صدف خوار
+oyster farm /oists fam/ (Baw محل پرورش
+i صدف‌داری
+۵2 /auns/ )07 oz, ozs) = ounce
+ozone /'sszaun/ ۱.(شیمی) آزون 1
+i=see 1=sit m-cal a=father Db=gol  o-= sa
+el = say au = 0 al = five av = now o1=boy 13
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 ozone layer
+هوای لطیف (SU (محاوره) هوای تازه, هوای Y
+ozone-friendly / svzoun ‘frendit/  یارب بی‌ضرر
+آزون اسیب نمی‌رساند AY ازون, که به AY
+ozone hole /'oszavn hasl/ بر شکاف لاية اوزون.
+
+پارگي AY اوزون, سوراخ (AY) اوزون
+oo LY 7 1( مناد / ozone layer
+v=cook u:=t00  A=cup 3: = bird 2= about ~~
+near €3 = hair U9 = pure era = player ara = fire
+thin d= this [= shoe 3= vision n= sing =6
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1191 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pa; PA; pabulum; pace; put sb I sth through his; go through; pace sth off; pacemaker; pacer; pace-setter; PacifiC; pacitiC; pacifically; pacification; pacifier -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+> Sgr
+P, p /pi:/ (pl p's /pi:z/) Gm پی (- شانزدهمین ۸
+آلفبای انگلیسی) :
+mind one's p's and q's — mind? |
+p' /pi:/ < parking (درعلائم راهنمایی و رانندگی) nn |
+محل پارک, پارکینگ
+02 /perds/ (pl pp) < page صفحه.ء ص؛ Tl |
+(درجع) صفحات, صص
+03 /:0۱ط/ > penny; pence  »ینپ محاوره) Mi (در ۸۸
+نی
+pt /'pjanas/ = piano? |
+pa' /pa:/ (محاوره) بابا ۶
+pa? /per ‘znam/ > per annum سالانه adv
+در هر سال, سالی
+PA! /pi: اه > personal assistant پیشکار
+شخصی؛ منشي خصوصی؛ دستیار شخصی
+PA2/pi: ‘e1/ > Press Agent (تئاتر و غیره) مسئول 2
+۳ تبلیقات
+0۸3 / pi: اه > Press Association (در بریتانیا) ۸
+خبرگزاري بریتانیا
+PA“ /pi: ۵/ > public address  )یمومع (در آماکن 1
+(شبکة) بلندگوها
+pabulum / قوت ۲.(رسمی) دازام dis Nn
+ذهن Shs SS lis
+pace! /00:8/ [opi ۱.قدم, گام ۲. [حرکت. پیشرفت و 2
+آهنگ, شتاب؛ [داستان ] پویایی on pin
+at a snail's pace —> snail
+force the pace —> force
+keep pace with کردن, همدوش... eS پا به پای...
+پیش رفتن, همگام با... پیش رفتن, عقب نیفتادن از
+put sb / sth through ۳15/118 paces / کار کسی
+کسی / چیزی را امتحان کردن, 2S چیزی را دیدن,
+کسی / چیزی را امتحان کردن
+set the pace (ورزش) سرعت را تعیین کردن,
+کردن, So peri پیشگام بودن, پیشتاز بودن؛ (مجازی)
+کردن bs Geet
+go through / show one's paces قابلیت‌های خرد
+۱ را نشان دادن:.
+
+<!-- REGION: RIGHT COLUMN -->
+
+پا میرم )
+4
+۷ .در امتداد... آمدن و رفش., pace? /pers/
+در pas Job زدن» بالا و پایین رفتن در ۲.
+(ورزش) [دونده. سوارکار ] J سرعتِ ...را معین Jes
+۳ با قدم اندازه گرفتن, قدم کردن
+vi ۴ قدم زدن. گام زدن
+خود را هماهنگ کردن, Ck jo مناسب pace oneself
+را پیدا کردن
+۷ با قدم اندازه گرفتن. pace sth off / out
+قدم کردن, با گام پیمودن, با قدم گز کردن؛ قدم
+کردن و جدا کردن. با گام‌شماری جدا کردن
+prep علیرغم wooly eas نم pace? /'pessi, ‘paker,
+با احترام به Lif
+do not, pace the correspondents, claim to 1
+با همه احترامی have made any "discovery".
+که به خبرنگاران دارم باید بگویم مدعی نیستم که
+(ASD کرده‌ام.
+72 ۱.(مجازی, ورزش) / pacemaker /'peismerka(r)
+پیشتازء پیشگام
+Y (پزشکی) دستگاو تنظیم (plo) قلب, باتري
+قلب
+Sel 2) 1 ورزش) Sli پیشگام pacer /persa(r)/
+7 (مجازی, ورزش) pace-setter /\pess seta(r)/
+پیشتازء پیشگام
+sl) n ستبر پوست pachyderm /'pkida:m/
+mn ۱. اقیانوس ارام ۱ Pacific /pasifik/
+adj ۲مربوط به) اقیانوس آرام |
+اقیانوس ارام the Pacific Ocean
+4 (رسی) ۱. صلح‌طلب, آشتی جو ¢ / pacific /pastfik ٍ
+صلح طلبانه. اشتی‌جویانه ۲. آرام,. ساکت ُ
+ly so zl adv اند / pacifically :
+صلح طلبانه؛ به آراقی
+۱. [شخص, مردم ] یی
+آرامش؛ آرام شدن؛ ارام کردن؛ [ترس, خشم و [op
+تسکین, فرونشانی ۲. برقراري صلح, برقراري !
+اشتی؛ برقراري آرامش ۳ قراردادٍ صلح ۵
+۸ ۱.(درآمریکا) پستانک. / 00 ۲301110۲ :
+گول‌زنک؛ گول ۲ [شخص ] برقرارکننده صلح؛
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1192 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pacifism; package; packaqe deal -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+]12
+۱ برقرارکنندة آرامش ۳ (چیز) آرام‌بخش, آرامش -
+| بخش, تسکین‌دهنده
+| 7 صلح‌دوستی, صلح طلبی»  pacifism /pasifizom/
+| طرفداری از صلح. صلح‌گرایی
+Nn صلح طلب. صلح دوست. pacifist /'pasifist/
+| پیروٍ مشرب صلح‌طلبی, صلح‌گراء Jb صلح
+X adj صلح طلبانه. صلح دوستانه؛ (ag bg a)
+| صلح طلبی» ( مربوط به) صلح‌دوستی
+Nv [شخص, pacity /'pasifar/ ( pr,pp pacified)
+| مردم ] ارام کردن؛ [ ترس, خشم و غیره ] فرونشاندن,
+ull os تسکسیق دادن ۲. [کششوره ناحیه ] صلح
+برقرار کردن 3 ارامش برقرار کردن در؛ [cdl]
+ارام کردن, به ارامش واداشتن
+7 ۱. بفچه. بسته؛ کوله پشتی, کوله pack! /pak/
+۲. پاکت؛ جعبه, قوطی (مقوایی) ۲ [گرگ. سگ و
+غیره ] دسته, گله؛ [ پیشاهنگ ] کرو (محاوره) [دزد.
+(Awd (Caos [ Gas! عده؛ [دروغ ] مشت ۴. (راگبی)
+گروه حمله ۵. [ ورتي بازی ] دست. دسته ۶.(در ترکیب.
+Sl پوشش) (Sle حوله > 1200-080۷ 2>؛ کیسه
+an ice-pack > <
+یک پا کت سیکار a pack of cigarettes
+پیشاهنگ ... بودن, 7 / باه Icad the pack of
+پیشا پیش ... بودن
+the joker in the pack —> joker
+NW بستن, پیچیدن؛ تو جعبه گذاشتن؛ pack? /pak/
+تو پاکت گذاشتن؛ تو جمدان گذاشتشن؛ ox] نخ]
+کلاف کردن, پیچیدن N | جعبه. صندوق. جمدان [ پر
+کردن, انباشتن ۳ [کالا] بسته‌بندی کردن GUILE
+wos ذهن و غیره ] آنباشتن, » کرادن ۵ [ چیز, برف, خاک
+و [ok روی هم انباشتن, توده کردن, انباشته کردن,
+روی هم چپاندن؛ [مردم ] چهاندن ۶.(در آمریکا, محاوره)
+Si] و غیره ] هميشه با خود داشتن, داشتن, همراه
+کسی بودن ۷:(محاوره, به طعنه) [اعضای ate هیئت منصقه
+و غیره ] قطار کردن؛ ردیف کردن, جور کردن
+vi ۸ بار خود را بستن؛ چمدان خود را بستن .٩
+بسته‌بندی شدن ۱۰ [چیز, برف. خاک و غیره ] روی هم
+انباششه شدن, توده‌شدن, انباشته (gus تلنبار شدن؛
+[مردم ] چهیدن
+send sb packing — send ۱
+جیزی را گذاشتن در / نوی pack sth 122 / into sth
+چیزی را پیچیدن در / توی» چیزی را بستن با
+بار ays خود را جمع pack one's bags 19S
+( مخاوره) بار و بندیل خود را جمع کردن (و Cody
+بساط خود را جمع کردن, تشریفب خود را بردن, جمع
+کردن و رفتن :
+i= see I= sit ®= cal a:= father p= got Sims
+el = say WU =go ar = five au = now or = boy 1
+apa = hour j= yes w= wet {/ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 package dealt
+be packed بار خود را بسته بودن ۲. [خانه. A
+رستوران ] شلوغ بودن, پر بودن
+be packed with SV انباشته بودن ازء پر بودن
+آکنده بودن از
+pack sth into [کار, برنامه‌های زباد ] گنجاندن,
+(eine انجام دادن در ( زمانی
+pack a (hard) punch cows ] (محاوره) ۱. [مشت‌زن
+SE kT کی داشتن, دستِ کسی سنگین
+غیره ] حسابی قوی بودن, مردافکن بودن
+pack into جا گرفتن در
+pack sth away غیرلازم ] جمع کردن. Jes] vr
+کنار گذاشتن, تو انبار گذاشتن
+036 (محاوره) [مردم, جمعیّت ] دور .۱ ۷
+خود جمع 05,8 نظر ...را به خحود جلب کردن
+ترک 05,8 ول کردن. کنار ] Jas (محاوره) [کار, ۲
+در زمانی محدود) کارهای زیادی ( A گذاشتن
+.۴ برنامه‌های زیادی گنجاندن Osh انسجام
+بستن» پیچیدن؛ تو جعبه گذاشتن؛ تو پاکت
+GAS گذاشتن؛ توچمدان گذاشتن؛ [بشم. نخ]
+کردن, پیچیدن
+Pack it in! . در بریتانيا, محاوره) بس کن! جمعش کن! (
+دست وزدار!
+pack sb off راهی کردن؛ (Os S فرستادن, روانه ۷7
+از سر خود باز کردن
+pack sth out سینما و غیره ] پر پر کردن. 55] vt
+جای خالی باقی نگذاشتن در
+Opera houses were packed out whenever she
+was singing. در هر سالن اپرایی که می‌خواند جای
+"سوزن انداختن نبود.
+pack (sth) up (محاوره) ول کردن. جمع NVI
+کردن (و رفتن )» گذاشتن و رفتن ۲. (محاوره)
+۳ [دستگاه, اتومبیل ] خحراب شدن. از کار افتادن
+وسایل خود را جمع 05,8« بساط خود را جمع
+کردن. بار و بندیل خود را بستن
+[وسایل, لباس‌ها ] جمع کردن. بستن ۵. (محاوره) .۴ 7
+[کار, مدرسه ] ول 05,5« دور ...را خط کشیدن. به
+"۰ رها کردن las امان
+package /pakids/ بسته؛ بقچه ۲. پاکت؛ جعبه. Non
+معاملةٌ JIS قرارٍِ JIS ala ۳ قوطی؛ صندوق
+PUSHER یکجاء معاملةٌ چکی؛ قراردادٍ کلی ۴ ( کامپیو
+نرم‌افزاری) (
+[کالا] بسته‌بندی کردن, بستن؛ (کامپیوتر) بسته‌ای .۵ ۷
+کردن ۶. معرفی کردن» عرضه کردن
+a package of measures مجموعهٌ تصمیمات
+package deal /patads dit/  رارق IS baa a
+Ww U-caok ui=100 A=cup &=bird  o= about
+= near ea = hair U3 = pure elo = player ara = fire
+6= thin d= this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1193 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: package holiday; package store; package toUr; pack-animal; packed; packed lunch; packer; packet; packet boat; pack horse; pack-ice; packing; packing-case; pack-saddle; pack-thread; pact; pad '; pad; pad along; padded cell; padding; paddle; paddle-boat; paddle-steamer; paddle-wheel; paddling pool -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+package holiday 12
+Haken Lon, Malas JS چکی؛ قرارذادٍ SS
+package holiday /'pzkids holader, holadi/
+تور مسافراتی» تورء Sls © دسته‌جمعی
+7 (در آمریکا) package store /pzkids sto:(r)/
+مشروب فروشی
+package tour /‘pxkids tsa(r), to:(r)/
+package holiday =
+7 (طرز) بسته‌بندی؛ / packaging /‘pakidsig
+وسایل بسفه‌بندی؛ JENS پسته‌بندیق
+pes n تار کش pack-animal /'pek zniml/
+حیوانِ باری
+adf [اتاق, خانه و غیره ] شلوغ, 3 packed /pzkt/
+Jen بسته بندی packed 10/۱6/02 iantf/ eal
+le همراهی
+Joins .۱ 1 بسته‌بندی» متصدّی packer /paka(f)/
+بسته‌بندی» بسته‌بند؛ عدل‌بند ۲. دستگاو بسته‌بندی»
+ماشین بسته‌بندی ۳ موْسسةٌ اسباب‌کشی, بنگاه
+اسباب‌کشی ¥ چاروادار |
+2 ۱. [سیگار, بیسکویت و غیره] پاکت؛ packet /pakit/
+جعبه, قوطی؛ بسته ¥ (محاوره) Js زیاد Gls
+پُستی؛ 36 Sp
+سوب آماده packet soup
+پول زیادی درآوردن make a packet
+خرچ زیادی برداشتن. cost a packet
+Jy زیادی خواستن
+Gn 3 پستی؛ او packet boat /pakit
+3,6( مسافرکشی
+n یابی اسب باوکشره pack horse /'pzk ha:s/
+2 (جفرافی) تودةٌ یخ. pack-ice pak as/ 5g
+# ۱. بسته‌بندی؛ باربندی. packing /pakig/
+بارپیچی ۲.(فنی) آب‌بندی ۳ وسایل بسته‌بندی؛
+ol ge بسته‌بندی؛ پوشال؛ (فنی) ela, آب‌بندی؛
+کاسه‌نمد؛ واشر ۱
+postage and packing — postage
+1 جعبه, صندوق packing-case/'pzkin kers/
+پالان» جٌل دنت هنت رده اه
+۷ نخ بسته‌بندی» 41 مادم / 020-1۲۵20
+plans, قاتمه
+lag 1 13 عهد., توافق؛ (سیاسی) pact /pzkt/
+عهدنامه, توافق‌نامه
+olan بستن» قرار گذاشتن. age کردن, make a pact
+توافق کردن :
+Slay عدم تجاوز a non-aggression pact
+pm A adj پرشتاب pacy /'pers/
+۶ ۱.(برای جلوگیری از سایش و اصطکاک)  pad’ /ped/.
+ٍ بالشنک. تشکچه ۲. (برای پر کردن چیزی) لایی» حشو,
+ِ پیزور؛ پوشال؛ کاه؛ ابر ۳ (پزشکی) تامپون» پنبه ۴.
+
+<!-- REGION: RIGHT COLUMN -->
+
+14
+(خیاطی) لایی؛ ال ۵ (ورزش) مچ‌بند؛ راو ta
+ساق‌بند ۶. دفترچه. drs کاغذ ۷.استامپ Sa] A
+: روباه و غیره ] AL Ai [نیلوفرآبی و غیره ] yrs Sm
+Sol شناور ۱۰. [هلی‌کویتر ] سکوی پرواز؛
+Kp] ]اسکوی پرتاب SO (alley) WY
+THES : |
+a shoulder pad BY |
+padded) دام pad? /pzd/ (prep padding, |
+ند (برایی اجلوگیزی از سایش و (Slat بالشتک rat) |
+برای» دشکچه گذاشتن POP Ee] Jo پوشاندن؛ |
+(برای پر کردنِ چیزی) لایی گذاشتن درء توی...را پر
+کردن
+پوشیده بودن با؛ پر شده بودن از be padded with
+پاکتِ لایی‌دار a padded envelope
+سرشانه‌های padded shoulders Ob Jil
+سرشانه‌های لایی‌دار
+سینه‌بند ابری a padded bra
+۶ 3۱ آلباس] لایی: گذاشتن برای / در pad sthout
+حشو گذاشتن برای / در ۲. [کتاب, مقاله و [ost
+حشو و زواید افزودن به. شاخ و برگ دادن به»
+کش دادن پر کردن
+pads /pzd/ (prp padding, pt,pp padded)
+۶ ۱. ریز و نرم قدم برداشتن, نرم رفتن ۲. پیاده رفتن
+۱ ریز و نرم قدم pad along / about / around
+برداشتن» نرم رفتن ۲. پیاده رفتن
+
+7 (در بیمارستانِ روانی) padded cell / pzdid 'sel/
+اتاتي تشک پوش, اتاتي بیماران تحریکاتی
+
+padding /'padiy/ : sy ] ره لباس و غیره An
+حشو؛ پنبه؛ پوشال؛ ابر ۲. [کتاب ] حشو و زواید.
+: شاخ و برگ
+
+7 ۱.(دریانوردی) پارو ۲.(دریانوردی) /0241/ paddle’
+پاروزنی ۳ [چرخ [A پرّه ۴.(آشپزی) کاردک؛
+قاشقک؛ کفگیر؛ [همزن ] تیفه ۵. SHS غواصی ۶.
+(ورزش) راکت
+
+vi ۷.(دریانوردی) پارو زدن
+
+vr ۸. [قایق ] با پارو راندن؛ آرام پیش بردن
+
+(محاوره) روی پای خود paddle one's own canoe
+: ایستادن, به RY بودن, مستقل بودن
+
+paddle? /padl/  یزاب‌بآ تو آب قدم زدن» .۱ Wi
+1 کردن
+
+4 ۲. [دست. با] تو آب بردن, تو آب تکان دادن
+
+۳ آب‌بازی
+
+0300106-0031 / pzdl bout/ قایق پایی
+
+paddle-steamer/ padi stima(r)/ کشتی بخاری n
+
+paddle-wheel /pad! wil, (US) hwi:l/ & چر
+چرخ آب bes
+
+paddling pool /pzdirg pu:l/ بچّه‌هاً Sul n
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1194 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: paddy; paediatrician; paedophile; paella; pagan; paganism; page; pageantry; pager; pagoda; paid; paillasse -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+۸ ۱.میدان اسب. زمین اسب.  paddock /padek/
+چراگاو محصور ۲.(اسبدوانی) میدانِ تمرین؛ (اتومبیل‌رانی)
+پارکینگی
+Lda a شالیکاری ۲. شالی؛ /:۳24/ paddy’
+Sls
+7 (در بریتانیا. محاوره) عصبانیت, paddy? /pad:/
+بداخلاقی, بداخمی, بدعنقی
+عصبانی بودن, SAS بودن. be in a paddy
+سگرمه‌های کسی تو هم بودن
+۸ (عامیانه به تحقیر) ایرلندی Paddy /padi/
+sda ۸ شالیکاری 1 046 / paddy-field
+padlock /pzdiok/ Jason
+Jas yw زدن به؛ قفل کردن
+۸ (محاوره) ۱.(نظامی) قاضی‌عسکر؛ padre /padrer/
+پدر روحانی .۲.(در بریتانیا) کشیش
+(es) n £39 سرود ستایش؛ paean /'pi:an/
+20 پیروزی؛ 25 سپاس
+paederasty /pedorasti/ = pederasty
+ad (مربوط 4( پزشکی / paediatric / pi:diatrik
+اطفال؛ [بیماری, جراحی و غیره] (مربوط به) Jbl
+(مربوط به) کودکان
+)5 بیمارستان) بخش a paediatric ward Jbl
+بخش کودکان
+پز شک اطفال, paediatrician pi:distrifn/
+متخصّص اطفال, پزشکيٍ کودکان
+پزشکی paediatrics / pi:dratriks / Jbl
+پزشكکي کودکان
+۸ شاهدباز, غلام‌باره / paedophile /pi:daufari
+۸ شاهدبازی, غلام‌بارگی؛ paedophilia/ pidaufilia/
+( روان‌شناسی) Joe جنسی به کودکان
+۸ پلوی اسپانیایی» paella /parets/ WL
+BSN ۸ مشرک. بت پرست 02930/601
+۲ کینه) (آدم) غیرمسیحی, کافر, وحشی ۳ آدم
+بی‌دین. ادم pol das لامذهب
+ad) ۴. کافر» مشرک؛ بی‌دین» das لامذهب ۵.
+bye) به) GUS (مربوط به) مشرکان» Lye)
+4( بت پرستان > pagan customs <
+A n کفر, SLY بت پر ستی paganism /‘peigonizom/
+۲. بی‌دینی. (plas الحاد
+7 ۱. [کاغذ ] صفحه ۲. [کاغذ ] برگ.  page’ /peids/
+ورق ۳ (مجازی) فصل, صفحه, برگ
+a glorious page of English history > <
+۰ ۴ [کتاب و غیره ] صفحاتِ... را شماره‌گذاری کردن.
+شماره صفحه گذاشتن ihn ترتیپ صفحات ...را
+مشخص کردن؛ Sls صفحات ...را بازبینی کردن
+ii=see i=sit &=cat a=father D=got 5
+=go at = five av = Now ot =boy I: ناه cl = say
+avs = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+pain زج
+Hl] .۵ چاپ‌شده ] صفحه‌بندی کردن ۶. [کتاب و
+غیره] ورق زدن
+Ala] چاپ‌شده ] صفحه‌بندی کردن page up
+1 )2 هتل و غیره) پیشخدمت. page? /peids/
+مستخدم. tool دربان ۲.(در دربار و غیره) Sam
+پیشخدمت ۳ (کهنه) شاگرد شوالیه. نوجه
+۴.(با بلندگو) صدا کردن. پیج کردن L.o پیجر خبر
+کردن. با پیجر صدا کردن
+2 ۱.کارناوال, دسته ۲.(مجازی) pageant /prdsont/
+گذار حوادث. جریان وقایع
+the pageant of history > < ۳ نمایش فضای باز؛
+le تاریخی ۴.(مجازی) نمایش پر زرق و برق,
+نمایش پراب و تاب, کبکبه و دبدبه
+Sl Aon باشکوه. مراسم pageantry /padsontri/
+باشکوه ۲. نمایش پر زرق (Gs کبکبه و دبدیه
+۱.(در هتل و غیره) page-boy /۲6۱43 bot/ iw dining
+مستخدم. پادو؛ دربان ۲.(در دربار و غیره) Sam
+پیشخدمت ۳ (کهنه) شاگرد ax gadis
+1 (دستگاه) پیجرء دستگاه / pager /'perdsa(r)
+پی‌جویی» پی‌جو
+AS] v2 [ صفحات ... را paginate / pzdsinert/
+شماره‌گذاری کردن, صفحه‌گذاری کردن
+[AS] 1 ۱. شماره‌گذاری, pagination / padsinerfn/
+شماره‌گذاری صفحات ۲. شمارة صفحات ۳ صفحه -
+بندی َ
+7 (در oid چین و (sp پاگودا, pagoda /pa'gouda/
+heme چینی, BIS چینی
+(af) int پیف pah /pa:/
+paid! /ped/ prpp of pay?
+ad) [کار 5[ دستمزدی,» پولی, paid? /perd/
+با حقوق
+مرخصی باحقوق گرفتن take paid leave
+adj [عضو باشگاه [ors اد 00۵ / paid-up
+۱. بدون بدهی, که حقي عضویتش را پرداخته است
+۲ پر و پا قرص
+n سطل pail /pert/
+یک سطل... a pail of
+n (مقدار) سطل, سطل پر / pailful /pexifvi
+paillasse /pzhas, (US) paljs/ = palliasse
+n ۱.درد؛ احساس درد ۲ رنج» pain /pem/
+ناراحتی. درد. تالم؛ عذاب ۳ (محاوره) زحمت.
+دردسرء گرفتاری؛ آدم مزاحمء موی دماغ ۴. (کهند)
+مجازات. کیفر, مکافات
+wm ۵. درد دادن or ge dy ناراحتي ...شدن. رنج دادن
+درد داشتن be in pain; feel some pain
+Ww U=cook  ui=100 a=cup 30010 a= about
+near ¢a = hair va = pure ¢19 = player aro = fire =
+thin d= this [= shoe 3= vision n= sing =0
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1195 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Her back causes; a pain in the neck; pained; painful; painfully; painkiller; painkilling; painless; painlessly; pains; spare no pains doing; painstaking; painstakingly; paint; not as black as one; paint stii in very black colours; paintbOX; paintbrush -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+pained 12
+Her back causes / gives her a lot of pain.
+کمرش خیلی درد می‌کند.
+( محاوره) موی دماغ a pain in the neck / arse
+مزاحم
+(محاوره) موی دماغ give sb a pain in the neck
+کسی شدن, وبالي 8 53 کسی شدن, مزاحم کسی شدن
+have (got) a pain in one's head / shoulder
+سر slay کسی درد کردن
+کجات درد می‌کند؟ Where have you got a pain?
+(رسمی) با نهدید 4 مجازات.... on /under pain of
+با تهدید به...
+They were ordered not to approach the fence
+به آن‌ها دستور داده شد 4 حصار on pain of death.
+نزدیک نشوند وگرنه مرگ در انتظارشان, خواهد بود.
+پایم درد می‌کند. My foot is paining me.
+It pains me to have to tell you that...
+برایم دشوار است به تو بگویم که...
+WK] ad) لبخند. لحن ] دردمند. pained /pcind/
+دردمندانه, پر از درد؛ [شخص ] آزرده رنجیده
+ad) ۱. [ضربه ] دردناک؛ زسر, دست و painful /'pemfl/
+غیره] که دراد می‌کند ۲ [منظره و [ome دردناک.
+os fb ناراحت‌کننده, اسف‌بار غم‌انگنیز ۴ [کار.
+[ak کشنده, شاق,» 52d سخت. پرزحمت
+درد کردن, درد ذاشتن be painful
+adv به طور دردناکی؛ [زدن painfully /pemfali/  ]
+uf شلات. سخت ۳۳ جه طور اعتف‌انگتزی. radia,
+نازاخت‌کشده‌ای, بد طرّوغم‌انگیری 4 ازشمت.
+به سختی, به طرز مشقّت‌باری؛ به طرز وحشتناکی.
+FERNY
+طوری زد که She struck him quite painfully.
+حسابی دردش آمد.
+7 درد رنج. زحمت / / painfulness
+(alo) n مسکن, / painkiller /'peinkils(r)
+داروی دردزدا
+adj [دارو ] منشکن: دردزدا  painkilling /pemkilig/
+ad . [جراحی. تزریق ] NERY درد. painless /pemlis/
+550 ۲.(مجازی) راحت. old بی‌دردسر
+adv بی‌درد. بدونِ درد painlessly /pemlisli/
+(glue = آسان, asl,
+2 ۱. بی‌دردی. painlessness/pemntisnis/
+poh درد بودن ۲.(مجازی) راحتی. Ad
+Pains /pemz/
+mpl زحمت زیادی کشیدن & be at pains to do sth
+خیلی تلاش کردن که کوشش زیادی کردن که...
+be a fool for one's pains — fool!
+برای تمام Olas کسی, در for one's pains Jus *
+Pls) کسی
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+spare no pains doing / to do sth —» spare 2
+gs زیاد به خرج take great pains Wools
+زحمتِ زیاد کشیدن, دلسوزی زیاد نشان دادن
+LST ad) بررسی [ 3233« / painstaking /pesnzterkn
+حسَاس؛ پرزحمت. دشوار؛ [دانشجو, کارگر [ دقیق؛
+JS, زحمتکش؛ [دقت ] ol فوق‌العاده
+0 با دقتِ ola / 031۹13۳9۷
+با زحمت زیاد. موشکافانه
+Sn ,53 ۲. (نقاشی, در جمع) رنگ‌هاء paint? /peint/
+جعبةٌ رنگ‌ها ۳ )1 سخره) سرخاب و سفيداب,
+Sx رنگ و روغن
+یک دست رنگ, یک لایه.زنگ a coat of paint
+رنگی نشوید! Wet paint!
+۱. [ در دیوار, خانه ] paint? /pemt/ Od) <P
+نسقّاشی کردن؛ رنگی... زدن به ۲. [تصویر, چهره]
+کشیدن, نقاشی کردن ۳ (مسجازی) ترسیم کردن,
+psa کردن ۴. (به مسخره) [صورت ] بزک کردن,
+سرخاب و سفیداب کردن, رنگ و روغن مالیدن به
+۵ ازخم ] مرهم گذاشتن روی» دارو مالیدن به
+vi ۶.(هنر) نقاشی کردن
+i] SK) به خانه زدن, paint a house blue
+خانه را آبی کردن
+not as black as one/it is painted —> black
+( محاوره) paint the town (red) 5, ale Js
+هم میکده‌ها را زیر پا گذاشتن, خوشگذرانی کردن
+تصویری تیره / paint sth in very black colours
+سیاه از چیزی رسم کردن
+ناخن‌های خود را لاک زدن paint one's nails
+به ناخن‌های خود SY قرمز paint one's nails red
+زدن, ناخن‌های خود را قرمز کردن
+با رنگ و روغن نقّاشی کردن paint in oils
+نقاشی اک کردن, paint in water-colours
+با Si کار کردن i
+۷ [نقش وغیره] به نقّاشی افزودن» paint sth in
+توی تابلو کشیدن
+7 [نقش وغیره] از ES پاک : paint sth out
+کردن / lem کردن, روی ...رنگ کشیدن, با
+رنگ پوشاندن
+wt [لکه وغیره ] زنگ 033 paint over sth WSs
+با رنگ پوشاندن
+ner # آبرنگ؛ dine رنگ paintbox /pemtonks/
+n قَلم‌مو paintbrush /pemtbraf/
+EA 7 (ساختمان)؛ / painter! /'pemta(r)
+رنگ‌کار ۲.(هنر) نقاش, صورتگر
+طناب قایق, مهار / painter? /'pemta(r)
+له قایق را باز کردن cut the painter
+۲ با خانوادة خود قطع رابطه کردن. از خانوادةٌ خود
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1196 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: paint spray; paint stripper; paint roller; paintwork; pair; I've found two; Paisley; pajama; pajamas; Paki; Pakistani; pal; palace; palace revolution; palaeographer; palaeographic -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+بریدن, از گذشته بریدن, با گذشته قطع رابطه کردن
+Nn [ساختمان, در و غیره ] نقاشتی: / راهم / painting
+
+رنگ‌کاری, رنگ‌زنی ۲.(هنر) نقاشی. صورتگری,
+نگارگری ۳ (مجازی) توصیف. ترسیم؛ تصویر ۴.
+(هنر) a تابلو نگاره
+بر غلطكکي نقّاشی. / paint roller /'pemt ravla(r)
+Skis رنگ‌کاری
+paint spray /'peint sprei/ EAE <P
+nn کاردک. / paint stripper / pet stripa(r)
+رنگ تراش
+pla] 7 دیوار و غیره ] رنگ,  paintwork /pemtwak/
+pv:
+۸ ۱. [دستکش, کفش, چشم و غیره ] جفت pair /pea(r)/
+۲ (شخص) زوج» جفت ۳.(حیوان) جفت ۴. [Len]
+دو تااسب 0 Cada. ممتنع (< در پارلمان بریتانیا. دو نماینده
+با یکی از دو fans عضو احزاب مخالفی که با یکدیگر قرار
+می‌گذارند در رأی‌گیری شرکت نکنند) ۱
+WE ۶.جفت کردن, جور کردن ۷.(در بریتانیا: مجلس)
+جفتٍ ممتنع کردن
+AWE دو حیوان ] جفت‌گیری کردن 4.(در ikea مجلس)
+Cd ممتنع شدن
+یک شلوار a pair of trousers
+یک قیچی a pair of scissors
+یکت عینک a pair of spectacles
+این شلوار ۳۰ These trousers cost £30 a pair.
+پوند قیمتش است.
+جفت جفت. دوتادوتاء 4 صورتِ جفت in pairs
+show (sb) a clean pair of heels + show 2
+KJ دیگر این کنش  the other shoe of this pair
+You've behaved very badly, the pair of you.
+(محاوره) شما هر دوتان / شما جفتتان, خیلی بد رفتار
+کراد یله
+Nr دوتادوتا جور کردن. pair (sb / sth) off
+جفت‌جفت کردن. دو‌تادوتا با هم جور کردن.
+جور کردن, جفت کردن
+4 ۲. دوتادوتا (OAS جفت جفت «Oud دو‌تادوتا
+با هم جور OAS جور (OAD جفت شدن
+7 دوتادوتا شدن. pair up (with)
+جفت جفت (OAD جور (OAS جفت شدن
+ASS کار بردی:
+pair LIS برای هر مجموعهٌ دوتایی از چیزهایی به‌کار
+می‌رود که یاابه هم alate یا به طور معمول با هم 2050
+استفاده قرار می‌گیرند. از lS مزبور همچنین در 333058
+نفر نیز که کنار هم کار می‌کنند استفاده می‌شود:
+a pair of jeans / slippers
+ii—see 1-sit &=-cat a= father D=got o:=s
+=go a1 = five ay =now a1 =boy 1 ناد el = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 palaeographic
+Drug dealers often work in pairs.
+برای دو یا چند چیز همانند به کار می‌رود: ۶ LIS
+I've found two / a couple of socks but they aren't
+a pair.
+Can you lend me a couple of dollars?
+زا برای دو نفر که با هم (pair LS (و نه couple LS
+ازدولج کرده‌اند یا دو نفر که رابطه‌ای ماندگار با هم دارند
+نیز به کار می‌برند:
+a childless couple
+به هم Six دستوری: شمارش چیزهایی که از دو BSS
+bol پیش از «pair پیوسته ساخته شده‌اند فقط با کلمةٌ
+امکان‌پذیر است. حتّی اگر کلمات ناظر بر آن‌ها wie
+جمع داشته باشند: Sogo خود
+two pairs of jeans
+both pairs of scissors
+a pair of glasses
+پس غلط است اگر مثلاً بگوییم:
+a glasses
+یکدیگرند ولی به هم Sir اما شمارش چیزهایی که
+خود كلمة ناظرٍ بر آن‌ها gob پیوسته نیستند هم از
+:021۳ LIS Lewy امکان پذیر است و هم به
+one shoe
+a pair of shoes
+two / both shoes
+Paisley /'perzli/ جمّه‌ای az ] [پارچه adj
+pajama /padsa:ma, (US) -'dsem-/ (US) = pyjama
+pajamas /pa'd3a:maz, (US) -'d3@m-/ (US)
+= pyjamas
+Paki /'paki/ (در بریتانیا, عامیانه) پاکستانی 4
+Pakistani / pa:ki'sta:ns, (US) paki'stan /
+۱.(مربوط به) پاکستان, پاکستانی 4
+پاکستان Jal پاکستانی, .۴ 2
+pal /pxl/ (prp palling, دام palled) (کهند. .۱ 2
+Oo pam محاوره) دوست. رفیق ۲.(در خطاب) داداش,
+آقا
+pal around (US) = pal up
+pal up (در بریتانيا, محاوره) رفیقی شدن» دوست 7
+Jas gh! شدن,
+palace /'pahs/ قصر al n
+palace revolution / pals revalu:/n/ انقلاب از »
+بالاء انقلاب کاخ‌نشینان
+palaeographer/ pazirografa(r), (US) peil-/
+خطوط کهنه aaa کهن‌خط شناس., نوشته شناس»
+palaeographic/ pzhavgrafik, (US) perl-/
+(مربوط به) کهن‌خط شناسی, کهن خط شناختی, 44
+نوشته‌شناختی
+۷  v=cook u:=too A=cup a=bird o=about
+= near ¢a = hair U9 = pure ela = player aro = fire
+0= thin d= this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1197 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: palaeontology; palatable; palatal; palatalisation; palatalise; palatalize; palate; palaver; pale before; pale-face; palely; paleontologist; palette; palette-knife; palindrome; paling -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+paiaeography 12
+palaeography/ اتود ناه (US) peil-/
+.۲ ۱.کهن‌خطشناسی, نوشته‌شناسی (باستان)
+باستانی؛ نوشته‌های باستانی bss
+palaeolithic / و0 نانهاهی (US) peil-/
+- دیرینه mW به) عصر حجر bye) پارینه‌سنگی, adj
+the Palaeolithic Age NE SIR a.
+عصر حجر 8 دورانِ دیرینه‌سنگی
+palaeontologist/ pxlion'oladist, (US) peil-/
+دیرین‌شناس
+palaeontology/palibn'bladsi, (US) peti-/
+دیرین‌شناسی
+palatable / [غذا] خوشمزه. لذیذ. / داد اند A adj
+[ot خوردنی ۲.(مسجازی) [واقعیت و os
+پذیرفتنی» قابل‌قبول؛ خوشایند
+palatably /‘pzlstabli/ به طور مطبوعی, 0
+خوشایندی ob به
+palatal /pzlati/ به) by 0) pS ۱.(مربوط به) ad)
+دهان ۲.( آواشناسی) کامی؛ سخت‌کامی Cade
+آواشناسی) اوای کامی؛ (در جمع) کامی‌ها (۳ 7
+palatalisation/ palstolarzer fn, (Us) -Ir'z-/
+= palatalization :
+palatalise /palatolaiz/ = palatalize
+palatalization / pzistalar'zer fn, (US) -I'z-/
+آواشناسی) کامی‌شدگی ( n
+palatalize / paiotolarz / (آواشناسی) کامی کردن vr
+palate /'palat/ (m2) Y دهان chi ا.کام, 1
+چشایی, ذائقه
+the hard palate سخت‌کام
+the soft palate نرم‌کام
+palatial /pslerf1/ کاخ‌مانند؛ «pad مثل al مثل adj
+| Jhon 520
+palatinate /paiztinit/ کنت‌نشین؛ حاکم‌نشین. an
+والی‌نشین
+palaver /pala:va(r), (US) -lav-/ ۱.(محاوره a
+به مسخره) قشقرق» الم‌شنگه. جار و جنجال, داد وقال
+شوخی) جر وبحث, بگومگو a) Y
+pale’ /petl/ (comp paler, super palest) [چهره] .\ adj
+زرد؛ رنگ‌باخته؛ [شخص ] رنگ پریده» wl 5.55;
+پریده‌رنگ؛ زرد چهره؛ رنگ‌باخته ۲. [رنگ ] روشن.
+ضعیف.» mh باز, کم‌رنگ؛ رنگ‌باخته؛ [نور]
+پریده‌رنگ
+(کسی) پریدن» رنگ از رخ (کسی) پریدن Ko, x vi |
+go / turn pale REL
+go / turn deathly pale & Ju (کسی) 5K,
+سفید شدن |
+be pale about the gills —> gill
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+Kl رنگت oy است. You look rather pale. ٍ
+در برایر Sex رلک pale before / beside sth
+باختن, در مقابل چیزی ناچیز جلوه کردن |
+7 ۱. [پزچین. نرده ] تیرک» ستون pale? /perl/
+۲ نرده» پرچین ۳ [زمین و غیره ] مرز» dem و مرز ِ
+[عقیده, فکر ] غیرقابل‌قبول, beyond the pale ۰
+پرت. عوضی؛ [شخص ] از مرحله پرت. عوضی |
+3 (به مسخره. در زبان سرخپوستان)   03[6-1306 /0001 feis/
+اسفیدپوست» زردنیو |
+adv [درخشیدن [ به‌طورِ cs He 1 03۱6۷
+به‌طورٍ ضعیفی
+8 ۱ [شخص ] رنگ پریدگی, paleness /‘peilnis/
+زردي چهره. زردچهرگی؛ [چهره ] (SHS
+زردی ۲. [رنگ ] روشنی. کم‌رنگی؛ [نور ] ملایمت.
+صعیف بودن
+paleographer/pairografa(r), (US) peil-/
+palaeographer =
+paleographic/ pahau'grafik, (US) peil-/
+palaeographic =
+paleography/ pairbgrafi, (US) perl-/
+palaeography =
+paleolithic /pahiasi0ik, (US) perl-/
+palaeolithic =
+paleontologist pelion'toladaist, (US) peitl-/
+palaeontologist =
+paleontology / pxlion'toladsi, (US) perl-/
+palaeontology =
+Palestine /'palistam/ ads 2
+YA adj مربوط Palestinian / paivstinian / (a
+فلسطین, فلسطینی
+7 ۲. فلسطینیء اهل فلسطین
+a ۱.(نقاشی) تخته‌ شستی palette /'pziot/
+(نقاشی) ترکیپ dls Lass, رنگ‌ها.
+رنگ آمیزی» رنگ‌گزینی
+palette-knife /palot naif/ ( p/ palette-knives)
+2 (نقّاشی) کاردک؛ (آشپزی) لیسه., لیسک
+1 .لوح رنگ‌باخته, palimpsest /pulimpsest/ Gon gy
+پاک‌شده )= لوح یا پوستی که نوشتةٌ روی آن یک یا چند بار
+پاک شده و بازنویسی شده است) ۲.(مجازی) Aad تو در تو؛
+دانشان جندلایه؛ ales در sad فکر پیچیده
+(ches) n قلپ 0S san / اد ام / palindrome
+مقلوب مستوی, li مقلوب, Bl
+از ۱ em پرچین» نرده؛ حصار؛ paling /'petliy/
+مرز ۲. [پرچین, نرده ] Ost oS i چوب
+(pam 8350 7 حصار؛ palisade / pzliscid/
+نرده (آهنی) ۲. (در AS! در oS (pan دیواره
+x ur حصار کشیدن دورء 5 03 کمیدن دور
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1198 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pall; pallbearer; palliasse; palliate; palliation; palliative; pallidness; pallor; pally; palm; palmetto; palpitate; palpitation; palmistry; palm-oil; palm reading; Palm Sunday; palm-tree; palmy; palpably; palpate; palsy -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+ٍ 7[ ۱. [چهره, پوست ] کمی زرد. palish /'perlif/
+یک کم زرد.ء تو Ble زرد؛ [شخص ] کمی رنگ پریده
+
+۲ کم‌رنگ. رنگ و رورفته. بی‌رنگ» رنگ‌رفته
+vi خسته‌کننده شدن؛ ملال‌آور شذن. pall’ /pa:l/
+چسیزی مزه‌اش را از دست دادن, بی‌مزه شدن
+) ای
+کسی از چیزی خسته شدن, کسی از pall on sb
+چیزی زده شدن
+1 ۱. نعش پوش, شال عماری 1 pall?
+۲. (مجازی) ]233 1 پرده, لحاف
+تابوت‌کش, کسی که palibearer /poilbeara(r)/
+زیر تابوت را می‌گیرد؛ تشیی عکننده
+چرخ باربری؛ صفحةٌ pallet! /pzlat/  راپ Jo
+Ss Nn کاهی, Ks کاه pallet? /paiat/
+۲. تخت باریک؛ تخت سفت
+n تشک کاهی. (US) paljas/ بکتهناهم/ palliasse
+Ss کاه
+۷ (رسی) ۱. [درد] آرام 558 palliate fpziteit/
+تخفیف دادن سبک کردن. تسکین دادن ۲. [جرم.
+[as تخفیف دادن سبک کردن
+علل مخففه palliating circumstances
+ره [درد] آرامش, تسکین. palliation /pzireifn/
+تخفیف, کاهش ۲. [جرم. خطا] تخفیف
+adj . [دارو] متشکن, palliative /'pzxliatv/
+تسکین‌دهنده. تسکین‌بخش ۲. [چاره راو حل ]
+ssn تخفیف دهنده
+۳ (داروی) Sas ۴ راه‌حل ol (Bsa موقتی
+adj \ [شخص ] )3< پریده» زردجچهره؛ pallid /pahd/
+on SS, IP SN IRR | ۲ کم‌رنگ.
+رنگ ورورفته. رنگ‌باخته؛ [نور] ملایم» ضعیف.
+رنگ‌پسریده ۳ شست. بی‌مایه؛ بسی‌مزه» بی‌بو و
+خاصیت
+pallidness /palidnis/ = paleness
+a [شخص ] رنگ‌پریدگی, / pallor /'pzla(r)
+زردي چهره» زردچهرگی, رنگ‌باختگی؛ PIS
+رنگ و رو]ً زردی, رنگ‌پریدگی
+all) (محاوره) cad دوست. ایاغ pally pais lw
+خودمانی
+ASN 2 دست ۲. [دستکش ] کف palm* /pa:m/
+۷ ۳ [سکه. ورق و غیره ] کف رفتن» تو مشتِ خود غیب
+کردن, غیباندن ۴. [توپ ] با کفي دست زدن
+کف Cand کسی را دیدن / خواندن read sb's palm
+cross sb's palm with silver — cross 2
+grease sb's palm — grease
+کسی را 5 have sb in the palm of one's hand
+ii—see 1-sit @=cal G=father Db=got 9:=s
+el = say W=go a1 = five ay = now o1=boy 1:
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 paltry
+خود Gawd موم در J خود داشتن, کسی را Goto
+داشتن, کسی را مطیع خود داشتن
+oil sb's palm — oil
+have an itching palm — itch
+palm sb / sth off (محاوره) ۱. دست به سر 7
+] کردن, شیره سر ...مالیدن ۲. [چیز بی‌ارزش
+انداختن, قالب کردن
+palm sth off as چیزی را به جای... قالب
+کردن / جا زدن
+palm? /pa:m/ یه نخل, درختِ نخل | (نشانة
+خرما le Los پیروزی) شاخ
+a date palm درخ خرماً
+a coconut palm نارگیل Cad)
+palmetto /paimetas/ ( p/ palmettos,
+palmettoes) زینتی Js on
+paimist /'pa:mist/ AS n
+palmistry /pa:mistrr/ کف‌بینی 7
+palm-oil /'pa:m a1l/ روغن نخل 7
+palm reading / 6 1 کف‌بینی 1
+Palm Sunday /pa:m ۹۸۳۵۵۲ 1 يکشنبةٌ 7
+(SY نخل‌ریزان )= يکشنبةٌ پیش از عیدٍ
+palm-tree /'pa:m tri:/ نخل, درختِ نخل ۸
+palmy /'paxmi/ (comp palmier, super palmiest)
+شکوفا؛ (Baum پر از نخل, نخل‌زار ۲.(مجازی) .۱ 4
+فرخنده» مسعود. میمون؛ خوش, شیرین
+palpable /pzlpabl/ ملموس, محسوس, Nall)
+مشهود. SET ] دروغ Mas] (amy) ¥ قابل‌لمس
+علنی, واضح, فاحش
+palpably /pzlpabli/ به طورِ ملموسی. به طور 0
+مشهودی ask محسوسی؛ اشکاراء به وضوح., به
+palpate /pzipeit/ (پزشکی) با دست معاینه کردن 4
+palpation /pziperjn/ معاینه با دست. (S25) 2
+معاینهٌ دستی
+palpitate /pziprcrt/ [قلب ] تیش داشتن, .۱ vi
+بدن ] لرزیدن» pans] .۲ تند زدن, ضربان داشتن
+O35 MG
+palpitation/paipiter/n/  نابرض [فلب ] تپش, ۸
+get palpitations زدن, AT قلب کسی
+تپش قلب پیدا کردن, دچار ضربانِ قلب شدن
+give sb palpitations ’ (مجازی) لرزه به اندام
+کسی انداختن, کسی را ترساندن, کسی را متوحش کردن
+palsied /'poilzid/ ۱.(پزشکی) (مبتلا به) فلج 4
+مبتلا به رعشه. رعشه‌ای, لقوه‌ای ۲
+palsy /palzi/ پزشکی) فلج ۲. رعشه, لقوه a8) 2
+paltry / اند / (comp paltrier, super paltriest)
+w  v-cook u:=t00 A=cup 3=bird a= about
+= near €3 = hair U2 = pure era = player ara = fire
+0= thin 0 = this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1199 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pampas; pampas grass; pamper; pamphlet; pamphleteer; pan; panacea; panache; Pan-African; Pan-African ism; panama; panama hat; Pan-American; Pan-Americanism; pancake; Pancake Day; pancake landing; panatella; panchromatic I prenkra'msenk; pancreas; pancreatic; panda; panda car; pandemic; pandemonium; pander; P and O; Pandora; p and p; pane; panegyriC -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+pampas 12
+۱. [مقدار, مبلغ ] اندک. er خیلی کم. جزئی.
+ناقابل, بی‌مقدار ۲. [عمل, Tale بی‌ارزش, بی‌مقدار.
+eae کوک
+pl مرغزار, جمن‌زار.  pampas /pempas, (US) -0z/
+علف‌زار پامپاس
+pampas 0۲385 / 02095 gra:s, (US) 'pampaz gras /
+یه کل پامپاس
+vt لوس بارآوودن. لوس‌کردن., pamper /'pempa(r)/
+نازنازی باراوردن» خراب کردن
+به خود (Ode) دستی به سر و pamper oneself
+گوش خود کشیدن, از خود پذیرایی کردن
+2 دفترچه, کتایچه؛ pamphlet /'pzmflat/
+( سیاسی. [EAN جزوه
+pamphleteer/ pemflotia(r)/ (ow p09 ۸
+رساله‌نویس
+panned) دم ام pan’ /pzn/ ( prp panning,
+2 ۱. تابه. تاوه, ماهی تابه Y )50 بریتانیا) [دستشویی و غیره]
+FSB [ترازو ] کفه ۴. (در استخراج طلا واغیره) لاوک:
+Ards .۵ Cad نمک ۶ زمین سفت. سخته ۷.
+[تفنگ, تپانچه ] پستانک, چاشنی‌دان, آنشخانه
+4 ۸. (محاوره) [فیلم. کتاب ] حسابی انتقاد کردن ازء
+han زدن, به سیخ کشیدن. کوبیدن .٩ [خاک.
+ریگ ] (تو (SHY شستن» لاوک شویی کردن
+Ne vi خاک‌شویی کردن, لاوک‌شویی کردن
+a flash in the pan —> flash’
+ow [خاک. ریگ ] (تو pan sth off 1s (SHY
+لاوک‌شویی کردن
+Se] wm ریگ ] ( تو pan (sth) out (SHY
+شستن, لاوک‌شویی کردن
+LY vi [خاک, ناحیه ] طلا داشتن ۳ (محاوره) aly]
+امور ] پیش Otel پیش رفتن,.اتفاق افتادن
+pan? /pen/ (prp panning, pt,pp panned)
+۱. (سینما, تلویزیون) [دوربین] (به چپ يا راست)
+pals حرکت دادن
+Y 4 (سینما, تلویزیون) [دوربین و غیره](به چپ يا راست)
+چرخیدن» حرکت کردن
+۸ (نیز مجازی) نوشداری pzna'si:a/ / ۵31۱13062
+داروی همه دردها, همه درددوا
+۱. راحتی, مهارت. pe-/ ,اه ددم / panache
+زبردستی؛ اطمینان به خود. اعتمادیه‌نفس ۲. زرق و
+برق, جلال و شکوه. طمطراق؛ خودنمایی
+adj ۱.(مربوط به) اتحاد Pan-African / pzn ‘zfiikon/
+آفریقا ۲. پیروٍ اتحاد آفریقا
+n (مشرب) / Pan-Africanism / pan 'zfrikonizom
+اتحاد آفریقا
+oS LLL NS 2 حصیری panama /paenoma:/
+(alse)
+
+<!-- REGION: RIGHT COLUMN -->
+
+20
+panama hat / pznoma: hat/ = panama
+YN adj مربوط 4( Panamanian paznameintan/ Ll
+پانامایی |
+7 ۲. پانامایی. اهل پاناما
+adj ۱.(مربوط Pan-American / pan s'mertkan/ er ِ
+اتحاد آمریکا ۲. my 5 اتحاد آمریکا |
+Pan-Americanism / 021 1 |
+۸ (مشرب) اتحاد آمریکا |
+# سیگار برگی قلمی. pansitela/ / 02031۵13
+سیگار 5 مدادی |
+۱. پن‌کیک. KS تاوه‌ای / ام / pancake
+۲ در (Eh! پن‌کیک. پودر صورت
+flat as a pancake — flat?
+(محاوره) روز Pancake Day /penketk der/
+پن‌کیک خوران (<سه‌شنبة پیش از روزة بزرگ)
+7 (هوانوردی) / :1۵۳۵ pancake landing / pznketk
+فرودٍ عمودی
+panchromatic / penkromatik / [3] adj
+پانکروماتیک., حساس به همدٌ رنگ‌ها
+۸ لو زالمعده. پانکراس / 5و / pancreas
+adj ( مربوط به) لو زالمعده, /:02:01:2۸/ pancreatic
+(مربوط به) پانکراس, لوزالمعدی
+a پانداء گربه خرس ام !/ panda
+۲ پاندای چینی
+7 (در بریتانیا) panda car /pands kax(r)/ (male)
+RE
+[soln] .۱ 4 همه جاگیر.  pandemic /pxndemik/
+عالم‌گیر
+n ۲ بيماري همه جاگیر, Solan عالم‌گیر
+اشوب. / سر / pandemonium
+بی‌نظمی؛ غوغاء جار وجنجال, قشقرق
+7 جاکش / pander /‘penda(r)
+ow [شخص ] حوش حدمتی pander to sb / sth
+کردن به؛ [خواسته‌ها, امیال ] پاسخ مثبت دادن به.
+ارضا کردن., برآورده کردن
+Peninsular and Oriental > اهب P and ۵ /pi:
+شرکتِ کشتی‌راني ماورای bl شرکتٍ پی اند او
+n پاندورا )= Crm زن دز /امندل هم | Pandora
+افسانه‌های یونانی)
+Lax پاندورا Pandora's box
+دردسر آفریدن, open Pandora's box (VP)
+کردن, گرفتاری درست کردن, فتنه بر پا کردن
+postage and packing > / :ام p and ۵ /pi: an
+۸ )53 بریتانیا, بازرگانی) (A458) پست و بسته‌بندی
+2 [پنجره ] pane / FR l=
+12 (رسمی) panegyric/ paznadsirtk / $a an
+( ادیبات) مدیحه, مدح
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1200 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: panel-beater; panel discussion; panel game l'prenl germ; panelist l'prenahst; pan-fish; be in; panic-stricken; panjandrum; pant lprent -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+panel /pznl/ ( prp panelling, (US) paneling,
+N 2 (معماری) pt.pp panelled, (US) paneled)
+قاب‌بندی, قالب؛ (بخاری) ASF ۲. ]52 اتومبیل, کشتی و
+Cals) ۳ asi, casio [o£ تکتد. تکخه دوزی:
+خرج ۴.(فنی) amin GLU تابلوی فرمان ۵.(رادیو.
+تلویزیون و غیره) KY A ۶ [داوران؛ بازرسان ] هیئت.
+گروه؛ (حقوق) هیئت منصفه ۷.(در بریتانیا, پزشکی)
+گروو پزشکی» هیثتِ پزشکی
+4 ۸. [دیوار, اتاق, سقف ] قاب‌بندی کردن؛ [در ] تنکه‌کاری
+کردن
+[ اتوبوس, هواپیما ] an instrument panel Sb
+فرمان, Amis فرمان
+2 (اتومبیل) صافکار  panel-beater/pznl bizta(r)/
+ply) 2 تلویزیون) panel discussion / pani diskafn/
+میزگرد
+72 (در بریتانیا) پزشکي panel doctor /penl dokta(r)/
+daw
+paneled /‘panld/ (US) = panelled
+2 (رادیو. تلویزبون) مسابقه panel game /panl geim/
+paneling /panalip / (US) = panelling
+panelist /pznslist/ (US) = panellist
+po] ad) سقف ] قاب‌بندی‌شده؛  panelled /panld/
+[در] تنکه کاری‌شده
+ipo] .۱ 4 سقف ] قاب‌بندی؛  panelling /panaliy/
+[در] تنکه‌کاری ۲. چوپ قاب‌بندی؛ چوپ تنکه -
+کاری
+2 (رادیو, تلویزیون) شرکت‌کننده  panellist /'penalist/
+در میزگرد؛ عضو میزگرد؛ Jol میزگرد
+7 (در آمریکا) وانت panel truck /'pxnl trak/
+سرپوشیده
+# (در آمریکا) ماهي pan-fish/pan fif/ gs SF
+۸ (نیز در جمع) ۱. درد شدید., فشار, pang /pzn/
+درد سخت., درد (SEL تیر؛ [وجدان ] عذاب ۲.
+A Bs اندوو SEL
+dws A 2 تابه ۲.(در آمریکا. panhandle /penhandl/
+جغرافیا) باریکه
+۳ (در آمریکا محاوره) گدایی کزردن
+7 ۴. (در آمریکا محاوره) گدایی SURE دست پیش ...
+دراز کردن
+4 (در آمریکا) گدا / panhandler /pznhaendls(r)
+panic /pznik/ ( prp panicking, ppp panicked)
+ul ptm yom iN 7 هول ۲.(صفت‌گونه) [ تصمیم ]
+ناشی از ترس, ناشی از وحشت
+4 ۳. ترسیدن, وحخشت کردن, ترس کسی را برداشتن.
+بندٍ Jo کسی پاره شدن
+1-sit z-cal 0 father D=got oi=s وا
+el = say W=go ar = five ay =now 31 =boy I<
+aus = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 pant
+پاره Lads ترساندن, وحشت‌زده کردن. بند .۴
+کردن
+be in/ get into a panic هول کردن, وحشت کردن.
+ترسیدن» بندٍ دل کسی پاره شدن
+panic stations وحشت‌زدگی, os کهنه. محاوره) (
+هول و ولا
+be at panic stations (over) عجله داشتن, ۱
+هول بودن, سراسیمه بودن ۲. وحشت‌زده بودن
+push the panic button محاوره) ترسیدن. (
+هول کردن, (کسی) ترس برش داشتن
+panic sb into doing sth کسی را با ترس به
+کاری واداشتن, با ترساندن کسی را واداشتن که...
+be panicked into doing sth از ترس دست به
+کاری زدن
+panicky / (محاوره) [گزارش, روزنامه ] / ماس 7
+تصمیم] ناشی از ترس؛ Joe] وحشت افرین؛
+[شخص ] ترسوء بزدل؛ وحشت‌زده. ترسیده؛ دستپاچه
+get panicky هول شدن, دستپاچه شدن
+0210-91۲106۵ / تدم strikn/ وحشت‌زده. ad)
+هراسان, ترسیده |
+Pan-Islamism/ pan iziaimizom/ sles! (مشرب)
+: اسلام
+panjandrum /pan'dsaendram / i} (ote po! n
+ادم متکبر, ادم ازخودراضی
+pannier /penia(r) / oS خورچین ۲ لوده, Nn
+pannikin /pzntkin / Als (در بریتانیا) 2
+panoplied / امد / pled .۱ (رسمی)
+زره‌پوشیده ۲. اراسته, مزین
+panoply /'panopli/ (oS (رسمی) ا: زرو 1
+۳ زره تمام ۲ لباسي تمام رسمی, جامة رسمی
+پوشش ۴.(مجازی) لباس فاخر ۵. نمایش Blas
+: Cassel مجلل, نمایش
+panorama / 020370:0۵, (US) “rma دورنما .۱
+stad منظره» چشم‌انداز ۲.(مجازی) مناظر,
+Salas Aalst
+< a panorama of life in England 400 years ago >
+panoramic /pensramik/ 3b ] [چنم‌انداز, منظره adj
+گسترده. وسیع
+pan-pipes /‘pan paips/ (ساز) پان‌فلوت. nn
+پان‌پایپ. ناي صدزبان
+Pansy /penzi/ بنفشه فرنگی ۲. ( محاوره, به طعنه) .۱
+[واخواهر؛ بچّه‌خوشگل, بچّه‌مزلّف؛ بی‌ریش
+pant /pent/ ۱.نفس‌نفس زدن, تندتند نفس زدن VE
+تپیدن mls [قلب ] تپش ۲
+A] نفس‌نفس. Xn
+Ww U-cook u:=too a=cup a=bird a= about
+= near €9 = hair U3 = pure ero = player ara = fire
+6= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1201 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pantheism; pantheist; pantheistic; pantheon; panther; pantihose; pantile; a panti; panto; pantograph; pantry; pants; pantsuit; papa; papacy; papal; papaw; papaya; paper -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+pantaloon 12:
+puff and pant — puff? |
+pant along (sth) نفس‌نفس‌زنان رفتن VIVE |
+
+| )53 امتداد )
+JIN ۷ 035 برای ۲. (مجازی) pantfor sth Js
+کسی لک زدن برای. esl 05) Jd 03 برای.
+جان دادن برای. AES ... بودن
+VI نفس‌نفس‌زنان گفتن. pant sth out
+با نفس‌نفس گفتن,» بریده‌بریده گفتن
+
+7 )58 در پانتومیم) پنتالون»  pantaloon/pzntalun/
+
+پیر خرف
+
+pantaloons/pantstunz/ els mpl
+
+pantechnicon/ pzn'tcknikon / (در بریتانیا) 7
+
+کامیون اسباب‌کشی, بارکش, (mS) باری
+
+pantheism /'panBiizom/ CoA g (مشرب) Nn
+
+35 همه‌خدایی ۲. چندخدایی
+
+7 ۱.وحدتِ وجودی. ان دوش pantheist
+
+پیروٍ وحدتِ وجود ۲. gm چندخدایی
+
+pantheistic /pznorisuk/  .یدوجو ۱.وحدتِ adj
+وجود. ( مربوط 4( همه‌خدایی؛ ams (4 مربوط (
+
+as وجودی‌وار ۲.(مربوط به) چندخدایی
+
+2 ۱.(دریونان و روم /8100- pantheon /pzndion, (US)
+باستان) GLIA dome پانتئون ۲.(در مورد یک قوم)
+خدایان ۳ آرامگاه مشاهیر, بنای (unl) مشاهیر
+۴ در عالم ادب. هنر و جز آن) جرگه. جماعت. گروه
+
+< his place in the pantheon of national artists >
+
+panther /'pzn0a(r)/ سیاه Sky پلنگ؛ .۱
+
+۲ (در آمریکا) pt کوهی, Log
+
+panties /penuiz/ (محاوره. برای زنان) تنکه. شورت mpl
+pantihose/pantthavz / آمریکا) جوراب 50) pl
+
+شلواری
+
+pantile / سفال (بام) / نماد n
+a pantile roof بام سفالی
+pantingly ۱ / نفس‌نفس‌زنان adv
+panto /'pantas/ ( p/ pantos) (در بریتائیاء محاوره) 22
+
+پانتومیم
+
+pantograph /‘pentagra:f, (US) 7
+
+۱. مشابه‌نگار, پانتوگراف ۲. [قطار برقی ] میلةٌ برق
+۱.(در بریتانیا, تکاتر) — pantomime JL
+
+نمايش شب کریسمس ۲. پانتومیم, لال‌بازی ۳
+
+(مجازی) مسخره‌بازی, مسخره, مضحکه
+(Sapam) 05 پانتومیم, a pantomime dame
+زنِ لال‌بازی
+
+0301۳۷ پستو. صندوق‌خانه؛ sul
+
+(در Je کشتی و غیره) انبار
+
+pants /pants/ ۱.(در بریتانیا, برای زنان) شورت. apd
+
+تنکه؛ (برای مردان) شورت ۲.(محاوره) Olah تنبان
+( محاوره) کسی را خسته bore the pants off sb
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+کردن. کسی را ذله کردن, ole کسی را به لب رساندن
+(محاوره) کسی را scare the pants off sb ls
+ترساندن, تو دل کسی را خالی کردن, کسی را S Gop)
+کردن
+by the seat of one's pants — seat’
+catch sb with his pants down — catch’
+have ants in one's pants — ant
+۱ ( محاوره) بجّه بودن be in short pants
+( مخاژّزه) بزرگ شاه بوادق be in long pants
+wear the pants — wear 2
+a (در آمریکا) کت و شلوار pantsuit /'pantsu:t, -sju:t/
+زنانه :
+pantyhose /'pzntihasz / = pantihose
+adj (نظامی, در گفتگو از ارتش آلمان)  panzer /pantsa(r)/
+زره‌پوش, زرهی
+۱.غذای بجّه, حریره ۲. a) طعنه) /pzp/ 0301
+9 | سبکی, مطالب سرگرم‌کنند.ه؛ لاطائلات:
+اباطیل, مزخرفات
+S55 (8) ۶ پستان pap? /pap/
+7 (کهنه. محاوره) LU آقاجون papa /papa:, (US) ‘pa:pa/
+۱.(مقام) gl منصب پاپی  papacy /pepost/
+۲ نظام پاپی, حکومتٍِ پاپی. پاپ سالاری ۳ دوران
+زمامداری پاپ, دوران پاپی
+ad) ۱.(مربوط) به پاپ؛ (مربوط به) papal /peipl/
+منصب پاپی ۲.(مربوط به) نظام پاپی» پاپی
+paparazzi / pxpa'ratst, (US) pa:paratst/
+pl of paparazzo
+paparazzo / paparatsas, (US) pa:para:tsas/
+7 (روزنامه‌نگاری) Se سمج؛ pl paparazzi) (
+خبرنگارٍ جنجالی )= عکاس یا خبرنگاری که با سماجت از
+زندگي خصوصي مشاهیرعکس یا خبر تهیه می‌کند)
+۱. درختِ LLL / :درد papaw /papa:, (US)
+(میوهٌ) LLL ۲. درختِ پاپو؛ Goa) پاپو
+i درخت papaya /papata/ LLL (Soma) (LLL
+ASN 7 ۲. (صفت‌گونه) کاغذی paper /'peipa(r)/
+۳ روزنامه ۴. کاغذدیواری ۵.(در (par مدارک,
+اسناد. اسناد و مدارک؛ اوراق (شناسایی) اوراق
+هویت ۶.(در (par کاغذها, نوشته‌هاء کاغذ و
+نوشته‌ها ۷. ( آموزش و پرورش) سوْالات (امتحانی)»
+A > The geography paper was difficult. > lox! .
+( آموزش و پرورش) ورقه (امتحانی)» ,8 امتحانی A
+مقاله (ale) گزارش (علمی)
+70 ۰ کاغذدیواری کزدن, کاغذدیواری )03
+روی مسائل سرپوش  paper over the cracks (in)
+گذاشتن. پرده‌پوشی کردن
+not worth the paper it's written on — worth
+۱ به Ope نوشته, به طور مکتوب on paper
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1202 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: paperback; paperbacked; paperbound; paperboy; paper-chase; paper currency; papergirl; paper industry; paper-knife; paper-mill; paper-pusher; paper round; paper-thin; paperweight; paperwork; papery; paper money; papier rnache; papist; papoose; paprika; papyri; papyrus; feel below; para; parable; parabola; parabolic; parachute; parachuting; parachutist; parade -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+۲ روی کاغذ؛ در مقام نظر, نظراً ۳ براساس اسناد و
+مدارک, آن طور که اسناد و مدارک نشان می‌دهد
+put pen to paper — pen’
+(رسمی) روی کاغذ آوردن commit to paper
+بر کاغدی, شیر علم a paper tiger
+wr ۱. با کاغذدیواری پوشاندن paper sth over
+۲. سرپوش گذاشتن روی, ماستمالی کردن.
+پوشاندن
+7 کتاب جلدْشمیز, کتاب  paperback /pepsbak/
+جلذنازک؛ (صفت‌گونه) [کتاب ] ati جلدنازک
+4 صورت lla شمیز, با جلد in paperback SHU
+ad) [کتاب ] reside /00:0:0221/ 0306۲6۵060
+جلدنازک
+paperbound/perpabasnd / = paperbacked
+a روزنامه‌ای, روزنامه‌رسان؛ paperboy /'peipabor/
+پسرٍ روزنامه‌فروش
+بازي بیا پیدامکن اقلا paper-chase/'peips
+)= بازی‌ای که در آن دو نفر, در نقش «خرگوش» از پیش می‌دوند
+و خرده‌های کاغذ به زمین می‌پاشند و دیگران در نقش«سگ» آن‌ها
+را تعقیب می‌کنند) َ
+nn گیره (کاغذ) 1 دمم / paper-clip
+paper currency /‘peipa karansi/ = paper money
+7 (دختر) روزنامه‌ای, / papergirl /'peipags:i
+دختر روزنامه‌رسان, دخترِ روزنامه‌فروش
+paper handkerchief peips haykat/if, henkatfi:f/
+n دستمال‌کاغذی
+بر کاغنذسازی.  paper industry /'peipar ndastri/
+lS Cale
+pn کاغذبّر, پاکت‌بازکن  paper-knife /perps narf/
+بر (کارخانة) کاغنذسازی  paper-mill /'peipo mit/
+پول کاغذی. paper money /'peips man1/
+اسکناس
+7 (در آمریکا) 1( ام paper-pusher/peipa
+قرطاس‌بازء میرزابنویس
+۸ ۱. روزنامه‌رسانی  paper round /'peips ravnd/
+۲ محدودهٌ روزنامه‌رسانی
+4 نازک مثل کاغذ. 1 paper-thin/peipa
+به نازكي کاغذ, ظریف. خیلی نازک, خیلی ظریف.
+ظریف مثلي مو
+L355 # کاغذ, کاغذنگه‌دار paperweight /perpawert/
+# کار دفتری / نت ی paperwork
+adi | کاغذمانند, کاغذی, نازک مغل /۳۵:۳۵۲۲/ papery
+کاغذ 1
+papier maché/ papier ‘ma fer, (US) pepar ma'fer/
+| # پاپیه‌ماشه, خمیر کاغز
+ii=see 1-sit m=cal @=father D=got o0:= sa
+a1 = five av = now o1=boy 13 0 - ناه eI = say
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+23 parade
+| papist /'perpist/ کاتولیک (en 1) nad)
+Papoose /popus, (US) pae-/  هّچب کوله‌پشتی .۱ n
+| یچّه سرخپوست
+| paprika /'paeprika, (US) pa'pricka/ شیرین. Jaks n
+پاپریکا solo فلفلِ
+papyri/paparai, -ri:/ pl of papyrus
+| papyrus /psparras/ ( p/ papyruses, papyri)
+MS پاپیروس, BBE ott پاپیروس, (85) 7
+مصری ۳.(در جمع) نوشته‌های روی پاپیروس.
+پاپیروس‌ها
+par? /pa:(r)/ عادی, Jo متعارف. AN 2
+اسمی, بهای Sane [le] متوسط ۲. (مالی) J
+.۴ اسمی ۳ (مالی) نرخ برابري ارزء نرخ تسعیر
+8 ضربات. پار J(u)
+par of exchange (مالی) نرخ برابري ارز / تسعیر
+feel below / under par  ندوبن محاوره) سردماغ (
+دل و دماغ نداشتن, سرحال نبودن
+be par for the course محاوره) کسی عادتش بودن؛ (
+چیزی انتظارش رفتن
+They were late again, but that's par for the
+course. باز هم دیر کردند اما اين چیزی بود
+که انتظارش می‌رفت / ولی این عادتشان بود.
+be on a par with هم‌طراز بودن باء هم‌ارز بودن باه
+کردن با Sn
+up to par  ,راظتنا Jo (محاوره) به خوبي هميشه, در
+آن طور که انتظارش می‌رفت
+below par زیر قیمتِ اسمی (SW)
+par? /paragra:f, (US) -graef/ > paragraph
+para /'para/ < paragraph
+parable /parabl/  لَّم تمئیل,ء حکایتِ تمثیلی,
+parabola /parabala/ (ریاضی) سهمی؛ شلجمی 1
+parabolic / paroboirk / تمثیلی ۲.(ریاضی) .۱
+سهمی‌شکل. سهمی‌وار
+parachute / جتر نجات .۱ 7
+(صفت‌گونه) با چتر نجات ۲
+نجات فرود آمدن ea با ON eH با چتر ۳ 4
+ار ۴. با جتر نجات فرستادن, با چتر نجات پایین انداختن
+land by parachute با جتر نجات فرود آمدن
+parachuting /parafutin/ فرود ۷ چتر نجات؛ 7
+پرش با چترٍ نجات
+parachutist / para fu:tist/ ۱ جچترباز
+parade /pareid/  )یماظن(.۲ ۱.(نظامی) سان؛ رژه 2
+۳ مشق ple سان و رژه» plas رژه, plus
+دسته؛ [مُد. لباس ] نمایش ۴. بولوارء of, راهپیمایی»
+گردشگاه, راسته
+v 00000 u:=t00 a=cup 3 01۳0 a= about
+= near €3 = hair U3 = pure واه = player ara = fire
+0= thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1203 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: paradise; paraffin; paraffin Oil; parallel to; parallelism; parallelogram I peero'lclogreem; paralyses; paralysis -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+parade-ground 122
+| 4 ۵.(نظامی) به صف درآوردن؛ به رژه واداشتن ۶.
+ay pals oles نتمایش کسذاهسش: به جلوه
+| دراوردن» به رخ کشیدن ۷.گردش کردن درء
+ES کردن درء قدم زدن درء راه رفتن در A
+| نشان دادن, وانمود کردن
+(Wl) A ۸ | صف بستن؛ رژه pd; سان Neooals
+ٍ راهپیمایی کردن, راه افتادن» حرکت کردن؛ ESF
+| راه رفتن
+| ۱ (نظامی) در حال رژه بودن. be on parade
+| رژه رفتن؛ در حال سان بودن, سان دادن ۲. حرکت
+| کردن, راه افتادن ۳. [ لباس, کلاه ] به نمایش گذاشته شدن
+| (به مسخره) [سواد. علم, make a parade of sth
+ثروت و غیره ] نمایش دادن, به نمایش گذاشتن, به رخ
+دیگران کشیدن
+7 (نظامی) میدان / 4 03۳1 / 037۲306-0۲0۵
+رژه, oles سان و رژه» plas مشق
+۵ ۱.(زبان‌شناسی) صیغگان,  paradigm /paradamn/
+صیغه‌ها ۲. (رسمی) نوع؛ نمونه CSN)
+سرمشق, مثال
+صیغه‌های فعل. صیفگان فعل verb paradigms
+Nad) نمونه, عالی, / paradigmatic / paradigmztik
+ایده‌آل, برجسته ۲.(زبان‌شناسی) انتخابی, جانشینی
+۱.(مربوط 4( / paradisaical/ pzradr'zarskl
+بهشت ۲. بهشتی؛ بهشت‌مانند. همچون بهشت
+۱. بهشت. فردوس, رضوان, paradise /'pzradais/
+جنت ۲. (مجازی) بهشت. Culp موعود ۳.(در کتاب
+مقدس, با حرف بزرگ) بهشت عدن
+(be/ live in a) fool's paradise — fool's paradise
+۸ ۱. قول تناقض آمیز, paradox /‘pazradoks/
+جمع lad ضد و نقیض, تناقض‌گویی» تعارض,
+ada لغزواره» فراباور ۲ po! معمایی. جمع
+اضداد؛ وضع معماگونه. وضع نابه‌روال
+عجیب است که.... این 45 It's a paradox that...
+مغمایی است که.... cpl چه رازی است که...
+ad) تناقض آمیز, / paradoxical / pzradoksikl
+متناقض‌نماء معماگونه. لغزوار, نابه‌روال, شطح‌مانند
+0 از عجایب این‌کهد. paradoxically / peradoksiklt/
+aS Ca 8s عصجیب (aS) به نحو
+تناقض آمیزی؛ به طرزٍ معماگونه‌ای
+2 ۱.(در بریتانیا) نفت (سفید) paraffin /'parafin/
+۷ (صفت‌گونه) نفتی ۳ پارافین (جامد)
+۸ نفت (سفید) paraffin oil /'/parafm orl/
+mn پارافین (جامد)  paraffin wax /perofin waks/
+1 ۱.(شخص) paragon /‘paragan, (US) -gon/ & gad
+(Sle الگی سرمشق., مظهر ۲ po! بی‌نقص. ادم
+کامل, oll کامل
+۸ ۱. پاراگراف» paragraph /pzragra:f, (US) -graef/
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+بند ۲. علامت پاراگراف ۳ (روزنامه‌نگاری) گزارش
+کوتاه؛ خبر کوتاه؛ یادداشت i
+vr ۴. پاراگراف‌بندی کرادن
+Cue پاراگراف a paragraph mark
+سر سظر a new paragraph
+n پاراگوئه Paraguay /‘pazragwar/
+ad ۱.(مربوط Paraguayan / pars'gwaran / (a
+پاراگوئه, پاراگوایی
+no ۲ پاراگوایی, Jal پاراگوئه
+n طوطی parakeet /paroki:t/ (haps)
+ad) ۱.(ریاضی) موازی» متوازی / parallel /'pzralel
+۲. مساوی, همانند. همتاء ali شبیه, نظیر
+۳. خط موازی ۴. (Jae) مدار ۵. همانند. lp asl
+apd oii (Ja مشابه, مطابق, همتا ۶. مقایسه.
+سنجش ۷. cals تشابه, همانندی, تناظر, مطابقت
+4 ۸.(ریاضی) موازی بودن با .٩ همانند... بودن؛
+نظیرٍ ... بودن» رال بسودن Au هم‌طراز بودن L
+. هم‌سنگی...بودن؛ قابل‌مقایسه بودن باه شبیه بودن
+به. برابری کردن Ab مقایسه کردن, برابر نهادن
+۱ هم‌زمان Loos مقارن ... بودن
+خطوط موازی parallel lines
+( جغرافی) مدار parallel of latitude
+موازي. 4 موازاتِ, در امتداد. parallel to / with
+در طول, در راستای
+۱ به Lew «ls دوشادوش, in parallel
+هم‌زمان ۲ (برق) موازی
+بی‌مانند؛ بی‌نظیر, بی‌همتا without parallel
+(دو چیز را) با هم draw a parallel between
+مقایسه کردن, با هم سنجیدن
+1 (ورزش) پارالل parallel bars / parslel ‘ba:z/
+۸ تساوی, توازی., دادم / parallelism
+تناظر, تشابه, شباهت
+(دو چیز را) موازي find a parallelism between
+یکدیگر دانستن؛ i / هماننرٍ یکدیگر دانستن
+n (ریاضی) parallelogram pzralelogram/
+متوازی‌الاضلاع
+7 ۱.(پزشکی) فلج کردن, paralyse /'pzrolarz/
+افلیج کردن ۲. از کار انداختن, زمین‌گیر کردن؛
+گنگ کردن؛ میخکوب کردن
+فلج شدن, لمس شدن paralysed یه
+کسی خشکشن زدن از, سر جای paralysed with ۰00
+خود میخکوب شدن |
+/patzlosi:z/ pl of paralysis 03۳21/863 ۱
+paralysis /psraiosis/ ( p/ paralyses)
+(Sp) nm فلج ۲.(مجازی) توقفي کامل, تعطیل, وقَفهٌ ا
+کامل, فلج کامل |
+ad) ۱.(یز شکی) فلج, مس / paralytic / peraintik
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1204 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: paramedic; paramilitary; paranormal; paraphernalia; paraplegia; parapsychology; paras; parasite; parasitic; parasitical; parasitically; paratrooper; paratroops; parboil; parcel; parasitologist; parasol; paratroop; parcel bomb; parch; parched; parchment -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+۲ در 5 ls محاوره) Jeb مستِ «Jims NY سیاه‌مست
+(paD)r n فلج. (آدم) افلیج
+paralyze /pzrolaiz/ (US) = paralyse
+n پیراپزشک / paramedic / pzromedik
+4 پیراپزشکی paramedical/ pzromediki/
+2 ۱.(ریاضی) پارامتر / parameter /paremita(r)
+dara (Shy مختصه, مشخصه ¥ عامل؛
+ضابطه؛ محدوده
+7 شبه نظامی paramilitary / paromintn, (US) tert/
+(رسمی) ۱. بسیار زیاد؛ paramount /pzromavnt/
+فوق‌العاده (age بسیار tage فوق‌العاده» عظیم ۲
+[رئیس, آموزگار و غیره ] plan Je az عالی, بزرگ
+در صدر acu dsl بودن / قرار be paramount
+داشتن, دارای اهمیتِ بسیار بودن, در درجم اول اهمیت
+قرار داشتن : ۱
+paramountcy /'pzromasntst/  ِتیمها.۱ (amy) 22°
+بسیار, اهمیتِ فوق‌العاده ۲. Se مقام. بزرگی؛
+coal
+[زن ] رفیق, فاسق: / paramour /pzromua(r)
+[شوهر ] رفیقه؛ (ادبی) معضوق, یار, نگار
+۱.(روان‌شناسی) پارانویا paranoia /pzranora/
+۲. (محاوره) بدگمانی, کج خیالی. شکاکیّت
+paranoiac / pzronoizk / = paranoid
+ad) ۱. پارانویایی؛ ( مربوط 4( paranoid /paronord/
+پارانویا ۲. دچارِ پارانویاء مبتلا به پارانویا ۳
+(محاوزه) بدگمان, بدخیال, کج‌فکر
+: ۴. مبتلا به پارانویا
+adj ۱. غیرعادی؛ paranormal / pzrana:ml/
+غیرمعمول, نامتعارف, فراهنجار
+!7 ۲. پدیده‌های نامتعارف, پدیده‌های فراهنجار
+۰ ۱: [بالکن, بام و غیره ] parapet /paropit, -pet/
+دیواره, جان‌پناه» حفاظ؛ [oy] طوقه ۲.(نظامی)
+جان‌پناه؛ خاکریز
+2 وسایل, اسباب,  paraphernalia/perafonetlia/
+لوازم: ساز و برگ؛ خرت و پرت
+۱. بازگویی» بازگفته» / ۱2 paraphrase
+بیان دیگرء تعبیر
+۷ ۲. بازگفتن, بازگو کردن» تعبیر کردن, به بیانی دیگر
+گفتن
+۸ (پزشکی) فلج دو پاء / ول :نام مهم | paraplegia
+فلج Emly پاراپلژی
+adi ۱.(مربوط 4( / paraplegic / paropli:dsik
+فلج دو پاء (مربوط به) فلج پایین‌تنه. (مربوط 4(
+پازاپلژوی ۲.مبتلا به فلع دو پاء مبتلا به فلج
+seal دچار پاراپلژی " ۱
+ii=see 1=sit m-cal @=father D= got o:=s
+a1 = five av =now a1 =boy 13 0 < ناه el = say
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 parchment
+مبتلا به فلج دو پاء )53( مبتلا.به فلج (33) ۳
+: Gb به Me (فرد) sal
+parapsychology perasarkplads /
+
+n فراروان‌شناسی» پیراروان‌شناسی
+n )= ( علف‌کش paraquat /‘perakwot/
+paras /'pazraz/ < paratroops
+2 ۱. انگل ۲.(مجازی, به parasite /perosait/ (sab
+طفیلی, انگل, مفت‌خورء سربار
+ad) انگلی؛ (مجازی, به parasitic /perositik/ (ab
+Je JS انگل ۲.(یزشکی) انگلی ۳ [شخص,
+سازمان ] طفیلی, مفت‌خوارء ale JK سربار
+parasitical/ para'siukl / = parasitic
+Ls JS ady 4 صورتِ parasitically / perasitikli/
+انگل
+انگل‌شناس  parasitologist/ parasitoladsist/
+parasitology / perasrtoladsi / EATEN LS n
+(sl n سایبان parasol /'parasol, (US) -s0:1/
+(نظامی) چترباز؛ / paratroop /'pzratru:p
+. (مربوط به) چتربازی
+2 (نظامی) چترباز / paratrooper /‘paratru:pa(r)
+1 (نظامی) یکان چترباز؛  paratroops /paratrups/
+چتربازان
+#2 (پزشکی) شبه حصبه. / paratyphoid/parotaiford
+پاراتیفو ید
+۷ نیم‌پز کردن / parboil /'pa:boil
+parcel /'pa:si/ ( prp parcelling, (US) parceling,
+2 ۱. بسته parcelled, (US) parceled) Cwand .Y رم ,ام
+بخش؛ [زمین [ (a5 قطعه ۳ (مجازی) [شخص, [oor
+عده, sins مشت؛ [دروغ و غیره ] مشت
+part and parcel + part!
+WI قسمت «05S تقسیم کردن. parcel sth out
+قسمت قسمت کردن؛ [زمین ] تفکیک کردن
+Wt بسته‌بندی 03,8 parcel sth up
+NT بمپ parcel bomb /'pa:sl bom/ (md
+بمب پاکتی, بمب بسته‌ای
+n بت امانات؛ " parcel post /'pa:si pavst/
+دفتر اماناتِ sis
+Nw اس محصول ] سوزاندن» خشک parch /pa:itf/
+کردن, تفتیده کردن ۲. تشنه کردن ۳ برشته OOS
+parched /pa:tft/  ؛هدینفت Als (ass gu [me] adi
+[LJ] سوخته, خشکیده, داغمه‌بسته؛ [شخص ] خیلی
+میاه
+NA 7 (برای نوشتن) پوست.  parchment /paitfmont/
+G5 پارشمن ۲. Reh روی پوست, پوست‌نوشته
+ESF پوستی, پوستِ نباتی
+A=cup 3:=bird a= about ماس w  U0=c00k
+near 3 = hair U0 = pure eo = player. alo = fire =
+thin d= this f= shoe 3= vision n= sing = 8
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1205 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pardon; ask; pardonable; pardonably; pardoner; pare; parent; parentage; parental I po'rentl; parentCOmpany; parentheses; parenthesis; parenthetic; parenthetical; parenthetically; parenthood; parenting; par excellence; parhelia; parhelion; pariah; parietal; parings; parish; parish clerk; parish council; parishioner; parish-pump; parish register; Parisian; parity; parity of exchange -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+pardon 12:
+| 7 ۱.اغماض, چشم‌پوشی. pardon /pa:dn/
+| بخشش, بخشایش, گذشت ۲.(حقوق) عفو؛ عفونامه
+۰ ۳.(دین) آمرزش, مغفرت
+mis] (om) ۴ ۵ گساء ]ابخشقلاج: shee کردن,
+د روکد سین از ۵.(حقوق) عفو کردن
+deli .۶ int معذرت می‌خواهم ۷ چجی فرمودید.
+چی گفتید. ببخشید نشنیدم
+از کستی طلب بخشش کردن. ask / seek sb's pardon
+از کسی پوزش طلبیدن
+beg sb's pardon — beg
+I beg your pardon. — beg
+عفو عمومی a general pardon
+hating معذرت می‌خواهم pardon me (for)
+بدزبانیم ,| Pardon my French/ the expression!
+ببخشید! از لفظ زشتی که به‌کار بردم / می‌برم معذرت
+می‌خواهم!
+ad) بخشیدنی, قابل‌بخشش., pardonable /pa:dnabl/
+قابل عفو
+adv 4 طور قابل قبولی, / pardonably /{pa:dnabli
+فا بد حق
+(در of وسطا) مغفرت فروش,»/(۳۵:۵40۵)۲/ pardoner
+امرزش‌فروش
+v2 ۱. [میوه] پوست کندن ۲. [ناخن ] pare /pea(r)/
+گرفتن. کوتاه کردن ۳ [مخارج و غیره] تقلیل دادن
+زدن ازء کم کردن, کاهش دادن
+حشو و زواید... را تقلیل دادن pare to the bone
+vt [مخارج و غیره ] کم کردن. pare sth down
+تقلیل دادن Glos کاهش دادن
+Wt [پوست و غیره ] pare sth off OXS
+1 ۱. پدر؛ مادر؛ ولی؛ (در جمع) parent /'pearant/
+only پدر و مادر ۲.(نیز صفت‌گونه) [حیوان, گیاه ]
+مادر ۳. (صفت‌گونه) [شرکت. سازمان] ola اصلی ۴.
+lita Jol سرچشمه, خاستگاه
+hazy شدن؛ پدر شدن؛ مادر شدن become parents
+پدر و wal gle ole | داد / parentage
+اصل و coms دودمان, تبار» منشاًء اصل
+4 پدر و مادری, (مربوط به)  parental /potentl/
+پدر و ole (مربوط به) والدین؛ پدری؛ مادری؛
+پدرانه؛ مادرانه
+parentcompany/ peorant kampant /« ;3a oS n
+eS اصلی
+parentheses /parendssizz/ pl of parenthesis
+parenthesis /psren0ssis/ ( p! parentheses)
+Dobe 2 معترضه, Mer معترضه ¥ (معمولاً جمع)
+پرانتز» ode دوکمان
+۱ در پرآنتز ۲. به طور معترضه in parenthesis
+ad) [جمله. عبارت ] معتر parenthetic/ peronOetik / ao
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+parenthetical / pazron'0etikl/ = parenthetic
+0 به‌طور معترضه. parenthetically/paranfetiklt/
+در ol, ضمناً
+پدر و مادری؛ / parenthood /'pezronthud
+پدری؛ مادری
+پرورش, تربیت. / 0319
+بزرگ کردن
+parent-teacher association / pearant 'tiztfor
+۸ انجمن Wl و (Glo je انجمن خانه و ssausterfn/
+PN َ
+par excellence / par 'eksala:ns, (US) eksala:ns/
+تمام عیار, Soo کمال, aio فرد اعلا
+of parhelion ام /pa:hi:lia/ 03۲۳۵۱۵
+۸ (ستاره‌شناسی) parhelion /pa:hi:lian/ ( pl parhelia)
+شمس کاذب, عکس خورشید
+An (در هند) نجس., 'peria/ Wk ,مهد / pariah
+x (آدم) مطرود.ء آدم رانده‌شده
+ad) (کالبدشناسی) [استخوان [ آهیانه‌ای parietal /psraratl/
+1 ۱.(پس از پوست 588( [میوه ] parings /'pearinz/
+camp lanl wow yy ۲. یس از کشوتاه 03,8( [UT
+0d
+۶ 1+ کشیشن cpus ¥ ( میفت‌گونه) parish /'pzrif/
+(مربوط به) کشیش‌نشین > <a parish church ¥ (در
+ila oy در تسقسیمات کشوری) بخش, بلوک ۴.(در
+کشیش نشین (oes مردم. Jol محل. Sl! ۵ در
+Aika محاوره) رشتهٌ تخصصی, حوزةٌ تخصصی
+(در بریتانيا, در تقسیماتٍ کشوری) بخش, a civil parish
+Ssh
+parish clerk / par kia, (US) kls:tk/
+7 (در کشیش‌نشین) کاز مند کلیساً
+n شورای kaunsl/ رهم / parish council
+کشیش‌نشین
+Jo! n کشیش نشیّن؛ / parishioner /parifana(r)
+Jo بخش
+adj [امور. سیاست و غیره ] parish-pump/ perf ‘pamp/
+محلی, منطقه‌ای
+72 (در کشیش‌نشین و / parish ۲۵915167 /pari| redsista(r)
+بخش) دفترِ Jealous
+۰4 پاریسی. (US) -13n/ هرادن / Parisian
+(مربوط به) پاریس
+4 ۲. پاریسی, Jal پاریس
+(رسمی) ۱. برابری» تساوی, تا / parity
+مساوات. هم‌ارزی ۲. مشابهت. همانندی, یکسانی
+۳ مالی) برايري نرخ مبادله
+parity of exchange /pzrati av ikstfemnds/
+نرخ رسمي ارز
+a ۱. پارک. باغ J ۲. [خانةٌ اربابی park! /pak/  ]
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1206 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: parkin; parking; parking-meter; parlance; parliament; parlour; parlour game; parochial; parochialism; parochially; parolelpa'raul -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+بازی cred ورزش» me باغ باغچه ۳.(در آمریکا)
+park? /pa:k/ [اتومبیل و غیره ] پارک کردن .۱ ۸
+(جایی ( گذاشتن [ob (محاوره) [شخص, .۲
+(اتومبیل خود را) پارک کردن ۳ wi
+You are badly parked. بد پارک کرده‌ای,
+park oneself (جایی) نشستن
+parka /pa:ka/ (خزدار)» کاپشن 28,00 ۶
+Sh بادگیر, BR
+park-and-ride/pa:k on 'rard/ پارک -سوار 1
+parkin /pa:kimn/ زنجبیلی. SS (در بریتانیا)
+شيريني زنجبیلی
+parking /'pa:kig/ oid gi (راهنمایی و رانندگی) .۱
+پارک, پارک کردن ۲. پارکینگ. جای پارک
+no parking ERE TRE SOL
+ایستادن ممنوع, توقف مطلقاً ممنوع
+parking attendant /pakip stendont/ yale #
+پارکینگ
+parking bay /pakig ۲۵:/  .گنیکراپ (در جاده) 7
+پارک Jomo
+parking garage /'pa:kig gera:s, gerids, ۱
+(US) gara:3/ پارکینگ, توقفگاه, گاراژ
+parking light /pa:kig lart/ چراغ پارک n
+parking-lot/pakag Iot/ ۰ (در آمریکا) پارکینگ. 7
+Si
+parking-meter/‘pa:kig mi:ta(r)/ پارکومتر mn
+parking-ticket/pakig tikit/ (برای پارکِ غیرمجاز) 7
+جریمه Has
+Parkinsonism /'pa:kimnsanizom / = Parkinson's
+disease
+Parkinson's disease /'pa:kinsnz dizi:z/
+پارکینسون,» فلج پیری #
+Parkinson's law /'pa:kmsnz lol p56 (به شوخی) 2
+دادن ار AS Joo پارکینشوننء
+park keeper /pak kipa()/ «Sh ele ۸
+نگهبانِ پارک
+parkland /pa:klznd/ زار pen (در بریتانیا) سبزه‌زار» 7
+parkway /pakwer/  راولوب (در آمریکا) پارک‌راه» #
+03۲۷ 1 te (در بریتانياء محاوره) [هوا] سرد. [7
+parlance /pa:lans/ اصطلاح ob) (amy) 1
+in common parlance ple Oe در |
+parlancein legal حقوق Jal زبانِ حقوق, در اصطلاح 4 |
+parley /'pa:li/ ( pl parleys) ۱.گفتگو برای اشتی؛ n |
+گفتگو 0 She مذاکرةٌ صلح ¥ بحت.
+وارد مذاکره شدن, باپ گفتگو را باز کردن؛ ۳ ۶۶
+: مذاکره کردن
+ii=see ماه لماوع D=pgot 9:= sa
+el = say ناه - 0 a1 = five au = now or=boy 13
+avo = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+27 parole
+parley with واردٍ مذاکره شدن با, باب گفتگو را
+: boo, 0 Sia باز کردن با:
+۱ parliament /'pa:lamant/ مجلس., مجلس شوراء Nn
+۳ پارلمان ۲ (دورة) مجلس, دورةٌ قانون‌گذاری
+| حرف هررگ) LM, 0) F dah ) (ساختمان
+; پارلمان انگلستان Lol پارلمان
+| parliamentarian / pa:laman'tearton / ۱.(با حرف nr
+ یاه‌گننج بزرگ) نماینده؛ (در جمم) نمایندگان ۲.(در
+ ٌهدنیامن .۳ داخلي بریتانيا, با حرف بزرگ) طرفدارِ پارلمان
+| فعال؛ نمایندة برجسته
+parliamentary / به) / ام انوم bye) adj
+| مجلس, (مربوط به) پارلمان. پارلمانی ۲ [رفتار,
+| زبان ] رسمی, موْدبانه
+03۲10۲ /'pa:lar/ (US) = parlour
+parlour /pate(r)/ ۱.(در خانه) مهمان‌خانه. سالن؛ 2
+SH بیگاهه موسشنه؟ مغازلةة: Yat اتاق
+parlour car /paits ۵:)(/  نلاس واگن (opty) n
+parlour game /'pa:i> germ/ بازی خانوادگی
+parlour maid /pa:lo merd/ خدمتکار خانه (53) n
+parlous /'pa:tes/ اسف‌بارء وخیم. (am) adj
+مفتضحانه؛ [شخص ] خطرناک. موذی
+Parmesan / pa:mrzan, (US) 'pa:rmaza:n/
+ماکارونی a پنیر پارمزان a
+Parmesan cheese پنیر پارمزان, پنیر ماکارونی
+parochial /pa'ravkrat / (a (رسمی) (مر بوط ۰ adj
+کشیش‌نشین ۲ (به تحقیر) محلی, شهرستانی» بسته.
+محدود. کوته‌بینانه؛ [شخص ] کوته‌نظر, al as Los
+تنگ‌نظر, بستهء کو ته‌بین
+parochialism /psraskializom / تنگ‌نظری,»
+کوته‌بینی» کوته‌فکری
+parochially /paravkialr / تنگ‌نظرانه, کوته‌بینانه. adv
+با تنگ‌نظری
+02۲00181 /peradist/ (ادبی) نقیضه‌نویس؛ نقیضه پرداز 7
+parody /'peradi/ ( pr,pp parodied) sz \ on
+هزل؛ (ادبی) نقیضه, مهاجات ۲.اداء تقلید. مضحکه
+...نسوشتن, نقیضه Ae از ۳. هجو کردن؛ (ادبی)
+AFR RY برای ...ساختن ۴ ادای ... دراوردن» دست
+|  ندرک مسخره
+parole /انه7دم/ by ia sab! ۱.(در مورو زندانی) 8
+آزادي محدود hl ازادی به قید
+by tia به طور مشروط آزاد کردن, ازادي .۲ 4
+التزام ازاد کردن as دادن به, به
+be on parole به‌طور مشروط آزاد شدن / بودن
+release sb on parole  دازآ کی به‌طور مشروط
+کردن
+v u=cook u:=to0 A=cup 3 1۲0 a= about
+= near €9 = hair U2 = pure ela = player aro = fire
+0= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1207 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: parquet; parr; parricidal; parricide; parrot; parse; parser; Parsi; parsimoniOUS; parsimoniousness; parsimony; parsley; parson; part; the best; parsonage; act -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+paroxysm 127
+boa : آزادي خود را نقض کردن break one's parole
+| 22 [خشم, درد و غیره ] هجوم. paroxysm /paroksizom/
+اغلبه, طغیان, حمله
+She went into a paroxysm of giggling.
+| یکدفعه SS خنده‌اش بلند شد. دیگر نتوانست جلوی
+| خنده‌اش Kal
+a | ۱. پارکت parquet /‘pa:ker, (US) pa:rker/
+GES Amy جای ارکستر
+۶ بچّه‌ماهی آزاد parr /pa:(r)/ ( pl parr, parrs)
+bye) adj به) پدرکشی؛ / 1اه نم واه
+eles Syd | [ مر dog به) مادرکشی؛ مادرکشانه؛
+bya) به) خی‌بشاوندگشی
+Nn پدرکشی؛ مادرکشی؛ اس هت 4 مه امه
+خویشاوندکشی ۲ پدزکشن؛ 180k خویشاوند -
+کش
+۱. طوطی ۵ / parrot
+V2 ۲.(به تحقیر) طوطی‌وار تکرار 3-5« دایم را
+دراوردن, تقلید کردن از... ِ
+(محاوره) مثل طوطی بودن؛ ادا درآوردن be a parrot
+sick as a parrot — sick ’
+0 (به تحقیر) مثل parrot-fashion/parat fz n/
+طوطی, طوطی‌وار
+vr ۱. [ضربه, حمله ] دفع parry /'par/ ( pt,pp parried)
+کسردن. ,3 کردن؛ [Jp] طفره رفتن از از
+زیر ... دررفتن؛ [مشکلات ] از کنار ...رد شدن, از سر
+باز کردن
+Xn [ضربه و غیره ] دفع» oS دفاعی ۳. Geb طفره
+4 (دستور) [جمله ] تجزیه parse /pa:z, (US) pars/
+کردن, تجزیه و ترکیب کردن, تقطیع کردن؛ [کلمه ]
+نقش و مقولة... را تقیین کردن
+bye) ad 4( زرتشتیان هند.  /:۳0:9,/ Parsee
+( مربوط به) پارسیان ۲. زرتشتي هند. پارسی
+۳ زرتشتي هندء پارسی
+2 (کامپیوتر) تجزیه گر parser /00:2۵)7(, (US) ‘pairsor/
+Parsi /pasi:/ = Parsee
+parsimonious / pasimavnios/  ,.سیسخ (om) adj
+ممسک. لیم تنگ چشم
+0 (رسمی) / parsimoniously/pa:sr'mavnrasli
+با خست. لئیمانه؛ با امساک
+parsimoniousness/ pa:srmauniasnis /
+parsimony =
+41 (رسمی) parsimony /'pa:simenr, (US) -maunx/
+خست. لئامت. تنگ چشمی؛ امساک
+7 (سبزی) جعفری 1 02۱12۷
+NL هویج سفید؛ زردک. هویج parsnip /pasnip/ gad
+72 (در کلیسای انگلستان و کلیسای پروتستان) /'paisn/ 027801[
+کشیش؛ روحانی
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+( محاوره) 055 مرغ the parson's nose
+۸ خانة کشیش. parsonage /'pa:snids/
+محل اقامتٍ کشیش
+cpt n قسمت., part’ /pa:t/ ey das
+تکه. پاره؛ [دستگاه و غیره ] قطعه. جزء؛ ]42 کشور ]
+بخش, ناحیه, منطقه, قسمت. طرف؛ (محاوره, در
+جمع) حوالی, دور و برهاء دور و اطراف. نواحصی.
+اطراف؛ [بدن, اندام ] قسمت؛ wil pls] تیم] عضو؛
+[کتاب. نمایش ] بخش, قسمت؛ [داثرةالسعارف و غیره]
+جسزوه؛ smash) تلویزیون) [سریال ] قسمت ۲.(در
+تقسیم‌بندی) قسمتِ مساوی ۳.(سینما., تثاتر) نقش ۴.
+(ager نقش ۵. (موسیقی) بخش, قسمت ۶. (در آمریکا)
+G3 سر ۷.(دستور) [کلمه ] نوع, طبقه
+بخش اعظم, بخش the best / better part of
+عمده‌ای از, بخش عمدة, fit نصفي Fret
+Discretion is the better part of valour.
+discretion >—
+( محاوره) ( کشورهای) خارج foreign parts
+Laas غالبا Ss wel در for the most part JS
+معمولاً
+بخش اعظم, قسمتِ عمدهٌ the greater part of
+dsb زیادی, خیلی in large part
+Ne تا حدودی, تا حدّی, تا اندازه‌ای in part
+بخش‌بخش, جزءجزء؛ (مالی) به اقساط in parts
+بخش‌هایی / The play is good in parts.
+قسمت‌هایی از نمایش خوب هستند.
+جزء «SiN جزء جدایی‌ناپذیر  part and parcel
+قطعاتِ یدکی spare parts
+labs سالم working parts
+کجای پایت درد Which part of your leg hurts?
+می‌کند؟
+( محاوره) نقش بازی کردن. act / play a part
+phd بازی کردن, رل بازی کردن
+(برای ul ge خاص) لباس مناسب look the part
+به تن داشتن, Stn مناسب داشتن
+He must be a captain. _ He looks the part.
+Liza نابقدا pried و Sal big tacky |
+از طرفی on the part of sb; on sb's part 5S |
+از سوی کسی |
+طرفي کسی را گرفتن از کسی take sb's part |
+جانبداری / حمایت کردن |
+تا آنجا که به من / او مربوط for my / his part |
+می‌شود. اگر از من / او بپرسید, به سهم خودم rg
+دخالت داشتن درء سهم داشتن در have a part in
+نقش داشتن در
+نمی‌خواهم > I want no part in this business. |
+در این کار داشته باشم. نمی‌خواهم A» این کار بشوم.
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1208 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: a man; part; partake; partaken; parterre; part-exchange; parthenogenesis; Parthian; a Parthian shot; partial; partiality; partially; participant; participate; participation; participial; participle; particle; particolored; particoloured; particular -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+a man / woman of (many) parts 03/2,
+: همه فن حریف, 2p / 05 ذوالفنون
+دخالت داشتن در دخالت داشتن در play a part in
+سهیم بودن در
+به دل نگرفتن؛ از چیزی take sth in good part
+ناراحت نشدن
+نقش داشتن 5 سهم داشتن 23 take part in
+سهیم بودن در شرکت داشتن در؛ شرکت کردن در
+انواع کلمه. طبقاتِ کلمه parts of speech
+[Je] صورت‌های اصلی principal parts
+0 تا حدّی, تا اندازه‌ای, بخشی part? /pa:t/
+The dress is part silk part wool. Ewan
+نیمه‌ابریشمی aad است.
+4 ۱. [شخص ] جدا کردن ۲. [جمعیت و / parts
+غیره] (از هم) باز کردن» شکافتن
+۳. جدا شدن؛ از هم جدا شدن ۴. [جمعیت. ابر و غیره]
+(از هم) باز az شکافتن
+فرق (خود را) باز کردن part one's hair
+las ۱ شدن (از)؛ part company (with sb/sth)
+از هم جدا شدن ۲. موافق نبودن (با). مخالفت کردن (L)
+۳ به‌هم زدن (با). قطع رابطه کردن (با)» گسستن (از)؛
+Sy رفاقت کردن (با) ۴. نخواندن (با)؛ با هم نخواندن
+Her blouse had parted company with her
+بلوزش از دامنش درآمده بود. skirt.
+wr دل کندن از؛ از دست دادن part with sth
+پولش به He hates parting with his money.
+جانش بسته است.
+partook; pp partaken) اص) partake /pa:tetk/
+vi سهیم شدن. شرکت 39,5
+۱ [آشامیدنی, 138[ میل کردن, خوردن از؛ partake of
+نوشیدن از ۲..بهره‌ای از... داشتن, نشان از... داشتن,
+Sl از... بودن
+partaken /pa:'terkan/ pp of partake
+(FE) X axel Nn ار parterre /pa:'tes(r)/
+خرید part-exchange/ pa:t iks'tfemnds/
+نقدی -جنسی؛ فروش نقدی -جنسی
+چیزی را به عنو take sth in part-exchange ol
+بخشی از بها برداشتن
+parthenogenesis/ pa:0mau'dsenasts /
+7 (زیست‌شناسی) بکرزایی
+4 پارتی / 83۲113
+( هنگام خداحافظی) نیش a Parthian shot/shaft
+Api
+ad) ۱. نسبی, محدود. ناقص ۲.مایل» partial /pa:fl/
+(EL . علاقمند
+و f=see 1=sit m=cat a=father D=got
+el = say aw=go  ar=five av=now  ol=boy 1
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 particular
+be partial to علاقه داشتن به. ay تمایل داشتن
+... بودن:: دلبستة ... gale ذوست ذاشتن, tay میل داشتن
+بودن
+be partial (towards) گوشه da) بی‌نظر نبودن
+شدن PB تبعیض dy بودن blaze ») چشمی داشتن (به
+(sh)
+partiality / pa: frztotr/ bls دلیستگی. تعلق ۱
+علاقه ۲. غرض, غرض‌ورزی,» تبعیض؛ جانیداری
+2۵1۵|۱۷ 1 .تا حدّی, تا حدودی. adv
+غرض‌ورزانه. از ails re .۲ ناقص soba نسبتا,
+روی غرض, جانبدارانه
+participant /pa’tisipont/ شرکت‌کننده؛ شریک» a
+oN] =
+participate /pa:tisipert / شرکت کردن؛ vr
+وارد...شدن ۲.سهم داشتن, شرکت داشتن
+participation /pa:tistperfn/ شرکت..مشارکت.
+سهیم شدن
+participial / pa:trsipial / (دستور) [صفت ] فعلی. [
+مشتق از فعل
+participie /pa:usipl / (دستور) وجه وصفی ۸ ۱
+the past participle (Janis وجه وصفی
+مفعولی Seo
+the present participle وجه وصفی فاعلی,
+فاعلی Gao
+کوچک. ریزه 1 ما03 AS ۱.ذره
+(فیزیک) ذره ۳ (دستور) ادات؛ حرف ¥ (دستور) وند .۲
+a particle of محاوره) یک ذره, سر سوزنی» یک جو (
+particle physics ذرات Sj
+an adverbial particle اداتٍ قیدی
+particolored /pa:tikalad / (US) = particoloured
+particoloured/pa:tikalad/ رنگارنگ, چندرنگ, adj
+آلوان
+particular ۱.خاص, به خصوص., /(010010)0دم/ adj
+مسخصوص ۲ خاص. 0539 مشخص, معیّن؛
+استئنایی, فوق‌العاده ۳ مشکل‌پسند. سخت‌گیر,
+جزءبه جزء. (BSS ] دقیق. وسواسی ها [گزارش
+موبه‌می تفصیلی
+۵.(معمولاً در جمع) جزئیات. تفصیل؛ مشخصات 4
+a particular friend of his Hla یکی از دو
+صمیمی‌اش» یکی از بهترین دوستانش
+Which do you want? _ I'm not particular.
+کدام یکی را می‌خواهی؟ - فرقی نمی‌کند.
+in one particular در یک 90 )3 مشخص,
+در یک موردٍ خاص, در یک نکته
+in every particular; in all particulars
+Ww  u=cook u:=too A=cup 3=bird o=about
+= near <وع hair Ua = pure ers = player ara = fire
+0= thin 8 = this [=shoe 3= vision n= 8
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1209 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: nobody I nothing in partimlar; particularity; particularization; particularize; particularly; partition; part-song; part-time -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+particularisation 12
+از هر نظر, از جوانپ مختلف, از هر جهت. از Sli
+مختلف
+las gua علی‌الخصوص, به خصوص, in particular
+QE ۱
+هیچ‌کس / nobody / nothing in particular
+هیچ‌چیز به‌خصوصی, هیچ‌کس / هیچ چیز خاصی
+(US) -riz-/° ,261/۳ ند هانزا دم / 3۳0131531101
+particularization =
+particularise /potikjslaraiz / = particularize
+Nl \ خصوصیت. / particularity /potikjslerat
+ویژگی, ويژگي خاص؛ غرابت ۲. فردیت, خاص
+بودن. Sry بودن ۳ دقت. توجه. جزئیات؛
+وسواس, دقت زیاد؛ موشکافی
+particularization/patikjulorarzer fn, (US) -ri'z-/
+1 بیان جزءبه جزء. توصيفي موبه‌مو, تفصیل
+particularize /poukjslorasz / Jp At
+برشمردن, جزءبه جزء ذکر 1535 4 تفصیل بیان
+کردن, موبه‌مو توصیف کردن
+۲. به جزئیات پرداختن
+0 ۱. به particularly /paukjulali / (LP yas
+(esas Je ogi 2 0519 At خاصه.
+مخصوصا ۲. به طور استئنایی, فوق‌العاده
+۱. جدایی؛ خداحافظی, وداع  /:۳0/ parting
+GAY سر ۳ Al و غیره ] باز شدن» پراکنده شدن.
+شکافتن ۴. مرگ, رحلت
+Aly خداحافظی a parting kiss
+( هنگام خداحافظی) نیش آخر, زهر آخر parting shot
+8 )5 مجازی) دوراهی a / the parting of the ways
+Y (مجازی) dE جدایی, Jo جدایی؛ pls جدایی
+partisan / pa:trzaen, 'pa:tizan, (US) ‘pairtizn/
+a ۱ هوادار, طرفدار» پیرو. مرید ۲.(نظامی) پارتیزان»
+چریک ~=
+ad) ۳ تعصب امیز, منعصبانه. جانبدارانهء کورکورانه ۴.
+طرفدار سر سخت., هوادار متعصب, سرسپرده ۵.
+(نظامی): پارتیزانی» چریکی
+تعصب نشان دادن, کورکورانه جانبداری کردن : partisanbe
+partisanship / 00:22 ip, (US) 'pa:rtizn 1
+هواداری, پیزوی؛ جانبداری, تعصب؛ سرشپژدگی
+A 0 [کشور, سرزمین ] تقسیم. partition /pa:tifn/
+تجزیه ۲. بخش؛ قسمت. جزء AR TN دیواره ۳۴.
+پاراوان» تجیر ۵.(حقوق) افراز
+oss) .۶ 7 سرزمین ] تقسیم کردن, تجزیه کردن ۷.
+(حقوق) افراز کزدن :
+GW] wm قسمتی از اناق ] تیغه کردن؛ partition sth off
+(با دیوار / پاراوان / (aad جدا کردن
+ad) ۱.(دشتور) [کلمه, عبارت ] partitive /pa:tativ/
+Kae
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+7 ۲. (دستور) كلمهٌ بخشی, عبارتِ بخشی, بخش‌نما
+0 نا حدّی, تا حدودی, تا اندازه‌ای partly /pati/
+on ۱.شریک ۲. هم‌رقص, partner /paimna(r)/ an
+یار؛ (ورزش و غیره) هم بازی,» یار؛ [اتوسیل [ SaaS
+راننده ۳. همسر ۴. هم‌خوابه, معشوق ۵.(در قراردادها)
+«So طرف ۶ در خطاب) رفیق
+7 ۷..شريکي ...بودن, شریک بودن با ۸ هم رقص ...
+بودن, هم‌رقص بودن با؛ رقصیدن با؛ (ورزش و غیره)
+هم بازی ... بودن, هم‌بازی boos یار شدن با
+شریک جرم a partner in crime
+Kees SG 2 اصلی a senior partner
+So جزء. So درجه 33 a junior partner
+Ss) wm کردن partner (sb) off
+۲ هم‌رقص کردن؛ (ورزش و غیره) هم‌بازی W035
+يار کردن. جور کردن
+vi .۳ هم‌رقص (OAS هم‌پا شدن؛ (ورزش و غیره)
+هم‌بازی OAs يار شدن ۴. هم‌رقص گرفتن؛
+(ورزش و غیزه) هم‌بازی گرفتن. یارکشی 03,5
+AST کار بردی:
+كلم partner به زنان یا مردانی اطلاق می‌شود که در
+کشورهای غربی بدونٍ آن‌که ازدواج قانونی کرده باشند
+ale زن و شوهر با هم زندگی می‌گنند. در این معنی.
+کلمات boyfriend و girlfriend زیاد به کار نمی‌رود:
+Helen lives with her partner in Los Angeles.
+از partner LIS در مواقعی نیز استفاده می‌کنند که
+نمی‌دانند زوج موردٍ خطاب با هم ازدواج کرده‌اند یا نه:
+Where does your partner work?
+Non شراکت. مغتارکت partnership /pa:tnafip/
+۲. همکاری, هم‌پایی ۳ اشترکنت
+be in partnership Oa Sy
+enter / go into partnership (with)
+شریک شدن (با)
+به شراکت با in partnership with
+کسی را شریک کردن  take sb into partnership
+partook /pa:'wk/ pr of partake
+شریک part-owner / pa:t 'auna(r)/ (SL)
+Shen )5 ملک {/ part-ownership/ pat sunafip
+partridge /'pa:unids/ ( p/ partridges, partridge)
+کبک؛ تیهو؛ درّاج
+7 (موسیقی) چندصدایی  part-singing /pa:t sigiy/
+خواندن ۱
+n ار چنذصدایی part-song /'pa:t soy, (US) sa:n/
+sb با دو Jas آواز دوضدایی ۰ a two-part song
+64 پاأره‌وقت. نیمه‌وقت : part-time /pa:t taim/
+n کارگر پاره‌وقت؛ ۲۹:۱1 / part-timer
+کارمندٍ پاره‌وقت؛ پاره‌وقت‌کار : ۱
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1210 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: parturition; party; party-goer; party mannerS; party piece; party political; party politics; par value; paschal; pasha -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+parturition / pa:tjuni fn, (US) -tfu-/ wolaly 2
+وضع حمل
+party /'pa:ti/ (pl parties; ام partied) pie A 1
+مهمانی» ضیافت. سور؛ پارتی ۲.گروه» دسته.
+هیئت. تیم؛ همراهان؛ (نظامی) عدّه ۳. حزب؛
+(صفت‌گونه) حزبی ۴.(حقوق و غیره) طسرف؛ شریک؛
+یاروء طرف, بابا eal محاوره) ag) 0 همدست
+۶.(محاوره) خوش گذراندن؛ مهمانی رفتن 4
+throw a party مهمانی دادن, ضیافت دادن.
+پارتی دادن
+the party faithful اعضای وفادار حزب
+all parties concerned طرف‌های درگیر WY
+bea party ۸0 5 دست داشتن a دخالت داشتن
+شرکت داشتن درء شریکي... بودن / شدن؛ همدست...
+بودن
+a third party edb شخص
+party-goer/'pa:t1 gaua(r)/ (lege Jol 7
+پارتی‌برو (Ok Jal
+party line! /'pa:tr lam/ تلفن مشترک.
+oS Hate خط
+party line? /pa:u fam/ خطمشی حزب
+follow / toe the party line از خطمشی
+حزب پیروی کردن
+party manners /۳0:0 manoz/ رفتار اجتماعی, mpl
+جمع SY رفتار
+party 01606/۶00: pirs/ lage مزهٌ مجلس, مزهٌ :
+party political / pa:tr palitikl/ (4 (مربوط adi
+خطمشي حزب
+a party political broadcast رادیی تلویزیون) (
+تبليغاتي احزاب / حزبی Lb,
+party politics /pa:t1 polatiks/ حزب‌بازی. 7
+سیاست‌بازی, درگیری‌های سیاسی
+party 50۲11/06۲ 7 عشق به مهمانی .۱
+وفاداری به حزب. طرفداری از حزب ۲
+party spirited /۳6: ۹۳۱۳۱۵/  .ینامهم عاشق adj
+مهمانی‌رو (lage Jo!
+party-wall/ pa:t1 'wa:l/ (حقوق) دیوار مشاع. 1
+دیوار مشترک
+par value /pa: valjs/ [سهام ] قیمتِ اسمی,
+بهای اسمی
+parvenu /‘pa:vanju;, (US) -nu:/ ( pl parvenus)
+نوکیسه, نودولت, تازه به دوران رسیده
+paschal /peskl, ‘pa:skl/ فصح ds (4 .(مربوط 4
+به) عید پاک bye)
+pasha /'pa:fs, (US) ۵۵/۵ 1 پاشا 7
+ir= see I= sit T= cal a= father b= got This
+e1= say لاه - 0 ar = five av = now s1=boy 1
+ava = hour j=yes w= wet {f= chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 pass
+pass’ /pass, (US) pas/ قبولی Jedi .۱ 7
+مجوز؛ برگي عبور ۳ (برای اتوبوس, قطار و Slax ۲
+غیره) کارت, کارت ورود ۴.(ورزش) پاس ۵.گذر.
+گذرگاه» معبر؛ گردنه؛ کتل ۶ بازي ورق) پاس ۷.(در
+دست ۸.(شمشیربازی) ضربه, حمله CS om شعبده‌بازی)
+get a pass نمرةٌ قبولی گرفتن, قبول شدن
+scll the pass — sell
+make a pass at (محاوره) [مرد] دنبال ... افنادن,
+بند کردن به؛ [زن ] لوندی کردن برای, عشوه آمدن برای
+bring sb to a pretty pass کسی را تو مخمصه
+انداختن, کسی را به دردسر انداختن
+bring sth to pass تحقق بخشیدن.
+ظهور رساندن date به
+come to a pretty pass به جاهای باریک کشیدن
+Things have reached such a pass that...
+کار به جایی رسیده است که...
+come to pass تحقق یافتن,. وقوع یافتن. واقع شدن.
+Ode) ظهور ial به
+pass? /pa:s, (US) pas/ Shas S عبور Nw
+از ۲ گذشش از go 8 ار "رد شدن ازء گذار usd ۱
+جلوی, )3 شدن از جلوی, عبور کردن از جلوی,
+گذشتن از پهلوی ۳ جلو زدن از US گذشتن از
+سبقت گرفتن از ۴. گذراندن, عبور دادن 35 کردن
+دادن رد کرادان ۶ (ورزش) پاس دادن. ,3 کرد .۵
+[وقت, شب ] گذراندن» صرف کردن, به سر آوردن, ۷
+به سر بردن ۸. [امتحان و غیره ] قبول شدن در پذیرفته
+شدن درء گذراندن 4 [داوطلبان ] قبول کردن»
+پیشهاه وغیره] تنضویب کردق, em] ۱۰ پذیرفتن
+PRI. J گذراندن ۱ مجلس وغیره ] گذشتن از
+در, مورد تأیید...قرار گرفتن ۱۲.[حکم] صادر
+اظهار کردن» ابراز کردن ۱۳. [درک ease] کردن؛
+و غیره ] از حلٍ... فراتر رقتن ۱۴.(پزشکی) [خون, سنگ و
+تقلبی, اموال دزدی ] رد کردن, J} ۵ غیره ] دفع کردن
+اب کردن
+AY گذر کنر دن IED sais عبور کر دنه .۱۶ 7
+(Sola) AA (ورزش) پاس دادن توپ را ردٌ کردن
+.۲۰ تبدیل شدن, رسیدن, بدل شدن MN رسیدن
+زمان:] گذشش, سپری شدن ۲۱. [توفان, تعطیلات و [
+(در امتحان و غیره) XY غیزه ] تمام شدن, به سررسیدن
+] قبول شدن, پذیرفته شدن ۲۳. [لایحه. قانون و غیره
+نادیده گرفته شدن, تحمل شدن XY تصویب شدن
+اتفاق افتادن؛ رخ دادن واقع شدن لگ من رک ۵
+شدن ۲۶. (در مصاحبه و غیره) حرفی نداشتن. Jus
+ساکت ماندن؛ (بازي ورق) بازی 0055 خوابسیدن.
+جا رفتن
+Ww u=cook 00۱00 A=cup 3=bird  o= about
+= near 5 = hair ua = pure ero = player an = fire
+0= thin d= this [= shoe 3= vision j= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1211 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: passable; passably -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+passable 12
+هیچ نگفت. Not a word passed his lips.
+لب از لب باز نکرد. لب نجنباند.
+pass the buck (to sb) — buck?
+به چیزی نظر انداختن.  pass one's eyes over sth
+چیزی را مرور کردن
+جیزی را روی جیزی کشیدن pass sth across sth
+چیزی را دور چیزی پیچیدن pass sth round sth
+lis تشخیص داده شدن, pass muster
+موردٍ تأیید قرار گرفتن
+( کسبی زا) محکوم pass sentence (on sb) 93S
+( دربارةٌ کسی / pass judgement (on sb/ sth)
+چیزی) داوری کردن, )3403 کسی / چیزی) قضاوت
+کردن
+( دربارة pass remarks (on sb/ sth) (> / eS
+اظهار نظر کردن, (دربارة کسی / چیزی) حرفی 035
+( دربارةٌ کسی / چیزی) چیزی گفتن
+اظهار عقیده کردن pass an opinion
+۳ بودن, غیرقابل‌قبول بودن»  pass belief
+باورنکردنی بودن
+ادرار کردن pass urine / water
+شکم (کسی) کار کردن pass faeces
+( در اتوبوس) لطفاً Pass down the bus please!
+یک کم بروید جلو!
+ships that pass in the night — ship?
+)=( سلام و pass the time of day (with sb)
+علیک کردن, (با کسی) حال و احوال کردن
+به نام ... pass under / by the name of...
+معروف بودن رز
+این خوبه؟ - آره Will this do? _ It'll pass.
+als
+نمی‌توانست نادیده‌اش He couldn't let it pass.
+بگیرد. تمی‌توانسمیت نسبتبه: آن-بی‌اععتا بمازد؟
+حرفشان شد. Words passed between them.
+الا ۱. دست به دست pass (sth) along WS
+رد کردن, چرخاندن
+.۲. دست به دست (Odd چرخیدن
+pass as sb / sth = pass for sb / sth
+۶ ۱. درگذشتن, فوت (05S دار passaway
+فانی را وداع گفتن ۲. [فرصت و غیره] به‌تدریج از
+Ole رفتن؛ [حافظه ] ضعیف شدن» تحلیل رفتن
+vt ۱ نظر / توجه ...را جلب pass (sb / sth) by
+نکردن» از کنار ... گذشتن؛ به بازی نگرفتن,
+ی نیب گذاشتن ۲. جشتم Orgy ان SSG
+گرفتن» از JUS ... گذشتن» صرفي نظر کردن از
+XY vi گذشتن, عبور کردنء 3,5 شدن
+از زندگی نصیبی نبرد. Life passed her by.
+از زندگی چیزی نفهمید.
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+از ۱. به ارث گذاشتن, به میراث pass (sth) down
+گذاشتن, (از نسلی به نسلی) Jama کردن
+4 .۲. به میراث ماندن, (از نسلی به نسلی) منتقل
+شدن
+Wr به عنوان ... قلمداد pass for sb / sth WAS
+خود را به جای ... جا زدن
+می‌تواند خود را بیست .20 She would pass for
+سالجا Bis
+No درون فرستادن pass (sth) in
+YW قبول‌آقندن,ء پٌذیرفته OAS
+وارد... شدن pass in to
+4 وارد...شدن؛ پیوستن به pass into sth
+wr .۱. قالب کردن, انداختن. pass (sb / sth) off
+جا زدن
+Y vi انجام OAS انجام گرفتن, برگزار Oa اتفاق
+افتادن ۳. [اثر دارو و غیره ] از میان رفتن» زایل
+شدن؛ [درد] آرام شدن
+Nw [چیز ] دادن» رد کردن؛ pass (sth) on
+[اخبار, [ly رساندن» منتقل کردن؛ [بیماری ] منتقل
+کردن, دادن سرایت دادن
+4 .۲. درگذشتن, فوت کردن. مرحوم شدن ۳ (در
+مورد کار و غیره) ادامه دادن
+4 چیزی )056 / (Rs پرداختن. pass on to sth
+po چیزی )035 دیگر) زفتن
+Nw [اوراق و [ope توزیع pass (sth) out WO S
+پخش 03,5
+YW بیهوش OAS غش کردن, از حال رفتن
+[مدرسه, دوره ] تمام کردن, pass out of sth
+به پایان رساندن, پشتِ سر گذاردن
+wr نادیده گرفتن,. چشم پوشیدن pass 0۷۵۲ sth jl
+اغماضن کردن» مسکوت گذاشتن
+۱. [شخص ] کنار گذاشتن. pass sb/sthover
+به حساب نیاوردن, نادیده گرفتن ۲. [اسناد
+محرمانه ] در last دیگران گذاردن
+Wt دور pass sth round : WBE om
+(دست 4 دست) گرداندن
+(محاوره) Js جمع کراان pass round the hat
+NY ow [مشکلات ] از سر pass through (sth)
+گذراندن, پشتِ سرگذاردن, تحمل کردن
+YY wi رد شدن, گذشتن, عبور کردن
+4 [فرصت. شانس ] از کف pass sth up Osby
+هدر دادن از دست دادن
+adj ۱. [جاده ] passable /'pa:sabl, (US) pas-/
+pe Jil باز؛ mail] قطع‌کردنی ۲.
+قابل‌قبول, نسبتاً خوب
+به اندازٌ کافی.  passably /'pa:sably, (US) pas-/
+به‌طورٍ قابل‌قبولی
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1212 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: passage; passageway; pass ant; passe; passenger; passing; passing-out; passion; get; passionate; passionately; passion-flower; passion-play; passive; passively; passiveness -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+۱. عبور؛ 38 طی؛ [زمان]  passage /pasids/
+گذشت. گذر ۲. go عبورء lal عبور ۳ راه» راو
+عبور ۴. سفر؛ خرج سفر؛ Jom بلیت ۵. راهرو
+دالان, دهلیز؛ کوجه. راه ۶.(کالیدشناسی) مجرا؛ (در
+(pam مجاری ۷.(موسیقی, (SA قطعه, تکّه ۸. [لایحد.
+قانون ] sai
+انیت عبور guarantee sb safe passage pS
+را تضمین کردن
+(نیز مجازی) راه سختی را have a rough passage
+ty سر گذاشتن
+)35 مجازی) جنگ, منازعه.  passage of / at arms
+درگیری, مجادله
+از ole جپزی force a passage through sth ol,
+باز کردن
+Cody سفر به ...را رزرو کردن book one's passage to
+خرج سفر را با کار پرداختن  work one's passage
+( محاوره) ماتحتن the back passage
+n راهرو, OY تن یت هه passageway
+دهلیز؛ کوچه. oly
+passant /'pzson/ = en passant
+7 ۱. (بانکداری) passbook /'pa:sbuk, (US) ‘pas-/
+دفترچةٌ حساب ۲.(در آفریقای جنوبی, در موردٍ
+رنگین‌پوستان) کارت شناسایی
+7 (دانشگاه) pass degree /'pa:s digri:, (US) 'pes/
+Shae بی‌امتیاز. مدرک معمولی
+oS]. adj و غیره] passé /paser, passer, (US) pa'set/
+ag S قدیمی, ازمُدافتاده ۲. wma] زن] که
+528550 به سر آمده است: 4S روخقش را از دست
+داده است
+Nn مسافر ۲ (صفت‌گونه)  passenger /pasindia(r)/
+مسافری, مسافربری» (مربوط به) مسافران»
+( مربوط به) مسافر۳.(در بریتانيا. محاوره) مفت خورء
+بیکاره. سربار, طفیلی
+قطار مسافری, قطار a passenger train; sl.
+(Jems) صندلی کنار راننده the passenger seat
+passer-by /pa:ss bai, (US) pasar!
+len رهگذر عابر پیاده pl passers-by) (
+0 (در نوشته. برای ارجاع) در جاهای passim /pazsim/
+مختلف, در جای‌جای. جای‌جای
+۱. [شخص. اتومبیل [ passing /'pa:sin, (US) pas-/
+در J عبورء در J گذشتن؛ SS] هوس ] گذراء
+Be ناپایدار» زودگذر ۲. [نگاه. نکته و غیره ] اتفاقی,
+wd ples “SG ~~ گذرا
+0 ۳ (کهنه) Sloe بسی, بی‌اندازه > passing rich >
+7 ¥ [زمان ] گذشت, مرور؛ گذر؛ SW] اتومبیل ] عبور ۵.
+1=sit m=cat a=father D=gol i= ss معا
+a1 = five aU = now oI =boy 13 0 < اه er = say
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 passive resistance
+پایان؛ اتمام ۶. فوت. وفات. درگذشت. رحلت
+with every passing day 2,38 هر روز که
+روز به روز هرروزه
+bear a passing resemblance to sb 4 شباهتی
+کسی داشتن
+the passing bell ناقوس مرگ :
+in passing ور اتفاقی؛ در حاشیه 4
+passing-out/ pa:siy ‘ast, (US) pasiy/ sil adj
+غیره ] (مربوط به) پایان دوره
+passion /pafn/ حرارت, Olas Het A 2
+حدت و شدت ۲. خشم. عصبانیت., غضب ۳ عشق,
+عطش؛ ولع (ya شدید. تمایل Joo سا اشتیاق,
+(مذهب. با حرف بزرگ) مصیبتِ مسیح .۴
+be in a passion بودن Sear خشمگین بوذن.
+get / fly into a passion (AL خشمگین
+عصبانی شدن, از کوره دررفتن, ( از خشم) منفجر شدن
+Music is a passion with him. عاشتي موسیقی
+است. موسیقی عشقش است.
+passionate /'pa fonot/ پرشورء پرحرارت. ad)
+oe. {| [ot پرتب وتاب, پرسوز و گداز؛ [بوسه و |
+سوزان؛ [عاشق ] سینه چاک, بی‌قرار؛ [رابطه ] شهوانی؛
+[علاقه ] شدیدء قوی
+passionately / 01 ] [دوست داشتن .۱ 0
+.۲ تمام, با ولع ola با تما وجود. با شور و
+ETN AE بشتیانه به شدت:
+passion-flower /'pa fn flavs(r) / گل ساعتی
+passion-fruit/ pan frut/ ساعتی ism n
+passion-play/ pan plet/ مسیح dion
+Passion Sunday /px/n ‘sander, 'sandi/ (cain) 72
+مصیبت )= پنجمین یکشنبه در ایام روزةٌ بزرگ) Les
+
+Passion Week /'pz /n wik/ Saas (Gade) 1
+مصیبت و 42280 نخل‌ریزان) 42255 ple مصیبت )= هفتةٌ
+passive /pasiv/  .لاعفریغ ud Jad منفعل, .۱ ad)
+
+پذیرا؛ بی‌اختیارء تا omy بی‌آراده. تسلیم؛ [عمل ]
+vy PEI بدون اختیار. بدون اراده ۲. بی‌علاقه.
+بی تحر 1S [حالتٍ چهره ] بی تفاوت, بی‌اعتنا ۳.( دستور)
+مجهول
+n ۴ (دستور) (Jao) مجهول
+0 ۱. منفعلانه؛ با بی‌تفاوتی.  passively /pesivli/
+با بی‌اعتنایی :۲.(دستور) به صورتِ مجهول
+passiveness/pasivmis/ ts pd Jad Jail) ۶
+بی‌اختیاری, بی‌ارادگی, تسلیم ۲. بی‌علاقگی.
+(Sen رخوت؛ بی‌اعتنایی» بی‌تفاوتی
+passive resistance / 0281۷ ۲72791۵08 / (A) 7
+مقاومتِ منفی
+abou و w 000006 u:=100 A=cup 3=bird
+near €3 = hair U9 = pure elo = player  aIa:= fire =
+thin 8 = this [= shoe 3= vision n= sing =6
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1213 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: passive smoking; passive voice; passivity; passkey; pass law; passmark; Passover; passport; password; pasta; paste sth in; pasteboard; pastel; pastern; paste-up; pasteurisation; pasteurise; pasteurised; pasteurization; pasteurize; pasteurized; pastiche; pastille -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+passive smoking 12.
+n کشیدن passive smoking / pasty 'smavkin/
+دود Fo دیگران, استنشاتی دود iL دریگرآن
+ad) ۱.(دستور) مجهول  passive voice /0281۷ vois/
+2 ¥ )42( مجهول
+passivity /pasivati/ = passiveness
+n از کلیر در اصلی passkey /paskiz, (US) ‘pas-/
+۲ شاه کلید, کلیدٍ اصلی
+۸ (در آفریقای جنوبی)  /0۵۶ pass law /'pas ۱۵: (US)
+قوائین ترددٍ رنگین‌پوستان
+4 (در مدرسه. دانشگاه) passmark/pa:smak, (US) ‘pas-/
+نمرةٌ ناپلئونی
+Passover /'pa:sauva(r), (US) pas-/ (gad Jos ۸
+عید فطیر
+n ۱.گذرنامه. passport /pa:spait, (US) paes-/
+پاسپورت ۲.کلید. مفتاح, وسيلةٌ رسیدن» راو نیل,
+جواز > the only passport to success <
+1 ۱. (نظامی) اسم password /'paswaid, (US) ‘pas-/
+عبور؛ اسم شلب ۲. (کامییقتر) اسم رمز
+ad) ۱.گذشته ۲. ob] هفته ] past’ /pa:st, (US) past/
+پیش, قبل, اخیر, گذشته ۳ سابق, قبلی, پیشین:
+238 ¥ )50( طاضنی» گلاشته
+۸ ۵.گذشته, زمانِ گذشته. ایام گذشته. روزگار
+گذشته. دوران گذشته ۶ سابقه, سوابق, پیشینه.
+saz 3S سوء سابقه. سابقةٌ ید ۷.(دستور) ماضی,
+گذشته, صیغهٌ ماضی, فعل ماضی
+
+در ایام قدیم. در روزگار گذشته, in times past
+
+انا پیش از اين, در گذشته
+
+for some time past (در گذشته) مدتی؛
+
+از مدتی پیش
+
+She is past sixty. aml Cz YY (2)
+
+the past year گذشته Ju
+
+a thing of the past — thing ’
+
+live in the past —> live?
+
+a woman with a" past” معلوم‌الحال oI
+past? /past, (US) past/ Ol زمان) بعد 53) prep
+oF پس از ۲.(درسن) بالای ۳ (در مکان) آن سوی,
+فراسوی ۴. از جلوی Ol بعد ازء بالاتر ity طرفي,
+فراتر از .0 < She goes past the house everyday. >
+
+(3) فوقي, بالاتر از (3s)
+<march past > .از جلو, از پهلو adv
+
+half past two دو و نیم
+
+دو و ده دقیقه, ده دقیقه از دو گذشته ten past two
+
+اقلا چهل سالش است. 5۰ ۱۱۵۳۲۳ She's past
+
+سال‌های سی را پشتِ سر گذاشته است.
+
+از من جلو زد. He hurried past me.
+دیگر کار از او نمی‌آید؛ Ile is past working.
+le کارش گذشته است.
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+JC برایم مهم I'm past caring what he docs.
+نیست چه می‌کند.
+این چیزها از من I'm past that sort of thing.
+گذشته است. این چیزها دیگر به من pat آید.
+ge دوره She's past playing with dolls.
+عروسک‌بازی‌اش گذشته است.
+کار از کارش گذشته است. He's past praying for.
+ذیگر امیدی,به COI
+( محاوره) [شخص ] دیگر رک [چیز ] دیگر کهنه از past
+The overcoat is looking decidedly past it. > <
+2 (غذاهای ماکارونی‌دار) pasta /'pasta, (US) ‘pasta’
+ابا کی ؛ ماکارونی؛ لازانیا
+7 ۱. خمیر؛ مایه ۲. comm سریش paste’ /peist/
+۳ (آشپزی) پوره» پاته ۴. جواهر بدلی, شیشه؛
+(صفت‌گونه) [جواهر ] Joy شیشه‌ای "
+از ۱. چسب زدن 4( چسب مالیدن paste? /peist/
+روی» سریش زدن به ۲. چسباندن ۳ (کهنه. محاوره)
+زدن. کتک زدن, مالاندن
+4 ۴. چسب زدن؛ سریش زدن
+از OX er سر ...را paste sth down
+(با چسب) پستن
+۷ جسباندن paste ۶۱ / into
+wf چسباندن, (با چسب) )05 paste sth up
+/‘perstbr:d / I 420 .۱ 1 0231۵0۵۲۵
+40 مقوایی ¥ (مجازی) پرپری, کاغذی
+۸ ۱. پاستل, گچ انگی : pastel / past, (US) p'stel/
+y نقاشي پاستل ۳ ame Ko, رنگي روشن
+۴. [نقاشی ] پاستل, 5 رنگی ۵. [رنگ ] کم‌رنگ.
+ملایم» روشن :
+a pastel shade div
+1 (جانورشناسی) pastern /paston/ ol yoy
+)= فرورفتگي بالای سم اسب)
+n کاغذ paste-up /pesst ap/ old
+pasteurisation/pa:stfararzerfn, (US)
+pastfari'zetfn/ = pasteurization
+pasteurise/pa:stfararz, (US) ‘pas-/ = pasteurize
+pasteurised / ۵:5۱ faraizd, (US) 'pas-/
+pasteurized =
+pasteurization pa:stfaratzerfn, (US)
+(Jas) 2 پاستوریزه کردن pastfarczerfn/
+FAW vt ریزه pasteurize /pa:stforacz, (US) 'pas-/
+کردن
+adj پاستوریزه /-۵۶م۱ pasteurized /pa:stforarzd, (US)
+۸ (ادییات. هنر) ۱.استقبال, pastiche /pa'sti:f/
+پیروی ۲. اقتباس
+آب‌نبات؛ pastille /pastal, (US) pa'sti:l/
+(پزشکی) go A مکیدنی
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1214 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pasting; past participle; pasture; not be a patch on sb; patch s; patchily; patchinesS; have -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12:
+a throat pastille قرص گلودرد
+pastime /’pa:staim, (US) ‘pas-/ A 7
+وقت‌گذرانی, تفریح Mews
+pasting /'perstiry / حسابی SS (محاوره)
+give sb a pasting IVb حساپی 1) WS
+035 حسابی به کسی SS
+past master /pa:st 'ma:sta(r), (US) past masta(r)/
+خبره, استاد. پیش‌کسوت ۸
+pastor /'passta(r), (US) pas-/  یناحور کشیش, 0
+pastoral /'pastaral, (US) 'pas-/ ۱.روستایی. 4
+چوپانی» دشتی ۲. [زمین] علف‌زار» پرعلف (sll
+[وظایف و غیره] کشیشی, مذهبی» معنوی ۳
+دشتی ۵. نامه اسقفی sla (hale) Fa
+a pastoral letter اسقفی Ll
+pastoral land چراگاه Eo
+past participle / pa:st ‘pa:tsipl, (US) past/
+مفعولی, اسم مفعول, وجه وصفي مفعولی Con
+past 06۲1۵01 / past pafikt, (US) past/ ماضی nn
+Cam
+pastrami/pa’sira:mi/ گوزشت )5( دودی ۸
+pastry ۱۵۵۶۹۳۱ / ( pl pastries) شیرینی؛ ob 7
+شیرینی دانمارکی
+03851۲۷-000۴ /'pestrt kuk/ دانمارکی‌پز (sls) n
+past tense /pa:st ‘tens, (US) past/( fae) (دستور) 2
+زمانِ گذشته ole
+pasturage / بقل انم (US) ‘pas-/ جلاگای Non
+حقي چرا Y مرتع
+pasture /'pa:stfa(r), (US) ‘pas-/ چراگاه. Een
+fare .۲ علف زار, چمن‌زار ls a
+[حیوان ] چراندن» به چرا بردن ۳ 4
+چریدن .۴ ۸
+pastureland /'pa:stfaland, (US) pas-/ چراگاه» n
+Er
+pasty’ I'petstt/ (comp pastier, super pastiest)
+- [چهره ] رنگ X ۱.خمیری, خمیرمانند» خمیرشکل ad
+زرد رنگ 033) SP پریده.
+pasty? /pestt/ (در بریتانیا) پیراشکی؛ پای (میوه) ۸
+a Cornish pasty ct 8 پیراشکی
+pasty-faced/ pewsu 'feist/ ذرهجهد adj
+pat! /pat/ بی‌درنگ. بلافاصله, سرٍ ضرب. A adv
+بی‌معطلی «So
+۲.درست. دقیق؛ بجاء مناسب ۳۳. [جواب و غیره ] حاضر ad)
+و آماده» تر و فرزء تر و چسبان
+have / know sth off pat جواب و غیره ] خوب [
+دانستن, حاضر و آماده داشتن؛ از بر داشتن, حفظ بودن
+ii=see 1=sit ®=cal a=father ون اوح
+el=say  ou=go ar=five av=now  ar=boy I
+avd = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 patch-pocket
+stand pat خود baie سر حرف خود ایستادن, در
+پابرجا ماندن
+pat? /pat/ رس patting, pr,pp patted)
+دست زدن به؛ [کودک. حیوان ] نوازش AS با .۱ We
+دسیت ادن bf] کردن. دستی به سر ... کشیدن؛
+کردن ie Cana با
+ضربة ملایم؛ نوازش, دستِ نوازش ۴.(صدای) ۳ 7
+035 AY تپ‌تپ ۵. [کُره وغیره]
+pat one's face dry صورتِ خود را خشک کردن
+pat sb on the back زدن. (gS Cody دستی به
+به کسی آفرین گفتن» به کسی دست مریزاد گفتن, از کسی
+کردن dead تعریف و
+pat onesclf on the back AS ep pl به خود
+به خود بالیدن
+give sh a pat on the head سر اکسوج را نوازش
+Hass کردنء دستی به سرٍ کسی
+a pat on the back (محاوره) نوازش.
+تعریف و تمجید؛ تشویق
+pat? /pxt/ < patent (بازرگانی) شمارةٌ ثبت. nn
+ساخت Gy شمارة ۱
+patch! / اد gt سر زائو 1455 Alo ۸
+is سرارنجی ۲. چشم‌بند. بالشتی چشم ۳ لک.
+۵.(سبرزی‌کاری) کسرت ۶.(در بریتانی AST anda BX
+مخله. ناحیه (oe و mi] محاوره)
+This film was good in patches. بعضی جاهای
+این فیلم خوب بود. تکّه‌هایی از این فیلم خوب بود.
+a bad patch; a sticky patch روزگار بد.
+ایام ناخوش. روزگار سخت, وضع بد
+not be a patch on sb/sth / (محاوره) به پای کسی
+چیزی نرسیدن؛ به گردٍ پای کسی / چیزی نرسیدن, هیچ
+دخلی به کسی / چیزی نداشتن؛ انگشتِ کوچي کسی
+هم نشدن
+patch? / [لباس ] وصله کردن؛ [پارگی ] دم .۱ wr
+وصله زدن به؛ [ لاستیک ] پنچري ...را گرفتن.
+وصله به‌کار بردن plas پنچرگیری کردن ۲. به
+patch sth up تعمیر کردن؛ YN W2
+موفَتاً راه انداختن ۲ [ اختلافات ] رفع و رجوع
+حل و فصل کردن, خاتمه دادن به 03S
+patchily / تکه‌تکه, پاره‌پاره الا adv
+ناقص sha به صورتی ناهمگون؛ .۲
+patchiness / 1 گونه گونی. «Sosy em n
+گوناگونی؛ تلوّن
+patchouli / ۳۵ هندی 1 بان glam 7
+هندی pln عطر .۲
+patch-pocket/patf pokit/ رو cam (خیاطی) 2
+۷۷ ¥=cook u:=t00 A=cup 3: = bird 3= about
+= near ea = hair v3 = pure e12 = player ata = fire
+6= thin 8 = this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1215 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: patchwork; patchy; pate; pate de fois gras; patella; patentee; patently; patent medicine; patent Office; paterfamilias; paternal; paternalist; paternalistic; paternalistically; paternally; paternity; paternity leave; paternitysuit; start; paternoster; path -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+patchwork 12
+Patchwork /petfwa:k/ #ر ۱. تکّه‌دوزی ۲.(صفت‌گوند)
+چهل‌تکه. تکّه‌دوزی‌شده ۳ (سجازی) مجموعةٌ
+|. متنوع, ترکیپٍ رنگارنگ: چهل‌تکه
++ ملغمه, امیزه؛ اش درهم .۴ <a patchwork of fields >
+۱ جوش
+patchy / نله | (comp patchier, super patchiest)
+تکهتکه. پاره‌پاره ۲.(مجازی) ناهمگن. ناهمگون: 0 ad)
+نامتجانس؛ سرهم‌بندی‌شده؛ ناقص
+pate /pert/ سر (AS محاوره) gS) 1
+paté /'peeter, (US) pa:'ter/ آشپزی) پاته ( n
+paté de fois gras pzter do fwa ‘gra: (US) pater /
+Gl) پات جگر
+patella /pstela/ ( pl patellae) (SSeS (کالیدشناسی) 7
+زانو استخوان کشکک
+patellae /poteli:/ pl of patella
+patent! /'pertnt, patnt, (US) ‘patnt/. آشکار Need 5 adj
+روشن ols علنی,
+patent? /'patnt, ‘pextnt, (US) patnt/  )یناگرزاب(.۱ »n
+حتي ثبت؛ Glad حتي انحصاری (بهره‌برداری)»
+| (شمارة) پروانهٌ ساخت. پروانة بهره‌بزداری
+’ : انحصاری ۲. اختراع ثبت‌شده
+= دارای asc [as] ۳ (بسازرگانی) ad
+۱ بهره‌برداري انحصاری ۴. [دارو] انحصاری
+۱ امتیاز ... را گرفتن Ohl; به ثبت [YS [اختراع, .۵ ۷
+: patent applied for تقاضای ثبت (NS (روی
+: داده شده
+be protected by a patent اختراع ] به ثبت رسیدن [
+take out a patent on 513/1۵ protect sth
+حقي انحصاري بهره‌برداری از چیزی را گرفتن» چیزی را:
+به ثبت رساندن
+his patent ۳۵۲۵ (به شوخی) داروی خودساخته‌اش۰
+: دوای شخصی‌اش, دوای اختصاصی‌اش
+patentee /peunti;, (US) petn-/  زایتما colo no
+patent leather / patnt ‘leda(r), peitnt/ (چرم) n
+oy
+patently /'patntly, 'pertnt-/ اشکاراء به‌وضوح de adv
+patently obvious کاملا اشکار
+patent medicine / 02101 'medsn, pertnt, (US)
+pant 'medisn/ داروی انحصاری ۱ no
+: داروی غیزرسمی, داروی عطارساز ۲
+patent office /pzint ofis, pertnt, (US)
+‘pnt o:fis/ اختراعات cus ادارةٌ nm
+pater /'peita(r), (US) ‘paiter/  )هنایماع در بریتانیا, کهنه, 2
+باباء پدر
+paterfamilias / pettafamilizs, (US) pat-/
+(pl patresfamilias) (رسمی, به شوخی) رئیس 7
+خانواده, بزرگي خانواده؛ پدر؛ خدای خانه
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+ad پدری؛ پدرانه؛ ( مربوط 4( 0 paternal /patanl/
+۱ مادربزر JS پدری paternal grandmother
+8 (جامعه‌شناسی) پدرما بی,/ paternalism /pstsnalizom
+مشي alos
+adj ۱ پدرماب, پدرمابانه  paternalist /pstainalist/
+بر رت رات
+ad) پدرماب؛ پدرما بانه, / paternalistic/pstsmalisuk
+پدرمنشانه
+paternalistically /patainatistikts / wba adv
+پدرمنشانه
+پدرانه, پدروار دادم / paternally
+«Sok Nn پدر بودن paternity /psta:natr/
+ia Jol ۲ پدری ۲ اصل؛ منشاً, سرچشمه
+Nl مرخصی Ty 1 کاده دادم / paternity leave
+پدر pu
+۸ (حقوق) دعوای paternity suit/patainatr swt, sjuit/
+Crm پدر
+[زن ] تقاضای start / take out a paternity suit
+pe پدر (بچّه را) کردن
+Nn )35 ستیحییت) paternoster/pztonosta(r)/ les
+um sh ما»» دعای ربانی XY آسانسور چرخان
+pl paths / 00:۵2, (US) pedz/) ( /9هم path /pa:6, (US)
+A 7 زاو پیاده, راو پیاده‌رو؛ کوره‌راه» (در بارک و باخ)
+خیابان Y [رود. شیاره, گلوله ] مسیر, مسیر حرکت ۳
+(مجازی) rs راه ۴. راو دستیایی, وا fg fod
+Amey
+lead sb up the garden path — garden
+the primrose path — primrose
+cross sb's path — cross 2
+smooth sb's path — smooth?
+راو نابودی, وسیله‌ای در the path to ruin Cag
+نابودی
+ASS | کار بردی: ۱
+کلمات 0240 و footpath به راه باریکی اطلاق می‌شود که
+برای رفت و nal مردم Gy خانه‌های یک len pd
+مزارع. کنار رودخانه‌ها و جز of ایجاد می‌گردد:
+Just follow the path and you won't get lost.
+track LS به راه ناهمواری گفته می‌شود که بر اثر رفت
+و مد مدام مردم. حیوانات و Joly نقلیه پدید می‌آید:
+We walked along a track through the forest.
+lane LIS به راهی در خارج از شهر گفته می‌شود. این
+کلمه به هر یک از باندهای جاده‌های عریض نیز اطلاق
+می‌شود:
+a six-lane motorway ۱
+You're in the wrong lane if you want to turn
+left.
+track LIS به معنی خط راه‌آهن نیز هست:
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1216 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pathetically; patisserie; patrician; patriotiC -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+The railway track runs along the shore of Lake
+Superior.
+کلمه gtrack مسیر اختصاصی مسابقه‌های دو نیز گفته
+می‌شود.
+lanes LIS به مسیرهایی گفته می‌شود که در مسابقات
+دو و میدانی هر دونده در Jb یکی از آن‌ها می‌دود.
+
+۱. [منظره, فریاد ] دلخراش., / pathetic /psgetik
+جگرخراش, دردناک. رقت‌انگیز, رقت‌بارء
+تاثراور ۲.(محاوره) [تلاش, عذرخواهی ] مذبوحانه؛
+بی‌نتیجه. 5 03 بیخود. [اجرا ] بد. مفتضح؛ [شخص ]
+بدبخت. بیچاره, مفلوک
+
+pathetically /pagetkii/ به طرز رقت‌انگیزی. .۱ adv
+به صورتِ تاثراوری ۲. به شدت. حسابی؛ وحشتناک
+
+7 (ادبیات) 1 pathetic fallacy /pogetik
+زنده‌پنداری, شخصیت بخشی. تشخیص
+
+2 ۱.راه‌نماء  pathfinder /pa:6fainda(r), (US) pz8-/
+wel, ۲. پیشرو. پیشگام؛ پیشاهنگ؛ مبتکر؛
+مکتشف ۳ (خلبان) هدف‌ یاب
+
+pathological / (پزشکی) ,لدعم adj
+اسیب‌شناسی, اسیب شناختی. (am مربوط ( A
+.۳ [اندام, بافت ] بیمار Y (مربوط به) پاتولوژی
+[افسردگی, مشروب‌خواری ] مرضی ۴. ناشی از بیماری
+(محاوره) لاس نفرت و غیره] بیمارگونه. موهوم. ۵
+بی‌اساس, نامعقول؛ [ دروغگو ] بی‌اختیار
+
+0 به طور / داماد دوم / pathologically
+بیمارگونه‌ای
+
+pathologist /03001:03:51/ (پزشکی) اسیب‌شناس, 2
+پاتولوژیست
+pathology /pstoladst/  .یسانش‌بیسا (پزشکی) 7
+پاتولوژی
+pathos /'peifos/ کیفیت اندوهبارء :
+حالتِ رقت‌انگیز, وضعیتِ تأثرآور
+pathway /۳۵:۵۷/۵۲, (US) 'pz6-/ پیاده» oly, nn
+را پیاده‌رو؛ کوره‌راه؛ (در پارک و باغ) خیابان
+patience 1 pr Cer حوصله. oN 1
+ورق JB تحمل ۲ (ورق‌بازی) weld
+lose patience بی‌طاقت شدن,
+نیاوردن wb ae طاقتٍ (کسی) طاق
+be out of patience  )یسک( حوصله نداشتن» صبر
+تمام‌شده بودن
+I have no patience with these people.
+این آدم‌ها را doy این آدم‌ها حوصلةٌ مرا سر می‌برند.
+ندارم.
+try sb's patience — try!
+ii=see 1=sit @®=cat a:=father Dp=got اند
+el = say اه =go a1 = five av = now 51=boy It
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 patriotic
+the patience of Job صبر ایوب
+patient’ /00:/0:/  ؛هلصوحرپ شکیباء see .۱
+از Ll geo ] کار Jae] ۲ پرطاقت. بردبار (Jars پر
+سر صبر ۳ باپشتکار, پشتکاردار
+be patient صبر داشتن, حوصله نشان دادن,
+تحمل کردن
+patient? /'perfnt/ مریض olen n
+031601۷ 1 با حوصله, صبورانه. 0
+با شکیبایی, از سرٍ صبر
+patina /pztma, (US) pa'tina/ زنگار ۲ پوشش., .۱
+لایه ۳.(روی چوب کهنه) برق
+patio / تسه / ( p/ patios) حیاط؛ ایوان .۱
+پاسیو .۲
+patisserie /patison/  یدانق شیرینی‌فروشی. .۱ 1
+شیرینی. شیرینی‌جات ۲
+patois / 02۵: / ( pl patois /'patwa:z/) ing) n
+لهجه (sha
+patresfamilias / pa:treizfa'mihies / pl of
+paterfamilias
+patriarch /'pertriaik, (US) pat-/ ۱.رئیس خانواده 7
+oo ] پدر؛ ]43[ رئیس, سرکرده, بزرگ؛ [حیوان
+نر ۲. ریش‌سفید. بزرگ ۳ (در کلیسای شرق, با حرف
+سراسقف (Gk بزرگ)
+patriarchal / باانه ام (US) pat-/ [جامعه .۱ adj
+[sis] obs EY | VI ] خسانواده و غیره
+پدرسالارانه. مردسالارانه ۲ [ چهره. رفتار ] پرابهت
+patriarchate /pertriackert, (US) pat-/ .دور 2
+مقام ogi ha بطریقی, 5550 سراسقفی ۲. مقام
+ial
+patriarchy /peitniacks, (US) pat-/ ۱.مردسالاری 7
+پدرسالاری (plz) ۲
+patrician /pstrifn/ شریّفت‌زاده» نجیب زاده. Non
+اعیان زاده
+(مربوط به) نجیب‌زادگان, (Past اشرافی, .۲ adi
+مربوط به) اشراف زادگان (
+۳ پدرکشی ۲.(ادم) .۱
+پدرکش
+patrimonial / pztri'maunial / موروثی sol adi
+patrimony /'patrimani, (US) -maunt/ ROR
+۲ PESTS EW مرده‌ریگ, ترکه. ماترّک؛ RG JO
+موقوفه (کلیسا)
+patriot /'patriat, (US) 'pert-/ وطن پرست. 1
+میهن پر ست. وطن دوست. میهن دوست
+031۳101167 اناد ام (US) pett-/  .تسرپ وطن .۱ 4
+- میهن پر ست. وطن‌دوست. مبهن‌دوست ۲. وطن
+w u=cook u:=too A=cup 3:=bird  o= about
+= near دوع va = pure els = player ara = fire
+= thin d= this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1217 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: patriotism; patrol; patrolman; patrol wagon; patron; patronage; patronise; patronisingly; patronize; patronizing; patronizingly; patron Saint; patsy; pattern; pattern sth on; pattern book; patterning; patty; paunch; paunchineSS; pauperism -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+patrictically 12
+پرستانه, میهن Alien وطن دوستانه. میهن‌دوستانه
+patriotically / 02۳ ۵: (US) peut-/
+4۷ از روی میهن پرستی. وطن پرستانه» میهن پرستانه.
+با میهن پر ستی
+72 وطن پرستی, patriotism / patriotizam, (US) pert-/
+rt وطن‌دوستی» Sm Fd
+وطن, عرتي وطن
+patrol /patraul / ( prp patrolling, 0/00 patrolled)
+(laid, Mii) Wy گشت زدن در ۲.(مجازی) پرسه
+زدن, گشتن, چرخیدن
+wd لیس Slee کشت زدن, پاس دادن
+7 (نظامی, انتظامی. پیشاهتگی) Gaus ۵ گشتی؛ Jami
+گشت؛ گروو گشتی
+۶. [اتومبیل و غیره ] گشتی» (مربوط (a گشت
+on patrol ERC LN |S
+Cpa گشت : a police patrol
+patrolman /pstroviman/ ( pl patrolmen) :
+# (راخنمایی 5 (Say ۱. گشت امّداد ۲ پلیس,گشت
+۸ (در آمریکا) ماشین patrol wagon /patral wagon/
+(جعال) pate si) زان ۱
+3 ۱. [هنر هنرمند ] حامی. مشوق.» patron /peitron/
+پنشنیبان ۲. (زسمی) [هتل, رستوران او اغیره] Simin
+( دائمی)» مشتري پر و پا قرص
+۸ ۱.(هنر) حمایت./-:۳۰ patronage /patranids, (US)
+پشتیبانی, کمک ۲. معامله؛ خرید ۳.(در عزل و نصب
+افراد) ICE نفوذ؛ NCATE توصیه ۴ آقامنشی.
+ارباب‌منشی
+(با فروشگاه. هتل, take away one's patronage
+رستوران و غیره) قطع رابطه کردن
+از این‌که We thank you for your patronage.
+مشتري (galls) ما هستید متشکریم.
+patronise /patranaiz, (US) 0۵۳/۲ 6
+patronising /patranaiziy, (US) 'peit-/
+patronizing =
+patronisingly /‘patronatzinli, (US) ‘pet-/
+patronizingly =
+۱.حمایت patronize /‘patranatz, (US) peit-/
+Glos SS پشتیبانی کردن از. حامي... شدن» زیر
+J, خود گرفتن ۲. (رسمی) [هتل, رستوران, فروشگاه ]
+مشتري ( دائمي )... بودن ۳ [ain ea] حمایت
+کردن ازء تشویق «03S مشوق... بودن
+ا(به تحقیر patronizing /'paetranarziy, (US) ‘pett-/  )
+[لبخند. رفتار ] آقامنشانه, ارباب‌منشانه, بزرگوارانه؛
+[شخص ] آرباب‌منش
+0 (به تحقیر ( patronizingly/patronatzigl, (US) peit-/
+آقامنشانه, ارباب‌منشانه. با بزرگواری, با cla
+7 قدیس حامی. شفیع patron saint / pertran 'sernt/
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+St Christopher is the patron saint of
+سن کریستوفر پشت و پناه مسافران است. travellers.
+NY ad) [اسم ] wold yu / ای اس patronymic
+ناظر به پدر» منسوب به پدر
+Mac Neil is a patronymic name. > >
+al Y ۸ پدرنشان, AS پدری, نام معطوف 4 پدر ۳.
+نام خانوادگی
+7 (دز آمریکا محاوره) هالو cl خر patsy /patsi/
+7 . [فرومیدهاشقیدهبازاو 508[ 1( patter!
+(lo (BAA بلبل زبانی؛ (به تحقیر) موعظه, Ley
+۲ [دزدان و غیره] QL) مخصوص, زبان حرفه‌ای
+۳ [دعا و غیره] تندتند خواندن, پشتِ هم تکرار
+کردن ۴. بلغور کردن
+۵. زبان گرفتن؛ لفاظی کردن. حرافی کردن.
+Ssh کردن
+7 ۱. [باران ] 35255( صدا؛ 0311602
+[ با ] تاپ تاپ
+X vi [باران ] S352 کردن؛ [با] تاپ‌تاپ کردن.
+صدای ...امدن
+سر و صدای the patter of tiny feet By
+تند و ریز رفتن patter along / down
+۸ ۱. طرح, نقش, نقشه؛ نقش و نگار pattern /pain/
+۲ (خیاطی) الگو؛ مدل ۳ (در ایجادٍ نقش) قالب ۴. الگو,
+انگاره, مدل؛ روند؛ شکل کلی, ساخت ۵. نمونه.
+سرمشق, مسطوره. مظهر
+۷ ۶. سرمشق قرار دادن سرمشق گرفتن از الگو قرار
+دادنء پا جای پای...گذاشتن Sy کردن.
+نقش‌دار کردن, منقوش کردن
+( خیاطی) الگو a paper pattern
+چیزی را بر اساس pattern sth on / upon / after
+مدل ... ساختن. در ساختِ چیزی از... پیروی کردن
+Sa] ۸ دیواری و pattern book /patn buk/
+غیره ] کاتالوگ, آلبوم؛ [ لباس Lents ژورنال
+ad) نقش‌دار, منقوش؛ گلدار  /02:::04/ patterned
+a ا.نقش و نگار, طرح., / patterning /pataniy
+نقش ¥ (رسمی) الگوبرداری, الگوپذیری
+gn قالب‌ساز 1( pattern-maker /patn
+nn (کارگاه) قالب‌سازی pattern-shop/pztn fop/
+۸ (شیرینی) پیراشکی؛ patty /'pau/ (pl patties)
+پای (Sars)
+7 (رسمی) کمی. wos کمبود / paucity /pa:sati
+7 [شخص [ شکم(گنده) paunch /pa:ntf/
+n شکم‌گندگی / paunchiness/pant/ins
+paunchy /'pa:ntf1/ (comp paunchier, super
+adj شکم گنده paunchiest)
+«is ۸ مسکین, تهیدست, گدا Pauper /popa(n)/
+فقرء مسکنت. بینوایی  pauperism /‘poparizom/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1218 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pause; pave; pavement; pavement artist; pavilion; paVing-StOne; paw; pawkily; pawkiness; pawky; pawl; pawnbroker; pawnshop; pawn-ticket; paw paw; pax; Pax Romana; pay; doctor's -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+1 ۱. درنگ, وقفه, مکث., سکته pause /p>:z/
+۲ (موسیقی) علامتِ کشش
+vi ۳ درنگ کردن, مکث 8 153 سکوت oS (33S
+شدن؛ توقف کردن ۴. تردید کردن
+give pause to sb; give sh pause for thought
+کسی را دچار تردید کردن, کسی را دچار دودلی کردن,
+تخم شک در دل کبیی کامتن
+sl] تردید / دودلی کردن give pause for thought
+a pregnant pause —» pregnant
+wr [کف ] فرش (aS پوشاندن pave /pewv/
+راه را هموار کردن pave the way )۶۵۳/10( (sl)
+asa را آماده کردن (برای)
+The road to hell is paved with good
+intentions. (prov) — road
+۱.(در بریتانیا) پیاده‌رو pavement /'pervmant/
+۲ سطح جاده ۳ pa سنگ‌فرش؛ bya
+اجرفرش
+۸ نقاش پیاده‌رو pavement artist /'pervimant a:tst/
+Nn بریتانیاء ورزش) رختکن pavilion /psvilian/
+۲ کلاه‌فرنگی؛ ای ۳ پاویون ۴. غرفه
+n ۱.سنگ‌فرش, آجرفرش / 03۷1۳9
+۲ (برای کف) سنگ؛ آجر؛ Saal) om
+2 (برای stoun/ oS (i 00 / 02019-31006
+سنگي فرش
+1 ۱. [حیوان ] پنجه» (Kin چنگال paw /ps:/
+۲. (محاوره به طعنه) دست
+۷ ۳ پنجه کشیدن cdr چنگول زدن da) چنگ زدن
+(به) ۴. وررفتن باء دست زدن cr دستمالی کردن ۵.
+( در symm اسب و گاو) [زمین ] با سم کندن, پا کوبیدن به
+vi ۶. جنگ 535( چجتگول Goss: ۷ [اسب. گاو] پا
+کوبیدن
+0 به شوخی, با شیطنت 1 02۷/۱۷
+7 شوخی. pawkiness /'po:kimnis / eb zk
+pawky /'paki/ (comp pawkier, super pawkiest)
+of 5s ad) شیطان, حقه
+۸ )3( ضامن, شیطانک, قفل‌جغجغه. pawl /pail/
+گیره, خار ۱
+2 ۱.(شطرنج) esky سرباز ۲.(محاوره)  pawn’ /poin/
+بازیچه, Gl دست., Kye خیمه‌شب‌بازی
+4 ۱. [ساعت و غیره ] گُرو گذاشتن pawn? /psn/
+۲ (مجازی) GLE] آبرو] زیر پا گذاشتن, به خطر
+انداختن, بازی کردن با"
+n گرو بودن be in pawn
+از گرو درآوردن get out of pawn
+گروبردار, کارگشا /():ن0۵:00۲۵/ pawnbroker
+و «=father D=got هه الاح f=see
+ar = five au = 7 a1=boy It 0 - ناد et = say
+au? = hour j=yes w= wet t/ = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 pay
+pawnshop /'po:nfop/ بنگاه کارگشایی. ۸
+مغازهٌ گرویی
+pawn-ticket /'po:n tkit/ wis 5 قیض ۸
+رسیدٍ گرویی
+paw paw /'po: pa:/ = papaw
+pax /'paks, (US) 'paks/ ۱.(مذهب) لوح مقدس., 4
+.۳ لوح مقدس) بوسةٌ تسلیم؛ تسلیم Mas شمایل ۲. (در
+کودکان) اشتی OL) در Ak 5)
+Pax Romana / packs ray'ma:na, (US) paks/
+صلح تحمیلی. صلح رومی, صلح سلطانی ۸
+pay’ /per/ حقوق؛ دستمزد. مزد. حق‌الزحمه؛ .۱ 1
+اجرت., پول ۲. پاداش؛ جزا
+What's the pay like in your job? محاوره) (
+چطوره؟ lad i کارت حقوقش چطوره؟ وضع
+in the pay of (به طعنه) در استخدام.... حقوق‌بگیر ...؛
+جیره‌خوار...؛ مز دور...
+کار بردی: sS
+معنای پولی است که در ازای انجام کار به «pay LS
+کسی می‌دهند: ۱
+Truck drivers are demanding higher pay.
+a campaign against low pay
+به معنی پولی است که به صورت ماهیانه. salary LIS
+به ویژه به متخصّصان یا مدیران پرداخت می‌شود و معمولاً
+مستقیماً به حساب بانکی آن‌ها واریز می‌گردد:
+a salary of $100,000 a year :
+به معنی پولی است که به صورتِ هفتگی و wages LIS
+معمولاً به شکل اسکناس و سکه به‌ویژه به افراد غیر-
+متخصّص يا پایین‌رتبه پرداخت می‌شود:
+Wages at the cannery are very low.
+به معنی وجهی است که در برخی مشاغل, فرد ۶2۵ LIS
+می‌دهد. مطالبه می‌کند: ost به ازای خدمتی که
+doctor's / lawyer's fees
+به معنای پولی است که به طور منظمء در 6 FLY
+کسی می‌شود: le دیگر Js wb قبالي کار
+Unearned income is taxed at a higher rate. ’
+pay? /pet/ (ppp paid) [شخص ] پول دادن به؛ .۱ ۷4
+حقوق دادن به ۲. [پول, جریمه. اجاره و غیره] دادن
+als (33s پرداختن؛ [قرض ] پس os Saabs
+کردن, ادا کردن. باز پرداخت کردن, بازپرداختن
+پول دادن؛ حقوق دادن ۴. [شرکت. کار ] سودآور .۳ vi
+بودن» دخل و خرج کردن» سود دادن صرف
+کردن. خرج خود را دراوردن ۵. [عمل] فایده
+.۶ داشتن, سود داشتن, به صلاح بودن, ارزیدن
+تقاص پس دادن؛ تاوان پس دادن» تنبیه شدن
+Ww 05000 ui=to0 A=cup 3 00 o=about
+= near 3 = hair U3 = pure ed = player aro = fire
+6= thin 8 = this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1219 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pay a; pay one's; payable; pay-as-you-earn; pay-bed; paycheque; pay-claim l'pel klerrrr; pay-day l'peI der -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+payable 12
+4 کسی ساعتی حقوق دادن pay sb by the hour
+به کسی کارمزدی حقوق دادن pay sb by the job
+پول چیزی را به کسی پرداخت کردن؛ pay sb for sth
+
+بات چیزی به کسی پول دادن
+pay sb (back) in his own / the same coin
+مقابله به مثل کردن
+He who pays the piper calls the tune. (prov)
+هر که پول بدهد A می‌خورد. حتي انتخاب خرج دارد.
+rob Peter to pay Paul — rob
+expenses paid — expense
+صرفه داشتن, سود داشتن, مفید بودن pay dividends
+( بانکی) pay sth into an account [Js]
+به حساب ریختن, به حساب گذاشتن, واریز کردن
+pay lip-service to sth — lip-service
+pay an old score — old’
+تقاص پس poly کفاره دادن pay the penalty
+بهای سنگینی pay a/ the price (for sth)
+پرداختن (برای )» ( چیزی) برای (کسی) گران تمام شدن
+(رسمی) به خدمتِ pay one's respect (to sb)
+(کسی ) رسیدن؛ (نسبت به کسی) ادای احترام کردن؛ ۱
+als احترام خود را (به کسی) ابلاغ کردن
+از کسی / چیزی pay (a) tribute to sb/ sth
+تقدیر کردن, از کسی / چیزی قدردانی کردن» به کسی /
+چیزی ادای احترام کردن
+خرج خود را دراوردن pay one's/ its way
+( محاوره) ۱. [نقشه و put paid to sth/sb [of
+از بین بردن, ضایع کردن, خراب کردن, نقش برآب کردن
+۲ [شخص ] حساب ...را رسیدن, دخل ...را آوردن
+You pays Soil money and you takes your
+( محاوره) هر چی پول بدهی آش می‌خوری. . choice.
+کاسه بثار و آش بر
+pay attention (to sb / sth) —» attention
+از کسی دیدن کردن, به ملاقاتِ کسی pay a call to sb
+رفتن
+
+pay sb a compliment; pay a compliment to sb
+— compliment
+pay court to sb + court!
+pay heed (to) — heed
+pay homage (to) —> homage
+pay the last honour to —> honour!
+pay sb/ sth a visit os دیدن کسی / چیزی 4
+
+از کسی / چیزی دیدن کردن
+مخارج چیزی را متحمل شدن, pay for sth
+dag چیزی را پرداخت کردن / دادن
+
+( محاوره) بهای pay through the nose (for)
+سنگینی پرداختن (برای). پول زیادی (بالای...) دادن؛
+
+تاوان سنگینی پرداختن (برای)
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+There will be / was the devil to pay. — devil’ |
+There will be/ was hell to pay. — hell
+ol خود را بر سر pay with one's life for sth
+چپزی گذاشتن, چیزی به Gnd جانِ (کسی) تمام شدن
+Nv [یول ] خرج 05,8 دادن pay sth away
+پرداختن XY [طناب ] کم‌کم باز 05,5 J2 کردن
+Pay the rope away a little at the time!
+طناب را یواش‌یواش بده بياید!
+7 ۱. [پول, قرض ] پس دادن. pay sb / sth back
+برگرداندن, بازپرداختن. تأدیه کردن ۲. [شخص ]
+حساب ...را رسیدن, حق ...را GAS دستش
+گذاشتن :
+[Jy] ow ۱. نقد / نقدی پرداختن  pay sthdown
+۲. پیش پرداختن. پیش پرداحت کردن, بیعانه
+دادن
+[Jn] vr حساب گذاشتن, pay sth in
+به حساب ریختن, واریز کردن
+1 ۱. [کارمند. پرسنل [ تسویه حساب pay (sb / sth) off
+کردن باء به کار ... خحاتمه دادن ۲. (محاوره) [شخص ]
+0.33 دادنبیه بل ... را چرب کردن, Gr حساب
+دادن به ۳. اش رک تمام ...را پرداختن
+VE ۴. (محاوره) صرف (05S صرفه داشتن, صرفیدن.
+فایده داشتن,» به درد خوردن
+[Ja] NV wr دادن خرج کردن ۰ paysth/sbout
+۲ [ طناب ] کم‌کم ,03,53« کم‌کم باز کردن. شل
+کردن ۳. [شخص ] حق ... را کف دستش گذاشتن,
+جزای ... را دادن
+YF had to pay out £200 to get my car repaired.
+مجبور شدم ۲۰۰ پوند برای تعمیرِ ماشینم بدهم.
+الا ۱. Jel مبلغ, pay (sthyup  نتخادرپ ples [Ls
+YY Wi تسویه‌حساب کردن. pled بدهي خحود را
+(mts حساب پس‌افت را تسویه کردن
+سلفیدن و به روی 8 pay up and look pleasant
+مبارکي خود نیاوردن
+۱. قابل پرداخت. پرداختنی payable /'persbl/
+pe باصرفهء که صرفه دارد
+(روی چک) در وجه payable to
+pay-as-you-earn/'per sz ju: 3:n/ ola
+بلافصل بردرآمد. مالیاتِ هنگام پرداخت
+(در بیمارستان دولتی) 1 ۲۵۲ / pay-bed
+تخت خصوصی, اتاتي خصوصی
+paycheck /peitfek/ (US) = paycheque
+Son حقوق paycheque/'pertfek/
+nn تقاضای اضافه pay-claim /'per kletm/ £3 gio
+تقاضای اضافه‌دستمزد
+a ۱. روز Sb حقوق pay-day /'per der/
+۲ (بورس) روز aha روز واریز
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1220 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pay-dirt; payee; payer; paying; paying guest; paying-in book; paying-in slip; paymaster; paymaster general; pay-off; pay-packet; pay phone; payslipi'perslrp; PC; pc; pct; pd; pde; PDSA; pea; as like as two peas; peace -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+2 (در فروشگاه و غیره) صندوق  pay desk /per desk/
+1 (در آمریکا) معدنِ pay-dirt / ‘per da:t/ SE
+( در آمریکا, محاوره) چاه (کسی) hit pay-dirt
+به نفت رسیدن
+PAYE / pi: er war 'i:/ < pay-as-you-earn
+# (در بریتانیا) SU بلافصل بردرآمد. مالیاتِ هتگام
+پرداخت
+دریافت‌کننده» گیرنده payee / peri:/
+پرداخت‌کننده, payer /'pera(r) / S35
+SN adj می‌پردازدء (مربوط paying /'peuy/ (a
+پرداخت. پرداخت‌کننده ۲. gis | 51gmss پرمنفعت.
+پرصرفه
+an ۳ [قسط. [Us پرداخت
+Jet n مهمان. paying guest /peuy 'gest/
+مستاجر در خانواده
+(بانکی ) paying-in book / perry mn ‘buk/ foo
+حساب
+7 (بانکی) فرم paying-in ٩10/۸6 mn 's'ip/ «ul
+,85 واریز
+7 ۱.(در کشتی, هواپیما و غیره) payload /'peilaud/
+Cad Jb مفید. گنه‌بایش Jb ob مفید ۲.(در موشک و
+بمب) خرج ۳ [بمب. موشک ] قدرت (تخریبی) ۴.(در
+موشک و سفینه) بار
+paymaster /'peima:sta(r), (US) -mias-/ ۳ Nn
+پرداخت؛ رئیس ادارةٌ پرداخت‌ها؛ (نظامی) افسر
+پرداخت ۲.(به ed ارباب, آدم‌اجیرکن ۱
+paymaster general / perma:sta 'dsenral,
+خزانه‌دار کل؛ (در بریتانيا, (US) permzsta/( 3,5. 4s
+وزیر خزانه‌داری
+. پرداخت؛ تادیه؛ تسویه؛ payment /pemment/
+واریز ۲. پرداختی؛ قسط ۳ دستمزد. حق‌الزحمه.
+اجرت. مزد ۴. پاداش؛ تاوان
+در JU به ازای, به پاس payment for 25/10
+#ر ۱ بازده, حاصل, نتیجه؛ /4: pay-off /'per of, (US)
+پاداش؛ عاقبت ۲. حق‌السکوت؛ باج؛ رشسوه ۳.
+باز پرداخت؛ موعد پرداخت. سررسید ۴.(در داستان و
+غیره) اوج» ibs اوج
+2 حق و حساب, رشوه /perasla/ 03013
+NA # پاکت حقوق؛ حقوق pay-packet/per pekit/
+نقد ۲. jana (Gai موق اجرت., حق‌الزحمه
+als nm سکه‌ای. pay phone /'per foun/
+ils عمومی, تلفن همگانی
+Cond Vn حقوق ۲. کل حقوق» payroll /'peravl/
+ٍ حقوتي پرداختی ۳ (در مژسسات) حقوق‌بگیران
+[iit/ = payroll | 06 /1661 032۷-81
+ii=see I=sit z=cat a=father D=gol 0: sa
+¢l = say XW =go ar = five av =now J1=boy 19
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 peace
+| payslip /'petslip/ فیش حقوق n
+pay station /'per ste1fn/ (US) = pay phone
+PC! / pi: 'si:/ > personal computer کامپیوتر nn
+شخصی., پی‌سی
+PC2 /pi: 'si:/ > police constable (در بریتانیا) 7
+پاسیان؛ ژاندارم ۲.(در دولت) مشاورِ سلطنتی .۱
+pc’ /pasent/ > per cent
+pc2/pi sit/ < postcard  لاتسپ (محاوره) کارت #
+pct /pasent/ (US) = pc!
+pd /perd/ <paid (روی سفته و غیره) پرداخت شد ad)
+pde /parerd/ < parade (در نام خیابان) بولوار 2
+PDSA / pi: di: es 'et/ > People's Dispensary
+for Sick Animals  تاناویح (در بریتانیا) درمانگاه 72
+PDT / pi: di: 'ti:/ > Pacific Daylight Time
+تابستاني غرپ آمریکا cela n
+PE /pi: 'i:/ > physical education (آموزشی) ورزش 7
+pea /pi:/ نخودسبز, نخودفرنگی ۸
+as like as two peas / as peas in a pod —> like 1
+peace /piis/ صلح؛ اشتی؛ دوران صلح. دوران Nn
+صلح. Shayla ارامش hs ارامش ۲. امنیت. ۱
+ols صلح ۴ ارامش. HEV PA صلح. oles
+اسودگی؛ سکوت. سکون ۵. صلح و صفاء دوستی
+صلح, معاهدة play (do با حرف بزرگ) قراردادٍ ۶
+the Peace Movement جنبش صلح.
+جنبش خلع سلاح هسته‌ای
+make peace صلح 38 دست از جنگ کشیلان:
+اشتی کردن
+make one's peace with sb  ؛ندرک با کسی صلح
+کردن mal با کسی
+a breach of the peace oo) بر هم
+اغتشاش sly)
+a Justice of the Peace حقوق) امین صلح (
+keep the peace ۱آرامش را حفظ کردن,
+مامور NEE] را بر هم نزدن ۲ حافظ صلح Loa ob!
+حفظ صلح بودن
+the King's / Queen's peace امنیتِ عمومی.
+عمومی ob!
+He gives them no peace. راحتشان نمی‌گذارد.
+مجال نفس کشیدن به آن‌ها نمی‌دهد.
+hold one's peace + hold"
+leave sb in peace کسی را به حال خود گذاشتن.
+مزاحم کسی نشدن
+peace of mind خاطر, آرامش خیال ral)
+peace and quiet آرامش: سکوت و آرامش
+۷  u=cook u:=too A=cup 3=bird o= about
+= near 9 = hair Uo = pure el = player ara = fire
+0= thin 6 = this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1221 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: peaceable; peaceably; Peace Corps; peaceful; peacefully; peacefulness; peace-keeping force; peacemaker; peace Offering; peace-pipe; peach; peach on; peaches and cream; peach Melba; peachy; peacock; peacock blue; pea-green; peahen; Peak District; peaky -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+peaceable 124
+| (روی سنگي 3{ May he rest in peace.
+رحمت الله ade روانش شاد باد.
+آرامش درونی داشتن.  016901۴ be at peace with
+| آسوده‌خاطر بودن. خاطر آسوده داشتن
+| بااکی / be at peace with sb/ sth Sox
+مشکلی نداشتن, با کسی / چیزی راحت بودن
+ai] Nad) روحیه ] ارام» peaceable /pisabl/ «ade
+ٍ صلح طلب. صلح‌جو. صلح دوست؛ اشتی‌طلب لد
+ETRY ICON | Eo اشتی جویانه» توام با صلح. ارام؛
+| [دوران ] امن
+۷ در صلح. با صلح. peaceably /pi:sabli/
+در ial با آرامش, با صلح و صفاء به sob
+مسالمت‌امیزی
+1 (در آمریکا) سپاو صلح Peace Corps /pi:s ka:(r)/
+7 (در آمریکا) سپاه صلح the Peace Corps
+1 صرفه‌جویی  peace dividend /۳۱:5 dividend/
+دفاعي زمان he بازده صلح
+۱. [تظاهرات و غیره ] peaceful /pisfi/ bl
+توام با ارامش؛ توام با صلح؛ [دوران, محل ] امن ۲ ۱
+صلح‌دوست. صلح‌طلب, صلح جو؛ [اهداف [
+صلح آمیز؛ صلح طلبانه, اشتی جویانه ۳ was]
+1 خواب ] ارام بی‌دغدغه. راحت. اسوده
+هم‌زیسستی peaceful coexistence oo aml id
+0 .. ارام اسوده, با آرامش. peacefully /pisfoli/
+راحت. به راحتی .با صلح و صفا؛ sob a
+صلح امیزی
+n صلح. ارامش, امنیت. peacefulness /pisfins/
+آسودگی, راحتی
+peace-keeping force /pi:s kipry fos/
+n نیروی حافظ صلح, نیروی lal صلح
+A adj صلح طلب, peace-loving / pis laviy/
+صلح‌جو؛ ارام Ri صلح امیز
+n میانجی صلح. بانی / peacemaker /pi:smeika(r)
+he صلح دهنده؛ (ood «Vp میانجی
+peace offering /'pi:s pfarry, (US) o:forig/
+۱.(مذعب) SLB شکرانه ۲. هدية صلح؛ Las
+اشتی
+bought her some flowers as a peace offering. 1
+به Bla اشتی / عذرخواهی برایش گل خریدم.
+72 (در میان سرخپوستان) ام peace-pipe/'pi:s
+چپق صلح EN
+7 دوران he دورأنِ ارامش, peacetime /pistaim/
+ob) صلح
+هلو ۲. درخت هلو ۳(رنگی) peach! /pitj/
+sels گلی ¥ (محاوره) لعبت ۵.(محاوره) چیز SU
+چیز خوشگل, چیز مامانی؛ لعبت
+adj ۶.گل‌بهی» گلی
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+درختِ هلو a peach tree
+هستةٌ هلو a peach stone
+مثل هلوی پوست‌کنده است. She is a real peach.
+ax ماشین ماهی! What a peach of a car!
+جه لباس نازی! What a peach of a dress!
+Eup
+۷ (عامیانه) [شخص ] لو دادن, فروختن Peach? pif!
+: 7 (عامیانه) کسی را peach on / upon / against sb
+لو دادن, کسی را فروختن
+adj [صورت ] peaches and cream / pi:tfiz on ‘krim/
+سرخ و سفید
+2 ( بستنی ) پشملبا  peach Melba /pi:tf ‘melba/
+peachy /pi:t/1/ (comp peachier, super 8
+ad ۱.مثل هلو ۲.(عامیانه) SU خوشگل, peachiest)
+مامانی  ماه
+Aon طاووس؛ طاووس 5 peacock /pi:kok/
+po! ۲ قرتی. 15598 po! J طاووس خصال, کج -
+کلاه‌خان ۳.(رنگی) آبي مایل به ee زنگاری
+proud as a peacock — proud
+7 آبی مایل به peacock blue /pikok blu:/ ee
+زنگاری
+ی سبز روشن؛ سبز چمنی؛  pea-green/pi: ‘grin/
+he
+n طاووس ole ماده‌طاووس peahen /’pihen/
+۱ [کوه] cds ستیغ, نوک ۲. کوه  peak! /pik/
+۳ [بام و غیره] «Sp راس, تارک, کله ۴. [کلاه] ad
+افتاب‌گردان ۵.اوج. Del Js منتها درجه. ais
+اوج؛ [ تولید و pf ola EWP [ot (صقت‌گوئة) [توّلید.
+بار ] حداکش, بیشینه
+( برای فروشگاه و غیره) موقع ازدحام,  peak periods
+ساعات شلوغی
+(در ترافیک و غیره) ساعتِ ازدحام. peak hours
+cel هجوم؛ [برق و غیره ] cele اوج مصرف
+( برای هتل و غیره) نرخ دوران ازدحام, peak rate
+ab Coad ازدحام
+( تلویزیون) ساعتِ پربیننده peak time
+4 به اوج خود رسیدن, peak? /pik/
+به حذاکثر رسیدن, به بالاترین حدٌ رسیدن
+( از فرط اندوه) Ea شدن, peak and pine
+تحلیل رفتن, لاغر شدن |
+/ الا Peak District /'pik
+7 (درانگلستان) )420( the Peak District
+پیک دیستریکت |
+ad) ]6[ لبه‌دار؛ [بام ] نوک تیز, peaked /pikt/
+تیزه‌دار ٍ
+peaked? /:۵/ = peaky
+peaky /'piki/ (comp peakier, super peakiest)
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1222 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pear; pean; peanut; pearl-diver; pearler; pearl-fisher; pearl-handled; pearl-oyster; pearly; pearmain l'pcamern; peasant l'peznt; pea-souper -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+نحیف. LEY ناخوش, نزار؛ Jeet a se (محاوره) ad)
+رنجور
+0۱6۵ 1 [زنگ ] دینگ‌دانگ, دنگ‌دنگ؛ Nn
+۳ جرینگ جرینگ ۲. صدای زنگ, صدای ناقوس
+[az] .۴ badd مَحَموعَةٌ زنگ‌ها,*شجمواعة
+قهقهه GRE RE ] غرش؛ [خنده
+صدا a صدا درامدن, دنگ‌دنگ a ] [زنگ, ناقوس .۵ wi
+داد
+Sash [زنگ, ناقوس [ به صدا .۶ wr
+pean /'pi:an/ (US) = paean
+peanut /pinat/ LY شام Lions بادام‌زمینی. Aon
+بادام‌زمینی ۳ (عامیانه. در جمع) شندرغازء پول بخور
+geal وا
+peanut butter / pimat bata(r)/ کره بادام‌زمینی.
+بادام‌زميني کوبیده
+peanut oil / pinat روغن بادام‌زمینی ار
+pear /pea(r)/ درختِ گلابی Bh LW
+a pear tree گلابی Cd
+pearl /pat/ مروارید. 35 ۲.(مجازی) جواهر .۱ #
+صدفی ($558) .۳ <a pearl among women >
+cast pearls before swine —> cast’
+a cultivated pearl مروارید پرورشی
+pearls of wisdom مرواریدهای ob اندیشه‌های
+خُرد mo x
+pearl barley / p31 ‘ba:l1/ جو نیم‌کوب» 7
+جو پوست‌کنده
+pear! button / ps1 bam/ صدفی %Sa 7
+pearl-diver / pa: dava(r)/ صیاد مروارید 7
+063۱۵۲ مروارید obo a
+pearl-fisher/'ps:l fifa(r)/ = pearl-diver
+pearl-grey /’pz:l gre1/ خاکستری صدفی 1
+0637۱۰۱۵۵160 / ۵5: 17 دسته‌صدفی adj
+pearl-oyster /ps:l aisto(r) / مروارید dao 7
+pearly /'pa:i/ (comp pearlier, super pearliest
+plpearlies) ۱.(مربوط 4( مروارید ۲. صدفی. ad)
+مرواریدگون. مرواریدشکل
+.۴ در جمع) لباس فروشندگان دوره‌گرد Ls, ۳.(در 7
+در بریتانيا, محاوره, در جمع) دندان‌ها (
+Pearly King  فاّوط فروشندهٌ دوره‌گرد. (Gla در ( |
+the Pearly Gates  یاه‌هزاورد شوخی) 4s) |
+—
+Pearly Queen 50543 فروشنده BS) (Gla, در (
+زنِ طوّاف ٍ
+pearmain /'peomein/ ی سرخ n |
+peasant /'peznt/ gob کشاورزء lias no
+f=see 1=sil wm=cal @=father Dp=gol  2:= sa
+el = say W=go al = five an = NOW 21 = boy 13
+ava = hour j= yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+13 peck
+: کشاورزی» خوش‌نشین ۳ (محاوره. AS رعیّت. .۲
+| به تحقیر) دهاتی
+ٍ زندگی ] روستایی pba] .۴
+3 peasant farmer خرده‌مالک
+peasant farming خرده‌مالکی
+| peasantry /'pezniri / کشاورزان؛ lias nn
+| دهقانان, قشرٍ کشاورز dab
+| pease-pudding/ pi:z dif SS ps 53 Shs n
+| حلیم نخودفرنگی
+062-8۳۱۵۵1۵۲ / pi: fu:ta(r)/ فوتک a
+pea-soup/ pi: ‘sup/ سوپ نخودفرنگی 7
+pea-souper/pi: 'supa(r)/ محاوره) as (در بریتانیا, 7
+مه غلیظ
+۳۱311 ۱.(زمین‌شناسی) تورب؛ (باغبانی)
+خاک پیت ۲.(به عنوان سوخت) زغال‌سنگ (نارس)
+peat bog / انم bog/ Des (hid) ۶
+peaty /pitt/  )هب (مربوط 4( تورب؛ (مربوط adj
+زغال‌سنگی نارس؛ تورب‌مانند؛ تورب‌دار, دارای
+تورب
+ریگ کیره ات اه 2 ۱
+You are not the only pebble on the beach.
+تنها آدم که نیستی. تنها تو که نیستی.
+pebble-dash /pebl رل (Gone dls 450) 7
+سیمان ریگ‌دار
+pebbly /pebli/ پوشیده از ریگ, ریگ‌دار, adf
+پر از ریگ
+pecan /’pikon, prkan, (US) 7 (درختِ) n
+گردوی امریکایی, گردوی پکان
+peccadillo/ peka'dilas/ ( p/ 060020111065,
+peccadillos) خطا (254
+peccary /'pekars / گراز آمریکایی, پکاری
+peck’ /pek/ 555 نوک [os] Novi
+شخص و غیره ] نوک زدن به ۳.(در dit] ۲.(در 5,0 پرنده)
+مورد پرنده) [دانه و غیره ] با نوک برداشتن» برچیدن؛
+[سوراخ و غیره] با نوک درست کردن ۴.(محاوره)
+[شخص ] تندی بوسیدن, تندی بوس کردن
+نوک زدن؛ نوک ۶.(مخاوره) بوس .۵ 7
+peck at one's food (مجازی) با غذای خود بازی
+کردن, به غذا تک زدن
+a / the pecking order; peck order (محاوره)
+سلسله‌مراتب
+peck a hole in sth چیزی را (با نوک) سوراخ
+کردن
+give sb/sth a peck کسی / چیزی نوک زدن 4
+give sb a peck کسی را بوس کردن
+v  u=cook ui=t00 A=cup s=bird a= about
+- near ea = hair vd = pure ela = player ara = fire
+0= thin 0= this [= shoe 3= vision 1 = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1223 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pecker; pectiC; pectoral; peculate; peculiar; peculiarity; peculiarly; pedagog; pedagogic; pedagogical; pedagogue; pedagogy; pedalo; pedantic; pedantically; peddle; peddler; pederast; pederasty; pedestal; pedestaltable; pedestrian; pedestrian crossing; pedestrianise; pedestrianize -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+peck 124
+۷۸ (در مورد پرنده) [چشم و غیره ] peck sth out
+; (با نوک) درآوردن
+| یک )= واحدٍ اندازه‌گيري حجم. peck? /pek/
+: تقریبا برابر با ٩ لیتر)
+۶7 (درآمریکا, عامیانه) کیر pecker /peka(r)/
+| ( در بریتانیاء محاوره) keep one's pecker up A>;
+| خود را حفظ کردن. خود را نباختن
+adj (محاوره) گشنه, گرسته | peckish /'peki
+ٍ گشنه بودن, احساس گرسنگی کردن  feel peckish
+adj (مربوط به) پکتین, pectic /'pektik / (SS
+پکتیک
+۸ پکتین ماه / pectin
+YN ad) (کالبدشناسی) ( مربوط به)  pectoral /pektoral/
+سینه» صدری,» سینه‌ای
+Y 12 )3 جمع) عضلاتِ سینه ۳.(مذهب) صلیب سینه
+4 (رسمی) اختلاس کردن. / peculate /'pekjslert
+دستبرد زدن (به)
+nn اختلاس, دستبرد peculation /pekjulerfn/
+[4 ۱.عجیب. غریب؛ / peculiar /priju:iia(r) |
+عجیب و غریب؛ غیرعادی ۲ ( محاوره) ناخوش.
+مریض‌احوال ۳ خاص. مخصوص, ویژه
+حال (کسی) بد بودن؛ مریض‌احوال feel peculiar
+بودن
+on ۱. غرابت؛ چیز / / peculiarity /prkju:lrzrotr
+Hb عجیب. چیز / Ho غریب, چیز / Ss
+عجیب و غریب ۲ ویژگی, خصوصیت (ویزه)
+(Adam مختصه
+0 ۱.عجیب و غریب.» / peculiarly /prkju:irali
+غیرعادی؛ به طرز (gE به طورِ sole nt ۲
+co sad Je © 594 به خصوص؛ عمدتا AF
+صرفاء منحصرا
+pecuniary /prkjuntart, (US) -teri/ «Jp (om) adj
+(SL مادی
+pedagog /'pedsgog/ (US) = pedagogue
+ad ۱.(مربوط 4( تعلیم و pedagogic / pedogodsik/
+تربیت, تربیتی» (مربوط به) آموزش و پرورش ۲.
+( مربوط به) معلمان. معلم‌مابانه. معلم‌منشانه؛
+فضل‌فروشانه
+pedagogical | peda'gndsiki/ = pedagogic
+adv به لحاظ تعلیم pedagogically/pedogodsikls/
+9 تشر بیت؛ از لحاظ آموزشی ۲. Joe معلمان.
+معلم‌منشانه؛ فضل‌فروشانه
+n ۱.(رسمی, کهنه) معلم, pedagogue /‘pedogng/
+آموزگار؛ مسربی ۲ به طنه) معلم خشک., معلم
+مقر راتی
+۸ تعلیم و تربیت. pedagogy /'pedogndsi/
+آموزش و پرورش
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+7 ۱. [دوچرخه ] رکاب؛ [اتومبیل, قایق.  pedal’ /pedl/
+چرخ خیاطی, پیانو و غیره ] پدال ۲.(صفت گونه) [قایق و
+غیره] پدالی, پایی
+۳ (در 2500 دوچرخه) رکاب زدن,» پا زدن؛ (در مورد قایق
+و جرخ خیاطی) پدال زدن» پا زدن؛ (موسیقی) پدال
+گرفتن ۴. با دوچرخه رفتن
+۵. [ دوچرخه ] با ...رفن
+4 (مربوط به) پا 1 pedal?
+سطل آشغال پدالی ام pedal bin //pedl
+قا 5‘ پدالی p پدالو pedalo /pedslas/ ( pl pedalos)
+(ab a) 7 ۱. دم ملانقطی pedant /'pednt/
+poly فضل‌فزوش
+A ad) [شخص ] ملانقطی؛ / pedantic /prdzntik
+خشک ۲. [pans] فضل‌فروش ۳ [رفتار. [obs
+متکلّفانه. پرتکلّف؛ فضل‌فروشانه
+0 متکلفانه, پرتکلف؛  / pedantically /prdzentikls
+فضل‌فروشانه
+2 (به طعنه) ۱. توجه بیش از pedantry /pedntri/ Jo
+به جزئیات. مته به خشخاش گذاشتن؛ HE
+ملانقطی‌بازی ۲. فضل‌فروشی
+Vi ۱. دوره‌فروشی کردن. peddle /pedi/
+دست‌فروشی «03S پیله‌وری کردن
+[NS] Ym دوره اآوردن» دوره بردن, دوره فروختن؛
+sl] مخدر ] پخش کردن ۳ [فکر, شایعه ] شایع کردن,
+سر ازبان‌ها انداختن, پخش کردن, پراکندن
+a ۱.(در آمریکا) فروشندة 1( 0600۱6۲
+دوره‌گرد. دست‌فروش, پیله‌ور | فروشندةٌ مواد
+Hae قاچاق‌فروش
+n بچّه‌باز, شاهدباز؛ لواط‌ کار pederast /pedorzest/
+nn بچّه‌بازی, شاهدبازی؛  pederasty /pedorastt/
+لواط
+LL .۱ ۰ ستزن, پا ستون / ال pedestal
+۲ [مجسمه ] al ستون
+knock sb off his pedestal — ۶
+کسی را به عرش place sb on a pedestal Mel
+رساندن, از کسی REE |
+san تک‌پایه pedestal table /'pedistl terbl/
+8 ۱ عابر پیاده, pedestrian /padestan/ le
+Yad) [سبک. زندگی و غیره ] mas خشک, کسل‌کننده
+۳ ( مربوط به) bya) wooly ple به) عابران
+پیاده ۴. [فعالیت و غیره ] پیاده |
+و۳571 pedestrian Crossing /padestrion
+۶ (در بریتانیا) خط کشی عابر wily (08) |
+محل عبورٍ عابر پیاده . ْ
+pedestrianise/padestrionaiz/ = pedestrianize :
+wl] 7 خیابان ] به / pedestrianize /pa'destrianaiz
+عابرین aly اختصاص S59 ool عابرین پیاده‌ساختن 1
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1224 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pedestrian precinct; pediatric; pediatrician; pediatrics; pedicle; pedicure; pedigree; pediment; pedlar; pedometer; pedophile; pedophilia; pee; peek; peekaboo; peel; peeler; peelings; peepbo; peeper; peep-hole; Peeping Tom; peep-show; peepul; peerage; peereSS; peer group; peerless; peer of the realm -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+pedestrian precinct / 0۵468 1 |
+nn | محدودهةٌ عابران پیاده
+pediatric / pi:dratrk / (US) = paediatric |
+pediatrician / pi:distrifan / (US) = paediatrician |
+pediatrics /pi:diziks / (US) = paediatrics |
+n | ۱ دمگل؛ دُمبرگ؛ $3 pedicel /'pedisel / to gua
+ساقة گل ۲.(پزشکی) BL تومور
+pedicle /'pedikl/ = pedicel |
+n پدیکور / pedicure /'pedikjua(r)
+۱.اصل و نسب. دودمان. / pedigree /'pedigri:
+تبار؛ آبا و اجداد ۲. شجره‌نامه, نسب‌نامه, تبارنامه
+ad) ۳ [اسبه سگ و غیره ] (Jeol اصل و نسب‌دار, نزاده
+22 (معماری) سنتوری pediment /'pedimont/
+7 (در بریتانیا) فروشندهٌ دوره‌گرد. /'pedia(r)/ 06012۲
+دست‌فروش, پیله‌ور
+n قدم‌سنج, قدم‌شمار pedometer /prdomits(r)/
+pedophile /'pi:doufail / (US) = paedophile
+pedophilia / pi:dav'filia / (US) = paedophilia
+Vi ۱.(محاوره) شاشیدن pee /pi:/
+(lea) XY ۸ شاش ۳.شاشیدن
+A vi دزدکی نگاه کردن, زیرچشمی / peek
+نگاه‌کردن, دید زدن
+Xn نگاه دزدکی, نگاه زیرچشمی
+8 دالّی. peekaboo / piksbu:/ tga Js
+4 ۱. [میوه و غیره ] پوست (AS پوست 1 peel
+گرفتن
+Y Vi [میوه و [ob پوست‌کنده شدن ۳ [کاغذ دیواری,
+برچسب و غیره ] کنده شدن» ورامدن ۴. [یوستِ بدن,
+صورت. رنگ, دیوار ] پوسته پوسته شدن» پوست‌پوست
+شدن؛ [کاغذ دیواری, پوستِ درخت و غیره ] ورقه‌ورقه
+شدن, تکّه‌تکّه ورآمدن
+4 ۵. [میوه ] پوست
+keep one's eyes peeled —> eye’
+4 ۱. [پوست. برچسب و غیره ] peel (sth) away OLS
+eS] ۷ 2 اتب TE BAS [R320 زرا مطاژت
+YW [پوست, برچسب ]8 6[ peel (sth) off OAS
+۲ [لباس و غیره ] 0355055 OAS
+7 ۳ [پوست, برچسب و غیره ] کنده شدن» وزآمدن ۴.
+Jost] هواپیما ] از بقیه جدا شدن» راو خود را کج
+کردن ۵. لخت شدن, لباس خحود را درآوردن /
+i OLS
+71 پوست‌کن peeler /pi:la(r)/
+1 [میوه ] پوست. اشغال‌پوست peelings /pihnz/
+A vi دزدکی نگاه کردن, نگاهی peep! /pip/
+انداختن» نظری انداختن, دید زدن؛ سرک کشیدن ۲.
+9و sce 1-sit @=cat «=father Db=got
+=go a1 = five au = now ol =boy 7 تاه el = say
+aus = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 peer of the realm
+del شدن, تابیدن ۳ بیرون 35 55S [نور ] عبور
+سر Lop ظاهر شدن؛ بیرون زدن؛ سر زدن؛ [جوانه و
+زدن. نیش زدن
+نگاو دزدکی, نگاو زیرچشمی .۴
+daylight peeping through the curtains
+باریکه‌ای از روشنايي روز که از لای پرده‌ها عبور
+می‌کرد / رد می‌شد / دیده می‌شد / می‌تابید
+peep of day oS سپیده‌دم.
+a peep of light باریکه‌ای نورء نور باریکی
+take a peep at sth به جیزی نگاهی انداختن,
+به چیزی نظری انداختن
+peep? /pip/ [موش ] جیغ؛ [جوجه ] جیک‌جیک .۱
+[اتوسیل ] بیپ» بی‌بیب.» بسیپ‌بیب ۳ (مسحاوره) ۲
+[شخص ] صدا
+[موش ] جیغ کشیدن؛ [جوجه ] جیک‌جیک کردن .۴ Vi
+peep peep [اتومبیل ] بیپ. بی‌بیب. بیب‌بیب
+One peep out of you and I'll send you to bed.
+/ جیک بزنی / اگرنفست در بیاد Sly اگر صدات در بیاد
+اگر جیکت در بیاد باید بری بخوابی.
+peepbo / از / = peekaboo ۱
+peeper /pipa(r)/  هزیه ۱.(عامیانه) چشم ۲. آدم 8
+Cola pol
+peep-hole /pip haul/ سوراخ (برای دید زدن) n
+Peeping Tom /pi:p1y ‘tom/ ow p50 1
+چشم‌چرانِ محل
+peep-show /'pi:p شهر فرنگ ال n
+peepul /pi:pal/ = pipal 1
+نظیر, همانند؛ روا رات ده ies ] [شخص .۱
+هم‌سن, X هم‌طراز, هم‌ردیف؛ هم‌سنخ, هم‌شأن
+و سال ۳ نجیب زاده, اشراف زاده؛ Geer همسال,
+اشراف, نجبا (lel (در جمع)
+peer? /pia(r)/ .با دقت نگاه کردن, دقیق شدن» vi
+خیره شدن ۲. ظاهر شدن, نمایان شدن, سر برآوردن
+peerage /'prorids/ نجبا cabal ۱.اعیان,
+نجباء نسب‌نامة bows ۳ مقام نجیب زادگی ۲
+اشراف
+0661655/۹ (در بریتانیا) ۱. نجیب زادةٌ زن»
+بانوی نجیب‌زاده ۲. همسرٍ نجیب‌زاده؛ بیوةٌ نجیب‌زاده
+peer group /'pro grup/ هم‌طرازهاء هم‌سنخ‌هاء An
+هم‌ردیف‌ها ۲. همسالان» هم‌دندان‌ها
+peerless /puolis/  ,بیقر‌یب بی‌نظیر» بی‌همتاء
+بی‌مانند
+peer of the realm /pror ov 8a relm/  )ایتاتیرب (در 7
+.۲ اصیل زاده» نجیب زاده, اشراف زاده, اعیان‌زاده .۱
+عضو مجلس اعیان
+۷ U=cook 000 A=cup #=bird 9=aboul
+= near co = hair Ua = pure ماه = player a= fire
+6 = thin 0= this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1225 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: peg-leg l'peg leg; pejorative; pejoratively; peke; Pekin; pekoe; pelagic; pelican -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+peeve 12
+wr (محاوره) ناراحت کردن, دلخور peeve /piv/
+کسردن, رنجاندن؛ aS ...را درآوردن» عصبانی
+کردن. اوقات ...را تلخ کردن, آن روی سک ...را
+بالا آوردن
+4 (محاوره) ناراحت., دلخور؛ peeved /pi:vd/
+(las کفری
+ad ۱. بدخلق, بداخلاق, بدعنق؛  peevish/pivif/
+گنده‌دماغ؛ غرغرو ۲. دلخورء ناراحت ۳ plo با
+ناراحتی» توام با دلخوری, حاکی از عصبانیت
+0 با دلخوری, با عصبانیت.  /0۱:۷:/۱/ peevishly
+با اوقات‌تلخی, با ناراحتی
+۸ ۱. بدخلقی, بدعنقی.  peevishness/pivijuis/
+بداخلاقی؛ گنده‌دماغی ۲. دلخوری, ناراحتی.
+رنجشن © عصبانینت اوقات تلخی
+۸ خروس‌کولی peewit /pi:wit/
+۸ ۱.میخ؛ Foe چوبی؛ میخ طویله peg! /peg/
+۲ (برای پرده لباس و غیره) قلاب, گل‌میخ iS
+گیرةٌ رخت ۴ (برای بستن چیزها به هم) گیره؛ بت ار
+۵.میخ چادر ۶.(موسیقی)گوشی» پیچ کوک, گلوش
+(ساز] ۷.(برای بستن شیر بشکه) توپی (oye) A پای ۱
+مصنوعی؛ پای چوبی 4.(محاوره) آدمی که یک
+پایش مصنوعی است ۱۰. [مشروب ] پیک. جرعه
+میخ مساحی a surveyor's peg
+[ لباس ] حاضری, woke) دوخته off the peg
+مستمسکی برای چیزی, a peg to hang sth on
+بهانه‌ای برای چیزی, دستاویزی برای چیزی
+a square peg — square’
+So را خالی  take sb down a peg (or two)
+کردن, SH کسی را چیدن
+pegged) رام peg? /peg/ (prp pegging,
+Fe NV زدن به؛ میخ چوبی زدن به؛ با میخ بستن؛
+[لباس ] گیّره ازدن بُه ۲. [قیمت:اذشتترد] تغتیت کزدن.
+ثابت نک داشتن
+چادر زدن peg a tent
+Se را سر جای خود محکم peg sth in place
+کردن, چیزی را میخکوب کردن, چیزی را محکم کردن
+پیشرفتِ یکنواخت level pegging
+VE (محاوره) مرتب کار 03,5« peg away
+Cs کار کردن, یکریز کار کردن
+۱. [شخص ] به 03,5 peg sb / sth down i
+گذاشتن» مقید ساختن ¥ [چادر ] محکم کردن
+NY wr [زمین ] با میخ علامت‌گذاری peg (sth) out
+کردن. افراز کردن ۲. (بازي ورق) [امتیاز ] (با میخ)
+تثبیت کردنء, نگه داشتن
+V7 7 (محاوره) مردن
+۶ ۱.بازي میخ و تخته ۲ ۲۶۶ / peg-board
+۲ تخته انگشتی ۱
+
+<!-- REGION: RIGHT COLUMN -->
+
+16
+۸ پای مصنوعی؛ پای /peg leg/ sx ۰069-169
+pejorative /prdsoratv, (US) -dsoir-, ‘pi:dsarattv / |
+adj (رسمی) انتقادامیز, سرزنش آمیز؛ Se) pois
+هون آفیر قوهن: ناضا ییاه یا باز مشق ِ
+0 به‌صورتی pejoratively/prdsorouvis, (US) -dsoir-/
+تحقیرامیز؛ به نحوی توهین آمیزء به صورتی موهِن
+11 (محاوره) سگي چینی peke /pik/
+Peking = / :۳۵۲۱/0۱
+Pekinese /pi:kini:z/ ( pl Pekinese, Pekineses)
+۸ ۱ پکنی. اهل یکن ۲ Land پکنی ۳ Se چینی
+۸ یکن / ام / Peking
+Pekingese /pikini:z/ = Pekinese
+wiles Glen چای پیکو pekoe /'pikou/
+les ase] adj دز stood آزاد, pelagic /psladsik/
+در اقیانوس؛ [al] (مربوط به) آب‌های آزاد؛
+( مربوط به) اقیانوس, دریازی, اقیانوس‌زی
+۸ پلیکان, مرغ سقا pelican /'pelikan/
+pelican Crossing / pelikon 'krosty, (US)
+7 (راهنسایی و رانندگی) محل عبور عابر پیاده / kra:siy
+۸ (پزشکی) پلاگر pellagra /pslzgr, Hetg-/
+(-کمیودٍ نوعی ویتامین ب به نام نیاسین)
+A 2 [نان, کاغذ ] گلوله ۲. (پزشکی) Cox /061101/00:4
+قرص ۳ [تفنگ ] ساچمه
+ALIS .۴ wr کردن, گلوله درست کردن با ۵. با گلوله
+(کاغذی) زدن
+pls .۱ 0 03 سراسیمه. ام pell-mell / pel
+با عجله؛ با دستپاچگی؛ قر وقاتی؛ با سرء با کله ۲
+درهم‌برهم. (به طور) قروقاتی, نامنظم به
+صورتی اشفته
+corey ASN (amy) 4 / 0۵۱
+بلورین ۲.(مجازی) [سبک, نوشته و غیره] روشن» hoy
+واضح
+[ey dul ۸ پوشش. قاب سا / pelmet
+۸ پلوتا (< نوعی بازی با توپ در pelota /palovta’
+آمریکای جنوبی)
+1 [حیوان ] پوست ( دباغی‌نشده)؛ pelt! /pelt/
+پوستِ خام؛ تخته پوست
+۱. پرتاب 03S کردن pelt? /pelt/
+7 . [باران, تگرگ و غیره] باریدن» فروریختن» فشرو-
+باریدن, بی‌امان باریدن, یکریز باریدن» یک‌کاه
+باریدن
+LL] تگرگ و غیره ] باریدن» فروریختن, pelt down
+فروباریدن, بی‌امان باریدن, یکریز باریدن, ASS
+باریدن
+جیزی رأ به pelt sb with sth; pelt sth at sb ob
+کسی پرتاب / پرت کردن, کسی را زیر bb چیزی قرار
+دادن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1226 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pelt along I down; pelves; pelvis; pen; a fc; pensthlsbin; Pen; penal; a penal colony; penalise; penalization; penalize; penally; penal servitude; penalty; penalty area; penalty box; penalty clause; penalty shoot-out; penanCe; penal code; pen-and-tnk; pence; pencil; pencil-case -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12¢
+(at) full pelt — full n
+pelt along /down/up (sth) «8, با شتاب 4 |
+باد Joe برق‌رفتن» Jae برق و باد رفتن, Je |
+بالای) ml / رفتن (به طرفي
+pelves /'pelvi:z/ pl of pelvis |
+pelvic /‘pelvik/ (کالبدشناسی) لگنی. ad)
+(مربوط به) لگن oes Sa (مربوط
+pelvis /'pelvis/ ( pl pelvises, pelves) (کالیدشناسی) 0 |
+(استخوان) لگن io os لگي
+pemican /'pemikan/ = pemmican : ٍ
+pemmican /pemikan/ قرمدگوشت.
+سرخپوستی» گوشتٌ خشکه Bap
+pen’ /pen/ (psp penning, prop penned) |
+خامه ۳. نوک (قلم). سر قلم (SIS diy ASA a
+نویسندگی, نوشتن ۴
+کردن. قلمی ppd ۵.(رسمی) نوشتن» انشا کردن؛ ۷
+۱ کردن
+a ball-point pen خودکار
+a felt-tip pen روآن‌نویس
+a fountain pen قلم) خودنویس (
+The pen is mightier than the sword. (prov)
+قلم برتر از شمشیر است.
+put pen to paper (رسمی) قلم بر کاغذ گذاشتن,
+شروع به نوشتن کردن
+a slip of the pen — slip’
+He lives by his pen. ob از راو قلم / نویستندگی
+می‌خورد.
+pen? /pen/ ( prp penning, pt,pp penned)
+آغل؛ گاودانی؛ مرغدانی ۲. [زیردریایی ] آشیانه Non
+3 pnts RY Jel کردن, در Jel [حیوان ] در .۳
+مرغدانی کردن؛ [شخص ] زندانی کردن» تو قفس ‌انداختن
+pen sth/sbin/ up [حیوان ] در اغل کردن. wr
+] در آغل نگه داشتن, تو مرغدانی کردن؛ [شخص
+زندانی کردن, تو قفس انداختن
+pen? /pen/ (در آمریکا, محاوره) هلفدونی
+Pen /panimsjsls, (US) -sala/ > peninsula
+(روی نقشه) شبه جزیره ۸
+penal /pinl/ ۱.کیفری» جزایی, ( مربوط به) جزاء adj
+(مربوط به) مجازات ۲. [مالیات ] کمرشکن.
+Olas غیرمنصفانه ۳ [جرم ] مشمول مجازات,
+i قابل‌مجازات
+a penal colony / settlement تبعینگاه
+penal laws Jes 3
+penal code /pinl kavd/ « so poe hls قانون ۸
+قانون جرا
+f=see 1=sit همع a=father D=got و
+ei = say ناه =go at = five au = now 31 = boy 1
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+7 pencil-case
+penalise /pinslaiz/ = penalize
+penalization / pindlar'zerfn, (US) -lr'z-/ مجازات. ۸
+تنبیه؛ (در بازی) جریمه
+penalize / ۱.مجازات کردن. مادام ۷
+تنبیه کردن, به کیفر رساندن؛ (در بازی) جریمه کردن
+در حق ... ظلم کردن, اجحاف کردن به؛ به .۲
+ضرر ... بودن ۳ جرم 4 حساب آوودن. قابل تعقیب
+اعلام کردن, قابل‌مجازاتِ قانونی دانستن
+penally /pinalt/ از نظر جزایی. به لحاظ کیفری 0
+penal servitude / pi:nl 'sa:vitjuid, (US)
+'sz:vitu:d / (در بریتانیا) زندان با اعمال شاقه a
+۲۵۵1۱۷ 1 جزا aS مجازات؛ cans .۱
+(ورزش) ( ضربة) پنالتی ۲
+on / under penalty of 4 با تهدید (am)
+با تهدید به... ,... Obl
+pay the penalty — pay?
+penalty area / اجه لصوم boys (فوتبال) ۸
+Al db soe جریمه. Abpea pS هیجده
+penalty box /'penlu boks/ = penalty area
+penalty clause /penitr kia:z/ (در قرارداد) شرط nm ۱
+غرامت. قیدٍ وجه التزام
+penalty ۱1۵/۲۵۵۱۵ kik/  یتلانپ (فوتبال) ضربهةٌ 7
+penalty shoot-out/ penltr "fut ast/ تعیین برنده 72
+ضرباتِ پنالتی Al Sls از طريقي
+۱۹: تنبیه. مجازات. حد تن رت هت وان وت Nn
+عقوبت ۲.(در کلیسای کاتولیک) توبه
+۰00 penance for کفارة... را دادن, عقوبت ...را
+پس دادن جزای ...را پس دادن
+pen-and-ink/ pen an سیاه‌قلم ار
+pen-and-ink sketches سیاه‌قلم lar طر
+pence /pens/ pl of penny
+penchant /pa:nfa:n, (US) 'pentfont/ علاقه. 2
+وافرء تمایل زیاد Jee
+pencil /'pensi/ ( prp penciling, (US) penciling,
+pt.pp pencilled, (US) penciled) .مداد 7
+نوشتهٌ با مداد. نوشنهٌ مدادی ۲
+۳.مدادی. با مداد (نوشته)» مدادنوشته adj
+با مداد نوشتن؛ با مداد علامت زدن؛ با مداد .۴ ۶
+کشیدن, با مداد رسم کردن
+a coloured pencil مداد رنگی
+an cyebrow pencil مداد ابرو
+in pencil با مداد
+to pencil one's eyebrows ابروهای خود را کشیدن
+pencil sth in 0S یادداشت wr
+pencil-case /'pensi kes/ جامدادی 1
+Ww v=cook ui=100 a=cup 3:=bird o=about
+= near دوع = hair Ua = pure era = player aro = fire
+8= thin 8 = this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1227 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pencil lines; pencil pouch; pencil rubber; pencil-sharpener; pendant; pendent; pending; pendulous; pendulum; penetrability; penetrable; penetrate I 'pemtrert; penetrating; penetratingly; penetratiOn; penetrative; pen-friend; penguin; penicillin; peninsula; peninsular; penis; penitence; penitent; penitential; penitentially; penitently; penknife; penknives; pennant; penniless; pennon -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+pencil lines 12
+
+pencil lines /'pens! lamz/ (ریاضی) خطوط mpl
+پرتوی Poh شعاعی,
+
+pencil pouch /'pens رادم / (US) = pencil-case
+
+pencil rubber /'pens! raba(r)/ مدادپاک‌کن. n
+پاک‌کن
+
+pencil-sharpener/penst fa:pna(r)/ مدادتراش» n
+۱ تراش
+
+7 ۱. [گردن‌بند. لوستر ] آویز / pendant /'pendant
+۲. (دریانوردی) پرچم باریک ۳ در AC مدرسه)
+پرچم سه‌گوش_
+
+pendent /'pendont/ (رسمی) آویزان؛ اویخته. معلق ad)
+
+4 (رسمی) ۱. دراحال تعلیق. / ۵ pending
+معلق, نامعلوم, بلاتکلیف. بی تکلیف ۲ در جریان.
+در حالِ تحقق, قریب‌الوقوع. در شرف تحقق.
+نزدیک
+
+0 (رسمی) ۳. تا تا (Be تا ola) تا هنگام ۴ lb در
+‘gre? در خلال, در طول
+
+pendulous /'pendjulas, (US) -daslas/ رسمی) ( adj
+اویزان؛ معلق Ais of
+
+۱ pendulum /'pendjslem, (US) -dsslom/  .گنوآ 7
+پاندول
+
+the swing of the pendulum — swing?
+
+1 (رسمی) ۱. قابلیت  / penetrability / penitrabiin
+نفوذ, رخنه‌پذیری CBX سوراخ شدن ۳. قابلیت
+فهم. قابلیتِ درک
+
+۱.(رسمی) penetrable /‘penitrabl / pA
+نفوذپذیر» قابل‌نفوذ, قابل‌رخنه ۲. سوراخ‌شدنی ۳.
+فهمیدنی. قابل‌فهم, قابل‌درک
+
+۷ ۱. رخنه کردن در / penetrate /'penitrert
+نفوذ کردن دز؛ (مجازی) فرو کردن درء فرو رفتن A
+شکافتن. پاره کرذن, سوراخ کردن؛ [os]
+شکستن ۲. فراگرفتن» پر کردن. اکندن؛ پخش
+شدن در۳. شکافتن, راه.باز کردن درء فرو رفتن در؛
+(مجازی) پرده از... برداشتن ۴. [راز, مسئله ] (mags
+کشف کردن., دریافتن, راه بردن به. راه یافتن به
+
+Vi ۵. نفوذ (53S رخنه کردن ۶. فهمیده (OAD مفهوم
+شدان. CL Ha شدن
+
+penetrating /penttrertry / Ga AS ] [ذهن ad)
+ژرف؛ [شخص ] تیزبین. AL وقاد؛ [سوال ] دقیق,
+as ژرف‌بین. تیز؛ [نگاه ] تافذ شکافنده. PRE
+] باد] گزنده؛ [باران bm] کارگر؛ «55a دقیق, براء
+نافذ ۲. [صدا] گوش خراش, دلخراش
+
+penetratingly / به نحو / ارو اوه adv
+گونن خُراشی: 4 صورت دلخراشی ۲. به طورِ
+Sse نافذی, به طورٍ
+
+penetration /peni'trern/ رخنه. Sen
+رسوخ؛ حلول ۲.(رسمی) قدرتِ تمییز, قدرت
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+دریافت. ols فهم؛ تیزبینی» بینش عمیق, فراست.
+Soon خهق ۳ )53 Iris (min Jos
+adj نافذء موش penetrative /penttratty, (US) -rett-/
+Js, کارگر ۲. [ذهن ] Ga وقّاد؛ [تحلیل, فکر] Soma
+برا» باریک‌بینانه. موشکافانه
+7 دوست مکاتبه‌ای / ۳ / pen-friend
+n پنگوئن ات شمه
+پنی‌ستلین penicillin / penr'silin/
+7 شبه‌جزیره peninsula /panimsjsla, (US) -sala/
+peninsular /psninsjsla(r), (US) -sola(r) /
+ad) (مربوظ 4( شبه‌جزیره» شبه‌جزیره‌ای» شبه‌جزیره -
+مانند
+Il 2 مردانه, eS SS قضیب ۰ penis /pinis/
+۸ پشیمانی, penitence /‘penttons/ «yo gud) (uals
+تأسف؛ توبه
+ad ۱. پشیمان, نادم, متأسف؛ ۰ penitent /penttont/
+توبه کار
+(Shel a توبه‌کار
+adi ۱.(مربوط به) توبه. penitential / penr'teny1/
+( مربوط به) larity (مربوط به) ندامت. برای
+توبه, به Sd توبه؛ توب آمیز] sala
+n ۲ احکام توبه
+0 از روی penitentially / penrten alr / Asi
+به قصلٍ توبه, از روی پشیمانی
+7 ۱.(در آمریکا) ندامتگاه» / penitentiary / penr'ten far
+زندان
+Lye) adj به) تویه. bya) به) پشیمانی,
+( مربوط به) ندامت؛ توبامتر ۳ ET تنبیهی ۴.
+جزایی, کیفری ۵.(مربوط به) ندامتگاه, bg a)
+4( زندان
+0 با پشیمانی به ندامت.  penitently /pemtontln/
+با تأسف
+penknife /'pennaif/ ( p/ penknives) (As n
+چاقوی جیبی
+penknives /pennaivz/ pl of penknife
+۱. خطاطی؛ penmanship /'penmon/ip/
+خوش‌نویسی ۲ خط., دست خط
+n اسم مستعار؛ تخلص pen-name /'pen nerm/
+7 ۱.(دریانوردی) پرچم باریک pennant /'penant/
+.در آمریکا, مدرسه) پرچم ORS
+4 بی‌پول, مفلس, penniless /penilis/  ءاونیب aid
+تهیدست. مسکین
+2 ۱.(در مورد شوالیه‌ها) درفش., / 06۱۱۵۱
+بیرق ۲.(دریانوردی) پرچم باریک ۳.(در آمریکا, مدرسه)
+rR سه‌گوش ۱
+۰ (نحاوره) پنی penn‘orth /'pend/
+five penn'orth of sweets > <
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1228 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: earn; penny-pinching; penological; penologist; penology; pen-pusher; pensionsb; pensionable; pensive; pentagonal; pentameter -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+penny /'pent/ ( pl pennies, (Brit) pence) ا.پنی 7
+سکه‌ای معادل یک صدم پوند؛ پیش از اين, معادل یک دوازدهم =)
+شیلینگ) 5 ( در آمریکایرمازرة) سنت )= سکه‌ای معادل
+’ (Ys یک صدم
+a penny مقداری پول
+be two / ten a penny مفت و مجانی. مفت ۱
+فت و فرآوان» فراوان .۲
+be penny wise (and) pound foolish سر کیسه را
+کردن Jy محکم گرفتن (و) تهش را
+the penny drops در بریتانیا, محاوره) دوزاري (
+9a ) دستگیر( کنتین lan (کشی) آفتادن,
+earn/ turn an honest pani —> honest
+A penny for your thoughts! کجایی؟ تو >4 فکری
+هستی؟
+In for a penny, in for a pound. (prov)
+کار را که کرد آن‌که تمام کرد.
+A penny saved is a penny gained. (prov)
+صرفه‌جویی درآمد است قناعت توانگر کند مرد را.
+spend a penny — spend
+have not a penny to one's name
+آس و پاس بودن, مفلس بودن
+He doesn't have two pennics to rub together.
+FO [PE URS PN SP (RR RE |
+شوداً کند. AEG نداره که oFhmaast تنگدنتت
+Take care of the pennies and the pounds will
+take care of themselves. (prov)
+قطره‌قطره جمع گردد وانگهی دریا شود.
+turn up like a bad penny  زاب / محاوره) مرتب (
+(کسی) پیدا شدن US هم سر و
+not a penny SEA Js یک قران» یک
+(یک) صنار
+a pretty penny پول حسابی, پول کلان
+penny arcade / دهم a:'kerd/ (US) ’
+= amusement arcade
+penny dreadful / pent 'dredfl/ iad (محاوره) ۸
+یک‌پولی dab جنایی,
+penny farthing / penr ۲۵:۵۲ /) دوچرخه (قدیمی 7
+penny-pincher/ pent pmtfa(r)/ (هحاوره) آدم ۲
+کنس pol خسیس. آدم ناخن‌خشک.
+penny-pinching/pent pimtfig/ ۰ ۱.خسیس. ad
+ناخن خشک., کنس
+خست., ناخن خشکی .۲
+pennyweight/pemwert/ وزن. aly =) پنی‌ویت
+معادل ۲۴ گرین)
+penny whistle / pent 'wisl, (US) 'hwisl/ نی‌لبک n
+f=see 1=sit همه a=father D=got 0i=s:
+cI = say W=go a1 = five av = now s1=boy 1
+ava = hour j=yes w=wet tf=chain  d3=jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 Pentateuch
+pennyworth /'pentws0 / (مقدار) پنی 7
+< a pennyworth of mustard >
+penological /pi:nslndsikl, (US) -na:l-/
+(مربوط به ) کیفرشناسی (a iS ad)
+penologist /pi‘npladsist / wba as rn
+penology /pinoladst, (US) -na:l-/ els aS a
+pen-pal /'pen pzl/ (US) = pen-friend
+pen-pusher /'pen pu fa(r)/ طعنه) a محاوره. 7
+میرزابنویس
+pen-pushing /'pen روا / (aud (محاوره به 7
+میرزابنویسی
+pension’ /'penfn/ مستمری؛ حقوق N 12
+.“ Se ’. . Z. aris
+تقاعد؛ [ هنرمند. مستخدم ] مقرری» Sse بازنشستگی؛ :
+وظیفه
+دادن به؛ J <TC AY مستمری دادن به؛ حقوقي .۲ wt
+مقرری دادن به
+live on a pension با مستمری / حقوق بازنشتستشتگی
+زندگی‌کردن
+pension sb / sth off [شخص ] بازنشسته .۱ v2
+کردن ۲ از دور خارج کردن. از رده خارج ۱
+کردن. کنار گلااشتن
+pension? /'ponsion, (US) pa:nsjasn/ پاضمیون n
+pensionable / pen anabl/ [شغل ] با حقوق .۱ ad)
+J مک ۲ .مه 2534 si دارای 8 F< 2554
+حقوتی بازنشستگی ۳.(مربوط 4( بازنشستگی
+A =z
+pensioner /'penfona(r) / (ENE amas 11
+2 ۰ 2 ۰ ۰ ۰۰
+بازنشسته؛ وظیفه‌بگیر, مقرری‌بگیر
+pensive /'pensiv/ SS در GE فکورء [ani] 4
+فکر؛ [حالت, چهره ] 555 )1( متفکرانه؛ [موسیقی و 5 .
+=z ۰ .
+غیره ] فکربرانگیز
+look pensive در فکر فرورفتن
+pensively /pensivir/ فکورانه. با حالتی فکورانه» 0
+غرقي در فکر
+pensiveness /‘pensivars / فکورانه؛ cls nn
+در خود فرو رفتگی
+pentagon /'pentagan, (US) -gon/{ (شکل (awn) N 7
+پنج‌ضلعی, پنج‌گوشه ۲ (با حرفی بزرگ) (ساختمان)
+ارتشي آمریکا lm پنتاگون, pl پنتاگون؛
+pentagonal /pen'tzgant / پنج ضلعی. (aes) adj
+پنج‌گوشه
+pentagram / ‘pentagram / ATR ستاره n
+pentameter /pen'temta(r) / (ادبیات) (مصراع) nn
+پنج‌ظتربي (SER
+Pentateuch /pentatiuk / تورات. (Amar اسفار 7
+خمسةٌ موسی
+۷  U=cook u:=t00 A=cup 3:=bird 2= about
+=near  ed=hair  Ud= pure elo = player ara = fire
+0 = thin 0 = this [= shoe 3= vision 1) = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1229 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pentathlon; Pentecost; penthouse; penultimate; penumbra; penumbrae; penuriOUS; penuriously; penuriousneSS; penury; pen Wiper; peon; people with; PEP; pep; pepper; pepper-and-satt -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+pentathion 12
+۷ (ورزش) مسابقات  pentathlon /pentzdlon, -lon/
+پنج‌گانه
+7 ۱.(در بهودیت)  Pentecost /'pentikost, (US) -kaist/
+عیدٍ پنجاهه, عیدٍ خمسین, عیدٍ JE عیدٍ گلریزان
+)= پنجاه روز بعد از عیدٍ فطیر) ۲.(در مسیحیت) عید پنجاهه.
+Age خمسین» يکشنبهٌ سفید (- هفتمین يِكشنبةٌ بعد از dot
+پاک)
+4 ۱.(در بهودیت)/ ۵:۵ - pentr'kostl, (US) / ۲۵۳1۵۵۵۵۵
+(مربوط به) ee پنجاهه. (مربوط به) dee
+خمسین, (مربوط به) JE ae (مربوط به) as
+گلریزان ۲.(در سیحیت) (مربوط به) sali doe
+(مربوط به) عیدٍ خمسین, (مربوط به) 42255 سفید
+7 ۱.(معماری) پنت‌هاوس.  penthouse /penthass/
+با خانه ۲ (چسبیده به خانه) انباری» اتاقک؛ سایبان
+. [احساسات ] سرخورده» pent up / pent ‘Ap/
+2 555 ,03 پس‌رانده ۲.(مجازی) محصور, محبوس,
+زندانی
+4 ۱.ماقبل اخر. / penultimate /pen'altimat
+یکی مانده به ry یک ... مانده به آخر ۱
+۲.(زبان‌شناسی) هجای ماقبل اخر
+penumbra /prnambra/ ) p/ penumbrae,
+7 ۱.سایه‌روشن ۲.(ستاره‌شناسی) penumbras)
+نیم‌سایه. شبه ظل ۳.(مجازی) حاشیه., کناره, هاله؛
+سایه
+penumbrae /prnambri:/ p/ of penumbra
+4 (رسمی) penurious /pr'njuriss, (US) -nu-/
+۱.مسکین, فقیره تنگدست, تهیدست: ۲. خسیس.
+«Jute ممسک, گدا
+07 (رسمی) penuriously /prnjsriash, (US) -nu-/
+۱ با فقر, با مسکنت, با تنگدستی ۲. با خست. منل
+گداها
+22 (رسمی) penuriousness/prjuriasnis, (US) -nu-/
+۱.فقر و مسکنت, تنگدستی, تهیدستی ۲. lie
+7 (رستی) (i مسکنت, 1 0۵00۷۲۷
+تنگدستی, تهیدستی
+a جوهرپاک‌کن / penwiper /penwaipa(r)
+. ۸۸ ۱.(در هند و غیره) 390 فراش, غلام؛  peon /pian/
+Sy ۲.(در آمریکای جنوبی) SS مزرعه, خوش‌نشین
+n گل صد تومنی ۱ 0۱۵۵۱۱۷
+4 03,0 آدم‌ها, اشخاص, افراد.  people /pipl/
+کسان ۲. ملت؛ امت؛ نزاد؛ قوم؛ Ws طایفه ۳.
+Jl ساکنان, سکنه. مردم, جمعیت ۴. شهروندان.
+جامعه ۵.عامه, مردم Lle (ole) مردم؛ Ive
+توده(ها) ۶. [سلطان ] رعایاء اتباع؛ [رهیر] پسیروان.
+هواداران, طرفداران ۷. (محاوره) قوم و خویش‌ها.
+اقوام. کس و کار, فک و فامیل, بستگان, خویشان؛
+پدر و مادر
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+۷ ۸.ساکن کردن, اسکان دادن؛ [محل ] آباد کردن
+all things to all people —> thing
+چیزی را از / با... انباشتن» چیزی را از / people with
+با... پر کردن
+عوام‌التاس the common pcople
+بیش از هرکس / dan به خصوص., of all people
+Lo pas بالاخص
+او را نگاه کن  She of all people criticizes you!
+که داره از تو ایراد می‌گیره! هیچ کی نه و او از تو ایراد
+می‌گیره!
+پیران» سالخوردگان old people
+آن دو نفر those two people
+جوانان young people
+Pcople (who live) in glasshouses shouldn't
+تو را که خانه نیین است throw stones.
+بازی نه این است. عیبجو خودش را نمی‌بیند.
+وزارت خارجه‌ای‌ها Foreign Ministry people
+فرانسویان the French people
+the Russian people (CR)
+سیاستمدار مردمی. a man of the people
+سار SA
+می‌گویند )48( شایع است (که)... people say...
+سکنه داشتن. جمعیت دآأشتن be peopled
+پر از... بودن, انباشته از... بودن be peopled with
+PEPs) > Personal Equity Plan /م) PEP /pep/
+1 یپ (<> در بریتانیاء طرح تشويتي مردم برای سرمایه گذاری)
+3 (مجاوره) Pep /pep/ ( prp 0600109, prop pepped)
+شورء حرازت. نیروء زندگی, نشاط
+7 سرحال آوردن. pep ۹۵/۹۱۳ up
+جان تازه دادن Jb cay دادن به. تکانی دادن به
+Jaks ۱ n پودر pepper /pepa(r)/ Jaks
+x فلفل‌هندی, Jaks .۳ a 3 Jaks دلمه‌ای؛ فلفل‌سبز
+از ۴. فلفل زدن به ۵. سوراخ‌سوراخ کردن, ابکش
+کردن؛ به رگبار بستن
+Sz / کسی را pepper sb / sth with bullets
+گلوله‌باران کردن
+کسی را سوْال پیچ pepper sb with questions
+کردن. کسی را سوال‌باران کردن
+ad) [پارچه. splt/ [ ya باانده pepper-and-salt/ pepar an
+Se Jil
+peppercorn /pepakan/ Jabs ls ls Jaks Nn
+۲ پول Gb وجه ناچیز؛ lal ناچیزء اجارهٌ
+oe
+0 اجارهٌ peppercorn rent / pepokomn rent/ «5b
+اجارةٌ اسمی
+n فلفل‌ساب, اسیاب pepper-mill /pepa mil/
+(Jaks)
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1230 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: peppermintt'pepammt; pepper-pot; peppery; pep pill; pepsin; pep talk; peptic; per; perambulate; perambulation; perambulator; per annum; per capita; perceivable; perceive; percent; percentage; percentile; perceptibility; perceptible; perceptibly; perception; perceptive; perceptively; perceptivenesS; perceptivity; perceptual; perch; perchance; percipience; percipient -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+128
+N 71 | سوسنیرء سوسن‌عنبر, PEPPErMint /'pepomint/
+| خال‌واش ۲. اسانس نعناع ۳ آب‌نیات نعناعی
+۸ فلفل‌دان, فلفل پاش pepper-pot/peps pot/
+ls Js A ad) | پرفلفل, تند., تند و peppery /'pepart/
+| تیز ۲. [شخص ] تند. اتشی‌مزاج» جوشی» فلفلی
+| 7 (محاوره, موادٍ مخدر) توپ, قرص., pep pill /'pep pil/
+ee
+pepsin /'pepsin/ oy (Sas) 0°
+ِ 7 (محاوره) دلگرمتی, os قلب pep talk /'pep tok/
+adj | گوارشی. ( مربوط به) peptic /'peptik/ ALONE
+| گوارش: Dogs e) 4( قاضمة
+زخم دستگاءه گوارش a peptic ulcer
+A prep در )3( a ازای )2( per /pa(r), pa:(r)/
+در (a) Alp برای هر <g60perday> ۲. به Mommy
+باء از Gp
+نفری, به ازای هر نفر per head
+ساعتی, در ساعت. در هر ساعت per hour
+ab معمول, به رسم معمول as per usual
+( محاوره) le ی بر as per sth Sx Gb
+4 ( رسمی, آدبی) perambulate /parambjuleit/
+کردشی as (در) قدم زدن (در). خرامیدن
+(در) تفرج کردن (در)» راه رفتن (در) ۲. سرکشی
+کردن )4( بازدید کردن (از)
+4 (رسمی, ادبی) / perambulation/parambjsier fn
+۱.گردش, تفرج ۲.بازدید. سرکشی
+7 (در بریتانيا, رسمی ) / perambulator /parembjvlenta(r)
+SIS )43(
+۷ هر سال, سالیانه. per annum / por 'anam/
+در Je سالی
+( سرانه kapita/ دم/ per capita
+4 ۱. قابل‌مشاهده. perceivable/pasiivabl/
+قابل‌رویت ۲. فهمیدنی» قابل‌درک. دریافتنی, قابل -
+فهم ۱
+(amy) NW متوجه شدن. perceive /pasiv/
+پی بردن )4( مشاهده کردن, دیدن دریافتن,
+ملتفت شدن ۲.فهمیدن؛ درک کردن, دریافتن؛
+( روان‌شناسی) ادراک کردن
+تعبیر HOS کردن perceive as
+1 هدرصد. صدی per cent /pa'sent/
+صد در صد. کاملاً a hundred per cent
+نود در صد / Poland is 90 per cent Catholic.
+صدی نود مردم لهستان کاتولیک هستند.
+percent /pa'sent/ (US) = 00۲ 4
+a ۱. درصد ۲.(صفت‌گونه)  percentage /pssentds/
+درصدی ۳ مقدار, نسبت. قسمت؛ تعداد ۴. پورسانت,
+f=see 1=sit &=cal G=father D=gol 5
+=go a1 = five ay = now o1=boy I; ناد el = say
+aud = hour j=yes w= wet t/ = chain d3= jum
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 percolate
+حق‌العمل, کمیسیون ۵. (محاوره) نفع» منفعت, فایده.
+سید
+percentile / صد یک / مادم «Sao (MV) 1
+perceptibility /paseptobitoti/  تیلباق .۱ (رسمی) 72
+.۲ مشب‌اهده. مشاهده‌پذیری؛ قابلیتِ روّیت
+Shot culls (gpd ادراک‌
+perceptible /paseptabl/ (رسمی) ۱. محسوس., 4(
+.۲ ملموس, مشهود. قابل‌مشاهده, قابل‌روژیت
+قابل‌درک. قابل‌فهم, قابل‌ادراک ۳. قابل‌ملاحظه,
+چشمگیر, قابل توجه
+perceptibly /paseptobli/ ۱.به صورتٍ محسوسی, 0۷
+به ee ee به نحو قابل‌مشاهده‌ای ۲. به طورِ
+نحو قابل‌ملا حظه‌ای؛ به وضوح
+perception /pasep/n/ متناهکه) N (awy) 71
+¥ درک. دریافت؛ احساس ۲. (روان‌شناسی) ادراک
+فهم. قدرتِ دریافت؛ بصیرت. بینش؛ هوشمندی,
+تیزبینی ۴ استنباط. برداشت؛ CI J ذکاوت.
+تلقی, دریافت, تعبیر
+perceptive /paiseptiv/ «Su (رسمی) ۱. تیزهوش, 40
+تیزفهمء تیزبین ۲. [نظر, قضاوت و غیره ] هوشمندانه. ۱
+تیزبینانه. زیرکانه ۳ ادراکی, ( مربوط به) ادراک
+perceptively /pasepuvli/  .هنادنمشوه (amy) adv
+با هوشمندی, تیزبینانه, با تیزبینی, با ذکاوتِ تمام.
+از روی فراست
+perceptiveness/pa'septivnis/ (رسمی) هوشمندی, 7
+تیزبینی, فراست, ذکاوت. کیاست
+06۲66۵11۷11 / pa:sepuvati / = perceptiveness
+perceptual /paseptjual / ادراکی 4
+perch! [پرنده ] نشستن‌گاه, نشیمی‌گاه  /لاندم/ A ۷
+جای نشستن؛ (در قفس) چوب, میله ۲.(محاوره) جای
+بلندی ۳ پرج (< واحدٍ طول. برابر با ۵/۰۳ متر) ads
+[پرنده, شخص ] (در جای بلند) نشستن .۴ 7
+۰ ۵.(در جای بلند) گذاشتن, قرار دادن ۷
+knock sb off his perch — knock?
+perch? /patf/ (pl perch) خاردار, لوتی alan
+perchance /pstfamns, (US) -tfmns/ (148) adv
+.۲ قضاء 4 حسب اتفاق, اتفاق راء اتقاقاً قضا را 500
+شاید. گاه باشد که op توان
+percipience /pasiprans/ (رسمی) تیزهوشی, 1
+تیزبینی» هوشمندی» زیرکی, ذکاوت. فراست
+percipient/pasipront/ (رسمی) ۱. تیزهوش. 4
+] زیرک» بافراست ۲. [نظر و غیره chad ob تیزبین»
+هوشمندانه., تیزبینانه» زیرکانه ۳ (مربوط به)
+آدراک؛ مدرک
+percolate /pakaleit/ (از صافی) Lost s [آب 7
+Ww U=cook 0 00ا A=cup @=bird o=aboul
+= near ed = hair U9 = pure وه = player  ata= fire
+6= thin &= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1231 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: percussion; percussion instrument; per diem; peregi'ine; peremptorily; p'eremptory; peremptory writ; perfectibility; perfectible -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+percolation 12
+عبور کردن, 2208( رد شدن؛ [قهوه و غیره] از
+صافی گذشتن, از فیلتر رد gas dd pas صاف
+شدن:۲. [خبر و غیره ] منتشر شدن, پخش شدن؛ شایع
+(ga پراکنده شدن :
+we ۳ [آب و SN [ee صافی ) عبور دادن گذراندن» 35
+کردن؛ از صافی گذراندن؛ از فیلتر رد کردن. فیلتر
+کردن؛ ضاف کردن؛؛[قهوه ] Cayo کردن
+2 ۱. [آب و percolation/pakslerfon/  ؛ذوفن [ob
+گذشتن, عبور؛ فیلتر کردن» صاف کردن, تصفیه ۲.
+oles! رواج, گسترش؛ رسوخ, ABLE
+7 ۱. قهوه‌جوش فیلتردار / percolator /pa:kalerto(r)
+۲ دستگاه صافی
+«lus ho .۱ کوبش, Percussion /pakafn/
+ضرب ۲. صدای ضربه, صدای کوبش ۳ (موسیقی)
+شازهای ضربی, سازهای کوبه‌ای؛ (در ارکستر)
+بخش da go بخش کوبه‌ای‌ها ۴.(پزشکی) ضربه.
+کوبه. دَق. تق |
+2 (نظامی) چاشنی؛ percussion cap /pakafn kap/
+(در Za کودکان) ترقه :
+Kis n دنگی.. percussion gun /pskafn gan/ ۱
+تفنگي پاشته‌دار :
+percussion instrument /poka fn mstromant /
+۸ سازٍ ضربی, ساز کوبه‌ای !
+نو ازندة ساز های اد percussionist/ps'ka
+ضربی,» نوازندةٌ سازهای کوبه‌ای
+Alyy, .۱ adj هرروزه per diem /ps ‘diam, datam/
+Xn )52 آمریکا) دستمزدٍ روزانه؛ خرجی (روزانه) .
+۸ ۱.(رسمی, مذهب) lie ابدی perdition /padijn/
+۲ (کهنه) فناء «gob زوال, (als انهدام
+7 (رسمی) مسافرت.  peregrination/pergrinerfn/
+سیاحت., سفر؛ (به شوخی) سفرٍ دور و درازه سفر
+قندهار
+n شاهین, بحری / peregrine /'perigrin
+peregrine falcon / perigrm 'fo:lkon,
+(US) ‘feelkan/ = peregrine
+0 با لحنی / peremptorily /psremptralt, (US) -toxralt
+al Bos آمرانه, با تحکم :
+peremptory/ paremptart, (US) perampto:rt/ { samy) adj
+۱ [رفتار, لحن ] آمرانه» تحکم‌آمیز؛ [شخص [ Asis
+رئیس‌ماب ۲. [حکم. دستور ] قاطع» بی‌چون و چراء
+قطعی, واجب‌الا جرا ُ
+peremptory writ /poremptart rt, (US)
+1 (حقوق) حکم احضار, احضاریه / [parempto:rr
+۱.ابدی, جاودانی, همیشگی,/ perennial/parencol
+دائمی ۲ [شکایت و غیره ] مکرر ۳ [گیاه] lao
+Ly دائمی
+7 ۴,گیاو دائمی. گیاه چندساله, گیاه LL
+
+<!-- REGION: RIGHT COLUMN -->
+
+2
+0 دائماً؛ هنيشه. perennially /psreniali/ col yan
+تجاوّذانه. )4 pails sb مکرراًء DLS
+11° (در روسیه): پروسترویکا perestroika / pere'strotka/
+ad) ۱. بی‌نقص»:بی‌عیب و نقضص؛  perfect! /paifikt/
+کامل؛ سالم ۲ عالی, درجةٌ SK ایده‌ ال فوق‌العاده»
+مخشر؛ نمونه ۳. درست. دقیق ۴.مناسب., خوب ۵.
+( دستور) [فعل ] کامل ۶ (محاوره) تمام‌عیار. یه ples
+معنی, (Ba واقعی. حسابی
+1 ۷.(دستور) زمان کامل, جنبهٌ کامل
+در بهترین وضعیت, in perfect condition
+در وضعیتِ عالی
+هیچ کس کامل نیست. Nobody is perfect.
+3 ادم بی‌عیب و نقص lhe نمی‌شود. ۳
+انگلیسی speak perfect English Tos
+صحبت کردن
+gals بدون رد پا the perfect crime
+Practice makes perfect. (prov) — practice
+زمان کامل, جنبهٌ کامل the perfect tense
+ماضی بعید the past perfect tense
+A آیندة کامل the future perfect tense
+ماضی نقلی the present perfect tense
+هیچ‌کس نمی‌شناسدش. ۰ He's a perfect stranger.
+کاملا غریبه است.
+vr کامل کردنء تکمیل کردن. perfect? /pafekt/
+بهتر کردن
+۶ . قابلیت کامل  perfectibility /pafektabilotn/
+a قابلیتِ بهتر شدن. کمال‌پذیری؛ بهتر شدن XY
+کمال ۳ کمال‌گرایی ۱
+کامل‌شدنی, تکمیل‌شدنی؛ perfectible /pafektobl/
+بهترشدنی» کمال‌پذیر
+۱.:تکمیل, کامل کردن. perfection /psfek/n/
+بهتر کردن ۲.کمال
+چیزی را به کمال bring sth to perfection ule,
+چیزی را کامل کردن
+a counsel of perfection — counsel
+در Jo کمال بودن, فوق‌العاده 535 be perfection
+کمال محض بودن
+ys 4 کامل, Sls به بهترین وجه. ۰ to perfection
+خوپ خوب
+nn کمال‌گرا ایی / و perfectionism /pofek
+۲ کمال gimp وسواس
+۱.کمال‌گرا او لاد دم / perfectionist
+۲ آدم کمال‌پرست. آدم وسواسی
+sl) SIS ۳ ad) ( مربوط به) کمال‌گرایی
+0 ۱. بی‌عیب و perfectly /ps:fiktli/  .لماک (ad
+خوب Ss به طورِ کامل ۳.(محاوره) se
+فوق‌العاده؛ بی‌نهایت
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1232 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: perfect pitch; perfidious; perfidiousness; perforce; perform; performance; performer; performing arts; perfumer; perfumier; perfunctorineSS; pergola; perhaps; perihelia; perihelion; peril; perilously; perilousness; perimeter; period -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+
+22 (موسیقی) 255 perfect pitch /pa:fikt pitf/
+موسیقی ۲. [خواننده ] صدای وسیع
+
+perfidious / لد / Olas جفاکار, (an) ad)
+پیمان‌شکن, بدعهد, عهدشکن, بی‌وفا
+perfidiously با بی‌وفایی.  /95۵:۵5۲م/ (amy) adv
+از روی پیمان‌شکنی
+perfidiousness/pa'fidiosnis / = perfidy
+
+1 (رسمی) جفا, غدر, perfidy /'ps:fidi / (sz lan ‘
+سٌست‌عهدی, بدعهدی, بی‌وفایی
+
+perforate / سوراخ کردن؛ اد ند Now
+سوراخ‌سوراخ کردن ۲ [کاغذ ] پرفراژ کردن
+
+زخم سوراخ‌شده a perforated ulcer
+Nn سوراخ کردن؛ perforation / pa:farerfn/
+سوراخ Yoel [کاغذ. pw و غیره ] پرفراژ ۳ [تامین و
+غیره ] PHEH ۴ برشکی) سوراخ
+0 (رسمی, کهنه) perforce /psfas/ «SU La VU
+به Bs 0 bet la قهزا
+
+LT .۱ ۷ دستور ] انجام دادن؛ perform /pa'fa:m/
+[معجزه ] کردن؛ [قول ] وفا کردن [aby] tay ادا 03S
+انجام دادن؛ Wb [ais] کردن ۲ [مراسم] برگزار
+کردن, (oo Sal به‌جا اوردن ۳. mW] موسیقی.
+برنامه ] اجرا 99,5
+
+vi ۴. برنامه (oo Sat هنرنمایی کردن؛ [بازیگر]
+بازی کردن؛ [خواننده ] خواندن؛ [رقمنده ] رقصیدن ۵.
+[دستگاه ] کار کردن؛ [دارو] Jae کردن؛ (محاوره)
+[شخص ] خود را نشان دادن کار کردن
+
+۱ کاری کردن, perform an operation
+عملی انجام دادن ۲. (پزشکی) Jas کردن, جراحی کردن
+(در سیرک) سگ‌های هنرمند performing dogs
+ویلن زدن perform on the violin
+
+STN 2 دستور ] performance /pa'fa:mans/ put
+اجرا؛ [قول ] وفا؛ [وظینه ] dol انجام؛ [نقش ] ایفا؛
+(آزبان‌شناشی) کنشق ۲ ( موسيقيی. تثاتر و غیره) اجرا؛ برنامه
+۳ [ دولت., Wass شخص و غیره ] LS عملکرد؛ کار
+درخشان ۴ رفتار ۵ (محاوره) dala در دسر ؛
+برنامه. کار ۶ محاوره) کار بی‌ربط. کار پردردسر ۷
+(ورزش) بازی ۸. [مراسم ] برگزاری
+
+in performance در حال اجرای برنامه.
+موقع اجرای برنامه
+What a performance the child made! جه 45,
+/ چه دردسری ai ماجرایی / برنامه‌ای درست کرد!
+المهشنگه‌ای راه انداخت!
+performer /psfoma(t)/ هنرمند؛ (کاتر) بازیگر؛ 2
+(موسیقی) نوازنده؛ خواننده؛ (رقص) رقصنده
+performing arts /pe fom ۹:::/ ام هنرهای نمایشی
+<< 06 I=sit &=cat =father D=got 0:!=sd
+el = say تاه < 0 a1 = five ay = now oI = boy 19
+aud = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 period
+| perfume’ /'pa:fjuim, (US) par'fjuim/ he Na
+| عطر (BLY رایحه. بوی خوش
+| perfume? /psfjum/ معطر کردن. خوشبو کردان .۱ vt
+| 4 عطر زدن ۲
+| perfumer /po'fjuma(r) / عطرساز؛ عطرفروش n
+perfumery /ps'fjumart / ۱.(محل) عطرسازی؛ #
+عطرفروشی ۲.(عمل) عطرسازی
+perfumier / سود / = perfumer
+perfunctorily/pafanktrolt, (US) -toiralt / سرسری, 0
+Sp به طورِ lb برای حفظ
+0۵۲۳61۵۲۱۵۵55 / سرهم‌بندی / ها وه دم .۱ 7
+بی‌اعتنایی بی‌تفاوتی, بی‌علاقگی Y
+perfunctory /pofanktart /.s_albs سطحی, ] Jos] adj
+سرسری؛ [شخص ] بی‌تفاوت. بی‌اعتناء بی‌علاقه
+pergola / /دادوندم Cambs Olle (Gea Yn
+perhaps /pahaps, praps/ Naz شاید. 0
+امکان دارد (که)» ممکن است (که)» یحتمل
+Perhaps you could bring me the report
+tomorrow. a sk می‌شود گزارش را فردا برای من
+لطف می‌کنید گزارش را فردا برای من بیاورید؟ slik |
+perigee /‘peridsi: / (na (ستاره‌شناسی) 2
+زمینی Jara
+perihelia/perrhi:lta/ pl of perihelion
+perihelion / perthi:iron / ( p/ perihelia)
+(ستاره‌شناسی) حضیض خورشیدی 7
+peril peral/ خطرات, مخاطرات (par خطر؛(در A 2
+به خطر انداختن, به مخاطره انداختن vir
+at one's peril به مسئولیتِ خود؛ با قبول خطر
+in peril of one's life ’ با قبول خطر مرگ
+perilous /'peralas/ پرمخاطره, i p(T adj
+مخاطره‌آمیز
+perilously /'peralasti / طور خطرناکی, 4 adv
+Salo bine you به
+perilousness /‘peralasnis/ خطر ناکی, n
+خطرناک بودن
+perimeter /porimrta(r) / cs gol ym (aman) V2
+اطراف, گرد 9d گر داگرد. ENP JV .۲ Lo
+پیرامونی؛ که دور تا دور (جایی) قرار دارد ۳
+period ۱۵ / زمان؛ اوقات cnet 2
+pas دوره ۳. دوران» دور ado je (در زندگی) .۲
+.۵ عهد. روزگارء ایام ۴. (زسین‌شناسی) دوران» دوره
+ole (phos) (San) .۶ (مدرشة) 0555 ساعت
+حیض ۷.(در آمریکا (JS) ماهانه, قاعدگی, پریود.
+در علائم نقطه گذازی) نقطه ۸.(محاوره, برای تاکید درآخرٍ
+)روتسد(.٩ جمله) والسلام. همین و بس,» همین, تمام
+w  u=cook u:=too A=cup 3:=bird o= about
+= near ea = hair U3 = pure era = player ara = fire
+8= thin d= this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1233 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: periodiC; periodical; periodically; periodic table; period piece; peripatetiC; peripatetically; peripheral; peripherally; periphery; periphrases; periphrasis; periphrastic; periphrastically; periscope; periscopic; perish; perishable; perished; peristyle; periwig; peritonea; peritoneum; peritonitis; perjure; perj U rer; perjury; perkily -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+periodic 12:
+جمله, Mar مرکب ۱۰.(ستاره‌شناسی) دوره
+adj ۱۱.(مربوط به) دوران گذشته. تاریخی
+| زنگي تفریح؛ نگ a free period ’ all
+adj ادواری, دوره‌ای, متناوب, periodic /prorpdik/
+تناوبی
+piorr'odikl / wislenl Hala ۳
+adj | ۲. [نشریه ] آدواری
+ste adv مرتب» periodically / 17 (EP
+| 7 (شیمی) جدول  periodic table / prorindik ‘teibl/
+تناويي ols جدول مندلیف
+(pa / pz) n قدیمی, period piece /piariad piis/
+CaS
+4 [معلم. کارگر و غیره ] peripatetic /penpateuk / lie
+غیر تابت؛ [زندگی ] خانه‌به‌دوشی
+0 به صورتِ سیّار / peripatetically/peripateukli
+۱. جنبی. خاشیه‌ای: / اد دم / peripheral
+در حاشیه, کناری, فرعی ۲. پیرامونی. حاشیه‌ای ۳.
+۱ (کامپیو تر) جنبی
+7 ۴.(کامپیوتر) دستگاو جنبی؛ (در olga (par جنبی |
+( کامپیو تر) دستگاه جنبی؛ a peripheral device
+( در جمع) تجهیزاتٍ جنبی
+adv 4 طور جنبی. / peripherally /pariforali
+به sb حاشیه‌ای, در حاشیه
+7 (رسی) de ad A مرز ۰ periphery /ponfor/
+۲. حاشیه. اطراف. دور کناره, پیرامون ۳. (مجازی)
+حاشیه
+periphrases /panifrasiiz/ pl of periphrasis
+periphrasis /panfrasis/ ( pl periphrases)
+7 ۱.(رسمی) اطناب, درازگویی ۲ (زبان‌شناسی) صورتِ
+re of
+4 ۱.(رسمی) دارای اطناب,/ periphrastic/ pertfrasuk
+مطول, دارای حشو و زواید ۲.(زبان‌شناسی) غیرصرفی
+0 ۱.(رسمی) ناد لت periphrastically/
+با VETERE حشو و زواید ۲.(زبان‌شناسی) به صورتِ
+غیرصرفی
+پریسکوپ؛ / periscope /‘periskaup
+دوربین زیردریایی
+adj (مربوط به) پریسکوپ؛ / /per'skopik 06۲1900010
+پریسکوپی؛ پریسکوپ‌شکل؛ با پریسکوپ
+7 ۱.(رسمی) به هلاکت رسیدن. 06۲151
+از ole رفتن, تلف شدن, pla خود را از دست
+دادن؛ نابود شدن ۲. [لاستیک, چرم و غیره] خراب
+شدن. از om رفتن؛ [غذا] خراب شدن, فاسد شدن
+SX] wr و غیره ] خراب کردن, از om بردن؛ [غذا]
+فاسد کردن, خراب کردن
+( محاوره) خدا آن روز را نیاورد» perish the thought
+زبانم JY خدا رحم کند
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+ad) ۱. [غذا و غیره ] فاسدشدنی, / perishable /perifobal
+خراب‌شدنی
+Y 7 )2 جمع) موادٍ فاسدشدنی, چیزهای فاسدشدنی؛
+غذاهای فاسدشدنی
+ات ات وت وت
+4 از سرما مردن, از سرما هلاک شدن, be perished
+fu زدن
+J 7 (در Mn کهنه, عامیانه) تخم  perisher /perifa(r)/
+or تخم سگ. آتش‌پاره
+4 ۱. [سرما ] perishing /perifin/  هدنشک Co
+۲. (عامیانه) لعنتی؛ کوفتی
+adv ۳ (عامیانه) خیلی؛ حسابی, Slats
+از سرما بخ زدن. خیلی سرد بودن be perishing
+0 (عامیانه) خیلی, perishingly /'perifigh/ «ples
+Stas y
+7 (معماری) ۱.(دور ساختمان) / peristyle /'peristarl
+RP Re ستون‌بندی ۲.ایوان ستون‌دار
+of peritoneum ام peritonea/ pernitai:a/
+peritoneum / peritanizam/ ( p/ peritoneums,
+7 (کالبدشناسی) صفاق peritonea)
+۸ (پزشکی) التهاب صفاق /0۵۲:۱۵۵:۱۶/ peritonitis
+12 (در بریتانیا و کانادا, در دادگاه) / periwig /periwg
+کلاه‌گیس
+7 (گل) پروانش. periwinkle’ /periwink!/
+5 تلفونی, JE تلگرافی
+آبي کم‌رنگ. آبي روشن periwinkle blue
+n صدف‌ماهی / periwinkle? /periwrnkl
+perjure /'ps:dsa(r)/
+۷ (حقوق) شهادت دروغ دادن perjure oneself
+۸ (حقوق) کسی که شهادت  /(03:433::0/ perjurer
+دروغ داده است / می‌دهد
+(حقوق) شهادت دروغ 1 0۵۲۲۷
+perk’ /p3k/
+۷ (محاوره) ۱. سرحال آوردن. perk (sb /sthyup
+حال ... را جا آوردن ۲ [اتاق, ظاهر و غیره ] رنگ و
+رو بخشیدن به. قشنگ‌تر کردن, جلوه دادن به؛
+[oS] سرحال آوردن ۳ (در مور اسب) [سر و گوش ]
+بلند کردن, بالا گرفتن. راست کردن
+Xvi (محاوره) سرحال آمدن, حال (کسی) Lr
+آمدن. BCR شدن ۱
+( محاوره) شیک کردن. perk oneself up |
+خوشگل کردن, ژیگول کردن |
+7 (محاوره, در جمع) [حقوق ] مزایا perk? /pa:k/ ُ
+VE ۱.(محاوره) قهوه درست کردن perk? /pak/
+۷ ۲ (محاوره) [قهوه ] درست کردن؛ از صافی رد کردن ا
+7 (محاوره) ۱. شاد و oo Su / اما perkily
+سرحال, با سرزندگی ۲. با پررویی, با JEP WR
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1234 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: perky; perm; permafrost; permanency; permeable; permission; permissively; permitlpa'mrt; permissible; permute; pernlclous; perniciously -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+2 (محاوره) ۱. شاد و شنگولی, perkiness /pakimis/
+سرزندگی, سردماغی, سرحالی ۲. پررویی؛ بی‌حیایی,
+EEE
+perky /'pa:ki/ (comp perkier, super perkiest)
+7 (محاروه) Jl wd شرزنده: شاد واسنگول:
+سردماغ ۲. پرروء بی‌حیاء دریده
+7 ۱.(محاوره) [مو] فر دائم, perm’ /pam/
+فرٍ شش‌ماهه
+7 ۲.(محاوره) [مو] فر (شش‌ماهه) زدن
+7 ۱.(در بریتانيا, محاوره, در شرط‌بندي فوتبال) Perm? /pam/
+blr کردنٍ ترتیب تیم‌ها
+۷۸ ۲.(در Mla محاوره, در شرطبندي فوتبال) [نام [Laps
+تر تیپ ...را عوض کردن ۱
+7 (در نواحي قطبی )/۳3:51]- permafrost/pamafrost, (US)
+بخ - خاک pd یخ‌بسته
+اأستمرار. تداوم, permanence /pa:manans/
+ثبات. دوام
+7 (رسمی) ۱. استمرار,  permanency /pamononst/
+تداوم, ثبات. دوام ۲. چیز دائم, em ماندگار؛ کار
+دائم, شغل دائمی
+permanent /psmonant/ (ails «galls ates .۱ [
+ماندگار, iad ola ثابت. باثبات؛ ماندنی؛ ابدی
+۸ ۲.(در آمریکا) [مو] فر دائمی
+Lats adv دائم, هميشه: ی 06۲۱۵۱۵۲۹۱۷
+به طورِ ثابت. به BY همیشگی, به طور wh
+پیوسته, برای هميشه, همواره
+permanent secretary / pa:monant 561
+(در بریتانیا) کارمند (US) 'sckrater1 / as Je
+صاحب منصب
+n دندان دائمی permanent tooth / pa:manant ‘tu:0/
+(sy) n [مو] permanent wave / pa:monant ‘werv/
+A دائمی
+7 (در بریتانیا) permanent way / p3a:manant 'wei/
+orl bs
+n پرمنگنات permanganate /pamangonert/
+1 ۱.(رسمی) 358 » 6( / permeability / pa:miabilot
+رخنه پذیری ۲.(شیمی) تراوایی
+۱.(رسمی) نفوذپذیر, permeable /'ps:miabl/
+رخنه پذیرء قابل‌عبور XY (شیمی) تراوا
+(amy) 4 (در مورد آب. مایعات)  permeate /pamieit/
+فراگرفتن» نفوذ کردن (در)» رخنه کردن )53(
+دویدن (در)؛ (در ys رطوبت, خزه) گرفشن؛ ( درمورد بو)
+فراگرفتن, پخش شدن» پیچیدن (در)» پر کردن؛ (در
+موردٍ SS احساس) فراگرفتن؛ سایه افکندن dm)
+سرایت کردن
+ii=see 1=sit m=cat :=father D=gol  3
+a1 = five ay = NOW oI =boy 13 0 < اه el = say
+aya = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 perniciousness
+permeation /pa:mre1fn/ 3 gl (رسمی) رخنه, 7
+سرایت
+permissible /pamisabl/ ple Old (رسمی) ad)
+روا؛ موجه
+permissibly /pomisabli/ (رسمی) به طور مُجاز. 0
+موجهی ose ge do در
+permission /pymifn/ رخصت od اجازه 7
+by kind permission of با اجازهٌ با موافقتِ
+permissive /pamisiv/ Ce) [رفتار ] مسامحه ad)
+] بار؛ [شخص sun سهل‌انگارانه. آسان‌گیرانه؛
+تسامح, سهل‌انگار, آسان‌گیر Jal مسامحه‌کار,
+a permissive society جامعهٌ روادار؛
+بی‌بند و بار dale
+06۲۱۹۹۱۷۱۷ 1 با سهل‌انگاری: 0
+سهل‌انگارانه, با تسامح؛ با بی‌بند وباری
+permissiveness /pamisivais / تسامح., n
+- سهل‌انگاری؛ بی‌بند وباری, لجام Sole!
+گسیختگی
+permit/pamit/ ( pp permitting, ما permitted)
+Sot شمردن, Sd (رسمی) ۱.اجازه دادن به. ۷ ۱
+شمردن؛ pla دانستن, گذاشتن, اجازة...دادن»
+جایز دانستن ۲.گذاشتن, مجال ...را دادن؛ مسمکن
+ساختن, امکان دادن امکان‌پذیر ساختن. میسر
+ساختن. موجب ...شدن
+مجوز؛ حکم, اجاژه‌نآمد. 3am ایمانة ۴ پرروانه ۴
+اجازةٌ کتبی
+permit of  ,ندرک جا برای... باز گذاشتن, امکان‌پذیر
+امکان ... دادن
+I'll come tomorrow, weather permitting.
+فردا می‌آیم. { هوا مساعد باشد / بگذارد. ۷
+permutation /pa:mjuterfn/ ۱.(ریاضی) 7
+جای‌گشت. تبدیل ۲. (در بریتانياء محاوره, در شرط‌بندي
+فوتبال) جایجا کردن ترتیب نیم‌هاء پس و پیش
+ترتیپٍ تیم‌ها 025
+permute /pamju:t/ ترتیپ ...را عوض کردن, 1
+پس و پیش کردن 00S جایجا
+pernicious /panifas/ LoL) (رسمی) ۱.مخرب, 4
+(res مضر, سوءء, کشنده ۲. خطرناک. ial)
+مهلک
+pernicious anaemia کم‌خوني مهلک (Sa)
+perniciously /panifasli/ زیان‌باری, sb به 0
+به طورٍ مضرّی, به طورٍ مخرّبی, به نحو کشنده‌ای.
+به نحوٍ خطرناکی
+perniciousness/psnifasnis / یان‌بار عه sn
+زیانمندی, مضرّت
+w 0000 00۱00 ۸ وتا 3=bird o= about
+= near ea = hair Ud = pure eld = player aa = fire
+6= thin 0 = this f= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1235 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: peroration; perpendicularity; perpetrate; perpetration; perpetrator; perpetual; perpetually; perpetuate; perpetuation; in; perpleX; perplexed; perplexedly; pers; perse; persecute; persecution; persecution complex; persecution mania; persecutor; perseverance; persevere; perseveringly; Persia; Persian -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+pernickety 12
+adj (محاوره) [شخص [ ملانقطی, / pernickety /psntkot
+«sald | وسواسی
+peroration/perarerfn/ [ols] :۱ (ga) 7
+(SS Amu dass جمع‌بندی, نتیجه Y )40 طعنه)
+موعظه. خطابه, سخنراني مفصل, las 52
+(art) N 2 پروکسید / peroxide /psroksard
+آب| کسیژنه, اکسیدان, پروکسيد هیدروژن
+vt ۳و ] Sana کردن» دکلوه کزدن
+آب| کسیژنه, | کنتیدان: peroxide of hydrogen
+پروکسیدٍ هیدروژن
+ad) ۱. [خط و غیره] / perpendicular/ ps:pandikjola(r)
+عمود. قائم ۲ az] و غیره ] عمودی. قائم. ایستاده.
+ستونی ۳ [صخره و غیره ] پرشیب. با شیب BIS =i
+( معماری, نیز با حرف بزرگ) گوتيکي قائم
+۵. خط عمودی, خط 1058 (ریاضی) ( خط) عمود ۶.
+J عمودی, CI قائم
+( ریاضی) عمود بر perpendicular to
+out of (the) perpendicular Jl =
+nl عمود / perpendicularity/ ps:pandikju'lzrati
+بودن, حالتِ Cla (93 as 18 (ریاضی) تعامد
+adv 4 طور قائم, / perpendicularly / pspandikjslali
+4 طورٍ عمودی, ستونی
+VE (رسمی, به شوخی) اد / perpetrate
+[گناه. جنایت و غیره ] کردن, مر تکب ...شدن. دست
+زدن 4 دست یازیدن به
+ارتکاب, دست‌یازی perpetration/papitrerfn/
+«SS pe (ams) مقصر/ perpetrator /pa:pitrerta(r)
+گناهکار. مقصر, مجرم the perpetrator of a crime
+A ad) همیشگی, دائمی» perpetual /papetfual/ «Hl
+جاودانه جاوید ۲.مدام, مداوم, مستدام, دائمی.
+یکریز. بیوسته. بی Sa plain ais پیاپی
+(مکانیک) حرکتِ perpetual motion il
+SS خودبه‌خود
+Als ple adv دائم ادن perpetually /pa'pet
+مر GSS (ad پیوسته. بی‌ وقفه. لاینقطع
+هی حرف » She was perpetually talking.  .5)
+یکریز حرف می‌زد.
+vr نداو م بخشیدن Ay / اد / perpetuate
+استمرار بخشیدن به؛ [خاطره و غیره ] جاودانه 03S
+ابدی ساختن, زنده نگه داشتن
+1 تداوم, استمرار؛ ناهد / 06۲06121100
+جاودانگی
+perpetuity / pa:prtjuiatr, (US) -tui-/ «Zu di} (omy) #2
+جاودانگی
+تا ابد. برای ابدء برای هميشه. in / for perpetuity
+جاودانه؛ به طور wh
+Nw متحیر کردن. بهت‌زده کردن. perplex /papleks/
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+حیرت‌زده کردن؛ گیج 5 1033 سردرگم کردن ۲
+پیچیده کردن, بغرنج کردن, دشوار کردن
+4 ۱.متحیر, حیرت‌زده» perplexed /paplekst/
+متعجب» بهت‌زده. گیج. سردرگم ۲. lps پیچیده.
+غامض, بغرنج
+0 بهت‌زده, حیرت‌زده. perplexedly /paplekstdli/
+با حیرت. با تعجب
+adj ۱.گیج‌کننده. حیرت‌انگیز. / perplexing’ papleksty
+تعجب اور ۲. غامض, lsd diz بغرنج
+72 ۱. حیرت. تعجب, تحیّر؛ perplexity /papleksati/
+گیجی, سردرگمی ۲. پیچیدگی, دشواری, بغرنجی
+(قبل از امضای کسی) از Per pro /ps: ‘prav/ «db
+از ler
+Ase # (gas) n اس ت۹۱ میت
+مزایای جنبی ۲. امتیاز؛ (در جمع) امتیازات
+شراب گلابی ۱ perry
+(58s) n شخص pers’ / 03:0 / < person
+adj شخصی, pers? /pasonl/ > 06۲90021 o yas
+0 فی‌نفسه. Bis 4 خودي خود. per 56/03: 'set/
+به تنهایی
+۱. آزار persecute /'pa:sikju:t / YE
+آزار رساندن an زجر دادن, اذیّت کردن, ایذا
+کردن. شکنجه کردن ۲. دردسر دادن به ستوه
+آوری, als کردن
+persecution pa:sikju: fn/ Obl cams a
+اذیّت. ایذاء JES
+persecution complex /pa:stkju: fn kompleks/
+2 (روان‌شناسی) عقدمٌ آزارکشی, $08 ستم‌بینی
+persecution mania /ps:srkju: fn memna/
+persecution complex =
+n شکنجه گر؛ آزاردهنده / persecutor /'pa:sikju:ta(r)
+n پشتکار؛ پافشاری, / perseverance/ pa:stviarans
+ثبات. استقامت. پایداری
+vi پشتکار داشتن, پشتکار | persevere / pascvio(r)
+نشان دادن؛ استقامت کردن, استقامت به خرج
+دادن, ایستادگی کردن, پایداری کردن؛ عزم راسخ
+pals ثبات داشتن؛ پافشاری aS اصرار ورزیدن
+4 [تلاش ] مجدّانه. / 1 06۲96۷۵۲۱۱۱
+سرسختانه. alan پیگیر؛ [شخص ] ثابت‌قدم,
+باپشتکار, بااستقامت. Fan
+0 مصرانه. / تاره :03 perseveringly/
+با استقامت. با پشتکار
+(US) 'pairsa/ oll a رفدندم fa, ندم/ Persia
+۲. سرزمين پارس ۳ شاهنشاهي ایران
+Persian /'ps: fn, ‘pa:3n, (US) ‘p3:ran/ (hn AN adj
+(مربوط به) ایران ۲.(مربوط به) پارس, پارسی
+Jal (gla ۳ a ایران ۴ زبان) فارسی |
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1236 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: Persian blinds; Persian cat; Persian Gulf; Persian lamb; Persian rug; persimmon; persist; persistence; persistent; persistently; person; be no; about; personably; persona; personable; personae; personage; persona grata; personal -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+Persian blinds / 03: fn 'blaindz, p3:3n, (US) pa:ran/
+2 (در پنجره): حصیر
+ka:prt, pain, (US) 7 مرحم Persian carpet/
+n قالي ایرانی. فرش ایران؛ قالي ایران
+Persian cat / ps: fn ‘ket, pain, (US) pairan/
+n 48 ایرانی» SUS LE
+Persian Gulf / ps: fn 'galf, pa:an, (US) pairsn/
+on خلیج‌فارس the Persian Gulf ۱
+Persian famb / ps: /n lem, psi, (US) pairsn/
+پوستِ قره‌گل» Gop برّه (ایران)
+Persian rug /ps:/n rag, pa:3n, (US) pa:rsn/
+Persian carpet =
+(ams) مزاح» ریشخند.  persiflage /pasifias/
+دست انداختن؛ خوشمزگی
+7 ۱. خرمالو ۲. درختٍ > persimmon /pasiman/ Jl
+vi پافشاری کردن, اصرار persist /pasist/
+ورزیدن, اصرار کردن, سرسختی کردن. سماجت
+کردن. پای خود را در یک کفش کردن, مصرّ بودن.
+یکدندگی کردان ۲ ادامه costs باقی ماندن. برجا
+ماندن, ادامه یلا کردن
+ادامه دادن, دنبال کردن, presist with
+دست نکشیدن از
+yon پافشاری, اصرارء persistence /posistons/
+استقامت, سرسختی» ایستادگی, سماجت. یکدندگی ۲.
+ادامه, تداومء استمرار
+Nad) [شخص ] persistent /pasistant/ Gas
+سرسخت. یکدنده, سمج؛ [کوشش و غیره] مصرانه.
+مجدّانه. سرسختانه؛ [نیاز و درخواست ] مبرم ۲. یکریز.
+pla مداوم, مستدام, Al go in پایدار ی
+Ais 55a پیاپی؛ [درد و غیره] مزمن, طولانی
+0 ۱.مدام. یکریز. / اماگد / persistently
+پیاپی» پیوسته. به کرّات. مرتب» مرتباء dads
+همواره ۲. با سماجت. با سرسختی, مصرانه.
+wlio | با اصرار, به اصرار
+| 7 ۱.شخص, person /'ps:sn/ (pl people, persons)
+| فرد, آدم, کس؛ a تن؛ انسان ۲.(به طعنه) ool
+ٍ بابا ۳ (حقوق) شخص ۴.(دستور) شخص ۵. هیکل.
+تن و بدن؛ ریخت, ظاهر
+in person Lass i
+| خودش با من IIe talked to me in person.
+صحبت کرد.
+(ams) ۱ ۱ در شخص, در وجود  in the person of
+: ۲. در نقش :
+be no / not be any respecter of persons
+respecter >—
+ii=see I=sit m-cal a=faher b=gol o:=sa
+er=say  osu=go al=five av=now  oal=boy Io
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+57 personal
+a legal person شخص حقوقی
+a natural person حقیقی A)
+| the first person متکلم (ait اول
+| the second person دوم شخص, مخاطب
+the third person سوم شخص, غایب
+about / on one's person خود ag olan
+کاریردی: Aas
+| 8515 طور معمول « person LS دستوری: جمع 435
+َ است. people
+Only one person turned up.
+| A lot of people replied to our advert.
+| young people
+| به معنای «بیش از یک نفر» اسم جمع people کلمهٌ
+است و نمی‌توآن آن را با ۹۷" جمع بست. همچنین با
+| فعل هميشه به صورتِ جمع می‌آید: people
+Most people are basically honest.
+People are dying of starvation every day.
+استفاده از وز به جای 2۲۵ در جمله‌های از نوع بالا حایر
+تسا
+به معنای «نژاد» و «ملت یا کشور» اسم people كلمهٌ ’
+معمول می‌توان pb قابل‌شمارش محسوب می‌شود و به
+آن را با "۹" جمع بست:
+the peoples of South East Asia
+واژه‌ای کاملاً رسمی است و در زبانِ persons كلمهٌ
+اداری کاربرد دارد:
+He was murdered by a person or persons unknown.
+این کلمه همچنین در اعلان‌های رسمی به چشم می‌خورد:
+This elevator may only carry eight persons.
+persona /passuna/ (pl personae)  )یسانش‌ناور( 7
+چهره (اجتماعی)» وجهه (اجتماعی) (Sl نقاب»
+personable /pa:sansbi/ خوش‌بر و رو A 4
+خوش‌قیافه. خوش‌سیما ۲. خوش‌برخورد؛
+خوش‌رفتار
+06۲۹۵۲۵۵۱۷ با خوش‌رویی. 0
+(et با وین
+personae /pa'sauni:/ pl of persona
+personage /'ps:sonids/ شخصیت؛ شخص A
+چهره Alm
+persona grata /pssouns 8۳0::۵/ . مطلوب aie nn
+personal /pa:sanl/ خصوصی, فردی at adj
+اختصاصی,» ویژه ۳. جسمی, جسمانی, دنی, ۲
+مربوط به) تن و بدن ۴. انسانی ( on مربوط به) (
+The argument was becoming personal.
+جر و بحث داشت جنبةٌ شخصی به خودش می‌گرفت.
+give sth a personal ۶۵۵۵ شخصی به خرج دادن at.
+Vv. U=cook ui=100 A=cup 3=bird - a= about
+- near €9 = hair U3 = pure ela = player  aro= fire
+0= thin &= this [= shoe 3= vision 1) = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1237 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: personal assistant; personal computer; personal estate; personalize; personal pronoun; persona non grata; personify; person-to-person; put; PerspeX; perspiCUOUSneSS -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+personal assistant 125
+Lass i حضور make a personal appearance li,
+: کردن
+(بانکی) ols شخصی a personal account
+ASG : تلفنی شخص به شخص a personal call
+Cg صمیمی a personal friend
+i توهین شخصی؛ انتقاد شخصی ۰ a personal remark
+: نظارتِ مستقیم personal supervision
+۸ پیشکار  /0۸ادوه personal assistant ps:sonl
+شخصی؛ منشي خصوصی؛ دستیار شخصی
+; 7 (روزنامه‌نگاری) personal column /pa:sanl knlam/
+۱ ستونِ آگهی‌های خصوصی
+personal computer / ps:sont kam'pju:ta(r)/ |
+n | کامپیو تر شخصی
+personal estate / pa:sanl 1'stert/ = personal |
+property
+personalise /pa:sanalaiz/ = personalize |
+personality / paisonalott/ (p/ personalities) |
+n | ۱.شخصیت ۲. Gor? gr § 5 10 خصوصیتِ
+| - بو ی ده Zz
+برجسته., Cpls برجسته؛ برجستگی ۳ جهره.
+RP برجسته» چهرةٌ مشهور. چهرةٌ درخشان,
+شخص مهم. po! مهم ۴.(در جمع) مسائل خصوصی.
+مسائل شخصی
+(به طعنه) کیش شخصیت, a personality cult
+قهرمان پرستی
+Let's keep personalities out of this!
+بگذار Jl شخصی را JB نکنیم!
+AIRY) نام خود را روی ... personalize /‘paisanslaiz/
+نسوشتن» me خود را بر...زدن, نام خود را
+روی...حک کردن ۲. خصوصی کردن, شخصی کردن,
+فردی کردن
+Lass) adv ۲.به طور / personally /pa:sonalt
+شخصی, به طور خصوصی Y )2 شروع سخن) از A
+PLEIN نظر من تا انجایی که به من مربوط
+می‌شود. من شخصا
+چیزی را به خود گرفتن, take sth personally
+از چیزی دلخور شدن
+با او اشنایی شخصی I knew him personally.
+داشتم. Lass می‌شناختمش.
+personal pronoun /pssonl pravnasn/ (gms) ۸
+ضمیر شخصی
+7 (حقوق) personal property /pa:sonl propatt/
+Jl شخصی
+n (ضبط) 5 personal stereo / pa:sanl ‘stertau / 22S
+persona non grata / pasaune non ‘grata/ pals 1
+نامطلوب
+personification /pasonifiker/n/ aris Non
+انسان‌انگاری ¥ مظهر, نمونةٌ اعلاء ims
+
+<!-- REGION: RIGHT COLUMN -->
+
+3
+personify /pasontfar/ (pr,pp personified)
+۷ ۱.انسان انگاشتن, شخصیت دادن به ۲. [حالات.
+کیفیات ] تشخّص بخشیدن به؛ به صورتِ انسان
+prs کردن. rn انسانی دادن به ۳.
+مظهر ... بودن» تجسّم... بودن
+HLS, پرسنل, کادر؛ personnel /pasanel/
+کارمندان ۲.ادارهٌ کارگزینی؛ ادارةٌ آمور استخدامی
+abl کارگرینی: the personnel department
+ادارة آمور استخدامی
+( هواییمایی ۰ دریانوردی) نفربر a personnel carrier
+کادر متخصّص trained personnel
+رل کارگرینی a personnel manager
+کارمند کارگزرینی a personnel officer
+adj ۱ رو در رو person-to-person’ 03:50 ta ‘paisn/
+حضوری, خصوصی ۲.(در آمریکا) [تلفن ] شخص به
+شخص
+WS تلفنی شخص 4 a person-to-person call
+شخص
+۸ ۱. ژرف‌نمایی, / سردم / perspective
+سه‌بعدنمایی ۲ علم مرایاء مناظر و مرایاء پرسیکتیو
+x چشم‌انداز. نما دورتماة منظره
+۱ دارای پرسپکتیو, با پرسیکتیو. in perspective
+iia با مناظر و مرایا, مبتنی بر اصول مناظر و Ul.
+۲. (مجازی) سر جای خود
+چیزی را سر put / see sth in perspective
+جای خود دیدن چیزی را در جای خود قرار دادن
+A خارج از" برسیکشیو, out of perspective
+NEE مناظر و مرایا ۲.(مجازی) خارج از جای خود
+جیزی را سر جای خرد get sth out of perspective
+ندیدن
+n پلکسی‌گلاس؛ dint پلاستیکی Perspex /paspeks/
+(omy) adj [شخص perspicacious/pusprkerfas/  ]
+بسابصیرت. بسصیر؛ تیزفهم. باریک‌بین؛ داهی.
+هوشمند, ذکی؛ Jo! تمییز؛ [تحلیل ] ln SLU |
+داهیانه, هوشمندانه |
+0۷ (رسی) / تاد[  perspicaciously/ pa:sprker
+با بصیرت. از روی فراست؛ داهیانه. هوشمندانه. با
+هوشمندی
+# (رسمی) بصیرت.  /pasprkasatt/ 006۲80102011 :
+فراست. کیاست؛ دهاء هوشمندی, ذکا
+perspicuity /pasprkjuatt/ = perspicuousness
+0 (رسمی) روشن, واضح؛ / perspicuous/pa'spikjuas
+[سخن ] سليس, rad [شخص ] tread روشن‌ذهن
+(poms) adr با وضوح. perspicuously /paspikjoasti/ :
+روشن. amd با فصاحت
+i perspicuousness/paspikjuasnis/ CPN
+وضوح, روشنی, صراحت؛ فصاحت i
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1238 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: perspiratiOn; perspire; persuade; persuasion; persuasive; persuasively; persuasiveneSS; pert; pertain; pertinaciOUS; pertinence; pertinent; pertinently; pertly; pertness; perturbation; perusal; peruse; Peruvian; pervade; pervasion; pervaSiVe; pervasively; pervasiveneSS; perverse; perversely; perverseness; perversion; perversity; pervert -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+GEN 0 ۲. عرق perspiration / pa:sparerfn/
+کردن, تعریق» تعرّق
+Vi (رسمی) BE کردن. / perspire /pa'spara(r)
+GE ریختن
+Nw تشویق کردن, ترغیب  persuade /paswerd/
+کردن؛ راضی کردن؛ واذار 3S برانگیختن ۲.
+(رسمی) متقاعد کردن. قانم کردن, قبولاندن
+7 ۱. ترغیب. تشویق؛ اقناع persuasion /pasweisn/
+مسلکت:| مکیس: ha نحله, کیش, whe (uml
+فرقه» جماعت ۳ (رسمی) باورء عقیده, اعتقاد؛ برداشت
+ot اسلام the Mahometan persuasion
+adj متقاعدکننده. قانع‌کننده؛ persuasive /paswersiv/
+(ple ترغیب‌کننده
+«adv طر 5 اقناع‌کننده‌ای, ناد ید persuasively
+به طورِ متقاعدکننده‌ای, به نحو مستدلی؛ A
+ترغیب‌کننده‌ای
+قدرتٍ اقناعی؛ persuasiveness/pasweisivnis/
+توانٍ ترغیبی, قدرشٍ ترغیب
+۱. [زن, دختر ] پرروء گستاخ. بی‌خیا؛  pert/pat/
+PH PRE PY FR گستاخانه ۲.(در آمریکا) بانمک,
+بامزه, قشنگ, خوشگل
+vi معتبر (og اعتبار داشتن pertain /patem/
+(a) ۱. مربوط بودن به. تناسب pertain to
+داشتن با ۲. متعلق بودن به. تعلق داشتن ay وابسته بودن
+به ۳. همراه بودن باء ملازم بودن باء لازمة... بودن,
+شایستة OI
+مربوط به, متعلق به. راجع به؛ ملازم pertaining to
+pertinacious/ps:trneifas, (US) -tner-/  )یمسر( adj
+SIP SDA SHEN سرسخت. راسخ ۲.
+مصرانه, wl sod مصممانه
+pertinaciously/ pa:trner fash, (US) -tn'et-/ ( om ,) adv
+۱ یا عزم راسخ. مصممانه ۲. مصرانه, لجوجانه
+22 (رسمی) عزم pertinacity / pa:t'nesat, (US) -tn'z-/
+راسخ. عزم. اراده, سرسختی, پافشاری
+pertinence /'pa:tmans, (US) -ton-/ wns Jas, 1
+ار تباط؛ شتاتندگیی
+pertinent /'ps:tiant, (US) -ton-/  ,.طوبرم (am) adj
+مناسب, بجاء, شایسته. مقتضی؛ به موقع
+مربوط به, متناسب با pertinent to
+oy adv | مناسب. pertinently /pa:trantly, (US) -tan-/
+| به طور ade به طور شایسته؛ به موقع
+Lady پررویی» با گستاخی, ابا pertly
+با بی‌حیایی, گستاخانه
+“Ion | گستاخی, pertness /'pa:tnis/
+| بی‌حیایی, وقاحت
+ii=see 1=sit m-cat a=father D=got o:= sa
+el=say a=go ar=five ay=now or=boy Io
+av? = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+59 pervert
+| perturb /pstab/ «0S (رسمی) نگران VE
+(3S olay ms aS مشوش کردن, اشفته
+| مضطرب کردن. ارامش ...را بر هم زدن» ناراحت
+ِ کردن
+perturbation / pa:taber/n/ (رسمی) نگرانی, a
+| دلهره, تشویش, اشفتگی, اضطراب, پریشانی
+perturbed /patabd/  .ناشیرپ مشوش, OS ad)
+ناراحت. اشفته
+| perusal /paru:zl/ (45) 0 خواندن دقیق. .۱ 7
+| بررسی ۲. مرورء, خواندن, مطالعه
+peruse /paru:z/ ۱.(رنمی) به دقت خواندن, ۷
+به دقت مطالعه کردن, بررسی کردن ۲.(به شوخی).
+۰ ۰ 2 ۰ ۰
+سرسری خواندن, مروری کردن, نگاهی انداختن
+8 از نظر گذراندن Ay
+Peruvian /paruvion/ (مربوط به) پرو «050 .۱ adj
+پرو Jol پروبی. .۲ n
+pervade /paverd/ ۱.(در مورد بو و غیره) » کردن» 7
+فراگرفتن, اکندن,» پخش شدن درء منتشر شدن در
+راه یافتن در؛ اشباع کردن ۲.(درمورد انديشه و غیره)
+نفوذ کردن درء گسترش یافتن در؛ حاکم بودن برء
+افکندن بر als
+pervasion /paversn/ (رسمی) 355 سرایت. ۸
+انتشار؛ اشباع as
+pervasive /pavesiv/  ,ریگاج‌همه نافذ. فراگیرء
+که همه جا را پر کرده؛ جاری, ساری
+pervasively /paversivi / به طرز نافذی, 0
+غالبی sb فراگیری» به 5b به
+00۲۷331۷611685 / دی / (SxS pn
+حضور غالب. حضور فراگیر؛ شیوع
+perverse /pava:s/ (رسمی) ۱. منحرف, فاسد؛ ad)
+خودسر, لجوج ۲. سرسختانه. Glad شر یر ؛ نااهل؛
+CU لجبازانه., لجوجانه ۳ مفرط. بیش
+perversely /pava:sit/ سرسختانه. لجوجانه. 0
+خودسرانه, با سرسختی. با لجاجت. با خودسری
+perverseness/pavaisnis/ = perversity
+perversion /pava: fn, (US) -3n/ انحراف؛ .۱ 7
+BX نابهنجاری ۲ دستکاری, تسحریف؛
+تحریف‌شده» صورتِ دستکاری‌شده ۳. انحراف
+(جنسی)
+06۲۷۵۲۹۱۷۱ انحراف, فساد؛ .۱
+شرارت ۲. سرسختی, لجاجت. خودسری
+pervert! /pavait/ ار ا۱.دستکاری کردن.
+به در Cady تحریف کردن ۲ گمراه کردن. از راه
+کردن, منحرف کردن
+pervert? /pavait/ (بد طعنه به لحاظ جنسی) منحرف #2
+۷  U=cook ui=t00 aA=cup %=bird = 80001
+- near و6 = hair U3 = pure eo = player ara = fire
+0= thin 0 = this {= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1239 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: perverted; peseta; pesky; peso; pessary; pessimism; pessimist; pessimistic; pessimistically; pest; pest control; pester; pesticide; pestilence; pestilent; pestilential; pestle; one's pct hate; pet; petal; petaled; petalled; petard; peter; petit bourgeois; petition; get up a petition for; pet name; petrel; petrifaction; petrification; petrified; petrify; petrochemical -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+perverted 12
+ad) | ۱.متحرف, گمراه, فاسد perverted /pava:nd/
+Y [امیال و [op نامعقول؛ بیمارگونه
+bys ۶۶ | [- واحق:پول /psserta/ Ml 069613
+معادل صد ستتیمو) "
+(comp peskier, super peskiest) / ملعم / pesky
+| 4 (در So محاوره) مزاحم» موذی
+n پزو (< واحدٍ پول در Peso /'peisas/ ( pl pesos)
+| بسیاری از کشورهای آمریکای لاتین و فیلییین)
+۸ (پزشکی) ۱. Ld eu مهبلی pessary /'pesort/
+(ad Hs Se 2) XY دیافراگم. دستگاه
+۶ (فسقه وغیره) بدبینی pessimism /'pesimizam/
+pessimist / 4 REY (p21) n |
+adj بدبینانه / pessimistic /pestmistik
+adv با pessimistically /pesrmisukli/ © wt
+بدبینانه
+[est sie] (os) Nn | وروجک. pest/pest/
+آتشپارة ۲.(کشاورزی و غیره) آَفّت ۳ (کهنه) طاعون
+n (کشاورزی و غیره) / pest control /'pest kontraul
+fe آفات ۱
+wr ذله کردن, عاجز کردن, 4 ستوه pester /'pesta(r)/
+آوردن, aly کردن BIS (ay کردن, بدیخت کردن
+سم دفع آفات. آفّت‌کش؛ pesticide /pestisard/
+حشره‌ کش
+n (کهنه) طاعون pestilence /pestilans/
+ad) ۱.(کهنه) ( مربوط به) طاعون pestilent /pestilont/
+۳ (محاوره) ناراحت‌کننده. اعصاب خردکن. =r
+ازارنده
+pestilential / pestrlenf1/ = pestilent
+n دسته هاون pestle /'pest/
+هاون و دسته a pestle and mortar
+pet’ /pet/ (prp petting, prpp petted)
+۸ ۱.حیواني خانگی» خیوانِ اهلی, حیوان دست آموز؛
+(صفت‌گونه) خانگی, اهلی, دست آموز ۲.(به (ad
+نورچشمی» عزیزدردانه, سوگلی ۳ چیز محبوب,
+= دوست داشتني. Ll دلخوشی؛ dada مورد
+علاقه ۴. (محاوره) ادم نازنین؛ شرشته. ماه ۵ در
+خطاب به زن با فرزند) عزیزم. RE جیگر
+۷ ۶. ناز کردن, نوازش کردن
+VE ۷.(محاوره) [زن و مرد] قربان و Bao هم رفتن» به
+هم وررفتن؛ با هم لاس زدن
+کسی را لوس کردن: make a pet of sb
+کسی را عزیزدردانه کردن
+عریزدردانه بودن. be one's mother's pet
+بچچّه‌ننه بودن
+Si gle همیشگی one's pet hate / aversion
+اگر من را Be a pet and post this letter for me.
+دوست داری این نامه را برایم 0S Cad
+
+<!-- REGION: RIGHT COLUMN -->
+
+)0
+(SO lz کج خلقی, رنجش pet? /pet/
+اوقات‌تلخی کردن, کج‌خلق شدن؛ رنجیدن be in a pet
+0 گلیرگ 7 petal
+petaled /petid/ (US) = petalled
+(در ترکیب) گلبرگی petalled /petd/
+«<a four-petalied flower > با گلبرگ‌های
+blue-petalied flowers > <
+petard /peta:d/
+hoist with one's own petard — hoist n
+peter /'pi:ta(r) /
+wi [ذخایر ] ته کشیدن؛ ol] جوی. peterout [sl
+کم‌کم تمام (OAS محو شدن؛ [داستان, نمایش,
+[oS کم‌کم ples شدن؛ [طرح داستان ] کم‌رنگ
+(OAS محو OAS
+petit bourgeois / pet ‘bo:swa:, (US) buars-/
+۸ ۱. خرده بورژوا
+Y adj خرده بورژوایی
+Lose] ad) ریزه» ریزنقش petite /poti:t/
+۱. عریضه, درخواست petition /psttfn/
+۲. عرض حال. داد خواست ۳ somal des
+استدعاء تقاضا
+۷ ۴. درخواست دادن way عریضه دادن ta عرض J
+دادن به ۵. تقاضا کردن Sb درخواست کردن از
+VI (حقوق و غیره) تقّاضای ... کردن» petition for sth
+درخواست ... کردن
+برای / get up a petition for / against 540 Je
+چیزی عریضه دادن؛ برای / علیه or عرض‌حال
+نوشتن
+21 (حقوق و غیره) /( 0611110۱۲
+۱. درخواست‌دهنده. TEN [CO ST خواهان,
+مدعی ۲ متقاضي Gb
+اسم خودمانی pet name /'pet neim/
+۸ مرغ توفان / دام / petrel
+7 ۱. به bas Siw شدن, / petrifaction / petri'fek fn
+سنگ‌شدگی ۲ (مجازی) تحجّر, سنگ‌شدگی, سکون
+petrification / petrifiker fn / = petrifaction
+4 ۱. وحشت‌زده, ترسیده؛ / petrified /'petrifard
+مات و مبهوت ۲.(از ترس و غیره) فلج‌شده» زهره‌ترک |
+۳ سنگ‌شده؛ (مجازی) متحجّر(شده)  . |
+۷ ۱ ترساندن»  (ppp petrified) / هس۳۵ / petrify
+وحشت‌زده کردن؛ مات و مبهوت کردن MY ترس. |
+تعجب و غیره) فلج کردن X دچارٍ رکود کردن ۴.سنگ |
+کردن, تبدیل به سنگ کردن؛ (مجازی) متحجر کردن :
+۵.دچار رکود شدن ۶.سنگ Jods (ps به So أ
+شدن؛ (مجازی) متحجّر شدن
+adj ۱. پتروشیمی / petrochemical / petravkemikl
+8 ۳.(در جمع) مواد پتروشیمی, مواد نفتی
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1240 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: petrol; petrolatum; petrol bomb; petrol engine l'pctral cudsm; petroleum; petroleum jelly; petrology; petrol station; petrol tank; pettifogging; pettiness; petulance; petulant; petunia; Take; peyote; pH; phalliC; phantasm; phantasmagoria -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+petrodollar /petraudnla(r) / نفتی Yan
+petrol /'petral / بنزین «۱
+۳۵۵ (در آمریکا) وازلین me ٍ
+petrol bomb /petral bom/ بترینی: Cg i |
+
+JS 5S | 50 لو تف
+sien بنزینی / petrol engine /'petral ends
+| ۸ نفت خام؛ نفت petroleum /patrasliom/
+۸ وازلین petroleum jelly /patrotiom 'dzeli/
+3 سنگ نتاس / petrologist /patroladsist
+PRR EEE <5 n 0۵1۲۱۵9۱
+۸ پمپ petrol station /'petral sterfn/ CR
+Sha بنرین petrol tank /'petral @yk/
+a (مغازةٌ) حبوان‌فروشی, pet shop /pet fop/
+مغازةٌ حیوانات؛ پرنده‌فروشی
+۸ موضوع مورد pet subject /pet sabdsikt/ SMe
+۸ زیرپوش (زنانه) petticoat /petikaut/
+زیر پیراهنی( زنانه )؛ زیردامنی؛ ml
+adj [شخص ] وسواسی. / وراه / pettifogging
+خرده‌گیر؛ ملانقطی؛ [جزئیات ] بی‌اهمیت. جزئی.
+پیش پاافتاده
+adv تنگ‌نظرانه, کوته‌فکرانه؛ بچٌگانه؛ pettily /peulr/
+با خست؛ با ناخن‌خشکی
+۸ تنگ‌نظری, کوته‌فکری؛ قاس / pettiness
+خست. ناخن‌خشکی
+adj (به طعنه) بی‌حو eo کم‌حوصله؛ //:08۵11[511/000
+بهانه گیر؛ بدخلق, کج‌خلق؛ si [a] غُرغرو؛
+[حرف ] که از روی بی‌حوصلگی زده می‌شود
+0 با بی‌حوصلگی؛ با بدخلقی  pettishly /peujii/
+۸ بی‌حوصلگی, 1 / pettishness
+کم‌حوصلگی؛ بدخلقی, کج خلقی
+petty /00/ (comp pettier, super pettiest)
+4 . [سائل, نکات و غیره] جزئی. پیش ‌پاافتاده.
+کم‌اهتمیت. بش‌اهمیت: کوچک ۲:تنگ‌نظر,
+نظرتنگ, کوته‌فکر؛ ایرادی, ایرادگیر؛ ملانقطی؛
+(St خسیس؛ [رفتار] تنگ‌نظرانه,
+کوته‌فکرانه, بجگانه ۳ [کشاورز, فروشنده ] ie 3
+es > جزء
+cole, بیش از petty observance of regulations
+J مقررات, توجه بیش از حذّ به مقررات
+n تنخواه‌گردان petty cash / pet 'keef/
+۸ دله‌دزدی: petty larceny / peu la:sont/
+آفتابه‌دزدی
+7 (دریانوردی) /-۵:1 petty officer /0۵ ‘pfisa(r), (US)
+ناو Sez دوم
+n بدخلقی, ا- /petjslons, (US) 081013306
+ii=see 1-sit m=-cat a@=father D=got o:=s
+cl = say WU =g0 a1 = five ay = now a1 = boy 1
+aud = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+1 phantasmagoria
+کم حوصلگی (Soyo 1 HSS بداخلاقی,
+petulant /'petjslont, (US) بدخلق. اس 4
+بهانه‌گیر, ایرادی؛ EG بداخلاق, کج‌خلق؛
+J sine pt [Los] ho 50S صلهء 5
+in a petulant mood با کج‌خلقی, با بداخلاقی؛
+با بی‌حوصلگی
+petulantly / بالاددانزاهم (US) tju-/  .یقلخدب adv
+با بداخلاقی, با کج‌خلقی؛ با بی‌حوصلگی
+petunia /pstjunis, (US) -tu:-/ sb (J n
+pew /pju:/ نیمکت (aS (در 1
+Take/ Grab a pew!  !نیشب محاوره) بفرما بشین! (
+۵06۷/1/۵۱: / = peewit
+06۷/1۲ (1 پیوتر oleae ۱+(فلزگری) 1
+ظروفي مس‌بار ۲
+peyote | مکزیکی. پیوت / ادن mS SN a
+مخدر) مسکالین, پیوت. پیوتل 831) ۷
+pfennig /fenig/  لداعم واحدٍ پول در آلمان, =) Sdn
+(Sob یک صدم
+PG / pi: ان yl ۱.(روی فیلم) با راهنمایی 2
+تماشای این فیلم برای افراد زیر پانزده سال ممنوع ۱
+مستاجر در خانواده lage مستاجر { Cone!
+PGCE / pi: dsi: sii i:/ < Postgraduate Certificate
+of Education  ,سناسیل G58 (در بریتانیا) مدرکي 7
+مدرکي کارشناسی ارشد
+pH / pi: (شیمی) پ هاش ال
+0113610/۲۵, (US) feraton/ (کهنه) درشکهٌ 1
+دواسبه
+phagocyte /fagosait/  راوخ‌هناگیب فاگوسیت. 1
+نوعی گلبول سفید) < (
+phalanges /flzndsiz/ ام of phalanx
+phalanx /'fxlayks/ ( p/ phalanxes, phalanges)
+.۲ فالانکس (- نوعی آرایش پیاده‌نظام در بونان باستان) .۱ ۸
+535 به‌هم‌فشرده» cio [ [اشیا ] توده» انبوه؛ [اشخام
+YY <a phalanx of riot police > سد Pg انسبوه؛
+کالبدشناسی) بندٍ انگشت» استخوان انگشت (
+phalli /'fzlas/ pl of phallus
+phallic /felik/ فالیک, قضیبی؛ (J ad)
+مربوط 4( قضیب؛ قضیب‌مانند (
+phallus / دماح / (p/ phalli, phalluses) فالوس» 7
+(نمادٍ) قضیب
+phantasm /'fantezom/ (رسمی) ۱. وهم, خیال 4
+۱ روح, شبح؛ جن .۲
+phantasmagotia/ fentxezma'gora, (US) -'gar1a/
+(رسمی) تصویر آشفته. تصاویر بدهم آمیختد. تصاویر 7
+درهم‌برهم» تصاویر وهم‌گون
+۷۷ ماع 0و A=cup 3=bird o=about
+= near ca = hair v9 = pure ed = player aro = fire
+6 = thin 0 = this [= shoe 3= vision f= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1241 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: phantasmagorical; phantasmal; phantom; Pharaoh; pharisee; pharmaceutical; pharmaceutically; pharmaceutiCS; pharmacist; pharmacological; pharmacologist; pharmacology; pharmacopoeia; pharmacy; pharyngitis; phase; have; pheasant; phenobarbital; phenobarbitone; phenol; phenomena; phenomenally; phenomenology; phenomenon; phew; phial; philander; philanderer; philanthropiC; philanthropically -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+phantasmagoric 12
+‘phantasmagoric/ fentazmagorik, (US) -'garik /
+EE درهم PIS (رسمی) 1
+phantasmagorical/ fentazma'gonk),
+(US) -'gonikl / = phantasmagoric
+phantasmal / fen'tazmal / sob 9 (رسی) add)
+خیالی؛ شبح‌گونه
+phantasy /‘fxntost/ = fantasy
+phantom /'fantam/ ا.روح» شبح؛ جن 0
+وهم, خیال, توهم ۲
+مربوط به) اشباح ۴ (به ( as) (0 (مربوط ۳ adi
+خیالی. parse 0 ناشناس see ] شوخی) [شخص
+Cant]
+The phantom cake-eater has been here again!
+از ما بهتران دوباره آهده‌اند این شیرینی‌ها را خورده‌اند!
+a phantom pregnancy حاملگی خیالی
+Pharaoh ۱! فرعون " / درد
+0۱۱ (رسمی, به طعنه) 4
+.۲ زهدفروش, ریاکار؛ خشکه‌مقدس, متعصب .۱
+زهدفروشانه, ریاکارانه
+۱ pharisaical/ ferr'senikal / = pharisaic
+pharisaism /'fzrsenzam / (رسمی, بد طعنه) 22
+تقدس‌مابی» زهدفروشی؛ خشکه‌مقدسی, تعصب
+0113۲1566 /farsi:/ زهدفروش. (ab ۱.(رسمی, به 2
+ریاکار؛ خشکه‌مقدس ۲.(در کتاب مقدس. با حرفی بزرگ)
+فریسی
+pharmaceutical / fa:ma'sju:tikl, (US) -'su:-/
+۱.(مربوط به) داروسازی؛ دارویی ad)
+دارو .۲ 7
+pharmaceutically / fa:ma'sju:tikly, (US) -'su:-/
+داروبی A داروسازی؛ از A از 0
+pharmaceutics / fa:masju:tiks, (US) ~'su:-/
+دأروسازی n
+pharmacist /famasist/  راد‌هناخوراد داروساز؛ :
+0۳۵۲۵0۵/۵ داروشناختی./0[0621/,80:0:301003:81 ad)
+lin sls مربوط به) (
+pharmacologist/ famskoladanst/  سانشوراد
+pharmacology / fa:maknladat/ داروشناسی, 7
+فارماکولوژی
+pharmacopeia/ fa:makapia/ (US)
+= pharmacopoeia
+pharmacopoeia fa:makspi:a/ راهنمای دارويي n
+5555
+pharmacy /'fammasi/ داروسازی ۲. داروخانه. .۱ 7
+دواخانه
+pharynges/frndsi:z/ p/ of pharynx
+pharyngitis / ferin'dsaus / گلودرد. التهاب n
+| حلق
+
+<!-- REGION: RIGHT COLUMN -->
+
+52
+pharynx /'faripks/ ( p/ pharynges, pharynxes) |
+# (کالبدشناسی) حلق
+7 ۱. مرحله, cbf دوره ۲.(برق, فیزیک) phase /feiz/
+فاز ٍ
+۷ ۳ مرحله‌بندی anole) (3S کردن, بسرنامه‌ریزی |
+کردن |
+با هم خواندن, هم‌زمان بودن be in phase
+با هم نخواندن, هم‌زمان نبودن be out of phasc
+dal قمر the phases of the moon
+۷ به تدریج رایج 03,5 phase sth in
+کم‌کم باب کردن
+۷ به تدریج از دور خارج کردن؛ phase sthout
+به تدریج حذف کردن / کنار گذاشتن
+PhD /pi: eitj 'di:/ > Doctor of Philosophy
+7 درجهٌ دکتری
+75 تاریخ بودن have / be a PhD in History
+pheasant /'feunt/ ( p/ pheasant, pheasants)
+n قرقاول
+phenobarbital / fi:navba:bil, (US) -to:l/
+phenobarbitone =
+phenobarbitene/ finosbazbitosn / (Sax) 7
+فنوباربیتون» فنوباربیتال
+seal J (add) A بولیکت 0۳۵۳۲۵۱/۵۲
+phenomena fanomina/ p/ of phenomenon
+phenomenal /f>nominl/ Sata Nad)
+خارق‌العاده, فوق‌العاده, بسیار قابل توجه. عظیم ۲
+(رسمی) (Lm محسوس ۳ )8( پدیداری» پدیده‌ای
+0 (محاوره) به طور / phenomenally / fanommali
+چنشگیری, 48 ou خارق‌العاده‌ای, فوق‌العاده
+phenomenology ۱۳۵00: / (ads) 7
+پدیدارشناسی, پدیده‌شناسی
+phenomenon /fsnominan, (US) -npn/
+ey .۱ پدیدار, حادثه. (pl phenomena)
+رویداد funy خارق‌العاده, فنومن
+2 فرومون (<ماده‌ای شیمیایی pheromone V'feromavn/
+که برخی از جانوران برای Ar هم‌نوع خود ترشح می‌کنند)
+1 پوف؛ (از ناراحتی و نفرت) phew /fu:/ sod
+(هنگام تعجب) وای؛ (هنگام راحتی) خیش
+(برای عطر و دارو) شیشه " / phial / fatal
+4 به کنایه) لاس زدن. روا رد ات 4 وا 1و
+لاسیدن؛ دختربازی کردن
+7 (به طعنه) دخترباز, زن‌باز/ (۵6۲۵۲/81200۲۵)0 0۳۱۱2۵
+4 انسان‌دوستانه. / ۵۱۵۳0 / philanthropic
+بشردوستانه, نوع‌دوستانه؛ ( مربوط به) نیکوکاری,
+ره ۱
+ol adv روی / 0 ۱,۵10 ۱۷] 0۳۱۱۵1۳۲۵۵1۵۵
+نوع دوستی» از روی CSE
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1242 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: philanthropist; philanthropy; philatelic; philatelist; philharmoniC; philhellene; philhellenic; philippiC; Philippine; philistine; philological; philologist; philology; philosopher; philosopher's stone; philosophic; philosophical; philosophically; philosophise; philosophize; philosophy; philter; philtre; phizog; phlebitis; phlegm; phlegmatic; phlegmatically; phlox; phobiC; phoenix -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+11 نوع‌دوست. / philanthropist / fi1znorapist
+انسان‌دوست.*نیکوکار, Joes pol
+Nn انسان‌دوستی. / ۵1۵۵۵۵ / philanthropy
+بشردوستی» نوع‌دوستی ۲ نیکوکاری, احسان.,
+کم خی ۱
+4 ۱.(مربوط به) گرداوري  philatelic/filstenk/
+تمبر ۲. (برای گردآورندگان تمبر) مهم» باارزش
+7 ۱. گرداورندهٌ philatelist/ filztolist / pai
+کلکسیونر تمبر ۲. تمبرشناس, متخصّص تمبر
+oats Sn تمبر 1 philately
+[ (موسیقی) فیلارمونیک / philharmonic / fila: monik
+04 یونان‌دوست / philhellene/ filheti:n
+adj ( مربوط به) philhellenic/ filhelinik, (US) -lemk/
+یونان‌دوستیء یونان‌دوستانه
+72 (رسمی) نطق philippic /filipik/  ینارنخس a
+NL
+4 ۱.(مربوط 4( Philippine /filtpi:n / corded
+فیلیپینی
+led Jal (hd ¥
+فیلیپین the Philippines
+( مجمع الجزا 2 { فیلییین the Philippine Islands
+philistine /'fusstain, (US) -tin/ (ab a) AN 7
+ps! هنرنشناس؛ po! هنر ستیز؛ ادم بی‌فرهنگ
+4 ۲ (به طعنه) [شخص ] هنرنشناس؛ هنرستیز؛
+بی‌فرهنگ؛ [رفتار ] هنرنشناسانه؛ هنرستیزانه
+n هنرنشناسی؛ / ماگ / philistinism
+هنرستیزی؛ بی‌فرهنگی
+4 ۱.(مربوط به) philological filslodsiki / «lool
+(مربوط به) ادب‌شناسی, ادب‌شناختی X
+فقه‌اللغوی., ( مربوط به ) فقه‌اللغة ( مربوط به)
+فیلولوژی, فیلولوژیک» (مربوط به) لغت‌شناسي
+تاریخی؛ ( مربوط به) زبان‌شناسي تاریخی
+An عالم ادبیات. / philologist/frinladsist
+آدب‌شناس. ۲.:منتخصّص فقه‌اللغة؛ زبان‌شناس
+of subs) فیلولوگ؛ متن‌شناس» لغت‌شناس
+(تاریخی)
+
+۸ ۱.تحقیقاتِ آدبی, philology /filnladst/
+آادب‌شناسی ۲. فقه‌اللغة؛ زبان‌شناسی (تاریخی).
+فیلولوژی؛ متن‌شناسی, لغت‌شناسی (تاریخی)
+
+philosopher / filpsafa(r) / فیلسوف: حکیم .۱
+
+۲. فلسفه‌دان؛ معلم افلسفه؛ دانشجوی فلسفه ۳. آدم
+
+منطقی, اهل استدلال؛ آدم عمیق 8
+
+philosopher's stone /filosafaz 'stoon/ اکسینر, 2
+کیمیا (aed اکتتیر:
+
+philosophic / filo'snfik/ = philosophical
+
+i= see 1= sit z= cat a:=father Dbp=got  2:=s:
+
+el = say ناه =go a1 = five au = now ol =boy 19
+
+aus = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+3 phone
+philosophical fils'sofiki /( 4; فلسفی, (مربوط .۱ ad)
+متین» موقّر؛ bY فلسفه (مربوط 4( حکمت
+
+[ رفتار ] فیلسو‌فانه, فیلسوف‌منشانه
+0 ۱ به لحاظ فلسفی philosophically / fils'sofikli/
+VA رامش:,باءمستانت, متوقزانه:, فیلسو فان
+فیلسوف منشانه
+philosophise/filbsafarz/ = philosophize
+7 ۱. به فلسفه philosophize /fripssfarz/ (abs,
+SE فلسفی پرداختن, oy فلسفی: کردن ۲
+فلسفه بافتن, فلسفه‌بافی کردن
+7 ا. ands حکمت / philosophy /fr'lpsafi
+(J sol (ay la x اعتقادات. تئوری, فلسفه؛ مشرب
+ald Sls] Rak Say متانت؛ سکون
+philter /filia(r) / (US) = philtre
+
+philtre /'fitta(r) / مهرگیاه؛ مهردازو mn
+phizog /'fizog, (US) -20:8/ کهنه, به شوخی) Nis (در 7
+
+صورت., رو
+
+phlebitis / 8 التهاب ورید. / دام a
+
+آماس سیاهرگ‌ها
+
+a 1 اخلطه: خلط سینه ۲. (رسمی) phlegm /flem/
+آرامش؛ طمأنینه؛ خوایّشتن دار Gos es ¥
+
+(کهنه) بلغم
+
+phlegmatic /fleg'matrk / [شخص [ خونسرد. adj
+wb خویشتن‌دار؛ بلغمی‌مزاج؛ [خاق و خو] pL
+
+توام با ارامش, بلغمی
+
+0 با خزنسردی, / باااه 0 / phlegmatically
+
+با آرامش» با خویشتن‌داری
+
+0۳1۵2 /floks/ (p/ phiox, phloxes) (گل ) فلوکس n
+phobia /'fesbia/ ترس( بیمارگونه)» هراس A 7
+
+واهمه, وحشت ۲. نفرت. AT بیزاری
+
+phobic /'fasbik/  »سرت ترس الود. همراه با ad)
+
+آمیخته با ترس ۲. دچار ترس, دچارٍ واهمه
+X 8 مبتلا به ترس ( بیمارگونه)» مبتلا به واهمه
+1 ققنوس | :0۳۵6112/6
+on ۱.تلفن ۲.گوشی (تلفن) phone’ /faun/
+x vi تلفن کردن» تلفن زدن» زنگ زدن .
+۴۷ تلفن کردن a تلفن زدن به. زنگ زدن به
+تلفن کردن / زدن make a phone call
+۱۰ بای تلفن بودن ۲. تلفن داشتن  be on the phone
+47 ۱. با تلفن خحبر دادن phone in (sth)
+vi ۲. (به Joe کار خود) تلفن زدن / کردن» زنگ
+زدن
+۱. تلفن کردن / زدن» زنگ زدن phone (sh) up
+ow ۲. تلفن کردن / زدن به» زنگ زدن به
+
+phone? /faun/ صدا dsl آواشناسی) ( 7
+
+w ومع u:=100 a=cup 3=bird . o=about
+
+=near ~~ ea=hair  v3=pure ed = player aia = fire
+
+0= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1243 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: phone bookl'faun buk; phone box l'foun boks; phone-tapping; phonetic; phonology; phosgene; phosphate; phosphoric; phosphorouS; photo; photo-call; photocopier -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+phone book 12
+۸ (دفتر) راهنمای تلفن  phone book /'fosn buk/
+phone booth /'faun bu:s, (US) bu:6/ 1
+تلف همگانی, باه تلفن, کپوسکي تلفن
+phone box /'fasn boks/ = phone booth
+2 (رادیو تلویزیون) برنامة ارتباط  phone-in/fosn m/
+مستقیم ( تلفنی):
+7 ( زبان‌شناشی) ولج phoneme /'fovni:m/
+1 (زبان‌شناسی) ۱. واجی phonemic /fanizmik/
+واج‌شناختی, bye) به) واج‌شناسی
+0 ۱ به لحاظ واجی؛ phonemically /fonimikii/
+به عنوان ولج ۲ به لحاظ واج‌شناختی. از دیدگاه
+واج‌شناسی
+n واج‌شناسی phonemics /fani:miks/
+۸ شماره تلفن phone number /'favn namba(r)/
+7 استراق سمع ( تلفنی) phone-tapping/ ‘fsa tepiy/
+(زبان‌شناسی) ۱. phonetic / fanetik / whol
+۲. آواشناختی, (مربوط به) آواشتاسی ۳ (مربوط
+(a آوانگاریت آوانگتار hate [ds DUI] LF
+آواهاء آوابنیاد
+adv به Bd آو ایی؛ الا | phonetically ۱
+به عنوان آوا ۲. به لحاظ آواشناختی, از دیدگاه
+اواشناسی
+a ۱. اواشناس اس phonetician/
+۲ پژوهشگر آواشناسی
+a اواشناسی / phonetics /fsnetiks
+phoney /'faunt/ (comp phonier, super
+[ ۱.(محاوره phoniest; p/ phoneys, phonies)
+به طعنه) [شخص ] متظاهر؛ [یپزشک و غیره] pp
+عوضی؛ [ داستان, AF اسم. pps [Lie دروغشی.
+ساختگی: من‌درأوردی. کشکی؛ [جواهر] بدلی,
+قلابی, تقلبی؛ [احاسات, تلفظ ] ساختگی, تصنعی
+8 ۲. چیز عصوضی؛ چیز تقلبی؛ چیز بدلی ۳ ادم
+حقه‌باز؛ Ala ool
+ادای Sex بازي جنگ a phoney war
+4 ۱. صوتی | phonic /'fonik,
+۲ زبان‌شناسی) آوایی
+n قلابی OS عوضی بودن؛ phoniness /'fauninis/
+تصنعی بودن؛ جعلی بودن؛ ساختگی بودن
+phonograph /'faunogra:f, (US) -gref/  نوفامارگ n
+7 (آراشناسی) / phonological / fasnalndsikl
+۱ واج‌شناختی. ( مربوط (a واج‌شناسی؛ ( مربوط
+(a نظام sls! ۲ واجی
+adv 4 لحاظ / اد امس phonologically/
+واجی؛ به عنوان ولج ۲.از دید sla به
+لحاظ pls اوابي A Seok) واج‌شناختی
+8 ۱.واج‌شناس phonologist/fsnoladsst/
+۲ پژوهشگرِ واج‌شناسی
+
+<!-- REGION: RIGHT COLUMN -->
+
+4
+7 (زبان‌شناسی) ۱. واج‌شناسی phonology /fanoladsi/
+زد نظام واجی. نظام آوایی؛ دستگاو صوتی 2
+phony /'fasni/ = phoney 8
+/ (بیانگر تحقیر و عدم قبول) wl چرت.  /::0110061//8
+REYES
+فوسژن (< نوعی 38 phosgene /fozdsin/ (ew
+nm ۱.(شیمی) phosphate /'fosfert/ ed
+2,57 شیمیایی (فسفردار)» 358 فسفات
+phosphorescence/ fosfaresns/ «Sle jad A 1
+(San تابش ۲.شب‌تابی, شبرنگی, شب‌نمایی
+adj ۱.فسفرسان. phosphorescent/ fosfaresnt/
+تاپنده تأبان ۲شب‌تاب, شبرنگ..شب‌تما
+adj (مربوط به) phosphoric / ۶۵۵۶20, (US) -foir-/
+(iad فسفری؛ فسفردار, فسفریک
+phosphorous /'fosfaras/ (US) = phosphoric
+1 (شیمی) ۱. فسفر phosphorus /‘fosfaras/
+jin ۲ سرخ گوگردٍ احمر؛ (در کبریت) گوگرد
+11 (محاوره) عکس photo /'tastau / ( p/ photos)
+n باجة photo booth /'fastas bu:d, (US) bu:B/ Se
+فوری
+ids 7 عکس‌بر photo-call /'fastas ka:l/ Gold
+Nn سلول فتوالکتریک., / photocell / fastausel
+باتري نوری, باتري Jem OSs نور-بسرقی ۲.
+چشم الکتریکی
+1 دستگاه فتوکپی.  / photocopier /fastoskopra(r)
+دستگاه زیراکس
+photocopied) مرصام) / photocopy /'fastasknpr
+۸ ۱.فتوکپی. زیراکس, روگرفت
+Ym فتوکپی کردن Sl فتوکپی گرفتن از کپی کردن,
+زیراکس کردن, روگرفت تهیه کردن از
+۳ فتوکپی کردن, زیراکس تهیه کردن
+adf نوری - برقی.  / photoelectric / fastourlektnk
+نورابرقی» نور - برقی» فتوالکتریک
+۱ باتري نوری, a photoelectric cell
+Je نور - برقی, Je فتوالکتریک ۲. چشم SS
+۸ (در اسبدوانی, مجازی)  photo finish / fostau finrf/
+پیروزی با اختلافی اندک
+7 ۱.(جرم‌شناسی) چهره‌نگاری  photofit /favtaufit/
+XY ad) (جرم‌شناسی ) چهره‌نگاری‌شده
+adi ۱. [منظره و غیره ] / photogenic / favtov'dsentk
+lie عکاسی, Ly) برای عکاسی ¥ [شخص]
+خوش‌عکس
+۷ عکس  photograph /'tutogra:f, (US) -grzf/
+الا ۲. عکس گسرفتن ازء عکس Ss BS
+انداختن Gl عکس برداشتن از
+خوش‌غعکس بودن. take a good photograph
+تو عکس خوب افتادن
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1244 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: photographer; photographic; photographically; photography; photon; sti; photostat; photosynthesize; photosynthetic; phrasal; phrase; a nominal; a verbal; phraseology; phrasing; phrenetic; phrenologist; phrenology; phut -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+take a photograph  نتخادنا عکس گرفتن, عکس
+photograph badly  سکعدب بد افتادن, Se تو vi
+
+بودن
+تو عکس خوب افتادن, photograph well
+خوش‌عکس بودن
+photographer / fatografa(r) / Sen
+عکاس تفننی, an amateur photographer
+عکاس sll
+عکاس روزنامه a newspaper photographer
+عکاس حرفه‌ای a professional photographer
+adj ۱.(مربوط 0( / photographic / fouta'graefik
+عکاسی, (مربوط به) عکس ۲. [حانظه] خیلی
+دقیق, خیلی خوب؛ تصویری
+0 از نظر / 7 ۵ / photographically
+عکاسی, به Bld عکاسی, از 3b عکاسی
+photographic memory / fostagrafik 'memari/
+7 حافظةٌ تصویری, حافظةٌ بصری
+n عکاسی؛ تصو یر پردازی photography /fstografi/
+عکاسی black and white photography
+سیاه و سفید
+عکاسی ر نگی colour photography
+عکاسی فیلم, عکاسی صحنه؛ still photography
+عکاسی
+n لیتوگرافی / و ان‌دان / photolithography
+نوری, لیتوگرافی
+(Sui) mn فوتون» کوانتوم نوری» photon /favton/
+نورپار
+photo opportunity /'favtos ppatjuinatr,
+7 فرصت عکس‌برداری / (US) ppatu:natt
+photosensitise/ favtou'sensitarz/
+photosensitize =
+ad حسّاس 4 / photosensitive / fastou'sensativ
+نور» حسّاس
+کاغذٍ عکاسی photosensitive paper
+wv (به نور) / تس ات1۳ ات وت ره ۹۵۱
+elie کردن
+ام photostat/fauostat/ ( prp photostatting,
+a ۱.(نیز با حرف بزرگ) فنوکپی؛ photostatted)
+دستگاه فتوکیی
+۲.(مربوط به) فتوکپی
+۷ ۳ فتوکپی گرفتن از, فتوکپی کردن
+a (گیاه‌شناسی) / ود گنه / photosynthesis
+فتوسنتز, نورساخت. کرین‌گیری
+photosynthesise/ fostav'smbasarz /
+photosynthesize =
+ir= see I= sit = cat a:= father  bp=got oi=s:
+=go ar = five au = now o1=boy 13 تاه el = say
+ava = hour j=yes w= wel tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+5 phut
+photosynthesize/ fostos'sinfasarz /
+(گیاه‌شناسی) [آب. دی‌اکسید کرین ] فتوسنتز کردن. vr
+گرفتن
+photosynthetic/ (مربوط به)  / 020 دنداد adj
+فتوسنتزء نورساختی» (مربوط به) کرین‌گیری
+phrasal /'freizl/ (دستور) گروهی adj
+a phrasal verb گروه‌واژی؛ Jes گروهی, Jo
+مرکب Je
+phrase /freiz/ ۱.(دستور) گروه؛ عبارت #
+عبارت. اصطلاح, گفته. تعبیر ۳. شيوةٌ بیان» طرز ۲
+جمله She سبْک, بیان ۴.(موسیقی) Ole
+به بیان دراوردن» بیان کردن» تعبیر کردن, به .۵ ۶
+.۶ الفاظ ریختن Ss در Gash عبارت
+(موسیقی) عبارت‌بندی کردن, جمله‌بندی کردن
+an adjectival phrase گروه وصفی. گروه صفتی
+an adverbial phrase گروو قیدی
+a nominal / noun phrase گروه اسمی
+a prepositional phrase (Holey گر
+اضافه‌ای os > گروو
+a proverbial phrase ضرب‌المثل (
+a verbal / verb phrase فعلی 0s 8
+coin a phrase — coin
+turn a phrase (opis حرف خود )1( خوب (
+عبارت‌پردازی کردن, لفظ پردازی کردن
+a turn of phrase لفظ پردازی, عبارت‌پردازی؛
+بیان بیان Km
+phrase-book/freiz buk/  تاحالطصا ) (کتاپ n
+روزمره» فرهنگي عبارات» عبارت‌نامه
+phraseology / ۶02 بیان / بدلداد sad بیان 7
+بیان؛ نگارش؛ جمله‌بندی, عبارت پردازی؛ JO
+انشا؛ تقریر Sa نگارش, Gl
+phrasing /'frerziy / ۱.(موسیقی) عبارت‌بندی؛ 2
+بیان؛ نگارش؛ JER جمله‌بندی ۲. بیان؛ شیوهٌ بیان
+نگارش؛ سبْک. Gl جمله‌بندی, عبارت‌پردازی؛
+انشا؛ تقریر
+phrenetic /froneuk / = frenetic
+phrenological/ frenalndsikl /  .یتخانش‌همجمج ad)
+مربوط 4( جمجمه‌شناسی (
+phrenologist/ franpladist / جمجمه‌شناس 7
+phrenology / franpladat / جمجمه‌شناسی n
+phut /fat/
+go phut محاوره)۱. [لوازم برقی و غیره ] زرت... ( adv
+شدن ۲. [شرکت. برنامه و غیره ] ضایع [FORT JO
+شدن, خراب شدن؛ درب وداغون شدن, زرتِ... قمصور
+خوانده شدن ... PEE شدن,
+۷  y=cook Ui=too A=cup 3=bird a= about
+= near ¢5= hair U2 = pure era = player ara = fire
+0 = thin d= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1245 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: phyla; phylum; physical; physicality; physically; physicist; physiCS; physio; physiognomy; physiological; physiologically; physiologist; physiotherapist; physiotherapy; pi lpa; pianissimO; pianist; piano; piano-accordion; pianoforte; pianola; piaster; piastre; piazza; pibroch; pic; pica; picador; picaresque; piccaninny; piccolo; pick -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+phyla 12
+of phylum ام phyla /'farla/
+72 (در رده‌بندي گیاهان , phylum /fatlom/ (pl phyla)
+جانوزآن) سلشله, axle
+۱. جسمانی, مادّی ۲. جسمی» physical /'fizikl/
+بدنی, ( مربوط به) بدن ۳.شخصی, فیزیکی ۴.
+(sls عینی ۵. طبیعی ۶ مربوط به) فیزیک.
+فیزیکی ۷.(محاوره) خشن
+7 ۸.(محاوره) معاینه پزشکی
+تربیت‌بدنی, ورزش physical education
+ورزش physical cxercise
+ily 5 53) محاوره) ژیمناستیک؛ physical jerks
+نرمش؛ ورزش
+حضور شخصی physical presence
+جغرافیای طبیعی physical geography
+Ak طبیعی a physical map
+شیمی فیزیک physical chemistry
+(علم) فیزیک physical science
+به و متوسل شدن get physical
+n ویژگی‌های جسمانی؛ physicality / fizrkeloti/
+ویژگی‌های فیزیکی, Sk فیزیکی, کیفیتِ مادی
+der NV adv به Bd جسمی. physically /fizikii/
+از لحاظ بدٍنی ۲ از Ld طبیعی ۳ واقعی» عینی ¥
+(محاوره) IS کاملا ۵.(کینه) داتا, اساسا
+کسی را موردٍ حملةٌ بدنی attack sb physically
+قرار دادن
+معلول جسمی physically handicapped
+ET PE SO حکیم physician /fizifn/
+۸ فیزیکدان physicist /fizisist/
+۸ (علم) فیزیک physics /'fiziks/
+Said هسته‌ای nuclear physics
+۸ (محاوره) physio /'fizias / ( pl physios)
+فیزیو تراپیست
+(US) -'ognavmi/ ,تخد 2 physioghomy/
+1 (رسمی) add) چهره, سیما ۲.قیافه‌شناسی, (ple)
+فراست ۳ عوارض طبیعی
+bys) adi به) ۳
+فیزیولوژی, فیزیولوژیایی» فیزیولوژیکی, تنکرد-
+شناختی
+0 به لحاظ اناد ان سا مزال ها ره اوه
+فیزیولوژی, به لحاظ تنکردشناسی
+۸ فیزیولوژی‌دان, physiologist/ fizi'bladsist/
+متخصّص فیزیولوژی, تنکردشناس
+۱.(علم) فیزیولوژی.  physiology / fizinladsi/
+وظایف‌الاعضاء تنکردشناسی ۲. فیزیولوژی بدن:
+کار اندام‌ها
+physiotherapist/ fiziov0erapist / aaa n
+فیزیوتراپی» cml 5d فیزیک‌درمان‌گر
+
+<!-- REGION: RIGHT COLUMN -->
+
+6
+physiotherapy / fiziau8eropr / (sis md ۸
+فیزیک‌درمانی
+7 هیکل, بدن, physique /fizik/ lar
+بدن‌سازی کردن build up one's physique
+72 ۱. پی (- شانزدهمین حرف الفبای یونانی) pi /pav
+۲ (هندسه) عدد پی
+4 (دوسیقی ) خیلی ملایم, pianissimo /pronismoy/
+بسیار ارام خیلی نرم » پیانیسیمو
+SVE INI: پیانو» پیانیست pianist /pranist/
+piano’ /prensu/ ( p/ pianos) sla ۸
+پیانوی رویال, پیانوی کنسرت a grand piano
+پیانوی دیواری an upright piano
+44 (موسیقی) (wha آرام, نرم piano? /'pja:nas/
+n آکوردئون piano-accordion/pranas Skadran/
+(US) pranaforrt, -ter/ ناد :0 / pianoforte
+(رسمی) Sly
+2 (موسیقی, نیز با حرف بزرگ) پیانو pianola /panavla/ NY
+piaster /prazsia(r)/ (US) = piastre
+a غٌروش (- واحدٍ پول در پرخی  PIastre /prasio(r)/
+کشورهای عربی)
+میدان. بازار دام piazza /prztsa, (US)
+پیب‌راک (- آهنگی که با نی‌انبان  /01:070/ pibroch
+نواخته می‌شود)
+(محاوره) تصویرء عکس pic /pik/
+a پیکا (< واحدی برای اندازه‌گيري حروف pica /'paika/
+در چاپ)
+: گاوباز( سوار)» پیکادور / :0۱6200۲
+77 [داستان, رمان ] | picaresque/ prka'resk
+( مربوط به) قلاشان, به Siw مقامه. مقامه‌وار
+۸ ترشی پیکالی‌لی ام
+۸ (کهنه. برای piccaninny / pikamuns, ‘prkontnr/ (ns
+غلام سیاه
+۸ (ساز) پیکولو  piccolo /'pikalas/ (pl piccolos)
+۸ ۱ انتخاب, گزینش؛ حقي انتخاب pick’ /pik/
+۲. بسهترین» بسهترین‌ها, گلچین, سرگل, نخبه.
+mt 8
+هرکدام را می‌خواهی بردار. Take your pick.
+به oe خودت انتخاب کن.
+محصول سر بار, چین اول the pick of the crop
+( محاوره) the pick of the bunch ۳ KY
+SUSAN 2 ۲.(موسیقی) زخمه, مضراب  PICK? /ptk/
+wr ۱.انتخاب pick? /pik/ OXF pens S
+دستچین کردن ۲. [گل, سبزی ] چیدن, کندن ۳ تمیز
+کردن»ء پاک کردن؛ BK] تار مو ] ttle podem |
+[آشغال و غیره] جمع کردن, برداشتن ۴. [قفل ] osm)
+کلید) باز کردن, شکستن, بریدن ۵.کندن,
+درآوردن ۶ در موردٍ پرنده) [دانه و [opt نوک زدن بهء
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1246 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pick sb; pick up the pieces; pick-a-back; pickaninny; pickax; pickaxe; picked; picker -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+ورچیدن ۷.(موسیقی) مضراب زدن a زخمه زدن به
+۸ [پرنده ] پر ...را کندن
+wi 8 دزدی کردن SUS Ne زدن
+(محاوره) کلی پول 0315 pick up the bill / tab
+Js زیادی دادن پول دادن
+بهترین مسیر را انتخاب کردن. pick one's way
+با احتیاط رفتن
+دعوا راه انداختن pick a fight / quarrel (with)
+HL) لج... را درآوردن
+۱ اسبدوانی) یک اسب برنده را pick a winner
+انتخاب کردن ۲ انتخاب درستی کردن؛ (به GE ed به
+سر خود زدن, انتخاب محشری کردن
+have a bone to pick with sb — bone
+pick the meat from a bone; pick the bone
+[انسان. حیوان ] استخوان را پاک کردن
+( محاوره) از کسی کمک فکری pick sb's brains
+گرفتن, نظرٍ کسی را خواستن
+pick sb/ sth to pieces — piece’
+جیپ کسی pick sb's pocket oh
+انگشت توی دماغ خود کردن pick one's nose
+gla خود را خلال کردن pick one's teeth
+سوراخ کرّدن pick a hole
+از چیزی عیب گرفتن. pick holes in sth
+از چیزی عیب و ایراد گرفتن, از چیزی عیبجویی کردن
+وسواس به خرج pick and choose ols
+سلیقه به خرج دادن
+لا ۱. [غذا] نوک زدن pick at sth / sb a
+بازی کردن باء با بی‌میلی خوردن ۲. (در آمریکا)
+aly کردن Ay کردن به
+۱. [رنگ ] کندن؛ [گُل ] چجیدن  pick sb/sthoff
+۲ با تیر (Os) هدف قرار دادن
+wr ۱. پیله کردن cas بند کردن به.  pick on sb /sth
+گیر دادن به ۲. به 03,5 ERR
+I was picked on to announce the bad news.
+قرعه به نام من افتاد که خبر بد را بدهم.
+روی نکته‌ای دست / انگشت pick on a point
+گذاشتن
+۱. دستچین کردن, برگزیدن» pick sb/sthout
+| انتخاب کردن ۲. تشخیص Dols بازشناختن.
+| پیدا کردن؛ برجسته کردن ۳ [ST] درآوردن؛
+ٍ پیدا کردن ۴. کشف کردن» پیدا 05,8( یافتن؛
+۱ شناختن
+۷۸ [سبزیجات. حبوبات و غیره ] pick sth over
+پاک کردن؛ [لباس و غیره] خوب و بل ...را از هم
+جداکردن, خوب‌های ...را از بدها جدا کردن,
+و ii=see 1=sit m=cat 0 200 D=got
+cl=say au=go ar=five av=now 1=boy 1
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+y7 picker
+| سوا کردن؛ [میوه و غیره] دستچین 03,8« سوا
+| کردن, جدا کردن
+pick (sb / sth) up بودافتین؛ (pny 51) NW
+بلند کردن؛ [لباس و غیره] جمع کردن ۳. رفتن و
+گرفتن؛ گرفتن ۳. [مسافر ] سوار کردن؛ [شخص ] با
+.۴ ماشین دنبال ... رفتن؛ با ماشین دنبال .:. آمدن
+[دختر و غیره ] بلند 03,8 تور کردن, به تور زدن
+به دست آوردن., گیر آوردن» به چنگ آوردن. .۵
+] شانسی ) پیدا کردن؛ خریدن» گرفتن ۶. [زبان (
+۷ یاد گرفتن» آموختن؛ [لهجه. عادت ] پیدا کردن
+03,51 [خبر و غیره] (اتفاقی ) شنیدن؛ به دست
+پیدا کردن؛ جمع کردن ۸. (رادیی تلویزیون) [ایستگاه,
+رادار) ردیابی dio برنامه ] پیدا کردن؛ گرفتن؛ (روی
+.۱۰ (دریانوردی) نجات دادن .٩ پیدا کردن «0s 8
+.۱۱ [مجرم ] دستگیر کردن. گرفتن. جلب کردن
+سرحال AY سرزنش کردن, سرکوفت زدن
+آوردن, حال ... را جا آوردن ۱۳. [بیماری ] گرفتن
+پیدا کردن AY
+[کسب و کار و غیره ] رونق گرفتن؛ [هوا و غیره] NO wi
+بهتر شدن؛ [بیمار ] رو به بهبود گذاشتن, بهتر (
+شدن ۱۶. [اتومبیل ] سرعت گرفتن ۱۷. از سر
+گرفتن. ادامه دادن
+pick up with sb (به طعنه) قاتی شدن با
+pick oneself up بلند شدن, پا شدن
+pick up a cold سرما خوردن
+pick up courage دل و جرئت پیدا کردن
+pick up the gauntlet — gauntiet
+pick up the pieces/ threads جمع و جور (1, 555)
+کردن, به حال خود برگشتن, وضع خود راسر و سامان
+دادن, سر نخ را به دست اوردن
+pick up speed سرعت گرفتن, تندتر رفتن
+pick-a-back / ۱.روی شانه. / اهامای 0
+روی پشت. روی کول
+کولی Js سواری روی .۲ 1
+carry sb pick-a-back کسی را کول کردن.
+کسی را روی شانه بردن
+give sb a pick-a-back را کول کردن, oS
+کسی را روی شانه بردن
+010۵۱۳۵۷ / ای 01۵۲/۳ ۱
+pickax /'pikaks/ (US) = pickaxe
+pickaxe /pikaks/ کلنگ ۸
+picked /pikt/ [افراد ] دستچین» گزیده ad)
+picker /'pika(r) / (درترکیب) -چین» -جممع‌کنی 7
+an orange-picker (دستگاه) پرتقال‌چین,
+(دستگاه) پرتقال‌جمع‌کنی
+۷  u=cook 05100 A=cup %=bird a= about
+- near ea = hair U3 = pure ela = player ais = fire
+0= thin 8 = this [= shoe 3= vision = sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1247 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: picket; picketing; pickiness; pickings; pickle; pickpocket; picky; pick-your-own; p lcn le; picnicker; picric acid; pictograph; pictorial; pictorially; plcture-card; picturegoer; picture postcard; picture-postcard -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+picket 12¢
+۱۶ مأمور اعتصاب, پاسدار اعتصاب, picket /pikit/
+اعتصاب پا؛ (در (par اعتصاب‌کنندگان, اعتصابیون ۲.
+مأمورء نگسهبان؛ (نسظامی) دیسده‌بان, دیسده‌ور؛
+پیش قراول ۳. [حصار. پرچین و غیره ] تیر» تیرک؛ (برای
+Gm اسب) میج چوبی .
+fw پاسدار اعتصاب گذاشتن در مامور اعتصاب
+گذاشتن در ۵. پاسداری اعتصاب کردن ( در)؛
+[اعتصاب ] پاییدن ۶. به دیده‌بانی گماشتن.» کشیک
+گذاشتن ۷. حصار کشیدن دورء نرده کشیدن PTE
+پرچین کشیدن 29° محصور کردن
+4 ۸.پاسدار اعتصاب شدن, از اعتصاب مراقبت کردن
+the picket line oll in
+تیر پرچین a picket fence
+n اعتصاب‌پایی, / picketing /'pikitiy
+مأمورٍ اعتصاب بودن
+n ایرادگیری, vg بودن. / pickiness /‘pikinis
+مشکل‌پسندی
+pl ۱. سود منفعت؛ حق و pickings /pikipz/ «hus
+انعام ۲. [غذا] ته‌مانده, پس‌مانده ۱
+پول مفت. پول باداورده easy pickings
+Jot حسابی؛ I حسابی rich pickings
+A 1 ترشی؛ شور؛ (در جمع) ترشیجات PICKI® /pikl/
+۲ (برای ترشی يا شور) سرکه؛ آب‌نمک ۳ (در Mey
+محاوره) [بچَه ] اتشپاره. وروجک
+۷ ۴. ترشی انداختن؛ شور انداختن
+5s) آمزیکا )۷ب( بای ) pickle in the middle
+دست‌رشته ۲. Sh EN معرکه
+ترشي کلم؛ کلم‌شور : pickled cauliflower
+be in a (sad / sorry / nice / pretty) pickle
+تو هچل افتادن, دست و پای (کسی) تو پوستِ گردو
+بودن, بدجوری گرفتار شدن
+1 (محاوره) پاتیل» pickled /pikald/  لقعیال Ge
+7 (محاوره) شربتِ تقویتی؛ pick-me-up /'pik m1 ap/
+یک پیک (مشروب)
+Nl جیب‌بر / pickpocket /‘pikpokit
+12 ۱. (محاوره, به طعنه) ]005 مرد ] شکار pick-up /pik ap/
+۲ [گرامافون ] Kem آپ, بازو ۳ وانت ۴.(در Mal
+اتوسیل) شتاب ۵. جمع‌آوری» گردآوری ۶. افزایش,
+ترقی, بهبود
+۸ وانت pick-up 1۳64/0: ap trak/
+picky /'piki/ (comp pickier, super pickiest)
+(در آمریکا, محاوره, به طعنه) bE 3 نق‌نقو ایرادگیر,
+مشکل پسند
+pik jour ‘aun, (US) juor/ 0۱
+ogee] adf و [ope از سرٍ خرمن, از سر درخت. از سر
+A سرخرمنی
+picnic/piknik / ( prp picnicking, pt, pp picnicked)
+
+<!-- REGION: RIGHT COLUMN -->
+
+8
+2 ۱.(در بریتانیا) غذای پیک‌نیکی ۲ پیک‌نیک
+۳ پیک‌نیک رفتن
+( محاوره) کار سختی بودن, کار آسانی be no picnic
+نبودن, کار هر کسی نبودن
+کسی که به پیک‌نیک / picnicker /piknika(r)
+a] یکی یکی
+dad ۸ پیکریک. picric acid / pikrik 'zsid/
+رای eh
+pictograph /pikigra:f, (US) -graf/ (Ls) 7
+تصویرنگار
+4 ۱. مصوّرء تصویری؛ Se دار / pictorial /piktoinat
+Ao Y nn مصوّر؛ kali, مصوّر
+0 به صورتِ las 1 0۱۵1۵۲۵۷۱۷
+در تصویر
+tp gal A ۸ نقاشی. طرح؛ / picture /'piktfa(r)
+lL عکس؛ چهره. پرتره ۲. ald ge جلوهٌ
+زیبایی؛ Gem تماشایی. چیز دیدنی ۳.(مجازی)
+تصویرء» توصیف؛ شرح ۴. pad ذهنی» تصوّر ۵.
+(تلویزیون) تصویر؛ کیفیتِ تصویر ۶.(سینما) فیلم ۷.
+(در جمع) سینما A وضع. وضعیت, موقعیت, اوضاع
+٩.(در NEE خود) مجسم کردن. تصور کردن AN
+تصوير ...را کشیدن؛ [منظره ] کشیدن, نقاشی کردن؛
+عکس ...را گرفتن. عکس...را انداختن ۱۱. توصیف
+کردن, ترسیم کردن» تصویر کردن
+oS پدرش است. He is the picture of his father.
+عینهو پدرش است.
+اسلامتی: شنادی 5 be the picture of sth [ond
+مظهر ... بودن, has ... بودن
+pretty as a picture — pretty
+Lal, زیبا بودن be a picture
+در جریان بودن, مطلع بودن be in the picture
+(محاوره) فهمیدن, متوجه شدن, get the picture
+دستگیرِ (کسی) (mS) Jo gad شدن
+مطرح نیست.  It doesn't enter into the picture.
+مربوط نیست.
+کسی را در جریان گذاشتن,  put sb in the picture
+کسی Ws, مطلع کردن, اطلاعاتٍ لازم را در اختیار
+کسی گذاشتن
+کتاب مصوّر, buk/ دا / picture-book
+US کودکان
+n (بازي ورق) صورت ka:d/ ۳0:۷۱/۵/ 01010۲6-02۲0
+1 نمایشگاء نقاشی, picture-gallery /piktfs galont/
+گالری, نگارخانه |
+آدم سینمارو / مس هت ادا
+ادم Ja! سینما؛ 95 )5 سینما |
+1 کارت پستال picture postcard / pikt/a pavstka:d/
+picture-postcard/ pikt/a ‘paustka:d/
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1248 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: picture window; piddle; pidgin -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12¢
+[hn] adj | تماشایی. زیباء Je کارت پستال, مثل تابلو
+| ۸ چوب آویز تابلو picture rail /'pikts reil/
+adj ۱ خوش‌منظره, انس picturesque / pik
+| تماشایی» ud زیباء دل‌انگیز, جذاب ۲. [زبان ]
+| زنده؛ روشن, صریح, گویا ۳. [شخص. ظاهر ] عجیب
+و غریب, نامتعارف
+ad | به صورتی بدیع, ند خی داد picturesquely/
+به طرزی زیباء به نحوی جذاب ۲.به صورتی گویاء  "
+به طرزی روشن
+picturesqueness/ pikt/aresknis /
+۸ ۱. تصویرپردازی ۲. خوش‌منظرگی. زیبایی» بدیع بودن
+2 پنجرهٌ قدی ۰ picture window /'pikt[s windau/
+vi ۱.(محاوره) شاشیدن, شاش کردن piddle /pudi/
+XY 7 (محاوره) شاش
+4 (محاوره, به طعنه) بی‌اهمیت. / وتا / piddling
+جزئی؛ پیش‌پاافتاده؛ ناچیز», کوچک, کم. اندک؛
+بی‌قابلیت. ناقایل
+7 (زبان‌شناسی) پی‌جین» زبان Pidgin /pidsin/ ase]
+A انگلیسی پی‌جین pidgin English
+۲ انگلیسی دست‌وپاشکسته
+n (شیرینی) پای pie /par/
+have a finger in every pie — finger
+easy as pie + easy
+eat humble pie —> eat
+( محاوره) آرزوی als خیال خام؛  piein the sky
+حرف مفت :
+4 ۱. پیسه. سیاه و سفید؛ [اسب] piebald /pabaid/
+ابلق
+۸ ۲. اسب ابلق
+Nn قطعه, 5( بخش, پاره. piece’ /pi:s/
+قسمت, sd ¥ قطعه, تکّه. ذره. خرده؛ [نان, کیک و
+غیره ] برش؛ [زمین ] پارچه. قواره؛ [کاغذ ] (Bos
+برگه؛ [ پارچه و غیره ] طاقه. توپ؛ [کاغذ دیواری ] لوله؛
+[شطرنج ] مهره ۳ قلم, فقره» قطعه؛ مورد. نمونه ۴.
+تک قطعه, بخش ۵. [سوسیقی, [at قطعه؛
+[روزنامه و غیره ] مقاله, نوشته, مطلب ۶. سکه ۷.(کهند.
+محاوره, به طعنه. در موردٍ زن یا دختر) AST لعبت A (کهنه.
+در ترکیب) تفنگ؛ تسوپ 8 )33 آمریکا, محاوره, درمورو
+فاصله) wd > lade کم ۰ دانه, عدد
+bits and pieces —> bit?
+تکّه‌تکّه شدن, قطعه‌قطعه شدن؛ come to pieces
+داغون شدن, لت و پار شدن. اوراق شدن, خرد و خاکشیر
+شدن
+[شخص ] از پا go (all) to pieces ol
+درب و داغون شدن
+و a=father D-got هه 1-sit 0و
+=go al = five ay = now a1 =boy 1 اه el = say
+aus = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+9 piece
+in pieces تکه‌تکه, قطعه‌قطعه
+in one piece [شخص [ صحیح و سالم
+(all) of a piece ۷۷۱۸ از یک جنس باء از یک سنخ باء
+همخوان باء همگن با
+The new measures are all of a piece with the
+government's policy. تصمیماتِ جدید با سیاستِ
+li دولت می‌خواند / جور
+pick / pull / tear sb to pieces = پشتِ سر
+کسی را زدن, از کسی خرده گرفتن, از Ay حرف زدن,
+کسی بدگویی کردن
+pick / pull / tear sth to pieces از چیزی عیبجویی
+کردن, از چیزی انتقاد کردن, از چیزی بد گفتن
+pick up the pieces — pick 3
+piece by piece 3&5 قطعه‌قطعه, تکه به 185485
+pull / take sth to pieces چیزی را تکه‌تکد کردن.
+چیزی را قطعه‌قطعه کردن؛ چیزی را داغون کردن, جیزی
+را لت و پار کردن؛ چیزی را اوراق کردن, چیزی را خرد
+و خاکشیر کردن
+take a piece out of sb کسی را کوشملالی دادن.
+Soi
+get a piece of the action — action
+give sb a piece of one's mind خود A محاوره) (
+خود را به کسی Jo را رک و راست به کسی گفتن, حرف
+گفتن
+a nasty piece of work —> nasty
+a piece of cake محاوره) کار راحت. کار آسان (
+The exam was a piece of cake. ’
+امتحان مثل آب خوردن بود. امتحان خیلی راحت بود.
+a piece of good luck یک شانس Buse ol
+خوب
+a piece of goods — goods
+a picce of useful advice مفیدی dao
+a piece of useful information اطلاع خوبی
+the villain of the piece — villain
+say one's piece — say
+a three-piece suite Joo مبلمان سه‌تگه, نیم دست
+a 50-piece orchestra ارکستر پنجاه‌نفره
+two picces of sculpture دو( تا( مجسمه
+a five-cent 04 پنج سنتی ne
+a fowling-picce ok, پرنده‌زنی, تفنگی شکار Kis
+His house is over there a picce. خانه‌اش یک
+ad خرده آن طرف‌تر است. خانه‌اش کمی آن طرف‌تر
+piece? اونام/
+| piece sth together پهلوی هم چیدد. NV
+هم LOS پهلوی هم گذاشتن, به هم وصل
+Ww U-cook 00 100 A=cup دنو 0100 a= about
+= near eo = hair U3 = pure ero = player aro = fire
+6= thin &= this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1249 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: piecemeal; pieces de resistance; piece-worker; pie chart; pie-crust; pied; pled-a-terre; pie-eyed; pier; pierce; piercing; piercingly; pierrot; pierced; pieta; piezo-electric; pig; pigeon; a carrier-; pigeon-breasted; pigeon-chested -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+piéce de résistance 12
+جور کردن. به هم ربط O15 روی هم سوار
+plans] YO 8 واقعیت و [of استخراج OS
+بیرون کشیدن., دراوردن. بازسازی 03,5
+piece de ۲69191306 / pjes do ۲۵۶۵۱۵:۳۹, (US)
+۱.شاهکار rezi'stacns/ ( pl pices de résistance)
+JS سرسبد ¥ غذای اصلی
+Nady 455455( قطعه‌قطعه. piecemeal /'pi:smi:l/
+خرده خر ده؛ کم‌کم. به تدریج, تدریجی
+4 ۲. تکه‌نکه. قطعه قطعه
+pieces de résistance piss da rezista:ns, (US)
+reziz'stamns/ pl of piéce de resistance
+: کار کارمزدی, piece work /'pi:s wak/
+کار مقاطعه‌ای
+a کارگر کارمزدی, piece-worker /piss wika(r)/
+کارگر مقاطعه‌ای
+n دار دایره‌ای؛ نمودار pie 0۳۱۵۲/۶۵۲ tfa:t/
+کلوچه‌ای
+نان پای pie-crust/ par krast/
+ad) [برنده ] رنگارنگ, رنگ‌وارنگ؛ pied /paid/
+خال‌مخالی؛ سیاه و سفید؛ [اسب ] ابلق ۱
+pied-a-terre / pjerd a: 'tea(r)/ ( pl pieds-a-terre)
+آلونک. سرپناه, پناهگاه
+of pied-a-terre ام pieds-a-terre/ pjcid a: ‘tea(r)/
+ad) (محاوره) مست. پاتیل, کله‌پا  pie-eyed/pat 'md/
+n 8 اسکله Rss Sy ساحلی؛ pier /pia(r)/
+تاسیسات ساحلی ۳.ستون» پایه؛ جرز؛ شمع ۴.
+مجرّدی. دیوار oles دو پنجره
+vr ا.شکافش. سوراخ کردن؛ pierce /pras/
+فرورفتن در؛ (مجازی) [قلب ] به درد آوردن, آزردن؛
+اثر کردن در ۲.(در مورد نور و صدا) دریدن» شکافتن.
+رخنه کردن درء نفوذ کردن در؛ [گوش ] کر کردن,
+سوراخ کردن
+۸ ۳. رخنه کردن, نفوذ کردن, داخل (pal راه یافتن.
+وارد شدن
+سوراخ pierce holes SE
+adj سوراخ‌سوراخ» سوراخ دار؛ pierced /piast/
+]255[ سوراخ(شده)
+adj [صدا 5ST 2 خراش؛ تند. تیز؛ piercing /pissin/
+[نگاه ] (JBL برّا؛ [سرما, باد] برّنده, گزنده» سوزدار,
+پرسوز؛ [یاد, خاطره ] سوزناک
+0 [فریاد زدن ] به نحو 17 016۲۵19۷
+گوش‌خراشی؛ [سرد] به sb گزنده‌ای, به شدت؛
+[نگاه ] به طرز نافذی؛ sl] خاطره ] به طرز سوزناکی
+db سرد و پرسوز a piercingly cold wind
+on ۱.(نیز با pierrot ‘paras / sr (Sond
+Gait =) بانتومیم فرانسوی) ۲. SES سفید. SES
+سفیدپوش, )833 سفیدپوش
+
+<!-- REGION: RIGHT COLUMN -->
+
+0
+n مجلس مریم Jules A مریم pieta | pieta:/
+سوگوار؛ پیکرهٌ مریم سوگوار» dma مریم سوگوار
+۸ زهد. پرهیزکاری, تقواء پارسایی. piety /pasu/
+دین‌داری
+احترام a پدر / ool وظیفه‌شناسی filial piety
+نسبت به پدر /مادر, عشق به پدر / مادر
+بناد‌کانام piezo-electric / pi:zov r'lekirik,
+, 41 (فزیک) بارابرقی, پیزوالکتریکی. (US) piserzas/
+برق‌افشاری
+۸ (محاوره, به طعنه) مزخرف» چرت و پرت. 1 piffle
+حرفي مفت. دری وری» شیر وور
+add) (محاوره, (ad ny [حرف, گله ] 1 وش piffling
+صد تا یک SE بیخود. بی‌جهت. بی‌معنی, بی‌ربط؛
+Je] نبلغ ] ناچیز, ناقابل, کم؛ بی‌اهمیت
+nn ۱.خوک؛ Pig /pig/ (pip pigging, prop pigged)
+گراز ۲. گوشتِ خوک؛ گوشتِ گراز PEE
+طعنه) دم کثیف. آدم So fie کثیف Ai ( محاوره, به
+JS (ed سخت. کارٍ شاق, کارٍ گل, کار کُشنده ۵.
+(فلزکاری) شوشه ۶. چدن خام, خشک‌آهن ۷.
+we) کهنه) اژان
+buy a pig in a poke —> buy
+( محاوره) make a pig's ear (out) of sth
+[کار, طرح ] خراب کردن, ضایع کردن, افتضاح کردن در
+۱ بازی) دست‌رشته ۲. pig in the middle ols SM
+مع رکه
+خوش‌خیال باشی! خواب دیدی > Pigs might fly!
+است! اگر پشتِ گوشت را دیدی! به Go چیزهای نشنیده!
+( محاوره) مثل گاو خوردن, make a pig of oneself
+شکمی از عزا درآوردن, پرخوری کردن, پر خوردن, تا
+خرخره خوردن
+روز سختی بود. It was a pig of a day.
+روز کُشنده‌ای بود.
+7 (محاوره) Ju گاو خوردن, پر خوردن.  pig oneself
+خود را خفه کردن, تا خرخره خوردن
+مثل خوک pig it; pig together S35 SSN)
+vi (در آمریکا, عامیانه) Jaa گاو خوردن»  pigout
+حسابی خوردن
+n ۱. کبوتر» کفتر pigeon /pudsin/  رتوبک cut SY
+کبوتر نامه‌رسان a carrier- / homing-pigeon
+در عهد؛ تو است. It's/ That's your pigeon.
+به تو مربوط است. مسئولیتٍ تو است.
+the cat among the pigeons — cat ۲۳/3۸
+کبوتر چاهی. کفتر چاهی a wild pigeon
+adj [شخص [ pigeon-breasted/pidsin brestid/
+سینه‌مرغی
+pidsin ‘tfestid/ / 0960-03۵3160
+pigeon-breasted =
+
+<!-- END RECOGNIZED SOURCE TEXT -->
+
+
+<!-- PDF PAGE: 1250 -->
+
+
+<!-- UNVERIFIED ENGLISH LOOKUP HINTS: pigeon-hole; pigeon-toed; piggery; piggish; piggishly; piggishneSS; piggy; piggybaCk; piggy bank; pigheaded; pigheadedly; pigheadedness; pig-iron; piglet; pig-meat; pigment; pigmentation; pigmy; pigpen; pigskin; pigsty; pigswill; pigtail; pike; pikestaff; pilaf; pilaff; pilaster; pilau; pile -->
+
+<!-- BEGIN RECOGNIZED SOURCE TEXT -->
+
+<!-- REGION: LEFT COLUMN -->
+
+12
+۸ ا۱.لانة کبوتر pigeon-hole /'pidsin haul/
+۲ در میز و غیره) کشو, قفسه, خانه؛ (روی دیوار) جعبد.
+صندوق ۳.(مجازی) رده دسته, طبقه
+vr ۴. به بایگانی (G55 مسکوت گذاشی در Dim
+CRITE: {SLA CO CIC KT SCA J
+فراموشی سپردن 0 طبقه‌بندی کردن» رده‌بندی
+کردن, در did مشخصی جای دادن
+pigeon-toed/pidsim tovd/  یربنچاپ [Lani] adj
+a ۱. خوک داری: ۲. خوک‌دانی piggery /'pigari/
+۳ (به طعنه) خوک صفتی» خوک‌منشی
+ad) ۱.خوک‌صفت., خوک‌منش. 1[ piggish
+Jr خوک ۲.کثیف. ناپاک؛ حریص؛ پرخور
+0 ۱. خوک‌منشانه, wlio Sea /:۱/:و:م/ piggishly
+Je خوک LY حرص, با آز؛ با ولع
+Nn ۱. خوک‌منشی. 1 / piggishness
+خوک‌صفتی ۲. حرص., ول ؛ ناپاکی؛ پرخوری
+۱.(محاوره) بچّه خوک, خوک‌بجّه  Piggy /pigt/
+XY adj (محاوره) مثل خوک., شکل خوک. خوک‌مانند
+۱ بازی) piggy in the middle ۱ Ea
+۲ بلاگردان معرکه
+adv ۱. روی All روی پشت. piggyback /pigibek/
+روی کول
+۸ ار سواری روی JS کولی
+piggy bank /pigt begk/ Sls pn
+adj کله‌خر, لجباز, یکدند» pigheaded/pighedid/
+کله‌شق
+0 با کله‌خری, با لجبازی, pigheadedly/pighedidit/
+با یکدندگی, با کله‌شقی
+کله‌خری. / pigheadedness/ pighedidnis
+کله‌شقی؛ یکدندگی, لجبازی
+n چدن pig-iron /'p1g aan, (US) arorn/ es
+Ses اهن
+(Sead ۸ خوک‌بجّه piglet /pigiat/
+گوشتِ خوک؛ گوشتِ گراز pig-meat /pig mit/
+7 ۱.مادة رنگی, رنگ مایق pigment /'pigmont/
+رنگیزه ۲. رنگ‌دانه. رنگیزه
+22 (در پوست و مو) ات ات اه ات توت وا ۱۹۱۱۰
+۱ زنگته ۲. اختلال رنگ, تغییر نگ
+pigmy /'pigmi/ = pygmy
+pigpen /'prgpen/ (US) = pigsty
+nt چرم خوک, پوستِ خوک pigskin /prgskin/
+Nn خوکدانی pigsty /pigstar/
+۲ (محاوره) آشغال‌دونی, طویله» خوکدونی
+12 (به عنوان غذای خوک) پوستِ / 1 pigswill
+میوه؛ Just سبزی؛ ته‌ماندةٌ میوه
+D=got o:=s: اک هه ii=see 1=sit
+el = say U=go ar = five al = NOW s1=boy 12
+ava = hour j=yes w= wet tf = chain d3= jam
+
+<!-- REGION: RIGHT COLUMN -->
+
+I pile
+pigtail I'prgterl / توتون ۲.(در مورد مو) گیس؛ ALN ۸
+دم موشی؛ دم اسبی
+pike! /paik/ نیزه A
+pike? /paik/ ( pl pike) اردک‌ماهی a
+pike? /paik/ NE بریتانیا) 50) 7
+pike“ /paik/ 51,0 راه‌بند ( عوارضی)؛ on
+عوارضی
+pikestaff / کنمای‌اندم (US) -steef/ نیزه» Awd 1
+چوپ نیزه
+plain as a pikestaff — plain’ 8
+pilaf prt, pilaf, (US) -la:f/ = pilaff
+pilaff /prizf, pilaf, (US) -la:f/ پلو؛ کته
+pilaster /prlasta(n)/  امن‌نوتس (معمازی) نیم‌ستون» 72
+pilau /prlas, ‘pizlas/ = pilaff
+pilchard ۵ (ماهی) ساردین
+pile! پایه. پایه /۵:۱م/ 5 Saws (معماری) شمع. 71
+pile? /patt/ دسته ۲. (محاوره) 4S wd .۱ 1
+۳ زیادی, کلّی his dle یک خروارء» یک
+Jor ساختمان عظیم؛ ساختمان‌های عظیم
+هیزم, خرمن آتش ۵. پیل Jo مرده‌سوزان» ۱
+باتری» قوه ۶. راکتورِ هسته‌ای, را کتور (Kes)
+Cog اتمی ۷ (محاوره)
+the bottom of the pile  )هریغ محاوره, در جامعه و (
+پایین‌پایین‌هاء ته خط
+the top of the pile محاوره. در جامعه و غیره) (
+بالابالاها, بالای خط, سر خط
+make a pile RINE کلانی Js, محاوره) (
+کلانی به جیب زدنء ثروتی به هم زدن Jy
+make one's pile محاوره) بار خود را بستن, (
+cmt زا 5b Soy
+piled /pail/ توده 5 555.05( هم «03S ASN wu
+ریختن. تلنبار کردن ۲ دسته کردن. جمع کردن.
+انباشتن, ریختن
+pile sth with جیزی را پر OV چیزی را انباشتن
+کردن از» چیزی را مملو ساختن از
+pile in ریختن تو چپیدن تو VE
+pile (sth) into sth... ا۱. توی ... ریختن» توی 4
+چپاندن ۲. توی ... ریختن» توی ... چپیدن
+pile sth on
+pile it on کلاغ چهل S08 محاوره) اغراق ( vt
+کلاغ کردن, مبالفه کردن
+pile on the agony محاوره) ۱. روغن‌داغش را (
+زیاد کردن, لفت و لعاب دادن, نعناع‌داغش را زیاد کردن
+به زخم Sas (محاوره) اوضاع را خراب‌تر کردن, ۲
+پاشیدن
+۷ 05000 u:=100 A=cup z=bird o=about
+= near ¢9 = hair Ua = pure eld = player aro = fire
+6= thin 8 = this [= shoe 3= vision n= sing
+
+<!-- END RECOGNIZED SOURCE TEXT -->

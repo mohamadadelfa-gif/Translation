@@ -1,0 +1,125 @@
+{
+  "name": "Hezareh Dictionary Index",
+  "build_type": "derived dictionary lookup layer",
+  "source_files": [
+    "Hezareh_Part_01_PDF_0001-0250.md",
+    "Hezareh_Part_02_PDF_0251-0500.md",
+    "Hezareh_Part_03_PDF_0501-0750.md",
+    "Hezareh_Part_04_PDF_0751-1000.md",
+    "Hezareh_Part_05_PDF_1001-1250.md",
+    "Hezareh_Part_06_PDF_1251-1500.md",
+    "Hezareh_Part_07_PDF_1501-1750.md",
+    "Hezareh_Part_08_PDF_1751-1976.md"
+  ],
+  "source_files_sha256": {
+    "Hezareh_Part_01_PDF_0001-0250.md": "a4315cbef4204e5395ecc267c0f56765180e7413ae08b5039714096ffc4b1e2f",
+    "Hezareh_Part_02_PDF_0251-0500.md": "cfbdaa320a879280ba64d760e38032c1e8551187633d3ca27bdb7a9d11a42e98",
+    "Hezareh_Part_03_PDF_0501-0750.md": "cab332e4cdfbb67feeb30f247d0b6847703757a773cf1ed179b959d39b9c3927",
+    "Hezareh_Part_04_PDF_0751-1000.md": "627a3e02a3a557a10978667d60da3fbab342375f17df9de585841b51737d2722",
+    "Hezareh_Part_05_PDF_1001-1250.md": "8f09e22f51f12a635ddf80aeeba727ae497a0c2dcbe5cf2c6a46f3d8b64405f6",
+    "Hezareh_Part_06_PDF_1251-1500.md": "6d8dc33129ae90ea3f572b7b45cebb0406e6666a6840ff98abaf4f9c15c3a6a3",
+    "Hezareh_Part_07_PDF_1501-1750.md": "e40774ea5ee8cccda2c7aad646de35aabd0010edc4b0d69b71914874112dceb5",
+    "Hezareh_Part_08_PDF_1751-1976.md": "df667b4fea77109981cb0c5e9ad950bd2919c7288e3ea1557a1c4527f833e0d7"
+  },
+  "canonical_pdf_pages": 1976,
+  "boundary_duplicate_pages_skipped_in_index": 7,
+  "records_total": 38957,
+  "checked_entries": 174,
+  "checked_phrases": 12,
+  "raw_records_high_boundary_confidence": 17747,
+  "raw_records_medium_boundary_confidence": 13719,
+  "raw_records_low_boundary_confidence": 2658,
+  "raw_hint_only_records": 4647,
+  "lookup_hints_total": 38771,
+  "index_files": {
+    "jsonl": "hezareh_dictionary.jsonl",
+    "pages_jsonl": "hezareh_pages.jsonl",
+    "sqlite": "hezareh_dictionary.sqlite",
+    "lookup_script": "hezareh_lookup.py"
+  },
+  "quick_tests": {
+    "maximum": [
+      {
+        "headword": "maximum",
+        "status": "visually_checked",
+        "boundary": "high",
+        "pdf_page": 1017,
+        "source_pointer": "source/Hezareh_Part_05_PDF_1001-1250.md#L2106-L2116"
+      }
+    ],
+    "manner": [
+      {
+        "headword": "manner",
+        "status": "raw_ocr",
+        "boundary": "medium",
+        "pdf_page": 1000,
+        "source_pointer": "source/Hezareh_Part_04_PDF_0751-1000.md#L28496-L28538"
+      }
+    ],
+    "mannerism": [
+      {
+        "headword": "mannerism",
+        "status": "raw_ocr",
+        "boundary": "high",
+        "pdf_page": 1000,
+        "source_pointer": "source/Hezareh_Part_04_PDF_0751-1000.md#L28539-L28546"
+      }
+    ],
+    "reprehensible": [
+      {
+        "headword": "reprehensible",
+        "status": "visually_checked",
+        "boundary": "high",
+        "pdf_page": 1414,
+        "source_pointer": "source/Hezareh_Part_06_PDF_1251-1500.md#L18908-L18910"
+      },
+      {
+        "headword": "reprehensible",
+        "status": "raw_ocr",
+        "boundary": "low",
+        "pdf_page": 1414,
+        "source_pointer": "source/Hezareh_Part_06_PDF_1251-1500.md#L19007-L19027"
+      }
+    ],
+    "thinkable": [
+      {
+        "headword": "thinkable",
+        "status": "raw_ocr",
+        "boundary": "medium",
+        "pdf_page": 1750,
+        "source_pointer": "source/Hezareh_Part_07_PDF_1501-1750.md#L29142-L29144"
+      }
+    ],
+    "may": [
+      {
+        "headword": "may (1)",
+        "status": "visually_checked",
+        "boundary": "high",
+        "pdf_page": 1017,
+        "source_pointer": "source/Hezareh_Part_05_PDF_1001-1250.md#L2117-L2147"
+      },
+      {
+        "headword": "May",
+        "status": "visually_checked",
+        "boundary": "high",
+        "pdf_page": 1018,
+        "source_pointer": "source/Hezareh_Part_05_PDF_1001-1250.md#L2316-L2318"
+      },
+      {
+        "headword": "may (2)",
+        "status": "visually_checked",
+        "boundary": "high",
+        "pdf_page": 1018,
+        "source_pointer": "source/Hezareh_Part_05_PDF_1001-1250.md#L2313-L2315"
+      },
+      {
+        "headword": "May",
+        "status": "raw_ocr",
+        "boundary": "high",
+        "pdf_page": 1018,
+        "source_pointer": "source/Hezareh_Part_05_PDF_1001-1250.md#L2430-L2430"
+      }
+    ]
+  },
+  "boundary_matching_rule": "strict lexical boundaries; substring matches such as manner→mannerism are prohibited"
+}
