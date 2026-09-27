@@ -1,45 +1,16 @@
-# \# Translation Reference Register
+# Translation Reference Register
 
-# 
+Updated 2026-09-27.
 
-# Updated 2026-09-27.
+This file defines the approved reference set and the role of each source in the English-to-Persian translation of *Revisiting Zero Hour 1945*.
 
-# 
+Files under `sources/` are treated as supplied source material and should remain unchanged during ordinary translation work.
 
-# This file defines the approved reference set and the role of each source in the English-to-Persian translation of \*Revisiting Zero Hour 1945\*.
+## 1. Primary source text
 
-# 
+### Main book
 
-# Files under `sources/` are treated as supplied source material and should remain unchanged during ordinary translation work.
-
-# 
-
-# The presence of a source in this register means that it is available and approved for the stated role. It does \*\*not\*\* mean that every entry, page, definition, OCR result, or interpretation in that source has already been checked.
-
-# 
-
-# No dictionary or reference has automatic authority over the translation.
-
-# 
-
-# The source text, context, argument, specialist meaning, Persian usage, and Adel's final decision govern the final choice.
-
-# 
-
-# \---
-
-# 
-
-# \## 1. Primary source text
-
-# 
-
-# \### Main book
-
-# 
-
-# `source/revisiting-zero-hour-1945-structured.md`
-
+`sources/revisiting-zero-hour-1945-structured.md`
 # 
 
 # This is the main structured source text for:
