@@ -1,6 +1,6 @@
 # Revisiting Zero Hour 1945 — Context and structure before translation
 
-This reading guide is based on the supplied Markdown edition. It summarizes the contributors' arguments; it is not an independent verification of every historical assertion in the volume. Chapter codes and the explanatory labels below are editorial aids. No translation has begun.
+This reading guide is based on the supplied Markdown edition. It summarizes the contributors' arguments; it is not an independent verification of every historical assertion in the volume. Chapter codes and the explanatory labels below are editorial aids. Consult [PROGRESS.md](../PROGRESS.md) for the current translation state; this guide is not a progress record.
 
 ## 1. What kind of book is this?
 
@@ -151,7 +151,7 @@ Then choose terminology across the volume while allowing for genuine differences
 
 ## 9. Source issues to track separately
 
-- The subsection “The Origins of the Term ‘Zero Hour’” in C01 was not captured as a heading by the earlier automatic heading-based map. Preserve it as part of the intellectual outline.
+- The subsection “The Origins of the Term ‘Zero Hour’” in C01 is a standalone bold title in the supplied text. The working map labels C01-S02 and C01-S03 accordingly; preserve the original title and unit IDs.
 - The German and English lines of Eich's “Latrine” in C03 are visibly interleaved in the supplied Markdown. Consult the original page before deciding on the translated verse layout.
 - C05 gives Schumacher's death as 1953 in one sentence and August 20, 1952 shortly afterward. This is an internal inconsistency to verify, not to silently normalize during translation.
 - Other apparent spelling and conversion errors should be recorded as encountered. The claim that the preparation copy preserves the source concerns textual preservation, not independent confirmation of the source's accuracy.

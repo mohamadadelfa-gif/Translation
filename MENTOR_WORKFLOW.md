@@ -8,11 +8,13 @@ The mentor has three simultaneous roles: English teacher, text analyst, and tran
 
 Adel retains final authority over every translation decision. Adel's draft and the mentor's proposal must remain distinguishable. A reviewed proposal is not final until Adel explicitly approves it.
 
+Teach at Adel's B1 English level, normally explaining in Persian. Define unfamiliar grammar terms and explain the reasoning step by step. Identify what is already correct as well as what needs correction; do not present a stylistic preference as a grammatical or semantic error.
+
 ---
 
 ## 2. Structural hierarchy
 
-The project uses four working levels:
+The project uses four working levels below the book:
 
 ```text
 Book
@@ -117,8 +119,8 @@ For each sentence or practice chunk, follow this order:
 
 ## 5. Reference system
 
-- The English source and the book's structural guides govern meaning, context, and argument.
-- Ariyanpour and Hezareh provide general English–Persian equivalents. Hezareh OCR text must be checked against the original when an entry is doubtful.
+- The English source governs meaning and argument. The derived guides in `translation-preparation/` support navigation and orientation; verify their summaries against the source rather than treating them as independent evidence.
+- Ariyanpour and Hezareh are active peers for general English–Persian equivalents. For consequential or uncertain choices, compare relevant senses in both; record any unavailable or inconclusive lookup. Hezareh OCR text must be checked against the original when an entry is doubtful and the original is available; otherwise retain the uncertainty.
 - Ashouri supports humanities and theoretical terminology.
 - The Persian thesaurus maps semantic fields and related Persian options; related words are not automatically interchangeable.
 - Najafi supports Persian usage decisions.
@@ -156,9 +158,15 @@ For relevant terms, assume the following conceptual path:
 ```text
 German historical / intellectual concept
         ↓
+Checked historical / disciplinary meaning
+        ↓
 Author's English representation
         ↓
-Persian translation
+Function in the current passage
+        ↓
+Persian candidates
+        ↓
+Adel's decision
 ```
 
 The English wording may itself already be an interpretation or translation of a German concept.
@@ -395,7 +403,10 @@ Each entry should record:
 - [source]
 - [source]
 
-**Status:**  
+**Research state:**  
+research needed / in progress / evidence checked (scope stated)
+
+**Status (translation decision):**  
 candidate / approved / reconsider / retired
 
 **Approved by Adel:**  
@@ -541,6 +552,8 @@ Each terminology entry must have one of these states:
 - **approved:** Adel explicitly accepted the equivalent for the stated sense/context.
 - **reconsider:** a previously used or approved form needs renewed examination because the sense changes or new evidence appears.
 - **retired:** an older project choice that should no longer be used, retained only for traceability.
+
+These are translation-decision states. The German concept index is a separate research backlog: `research needed` is not a fifth decision status and does not imply that a Persian candidate exists. Record research state separately when opening a concept entry; evidence checked never implies Adel's approval. Link the glossary entry and concept entry when both exist.
 
 Do not silently promote a candidate to approved.
 

@@ -10,6 +10,7 @@
 - [نقشهٔ فصل‌ها و بخش‌های ترجمه](translation-preparation/START-HERE.md)
 - [فهرست منابع تثبیت‌شده](translation-references/SOURCE-REGISTER.md)
 - [واژه‌نامهٔ پروژه](translation-references/GLOSSARY.md)
+- [بررسی مفاهیم تاریخی آلمانی](translation-references/GERMAN-CONCEPTS.md)
 - [قواعد واژه‌گزینی](translation-references/WORD-CHOICE-POLICY.md)
 
 ## ساختار کار
@@ -40,7 +41,7 @@ C00
 | --- | --- |
 | `sources/` | نسخهٔ مرجع و تغییرناپذیرِ منابع بارگذاری‌شده؛ فقط برای مطالعه |
 | `translation-preparation/` | لایهٔ کاریِ مشتق‌شده: ساختار کتاب، فصل‌ها، واحدها و راهنمای مطالعه |
-| `translation-references/` | قواعد منابع و واژه‌گزینی، واژه‌نامهٔ پروژه و واژه‌نامهٔ استخراج‌شدهٔ آریان‌پور |
+| `translation-references/` | قواعد منابع و واژه‌گزینی، تصمیم‌های واژه‌نامه، پژوهش مفاهیم آلمانی و واژه‌نامهٔ استخراج‌شدهٔ آریان‌پور |
 | `drafts/` | پیش‌نویس‌های عادل، پیشنهادهای اصلاح و یادداشت جلسات |
 | `approved-translations/` | فقط ترجمه‌هایی که عادل صریحاً تأیید کرده است |
 | `tools/` | ابزارهای آماده‌سازی و استخراج؛ برای مطالعهٔ روزمره لازم نیست |

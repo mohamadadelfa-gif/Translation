@@ -62,12 +62,12 @@ May 1996
 
 - [Foreword](#foreword)
 - [About the Authors](#about-the-authors)
-- [Introduction](#introduction) — Frank Trommler
-- [German Culture at the ‘Zero Hour’](#german-culture-at-the-zero-hour) — Stephen Brockmann
-- [From Zero Hour to High Noon: The Functions of Postwar German Literature](#from-zero-hour-to-high-noon-the-functions-of-postwar-german-literature) — Thomas W. Kniesche
-- [Adorno’s Philosophy of Poetry After Auschwitz from a Postwall Perspective](#adornos-philosophy-of-poetry-after-auschwitz-from-a-postwall-perspective) — Neil H. Donahue
-- [“Where Were You 1933-1945?” The Legacy of the Nazi Past Beyond the Zero Hour](#where-were-you-1933-1945-the-legacy-of-the-nazi-past-beyond-the-zero-hour) — Sabine von Dirke
-- [Divided Memory, Multiple Restorations: West German Political Reflection on the Nazi Past, 1945-1953](#divided-memory-multiple-restorations-west-german-political-reflection-on-the-nazi-past-1945-1953) — Jeffrey Herf
+- [Introduction](C00.md) — Frank Trommler
+- [German Culture at the ‘Zero Hour’](C01.md) — Stephen Brockmann
+- [From Zero Hour to High Noon: The Functions of Postwar German Literature](C02.md) — Thomas W. Kniesche
+- [Adorno’s Philosophy of Poetry After Auschwitz from a Postwall Perspective](C03.md) — Neil H. Donahue
+- [“Where Were You 1933-1945?” The Legacy of the Nazi Past Beyond the Zero Hour](C04.md) — Sabine von Dirke
+- [Divided Memory, Multiple Restorations: West German Political Reflection on the Nazi Past, 1945-1953](C05.md) — Jeffrey Herf
 
 ---
 
@@ -86,4 +86,3 @@ May 1996
 **Sabine von Dirke,** Research Associate, Center for German and European Studies, Georgetown University, 1994-95; Assistant Professor of German, Germanic Languages and Literature, University of Pittsburgh, Pittsburgh, PA 15260.
 
 ---
-

@@ -61,13 +61,13 @@ Use this file for publication context and front-matter information.
 
 ### Translation map
 
-`sources/START-HERE.md`
+[Active translation map](../translation-preparation/START-HERE.md)
 
 ### Context and structure guide
 
-`sources/CONTEXT-AND-STRUCTURE.md`
+[Active context and structure guide](../translation-preparation/CONTEXT-AND-STRUCTURE.md)
 
-These are working guides for navigating the book and understanding its structure.
+These are derived working guides for navigating the book and understanding its structure. The matching files under `sources/` are immutable supplied snapshots, not current workflow instructions. Do not assume automatic synchronization between the two layers.
 
 They are **editorial and project aids**, not independent historical authorities.
 
@@ -441,6 +441,8 @@ Do not make broad claims such as:
 unless relevant passages have actually been inspected.
 
 When using Daryabandari as evidence for a translation technique, identify the specific passage or pattern being examined whenever practical.
+
+An observation about the Persian prose requires inspection of the Persian passage. A claim about a change from English to Persian (such as clause reordering, omission, or sentence splitting) also requires the corresponding English passage. If only the Persian is available, label the observation as Persian prose analysis, not a verified source-to-translation comparison.
 
 ---
 

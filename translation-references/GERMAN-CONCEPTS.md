@@ -1,6 +1,6 @@
 # German Historical and Conceptual Terms
 
-This file records German terms whose historical, intellectual, institutional, legal, political, or literary meaning materially affects the Persian translation of *Revisiting Zero-Hour 1945*.
+This file records German terms whose historical, intellectual, institutional, legal, political, or literary meaning materially affects the Persian translation of *Revisiting Zero Hour 1945*.
 
 It is not a general German–Persian dictionary.
 
@@ -48,7 +48,7 @@ A term may appear in both files when necessary.
 
 ## 2. Status system
 
-Every entry must have one of the following statuses.
+Every entry with a proposed or previously used Persian equivalent must have one of the following translation-decision statuses. Research state is recorded separately; it does not measure approval or establish a historical interpretation.
 
 ### candidate
 
@@ -203,7 +203,10 @@ Use the following structure for each concept.
 **Unresolved questions:**  
 - [question]
 
-**Status:**  
+**Research state:**  
+research needed / in progress / evidence checked (state the verified scope and remaining questions)
+
+**Status (translation decision):**  
 candidate / approved / reconsider / retired
 
 **Approved by Adel:**  
@@ -220,9 +223,9 @@ yes / no
 
 ## 6. Concept index
 
-The following terms have already appeared or are relevant to the present translation. Their presence in this list does **not** mean their definitions or Persian equivalents have been approved.
+The following terms have already appeared or are relevant to the present translation. This index is a research backlog, not a list of translation decisions. Its topic labels locate research areas; they are not verified definitions. Presence here does **not** mean a definition or Persian equivalent has been approved.
 
-| German term                 | Working area                                           | Status          |
+| German term                 | Working area                                           | Research state  |
 | --------------------------- | ------------------------------------------------------ | --------------- |
 | `Stunde Null`               | postwar historical and cultural discourse              | research needed |
 | `Nullpunkt`                 | zero-point / rupture terminology                       | research needed |
@@ -236,7 +239,7 @@ The following terms have already appeared or are relevant to the present transla
 | `Nachholen`                 | belated catching-up / historical-cultural process      | research needed |
 | `nachgeholte Résistance`    | belated resistance / Group 47 context                  | research needed |
 
-Do not convert `research needed` into `candidate` or `approved` until the term has actually been investigated in context.
+Research state and translation-decision status are separate fields. Investigate a term in context before proposing candidates; record them as `candidate` without implying approval. Even after evidence is checked, only Adel's explicit decision can make a Persian equivalent `approved` for the stated sense. No index entry has been promoted by this distinction.
 
 ---
 

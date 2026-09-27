@@ -2,6 +2,8 @@
 
 ## How to use this structure
 
+The `Cxx-Sxx` identifiers below are structural translation units, not fixed 300-word mentoring sessions. For daily practice, divide the current unit into coherent 250–350-word chunks identified as `Cxx-Sxx-P01`, `P02`, and so on, guided primarily by paragraph and argument logic. Record each chunk's exact source boundaries and draft/review/approval state in [PROGRESS.md](../PROGRESS.md). Sentence IDs such as `C00-S02-P03-SEN01` are optional analytical aids. These divisions must not alter the source text.
+
 1. Read the introduction and establish translation conventions and a shared glossary.
 2. Translate the introduction (C00), then the five essays (C01–C05) in order, one numbered unit at a time.
 3. Use the full chapter as context. Consult its endnotes while translating each unit; translate the endnotes after the chapter body.
@@ -30,8 +32,8 @@ Endnotes: retain with C00 and consult alongside its translation units.
 | Unit | Original section | Approx. words |
 | --- | --- | ---: |
 | C01-S01 | Opening discussion | 1342 |
-| C01-S02 | Opening discussion | 1360 |
-| C01-S03 | Opening discussion | 746 |
+| C01-S02 | The Origins of the Term “Zero Hour” | 1360 |
+| C01-S03 | The Origins of the Term “Zero Hour” | 746 |
 | C01-S04 | A German Generation Gap? | 1297 |
 | C01-S05 | A German Generation Gap? | 1710 |
 | C01-S06 | The Failure of the “Zero Hour” | 1342 |

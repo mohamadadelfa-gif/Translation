@@ -1,5 +1,7 @@
 # Translation repository structural cleanup
 
+> Historical migration note, retained for traceability. The replacement instructions and session-specific connector limitation below are superseded. The active files are at the repository root and under `translation-references/`; the missing hierarchy clarification has now been added to the working translation map. Do not reapply this bundle.
+
 Prepared after reviewing `mohamadadelfa-gif/Translation` on 2026-09-27.
 
 ## What this change set fixes

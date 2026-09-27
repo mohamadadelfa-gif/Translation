@@ -4,6 +4,7 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
+throw 'Retired migration helper: retained for audit history only. Its force-copy operations can overwrite current policy and glossary decisions. Review the active project files directly; do not run this bundle.'
 $bundle = Split-Path -Parent $MyInvocation.MyCommand.Path
 $repo = (Resolve-Path $RepoPath).Path
 

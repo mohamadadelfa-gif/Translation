@@ -16,6 +16,16 @@
 
 تقسیم‌بندی `P` یک تقسیم کاری و آموزشی پروژه است و بخشی از ساختار اصلی کتاب نیست. مرز قطعه‌ها بر اساس منطق بند و حرکت استدلالی تعیین می‌شود، نه صرفاً شمارش مکانیکی واژه‌ها.
 
+## Repository audit: evidence and recovery limits
+
+The continuation recorded here remains `C00-S02-P03`, beginning “Once this route was taken…”. This audit has not advanced or reset that position.
+
+The P01/P02 completion labels above are reported draft progress, not approval. The saved [original draft](drafts/C00-introduction-progress-2026-09-27.txt) and [reviewed proposal](drafts/C00-introduction-reviewed-01.md) both stop at “a new interest and understanding of the past”. The later “Thus, renegotiating…” translation is present below, but the intervening translations of “This operation…”, “Today we rarely remember…” and “Although the meetings…” are not saved in these artifacts.
+
+Exact P01/P02 starting and ending anchors and the corresponding chunk files are not recorded. Their complete translations and boundaries must be recovered from Adel's actual submissions and confirmed, not reconstructed from mentor wording. No approved translation is present in `approved-translations/`.
+
+Before treating the reported completed chunks as fully archived, reconcile this gap with Adel. For any continuation, distinguish the declared resume point from the last independently recoverable draft sentence. Future progress entries should link the draft/review files and give exact first and last source sentences for each chunk.
+
 ## آخرین جملهٔ ترجمه‌شده
 
 آخرین جملهٔ انگلیسی که عادل ترجمه کرده است:
@@ -162,3 +172,5 @@
 > Once this route was taken, the concept of Zero Hour proved to be hard to maintain, as Hans Mayer pointed out.[^intro-3]
 
 تا زمانی که این جمله و بخش بعدی واقعاً ترجمه نشده‌اند، این نقطه نباید جلو برده شود.
+
+[^intro-3]: The source endnote belongs to [C00, Endnotes](translation-preparation/C00.md#endnotes); the marker is retained in the exact continuation quotation above.

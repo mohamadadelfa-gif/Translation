@@ -32,7 +32,7 @@ Keep these categories visibly distinct:
 
 ## Working hierarchy
 
-The translation workflow uses four levels:
+The translation workflow uses four working levels below the book:
 
 ```text
 Book
@@ -73,6 +73,8 @@ Do not claim that Ariyanpour, Hezareh, Ashouri, Najafi, the Academy guide, the P
 Unverified Cronin, K1, RTS, or other external frameworks are not lexical or historical evidence merely because an older plan mentioned them.
 
 Use the confidence labels defined in `MENTOR_WORKFLOW.md`.
+
+For consequential or uncertain general vocabulary, compare Ariyanpour and Hezareh as active peers, following `translation-references/WORD-CHOICE-POLICY.md`. Use `translation-references/GERMAN-CONCEPTS.md` for historical-conceptual research; its research state is distinct from approval of a Persian equivalent.
 
 ## Glossary discipline
 
