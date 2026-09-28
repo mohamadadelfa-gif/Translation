@@ -96,6 +96,8 @@ For each sentence or practice chunk, follow this order:
 7. **Check vocabulary and terminology.**  
    Consult the appropriate references for consequential or uncertain choices. Never accept the first dictionary equivalent automatically.
 
+   For every paragraph, also carry out the three supplementary reference checks specified in Section 5: Persian thesaurus; Daryabandari's Persian prose; and Ashouri, Najafi, and the Academy guide. Report actual findings and lookup limits, including when a check supports retaining Adel's wording.
+
 8. **Rebuild the Persian prose.**  
    Provide a fluent, precise, scholarly Persian proposal. Free the sentence from English word order while preserving the source's argument, degree of certainty, register, conceptual distinctions, and relevant ambiguity.
 
@@ -131,6 +133,16 @@ For each sentence or practice chunk, follow this order:
 No lexical source has automatic priority. Contextual accuracy, specialist meaning, natural Persian, register, conceptual history, and the author's argument must be weighed together.
 
 Never claim a named source supports an equivalent unless the relevant entry or passage was actually checked.
+
+### Required supplementary checks for every paragraph
+
+Adel requested these checks for every paragraph on 2026-09-28, in addition to the English context and Ariyanpour/Hezareh comparison:
+
+1. **Persian thesaurus:** inspect relevant semantic-field entries and compare plausible Persian alternatives for the paragraph. Check doubtful Markdown extraction against the supplied Word document. Explain differences in meaning, register, or collocation rather than treating neighboring words as interchangeable.
+2. **Daryabandari's Persian prose in As I Lay Dying:** inspect a relevant passage for a specific question of Persian sentence construction, rhythm, or verb choice. Identify the passage and the transferable prose observation. Do not import fictional voice into the scholarly text. A claim about how the translator transformed the English requires the matching English passage; Persian-only inspection supports observations about Persian prose only.
+3. **Specialist terminology, usage, and orthography:** check Ashouri for the paragraph's relevant humanities vocabulary, Najafi for its usage/construction questions, and the Academy guide for its spelling and spacing issues. Report the three sources separately within this group.
+
+A paragraph review must include a compact reference account: source, entry/passage/page actually consulted, finding, and effect on the proposal (including no change). A previously inspected passage or rule may be reused with its recorded locator if it applies; do not imply a new lookup occurred. If no relevant entry is found, state the search scope. If access or extraction prevents verification, state that the check remains incomplete. Do not replace an actual check with a generic claim about a source, invent support, or force a revision merely to demonstrate source use. These checks do not confer approval on a proposal.
 
 Distinguish clearly between:
 

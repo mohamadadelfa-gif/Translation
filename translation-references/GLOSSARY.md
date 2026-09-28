@@ -21,3 +21,8 @@ Never treat a candidate as project-wide settled terminology. Approval applies to
 ## Entries
 
 <!-- Add entries only when a term becomes relevant in actual translation work. -->
+
+| Source term | Language | Sense / context | Persian equivalent | Status | Evidence checked | First / key location | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| literary continuity | English | Literary links across the prewar/postwar division | تداوم ادبی | candidate | Ariyanpour `continuity`, record 8652; Hezareh raw OCR, PDF p. 305; surrounding C00 argument | C00-S02, exile passage | Adel used this wording; use is not explicit glossary approval. See [review evidence](../drafts/C00-S02-exile-passage-reviewed-01.md). |
+| go into exile | English | Forced departure in `had to go into exile` | جلای وطن کردن، با حفظ «ناچار» در این جمله | candidate | Ariyanpour `exile`, record 14259; Hezareh raw OCR, PDF p. 533; source sentence | C00-S02, exile passage | Contextual proposal; does not establish formal expulsion. Do not automatically extend to `emigré`. See [review evidence](../drafts/C00-S02-exile-passage-reviewed-01.md). |

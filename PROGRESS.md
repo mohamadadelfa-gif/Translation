@@ -4,6 +4,14 @@
 
 ## محل فعلی ترجمه
 
+### Latest submitted passage — 2026-09-28
+
+Adel submitted two later sentences in C00-S02, beginning “Writers who had to go into exile after 1933…” and ending “…were shrouded by the veil of catastrophe.” The [unchanged submission](drafts/C00-S02-exile-passage-draft-01.md) and [mentor review](drafts/C00-S02-exile-passage-reviewed-01.md) are saved separately. The review is awaiting Adel's response; no translation or glossary candidate has been approved.
+
+For this submitted passage, the next source sentence begins “And yet, despite the tardiness in recognizing the cultural and aesthetic continuities…”. The full sentence is recorded in the review. The older P03 resume marker below remains a historical checkpoint pending reconciliation of intervening submissions and exact chunk boundaries; it must not be mistaken for the latest reviewed passage. This session does not establish that all preceding material is complete.
+
+### Previously recorded checkpoint
+
 فصل جاری: مقدمهٔ فرانک تروملر، [`C00`](translation-preparation/C00.md)
 
 واحد ترجمه: **`C00-S02`**

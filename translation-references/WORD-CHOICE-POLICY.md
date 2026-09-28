@@ -23,6 +23,12 @@ Adel confirmed this reference set on 2026-09-27. Use the source book for meaning
 7. Preserve dictionary source text. Do not silently reproduce damaged characters or assume dated spelling, typographical errors, or unsuitable senses are binding.
 8. The three known damaged entries are listed in `aryanpour/source-character-issues.json`.
 
+## Required paragraph-level supplementary checks
+
+Per Adel's instruction of 2026-09-28, every paragraph review must also check the Persian thesaurus, a relevant passage of Daryabandari's Persian prose, and the relevant terminology/usage/orthography material in Ashouri, Najafi, and the Academy guide. Follow the three supplementary-check groups in [MENTOR_WORKFLOW.md](../MENTOR_WORKFLOW.md#required-supplementary-checks-for-every-paragraph).
+
+Report each source's actual locator, finding, and effect on the proposed wording, including decisions to retain Adel's wording. Clearly distinguish a checked passage, reused documented evidence, an unsuccessful scoped search, and an incomplete check caused by unavailable or unreadable material. Do not attribute a proposal to any of these sources without inspecting relevant evidence, or claim a source-to-translation comparison from Persian prose alone.
+
 For historically significant German concepts, follow [GERMAN-CONCEPTS.md](GERMAN-CONCEPTS.md) and record practical translation decisions in [GLOSSARY.md](GLOSSARY.md). Research evidence and candidate/approved decision status are separate; no candidate becomes approved without Adel's explicit decision.
 
 This policy guides this project's translation work. It does not mean the dictionary has been incorporated into permanent model training or that every entry has been memorized.
