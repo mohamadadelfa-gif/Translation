@@ -1,0 +1,440 @@
+# V Entries Requiring Visual Review
+
+- **vacancy** — PDF p. 481; Persian OCR confidence 72.7; head match 0.35; head OCR confidence 21.8
+- **vacant position** — PDF p. 481; Persian OCR confidence 65.1; head match 0.757; head OCR confidence 51.8
+- **vacation** — PDF p. 481; Persian OCR confidence 69.0; head match 0.35; head OCR confidence 31.4
+- **vacationist** — PDF p. 481; Persian OCR confidence 42.9; head match 1.0; head OCR confidence 92.3
+- **vacuity** — PDF p. 481; Persian OCR confidence 83.3; head match 0.408; head OCR confidence 32.2
+- **vacuous** — PDF p. 481; Persian OCR confidence 84.1; head match 0.426; head OCR confidence 46.6
+- **vacuousness** — PDF p. 481; Persian OCR confidence 0; head match 0.759; head OCR confidence 90.2
+- **vacuum (L.)** — PDF p. 481; Persian OCR confidence 74.2; head match 0.571; head OCR confidence 96.5
+- **vagabond** — PDF p. 481; Persian OCR confidence 84.8; head match 0.431; head OCR confidence 35.7
+- **vagabondage** — PDF p. 481; Persian OCR confidence 80.1; head match 0.733; head OCR confidence 31.0
+- **vagabondism** — PDF p. 481; Persian OCR confidence 0; head match 0.467; head OCR confidence 92.4
+- **vagrancy .r ~** — PDF p. 481; Persian OCR confidence 46.5; head match 0.941; head OCR confidence 44.5
+- **vagrant** — PDF p. 481; Persian OCR confidence 83.5; head match 0.377; head OCR confidence 24.3
+- **vague** — PDF p. 481; Persian OCR confidence 46.5; head match 1.0; head OCR confidence 84.1
+- **vagueness** — PDF p. 481; Persian OCR confidence 86.0; head match 0.36; head OCR confidence 49.3
+- **Vaishnava** — PDF p. 481; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **valid** — PDF p. 481; Persian OCR confidence 73.2; head match 0.308; head OCR confidence 31.0
+- **validation** — PDF p. 481; Persian OCR confidence 56.3; head match 0.4; head OCR confidence 25.6
+- **validity** — PDF p. 481; Persian OCR confidence 82.4; head match 0.448; head OCR confidence 11.9
+- **validity claim** — PDF p. 481; Persian OCR confidence 86.7; head match 0.433; head OCR confidence 35.6
+- **validness** — PDF p. 481; Persian OCR confidence 65.0; head match 0.394; head OCR confidence 20.5
+- **valorization** — PDF p. 482; Persian OCR confidence 88.3; head match 0.48; head OCR confidence 41.6
+- **valuable** — PDF p. 482; Persian OCR confidence 72.3; head match 0.8; head OCR confidence 61.4
+- **valuator** — PDF p. 482; Persian OCR confidence 83.5; head match 0.8; head OCR confidence 42.6
+- **value** — PDF p. 482; Persian OCR confidence 59.2; head match 0.438; head OCR confidence 46.2
+- **value-freedom** — PDF p. 482; Persian OCR confidence 88.0; head match 0.828; head OCR confidence 45.9
+- **value in exchange** — PDF p. 482; Persian OCR confidence 60.6; head match 0.769; head OCR confidence 68.6
+- **value in use** — PDF p. 482; Persian OCR confidence 80.2; head match 0.741; head OCR confidence 71.8
+- **value orientation** — PDF p. 482; Persian OCR confidence 88.6; head match 0.821; head OCR confidence 54.3
+- **value relation et) Sed** — PDF p. 482; Persian OCR confidence 34.5; head match 0.839; head OCR confidence 66.3
+- **value system** — PDF p. 482; Persian OCR confidence 47.8; head match 1.0; head OCR confidence 96.4
+- **value variables** — PDF p. 482; Persian OCR confidence 64.6; head match 0.8; head OCR confidence 45.2
+- **vampire** — PDF p. 482; Persian OCR confidence 63.2; head match 0.727; head OCR confidence 96.4
+- **vampirism** — PDF p. 482; Persian OCR confidence 91.5; head match 0.394; head OCR confidence 24.1
+- **Vandalic** — PDF p. 482; Persian OCR confidence 81.3; head match 0.75; head OCR confidence 61.4
+- **vandalism** — PDF p. 482; Persian OCR confidence 56.3; head match 1.0; head OCR confidence 96.4
+- **vandalistic** — PDF p. 482; Persian OCR confidence 70.4; head match 0.395; head OCR confidence 20.5
+- **vanguard** — PDF p. 482; Persian OCR confidence 61.3; head match 0.381; head OCR confidence 61.7
+- **vanitas** — PDF p. 482; Persian OCR confidence 74.4; head match 0.737; head OCR confidence 71.7
+- **vanity** — PDF p. 482; Persian OCR confidence 56.2; head match 0.494; head OCR confidence 48.5
+- **vanity press** — PDF p. 482; Persian OCR confidence 78.6; head match 0.428; head OCR confidence 42.8
+- **vantage** — PDF p. 482; Persian OCR confidence 78.0; head match 0.445; head OCR confidence 42.7
+- **variability** — PDF p. 482; Persian OCR confidence 90.3; head match 0.71; head OCR confidence 44.8
+- **variable** — PDF p. 482; Persian OCR confidence 56.7; head match 0.8; head OCR confidence 48.2
+- **variance** — PDF p. 482; Persian OCR confidence 76.5; head match 0.727; head OCR confidence 50.8
+- **variant** — PDF p. 482; Persian OCR confidence 77.1; head match 0.258; head OCR confidence 18.0
+- **variation** — PDF p. 482; Persian OCR confidence 82.9; head match 0.75; head OCR confidence 38.8
+- **variational** — PDF p. 482; Persian OCR confidence 18.8; head match 0.846; head OCR confidence 37.2
+- **variety** — PDF p. 482; Persian OCR confidence 73.6; head match 0.467; head OCR confidence 22.1
+- **variety show** — PDF p. 482; Persian OCR confidence 80.7; head match 0.428; head OCR confidence 50.4
+- **variety store** — PDF p. 482; Persian OCR confidence 76.0; head match 0.454; head OCR confidence 57.1
+- **variform** — PDF p. 482; Persian OCR confidence 38.4; head match 0.448; head OCR confidence 16.1
+- **vase painting** — PDF p. 482; Persian OCR confidence 73.3; head match 0.75; head OCR confidence 65.7
+- **vassal** — PDF p. 482; Persian OCR confidence 65.2; head match 0.8; head OCR confidence 48.5
+- **vassalage** — PDF p. 482; Persian OCR confidence 74.9; head match 0.818; head OCR confidence 37.8
+- **vassal state** — PDF p. 483; Persian OCR confidence 55.6; head match 0.44; head OCR confidence 48.3
+- **vector of** — PDF p. 483; Persian OCR confidence 63.2; head match 0.857; head OCR confidence 62.3
+- **Vedanta** — PDF p. 483; Persian OCR confidence 68.5; head match 0.4; head OCR confidence 62.3
+- **Vedantic** — PDF p. 483; Persian OCR confidence 78.0; head match 0.339; head OCR confidence 34.0
+- **vegan** — PDF p. 483; Persian OCR confidence 79.6; head match 0.333; head OCR confidence 38.2
+- **veganism Glas** — PDF p. 483; Persian OCR confidence 82.6; head match 0.8; head OCR confidence 56.0
+- **vegetable OLSY** — PDF p. 483; Persian OCR confidence 67.1; head match 0.818; head OCR confidence 62.9
+- **vegetable kingdom** — PDF p. 483; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **vegetable soul** — PDF p. 483; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **vegetal** — PDF p. 483; Persian OCR confidence 83.8; head match 0.737; head OCR confidence 54.8
+- **vegetarian** — PDF p. 483; Persian OCR confidence 85.0; head match 0.636; head OCR confidence 54.8
+- **vegetarianism** — PDF p. 483; Persian OCR confidence 61.8; head match 0.788; head OCR confidence 48.1
+- **vegetation** — PDF p. 483; Persian OCR confidence 69.3; head match 0.483; head OCR confidence 55.9
+- **vegetational** — PDF p. 483; Persian OCR confidence 0; head match 1.0; head OCR confidence 94.7
+- **vegetative soul** — PDF p. 483; Persian OCR confidence 56.1; head match 1.0; head OCR confidence 96.7
+- **vegetlve** — PDF p. 483; Persian OCR confidence 0; head match 0.714; head OCR confidence 96.7
+- **vehicle** — PDF p. 483; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **vehicular** — PDF p. 483; Persian OCR confidence 0; head match 0.889; head OCR confidence 96.5
+- **veil** — PDF p. 483; Persian OCR confidence 78.6; head match 0.75; head OCR confidence 77.2
+- **veil of ignorance wht Gee (Lb** — PDF p. 483; Persian OCR confidence 90.1; head match 0.789; head OCR confidence 66.3
+- **veiled** — PDF p. 483; Persian OCR confidence 78.2; head match 0.365; head OCR confidence 32.2
+- **velar** — PDF p. 483; Persian OCR confidence 70.5; head match 0.467; head OCR confidence 32.3
+- **velarizatlon** — PDF p. 483; Persian OCR confidence 84.6; head match 0.733; head OCR confidence 51.7
+- **velarlzed** — PDF p. 483; Persian OCR confidence 83.0; head match 0.431; head OCR confidence 46.2
+- **velum (L.)** — PDF p. 483; Persian OCR confidence 78.3; head match 0.467; head OCR confidence 46.4
+- **venal** — PDF p. 483; Persian OCR confidence 81.1; head match 0.247; head OCR confidence 46.4
+- **venality** — PDF p. 483; Persian OCR confidence 87.6; head match 0.448; head OCR confidence 9.7
+- **vendable** — PDF p. 483; Persian OCR confidence 0; head match 0.467; head OCR confidence 92.8
+- **vendetta '..S.>!.J0P \5** — PDF p. 483; Persian OCR confidence 76.1; head match 0.762; head OCR confidence 68.6
+- **vendible** — PDF p. 483; Persian OCR confidence 84.1; head match 0.448; head OCR confidence 1.5
+- **veneration** — PDF p. 483; Persian OCR confidence 71.5; head match 0.389; head OCR confidence 27.0
+- **venereal** — PDF p. 483; Persian OCR confidence 50.9; head match 0.431; head OCR confidence 49.8
+- **vengeance** — PDF p. 483; Persian OCR confidence 91.7; head match 0.371; head OCR confidence 32.1
+- **vengefulness** — PDF p. 483; Persian OCR confidence 88.7; head match 0.696; head OCR confidence 36.0
+- **venial** — PDF p. 483; Persian OCR confidence 53.5; head match 1.0; head OCR confidence 93.1
+- **venialness** — PDF p. 483; Persian OCR confidence 0; head match 0.483; head OCR confidence 61.6
+- **ventriloqulal** — PDF p. 483; Persian OCR confidence 78.2; head match 0.545; head OCR confidence 92.2
+- **ventriloquism** — PDF p. 483; Persian OCR confidence 75.3; head match 0.743; head OCR confidence 42.3
+- **ventriloquy** — PDF p. 483; Persian OCR confidence 0; head match 0.492; head OCR confidence 92.4
+- **venture capital** — PDF p. 483; Persian OCR confidence 55.4; head match 0.467; head OCR confidence 77.7
+- **venturesome** — PDF p. 484; Persian OCR confidence 59.7; head match 1.0; head OCR confidence 90.7
+- **venue** — PDF p. 484; Persian OCR confidence 52.7; head match 0.333; head OCR confidence 49.4
+- **Venusian** — PDF p. 484; Persian OCR confidence 71.7; head match 0.311; head OCR confidence 30.5
+- **veracious** — PDF p. 484; Persian OCR confidence 77.3; head match 0.394; head OCR confidence 33.4
+- **veraciousness** — PDF p. 484; Persian OCR confidence 0; head match 0.765; head OCR confidence 92.4
+- **veracity** — PDF p. 484; Persian OCR confidence 68.2; head match 0.35; head OCR confidence 24.1
+- **verb (lL;** — PDF p. 484; Persian OCR confidence 88.9; head match 0.8; head OCR confidence 62.2
+- **verbal lai}** — PDF p. 484; Persian OCR confidence 78.1; head match 0.8; head OCR confidence 66.3
+- **verbal ability hj ogi (yg)** — PDF p. 484; Persian OCR confidence 83.8; head match 0.788; head OCR confidence 65.7
+- **verbal art AWS pe** — PDF p. 484; Persian OCR confidence 87.6; head match 0.783; head OCR confidence 69.9
+- **verbal articulation** — PDF p. 484; Persian OCR confidence 29.5; head match 1.0; head OCR confidence 96.3
+- **verbal behavior ob;** — PDF p. 484; Persian OCR confidence 63.8; head match 0.933; head OCR confidence 69.0
+- **verbal definition** — PDF p. 484; Persian OCR confidence 51.9; head match 0.889; head OCR confidence 46.9
+- **verbal deprivation hj adloeS** — PDF p. 484; Persian OCR confidence 57.1; head match 0.81; head OCR confidence 61.7
+- **verbal factor** — PDF p. 484; Persian OCR confidence 90.2; head match 0.75; head OCR confidence 69.2
+- **verbal image** — PDF p. 484; Persian OCR confidence 82.1; head match 0.538; head OCR confidence 76.5
+- **verbal indexing** — PDF p. 484; Persian OCR confidence 76.8; head match 0.456; head OCR confidence 58.1
+- **verbalism** — PDF p. 484; Persian OCR confidence 75.7; head match 0.45; head OCR confidence 32.9
+- **verbalist** — PDF p. 484; Persian OCR confidence 47.4; head match 0.42; head OCR confidence 46.6
+- **verbalistic** — PDF p. 484; Persian OCR confidence 75.8; head match 0.376; head OCR confidence 29.2
+- **verbalization** — PDF p. 484; Persian OCR confidence 84.6; head match 0.788; head OCR confidence 34.2
+- **verbal noun** — PDF p. 484; Persian OCR confidence 70.2; head match 0.4; head OCR confidence 44.8
+- **verbal suffix** — PDF p. 484; Persian OCR confidence 68.6; head match 0.5; head OCR confidence 69.4
+- **verbal test** — PDF p. 484; Persian OCR confidence 61.7; head match 0.769; head OCR confidence 56.5
+- **verbatim (L.)** — PDF p. 484; Persian OCR confidence 78.4; head match 0.48; head OCR confidence 56.5
+- **verbatim recall** — PDF p. 484; Persian OCR confidence 87.6; head match 0.737; head OCR confidence 52.1
+- **verbiage** — PDF p. 484; Persian OCR confidence 64.5; head match 0.431; head OCR confidence 25.5
+- **verbified** — PDF p. 484; Persian OCR confidence 72.5; head match 0.75; head OCR confidence 52.3
+- **verbifying** — PDF p. 484; Persian OCR confidence 85.8; head match 0.741; head OCR confidence 32.8
+- **verbigeration** — PDF p. 484; Persian OCR confidence 47.6; head match 0.533; head OCR confidence 32.8
+- **verbomania** — PDF p. 484; Persian OCR confidence 85.8; head match 0.714; head OCR confidence 45.5
+- **verbose** — PDF p. 484; Persian OCR confidence 63.3; head match 0.336; head OCR confidence 45.5
+- **verboseness** — PDF p. 484; Persian OCR confidence 0; head match 0.71; head OCR confidence 65.4
+- **verb phrase** — PDF p. 484; Persian OCR confidence 81.8; head match 0.483; head OCR confidence 63.8
+- **verdict** — PDF p. 484; Persian OCR confidence 80.9; head match 0.778; head OCR confidence 28.2
+- **veridic(-al)** — PDF p. 484; Persian OCR confidence 70.4; head match 0.6; head OCR confidence 28.2
+- **veridicality** — PDF p. 484; Persian OCR confidence 59.0; head match 0.727; head OCR confidence 16.8
+- **veridicity** — PDF p. 484; Persian OCR confidence 63.8; head match 0.424; head OCR confidence 25.4
+- **verifiability** — PDF p. 484; Persian OCR confidence 58.7; head match 1.0; head OCR confidence 63.7
+- **verifiable** — PDF p. 484; Persian OCR confidence 67.3; head match 0.424; head OCR confidence 26.0
+- **verificationism** — PDF p. 484; Persian OCR confidence 86.4; head match 0.75; head OCR confidence 40.5
+- **verifying** — PDF p. 485; Persian OCR confidence 0; head match 1.0; head OCR confidence 47.8
+- **verisimilar** — PDF p. 485; Persian OCR confidence 53.3; head match 1.0; head OCR confidence 92.5
+- **verisimilitude** — PDF p. 485; Persian OCR confidence 61.3; head match 0.436; head OCR confidence 19.3
+- **verisimilitudinous** — PDF p. 485; Persian OCR confidence 82.9; head match 0.735; head OCR confidence 30.8
+- **verism** — PDF p. 485; Persian OCR confidence 78.5; head match 0.833; head OCR confidence 75.8
+- **veristic** — PDF p. 485; Persian OCR confidence 77.8; head match 0.361; head OCR confidence 31.9
+- **veritable** — PDF p. 485; Persian OCR confidence 72.1; head match 0.467; head OCR confidence 44.1
+- **veritableness** — PDF p. 485; Persian OCR confidence 84.9; head match 0.645; head OCR confidence 44.1
+- **verity** — PDF p. 485; Persian OCR confidence 79.3; head match 0.3; head OCR confidence 22.8
+- **vernacularism** — PDF p. 485; Persian OCR confidence 58.3; head match 0.963; head OCR confidence 92.3
+- **vernacular literature** — PDF p. 485; Persian OCR confidence 44.9; head match 0.851; head OCR confidence 45.4
+- **versicle** — PDF p. 485; Persian OCR confidence 41.0; head match 0.373; head OCR confidence 19.0
+- **versification** — PDF p. 485; Persian OCR confidence 80.1; head match 0.444; head OCR confidence 34.5
+- **versifier** — PDF p. 485; Persian OCR confidence 64.3; head match 0.467; head OCR confidence 37.4
+- **version** — PDF p. 485; Persian OCR confidence 78.3; head match 0.338; head OCR confidence 29.6
+- **vers libre (Fr.) shies** — PDF p. 485; Persian OCR confidence 71.0; head match 0.815; head OCR confidence 76.5
+- **Verstehen (G.)** — PDF p. 485; Persian OCR confidence 73.4; head match 0.741; head OCR confidence 60.1
+- **vertical circularity** — PDF p. 485; Persian OCR confidence 64.1; head match 0.76; head OCR confidence 64.2
+- **vertical group G2gee** — PDF p. 485; Persian OCR confidence 89.7; head match 0.839; head OCR confidence 60.7
+- **vertical integration** — PDF p. 485; Persian OCR confidence 72.5; head match 0.792; head OCR confidence 48.5
+- **verticality** — PDF p. 485; Persian OCR confidence 21.3; head match 0.88; head OCR confidence 30.3
+- **vested interest** — PDF p. 485; Persian OCR confidence 52.9; head match 0.49; head OCR confidence 51.9
+- **vestige (Fr.)** — PDF p. 485; Persian OCR confidence 57.1; head match 0.36; head OCR confidence 43.7
+- **vestment** — PDF p. 485; Persian OCR confidence 64.9; head match 0.487; head OCR confidence 40.2
+- **vestry .Y ~~** — PDF p. 485; Persian OCR confidence 66.5; head match 0.632; head OCR confidence 40.5
+- **veto** — PDF p. 485; Persian OCR confidence 96.0; head match 0.156; head OCR confidence 13.1
+- **vetoer** — PDF p. 485; Persian OCR confidence 92.1; head match 0.0; head OCR confidence 42.8
+- **viability** — PDF p. 485; Persian OCR confidence 77.0; head match 0.434; head OCR confidence 39.7
+- **viable** — PDF p. 485; Persian OCR confidence 82.0; head match 0.429; head OCR confidence 43.3
+- **via media (L.)** — PDF p. 485; Persian OCR confidence 73.5; head match 0.75; head OCR confidence 51.8
+- **viaticum** — PDF p. 485; Persian OCR confidence 74.2; head match 0.311; head OCR confidence 42.9
+- **vicar** — PDF p. 485; Persian OCR confidence 78.5; head match 0.389; head OCR confidence 23.5
+- **vicarage** — PDF p. 485; Persian OCR confidence 79.1; head match 0.571; head OCR confidence 23.5
+- **vicar forane** — PDF p. 485; Persian OCR confidence 64.7; head match 0.733; head OCR confidence 51.9
+- **vicar general** — PDF p. 485; Persian OCR confidence 48.0; head match 0.774; head OCR confidence 68.6
+- **vicarious** — PDF p. 485; Persian OCR confidence 64.1; head match 0.341; head OCR confidence 30.9
+- **vicarious function cle yHlg,** — PDF p. 486; Persian OCR confidence 84.5; head match 0.829; head OCR confidence 58.6
+- **vicariousness** — PDF p. 486; Persian OCR confidence 85.7; head match 0.444; head OCR confidence 29.8
+- **vicarious pleasure** — PDF p. 486; Persian OCR confidence 72.5; head match 0.791; head OCR confidence 42.3
+- **vicarious sacrifice** — PDF p. 486; Persian OCR confidence 58.7; head match 0.783; head OCR confidence 36.3
+- **Vicar of Christ** — PDF p. 486; Persian OCR confidence 73.5; head match 0.743; head OCR confidence 58.9
+- **vicarship** — PDF p. 486; Persian OCR confidence 80.9; head match 0.467; head OCR confidence 37.3
+- **vice** — PDF p. 486; Persian OCR confidence 78.6; head match 0.28; head OCR confidence 36.1
+- **vice** — PDF p. 486; Persian OCR confidence 77.1; head match 0.431; head OCR confidence 27.9
+- **vice area** — PDF p. 486; Persian OCR confidence 74.1; head match 0.448; head OCR confidence 57.2
+- **vice chancellor** — PDF p. 486; Persian OCR confidence 71.9; head match 0.516; head OCR confidence 57.2
+- **vice-chancellorship** — PDF p. 486; Persian OCR confidence 56.1; head match 0.766; head OCR confidence 32.2
+- **vice consul eg** — PDF p. 486; Persian OCR confidence 19.4; head match 0.909; head OCR confidence 64.5
+- **vice-consulship** — PDF p. 486; Persian OCR confidence 57.4; head match 0.848; head OCR confidence 30.9
+- **vicegeral** — PDF p. 486; Persian OCR confidence 69.8; head match 0.332; head OCR confidence 27.6
+- **vicegerent** — PDF p. 486; Persian OCR confidence 57.8; head match 0.818; head OCR confidence 46.2
+- **vicenary ik** — PDF p. 486; Persian OCR confidence 56.6; head match 0.889; head OCR confidence 72.1
+- **vicennial** — PDF p. 486; Persian OCR confidence 88.6; head match 0.632; head OCR confidence 72.1
+- **vice-presidency** — PDF p. 486; Persian OCR confidence 91.5; head match 0.824; head OCR confidence 46.1
+- **vice-president ose.)** — PDF p. 486; Persian OCR confidence 49.7; head match 0.897; head OCR confidence 68.2
+- **viceregal** — PDF p. 486; Persian OCR confidence 80.7; head match 0.485; head OCR confidence 46.1
+- **vice-regency** — PDF p. 486; Persian OCR confidence 42.7; head match 0.846; head OCR confidence 46.4
+- **vice regent abit** — PDF p. 486; Persian OCR confidence 85.7; head match 0.833; head OCR confidence 67.9
+- **viceroy** — PDF p. 486; Persian OCR confidence 49.8; head match 0.467; head OCR confidence 55.7
+- **viceroyalty** — PDF p. 486; Persian OCR confidence 32.3; head match 0.759; head OCR confidence 46.4
+- **viceroyship** — PDF p. 486; Persian OCR confidence 0; head match 0.55; head OCR confidence 46.4
+- **vice squad** — PDF p. 486; Persian OCR confidence 75.9; head match 0.45; head OCR confidence 47.7
+- **v1cmage** — PDF p. 486; Persian OCR confidence 77.6; head match 0.556; head OCR confidence 18.6
+- **vicinal** — PDF p. 486; Persian OCR confidence 74.3; head match 0.377; head OCR confidence 52.9
+- **vicinal location** — PDF p. 486; Persian OCR confidence 85.6; head match 0.765; head OCR confidence 85.6
+- **vicinal position** — PDF p. 486; Persian OCR confidence 88.8; head match 0.6; head OCR confidence 43.6
+- **vicinity** — PDF p. 486; Persian OCR confidence 75.8; head match 0.727; head OCR confidence 24.3
+- **VICIOUS .r** — PDF p. 486; Persian OCR confidence 72.6; head match 0.316; head OCR confidence 32.5
+- **viciousness** — PDF p. 486; Persian OCR confidence 79.8; head match 0.71; head OCR confidence 19.4
+- **vicissitude** — PDF p. 486; Persian OCR confidence 53.1; head match 0.88; head OCR confidence 12.2
+- **vicissitudinary** — PDF p. 486; Persian OCR confidence 52.8; head match 0.488; head OCR confidence 26.7
+- **vicissitudinous** — PDF p. 486; Persian OCR confidence 0; head match 0.467; head OCR confidence 92.8
+- **victim** — PDF p. 486; Persian OCR confidence 82.8; head match 0.365; head OCR confidence 30.2
+- **victim blaming** — PDF p. 486; Persian OCR confidence 0; head match 1.0; head OCR confidence 77.2
+- **victimhood** — PDF p. 486; Persian OCR confidence 0; head match 1.0; head OCR confidence 62.9
+- **victimization** — PDF p. 486; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **victimless** — PDF p. 486; Persian OCR confidence 0; head match 1.0; head OCR confidence 43.9
+- **victimologist** — PDF p. 486; Persian OCR confidence 84.3; head match 0.765; head OCR confidence 29.0
+- **victimology** — PDF p. 486; Persian OCR confidence 90.7; head match 0.71; head OCR confidence 30.2
+- **Victoriana** — PDF p. 487; Persian OCR confidence 72.4; head match 0.452; head OCR confidence 32.3
+- **victorious** — PDF p. 487; Persian OCR confidence 76.6; head match 0.483; head OCR confidence 29.4
+- **victoriousness** — PDF p. 487; Persian OCR confidence 56.3; head match 0.778; head OCR confidence 40.5
+- **victory** — PDF p. 487; Persian OCR confidence 78.9; head match 0.408; head OCR confidence 33.8
+- **victory stele** — PDF p. 487; Persian OCR confidence 87.3; head match 0.774; head OCR confidence 64.5
+- **victual** — PDF p. 487; Persian OCR confidence 70.9; head match 0.445; head OCR confidence 46.6
+- **victualer** — PDF p. 487; Persian OCR confidence 49.1; head match 0.394; head OCR confidence 42.4
+- **victualing** — PDF p. 487; Persian OCR confidence 61.8; head match 0.412; head OCR confidence 23.2
+- **victualler** — PDF p. 487; Persian OCR confidence 0; head match 0.483; head OCR confidence 91.6
+- **Vienna Circle** — PDF p. 487; Persian OCR confidence 80.2; head match 0.75; head OCR confidence 55.9
+- **Vietnamese** — PDF p. 487; Persian OCR confidence 90.3; head match 0.714; head OCR confidence 48.3
+- **view** — PDF p. 487; Persian OCR confidence 69.3; head match 0.431; head OCR confidence 48.2
+- **viewer** — PDF p. 487; Persian OCR confidence 75.8; head match 0.8; head OCR confidence 54.8
+- **viewing angle** — PDF p. 487; Persian OCR confidence 56.8; head match 1.0; head OCR confidence 96.6
+- **viewless .r ,~~.:,L; .\** — PDF p. 487; Persian OCR confidence 0; head match 0.762; head OCR confidence 38.4
+- **viewpoint** — PDF p. 487; Persian OCR confidence 32.7; head match 0.857; head OCR confidence 50.6
+- **viewy** — PDF p. 487; Persian OCR confidence 74.3; head match 0.329; head OCR confidence 50.6
+- **vigesimal** — PDF p. 487; Persian OCR confidence 64.9; head match 0.434; head OCR confidence 24.5
+- **vigil** — PDF p. 487; Persian OCR confidence 80.3; head match 0.292; head OCR confidence 33.7
+- **vigilance** — PDF p. 487; Persian OCR confidence 81.6; head match 0.406; head OCR confidence 31.3
+- **vigilance committee hal sare** — PDF p. 487; Persian OCR confidence 78.2; head match 0.837; head OCR confidence 66.5
+- **vigilant** — PDF p. 487; Persian OCR confidence 80.9; head match 0.415; head OCR confidence 29.8
+- **vigilantism** — PDF p. 487; Persian OCR confidence 9.8; head match 0.846; head OCR confidence 20.1
+- **vigil light** — PDF p. 487; Persian OCR confidence 80.0; head match 0.452; head OCR confidence 42.4
+- **vignette (Fr.)** — PDF p. 487; Persian OCR confidence 81.2; head match 0.424; head OCR confidence 45.7
+- **vignetter** — PDF p. 487; Persian OCR confidence 86.0; head match 0.45; head OCR confidence 26.0
+- **vignettist** — PDF p. 487; Persian OCR confidence 0; head match 0.45; head OCR confidence 92.9
+- **vigor** — PDF p. 487; Persian OCR confidence 69.9; head match 0.25; head OCR confidence 23.2
+- **vigour** — PDF p. 487; Persian OCR confidence 61.3; head match 1.0; head OCR confidence 66.4
+- **vile** — PDF p. 487; Persian OCR confidence 76.5; head match 0.467; head OCR confidence 39.7
+- **vileness** — PDF p. 487; Persian OCR confidence 71.8; head match 0.467; head OCR confidence 23.2
+- **village** — PDF p. 487; Persian OCR confidence 80.3; head match 0.363; head OCR confidence 26.7
+- **villain** — PDF p. 487; Persian OCR confidence 69.4; head match 0.824; head OCR confidence 52.3
+- **villainage** — PDF p. 487; Persian OCR confidence 0; head match 0.467; head OCR confidence 93.1
+- **villainous** — PDF p. 487; Persian OCR confidence 85.4; head match 0.7; head OCR confidence 53.7
+- **villainousness** — PDF p. 487; Persian OCR confidence 81.0; head match 0.49; head OCR confidence 8.4
+- **villainy** — PDF p. 487; Persian OCR confidence 66.9; head match 0.329; head OCR confidence 28.2
+- **villatic** — PDF p. 487; Persian OCR confidence 85.1; head match 0.8; head OCR confidence 13.2
+- **vindication** — PDF p. 488; Persian OCR confidence 63.6; head match 0.381; head OCR confidence 92.9
+- **vindicatory** — PDF p. 488; Persian OCR confidence 73.5; head match 0.416; head OCR confidence 23.7
+- **vindictive** — PDF p. 488; Persian OCR confidence 83.8; head match 0.389; head OCR confidence 32.1
+- **vinicultural (al)** — PDF p. 488; Persian OCR confidence 33.8; head match 0.923; head OCR confidence 76.0
+- **vinicultural (al)** — PDF p. 488; Persian OCR confidence 41.0; head match 0.8; head OCR confidence 76.0
+- **viniculturist** — PDF p. 488; Persian OCR confidence 34.3; head match 0.897; head OCR confidence 49.8
+- **vintage** — PDF p. 488; Persian OCR confidence 80.8; head match 0.35; head OCR confidence 40.3
+- **vintner** — PDF p. 488; Persian OCR confidence 86.1; head match 0.426; head OCR confidence 39.2
+- **violability** — PDF p. 488; Persian OCR confidence 90.1; head match 0.481; head OCR confidence 38.4
+- **violable** — PDF p. 488; Persian OCR confidence 87.5; head match 0.4; head OCR confidence 37.6
+- **violative** — PDF p. 488; Persian OCR confidence 75.4; head match 0.382; head OCR confidence 34.4
+- **violence** — PDF p. 488; Persian OCR confidence 80.3; head match 0.311; head OCR confidence 24.3
+- **violent** — PDF p. 488; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **vlraginity** — PDF p. 488; Persian OCR confidence 64.6; head match 0.783; head OCR confidence 20.5
+- **virago (L)** — PDF p. 488; Persian OCR confidence 63.9; head match 1.0; head OCR confidence 71.6
+- **virgin .f .r** — PDF p. 488; Persian OCR confidence 71.6; head match 0.533; head OCR confidence 71.6
+- **virginal lo Sb** — PDF p. 488; Persian OCR confidence 56.1; head match 0.8; head OCR confidence 66.9
+- **virginity** — PDF p. 488; Persian OCR confidence 86.5; head match 0.467; head OCR confidence 17.2
+- **virile** — PDF p. 488; Persian OCR confidence 65.2; head match 0.271; head OCR confidence 42.5
+- **virilism** — PDF p. 488; Persian OCR confidence 85.7; head match 0.339; head OCR confidence 21.0
+- **virility** — PDF p. 488; Persian OCR confidence 47.5; head match 0.361; head OCR confidence 15.3
+- **virilocal** — PDF p. 488; Persian OCR confidence 63.8; head match 0.35; head OCR confidence 24.2
+- **virtu** — PDF p. 488; Persian OCR confidence 62.7; head match 0.28; head OCR confidence 37.7
+- **vlrtual** — PDF p. 488; Persian OCR confidence 81.2; head match 0.336; head OCR confidence 15.9
+- **virtual community lak! geal** — PDF p. 488; Persian OCR confidence 48.7; head match 0.821; head OCR confidence 56.7
+- **virtual memory** — PDF p. 488; Persian OCR confidence 80.6; head match 0.696; head OCR confidence 70.2
+- **virtual reality** — PDF p. 488; Persian OCR confidence 72.9; head match 0.737; head OCR confidence 39.1
+- **virtual representation** — PDF p. 488; Persian OCR confidence 67.5; head match 0.824; head OCR confidence 13.2
+- **virtual shopping lal, Rvyes** — PDF p. 488; Persian OCR confidence 53.5; head match 0.789; head OCR confidence 55.3
+- **virtue** — PDF p. 488; Persian OCR confidence 80.1; head match 0.35; head OCR confidence 38.0
+- **virtue ethics** — PDF p. 488; Persian OCR confidence 89.9; head match 0.431; head OCR confidence 46.4
+- **virtuosa (It.)** — PDF p. 488; Persian OCR confidence 56.3; head match 0.8; head OCR confidence 54.0
+- **virtuosic** — PDF p. 489; Persian OCR confidence 82.7; head match 0.434; head OCR confidence 38.5
+- **virtuosity** — PDF p. 489; Persian OCR confidence 64.1; head match 0.42; head OCR confidence 38.5
+- **virtuoso (It.)** — PDF p. 489; Persian OCR confidence 60.7; head match 0.424; head OCR confidence 29.6
+- **virtuous** — PDF p. 489; Persian OCR confidence 77.0; head match 0.339; head OCR confidence 38.9
+- **virtuousness** — PDF p. 489; Persian OCR confidence 49.5; head match 0.621; head OCR confidence 68.2
+- **visceral** — PDF p. 489; Persian OCR confidence 87.7; head match 0.467; head OCR confidence 39.6
+- **visceral drive** — PDF p. 489; Persian OCR confidence 85.9; head match 0.722; head OCR confidence 57.7
+- **viscerogenic** — PDF p. 489; Persian OCR confidence 41.1; head match 1.0; head OCR confidence 91.2
+- **viscerogenic** — PDF p. 489; Persian OCR confidence 55.5; head match 0.828; head OCR confidence 91.2
+- **vlscerotonia** — PDF p. 489; Persian OCR confidence 53.4; head match 0.71; head OCR confidence 45.4
+- **viscountess** — PDF p. 489; Persian OCR confidence 85.5; head match 0.759; head OCR confidence 43.6
+- **visibleness** — PDF p. 489; Persian OCR confidence 90.6; head match 0.71; head OCR confidence 45.8
+- **visible world** — PDF p. 489; Persian OCR confidence 56.0; head match 0.442; head OCR confidence 61.9
+- **vision** — PDF p. 489; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **visionary stay** — PDF p. 489; Persian OCR confidence 67.5; head match 0.818; head OCR confidence 60.9
+- **visionary conceptions** — PDF p. 489; Persian OCR confidence 87.1; head match 0.816; head OCR confidence 53.1
+- **visitant** — PDF p. 489; Persian OCR confidence 72.0; head match 0.329; head OCR confidence 24.2
+- **visitational** — PDF p. 489; Persian OCR confidence 60.4; head match 1.0; head OCR confidence 59.5
+- **visiting nurse** — PDF p. 489; Persian OCR confidence 50.5; head match 1.0; head OCR confidence 81.6
+- **visiting professor** — PDF p. 489; Persian OCR confidence 83.1; head match 0.81; head OCR confidence 53.7
+- **visiting teacher Sls igi** — PDF p. 489; Persian OCR confidence 85.3; head match 0.833; head OCR confidence 58.1
+- **visitor** — PDF p. 489; Persian OCR confidence 84.2; head match 0.824; head OCR confidence 37.3
+- **vis major (L.)** — PDF p. 489; Persian OCR confidence 76.3; head match 0.467; head OCR confidence 37.7
+- **visual** — PDF p. 489; Persian OCR confidence 48.4; head match 0.323; head OCR confidence 21.6
+- **visual agnosia** — PDF p. 489; Persian OCR confidence 82.6; head match 0.722; head OCR confidence 60.7
+- **visual aid tase** — PDF p. 489; Persian OCR confidence 0.0; head match 0.818; head OCR confidence 60.3
+- **visual aphasia** — PDF p. 489; Persian OCR confidence 64.2; head match 0.743; head OCR confidence 71.3
+- **vlsual arts** — PDF p. 489; Persian OCR confidence 89.8; head match 0.406; head OCR confidence 42.9
+- **visual capture** — PDF p. 489; Persian OCR confidence 43.5; head match 0.743; head OCR confidence 43.4
+- **visual dominance** — PDF p. 489; Persian OCR confidence 50.9; head match 0.811; head OCR confidence 49.9
+- **visual education** — PDF p. 489; Persian OCR confidence 91.9; head match 0.769; head OCR confidence 58.1
+- **visual field ed ghee** — PDF p. 489; Persian OCR confidence 80.1; head match 0.786; head OCR confidence 73.8
+- **visual hallucination** — PDF p. 489; Persian OCR confidence 81.7; head match 0.826; head OCR confidence 54.3
+- **visual image** — PDF p. 489; Persian OCR confidence 89.7; head match 0.759; head OCR confidence 60.1
+- **visualization** — PDF p. 489; Persian OCR confidence 68.4; head match 0.72; head OCR confidence 86.2
+- **visualizer** — PDF p. 489; Persian OCR confidence 64.7; head match 0.9; head OCR confidence 50.2
+- **visually handicapped ku** — PDF p. 490; Persian OCR confidence 60.1; head match 0.95; head OCR confidence 83.8
+- **visual-motor** — PDF p. 490; Persian OCR confidence 89.6; head match 0.71; head OCR confidence 31.5
+- **visual organization ky gljlo (ls,** — PDF p. 490; Persian OCR confidence 86.5; head match 0.8; head OCR confidence 58.9
+- **visual projection** — PDF p. 490; Persian OCR confidence 60.1; head match 0.821; head OCR confidence 51.5
+- **visual sensibility** — PDF p. 490; Persian OCR confidence 61.7; head match 0.81; head OCR confidence 48.4
+- **visual space** — PDF p. 490; Persian OCR confidence 86.8; head match 0.481; head OCR confidence 62.9
+- **visual span ago (ly,** — PDF p. 490; Persian OCR confidence 86.9; head match 0.8; head OCR confidence 55.9
+- **visual type** — PDF p. 490; Persian OCR confidence 88.1; head match 0.56; head OCR confidence 55.9
+- **visumotor** — PDF p. 490; Persian OCR confidence 68.5; head match 0.75; head OCR confidence 40.3
+- **vital** — PDF p. 490; Persian OCR confidence 77.5; head match 0.233; head OCR confidence 33.7
+- **vital events** — PDF p. 490; Persian OCR confidence 70.8; head match 0.453; head OCR confidence 48.3
+- **vital impulse ~ 1** — PDF p. 490; Persian OCR confidence 84.1; head match 0.686; head OCR confidence 28.7
+- **vital index** — PDF p. 490; Persian OCR confidence 73.7; head match 0.483; head OCR confidence 43.6
+- **vital interests** — PDF p. 490; Persian OCR confidence 88.3; head match 0.757; head OCR confidence 58.7
+- **vitalism** — PDF p. 490; Persian OCR confidence 90.2; head match 0.431; head OCR confidence 35.3
+- **vitalist** — PDF p. 490; Persian OCR confidence 85.4; head match 0.727; head OCR confidence 33.1
+- **vitality** — PDF p. 490; Persian OCR confidence 73.9; head match 0.778; head OCR confidence 93.1
+- **vitalness** — PDF p. 490; Persian OCR confidence 64.1; head match 0.72; head OCR confidence 33.8
+- **vital phenomena** — PDF p. 490; Persian OCR confidence 55.5; head match 0.757; head OCR confidence 61.3
+- **vital principle she Jol** — PDF p. 490; Persian OCR confidence 66.4; head match 0.824; head OCR confidence 64.2
+- **vital records** — PDF p. 490; Persian OCR confidence 54.6; head match 0.5; head OCR confidence 64.2
+- **vital revolution eer Dil** — PDF p. 490; Persian OCR confidence 85.9; head match 0.833; head OCR confidence 66.6
+- **vitals** — PDF p. 490; Persian OCR confidence 87.1; head match 0.4; head OCR confidence 49.4
+- **vital signs** — PDF p. 490; Persian OCR confidence 79.6; head match 0.467; head OCR confidence 45.4
+- **vltal statistics** — PDF p. 490; Persian OCR confidence 67.3; head match 0.667; head OCR confidence 43.0
+- **viticulture** — PDF p. 490; Persian OCR confidence 25.3; head match 0.846; head OCR confidence 46.6
+- **viva voce (L.)** — PDF p. 490; Persian OCR confidence 80.9; head match 0.485; head OCR confidence 54.9
+- **vivid** — PDF p. 490; Persian OCR confidence 75.7; head match 0.769; head OCR confidence 39.7
+- **vividness** — PDF p. 490; Persian OCR confidence 73.5; head match 0.783; head OCR confidence 30.1
+- **vivification** — PDF p. 490; Persian OCR confidence 66.4; head match 0.442; head OCR confidence 17.1
+- **vivifier** — PDF p. 490; Persian OCR confidence 0; head match 1.0; head OCR confidence 34.1
+- **vivisection** — PDF p. 490; Persian OCR confidence 85.0; head match 0.786; head OCR confidence 32.3
+- **vivisec:tlonal** — PDF p. 490; Persian OCR confidence 87.2; head match 0.8; head OCR confidence 32.3
+- **vizier (Turk. Pers.)** — PDF p. 490; Persian OCR confidence 80.8; head match 0.8; head OCR confidence 44.0
+- **vizieral** — PDF p. 490; Persian OCR confidence 87.0; head match 0.727; head OCR confidence 34.8
+- **vizierate** — PDF p. 490; Persian OCR confidence 90.1; head match 0.609; head OCR confidence 34.8
+- **vizir** — PDF p. 490; Persian OCR confidence 0; head match 0.494; head OCR confidence 96.7
+- **Viziership** — PDF p. 490; Persian OCR confidence 0; head match 0.483; head OCR confidence 78.4
+- **vocable** — PDF p. 490; Persian OCR confidence 85.3; head match 0.445; head OCR confidence 33.2
+- **vocabulary** — PDF p. 490; Persian OCR confidence 68.6; head match 0.741; head OCR confidence 45.8
+- **vocal** — PDF p. 490; Persian OCR confidence 76.4; head match 0.35; head OCR confidence 28.9
+- **vocalic consonant** — PDF p. 490; Persian OCR confidence 46.6; head match 0.682; head OCR confidence 29.3
+- **vocalic feature** — PDF p. 490; Persian OCR confidence 89.8; head match 0.49; head OCR confidence 41.7
+- **vocalic system** — PDF p. 491; Persian OCR confidence 81.1; head match 0.492; head OCR confidence 51.0
+- **vocalism** — PDF p. 491; Persian OCR confidence 71.5; head match 0.415; head OCR confidence 30.9
+- **vocalist** — PDF p. 491; Persian OCR confidence 84.3; head match 0.386; head OCR confidence 24.2
+- **vocality** — PDF p. 491; Persian OCR confidence 29.9; head match 0.842; head OCR confidence 54.3
+- **vocalization** — PDF p. 491; Persian OCR confidence 74.4; head match 0.609; head OCR confidence 54.3
+- **vocation** — PDF p. 491; Persian OCR confidence 74.5; head match 0.762; head OCR confidence 50.4
+- **vocational advice** — PDF p. 491; Persian OCR confidence 89.7; head match 0.78; head OCR confidence 46.8
+- **vocational aptitude** — PDF p. 491; Persian OCR confidence 41.2; head match 1.0; head OCR confidence 62.4
+- **vocational counseling (1** — PDF p. 491; Persian OCR confidence 0; head match 0.93; head OCR confidence 54.4
+- **vocational maladjustment** — PDF p. 491; Persian OCR confidence 63.5; head match 1.0; head OCR confidence 96.4
+- **vocational school** — PDF p. 491; Persian OCR confidence 92.0; head match 0.744; head OCR confidence 47.2
+- **vocational training** — PDF p. 491; Persian OCR confidence 49.0; head match 1.0; head OCR confidence 96.6
+- **vocative** — PDF p. 491; Persian OCR confidence 69.1; head match 0.386; head OCR confidence 23.6
+- **vogue** — PDF p. 491; Persian OCR confidence 63.7; head match 0.35; head OCR confidence 24.5
+- **voguishness** — PDF p. 491; Persian OCR confidence 54.0; head match 0.815; head OCR confidence 40.4
+- **VOICE** — PDF p. 491; Persian OCR confidence 74.8; head match 0.833; head OCR confidence 65.3
+- **voicedness** — PDF p. 491; Persian OCR confidence 80.5; head match 0.8; head OCR confidence 20.8
+- **voiceless** — PDF p. 491; Persian OCR confidence 87.2; head match 0.667; head OCR confidence 20.8
+- **voicelessness<..s5"1<.S! .r** — PDF p. 491; Persian OCR confidence 81.8; head match 0.667; head OCR confidence 22.8
+- **voicing** — PDF p. 491; Persian OCR confidence 83.4; head match 0.49; head OCR confidence 49.3
+- **volatile** — PDF p. 491; Persian OCR confidence 71.9; head match 0.431; head OCR confidence 37.5
+- **volatility** — PDF p. 491; Persian OCR confidence 83.1; head match 0.35; head OCR confidence 20.4
+- **volition** — PDF p. 491; Persian OCR confidence 83.2; head match 0.339; head OCR confidence 42.7
+- **volitional** — PDF p. 491; Persian OCR confidence 84.6; head match 0.326; head OCR confidence 24.8
+- **volitive** — PDF p. 491; Persian OCR confidence 84.6; head match 0.26; head OCR confidence 33.1
+- **Volkslied; volkslied (G.) ‘aiuale aly** — PDF p. 491; Persian OCR confidence 56.8; head match 0.809; head OCR confidence 56.4
+- **Volksstaat (G.) tye** — PDF p. 491; Persian OCR confidence 57.5; head match 0.88; head OCR confidence 63.7
+- **volume** — PDF p. 491; Persian OCR confidence 80.3; head match 0.42; head OCR confidence 40.7
+- **voluminous** — PDF p. 491; Persian OCR confidence 66.5; head match 0.741; head OCR confidence 28.6
+- **voluntarism** — PDF p. 491; Persian OCR confidence 83.2; head match 0.405; head OCR confidence 36.4
+- **voluntarist** — PDF p. 491; Persian OCR confidence 63.8; head match 0.733; head OCR confidence 23.5
+- **voluntaristic** — PDF p. 491; Persian OCR confidence 64.0; head match 1.0; head OCR confidence 23.5
+- **voluntary** — PDF p. 492; Persian OCR confidence 78.8; head match 0.371; head OCR confidence 33.9
+- **voluntary admission ailbesls** — PDF p. 492; Persian OCR confidence 76.3; head match 0.818; head OCR confidence 65.7
+- **voluntary group** — PDF p. 492; Persian OCR confidence 70.3; head match 0.778; head OCR confidence 64.1
+- **voluntaryism** — PDF p. 492; Persian OCR confidence 64.9; head match 0.727; head OCR confidence 28.0
+- **voluntaryist** — PDF p. 492; Persian OCR confidence 67.4; head match 0.667; head OCR confidence 28.0
+- **voluntary motion Purncal** — PDF p. 492; Persian OCR confidence 80.4; head match 0.811; head OCR confidence 64.2
+- **voluntary parenthood** — PDF p. 492; Persian OCR confidence 65.9; head match 0.745; head OCR confidence 41.1
+- **voluntary saving GSS! jlil.** — PDF p. 492; Persian OCR confidence 80.0; head match 0.811; head OCR confidence 57.0
+- **volunteer** — PDF p. 492; Persian OCR confidence 91.5; head match 0.72; head OCR confidence 48.2
+- **volunteer bias** — PDF p. 492; Persian OCR confidence 70.9; head match 0.743; head OCR confidence 60.0
+- **volunteerism** — PDF p. 492; Persian OCR confidence 34.7; head match 0.494; head OCR confidence 48.3
+- **voluptuary** — PDF p. 492; Persian OCR confidence 52.0; head match 0.714; head OCR confidence 30.5
+- **voluptuous** — PDF p. 492; Persian OCR confidence 70.3; head match 0.571; head OCR confidence 30.5
+- **voodoo** — PDF p. 492; Persian OCR confidence 71.2; head match 0.3; head OCR confidence 38.9
+- **voodooism** — PDF p. 492; Persian OCR confidence 63.7; head match 0.783; head OCR confidence 30.7
+- **voodooist** — PDF p. 492; Persian OCR confidence 46.5; head match 0.467; head OCR confidence 42.0
+- **voodooistic** — PDF p. 492; Persian OCR confidence 69.9; head match 0.621; head OCR confidence 42.0
+- **votary** — PDF p. 492; Persian OCR confidence 84.6; head match 0.42; head OCR confidence 31.1
+- **vote** — PDF p. 492; Persian OCR confidence 69.4; head match 0.286; head OCR confidence 26.7
+- **voteless** — PDF p. 492; Persian OCR confidence 77.9; head match 0.487; head OCR confidence 55.1
+- **voter** — PDF p. 492; Persian OCR confidence 87.0; head match 0.389; head OCR confidence 48.5
+- **voter eligibility lg Sls** — PDF p. 492; Persian OCR confidence 56.3; head match 0.865; head OCR confidence 64.3
+- **voting Ph** — PDF p. 492; Persian OCR confidence 63.1; head match 0.857; head OCR confidence 65.2
+- **voting machine** — PDF p. 492; Persian OCR confidence 88.4; head match 0.667; head OCR confidence 65.2
+- **votive** — PDF p. 492; Persian OCR confidence 87.3; head match 0.365; head OCR confidence 43.7
+- **vow** — PDF p. 492; Persian OCR confidence 54.4; head match 0.3; head OCR confidence 20.1
+- **vowelization** — PDF p. 492; Persian OCR confidence 88.7; head match 0.48; head OCR confidence 40.8
+- **vowel point** — PDF p. 492; Persian OCR confidence 84.4; head match 0.483; head OCR confidence 63.4
+- **vower** — PDF p. 492; Persian OCR confidence 69.3; head match 0.389; head OCR confidence 38.4
+- **vox pop** — PDF p. 492; Persian OCR confidence 0; head match 0.75; head OCR confidence 90.9
+- **voyage (Fr.) \5** — PDF p. 492; Persian OCR confidence 65.6; head match 0.4; head OCR confidence 35.3
+- **voyager** — PDF p. 492; Persian OCR confidence 47.9; head match 0.467; head OCR confidence 34.9
+- **voyeur (Fr.)** — PDF p. 492; Persian OCR confidence 69.5; head match 0.455; head OCR confidence 34.9
+- **voyeurism** — PDF p. 492; Persian OCR confidence 84.2; head match 0.485; head OCR confidence 48.9
+- **voyeuristic** — PDF p. 492; Persian OCR confidence 73.2; head match 0.714; head OCR confidence 48.9
+- **vulgar** — PDF p. 492; Persian OCR confidence 64.1; head match 0.28; head OCR confidence 36.6
+- **vulgarian** — PDF p. 492; Persian OCR confidence 90.7; head match 0.3; head OCR confidence 26.3
+- **vulgarity** — PDF p. 492; Persian OCR confidence 74.3; head match 0.75; head OCR confidence 52.1
+- **vulgarization** — PDF p. 492; Persian OCR confidence 73.7; head match 0.788; head OCR confidence 35.8
+- **vulgarizer** — PDF p. 492; Persian OCR confidence 68.6; head match 0.381; head OCR confidence 18.4
+- **vulgarness ~t,,.,.t.c.r** — PDF p. 492; Persian OCR confidence 91.8; head match 0.552; head OCR confidence 57.0
+- **vulgate** — PDF p. 492; Persian OCR confidence 64.6; head match 0.778; head OCR confidence 45.2

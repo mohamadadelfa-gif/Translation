@@ -1,0 +1,224 @@
+# O — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **obeah** — PDF p. 302, printed p. 301; Persian OCR confidence 43.9; head confidence 92.1; embedded `obeah`.
+- **obedient** — PDF p. 302, printed p. 301; Persian OCR confidence 52.5; head confidence 96.7; embedded `obedient`.
+- **obelsant** — PDF p. 302, printed p. 301; Persian OCR confidence 45.7; head confidence 54.2; embedded `obeisant`.
+- **obelisk** — PDF p. 302, printed p. 301; Persian OCR confidence 74.5; head confidence 0.0; embedded `obelisk`.
+- **object choice** — PDF p. 302, printed p. 301; Persian OCR confidence 50.1; head confidence 96.3; embedded `object choice`.
+- **objectifiable** — PDF p. 302, printed p. 301; Persian OCR confidence 44.3; head confidence 92.0; embedded `objectifiable`.
+- **objectification** — PDF p. 302, printed p. 301; Persian OCR confidence 50.8; head confidence 79.5; embedded `objectification`.
+- **objectified** — PDF p. 302, printed p. 301; Persian OCR confidence 0.0; head confidence 70.6; embedded `objectified`.
+- **objectified labor** — PDF p. 302, printed p. 301; Persian OCR confidence 0.0; head confidence 73.9; embedded `objectified labor`.
+- **objectivating** — PDF p. 302, printed p. 301; Persian OCR confidence 0.0; head confidence 30.1; embedded `objectivating`.
+- **objective,.)~_..:..;.:...,,,: .r** — PDF p. 302, printed p. 301; Persian OCR confidence 73.6; head confidence 22.7; embedded `objective,.)~_..:..;.:...,,,: .r`.
+- **objective anxiety** — PDF p. 302, printed p. 301; Persian OCR confidence 46.4; head confidence 92.0; embedded `objective anxiety`.
+- **objective examination** — PDF p. 302, printed p. 301; Persian OCR confidence 12.9; head confidence 85.1; embedded `objective examination`.
+- **Objective reality** — PDF p. 302, printed p. 301; Persian OCR confidence 48.9; head confidence 90.5; embedded `objective reality`.
+- **objectivism** — PDF p. 303, printed p. 302; Persian OCR confidence 59.1; head confidence 92.1; embedded `objectlvlsm`.
+- **objectivist** — PDF p. 303, printed p. 302; Persian OCR confidence 56.3; head confidence 0.0; embedded `objectivist`.
+- **objectivistic** — PDF p. 303, printed p. 302; Persian OCR confidence 41.9; head confidence 92.9; embedded `objectivistic`.
+- **object language** — PDF p. 303, printed p. 302; Persian OCR confidence 53.0; head confidence 96.4; embedded `object language`.
+- **object lesson** — PDF p. 303, printed p. 302; Persian OCR confidence 44.2; head confidence 95.7; embedded `object lesson`.
+- **object loss** — PDF p. 303, printed p. 302; Persian OCR confidence 36.8; head confidence 95.6; embedded `object loss`.
+- **object permanence** — PDF p. 303, printed p. 302; Persian OCR confidence 49.7; head confidence 96.8; embedded `object permanence`.
+- **object relations** — PDF p. 303, printed p. 302; Persian OCR confidence 47.7; head confidence 96.6; embedded `object relations`.
+- **object seeking** — PDF p. 303, printed p. 302; Persian OCR confidence 43.7; head confidence 96.4; embedded `object seeking`.
+- **objet d’art (Fr.)** — PDF p. 303, printed p. 302; Persian OCR confidence 49.6; head confidence 92.1; embedded `objet d'art (Fr.)`.
+- **objet trouvé (Fr.)** — PDF p. 303, printed p. 302; Persian OCR confidence 43.8; head confidence 93.4; embedded `objet trouve (Fr.)`.
+- **obligation** — PDF p. 303, printed p. 302; Persian OCR confidence 67.5; head confidence 96.8; embedded `obllgatlon`.
+- **obligee** — PDF p. 303, printed p. 302; Persian OCR confidence 52.7; head confidence 46.3; embedded `obligee`.
+- **oblivescence** — PDF p. 303, printed p. 302; Persian OCR confidence 0.0; head confidence 81.3; embedded `oblivescence = obliviscence`.
+- **obliviscence** — PDF p. 303, printed p. 302; Persian OCR confidence 0.0; head confidence 69.2; embedded `obliviscence`.
+- **obscene** — PDF p. 303, printed p. 302; Persian OCR confidence 0.0; head confidence 84.6; embedded `obscene`.
+- **obscenity** — PDF p. 303, printed p. 302; Persian OCR confidence 0.0; head confidence 93.5; embedded `obscenity`.
+- **obscurant** — PDF p. 303, printed p. 302; Persian OCR confidence 0.0; head confidence 54.1; embedded `obscurant`.
+- **obscurantism** — PDF p. 303, printed p. 302; Persian OCR confidence 0.0; head confidence 78.1; embedded `obscurantism`.
+- **obsequy** — PDF p. 303, printed p. 302; Persian OCR confidence 0.0; head confidence 92.7; embedded `obsequy = obsequies`.
+- **observability** — PDF p. 303, printed p. 302; Persian OCR confidence 0.0; head confidence 92.2; embedded `observability`.
+- **observable** — PDF p. 303, printed p. 302; Persian OCR confidence 2.8; head confidence 65.1; embedded `observable`.
+- **observation** — PDF p. 303, printed p. 302; Persian OCR confidence 44.5; head confidence 89.3; embedded `observation`.
+- **observational judgement** — PDF p. 303, printed p. 302; Persian OCR confidence 15.4; head confidence 89.1; embedded `observational judgement`.
+- **observatory** — PDF p. 303, printed p. 302; Persian OCR confidence 24.3; head confidence 95.5; embedded `observatory`.
+- **observer** — PDF p. 303, printed p. 302; Persian OCR confidence 67.6; head confidence 36.6; embedded `observer`.
+- **obsessional** — PDF p. 303, printed p. 302; Persian OCR confidence 21.4; head confidence 85.2; embedded `obsesslonal`.
+- **obsoletism** — PDF p. 304, printed p. 303; Persian OCR confidence 31.4; head confidence 90.3; embedded `obsoletism`.
+- **obstinateness** — PDF p. 304, printed p. 303; Persian OCR confidence 0.0; head confidence 94.5; embedded `obstinateness = obstinacy`.
+- **obstructionism** — PDF p. 304, printed p. 303; Persian OCR confidence 53.0; head confidence 92.3; embedded `obstructionism`.
+- **obstructiveness** — PDF p. 304, printed p. 303; Persian OCR confidence 38.3; head confidence 92.7; embedded `obstructiveness`.
+- **obstruent** — PDF p. 304, printed p. 303; Persian OCR confidence 13.9; head confidence 91.4; embedded `obstruent`.
+- **Occam's razor** — PDF p. 304, printed p. 303; Persian OCR confidence 42.9; head confidence 82.5; embedded `Occam's razor`.
+- **occasioning** — PDF p. 304, printed p. 303; Persian OCR confidence 8.1; head confidence 88.8; embedded `occasioning`.
+- **occident** — PDF p. 304, printed p. 303; Persian OCR confidence 80.3; head confidence 38.5; embedded `occident`.
+- **occidentalization; Occidentalization** — PDF p. 304, printed p. 303; Persian OCR confidence 20.7; head confidence 82.6; embedded `occidental ization; Occidentalization`.
+- **occlusive** — PDF p. 304, printed p. 303; Persian OCR confidence 0.0; head confidence 82.4; embedded `occlusive`.
+- **occult** — PDF p. 304, printed p. 303; Persian OCR confidence 84.6; head confidence 36.3; embedded `occult`.
+- **occult wisdom** — PDF p. 304, printed p. 303; Persian OCR confidence 18.5; head confidence 88.2; embedded `occult wisdom`.
+- **occupational choice** — PDF p. 304, printed p. 303; Persian OCR confidence 15.1; head confidence 91.9; embedded `occupational choice`.
+- **Occupational mobility** — PDF p. 304, printed p. 303; Persian OCR confidence 43.2; head confidence 91.8; embedded `occupatlonal mobility`.
+- **occupational mortality** — PDF p. 305, printed p. 304; Persian OCR confidence 40.0; head confidence 96.4; embedded `occupational mortality`.
+- **occupational structure** — PDF p. 305, printed p. 304; Persian OCR confidence 45.5; head confidence 95.5; embedded `occupational structure`.
+- **occupational therapy** — PDF p. 305, printed p. 304; Persian OCR confidence 51.3; head confidence 90.4; embedded `occupational therapy`.
+- **occupier** — PDF p. 305, printed p. 304; Persian OCR confidence 50.6; head confidence 95.8; embedded `occupier`.
+- **ochlocrat** — PDF p. 305, printed p. 304; Persian OCR confidence 48.5; head confidence 92.3; embedded `ochlocrat`.
+- **Ockham's razor** — PDF p. 305, printed p. 304; Persian OCR confidence 0.0; head confidence 92.8; embedded `Ockham's razor = Occam's razor`.
+- **Ockhamism** — PDF p. 305, printed p. 304; Persian OCR confidence 0.0; head confidence 92.0; embedded `Ockhamism = Occamism`.
+- **oculocentric** — PDF p. 305, printed p. 304; Persian OCR confidence 26.7; head confidence 91.6; embedded `oculocentric`.
+- **odalisk** — PDF p. 305, printed p. 304; Persian OCR confidence 0.0; head confidence 91.0; embedded `odalisk = odalisque`.
+- **oedipal; Oedipal** — PDF p. 305, printed p. 304; Persian OCR confidence 0.0; head confidence 93.1; embedded `oedipal; Oedipal -`.
+- **oenological** — PDF p. 305, printed p. 304; Persian OCR confidence 45.3; head confidence 87.3; embedded `oenological`.
+- **oenophilia** — PDF p. 305, printed p. 304; Persian OCR confidence 54.0; head confidence 76.8; embedded `oenophilla`.
+- **oeuvre(s)** — PDF p. 305, printed p. 304; Persian OCR confidence 63.4; head confidence 44.7; embedded `oeuvre(s)`.
+- **office management** — PDF p. 305, printed p. 304; Persian OCR confidence 48.2; head confidence 96.5; embedded `office management`.
+- **officialdom** — PDF p. 305, printed p. 304; Persian OCR confidence 85.5; head confidence 8.9; embedded `officialdom`.
+- **Officialese** — PDF p. 305, printed p. 304; Persian OCR confidence 92.2; head confidence 51.1; embedded `offlclalese`.
+- **officialism** — PDF p. 306, printed p. 305; Persian OCR confidence 78.8; head confidence 35.3; embedded `officialism`.
+- **officiary** — PDF p. 306, printed p. 305; Persian OCR confidence 76.5; head confidence 76.9; embedded `offlclary`.
+- **offprint** — PDF p. 306, printed p. 305; Persian OCR confidence 17.1; head confidence 96.3; embedded `offprint`.
+- **offshore** — PDF p. 306, printed p. 305; Persian OCR confidence 26.5; head confidence 96.0; embedded `offshore`.
+- **offshore investment** — PDF p. 306, printed p. 305; Persian OCR confidence 42.5; head confidence 96.3; embedded `offshore investment`.
+- **Offshore politics** — PDF p. 306, printed p. 305; Persian OCR confidence 37.6; head confidence 67.3; embedded `offshore politics`.
+- **old age** — PDF p. 306, printed p. 305; Persian OCR confidence 45.5; head confidence 96.1; embedded `old age`.
+- **Old Persian** — PDF p. 306, printed p. 305; Persian OCR confidence 26.6; head confidence 95.9; embedded `Old Persian`.
+- **old school** — PDF p. 306, printed p. 305; Persian OCR confidence 38.2; head confidence 96.8; embedded `old school`.
+- **Old World** — PDF p. 306, printed p. 305; Persian OCR confidence 54.0; head confidence 96.0; embedded `Old World`.
+- **olfactory** — PDF p. 306, printed p. 305; Persian OCR confidence 0.0; head confidence 53.5; embedded `olfactory`.
+- **ollgopsony** — PDF p. 306, printed p. 305; Persian OCR confidence 42.2; head confidence 39.7; embedded `ollgopsony`.
+- **omnipotence** — PDF p. 306, printed p. 305; Persian OCR confidence 60.7; head confidence 43.7; embedded `omnipotence`.
+- **omnipotency** — PDF p. 306, printed p. 305; Persian OCR confidence 0.0; head confidence 85.5; embedded `omnipotency = omnipotence`.
+- **omnipresence** — PDF p. 306, printed p. 305; Persian OCR confidence 9.1; head confidence 92.0; embedded `omnipresence`.
+- **omnipresent** — PDF p. 306, printed p. 305; Persian OCR confidence 0.0; head confidence 54.5; embedded `omnipresent`.
+- **omniscience** — PDF p. 306, printed p. 305; Persian OCR confidence 0.0; head confidence 57.7; embedded `omniscience`.
+- **omnisciency** — PDF p. 306, printed p. 305; Persian OCR confidence 0.0; head confidence 82.3; embedded `omnisciency = omniscience`.
+- **omnisexual** — PDF p. 306, printed p. 305; Persian OCR confidence 46.3; head confidence 80.7; embedded `omnisexual`.
+- **onanist** — PDF p. 306, printed p. 305; Persian OCR confidence 38.1; head confidence 69.7; embedded `onanist`.
+- **One** — PDF p. 306, printed p. 305; Persian OCR confidence 48.0; head confidence 79.5; embedded `One`.
+- **oneiric** — PDF p. 306, printed p. 305; Persian OCR confidence 53.2; head confidence 69.8; embedded `onelrlc`.
+- **oneiromancer** — PDF p. 307, printed p. 306; Persian OCR confidence 52.1; head confidence 88.7; embedded `onelromancer`.
+- **onelromancy** — PDF p. 307, printed p. 306; Persian OCR confidence 71.8; head confidence 31.9; embedded `onelromancy`.
+- **onomasiology** — PDF p. 307, printed p. 306; Persian OCR confidence 54.9; head confidence 90.3; embedded `onomasiology`.
+- **onomastic** — PDF p. 307, printed p. 306; Persian OCR confidence 48.8; head confidence 90.5; embedded `onomastlc`.
+- **onomastics** — PDF p. 307, printed p. 306; Persian OCR confidence 42.0; head confidence 91.6; embedded `onomastlcs`.
+- **onomatomania** — PDF p. 307, printed p. 306; Persian OCR confidence 48.4; head confidence 90.3; embedded `onomatomanla`.
+- **ontic** — PDF p. 307, printed p. 306; Persian OCR confidence 82.3; head confidence 92.5; embedded `ontlc`.
+- **ontogenesis** — PDF p. 307, printed p. 306; Persian OCR confidence 0.0; head confidence 94.3; embedded `ontogenesis = ontogeny`.
+- **op.art** — PDF p. 307, printed p. 306; Persian OCR confidence 69.5; head confidence 11.1; embedded `op.art`.
+- **open-endednes~)"!..i;Li..:.,44** — PDF p. 307, printed p. 306; Persian OCR confidence 45.4; head confidence 32.7; embedded `open-endednes~)"!..i;Li..:.,44`.
+- **open house** — PDF p. 307, printed p. 306; Persian OCR confidence 36.7; head confidence 90.5; embedded `open house`.
+- **opening** — PDF p. 307, printed p. 306; Persian OCR confidence 18.5; head confidence 93.7; embedded `opening`.
+- **open-minded** — PDF p. 307, printed p. 306; Persian OCR confidence 40.0; head confidence 37.8; embedded `open-minded`.
+- **open question** — PDF p. 307, printed p. 306; Persian OCR confidence 45.4; head confidence 83.7; embedded `open question`.
+- **operant** — PDF p. 307, printed p. 306; Persian OCR confidence 40.0; head confidence 67.4; embedded `operant`.
+- **Operant behavior** — PDF p. 308, printed p. 307; Persian OCR confidence 31.8; head confidence 81.6; embedded `operant behavior`.
+- **operatic .r** — PDF p. 308, printed p. 307; Persian OCR confidence 72.0; head confidence 33.6; embedded `operatic .r`.
+- **operating** — PDF p. 308, printed p. 307; Persian OCR confidence 39.3; head confidence 95.5; embedded `operating`.
+- **operational** — PDF p. 308, printed p. 307; Persian OCR confidence 42.7; head confidence 95.9; embedded `operational`.
+- **operationalism** — PDF p. 308, printed p. 307; Persian OCR confidence 82.8; head confidence 19.8; embedded `operationalism`.
+- **operationism** — PDF p. 308, printed p. 307; Persian OCR confidence 30.8; head confidence 90.7; embedded `operationism`.
+- **operativity** — PDF p. 308, printed p. 307; Persian OCR confidence 7.3; head confidence 92.2; embedded `operativity`.
+- **operator** — PDF p. 308, printed p. 307; Persian OCR confidence 54.5; head confidence 90.6; embedded `operator`.
+- **operatory** — PDF p. 308, printed p. 307; Persian OCR confidence 0.0; head confidence 93.4; embedded `operatory = operational`.
+- **ophidophobia** — PDF p. 308, printed p. 307; Persian OCR confidence 47.5; head confidence 91.2; embedded `ophidophobia`.
+- **opponent,Jt,.J .r** — PDF p. 308, printed p. 307; Persian OCR confidence 60.4; head confidence 29.3; embedded `opponent,Jt,.J .r`.
+- **oppositionist** — PDF p. 308, printed p. 307; Persian OCR confidence 88.4; head confidence 44.2; embedded `oppositionist`.
+- **oppression** — PDF p. 308, printed p. 307; Persian OCR confidence 75.6; head confidence 0.0; embedded `oppression`.
+- **oppressive** — PDF p. 308, printed p. 307; Persian OCR confidence 48.1; head confidence 52.7; embedded `oppressive`.
+- **optic(-al)** — PDF p. 308, printed p. 307; Persian OCR confidence 88.4; head confidence 29.7; embedded `optic(-al)`.
+- **optical art** — PDF p. 308, printed p. 307; Persian OCR confidence 48.1; head confidence 96.7; embedded `optical art`.
+- **optics** — PDF p. 308, printed p. 307; Persian OCR confidence 89.8; head confidence 43.7; embedded `optics`.
+- **optima** — PDF p. 308, printed p. 307; Persian OCR confidence 35.9; head confidence 74.4; embedded `optima`.
+- **optimality** — PDF p. 308, printed p. 307; Persian OCR confidence 8.2; head confidence 35.4; embedded `optimality`.
+- **optlmific** — PDF p. 308, printed p. 307; Persian OCR confidence 89.9; head confidence 32.9; embedded `optlmific`.
+- **optimistic** — PDF p. 309, printed p. 308; Persian OCR confidence 45.1; head confidence 96.5; embedded `optimistic`.
+- **optimum population** — PDF p. 309, printed p. 308; Persian OCR confidence 0.0; head confidence 96.0; embedded `optimum population`.
+- **option** — PDF p. 309, printed p. 308; Persian OCR confidence 0.0; head confidence 96.2; embedded `option`.
+- **optional** — PDF p. 309, printed p. 308; Persian OCR confidence 0.0; head confidence 96.5; embedded `optional`.
+- **oracular ,...;~** — PDF p. 309, printed p. 308; Persian OCR confidence 60.5; head confidence 36.0; embedded `oracular ,...;~`.
+- **oral personality** — PDF p. 309, printed p. 308; Persian OCR confidence 10.3; head confidence 87.4; embedded `oral personality = oral character`.
+- **oratorical** — PDF p. 309, printed p. 308; Persian OCR confidence 84.7; head confidence 43.3; embedded `oratorical`.
+- **order** — PDF p. 309, printed p. 308; Persian OCR confidence 75.2; head confidence 0.0; embedded `order`.
+- **orderliness** — PDF p. 309, printed p. 308; Persian OCR confidence 75.9; head confidence 39.5; embedded `orderliness`.
+- **order of priesthood** — PDF p. 310, printed p. 309; Persian OCR confidence 26.0; head confidence 96.7; embedded `order of priesthood`.
+- **order of values** — PDF p. 310, printed p. 309; Persian OCR confidence 0.0; head confidence 96.7; embedded `order of values`.
+- **ordinance** — PDF p. 310, printed p. 309; Persian OCR confidence 24.4; head confidence 96.6; embedded `ordinance`.
+- **ordinary** — PDF p. 310, printed p. 309; Persian OCR confidence 0.0; head confidence 96.5; embedded `ordinary`.
+- **ordinary language** — PDF p. 310, printed p. 309; Persian OCR confidence 0.0; head confidence 96.6; embedded `ordinary language`.
+- **ordinary share** — PDF p. 310, printed p. 309; Persian OCR confidence 0.0; head confidence 96.4; embedded `ordinary share`.
+- **ordinary stock** — PDF p. 310, printed p. 309; Persian OCR confidence 0.0; head confidence 96.6; embedded `ordinary stock`.
+- **organicist** — PDF p. 310, printed p. 309; Persian OCR confidence 79.7; head confidence 92.5; embedded `organlclst`.
+- **organicity** — PDF p. 310, printed p. 309; Persian OCR confidence 54.2; head confidence 92.7; embedded `organicity`.
+- **organismal** — PDF p. 310, printed p. 309; Persian OCR confidence 34.4; head confidence 95.5; embedded `organismal`.
+- **organismic** — PDF p. 310, printed p. 309; Persian OCR confidence 38.1; head confidence 91.1; embedded `organismic`.
+- **orgasmic** — PDF p. 310, printed p. 309; Persian OCR confidence 43.9; head confidence 95.7; embedded `orgasmic`.
+- **orgy** — PDF p. 310, printed p. 309; Persian OCR confidence 80.9; head confidence 0.0; embedded `orgy`.
+- **original surface** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 96.1; embedded `original surface`.
+- **originary** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 92.7; embedded `originary`.
+- **origin myth** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 96.5; embedded `origin myth`.
+- **ornament** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 96.4; embedded `ornament`.
+- **ornamental** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 96.4; embedded `ornamental`.
+- **ornamentation** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 96.6; embedded `ornamentation`.
+- **ornamenter** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 92.5; embedded `ornamenter`.
+- **ornate** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 95.7; embedded `ornate`.
+- **orphan** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 96.6; embedded `orphan`.
+- **orphanage** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 96.8; embedded `orphanage`.
+- **orphanhood** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 92.7; embedded `orphanhood`.
+- **Orphean** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 93.1; embedded `Orphean = Orphic`.
+- **Orphism** — PDF p. 311, printed p. 310; Persian OCR confidence 51.1; head confidence 92.8; embedded `Orphism`.
+- **Orthodox Church** — PDF p. 311, printed p. 310; Persian OCR confidence 36.6; head confidence 91.9; embedded `Orthod~x Church`.
+- **orthogenesis** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 61.9; embedded `orthogenesls`.
+- **orthogenetic** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence 43.0; embedded `orthogenetic`.
+- **oscillatory** — PDF p. 311, printed p. 310; Persian OCR confidence 56.0; head confidence 43.2; embedded `oscillatory`.
+- **Osmanli (Turk.)** — PDF p. 311, printed p. 310; Persian OCR confidence 54.5; head confidence 84.4; embedded `Osmanli (Turk.)`.
+- **ossuary** — PDF p. 311, printed p. 310; Persian OCR confidence 23.0; head confidence 91.8; embedded `ossuary`.
+- **other** — PDF p. 311, printed p. 310; Persian OCR confidence 78.4; head confidence 30.1; embedded `other`.
+- **other-directed** — PDF p. 311, printed p. 310; Persian OCR confidence 3.7; head confidence 63.6; embedded `other-directed`.
+- **other-directedness** — PDF p. 311, printed p. 310; Persian OCR confidence 5.3; head confidence 75.4; embedded `other-dlrectedness`.
+- **otherworld** — PDF p. 311, printed p. 310; Persian OCR confidence 0.0; head confidence n/a; embedded `otherworld`.
+- **otherworldliness** — PDF p. 311, printed p. 310; Persian OCR confidence 53.0; head confidence 80.4; embedded `otherworldliness`.
+- **outcaste** — PDF p. 312, printed p. 311; Persian OCR confidence 71.9; head confidence 9.8; embedded `outcaste`.
+- **outlandishness** — PDF p. 312, printed p. 311; Persian OCR confidence 49.4; head confidence 91.4; embedded `outlandlshness`.
+- **outlaw .r** — PDF p. 312, printed p. 311; Persian OCR confidence 61.8; head confidence 25.3; embedded `outlaw .r`.
+- **outlay** — PDF p. 312, printed p. 311; Persian OCR confidence 0.0; head confidence 96.6; embedded `outlay`.
+- **outlet** — PDF p. 312, printed p. 311; Persian OCR confidence 32.7; head confidence 95.5; embedded `outlet`.
+- **outlier** — PDF p. 312, printed p. 311; Persian OCR confidence 33.2; head confidence 94.4; embedded `outlier`.
+- **outlook ~.:,** — PDF p. 312, printed p. 311; Persian OCR confidence 69.0; head confidence 40.8; embedded `outlook ~.:,`.
+- **outlying** — PDF p. 312, printed p. 311; Persian OCR confidence 46.6; head confidence 96.7; embedded `outlying`.
+- **outmigrant** — PDF p. 312, printed p. 311; Persian OCR confidence 22.5; head confidence 92.3; embedded `out migrant`.
+- **outmigration** — PDF p. 312, printed p. 311; Persian OCR confidence 51.5; head confidence 90.7; embedded `outmigration`.
+- **outmoded** — PDF p. 312, printed p. 311; Persian OCR confidence 28.5; head confidence 96.1; embedded `outmoded`.
+- **out-of-date** — PDF p. 312, printed p. 311; Persian OCR confidence 42.6; head confidence 96.0; embedded `out-of-date`.
+- **output** — PDF p. 312, printed p. 311; Persian OCR confidence 49.6; head confidence 73.1; embedded `output`.
+- **Outsider art** — PDF p. 312, printed p. 311; Persian OCR confidence 48.4; head confidence 83.9; embedded `outsider art`.
+- **outsourced** — PDF p. 312, printed p. 311; Persian OCR confidence 44.6; head confidence 90.8; embedded `outsourced`.
+- **outsourcing** — PDF p. 312, printed p. 311; Persian OCR confidence 49.3; head confidence 73.3; embedded `outsourcing`.
+- **overachiever** — PDF p. 312, printed p. 311; Persian OCR confidence 25.6; head confidence 61.3; embedded `overachiever`.
+- **overact** — PDF p. 312, printed p. 311; Persian OCR confidence 67.5; head confidence 19.3; embedded `overact`.
+- **overcorrection** — PDF p. 312, printed p. 311; Persian OCR confidence 59.3; head confidence 10.4; embedded `overcorrection`.
+- **Overcurlosity** — PDF p. 312, printed p. 311; Persian OCR confidence 32.3; head confidence 56.9; embedded `overcurlosity`.
+- **overcurious** — PDF p. 312, printed p. 311; Persian OCR confidence 58.4; head confidence 0.0; embedded `overcurious`.
+- **overdetermined** — PDF p. 312, printed p. 311; Persian OCR confidence 48.3; head confidence 63.9; embedded `overdetermined`.
+- **overdose** — PDF p. 312, printed p. 311; Persian OCR confidence 33.7; head confidence 85.2; embedded `overdose`.
+- **overdraft** — PDF p. 313, printed p. 312; Persian OCR confidence 40.8; head confidence 96.5; embedded `overdraft`.
+- **overfatigue** — PDF p. 313, printed p. 312; Persian OCR confidence 47.8; head confidence 41.5; embedded `overfatigue`.
+- **overgrazing** — PDF p. 313, printed p. 312; Persian OCR confidence 24.7; head confidence 53.2; embedded `overgrazing`.
+- **overgrowth** — PDF p. 313, printed p. 312; Persian OCR confidence 45.4; head confidence 70.9; embedded `overgrowth`.
+- **overindividual** — PDF p. 313, printed p. 312; Persian OCR confidence 33.4; head confidence 91.9; embedded `overindivldual`.
+- **overissue** — PDF p. 313, printed p. 312; Persian OCR confidence 4.5; head confidence 91.4; embedded `over issue`.
+- **overlearning** — PDF p. 313, printed p. 312; Persian OCR confidence 44.5; head confidence 92.5; embedded `overlearnlng`.
+- **Overoptimism** — PDF p. 313, printed p. 312; Persian OCR confidence 42.2; head confidence 64.5; embedded `overoptimism`.
+- **overqualifled** — PDF p. 313, printed p. 312; Persian OCR confidence 67.2; head confidence 14.7; embedded `overqualifled`.
+- **overreaction** — PDF p. 313, printed p. 312; Persian OCR confidence 40.4; head confidence 88.2; embedded `overreaction`.
+- **overselling** — PDF p. 313, printed p. 312; Persian OCR confidence 88.3; head confidence 33.5; embedded `overselling`.
+- **Oversensitive** — PDF p. 313, printed p. 312; Persian OCR confidence 49.2; head confidence 66.1; embedded `oversensitive`.
+- **Oversensitiveness oversensitivity** — PDF p. 313, printed p. 312; Persian OCR confidence 0.0; head confidence 73.9; embedded `oversensitiveness oversensitivity`.
+- **oversensitivity** — PDF p. 313, printed p. 312; Persian OCR confidence 19.3; head confidence 58.0; embedded `oversensitivity`.
+- **overslmpliflcatlon** — PDF p. 313, printed p. 312; Persian OCR confidence 85.2; head confidence 43.1; embedded `overslmpliflcatlon`.
+- **overstatement** — PDF p. 313, printed p. 312; Persian OCR confidence 74.6; head confidence 35.9; embedded `overstatement`.
+- **oversupply** — PDF p. 313, printed p. 312; Persian OCR confidence 39.6; head confidence 26.9; embedded `oversupply`.
+- **overt behavior** — PDF p. 313, printed p. 312; Persian OCR confidence 50.0; head confidence 88.8; embedded `overt behavior`.
+- **overtime premium** — PDF p. 314, printed p. 313; Persian OCR confidence 54.7; head confidence 96.0; embedded `overtime premium`.
+- **overture** — PDF p. 314, printed p. 313; Persian OCR confidence 54.4; head confidence 96.6; embedded `overture`.
+- **overwork** — PDF p. 314, printed p. 313; Persian OCR confidence 4.3; head confidence 96.5; embedded `overwork`.
+- **overzealous** — PDF p. 314, printed p. 313; Persian OCR confidence 35.2; head confidence 75.7; embedded `overzealous`.
+- **oxymoron** — PDF p. 314, printed p. 313; Persian OCR confidence 53.2; head confidence 9.3; embedded `oxymoron`.

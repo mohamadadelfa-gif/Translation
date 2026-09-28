@@ -1,0 +1,299 @@
+# B — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **baby** — PDF p. 42, printed p. 41; Persian OCR confidence 0.0; head confidence 96.9; embedded `baby`.
+- **baby-boom** — PDF p. 42, printed p. 41; Persian OCR confidence 39.7; head confidence 92.1; embedded `baby-boom`.
+- **baby talk** — PDF p. 42, printed p. 41; Persian OCR confidence 24.7; head confidence 96.8; embedded `baby talk`.
+- **Bacchic** — PDF p. 42, printed p. 41; Persian OCR confidence 42.3; head confidence 93.2; embedded `Bacchic`.
+- **back-reference** — PDF p. 42, printed p. 41; Persian OCR confidence 0; head confidence 82.3; embedded `back-reference`.
+- **backward** — PDF p. 42, printed p. 41; Persian OCR confidence 68.5; head confidence 35.2; embedded `backward`.
+- **backwardness** — PDF p. 42, printed p. 41; Persian OCR confidence 42.2; head confidence 72.2; embedded `backwardness`.
+- **backwater** — PDF p. 42, printed p. 41; Persian OCR confidence 23.6; head confidence 79.5; embedded `backwater`.
+- **Baconian** — PDF p. 42, printed p. 41; Persian OCR confidence 85.0; head confidence 53.2; embedded `Baconian`.
+- **bad conscience** — PDF p. 42, printed p. 41; Persian OCR confidence 54.7; head confidence 86.3; embedded `bad conscience`.
+- **Bahaist Bahai** — PDF p. 42, printed p. 41; Persian OCR confidence 0; head confidence 82.0; embedded `Bahaist Bahai`.
+- **balance of power** — PDF p. 43, printed p. 42; Persian OCR confidence 0; head confidence 96.2; embedded `balance of power`.
+- **balance of terror** — PDF p. 43, printed p. 42; Persian OCR confidence 0; head confidence 96.6; embedded `balance of terror`.
+- **balance of trade** — PDF p. 43, printed p. 42; Persian OCR confidence 0; head confidence 96.2; embedded `balance of trade`.
+- **balance sheet** — PDF p. 43, printed p. 42; Persian OCR confidence 0; head confidence 96.7; embedded `balance sheet`.
+- **Balkanizing** — PDF p. 43, printed p. 42; Persian OCR confidence 83.9; head confidence 44.5; embedded `Balkanizing`.
+- **balladist** — PDF p. 43, printed p. 42; Persian OCR confidence 33.7; head confidence 92.6; embedded `balladist`.
+- **balladry** — PDF p. 43, printed p. 42; Persian OCR confidence 56.5; head confidence 40.9; embedded `balladry`.
+- **balietomane** — PDF p. 43, printed p. 42; Persian OCR confidence 33.7; head confidence 68.0; embedded `balletomane`.
+- **balletomania** — PDF p. 43, printed p. 42; Persian OCR confidence 45.1; head confidence 92.3; embedded `balletomania`.
+- **balneology** — PDF p. 43, printed p. 42; Persian OCR confidence 56.1; head confidence 43.2; embedded `balneology`.
+- **Balto-Slavic** — PDF p. 43, printed p. 42; Persian OCR confidence 50.3; head confidence 92.7; embedded `Balto-Slavic`.
+- **banishment** — PDF p. 43, printed p. 42; Persian OCR confidence 37.0; head confidence 95.9; embedded `banishment`.
+- **banking** — PDF p. 43, printed p. 42; Persian OCR confidence 91.9; head confidence 43.7; embedded `banking`.
+- **bank paper** — PDF p. 43, printed p. 42; Persian OCR confidence 32.6; head confidence 94.2; embedded `bank paper`.
+- **baptistery** — PDF p. 43, printed p. 42; Persian OCR confidence 86.3; head confidence 53.2; embedded `baptistery`.
+- **baptistry baptistery** — PDF p. 43, printed p. 42; Persian OCR confidence 0; head confidence 79.7; embedded `baptistry baptistery`.
+- **barbarian** — PDF p. 43, printed p. 42; Persian OCR confidence 53.1; head confidence 89.0; embedded `barbarian`.
+- **barbarianism barbarism** — PDF p. 43, printed p. 42; Persian OCR confidence 0; head confidence 80.7; embedded `barbarianism barbarism`.
+- **barbaric** — PDF p. 43, printed p. 42; Persian OCR confidence 85.9; head confidence 29.1; embedded `barbaric`.
+- **bar chart** — PDF p. 43, printed p. 42; Persian OCR confidence 53.7; head confidence 79.2; embedded `bar chart`.
+- **bartering** — PDF p. 44, printed p. 43; Persian OCR confidence 29.6; head confidence 96.2; embedded `bartering`.
+- **barylalia** — PDF p. 44, printed p. 43; Persian OCR confidence 0; head confidence 91.2; embedded `barylalia`.
+- **baryphony** — PDF p. 44, printed p. 43; Persian OCR confidence 0; head confidence 91.5; embedded `baryphony = baryphonia`.
+- **bashful** — PDF p. 44, printed p. 43; Persian OCR confidence 42.9; head confidence 96.7; embedded `bashful`.
+- **bashfulness** — PDF p. 44, printed p. 43; Persian OCR confidence 76.5; head confidence 58.0; embedded `bashfulness`.
+- **basic personality** — PDF p. 44, printed p. 43; Persian OCR confidence 52.0; head confidence 87.5; embedded `basic personality`.
+- **basic vocabulary** — PDF p. 44, printed p. 43; Persian OCR confidence 0; head confidence 88.2; embedded `basic vocabulary`.
+- **basilect** — PDF p. 44, printed p. 43; Persian OCR confidence 0; head confidence 62.2; embedded `basilect`.
+- **basilectal** — PDF p. 44, printed p. 43; Persian OCR confidence 0; head confidence 32.7; embedded `basilectal`.
+- **basis** — PDF p. 44, printed p. 43; Persian OCR confidence 91.4; head confidence 44.6; embedded `basis`.
+- **basophobia** — PDF p. 44, printed p. 43; Persian OCR confidence 52.0; head confidence 65.8; embedded `basophobia`.
+- **bastile** — PDF p. 44, printed p. 43; Persian OCR confidence 0; head confidence 73.0; embedded `bastile = bastille`.
+- **bastille** — PDF p. 44, printed p. 43; Persian OCR confidence 68.5; head confidence 45.7; embedded `bastille`.
+- **battle** — PDF p. 44, printed p. 43; Persian OCR confidence 7.4; head confidence 92.4; embedded `battle`.
+- **battlefront** — PDF p. 44, printed p. 43; Persian OCR confidence 72.0; head confidence 52.4; embedded `battlefront`.
+- **Bauhaus** — PDF p. 44, printed p. 43; Persian OCR confidence 36.6; head confidence 89.7; embedded `Bauhaus`.
+- **bazaar bazar** — PDF p. 44, printed p. 43; Persian OCR confidence 0; head confidence 95.0; embedded `bazaar bazar`.
+- **beatification** — PDF p. 44, printed p. 43; Persian OCR confidence 86.8; head confidence 48.1; embedded `beatification`.
+- **beatitude** — PDF p. 44, printed p. 43; Persian OCR confidence 83.9; head confidence 50.0; embedded `beatitude`.
+- **beautiousness** — PDF p. 45, printed p. 44; Persian OCR confidence 0; head confidence 92.6; embedded `beautiousness`.
+- **beauty** — PDF p. 45, printed p. 44; Persian OCR confidence 0; head confidence 96.7; embedded `beauty`.
+- **beaux-arts (Fr.)** — PDF p. 45, printed p. 44; Persian OCR confidence 0; head confidence 92.1; embedded `beaux-arts (Fr.)`.
+- **beaux esprits (Fr.)** — PDF p. 45, printed p. 44; Persian OCR confidence 0; head confidence 92.6; embedded `beaux esprits (Fr.)`.
+- **becoming** — PDF p. 45, printed p. 44; Persian OCR confidence 45.9; head confidence 96.2; embedded `becoming`.
+- **bedlamite** — PDF p. 45, printed p. 44; Persian OCR confidence 73.7; head confidence 52.4; embedded `bed la mite`.
+- **Beduin** — PDF p. 45, printed p. 44; Persian OCR confidence 0; head confidence 94.6; embedded `Beduin = Bedouin`.
+- **beggary** — PDF p. 45, printed p. 44; Persian OCR confidence 70.9; head confidence 59.5; embedded `beggary`.
+- **beginner** — PDF p. 45, printed p. 44; Persian OCR confidence 46.6; head confidence 96.6; embedded `beginner`.
+- **behaviour behavior** — PDF p. 45, printed p. 44; Persian OCR confidence 0; head confidence 95.9; embedded `behaviour behavior`.
+- **being-in-the-world** — PDF p. 45, printed p. 44; Persian OCR confidence 87.6; head confidence 27.0; embedded `being-in-the-world`.
+- **bel-esprit (Fr.)** — PDF p. 45, printed p. 44; Persian OCR confidence 45.1; head confidence 64.6; embedded `bel-esprit (Fr.)`.
+- **believer** — PDF p. 45, printed p. 44; Persian OCR confidence 53.2; head confidence 50.9; embedded `believer`.
+- **belle époque (Fr.)** — PDF p. 45, printed p. 44; Persian OCR confidence 45.0; head confidence 85.0; embedded `belle epoque (Fr.)`.
+- **belletrism** — PDF p. 45, printed p. 44; Persian OCR confidence 86.8; head confidence 0.0; embedded `belletrism`.
+- **bellicose** — PDF p. 46, printed p. 45; Persian OCR confidence 24.0; head confidence 92.0; embedded `bellicose`.
+- **bellicoseness** — PDF p. 46, printed p. 45; Persian OCR confidence 0; head confidence 90.7; embedded `bellicoseness = bellicosity`.
+- **benchmark** — PDF p. 46, printed p. 45; Persian OCR confidence 10.4; head confidence 96.7; embedded `benchmark`.
+- **bench parole** — PDF p. 46, printed p. 45; Persian OCR confidence 0; head confidence 96.2; embedded `bench parole = probation`.
+- **benignancy** — PDF p. 46, printed p. 45; Persian OCR confidence 0; head confidence 90.4; embedded `benignancy = benignity`.
+- **benignant** — PDF p. 46, printed p. 45; Persian OCR confidence 75.2; head confidence 29.2; embedded `benignant`.
+- **Benthamism** — PDF p. 46, printed p. 45; Persian OCR confidence 0.0; head confidence 91.8; embedded `Benthamism`.
+- **Benthamite** — PDF p. 46, printed p. 45; Persian OCR confidence 9.9; head confidence 34.5; embedded `Benthamite`.
+- **bequeathal** — PDF p. 46, printed p. 45; Persian OCR confidence 30.3; head confidence 71.3; embedded `bequeathal`.
+- **bequeathment** — PDF p. 46, printed p. 45; Persian OCR confidence 72.6; head confidence 56.3; embedded `bequeathment`.
+- **Berkeleian** — PDF p. 46, printed p. 45; Persian OCR confidence 88.2; head confidence 50.4; embedded `Berkeleian`.
+- **Berkeleianism** — PDF p. 46, printed p. 45; Persian OCR confidence 22.8; head confidence 41.8; embedded `Berkeleianism`.
+- **bestial** — PDF p. 46, printed p. 45; Persian OCR confidence 79.9; head confidence 15.9; embedded `bestial`.
+- **bestowal** — PDF p. 46, printed p. 45; Persian OCR confidence 0; head confidence 84.2; embedded `bestowal = bestowment`.
+- **bestowment** — PDF p. 46, printed p. 45; Persian OCR confidence 40.5; head confidence 66.6; embedded `bestowment`.
+- **best seller** — PDF p. 46, printed p. 45; Persian OCR confidence 45.8; head confidence 73.5; embedded `best seller`.
+- **betrayal** — PDF p. 46, printed p. 45; Persian OCR confidence 76.8; head confidence 0.0; embedded `betrayal`.
+- **betrothal** — PDF p. 46, printed p. 45; Persian OCR confidence 90.7; head confidence 29.0; embedded `betrothal`.
+- **biannual** — PDF p. 47, printed p. 46; Persian OCR confidence 41.1; head confidence 96.1; embedded `biannual`.
+- **bias** — PDF p. 47, printed p. 46; Persian OCR confidence 60.7; head confidence 40.5; embedded `bias`.
+- **biased sampling** — PDF p. 47, printed p. 46; Persian OCR confidence 48.5; head confidence 96.4; embedded `biased sampling`.
+- **Bible** — PDF p. 47, printed p. 46; Persian OCR confidence 28.8; head confidence 97.0; embedded `Bible`.
+- **Biblical theology** — PDF p. 47, printed p. 46; Persian OCR confidence 51.7; head confidence 96.6; embedded `Biblical theology`.
+- **biblioklept** — PDF p. 47, printed p. 46; Persian OCR confidence 4.2; head confidence 92.6; embedded `biblioklept`.
+- **bibliokleptomania** — PDF p. 47, printed p. 46; Persian OCR confidence 44.7; head confidence 91.5; embedded `bibliokleptomania`.
+- **bibliomane bibliomaniac** — PDF p. 47, printed p. 46; Persian OCR confidence 0; head confidence 92.1; embedded `bibliomane bibliomaniac`.
+- **bibliomaniacal** — PDF p. 47, printed p. 46; Persian OCR confidence 33.3; head confidence 31.0; embedded `bibliomaniacal`.
+- **bibliophil bibliophile** — PDF p. 47, printed p. 46; Persian OCR confidence 0; head confidence 66.8; embedded `blbliophil = bibliophile`.
+- **bibliophile** — PDF p. 47, printed p. 46; Persian OCR confidence 84.5; head confidence 41.7; embedded `bibliophile`.
+- **bibliophilism** — PDF p. 47, printed p. 46; Persian OCR confidence 85.7; head confidence 31.5; embedded `bibliophilism`.
+- **bibliophilist** — PDF p. 47, printed p. 46; Persian OCR confidence 0.0; head confidence 78.4; embedded `bibliophilist = bibliophile`.
+- **bibliophily** — PDF p. 47, printed p. 46; Persian OCR confidence 9.3; head confidence 71.0; embedded `bibliophily = bibliophilism`.
+- **bibliophobia** — PDF p. 47, printed p. 46; Persian OCR confidence 48.6; head confidence 53.2; embedded `bibliophobia`.
+- **bibliopole** — PDF p. 47, printed p. 46; Persian OCR confidence 68.8; head confidence 31.0; embedded `bibliopole`.
+- **bibliopolist** — PDF p. 47, printed p. 46; Persian OCR confidence 0; head confidence 46.2; embedded `bibliopolist = bibliopole`.
+- **bibliotherapy** — PDF p. 47, printed p. 46; Persian OCR confidence 55.5; head confidence 59.5; embedded `bibliotherapy`.
+- **bibliotics** — PDF p. 47, printed p. 46; Persian OCR confidence 91.3; head confidence 28.8; embedded `bibliotics`.
+- **Biblism Biblicism** — PDF p. 47, printed p. 46; Persian OCR confidence 0; head confidence 69.5; embedded `Biblism Biblicism`.
+- **Biblist** — PDF p. 47, printed p. 46; Persian OCR confidence 0; head confidence 77.4; embedded `Biblist = Biblicist`.
+- **bicameralism** — PDF p. 47, printed p. 46; Persian OCR confidence 91.2; head confidence 44.4; embedded `bicameralism`.
+- **bicentenary bicentennial** — PDF p. 47, printed p. 46; Persian OCR confidence 0; head confidence 70.7; embedded `bicentenary blcentennial`.
+- **bicentennial** — PDF p. 47, printed p. 46; Persian OCR confidence 46.3; head confidence 37.7; embedded `bicentennial`.
+- **bicontinental** — PDF p. 47, printed p. 46; Persian OCR confidence 82.5; head confidence 28.5; embedded `bicontinental`.
+- **biculturalism** — PDF p. 47, printed p. 46; Persian OCR confidence 90.3; head confidence 27.0; embedded `biculturalism`.
+- **biennium** — PDF p. 47, printed p. 46; Persian OCR confidence 92.3; head confidence 35.5; embedded `biennium`.
+- **blfactor** — PDF p. 47, printed p. 46; Persian OCR confidence 51.4; head confidence 25.9; embedded `blfactor`.
+- **bifurcation** — PDF p. 47, printed p. 46; Persian OCR confidence 91.8; head confidence 59.5; embedded `bifurcation`.
+- **bigamist** — PDF p. 47, printed p. 46; Persian OCR confidence 0; head confidence 92.2; embedded `bigamist = bigamous`.
+- **bigamous** — PDF p. 47, printed p. 46; Persian OCR confidence 81.2; head confidence 56.4; embedded `bigamous`.
+- **bigender** — PDF p. 48, printed p. 47; Persian OCR confidence 32.5; head confidence 91.7; embedded `bigender`.
+- **bigot** — PDF p. 48, printed p. 47; Persian OCR confidence 53.5; head confidence 96.8; embedded `bigot`.
+- **bigoted** — PDF p. 48, printed p. 47; Persian OCR confidence 53.3; head confidence 97.0; embedded `bigoted`.
+- **big science** — PDF p. 48, printed p. 47; Persian OCR confidence 41.1; head confidence 96.8; embedded `big science`.
+- **bilateralism** — PDF p. 48, printed p. 47; Persian OCR confidence 52.4; head confidence 76.4; embedded `bilateralism`.
+- **bilaterality bilateralism** — PDF p. 48, printed p. 47; Persian OCR confidence 0; head confidence 92.0; embedded `bilaterality bilateralism`.
+- **bilateralness** — PDF p. 48, printed p. 47; Persian OCR confidence 0; head confidence 91.8; embedded `bilateralness = bilateralism`.
+- **bilateral trade** — PDF p. 48, printed p. 47; Persian OCR confidence 9.8; head confidence 96.7; embedded `bilateral trade`.
+- **bile** — PDF p. 48, printed p. 47; Persian OCR confidence 70.2; head confidence 55.6; embedded `bile`.
+- **bimanual** — PDF p. 48, printed p. 47; Persian OCR confidence 54.0; head confidence 95.6; embedded `bimanual`.
+- **bi-media** — PDF p. 48, printed p. 47; Persian OCR confidence 88.5; head confidence 56.7; embedded `bi-media`.
+- **bimetal** — PDF p. 48, printed p. 47; Persian OCR confidence 0; head confidence 81.3; embedded `bimetal = bimetallic`.
+- **bimetallism** — PDF p. 48, printed p. 47; Persian OCR confidence 46.2; head confidence 58.9; embedded `bimetallism`.
+- **bimodal** — PDF p. 48, printed p. 47; Persian OCR confidence 0.0; head confidence 43.9; embedded `bimodal`.
+- **binary system** — PDF p. 48, printed p. 47; Persian OCR confidence 2.4; head confidence 91.1; embedded `binary system`.
+- **binational** — PDF p. 48, printed p. 47; Persian OCR confidence 7.6; head confidence 77.1; embedded `binational`.
+- **binomial** — PDF p. 48, printed p. 47; Persian OCR confidence 63.7; head confidence 44.9; embedded `binomial`.
+- **biocentrist** — PDF p. 48, printed p. 47; Persian OCR confidence 87.4; head confidence 55.7; embedded `biocentrist`.
+- **biocidal** — PDF p. 48, printed p. 47; Persian OCR confidence 54.3; head confidence 30.5; embedded `biocidal`.
+- **biocide** — PDF p. 48, printed p. 47; Persian OCR confidence 54.4; head confidence 80.1; embedded `biocide`.
+- **bioclimatic** — PDF p. 48, printed p. 47; Persian OCR confidence 0.0; head confidence 77.6; embedded `bioclimatic`.
+- **bioclimatology** — PDF p. 48, printed p. 47; Persian OCR confidence 37.1; head confidence 61.2; embedded `bioclimatology`.
+- **biocomputer** — PDF p. 48, printed p. 47; Persian OCR confidence 3.8; head confidence 31.1; embedded `biocomputer`.
+- **biodegradation** — PDF p. 49, printed p. 48; Persian OCR confidence 50.7; head confidence 96.1; embedded `biodegradation`.
+- **bioethics** — PDF p. 49, printed p. 48; Persian OCR confidence 29.5; head confidence 96.0; embedded `bioethics`.
+- **biogenesis** — PDF p. 49, printed p. 48; Persian OCR confidence 36.6; head confidence 95.6; embedded `biogenesis`.
+- **biogenous biogenetic** — PDF p. 49, printed p. 48; Persian OCR confidence 0; head confidence 91.7; embedded `biogenous biogenetic`.
+- **biogeny** — PDF p. 49, printed p. 48; Persian OCR confidence 0; head confidence 94.6; embedded `biogeny = biogenesis`.
+- **biogeographic** — PDF p. 49, printed p. 48; Persian OCR confidence 50.6; head confidence 50.3; embedded `biogeographic`.
+- **biological adjustment** — PDF p. 49, printed p. 48; Persian OCR confidence 49.2; head confidence 82.4; embedded `biologlcal adjustment`.
+- **biological clock** — PDF p. 49, printed p. 48; Persian OCR confidence 35.6; head confidence 96.3; embedded `biological clock`.
+- **biological linguistics cling; culbdigh} biosociological** — PDF p. 49, printed p. 48; Persian OCR confidence 0; head confidence 63.9; embedded `biological linguistics blosoclologlcal`.
+- **biological mother** — PDF p. 49, printed p. 48; Persian OCR confidence 44.9; head confidence 91.1; embedded `biological mother`.
+- **biologism** — PDF p. 49, printed p. 48; Persian OCR confidence 91.7; head confidence 40.8; embedded `biologism`.
+- **biometrics** — PDF p. 49, printed p. 48; Persian OCR confidence 0; head confidence 92.6; embedded `biometrics = biometry`.
+- **bionic** — PDF p. 49, printed p. 48; Persian OCR confidence 46.0; head confidence 77.0; embedded `bionic`.
+- **bionomic(-al)** — PDF p. 49, printed p. 48; Persian OCR confidence 91.3; head confidence 45.2; embedded `bionomic(-al)`.
+- **bionomy** — PDF p. 49, printed p. 48; Persian OCR confidence 0; head confidence 92.2; embedded `bionomy = bionomics`.
+- **biophilia** — PDF p. 49, printed p. 48; Persian OCR confidence 88.2; head confidence 32.8; embedded `biophilia`.
+- **biophobia** — PDF p. 49, printed p. 48; Persian OCR confidence 57.3; head confidence 35.8; embedded `biophobia`.
+- **blopolltlcs** — PDF p. 49, printed p. 48; Persian OCR confidence 70.4; head confidence 39.6; embedded `blopolltlcs`.
+- **biopsychics** — PDF p. 49, printed p. 48; Persian OCR confidence 0; head confidence 90.6; embedded `biopsychics = psychobiology`.
+- **biopsychology** — PDF p. 49, printed p. 48; Persian OCR confidence 0.0; head confidence 75.8; embedded `biopsychology = psychobiology`.
+- **bioregion** — PDF p. 49, printed p. 48; Persian OCR confidence 84.8; head confidence 53.7; embedded `bloreglon`.
+- **bioregionalism** — PDF p. 49, printed p. 48; Persian OCR confidence 90.3; head confidence 57.7; embedded `bloreglonallsm`.
+- **biorythm** — PDF p. 49, printed p. 48; Persian OCR confidence 90.5; head confidence 56.2; embedded `blorythm`.
+- **biosocial** — PDF p. 49, printed p. 48; Persian OCR confidence 61.4; head confidence 58.3; embedded `blosoclal`.
+- **biostatistics** — PDF p. 50, printed p. 49; Persian OCR confidence 54.5; head confidence 96.9; embedded `biostatistics`.
+- **biosystem** — PDF p. 50, printed p. 49; Persian OCR confidence 33.0; head confidence 92.6; embedded `biosystem`.
+- **biotic potential** — PDF p. 50, printed p. 49; Persian OCR confidence 0; head confidence 84.4; embedded `biotic potential`.
+- **biotope** — PDF p. 50, printed p. 49; Persian OCR confidence 0; head confidence 92.5; embedded `biotope`.
+- **biotype** — PDF p. 50, printed p. 49; Persian OCR confidence 0; head confidence 96.4; embedded `blotype`.
+- **biotypic** — PDF p. 50, printed p. 49; Persian OCR confidence 0; head confidence 92.8; embedded `biotypic`.
+- **biotypology** — PDF p. 50, printed p. 49; Persian OCR confidence 0; head confidence 66.3; embedded `biotypology`.
+- **bipartisanism** — PDF p. 50, printed p. 49; Persian OCR confidence 50.4; head confidence 90.6; embedded `bipartisanism`.
+- **bipedalism** — PDF p. 50, printed p. 49; Persian OCR confidence 29.0; head confidence 91.3; embedded `bipedalism`.
+- **bipolarity** — PDF p. 50, printed p. 49; Persian OCR confidence 6.9; head confidence 91.3; embedded `bipolarity`.
+- **birth certificate** — PDF p. 50, printed p. 49; Persian OCR confidence 44.2; head confidence 96.7; embedded `birth certificate`.
+- **birthright** — PDF p. 50, printed p. 49; Persian OCR confidence 23.7; head confidence 96.7; embedded `birthright`.
+- **birthstone** — PDF p. 50, printed p. 49; Persian OCR confidence 25.8; head confidence 96.7; embedded `birthstone`.
+- **bisexual** — PDF p. 50, printed p. 49; Persian OCR confidence 46.9; head confidence 96.5; embedded `bisexual`.
+- **bishop** — PDF p. 50, printed p. 49; Persian OCR confidence 32.1; head confidence 79.2; embedded `bishop`.
+- **bishopric** — PDF p. 50, printed p. 49; Persian OCR confidence 63.4; head confidence 57.7; embedded `bishopric`.
+- **bistate** — PDF p. 50, printed p. 49; Persian OCR confidence 52.5; head confidence 37.6; embedded `bistate`.
+- **bivalence** — PDF p. 50, printed p. 49; Persian OCR confidence 31.5; head confidence 83.9; embedded `bivalence`.
+- **biyearly .r** — PDF p. 50, printed p. 49; Persian OCR confidence 76.6; head confidence 38.7; embedded `biyearly .r`.
+- **blackguard** — PDF p. 50, printed p. 49; Persian OCR confidence 83.4; head confidence 58.7; embedded `blackguard`.
+- **blackguard ism** — PDF p. 50, printed p. 49; Persian OCR confidence 76.2; head confidence 34.4; embedded `blackguard ism`.
+- **blackmail** — PDF p. 50, printed p. 49; Persian OCR confidence 16.4; head confidence 48.2; embedded `blackmail`.
+- **Blanquism** — PDF p. 50, printed p. 49; Persian OCR confidence 9.8; head confidence 74.1; embedded `Blanqulsm`.
+- **blasphemousness blasphemy** — PDF p. 50, printed p. 49; Persian OCR confidence 31.8; head confidence 92.2; embedded `blasphemousness blasphemy`.
+- **blasphemy** — PDF p. 50, printed p. 49; Persian OCR confidence 45.4; head confidence 85.7; embedded `blasphemy`.
+- **blend** — PDF p. 50, printed p. 49; Persian OCR confidence 70.9; head confidence 34.3; embedded `blend`.
+- **blest blessed** — PDF p. 51, printed p. 50; Persian OCR confidence 0; head confidence 96.6; embedded `blest blessed`.
+- **blockade** — PDF p. 51, printed p. 50; Persian OCR confidence 24.7; head confidence 96.4; embedded `blockade`.
+- **blockade-runner** — PDF p. 51, printed p. 50; Persian OCR confidence 52.3; head confidence 92.4; embedded `blockade-runner`.
+- **blocking** — PDF p. 51, printed p. 50; Persian OCR confidence 48.1; head confidence 96.6; embedded `blocking`.
+- **blood bath** — PDF p. 51, printed p. 50; Persian OCR confidence 51.8; head confidence 96.6; embedded `blood bath`.
+- **blood feud** — PDF p. 51, printed p. 50; Persian OCR confidence 2.3; head confidence 96.8; embedded `blood feud`.
+- **bloodletting** — PDF p. 51, printed p. 50; Persian OCR confidence 76.0; head confidence 53.3; embedded `bloodletting`.
+- **boarding house board house** — PDF p. 51, printed p. 50; Persian OCR confidence 44.8; head confidence 96.0; embedded `boarding house board house`.
+- **board of trustees** — PDF p. 51, printed p. 50; Persian OCR confidence 51.3; head confidence 93.3; embedded `board of trustees`.
+- **bodily resurrection** — PDF p. 51, printed p. 50; Persian OCR confidence 54.1; head confidence 96.2; embedded `bodily resurrection`.
+- **body** — PDF p. 51, printed p. 50; Persian OCR confidence 64.9; head confidence 41.6; embedded `body`.
+- **body politic** — PDF p. 51, printed p. 50; Persian OCR confidence 51.2; head confidence 89.6; embedded `body politic`.
+- **bohemianism** — PDF p. 52, printed p. 51; Persian OCR confidence 5.8; head confidence 91.3; embedded `bohemianism`.
+- **Bolshevik; bolshevik** — PDF p. 52, printed p. 51; Persian OCR confidence 10.7; head confidence 76.8; embedded `Bolshevik; bolshevik`.
+- **Bolshevism; bolshevism** — PDF p. 52, printed p. 51; Persian OCR confidence 43.7; head confidence 91.9; embedded `Bolshevism; bolshevism`.
+- **Bolshevist; bolshevist** — PDF p. 52, printed p. 51; Persian OCR confidence 39.9; head confidence 92.5; embedded `Bolshevist; bolshevist`.
+- **Bonapartist** — PDF p. 52, printed p. 51; Persian OCR confidence 89.6; head confidence 23.8; embedded `Bonapartist`.
+- **bondsman .r** — PDF p. 52, printed p. 51; Persian OCR confidence 84.5; head confidence 26.3; embedded `bondsman .r`.
+- **bon vivant (Fr.)** — PDF p. 52, printed p. 51; Persian OCR confidence 52.9; head confidence 92.8; embedded `bon vivant (Fr.)`.
+- **boogeyman** — PDF p. 52, printed p. 51; Persian OCR confidence 0; head confidence 91.7; embedded `boogeyman = boogieman`.
+- **boogieman** — PDF p. 52, printed p. 51; Persian OCR confidence 13.3; head confidence 91.1; embedded `boogieman`.
+- **boogyman boogieman** — PDF p. 52, printed p. 51; Persian OCR confidence 0; head confidence 92.8; embedded `boogyman boogieman`.
+- **boom** — PDF p. 52, printed p. 51; Persian OCR confidence 47.7; head confidence 95.9; embedded `boom`.
+- **bootlegger** — PDF p. 52, printed p. 51; Persian OCR confidence 0; head confidence 65.2; embedded `bootlegger`.
+- **bootlegging** — PDF p. 52, printed p. 51; Persian OCR confidence 0; head confidence 96.6; embedded `bootlegging`.
+- **booty** — PDF p. 52, printed p. 51; Persian OCR confidence 53.0; head confidence 84.3; embedded `booty`.
+- **bordello (Ital.)** — PDF p. 52, printed p. 51; Persian OCR confidence 19.9; head confidence 75.8; embedded `bordello (Ital.)`.
+- **border** — PDF p. 52, printed p. 51; Persian OCR confidence 0; head confidence 77.8; embedded `border`.
+- **borderland** — PDF p. 52, printed p. 51; Persian OCR confidence 61.7; head confidence 57.4; embedded `borderland`.
+- **borderline** — PDF p. 52, printed p. 51; Persian OCR confidence 79.8; head confidence 47.6; embedded `borderline`.
+- **boredom** — PDF p. 52, printed p. 51; Persian OCR confidence 34.2; head confidence 19.0; embedded `boredom`.
+- **born** — PDF p. 52, printed p. 51; Persian OCR confidence 90.9; head confidence 24.1; embedded `born`.
+- **born-again** — PDF p. 52, printed p. 51; Persian OCR confidence 90.4; head confidence 26.6; embedded `born-again`.
+- **borstal** — PDF p. 53, printed p. 52; Persian OCR confidence 54.8; head confidence 93.1; embedded `borstal`.
+- **Bosniac** — PDF p. 53, printed p. 52; Persian OCR confidence 0; head confidence 94.4; embedded `Bosniac = Bosnian`.
+- **bossy** — PDF p. 53, printed p. 52; Persian OCR confidence 51.2; head confidence 96.5; embedded `bossy`.
+- **botanist** — PDF p. 53, printed p. 52; Persian OCR confidence 39.5; head confidence 96.5; embedded `botanist`.
+- **botany** — PDF p. 53, printed p. 52; Persian OCR confidence 51.1; head confidence 96.7; embedded `botany`.
+- **bottleneck** — PDF p. 53, printed p. 52; Persian OCR confidence 60.8; head confidence 14.3; embedded `bottleneck`.
+- **bound** — PDF p. 53, printed p. 52; Persian OCR confidence 25.6; head confidence 96.8; embedded `bound`.
+- **bounteousness** — PDF p. 53, printed p. 52; Persian OCR confidence 48.5; head confidence 90.9; embedded `bounteousness`.
+- **bountifulness** — PDF p. 53, printed p. 52; Persian OCR confidence 44.5; head confidence 90.0; embedded `bountifulness`.
+- **Bovarist** — PDF p. 53, printed p. 52; Persian OCR confidence 39.6; head confidence 64.6; embedded `Bovarist`.
+- **boyishness** — PDF p. 53, printed p. 52; Persian OCR confidence 39.6; head confidence 27.4; embedded `boyishness`.
+- **brachycephal** — PDF p. 53, printed p. 52; Persian OCR confidence 39.0; head confidence 76.3; embedded `brachycephal =`.
+- **brachycephallc** — PDF p. 53, printed p. 52; Persian OCR confidence 63.1; head confidence 34.0; embedded `brachycephallc`.
+- **brachycephalism** — PDF p. 53, printed p. 52; Persian OCR confidence 57.3; head confidence 59.3; embedded `brachycephalism`.
+- **brachycephaly** — PDF p. 53, printed p. 52; Persian OCR confidence 29.5; head confidence 69.4; embedded `brachycephaly = brachycephallsm`.
+- **brachydactylic** — PDF p. 53, printed p. 52; Persian OCR confidence 19.8; head confidence 65.8; embedded `brachydactyllc`.
+- **brachydactylous** — PDF p. 53, printed p. 52; Persian OCR confidence 0; head confidence 88.0; embedded `brachydactylous = brachydactylic`.
+- **brachydactyly** — PDF p. 53, printed p. 52; Persian OCR confidence 13.2; head confidence 29.9; embedded `brachydactyly`.
+- **brachylogy** — PDF p. 53, printed p. 52; Persian OCR confidence 77.4; head confidence 56.3; embedded `brachylogy`.
+- **bradyacusia** — PDF p. 53, printed p. 52; Persian OCR confidence 35.3; head confidence 68.2; embedded `bradyacusia`.
+- **bradyarthria** — PDF p. 53, printed p. 52; Persian OCR confidence 85.5; head confidence 47.9; embedded `bradyarthrla`.
+- **bradyesthesia** — PDF p. 53, printed p. 52; Persian OCR confidence 33.4; head confidence 60.1; embedded `bradyesthesla`.
+- **bradyglossia** — PDF p. 53, printed p. 52; Persian OCR confidence 67.7; head confidence 29.8; embedded `bradyglossia`.
+- **bradykinesia** — PDF p. 53, printed p. 52; Persian OCR confidence 46.0; head confidence 89.3; embedded `bradykinesia`.
+- **bradylalia** — PDF p. 53, printed p. 52; Persian OCR confidence 60.8; head confidence 31.2; embedded `bradylalia`.
+- **bradylexia** — PDF p. 53, printed p. 52; Persian OCR confidence 61.6; head confidence 36.5; embedded `bradylexia`.
+- **bradylogia** — PDF p. 53, printed p. 52; Persian OCR confidence 59.9; head confidence 51.8; embedded `bradylogla`.
+- **Brahma (Skt.)** — PDF p. 53, printed p. 52; Persian OCR confidence 19.3; head confidence 86.2; embedded `Brahma (Skt.)`.
+- **Brahmin** — PDF p. 54, printed p. 53; Persian OCR confidence 0; head confidence 96.4; embedded `Brahmin = Brahman`.
+- **Brahminism Brahmanism** — PDF p. 54, printed p. 53; Persian OCR confidence 0; head confidence 91.7; embedded `Brahminism Brahmanism`.
+- **brain drain** — PDF p. 54, printed p. 53; Persian OCR confidence 47.3; head confidence 96.5; embedded `brain drain`.
+- **brain truster** — PDF p. 54, printed p. 53; Persian OCR confidence 0.0; head confidence 92.7; embedded `brain truster`.
+- **brainwashing** — PDF p. 54, printed p. 53; Persian OCR confidence 49.0; head confidence 96.5; embedded `brainwashing`.
+- **bravura** — PDF p. 54, printed p. 53; Persian OCR confidence 48.2; head confidence 96.7; embedded `bravura`.
+- **breakdown** — PDF p. 54, printed p. 53; Persian OCR confidence 13.8; head confidence 75.5; embedded `breakdown`.
+- **breed** — PDF p. 54, printed p. 53; Persian OCR confidence 51.9; head confidence 97.0; embedded `breed`.
+- **breeding** — PDF p. 54, printed p. 53; Persian OCR confidence 75.6; head confidence 46.2; embedded `breeding`.
+- **bribing** — PDF p. 54, printed p. 53; Persian OCR confidence 90.4; head confidence 53.1; embedded `bribing`.
+- **brickwork** — PDF p. 54, printed p. 53; Persian OCR confidence 71.2; head confidence 20.8; embedded `brickwork`.
+- **brickyard** — PDF p. 54, printed p. 53; Persian OCR confidence 0.0; head confidence 54.1; embedded `brickyard`.
+- **bricolage** — PDF p. 54, printed p. 53; Persian OCR confidence 82.9; head confidence 48.9; embedded `bricolage`.
+- **bridal** — PDF p. 54, printed p. 53; Persian OCR confidence 74.1; head confidence 41.9; embedded `bridal`.
+- **bride** — PDF p. 54, printed p. 53; Persian OCR confidence 37.6; head confidence 66.2; embedded `bride`.
+- **bride-service** — PDF p. 54, printed p. 53; Persian OCR confidence 0; head confidence 70.1; embedded `bride-service`.
+- **bride-wealth** — PDF p. 54, printed p. 53; Persian OCR confidence 0; head confidence 56.8; embedded `bride-wealth`.
+- **briefing** — PDF p. 54, printed p. 53; Persian OCR confidence 0; head confidence 57.6; embedded `briefing`.
+- **brigand** — PDF p. 54, printed p. 53; Persian OCR confidence 0; head confidence 79.9; embedded `brigand`.
+- **Britannic** — PDF p. 54, printed p. 53; Persian OCR confidence 0; head confidence 58.9; embedded `Britannic`.
+- **British English** — PDF p. 54, printed p. 53; Persian OCR confidence 14.3; head confidence 89.7; embedded `British English`.
+- **Britishism** — PDF p. 54, printed p. 53; Persian OCR confidence 47.7; head confidence 86.4; embedded `Britishism = Briticism`.
+- **Broad-Church** — PDF p. 54, printed p. 53; Persian OCR confidence 46.6; head confidence 81.7; embedded `Broad-Church`.
+- **brother-in-law** — PDF p. 55, printed p. 54; Persian OCR confidence 50.0; head confidence 96.8; embedded `brother-in-law`.
+- **brutalism** — PDF p. 55, printed p. 54; Persian OCR confidence 64.8; head confidence 58.6; embedded `brutalism`.
+- **brutalist** — PDF p. 55, printed p. 54; Persian OCR confidence 0.0; head confidence 92.8; embedded `brutalist`.
+- **brutish** — PDF p. 55, printed p. 54; Persian OCR confidence 0; head confidence 96.4; embedded `brutish = brute`.
+- **brutishness brutism** — PDF p. 55, printed p. 54; Persian OCR confidence 0; head confidence 91.9; embedded `brutishness brutism`.
+- **budgetary** — PDF p. 55, printed p. 54; Persian OCR confidence 32.7; head confidence 96.5; embedded `budgetary`.
+- **Bulgar** — PDF p. 55, printed p. 54; Persian OCR confidence 34.8; head confidence 69.2; embedded `Bulgar`.
+- **Bulgarian** — PDF p. 55, printed p. 54; Persian OCR confidence 75.4; head confidence 41.7; embedded `Bulgarian`.
+- **bulimy** — PDF p. 55, printed p. 54; Persian OCR confidence 59.3; head confidence 55.3; embedded `bulimy =`.
+- **bull** — PDF p. 55, printed p. 54; Persian OCR confidence 81.5; head confidence 57.8; embedded `bull`.
+- **bullying** — PDF p. 55, printed p. 54; Persian OCR confidence 66.9; head confidence 57.1; embedded `bullying`.
+- **bureaucracy** — PDF p. 55, printed p. 54; Persian OCR confidence 69.2; head confidence 0.0; embedded `bureaucracy`.
+- **burial** — PDF p. 55, printed p. 54; Persian OCR confidence 92.2; head confidence 39.5; embedded `burial`.
+- **burial finds** — PDF p. 55, printed p. 54; Persian OCR confidence 45.3; head confidence 89.2; embedded `burial finds`.
+- **burial ground** — PDF p. 55, printed p. 54; Persian OCR confidence 53.6; head confidence 86.7; embedded `burial ground`.
+- **burlesque** — PDF p. 55, printed p. 54; Persian OCR confidence 51.2; head confidence 79.7; embedded `burlesque`.
+- **burlesquer** — PDF p. 55, printed p. 54; Persian OCR confidence 84.9; head confidence 55.8; embedded `burlesquer`.
+- **business** — PDF p. 56, printed p. 55; Persian OCR confidence 43.4; head confidence 74.9; embedded `business`.
+- **business education** — PDF p. 56, printed p. 55; Persian OCR confidence 48.8; head confidence 94.1; embedded `business education`.
+- **business law** — PDF p. 56, printed p. 55; Persian OCR confidence 0; head confidence 95.9; embedded `business law`.
+- **bust** — PDF p. 56, printed p. 55; Persian OCR confidence 37.3; head confidence 47.4; embedded `bust`.
+- **by-law** — PDF p. 56, printed p. 55; Persian OCR confidence 82.6; head confidence 50.5; embedded `by-law`.
+- **by-name** — PDF p. 56, printed p. 55; Persian OCR confidence 44.7; head confidence 89.5; embedded `by-name`.
+- **Byzantine** — PDF p. 56, printed p. 55; Persian OCR confidence 90.5; head confidence 43.0; embedded `Byzantine`.

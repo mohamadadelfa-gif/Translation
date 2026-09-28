@@ -1,0 +1,520 @@
+# I — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **Iberian** — PDF p. 205, printed p. 204; Persian OCR confidence 89.8; head confidence 87.3; embedded `lberlan`.
+- **Inappetency inappetence** — PDF p. 205, printed p. 204; Persian OCR confidence 0.0; head confidence 91.4; embedded `lnappetency inappetence`.
+- **ICOM** — PDF p. 205, printed p. 204; Persian OCR confidence 74.3; head confidence 77.3; embedded `icon`.
+- **iconism iconicity** — PDF p. 205, printed p. 204; Persian OCR confidence 0.0; head confidence 91.7; embedded `iconism lconicity`.
+- **iconolater** — PDF p. 205, printed p. 204; Persian OCR confidence 0.0; head confidence 57.7; embedded `iconolater`.
+- **iconolatry** — PDF p. 205, printed p. 204; Persian OCR confidence 78.1; head confidence 30.6; embedded `iconolatry`.
+- **Idealized** — PDF p. 205, printed p. 204; Persian OCR confidence 81.7; head confidence 28.5; embedded `Idealized`.
+- **ideal self** — PDF p. 206, printed p. 205; Persian OCR confidence 43.6; head confidence 96.9; embedded `ideal self`.
+- **ideational** — PDF p. 206, printed p. 205; Persian OCR confidence 54.0; head confidence 83.9; embedded `ideational`.
+- **ideational apraxia** — PDF p. 206, printed p. 205; Persian OCR confidence 29.5; head confidence 94.5; embedded `ldeatlonal apraxla`.
+- **ideational function** — PDF p. 206, printed p. 205; Persian OCR confidence 50.1; head confidence 93.7; embedded `ideatlonal function`.
+- **identifier** — PDF p. 206, printed p. 205; Persian OCR confidence 0.0; head confidence 95.4; embedded `identifier`.
+- **identity-in-difference** — PDF p. 206, printed p. 205; Persian OCR confidence 53.5; head confidence 64.3; embedded `identity-in-difference`.
+- **ideogenic** — PDF p. 206, printed p. 205; Persian OCR confidence 38.8; head confidence 77.8; embedded `ideogenic`.
+- **Ideogram** — PDF p. 206, printed p. 205; Persian OCR confidence 85.5; head confidence 29.1; embedded `Ideogram`.
+- **ideo-motor** — PDF p. 206, printed p. 205; Persian OCR confidence 42.8; head confidence 39.1; embedded `ideo-motor`.
+- **idioglossia** — PDF p. 206, printed p. 205; Persian OCR confidence 0.0; head confidence 83.8; embedded `idioglossia = cryptophasia`.
+- **idiographic** — PDF p. 206, printed p. 205; Persian OCR confidence 37.1; head confidence 87.6; embedded `idlographic`.
+- **idiographic approach** — PDF p. 206, printed p. 205; Persian OCR confidence 45.7; head confidence 61.5; embedded `idiographlc approach`.
+- **idiolectal idiolectic** — PDF p. 206, printed p. 205; Persian OCR confidence 0.0; head confidence 67.7; embedded `idiolectal idlolectlc`.
+- **idlolectic** — PDF p. 206, printed p. 205; Persian OCR confidence 82.2; head confidence 41.5; embedded `idlolectic`.
+- **idle** — PDF p. 207, printed p. 206; Persian OCR confidence 64.2; head confidence 0.0; embedded `idle`.
+- **idol** — PDF p. 207, printed p. 206; Persian OCR confidence 50.5; head confidence 96.7; embedded `idol`.
+- **idola specus (L.)** — PDF p. 207, printed p. 206; Persian OCR confidence 43.3; head confidence 91.7; embedded `idola specus`.
+- **idolater** — PDF p. 207, printed p. 206; Persian OCR confidence 54.2; head confidence 93.0; embedded `idolater`.
+- **idola tribus (L.)** — PDF p. 207, printed p. 206; Persian OCR confidence 35.9; head confidence 90.4; embedded `idola tribus (L.)`.
+- **idy!** — PDF p. 207, printed p. 206; Persian OCR confidence 65.6; head confidence 49.5; embedded `ldyl`.
+- **idyll** — PDF p. 207, printed p. 206; Persian OCR confidence 0.0; head confidence 90.2; embedded `idyll = idyl`.
+- **Ignorant** — PDF p. 207, printed p. 206; Persian OCR confidence 91.4; head confidence 43.7; embedded `Ignorant`.
+- **ikon icon** — PDF p. 207, printed p. 206; Persian OCR confidence 46.5; head confidence 90.3; embedded `ikon icon`.
+- **illatlve** — PDF p. 207, printed p. 206; Persian OCR confidence 70.6; head confidence 11.1; embedded `illatlve`.
+- **ill-defined** — PDF p. 207, printed p. 206; Persian OCR confidence 0.0; head confidence 90.1; embedded `ill-defined`.
+- **ill-disposed** — PDF p. 207, printed p. 206; Persian OCR confidence 0.0; head confidence 63.9; embedded `ill-disposed`.
+- **illegal** — PDF p. 207, printed p. 206; Persian OCR confidence 0.0; head confidence 72.8; embedded `illegal`.
+- **illegitimate** — PDF p. 207, printed p. 206; Persian OCR confidence 76.3; head confidence 14.0; embedded `illegitimate`.
+- **ill-formed** — PDF p. 207, printed p. 206; Persian OCR confidence 33.4; head confidence 15.0; embedded `ill-formed`.
+- **illiberality** — PDF p. 207, printed p. 206; Persian OCR confidence 69.7; head confidence 24.4; embedded `illiberality`.
+- **illicit** — PDF p. 207, printed p. 206; Persian OCR confidence 54.6; head confidence 31.5; embedded `illicit`.
+- **Illiquid** — PDF p. 207, printed p. 206; Persian OCR confidence 72.2; head confidence 38.3; embedded `Illiquid`.
+- **illlquidlty** — PDF p. 207, printed p. 206; Persian OCR confidence 68.4; head confidence 19.3; embedded `illlquidlty`.
+- **Illiterate** — PDF p. 207, printed p. 206; Persian OCR confidence 79.0; head confidence 34.3; embedded `Illiterate`.
+- **ill-mannered** — PDF p. 208, printed p. 207; Persian OCR confidence 0.0; head confidence 80.1; embedded `ill-mannered`.
+- **illocutionary act** — PDF p. 208, printed p. 207; Persian OCR confidence 37.9; head confidence 90.9; embedded `illocutionary act`.
+- **illogicality** — PDF p. 208, printed p. 207; Persian OCR confidence 79.9; head confidence 38.6; embedded `illogicality`.
+- **illogicalness illogicality** — PDF p. 208, printed p. 207; Persian OCR confidence 0.0; head confidence 83.2; embedded `illogicalness illogicality`.
+- **illuminate** — PDF p. 208, printed p. 207; Persian OCR confidence 54.4; head confidence 93.2; embedded `illuminate`.
+- **illuminating** — PDF p. 208, printed p. 207; Persian OCR confidence 44.5; head confidence 70.7; embedded `illuminating`.
+- **iMusion of grandeur** — PDF p. 208, printed p. 207; Persian OCR confidence 30.5; head confidence 59.9; embedded `illusion of grandeur`.
+- **illusoriness** — PDF p. 208, printed p. 207; Persian OCR confidence 77.8; head confidence 8.3; embedded `illusoriness`.
+- **illustration** — PDF p. 208, printed p. 207; Persian OCR confidence 83.5; head confidence 7.8; embedded `illustration`.
+- **illustriousness** — PDF p. 208, printed p. 207; Persian OCR confidence 50.5; head confidence n/a; embedded `illustriousness`.
+- **imagined** — PDF p. 209, printed p. 208; Persian OCR confidence 20.8; head confidence 96.5; embedded `imagined`.
+- **imbalance** — PDF p. 209, printed p. 208; Persian OCR confidence 41.6; head confidence 96.5; embedded `imbalance`.
+- **imitation** — PDF p. 209, printed p. 208; Persian OCR confidence 53.5; head confidence 60.0; embedded `imitation`.
+- **imitationalism** — PDF p. 209, printed p. 208; Persian OCR confidence 0.0; head confidence 91.6; embedded `imitationalism = lmltationism`.
+- **Immanency** — PDF p. 209, printed p. 208; Persian OCR confidence 0.0; head confidence 92.3; embedded `Immanency = immanence`.
+- **immaterial culture** — PDF p. 209, printed p. 208; Persian OCR confidence 51.5; head confidence 83.9; embedded `immaterial culture`.
+- **immaterialist** — PDF p. 209, printed p. 208; Persian OCR confidence 63.8; head confidence 43.8; embedded `immaterialist`.
+- **immaterialized** — PDF p. 209, printed p. 208; Persian OCR confidence 35.9; head confidence 56.4; embedded `immaterlalized`.
+- **immaterialness immateriality** — PDF p. 209, printed p. 208; Persian OCR confidence 0.0; head confidence 84.3; embedded `immaterialness immaterlality`.
+- **immatureness immaturity** — PDF p. 209, printed p. 208; Persian OCR confidence 0.0; head confidence 78.7; embedded `immatureness immaturity`.
+- **immediate cause** — PDF p. 209, printed p. 208; Persian OCR confidence 43.9; head confidence 96.6; embedded `immediate cause`.
+- **immediate knowledge** — PDF p. 209, printed p. 208; Persian OCR confidence 32.2; head confidence 93.6; embedded `immediate knowledge`.
+- **immigrant** — PDF p. 209, printed p. 208; Persian OCR confidence 6.2; head confidence 51.4; embedded `Immigrant`.
+- **immigration** — PDF p. 209, printed p. 208; Persian OCR confidence 0.0; head confidence 96.5; embedded `immigration`.
+- **immodesty (c.2.1955** — PDF p. 210, printed p. 209; Persian OCR confidence 46.5; head confidence 45.2; embedded `immodesty .r`.
+- **immortallzation** — PDF p. 210, printed p. 209; Persian OCR confidence 75.0; head confidence 30.6; embedded `immortallzation`.
+- **immovable mover** — PDF p. 210, printed p. 209; Persian OCR confidence 46.6; head confidence 96.6; embedded `immovable mover`.
+- **immunity csig.ae+_ sll** — PDF p. 210, printed p. 209; Persian OCR confidence 0.0; head confidence 46.4; embedded `immunity ..::..;;,...,... .r`.
+- **immutable** — PDF p. 210, printed p. 209; Persian OCR confidence 0.0; head confidence 95.6; embedded `immutable`.
+- **impeccability** — PDF p. 210, printed p. 209; Persian OCR confidence 44.9; head confidence 64.8; embedded `impeccability`.
+- **impeccable** — PDF p. 210, printed p. 209; Persian OCR confidence 53.6; head confidence 75.1; embedded `impeccable`.
+- **impenetrability** — PDF p. 210, printed p. 209; Persian OCR confidence 61.4; head confidence 13.8; embedded `impenetrability`.
+- **imperatival** — PDF p. 210, printed p. 209; Persian OCR confidence 74.6; head confidence 34.0; embedded `imperatival`.
+- **imperativeness** — PDF p. 210, printed p. 209; Persian OCR confidence 77.0; head confidence 41.1; embedded `imperativeness`.
+- **imperceptlbility** — PDF p. 210, printed p. 209; Persian OCR confidence 90.0; head confidence 21.1; embedded `imperceptlbility`.
+- **imperceptible** — PDF p. 210, printed p. 209; Persian OCR confidence 69.1; head confidence 0.0; embedded `imperceptible`.
+- **imperfect market** — PDF p. 210, printed p. 209; Persian OCR confidence 39.8; head confidence 96.0; embedded `imperfect market`.
+- **imperfectness** — PDF p. 210, printed p. 209; Persian OCR confidence 53.6; head confidence 80.6; embedded `Imperfectness`.
+- **imperialist** — PDF p. 210, printed p. 209; Persian OCR confidence 41.1; head confidence 66.7; embedded `lmperlallst`.
+- **impermissible jo)** — PDF p. 211, printed p. 210; Persian OCR confidence 37.6; head confidence 61.1; embedded `impermissible .r`.
+- **impersonality** — PDF p. 211, printed p. 210; Persian OCR confidence 28.6; head confidence 47.3; embedded `impersonality`.
+- **impersonator** — PDF p. 211, printed p. 210; Persian OCR confidence 47.3; head confidence 96.8; embedded `impersonator`.
+- **impiousness** — PDF p. 211, printed p. 210; Persian OCR confidence 0.0; head confidence 91.8; embedded `impiousness`.
+- **implausibility** — PDF p. 211, printed p. 210; Persian OCR confidence 0.0; head confidence 61.1; embedded `lmplauslbility`.
+- **implausible** — PDF p. 211, printed p. 210; Persian OCR confidence 0.0; head confidence 95.7; embedded `lmplauslble`.
+- **implement** — PDF p. 211, printed p. 210; Persian OCR confidence 46.5; head confidence 96.2; embedded `implement`.
+- **implementation** — PDF p. 211, printed p. 210; Persian OCR confidence 89.7; head confidence 10.4; embedded `implementation`.
+- **implicit** — PDF p. 211, printed p. 210; Persian OCR confidence 47.8; head confidence 74.2; embedded `impllclt`.
+- **implicit behavior** — PDF p. 211, printed p. 210; Persian OCR confidence 0.0; head confidence 53.4; embedded `implicit behavior`.
+- **implosive** — PDF p. 211, printed p. 210; Persian OCR confidence 75.7; head confidence 25.9; embedded `implosive`.
+- **impolitlc** — PDF p. 211, printed p. 210; Persian OCR confidence 78.8; head confidence 34.4; embedded `impolitlc`.
+- **impossibility** — PDF p. 211, printed p. 210; Persian OCR confidence 51.5; head confidence 91.6; embedded `lmposslbllity`.
+- **impossible** — PDF p. 211, printed p. 210; Persian OCR confidence 52.6; head confidence 75.3; embedded `Impossible`.
+- **impotence** — PDF p. 211, printed p. 210; Persian OCR confidence 0.0; head confidence 90.4; embedded `impotence = impotency`.
+- **impracticable** — PDF p. 212, printed p. 211; Persian OCR confidence 40.6; head confidence 96.3; embedded `impracticable`.
+- **impressing** — PDF p. 212, printed p. 211; Persian OCR confidence 13.1; head confidence 96.8; embedded `impressing`.
+- **impressionability** — PDF p. 212, printed p. 211; Persian OCR confidence 52.7; head confidence 51.2; embedded `impressionability`.
+- **impressionistic** — PDF p. 212, printed p. 211; Persian OCR confidence 42.1; head confidence 96.7; embedded `impressionistic`.
+- **impressive** — PDF p. 212, printed p. 211; Persian OCR confidence 46.0; head confidence 93.3; embedded `impressive`.
+- **improbable** — PDF p. 212, printed p. 211; Persian OCR confidence 52.4; head confidence 96.4; embedded `improbable`.
+- **improver** — PDF p. 212, printed p. 211; Persian OCR confidence 89.9; head confidence 0.0; embedded `improver`.
+- **improvisation** — PDF p. 212, printed p. 211; Persian OCR confidence 53.8; head confidence 80.3; embedded `improvisation`.
+- **imprudent** — PDF p. 212, printed p. 211; Persian OCR confidence 0.0; head confidence 96.1; embedded `imprudent`.
+- **impuissance** — PDF p. 212, printed p. 211; Persian OCR confidence 0.0; head confidence 59.2; embedded `impuissance`.
+- **impuissant** — PDF p. 212, printed p. 211; Persian OCR confidence 0.0; head confidence 79.0; embedded `impuissant`.
+- **impulsion** — PDF p. 212, printed p. 211; Persian OCR confidence 78.7; head confidence 13.7; embedded `impulsion`.
+- **impulsive action** — PDF p. 212, printed p. 211; Persian OCR confidence 52.0; head confidence 88.2; embedded `impulsive action`.
+- **impulsivity impulsiveness** — PDF p. 212, printed p. 211; Persian OCR confidence 0.0; head confidence 87.4; embedded `impulsivity impulsiveness`.
+- **impunitive** — PDF p. 212, printed p. 211; Persian OCR confidence 39.6; head confidence 59.1; embedded `impunitive`.
+- **impure** — PDF p. 212, printed p. 211; Persian OCR confidence 72.7; head confidence 30.5; embedded `impure`.
+- **inaccessibility** — PDF p. 213, printed p. 212; Persian OCR confidence 14.3; head confidence 96.4; embedded `inaccessibility`.
+- **inaccuracy** — PDF p. 213, printed p. 212; Persian OCR confidence 46.6; head confidence 96.9; embedded `inaccuracy`.
+- **inaccurate** — PDF p. 213, printed p. 212; Persian OCR confidence 47.9; head confidence 96.5; embedded `inaccurate`.
+- **inactive** — PDF p. 213, printed p. 212; Persian OCR confidence 0.0; head confidence 97.0; embedded `inactive`.
+- **inactiveness** — PDF p. 213, printed p. 212; Persian OCR confidence 0.0; head confidence 91.5; embedded `inactiveness`.
+- **inactive record** — PDF p. 213, printed p. 212; Persian OCR confidence 48.9; head confidence 96.5; embedded `inactive record`.
+- **inactivity** — PDF p. 213, printed p. 212; Persian OCR confidence 0.0; head confidence 94.0; embedded `inactivity = inactiveness`.
+- **inadequate** — PDF p. 213, printed p. 212; Persian OCR confidence 49.7; head confidence 96.7; embedded `inadequate`.
+- **inadmissible** — PDF p. 213, printed p. 212; Persian OCR confidence 38.7; head confidence 96.3; embedded `Inadmissible`.
+- **inadvertency inadvertence** — PDF p. 213, printed p. 212; Persian OCR confidence 0.0; head confidence 94.3; embedded `inadvertency inadvertence`.
+- **inalienability** — PDF p. 213, printed p. 212; Persian OCR confidence 34.2; head confidence 36.4; embedded `inalienability`.
+- **inalienable** — PDF p. 213, printed p. 212; Persian OCR confidence 50.6; head confidence 96.3; embedded `inalienable`.
+- **inanimate** — PDF p. 213, printed p. 212; Persian OCR confidence 37.1; head confidence 96.6; embedded `Inanimate`.
+- **inapplicable** — PDF p. 213, printed p. 212; Persian OCR confidence 54.0; head confidence 96.3; embedded `Inapplicable`.
+- **inapproachable** — PDF p. 213, printed p. 212; Persian OCR confidence 47.5; head confidence 81.1; embedded `inapproachable`.
+- **inarticulacy** — PDF p. 213, printed p. 212; Persian OCR confidence 64.4; head confidence 13.0; embedded `inarticulacy`.
+- **inarticulateness** — PDF p. 213, printed p. 212; Persian OCR confidence 0.0; head confidence 91.7; embedded `inarticulateness = inarticulacy`.
+- **inartistic** — PDF p. 213, printed p. 212; Persian OCR confidence 55.3; head confidence 26.0; embedded `inartistic`.
+- **Inauthenticity** — PDF p. 213, printed p. 212; Persian OCR confidence 90.0; head confidence 28.7; embedded `Inauthenticity`.
+- **inborn** — PDF p. 213, printed p. 212; Persian OCR confidence 54.3; head confidence 91.2; embedded `inborn`.
+- **incantation** — PDF p. 213, printed p. 212; Persian OCR confidence 75.3; head confidence 35.9; embedded `incantation`.
+- **incantational** — PDF p. 213, printed p. 212; Persian OCR confidence 79.9; head confidence 37.8; embedded `incantational`.
+- **incarnate** — PDF p. 213, printed p. 212; Persian OCR confidence 46.7; head confidence 92.2; embedded `incarnate`.
+- **incest barrier** — PDF p. 214, printed p. 213; Persian OCR confidence 47.8; head confidence 97.0; embedded `incest barrier`.
+- **incest taboo** — PDF p. 214, printed p. 213; Persian OCR confidence 45.8; head confidence 96.6; embedded `incest taboo`.
+- **incestuous** — PDF p. 214, printed p. 213; Persian OCR confidence 48.8; head confidence 96.2; embedded `incestuous`.
+- **incestuousness** — PDF p. 214, printed p. 213; Persian OCR confidence 24.3; head confidence 91.2; embedded `incestuousness`.
+- **incidentals** — PDF p. 214, printed p. 213; Persian OCR confidence 52.2; head confidence 96.2; embedded `incidentals`.
+- **incipience** — PDF p. 214, printed p. 213; Persian OCR confidence 41.1; head confidence 92.0; embedded `incipience`.
+- **incipient** — PDF p. 214, printed p. 213; Persian OCR confidence 37.3; head confidence 96.8; embedded `incipient`.
+- **inclination** — PDF p. 214, printed p. 213; Persian OCR confidence 28.7; head confidence 64.6; embedded `inclination`.
+- **inclusion** — PDF p. 214, printed p. 213; Persian OCR confidence 49.9; head confidence 95.5; embedded `inclusion`.
+- **inclusive** — PDF p. 214, printed p. 213; Persian OCR confidence 68.6; head confidence 7.3; embedded `inclusive`.
+- **inclusiveness** — PDF p. 214, printed p. 213; Persian OCR confidence 51.4; head confidence 88.2; embedded `inclusiveness`.
+- **inclusivist** — PDF p. 214, printed p. 213; Persian OCR confidence 34.3; head confidence 92.1; embedded `inclusivist`.
+- **incoherency** — PDF p. 214, printed p. 213; Persian OCR confidence 0.0; head confidence 69.6; embedded `incoherency = incoherence`.
+- **income level** — PDF p. 214, printed p. 213; Persian OCR confidence 17.1; head confidence 75.9; embedded `income level`.
+- **incommunicable** — PDF p. 214, printed p. 213; Persian OCR confidence 0.4; head confidence 43.3; embedded `incommunicable`.
+- **incommunicative** — PDF p. 214, printed p. 213; Persian OCR confidence 0.0; head confidence 16.4; embedded `incommunicative= uncommunicative`.
+- **incomparability** — PDF p. 214, printed p. 213; Persian OCR confidence 36.9; head confidence 31.5; embedded `incomparability`.
+- **incomparable** — PDF p. 214, printed p. 213; Persian OCR confidence 81.4; head confidence 35.6; embedded `incomparable`.
+- **incompatlbilist** — PDF p. 214, printed p. 213; Persian OCR confidence 86.5; head confidence 43.6; embedded `incompatlbilist`.
+- **inconceivability** — PDF p. 215, printed p. 214; Persian OCR confidence 22.4; head confidence 92.4; embedded `inconceivability`.
+- **inconceivable** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 96.6; embedded `inconceivable`.
+- **inconclusive** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 96.7; embedded `inconclusive`.
+- **inconclusiveness** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 91.5; embedded `inconclusiveness`.
+- **incongruent incongruous** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 96.2; embedded `incongruent incongruous`.
+- **inconsequential** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 96.5; embedded `inconsequential`.
+- **inconsiderableness** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 92.0; embedded `inconsiderableness`.
+- **inconsistence** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 94.1; embedded `inconsistence = inconsistency`.
+- **inconsistent** — PDF p. 215, printed p. 214; Persian OCR confidence 44.5; head confidence 96.8; embedded `inconsistent`.
+- **inconsolable** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 91.2; embedded `inconsolable`.
+- **Inconvertible** — PDF p. 215, printed p. 214; Persian OCR confidence 87.2; head confidence 29.3; embedded `Inconvertible`.
+- **inconvertibleness** — PDF p. 215, printed p. 214; Persian OCR confidence 88.3; head confidence 4.6; embedded `inconvertibleness`.
+- **incorporeal** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 91.7; embedded `Incorporeal`.
+- **incorporeity** — PDF p. 215, printed p. 214; Persian OCR confidence 0.0; head confidence 50.4; embedded `incorporeity`.
+- **incorrectness** — PDF p. 215, printed p. 214; Persian OCR confidence 47.2; head confidence 74.3; embedded `incorrectness`.
+- **incorrigible** — PDF p. 215, printed p. 214; Persian OCR confidence 39.8; head confidence 96.5; embedded `Incorrigible`.
+- **increasing** — PDF p. 215, printed p. 214; Persian OCR confidence 38.4; head confidence 93.8; embedded `Increasing`.
+- **incredulousness** — PDF p. 216, printed p. 215; Persian OCR confidence 38.6; head confidence 92.1; embedded `incredulousness`.
+- **incremental** — PDF p. 216, printed p. 215; Persian OCR confidence 49.8; head confidence 92.1; embedded `incremental`.
+- **incrementalist** — PDF p. 216, printed p. 215; Persian OCR confidence 49.2; head confidence 92.1; embedded `incrementalist`.
+- **incumbent** — PDF p. 216, printed p. 215; Persian OCR confidence 13.0; head confidence 96.3; embedded `incumbent`.
+- **incurable** — PDF p. 216, printed p. 215; Persian OCR confidence 19.0; head confidence 96.0; embedded `incurable`.
+- **indecipherable** — PDF p. 216, printed p. 215; Persian OCR confidence 45.8; head confidence 96.3; embedded `indeclpherable`.
+- **indefatigable** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 80.6; embedded `indefatigable`.
+- **indefeasibility** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 70.9; embedded `lndefeaslblllty`.
+- **indefeasible** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 93.0; embedded `lndefeaslble`.
+- **indefenslbllity** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 41.8; embedded `indefenslbllity`.
+- **indefensible** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 69.5; embedded `indefensible`.
+- **indefinable** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 63.3; embedded `indefinable`.
+- **indefinableness** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 75.2; embedded `indefinableness`.
+- **Indefiniteness** — PDF p. 216, printed p. 215; Persian OCR confidence 41.2; head confidence 15.7; embedded `Indefiniteness`.
+- **indefinite pronoun** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 96.4; embedded `Indefinite pronoun`.
+- **indemnitor** — PDF p. 216, printed p. 215; Persian OCR confidence 29.0; head confidence 92.5; embedded `indemnltor`.
+- **independency independence** — PDF p. 216, printed p. 215; Persian OCR confidence 0.0; head confidence 84.3; embedded `lndependency independence`.
+- **indescribability** — PDF p. 216, printed p. 215; Persian OCR confidence 71.0; head confidence 48.1; embedded `lndescrlbabillty`.
+- **indescribable** — PDF p. 216, printed p. 215; Persian OCR confidence 34.9; head confidence 55.0; embedded `lndescrlbable`.
+- **indeterminate** — PDF p. 216, printed p. 215; Persian OCR confidence 43.7; head confidence 78.5; embedded `indeterminate`.
+- **indeterminateness** — PDF p. 217, printed p. 216; Persian OCR confidence 4.7; head confidence 74.2; embedded `indeterminateness`.
+- **index book** — PDF p. 217, printed p. 216; Persian OCR confidence 35.1; head confidence 95.5; embedded `index book`.
+- **Indic** — PDF p. 217, printed p. 216; Persian OCR confidence 83.2; head confidence 84.9; embedded `lndic`.
+- **indigenous industry** — PDF p. 217, printed p. 216; Persian OCR confidence 42.1; head confidence 85.0; embedded `indigenous Industry`.
+- **indigested** — PDF p. 217, printed p. 216; Persian OCR confidence 75.2; head confidence 38.9; embedded `indigested`.
+- **indignation** — PDF p. 217, printed p. 216; Persian OCR confidence 45.1; head confidence 84.4; embedded `Indignation`.
+- **indirect tax** — PDF p. 217, printed p. 216; Persian OCR confidence 38.6; head confidence 96.4; embedded `indirect tax`.
+- **indiscernible** — PDF p. 217, printed p. 216; Persian OCR confidence 11.4; head confidence 75.2; embedded `indiscernible`.
+- **indlspensabllity** — PDF p. 217, printed p. 216; Persian OCR confidence 0.0; head confidence 0.0; embedded `indlspensabllity`.
+- **indispensable** — PDF p. 217, printed p. 216; Persian OCR confidence 0.0; head confidence 75.8; embedded `Indispensable`.
+- **indisputable** — PDF p. 217, printed p. 216; Persian OCR confidence 0.0; head confidence 83.2; embedded `Indisputable`.
+- **Indissociable** — PDF p. 217, printed p. 216; Persian OCR confidence 62.5; head confidence 44.6; embedded `Indissociable`.
+- **individual action** — PDF p. 217, printed p. 216; Persian OCR confidence 53.3; head confidence 84.9; embedded `lndivldual action`.
+- **individualism** — PDF p. 217, printed p. 216; Persian OCR confidence 60.3; head confidence 66.7; embedded `lndlvlduallsm`.
+- **individualist** — PDF p. 217, printed p. 216; Persian OCR confidence 73.5; head confidence 46.3; embedded `lndlvlduallst`.
+- **individualistic (ail_)** — PDF p. 217, printed p. 216; Persian OCR confidence 59.7; head confidence 46.8; embedded `lndlvlduallstic .r`.
+- **individualization of punishment** — PDF p. 218, printed p. 217; Persian OCR confidence 0.0; head confidence 95.2; embedded `individualization of punishment`.
+- **individualized education** — PDF p. 218, printed p. 217; Persian OCR confidence 36.4; head confidence 96.6; embedded `individualized education`.
+- **individual migration** — PDF p. 218, printed p. 217; Persian OCR confidence 0.0; head confidence 96.1; embedded `individual migration`.
+- **individual ownership** — PDF p. 218, printed p. 217; Persian OCR confidence 0.0; head confidence 96.2; embedded `individual ownership`.
+- **individual proprietorship** — PDF p. 218, printed p. 217; Persian OCR confidence 0.0; head confidence 96.3; embedded `individual proprietorship`.
+- **individual soul** — PDF p. 218, printed p. 217; Persian OCR confidence 28.0; head confidence 96.5; embedded `individual soul`.
+- **individual telics** — PDF p. 218, printed p. 217; Persian OCR confidence 51.1; head confidence 92.7; embedded `individual telics`.
+- **Indo-Chinese** — PDF p. 218, printed p. 217; Persian OCR confidence 48.1; head confidence 90.7; embedded `lndo-Chlnese`.
+- **indoctrinated** — PDF p. 218, printed p. 217; Persian OCR confidence 28.0; head confidence 96.5; embedded `indoctrinated`.
+- **indoctrination** — PDF p. 218, printed p. 217; Persian OCR confidence 45.0; head confidence 96.4; embedded `indoctrination`.
+- **Indo-Germanic** — PDF p. 218, printed p. 217; Persian OCR confidence 49.2; head confidence 56.2; embedded `lndo-Germanic`.
+- **Indo-Iranian** — PDF p. 218, printed p. 217; Persian OCR confidence 70.6; head confidence 53.2; embedded `lndo-lranian`.
+- **inductive generalization** — PDF p. 218, printed p. 217; Persian OCR confidence 47.0; head confidence 78.6; embedded `inductive generalization`.
+- **inductive inference** — PDF p. 218, printed p. 217; Persian OCR confidence 37.1; head confidence 46.9; embedded `inductive inference`.
+- **industrial action** — PDF p. 218, printed p. 217; Persian OCR confidence 37.8; head confidence 79.4; embedded `industrial action`.
+- **industrial army** — PDF p. 218, printed p. 217; Persian OCR confidence 22.1; head confidence 87.2; embedded `industrial army`.
+- **industrial arts** — PDF p. 218, printed p. 217; Persian OCR confidence 36.3; head confidence 80.8; embedded `Industrial arts`.
+- **industrial city** — PDF p. 218, printed p. 217; Persian OCR confidence 36.5; head confidence 94.9; embedded `industrial city`.
+- **industrial relations** — PDF p. 219, printed p. 218; Persian OCR confidence 47.5; head confidence 96.5; embedded `industrial relations`.
+- **inefficacious** — PDF p. 219, printed p. 218; Persian OCR confidence 61.8; head confidence 42.7; embedded `inefficacious`.
+- **inefficiency** — PDF p. 219, printed p. 218; Persian OCR confidence 0.0; head confidence 94.1; embedded `inefficiency`.
+- **inefficient** — PDF p. 219, printed p. 218; Persian OCR confidence 0.0; head confidence 70.8; embedded `Inefficient`.
+- **inelastic** — PDF p. 219, printed p. 218; Persian OCR confidence 29.0; head confidence 85.9; embedded `Inelastic`.
+- **inelegant** — PDF p. 219, printed p. 218; Persian OCR confidence 53.5; head confidence 44.1; embedded `inelegant`.
+- **ineligibility** — PDF p. 219, printed p. 218; Persian OCR confidence 72.0; head confidence 96.9; embedded `lneliglbllity`.
+- **ineloquence** — PDF p. 219, printed p. 218; Persian OCR confidence 49.3; head confidence 55.3; embedded `lneloquence`.
+- **Inerrant** — PDF p. 219, printed p. 218; Persian OCR confidence 82.4; head confidence 4.0; embedded `Inerrant`.
+- **inertness** — PDF p. 219, printed p. 218; Persian OCR confidence 49.5; head confidence 76.4; embedded `Inertness`.
+- **lnexlstence** — PDF p. 219, printed p. 218; Persian OCR confidence 0.0; head confidence 77.3; embedded `lnexlstence = nonexistence`.
+- **Inexistent** — PDF p. 219, printed p. 218; Persian OCR confidence 0.0; head confidence 94.5; embedded `Inexistent = nonexistent`.
+- **inexperience** — PDF p. 219, printed p. 218; Persian OCR confidence 47.9; head confidence 78.7; embedded `inexperience`.
+- **inexpert** — PDF p. 220, printed p. 219; Persian OCR confidence 81.0; head confidence 43.1; embedded `inexpert`.
+- **inexpiable** — PDF p. 220, printed p. 219; Persian OCR confidence 46.9; head confidence 92.3; embedded `inexpiable`.
+- **inexplicable** — PDF p. 220, printed p. 219; Persian OCR confidence 50.6; head confidence 96.6; embedded `inexplicable`.
+- **infamous** — PDF p. 220, printed p. 219; Persian OCR confidence 37.5; head confidence 11.6; embedded `infamous`.
+- **infamous punishment** — PDF p. 220, printed p. 219; Persian OCR confidence 45.5; head confidence 96.2; embedded `infamous punishment`.
+- **infantile** — PDF p. 220, printed p. 219; Persian OCR confidence 46.8; head confidence 69.9; embedded `infantile`.
+- **infantile mortality** — PDF p. 220, printed p. 219; Persian OCR confidence 54.7; head confidence 96.5; embedded `infantile mortality`.
+- **infantilism** — PDF p. 220, printed p. 219; Persian OCR confidence 45.6; head confidence 96.8; embedded `infantilism`.
+- **infant industry** — PDF p. 220, printed p. 219; Persian OCR confidence 50.7; head confidence 96.4; embedded `infant industry`.
+- **infant mortality** — PDF p. 220, printed p. 219; Persian OCR confidence 47.5; head confidence 96.6; embedded `infant mortality`.
+- **infeasible** — PDF p. 220, printed p. 219; Persian OCR confidence 27.6; head confidence 94.7; embedded `infeasible`.
+- **infectiousness** — PDF p. 220, printed p. 219; Persian OCR confidence 50.0; head confidence 92.5; embedded `infectiousness`.
+- **infecund** — PDF p. 220, printed p. 219; Persian OCR confidence 0.0; head confidence 91.4; embedded `infecund`.
+- **infecundity** — PDF p. 220, printed p. 219; Persian OCR confidence 0.0; head confidence 92.4; embedded `infecundity`.
+- **Inferential reasoning** — PDF p. 220, printed p. 219; Persian OCR confidence 75.0; head confidence 35.2; embedded `Inferential reasoning`.
+- **Inferior** — PDF p. 220, printed p. 219; Persian OCR confidence 35.6; head confidence 60.9; embedded `inferior`.
+- **inferiority** — PDF p. 220, printed p. 219; Persian OCR confidence 19.7; head confidence 82.9; embedded `inferiority`.
+- **inferiority complexrc,** — PDF p. 220, printed p. 219; Persian OCR confidence 64.5; head confidence 24.6; embedded `inferiority complexrc,`.
+- **inferior world** — PDF p. 220, printed p. 219; Persian OCR confidence 36.1; head confidence 88.5; embedded `inferior world`.
+- **infernal** — PDF p. 220, printed p. 219; Persian OCR confidence 40.8; head confidence 31.1; embedded `infernal`.
+- **infinitesimal** — PDF p. 220, printed p. 219; Persian OCR confidence 47.3; head confidence 65.0; embedded `infinitesimal`.
+- **infinitude** — PDF p. 220, printed p. 219; Persian OCR confidence 23.6; head confidence 72.8; embedded `infinitude`.
+- **infixation** — PDF p. 220, printed p. 219; Persian OCR confidence 51.9; head confidence 70.3; embedded `infixatlon`.
+- **inflationary universe** — PDF p. 221, printed p. 220; Persian OCR confidence 51.2; head confidence 96.4; embedded `inflationary universe`.
+- **inflexibleness** — PDF p. 221, printed p. 220; Persian OCR confidence 0.0; head confidence 94.0; embedded `inflexibleness = Inflexibility`.
+- **inflexlon** — PDF p. 221, printed p. 220; Persian OCR confidence 0.0; head confidence 94.1; embedded `inflexlon = inflection`.
+- **inflexlonal** — PDF p. 221, printed p. 220; Persian OCR confidence 0.0; head confidence 90.0; embedded `inflexlonal = inflectional`.
+- **informal** — PDF p. 221, printed p. 220; Persian OCR confidence 48.0; head confidence 96.4; embedded `Informal`.
+- **information industry** — PDF p. 221, printed p. 220; Persian OCR confidence 53.4; head confidence 96.4; embedded `information industry`.
+- **information media** — PDF p. 221, printed p. 220; Persian OCR confidence 52.3; head confidence 89.7; embedded `Information media`.
+- **informativeness** — PDF p. 221, printed p. 220; Persian OCR confidence 76.5; head confidence 23.2; embedded `informativeness`.
+- **informatory** — PDF p. 221, printed p. 220; Persian OCR confidence 0.0; head confidence 78.2; embedded `informatory = informative`.
+- **informer** — PDF p. 221, printed p. 220; Persian OCR confidence 0.0; head confidence 92.5; embedded `informer = Informant`.
+- **ingenious** — PDF p. 221, printed p. 220; Persian OCR confidence 36.7; head confidence 50.9; embedded `ingenious`.
+- **ingestive** — PDF p. 221, printed p. 220; Persian OCR confidence 30.8; head confidence 93.2; embedded `Ingestive`.
+- **inglorious** — PDF p. 221, printed p. 220; Persian OCR confidence 84.7; head confidence 29.3; embedded `inglorious`.
+- **ingloriousness** — PDF p. 221, printed p. 220; Persian OCR confidence 24.4; head confidence 92.3; embedded `Ingloriousness`.
+- **ingression ingress** — PDF p. 222, printed p. 221; Persian OCR confidence 0.0; head confidence 93.8; embedded `ingression ingress`.
+- **inhabitable** — PDF p. 222, printed p. 221; Persian OCR confidence 0.0; head confidence 91.0; embedded `inhabltable`.
+- **inhabitancy** — PDF p. 222, printed p. 221; Persian OCR confidence 0.0; head confidence 91.7; embedded `inhabitancy`.
+- **inharmoniousness** — PDF p. 222, printed p. 221; Persian OCR confidence 7.3; head confidence 91.2; embedded `inharmoniousness`.
+- **inherency inherence** — PDF p. 222, printed p. 221; Persian OCR confidence 0.0; head confidence 92.2; embedded `lnherency inherence`.
+- **inherent** — PDF p. 222, printed p. 221; Persian OCR confidence 35.8; head confidence 95.9; embedded `inherent`.
+- **inheritance** — PDF p. 222, printed p. 221; Persian OCR confidence 52.1; head confidence 96.8; embedded `inheritance`.
+- **inherited** — PDF p. 222, printed p. 221; Persian OCR confidence 15.6; head confidence 96.1; embedded `inherited`.
+- **inheritor** — PDF p. 222, printed p. 221; Persian OCR confidence 32.6; head confidence 92.8; embedded `inheritor`.
+- **inhibitive** — PDF p. 222, printed p. 221; Persian OCR confidence 31.3; head confidence 72.1; embedded `inhibitive`.
+- **inhospitability** — PDF p. 222, printed p. 221; Persian OCR confidence 79.5; head confidence 0.0; embedded `inhospitability`.
+- **inhospitableness inhospitability** — PDF p. 222, printed p. 221; Persian OCR confidence 0.0; head confidence 91.9; embedded `inhospitableness inhospitability`.
+- **inhumanity** — PDF p. 222, printed p. 221; Persian OCR confidence 35.3; head confidence 44.2; embedded `inhumanity`.
+- **in intellecto (L)** — PDF p. 222, printed p. 221; Persian OCR confidence 0.0; head confidence 65.1; embedded `in intellecto (L.)`.
+- **initial** — PDF p. 222, printed p. 221; Persian OCR confidence 81.9; head confidence 29.3; embedded `initial`.
+- **initial cause** — PDF p. 222, printed p. 221; Persian OCR confidence 54.8; head confidence 83.3; embedded `initial cause`.
+- **initialism** — PDF p. 222, printed p. 221; Persian OCR confidence 61.4; head confidence 88.8; embedded `inltiallsm`.
+- **initiated** — PDF p. 222, printed p. 221; Persian OCR confidence 87.9; head confidence 30.7; embedded `initiated`.
+- **initiation rites** — PDF p. 223, printed p. 222; Persian OCR confidence 44.7; head confidence 96.3; embedded `initiation rites`.
+- **initiative** — PDF p. 223, printed p. 222; Persian OCR confidence 62.6; head confidence 80.6; embedded `initiative`.
+- **inner** — PDF p. 223, printed p. 222; Persian OCR confidence 91.3; head confidence 43.1; embedded `inner`.
+- **inner** — PDF p. 223, printed p. 222; Persian OCR confidence 75.6; head confidence 29.4; embedded `inner`.
+- **inner child** — PDF p. 223, printed p. 222; Persian OCR confidence 48.7; head confidence 93.4; embedded `inner child`.
+- **inner-directed** — PDF p. 223, printed p. 222; Persian OCR confidence 0.0; head confidence 40.9; embedded `inner-directed`.
+- **innerness** — PDF p. 223, printed p. 222; Persian OCR confidence 68.7; head confidence 44.9; embedded `innerness`.
+- **in-ness** — PDF p. 223, printed p. 222; Persian OCR confidence 37.9; head confidence 43.7; embedded `in-ness`.
+- **innocent** — PDF p. 223, printed p. 222; Persian OCR confidence 80.9; head confidence 44.5; embedded `innocent`.
+- **innocent passage** — PDF p. 223, printed p. 222; Persian OCR confidence 39.2; head confidence 71.3; embedded `innocent passage`.
+- **innominate** — PDF p. 223, printed p. 222; Persian OCR confidence 77.7; head confidence 34.7; embedded `innominate`.
+- **innovation-driven economy** — PDF p. 223, printed p. 222; Persian OCR confidence 50.1; head confidence 60.8; embedded `innovation-driven economy`.
+- **inoperativeness** — PDF p. 223, printed p. 222; Persian OCR confidence 88.6; head confidence 35.7; embedded `inoperativeness`.
+- **inopportuneness** — PDF p. 224, printed p. 223; Persian OCR confidence 21.4; head confidence 91.0; embedded `inopportuneness`.
+- **input-output analysis** — PDF p. 224, printed p. 223; Persian OCR confidence 51.6; head confidence 96.4; embedded `input-output analysis`.
+- **inquiry** — PDF p. 224, printed p. 223; Persian OCR confidence 53.4; head confidence 96.1; embedded `inquiry`.
+- **inquisitive** — PDF p. 224, printed p. 223; Persian OCR confidence 40.6; head confidence 7.2; embedded `inquisitive`.
+- **inquisitiveness** — PDF p. 224, printed p. 223; Persian OCR confidence 29.9; head confidence 91.7; embedded `inquisitiveness`.
+- **insanitary** — PDF p. 224, printed p. 223; Persian OCR confidence 37.6; head confidence 91.5; embedded `insanitary`.
+- **inscription** — PDF p. 224, printed p. 223; Persian OCR confidence 45.6; head confidence 96.2; embedded `inscription`.
+- **inscrutable** — PDF p. 224, printed p. 223; Persian OCR confidence 0.0; head confidence 96.3; embedded `inscrutable`.
+- **insensibility** — PDF p. 224, printed p. 223; Persian OCR confidence 63.6; head confidence 40.1; embedded `insensibility`.
+- **insensibleness insensibility** — PDF p. 224, printed p. 223; Persian OCR confidence 0.0; head confidence 86.4; embedded `insensibleness insensibility`.
+- **insentient** — PDF p. 224, printed p. 223; Persian OCR confidence 90.2; head confidence 41.0; embedded `insentient`.
+- **inseparableness** — PDF p. 224, printed p. 223; Persian OCR confidence 0.0; head confidence 91.2; embedded `inseparableness = inseparability`.
+- **in-service** — PDF p. 224, printed p. 223; Persian OCR confidence 48.8; head confidence n/a; embedded `in-service`.
+- **in-service training** — PDF p. 224, printed p. 223; Persian OCR confidence 0.5; head confidence 66.4; embedded `in-service training`.
+- **insight** — PDF p. 224, printed p. 223; Persian OCR confidence 84.3; head confidence 20.9; embedded `insight`.
+- **insigne** — PDF p. 224, printed p. 223; Persian OCR confidence 0.0; head confidence 93.3; embedded `insigne = Insignia`.
+- **insignificance .r** — PDF p. 224, printed p. 223; Persian OCR confidence 73.8; head confidence 25.7; embedded `insignificance .r`.
+- **insignlflcancy** — PDF p. 224, printed p. 223; Persian OCR confidence 0.0; head confidence 93.8; embedded `insignlflcancy = insignificance`.
+- **insolubilia** — PDF p. 225, printed p. 224; Persian OCR confidence 52.6; head confidence 92.6; embedded `insolubilia`.
+- **insomniac** — PDF p. 225, printed p. 224; Persian OCR confidence 39.2; head confidence 95.8; embedded `insomniac`.
+- **inspectorate** — PDF p. 225, printed p. 224; Persian OCR confidence 24.2; head confidence 96.3; embedded `inspectorate`.
+- **inspector general** — PDF p. 225, printed p. 224; Persian OCR confidence 43.2; head confidence 96.6; embedded `inspector general`.
+- **installment instalment** — PDF p. 225, printed p. 224; Persian OCR confidence 0.0; head confidence 95.6; embedded `installment instalment`.
+- **instantaneity instantaneousness** — PDF p. 225, printed p. 224; Persian OCR confidence 0.0; head confidence 92.0; embedded `instantaneity instantaneousness`.
+- **Institute** — PDF p. 225, printed p. 224; Persian OCR confidence 58.9; head confidence 32.1; embedded `Institute`.
+- **i nstltutlonalized** — PDF p. 225, printed p. 224; Persian OCR confidence 68.5; head confidence 22.5; embedded `i nstltutlonalized`.
+- **institutional process** — PDF p. 225, printed p. 224; Persian OCR confidence 53.1; head confidence 79.2; embedded `lnstltutlonal process`.
+- **Instructor** — PDF p. 225, printed p. 224; Persian OCR confidence 81.8; head confidence 39.6; embedded `Instructor`.
+- **instrumental aggression** — PDF p. 226, printed p. 225; Persian OCR confidence 29.9; head confidence 96.6; embedded `instrumental aggression`.
+- **instrumental conditioning** — PDF p. 226, printed p. 225; Persian OCR confidence 32.5; head confidence 96.3; embedded `instrumental conditioning`.
+- **instrumental learning** — PDF p. 226, printed p. 225; Persian OCR confidence 26.7; head confidence 95.9; embedded `instrumental learning`.
+- **insubstantial** — PDF p. 226, printed p. 225; Persian OCR confidence 75.1; head confidence 38.5; embedded `insubstantial`.
+- **insufficiency** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 96.6; embedded `insufficiency`.
+- **insufficient** — PDF p. 226, printed p. 225; Persian OCR confidence 0.4; head confidence 97.0; embedded `insufficient`.
+- **insularity insularism** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 94.3; embedded `insularity insularism`.
+- **insuperability** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 91.8; embedded `insuperability = insuperableness`.
+- **insuperable** — PDF p. 226, printed p. 225; Persian OCR confidence 34.9; head confidence 96.6; embedded `insuperable`.
+- **insuperableness** — PDF p. 226, printed p. 225; Persian OCR confidence 45.0; head confidence 30.8; embedded `insuperableness`.
+- **insupportable** — PDF p. 226, printed p. 225; Persian OCR confidence 43.2; head confidence 35.7; embedded `insupportable`.
+- **insupportableness** — PDF p. 226, printed p. 225; Persian OCR confidence 35.7; head confidence 54.7; embedded `insupportableness`.
+- **insurance** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 97.0; embedded `insurance`.
+- **insured** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 53.7; embedded `insured`.
+- **insurer** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 95.9; embedded `insurer`.
+- **insurgence** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 60.9; embedded `insurgence`.
+- **insurgency** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 96.0; embedded `insurgency`.
+- **insurgent** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 77.4; embedded `insurgent`.
+- **insurmountable** — PDF p. 226, printed p. 225; Persian OCR confidence 0.0; head confidence 70.0; embedded `insurmountable`.
+- **insurrection** — PDF p. 226, printed p. 225; Persian OCR confidence 47.8; head confidence 70.5; embedded `insurrection`.
+- **intangibility** — PDF p. 226, printed p. 225; Persian OCR confidence 42.4; head confidence 74.7; embedded `intangibility = intangibleness`.
+- **intangible** — PDF p. 226, printed p. 225; Persian OCR confidence 48.1; head confidence 84.1; embedded `intangible`.
+- **intangibleness** — PDF p. 226, printed p. 225; Persian OCR confidence 42.8; head confidence 80.5; embedded `intangibleness`.
+- **integrative** — PDF p. 226, printed p. 225; Persian OCR confidence 53.6; head confidence 40.5; embedded `integrative`.
+- **Integrator** — PDF p. 226, printed p. 225; Persian OCR confidence 82.5; head confidence 44.1; embedded `Integrator`.
+- **intellect** — PDF p. 227, printed p. 226; Persian OCR confidence 47.8; head confidence 96.4; embedded `intellect`.
+- **intellectual biography** — PDF p. 227, printed p. 226; Persian OCR confidence 26.2; head confidence 85.0; embedded `Intellectual biography`.
+- **intellectual intuition** — PDF p. 227, printed p. 226; Persian OCR confidence 19.1; head confidence 89.9; embedded `Intellectual Intuition`.
+- **intellectualist** — PDF p. 227, printed p. 226; Persian OCR confidence 54.8; head confidence 89.8; embedded `lntellectuallst`.
+- **inteliectuality** — PDF p. 227, printed p. 226; Persian OCR confidence 54.5; head confidence 76.4; embedded `intellectuality`.
+- **Intelligence** — PDF p. 227, printed p. 226; Persian OCR confidence 64.8; head confidence 24.2; embedded `Intelligence`.
+- **intelligence quotient** — PDF p. 227, printed p. 226; Persian OCR confidence 45.1; head confidence 86.5; embedded `Intelligence quotient`.
+- **intelligence test** — PDF p. 227, printed p. 226; Persian OCR confidence 46.1; head confidence 87.2; embedded `Intelligence test`.
+- **lntelliglbllia** — PDF p. 227, printed p. 226; Persian OCR confidence 0.0; head confidence 63.6; embedded `lntelliglbllia = lntelligibles`.
+- **intelligible** — PDF p. 227, printed p. 226; Persian OCR confidence 39.3; head confidence 68.2; embedded `ntellig bl~`.
+- **intemperateness intemperance** — PDF p. 227, printed p. 226; Persian OCR confidence 0.0; head confidence 81.8; embedded `Intemperateness Intemperance`.
+- **Intensifier** — PDF p. 227, printed p. 226; Persian OCR confidence 74.4; head confidence 17.4; embedded `Intensifier`.
+- **intensional** — PDF p. 227, printed p. 226; Persian OCR confidence 87.4; head confidence 45.8; embedded `lntenslonal`.
+- **intention .r** — PDF p. 228, printed p. 227; Persian OCR confidence 69.4; head confidence 39.2; embedded `intention .r =`.
+- **intentional act** — PDF p. 228, printed p. 227; Persian OCR confidence 44.0; head confidence 96.7; embedded `intentional act`.
+- **intentionalism** — PDF p. 228, printed p. 227; Persian OCR confidence 50.2; head confidence 92.3; embedded `intentionalism`.
+- **intentional learning** — PDF p. 228, printed p. 227; Persian OCR confidence 44.8; head confidence 96.8; embedded `intentional !earning`.
+- **interactional function** — PDF p. 228, printed p. 227; Persian OCR confidence 52.7; head confidence 95.9; embedded `interactional function`.
+- **interchangeable** — PDF p. 228, printed p. 227; Persian OCR confidence 39.1; head confidence 81.7; embedded `interchangeable`.
+- **interclass** — PDF p. 228, printed p. 227; Persian OCR confidence 89.9; head confidence 14.3; embedded `interclass`.
+- **intercommunication** — PDF p. 228, printed p. 227; Persian OCR confidence 50.2; head confidence 52.1; embedded `intercommunication`.
+- **intercommunity** — PDF p. 228, printed p. 227; Persian OCR confidence 44.9; head confidence 91.0; embedded `intercommunity`.
+- **interdependency interdependence** — PDF p. 228, printed p. 227; Persian OCR confidence 0.0; head confidence 96.3; embedded `interdependency interdependence`.
+- **interdiction** — PDF p. 228, printed p. 227; Persian OCR confidence 91.4; head confidence 35.5; embedded `interdiction`.
+- **interest** — PDF p. 228, printed p. 227; Persian OCR confidence 82.1; head confidence 38.3; embedded `interest`.
+- **intergenerational** — PDF p. 229, printed p. 228; Persian OCR confidence 12.1; head confidence 92.0; embedded `intergenerational`.
+- **intergroup** — PDF p. 229, printed p. 228; Persian OCR confidence 13.3; head confidence 95.8; embedded `intergroup`.
+- **interim government** — PDF p. 229, printed p. 228; Persian OCR confidence 32.4; head confidence 95.9; embedded `interim government`.
+- **interlingua** — PDF p. 229, printed p. 228; Persian OCR confidence 79.5; head confidence 40.4; embedded `interlingua`.
+- **interlingual** — PDF p. 229, printed p. 228; Persian OCR confidence 47.5; head confidence 85.8; embedded `interlingual`.
+- **interlinguistic** — PDF p. 229, printed p. 228; Persian OCR confidence 0.0; head confidence 73.5; embedded `interlinguistlc`.
+- **interlinguistics** — PDF p. 229, printed p. 228; Persian OCR confidence 0.0; head confidence 85.8; embedded `interlingulstlcs`.
+- **interlocution** — PDF p. 229, printed p. 228; Persian OCR confidence 6.3; head confidence 78.7; embedded `interlocution`.
+- **interlocutionary interlocutory** — PDF p. 229, printed p. 228; Persian OCR confidence 0.0; head confidence 75.4; embedded `interlocutionary interlocutory`.
+- **intermediary** — PDF p. 229, printed p. 228; Persian OCR confidence 0.0; head confidence 78.9; embedded `intermediary`.
+- **intermediate** — PDF p. 229, printed p. 228; Persian OCR confidence 0.0; head confidence 79.8; embedded `intermediate`.
+- **intermedlum** — PDF p. 229, printed p. 228; Persian OCR confidence 48.6; head confidence n/a; embedded `intermedlum`.
+- **Intermission** — PDF p. 229, printed p. 228; Persian OCR confidence 74.1; head confidence 42.3; embedded `Intermission`.
+- **intermittent** — PDF p. 229, printed p. 228; Persian OCR confidence 51.8; head confidence 40.9; embedded `intermittent`.
+- **internal backing** — PDF p. 230, printed p. 229; Persian OCR confidence 53.3; head confidence 96.4; embedded `internal backing`.
+- **internal inhibition** — PDF p. 230, printed p. 229; Persian OCR confidence 50.1; head confidence 96.5; embedded `internal inhibition`.
+- **internal rhyme** — PDF p. 230, printed p. 229; Persian OCR confidence 54.4; head confidence 96.2; embedded `internal rhyme`.
+- **international community acl. saul internaut** — PDF p. 230, printed p. 229; Persian OCR confidence 0.0; head confidence 51.1; embedded `international community lnternaut`.
+- **international crime** — PDF p. 230, printed p. 229; Persian OCR confidence 54.7; head confidence 96.4; embedded `internatlonal crime`.
+- **international groupings** — PDF p. 230, printed p. 229; Persian OCR confidence 51.3; head confidence 96.7; embedded `international groupings`.
+- **internationalist** — PDF p. 230, printed p. 229; Persian OCR confidence 86.8; head confidence 0.0; embedded `internationalist`.
+- **lnternatlonal obligatlonsc}Wl0** — PDF p. 230, printed p. 229; Persian OCR confidence 18.1; head confidence 45.8; embedded `lnternatlonal obligatlonsc}Wl0=-!`.
+- **International responsibility** — PDF p. 230, printed p. 229; Persian OCR confidence 51.0; head confidence 68.3; embedded `international responsibility`.
+- **internatlonal strait** — PDF p. 230, printed p. 229; Persian OCR confidence 73.7; head confidence 97.0; embedded `internatlonal strait`.
+- **interne** — PDF p. 230, printed p. 229; Persian OCR confidence 0.0; head confidence 86.5; embedded `interne = Intern`.
+- **internship** — PDF p. 230, printed p. 229; Persian OCR confidence 52.0; head confidence 91.2; embedded `internship`.
+- **interplay** — PDF p. 230, printed p. 229; Persian OCR confidence 22.1; head confidence 41.0; embedded `interplay`.
+- **interpretability** — PDF p. 231, printed p. 230; Persian OCR confidence 39.0; head confidence 34.1; embedded `interpretability`.
+- **interpretableness** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 90.8; embedded `interpretableness = lnterpretability`.
+- **interpretation of dream** — PDF p. 231, printed p. 230; Persian OCR confidence 26.0; head confidence 96.8; embedded `interpretation of dream`.
+- **interpretative literature** — PDF p. 231, printed p. 230; Persian OCR confidence 45.2; head confidence 96.9; embedded `interpretative literature`.
+- **interpreter** — PDF p. 231, printed p. 230; Persian OCR confidence 41.2; head confidence 91.8; embedded `interpreter`.
+- **interpretive** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 96.7; embedded `interpretive = interpretative`.
+- **interrelatedness** — PDF p. 231, printed p. 230; Persian OCR confidence 27.4; head confidence 92.4; embedded `interrelatedness`.
+- **Interrogative** — PDF p. 231, printed p. 230; Persian OCR confidence 77.7; head confidence 42.3; embedded `Interrogative`.
+- **interrogator** — PDF p. 231, printed p. 230; Persian OCR confidence 47.1; head confidence 80.8; embedded `interrogator`.
+- **interrogatory** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 58.4; embedded `interrogatory = interrogative`.
+- **intersection** — PDF p. 231, printed p. 230; Persian OCR confidence 53.4; head confidence 71.2; embedded `Intersection`.
+- **intersessional** — PDF p. 231, printed p. 230; Persian OCR confidence 91.3; head confidence 38.9; embedded `intersessional`.
+- **intersexual** — PDF p. 231, printed p. 230; Persian OCR confidence 42.2; head confidence 55.4; embedded `intersexual`.
+- **interstimulation** — PDF p. 231, printed p. 230; Persian OCR confidence 81.2; head confidence 68.3; embedded `lnterstlmulatlon`.
+- **intersubjective** — PDF p. 231, printed p. 230; Persian OCR confidence 50.1; head confidence 47.6; embedded `intersubjective`.
+- **intertext** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 68.4; embedded `lntertext`.
+- **intertextual** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 56.9; embedded `lntertextual`.
+- **intertribal** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 69.7; embedded `intertribal`.
+- **intertropical** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 85.9; embedded `intertroplcal`.
+- **intertwinment** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 44.6; embedded `intertwinment`.
+- **interurban** — PDF p. 231, printed p. 230; Persian OCR confidence 0.0; head confidence 96.6; embedded `Interurban`.
+- **interview** — PDF p. 231, printed p. 230; Persian OCR confidence 47.6; head confidence 52.5; embedded `Interview`.
+- **interviewee** — PDF p. 231, printed p. 230; Persian OCR confidence 48.9; head confidence 96.1; embedded `interviewee`.
+- **interviewer** — PDF p. 231, printed p. 230; Persian OCR confidence 29.3; head confidence 34.8; embedded `interviewer`.
+- **Intervocalic** — PDF p. 231, printed p. 230; Persian OCR confidence 55.8; head confidence 44.2; embedded `Intervocalic`.
+- **interwoven** — PDF p. 231, printed p. 230; Persian OCR confidence 30.3; head confidence 69.3; embedded `interwoven`.
+- **intimism** — PDF p. 232, printed p. 231; Persian OCR confidence 75.0; head confidence 92.9; embedded `intlmlsm`.
+- **intimist** — PDF p. 232, printed p. 231; Persian OCR confidence 46.4; head confidence 92.1; embedded `intlmlst`.
+- **intolerableness intolerability** — PDF p. 232, printed p. 231; Persian OCR confidence 0.0; head confidence 91.5; embedded `intolerableness Intolerability`.
+- **intraceptive** — PDF p. 232, printed p. 231; Persian OCR confidence 40.9; head confidence 92.1; embedded `intraceptive`.
+- **intraindividual** — PDF p. 232, printed p. 231; Persian OCR confidence 81.5; head confidence 83.7; embedded `lntralndlvldual`.
+- **intramarriage** — PDF p. 232, printed p. 231; Persian OCR confidence 75.0; head confidence 13.8; embedded `intramarriage`.
+- **Intramural** — PDF p. 232, printed p. 231; Persian OCR confidence 74.5; head confidence 39.0; embedded `Intramural`.
+- **intrapersonal** — PDF p. 232, printed p. 231; Persian OCR confidence 0.0; head confidence 54.3; embedded `lntrapersonal`.
+- **intrasectoral** — PDF p. 232, printed p. 231; Persian OCR confidence 89.5; head confidence 40.9; embedded `intrasectoral`.
+- **intraspecific** — PDF p. 232, printed p. 231; Persian OCR confidence 67.6; head confidence 57.1; embedded `lntraspeclflc`.
+- **intriguant intrigant** — PDF p. 232, printed p. 231; Persian OCR confidence 0.0; head confidence 86.1; embedded `intriguant lntrlgant`.
+- **intropunltlve** — PDF p. 232, printed p. 231; Persian OCR confidence 87.8; head confidence 8.8; embedded `intropunltlve`.
+- **introspection ism** — PDF p. 233, printed p. 232; Persian OCR confidence 68.2; head confidence 40.9; embedded `introspection ism`.
+- **intuitional** — PDF p. 233, printed p. 232; Persian OCR confidence 48.3; head confidence 92.9; embedded `lntultional`.
+- **intuitionalism intuitionism** — PDF p. 233, printed p. 232; Persian OCR confidence 0.0; head confidence 92.0; embedded `intuitionalism intuitionlsm`.
+- **intuitionalist intuitionist** — PDF p. 233, printed p. 232; Persian OCR confidence 0.0; head confidence 92.2; embedded `intuitionalist intuitionist`.
+- **intuitive cognition** — PDF p. 233, printed p. 232; Persian OCR confidence 0.0; head confidence 96.5; embedded `intuitive cognition`.
+- **intuitive faculty** — PDF p. 233, printed p. 232; Persian OCR confidence 0.0; head confidence 94.8; embedded `intuitive faculty`.
+- **invalldatlon** — PDF p. 233, printed p. 232; Persian OCR confidence 85.9; head confidence 31.6; embedded `invalldatlon`.
+- **Inventory** — PDF p. 233, printed p. 232; Persian OCR confidence 68.2; head confidence 36.4; embedded `Inventory`.
+- **inventory control** — PDF p. 233, printed p. 232; Persian OCR confidence 46.1; head confidence 82.6; embedded `inventory control`.
+- **inverse** — PDF p. 233, printed p. 232; Persian OCR confidence 6.6; head confidence 27.6; embedded `inverse`.
+- **invert** — PDF p. 233, printed p. 232; Persian OCR confidence 49.4; head confidence 96.0; embedded `invert`.
+- **investlgable** — PDF p. 233, printed p. 232; Persian OCR confidence 44.3; head confidence 36.5; embedded `investlgable`.
+- **investigation** — PDF p. 233, printed p. 232; Persian OCR confidence 58.5; head confidence 41.9; embedded `investigation`.
+- **investigative journalist** — PDF p. 233, printed p. 232; Persian OCR confidence 42.1; head confidence 96.3; embedded `investigative journalist`.
+- **investlgatorlal** — PDF p. 233, printed p. 232; Persian OCR confidence 61.4; head confidence 34.2; embedded `investlgatorlal`.
+- **inviolability** — PDF p. 234, printed p. 233; Persian OCR confidence 77.3; head confidence 26.1; embedded `inviolability`.
+- **invisible world** — PDF p. 234, printed p. 233; Persian OCR confidence 51.6; head confidence 96.6; embedded `invisible world`.
+- **in vivo (L.)** — PDF p. 234, printed p. 233; Persian OCR confidence 48.3; head confidence 87.9; embedded `in vivo`.
+- **involuntariness** — PDF p. 234, printed p. 233; Persian OCR confidence 54.7; head confidence 90.7; embedded `involuntariness`.
+- **involuntary** — PDF p. 234, printed p. 233; Persian OCR confidence 53.7; head confidence 96.5; embedded `involuntary`.
+- **invulnerable** — PDF p. 234, printed p. 233; Persian OCR confidence 49.0; head confidence 89.8; embedded `invulnerable`.
+- **inward aggression** — PDF p. 234, printed p. 233; Persian OCR confidence 52.5; head confidence 96.4; embedded `inward aggression`.
+- **inwardness** — PDF p. 234, printed p. 233; Persian OCR confidence 65.9; head confidence 0.0; embedded `inwardness`.
+- **ipse dixit (L)** — PDF p. 234, printed p. 233; Persian OCR confidence 46.8; head confidence 66.4; embedded `ipse dixit`.
+- **Iranian** — PDF p. 234, printed p. 233; Persian OCR confidence 73.4; head confidence 0.0; embedded `Iranian`.
+- **Iraqi** — PDF p. 234, printed p. 233; Persian OCR confidence 85.9; head confidence 33.2; embedded `Iraqi`.
+- **irascibility** — PDF p. 234, printed p. 233; Persian OCR confidence 83.9; head confidence 38.0; embedded `irascibility`.
+- **irascible** — PDF p. 234, printed p. 233; Persian OCR confidence 64.2; head confidence 14.2; embedded `irascible`.
+- **Irish** — PDF p. 234, printed p. 233; Persian OCR confidence 90.2; head confidence 24.3; embedded `Irish`.
+- **ironic(-al)** — PDF p. 234, printed p. 233; Persian OCR confidence 81.3; head confidence 0.0; embedded `ironic(-al)`.
+- **ironist** — PDF p. 234, printed p. 233; Persian OCR confidence 69.6; head confidence 0.0; embedded `ironist`.
+- **iron law of wages** — PDF p. 234, printed p. 233; Persian OCR confidence 0.0; head confidence 92.4; embedded `iron law of wages`.
+- **ironwork** — PDF p. 234, printed p. 233; Persian OCR confidence 0.0; head confidence 73.1; embedded `ironwork`.
+- **ironworker** — PDF p. 234, printed p. 233; Persian OCR confidence 0.0; head confidence 55.4; embedded `ironworker`.
+- **irony** — PDF p. 234, printed p. 233; Persian OCR confidence 65.9; head confidence 0.0; embedded `irony`.
+- **irreconcilable** — PDF p. 235, printed p. 234; Persian OCR confidence 51.7; head confidence 96.3; embedded `irreconcilable`.
+- **irredentist** — PDF p. 235, printed p. 234; Persian OCR confidence 39.8; head confidence 93.0; embedded `irredentist`.
+- **irreducible** — PDF p. 235, printed p. 234; Persian OCR confidence 44.0; head confidence 96.8; embedded `irreducible`.
+- **irreducibleness irreducibility** — PDF p. 235, printed p. 234; Persian OCR confidence 0.0; head confidence 93.4; embedded `irreduclbleness Irreducibility`.
+- **irrefutability** — PDF p. 235, printed p. 234; Persian OCR confidence 43.2; head confidence 92.3; embedded `irrefutablllty`.
+- **irregular** — PDF p. 235, printed p. 234; Persian OCR confidence 64.5; head confidence 41.0; embedded `irregular`.
+- **irrelevance** — PDF p. 235, printed p. 234; Persian OCR confidence 26.2; head confidence 95.6; embedded `irrelevance`.
+- **irrelevancy** — PDF p. 235, printed p. 234; Persian OCR confidence 0.0; head confidence 94.6; embedded `irrelevancy = Irrelevance`.
+- **irreligion** — PDF p. 235, printed p. 234; Persian OCR confidence 65.4; head confidence 60.5; embedded `lrrellglon`.
+- **irreligionist irreligion** — PDF p. 235, printed p. 234; Persian OCR confidence 0.0; head confidence 90.1; embedded `irrellglonlst lrrellglon`.
+- **irremediable** — PDF p. 235, printed p. 234; Persian OCR confidence 43.0; head confidence 92.6; embedded `irremediable`.
+- **irremissibility** — PDF p. 235, printed p. 234; Persian OCR confidence 79.6; head confidence 74.0; embedded `lrremlsslblllty`.
+- **irreparablllty** — PDF p. 235, printed p. 234; Persian OCR confidence 86.0; head confidence 8.1; embedded `irreparablllty`.
+- **irresistibility** — PDF p. 235, printed p. 234; Persian OCR confidence 91.1; head confidence 19.0; embedded `irresistibility`.
+- **irreversibility** — PDF p. 235, printed p. 234; Persian OCR confidence 50.0; head confidence 57.3; embedded `irreversibility`.
+- **irrevocable** — PDF p. 235, printed p. 234; Persian OCR confidence 50.5; head confidence 52.1; embedded `irrevocable`.
+- **irrigative** — PDF p. 235, printed p. 234; Persian OCR confidence 85.0; head confidence 75.4; embedded `irrlgatlve`.
+- **irritable** — PDF p. 235, printed p. 234; Persian OCR confidence 86.5; head confidence 74.4; embedded `lrrltable`.
+- **Irritant** — PDF p. 235, printed p. 234; Persian OCR confidence 0.0; head confidence 52.6; embedded `Irritant`.
+- **Irruptive** — PDF p. 235, printed p. 234; Persian OCR confidence 14.0; head confidence 39.3; embedded `Irruptive`.
+- **Islamicate** — PDF p. 235, printed p. 234; Persian OCR confidence 46.8; head confidence 87.5; embedded `lslamlcate`.
+- **Islamic law** — PDF p. 235, printed p. 234; Persian OCR confidence 74.2; head confidence 86.6; embedded `lslamlc law`.
+- **istamophobe** — PDF p. 236, printed p. 235; Persian OCR confidence 38.7; head confidence 77.0; embedded `islamophobe`.
+- **Ismaelian Ismailian** — PDF p. 236, printed p. 235; Persian OCR confidence 0.0; head confidence 50.7; embedded `lsmaelian lsmailian`.
+- **isogloss** — PDF p. 236, printed p. 235; Persian OCR confidence 52.2; head confidence 91.7; embedded `isogloss`.
+- **Israeli** — PDF p. 236, printed p. 235; Persian OCR confidence 15.1; head confidence 59.9; embedded `Israeli`.
+- **Italian ism** — PDF p. 236, printed p. 235; Persian OCR confidence 73.9; head confidence 33.1; embedded `Italian ism`.
+- **Italicism Italianism** — PDF p. 236, printed p. 235; Persian OCR confidence 0.0; head confidence 52.6; embedded `ltalicism ltalianlsm`.
+- **item** — PDF p. 236, printed p. 235; Persian OCR confidence 48.4; head confidence 76.2; embedded `item`.
+- **item analysis** — PDF p. 236, printed p. 235; Persian OCR confidence 45.6; head confidence 82.9; embedded `item analysis`.
+- **ithyphalic** — PDF p. 236, printed p. 235; Persian OCR confidence 56.1; head confidence 44.8; embedded `ithyphalic`.
+- **itineracy itinerancy** — PDF p. 236, printed p. 235; Persian OCR confidence 54.7; head confidence 73.0; embedded `itineracy itlnerancy`.
+- **itinerant** — PDF p. 236, printed p. 235; Persian OCR confidence 66.5; head confidence 26.9; embedded `itinerant`.

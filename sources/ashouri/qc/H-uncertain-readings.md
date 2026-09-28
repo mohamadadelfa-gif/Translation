@@ -1,0 +1,226 @@
+# H — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **habitant** — PDF p. 190, printed p. 189; Persian OCR confidence 0.0; head confidence 91.7; embedded `habitant`.
+- **habitat** — PDF p. 190, printed p. 189; Persian OCR confidence 38.5; head confidence 96.3; embedded `habitat`.
+- **habituation** — PDF p. 190, printed p. 189; Persian OCR confidence 89.5; head confidence 25.6; embedded `habituation`.
+- **hadith (Ar)** — PDF p. 190, printed p. 189; Persian OCR confidence 6.0; head confidence 61.6; embedded `hadith (Ar.)`.
+- **haecceity** — PDF p. 190, printed p. 189; Persian OCR confidence 68.6; head confidence 27.2; embedded `haecceity`.
+- **haj (Ar.)** — PDF p. 190, printed p. 189; Persian OCR confidence 46.6; head confidence 41.4; embedded `haj (Ar.)`.
+- **hallucination** — PDF p. 191, printed p. 190; Persian OCR confidence 39.2; head confidence 96.6; embedded `hallucination`.
+- **hallucinogen** — PDF p. 191, printed p. 190; Persian OCR confidence 41.3; head confidence 96.7; embedded `hallucinogen`.
+- **handcraft** — PDF p. 191, printed p. 190; Persian OCR confidence 0.0; head confidence 96.1; embedded `handcraft = handicraft`.
+- **handedness** — PDF p. 191, printed p. 190; Persian OCR confidence 46.0; head confidence 96.7; embedded `handedness`.
+- **haphalgesia** — PDF p. 191, printed p. 190; Persian OCR confidence 37.9; head confidence 92.4; embedded `haphalgesia`.
+- **haphephobia** — PDF p. 191, printed p. 190; Persian OCR confidence 44.6; head confidence 92.8; embedded `haphephobia`.
+- **hard drug** — PDF p. 191, printed p. 190; Persian OCR confidence 50.5; head confidence 92.9; embedded `hard drug`.
+- **harmony** — PDF p. 191, printed p. 190; Persian OCR confidence 91.3; head confidence 29.4; embedded `harmony`.
+- **headman** — PDF p. 191, printed p. 190; Persian OCR confidence 38.5; head confidence 78.0; embedded `headman`.
+- **headship** — PDF p. 192, printed p. 191; Persian OCR confidence 35.2; head confidence 96.5; embedded `headship`.
+- **head teller** — PDF p. 192, printed p. 191; Persian OCR confidence 33.2; head confidence 96.8; embedded `head teller`.
+- **healthy** — PDF p. 192, printed p. 191; Persian OCR confidence 38.5; head confidence 94.9; embedded `healthy`.
+- **hearing-mute** — PDF p. 192, printed p. 191; Persian OCR confidence 51.1; head confidence 90.5; embedded `hearing-mute`.
+- **heavenliness** — PDF p. 192, printed p. 191; Persian OCR confidence 53.1; head confidence 24.9; embedded `heavenliness`.
+- **heavenly sphere0** — PDF p. 192, printed p. 191; Persian OCR confidence 91.4; head confidence 13.8; embedded `heavenly sphere0`.
+- **hebephilia** — PDF p. 192, printed p. 191; Persian OCR confidence 86.6; head confidence 41.2; embedded `hebephilia`.
+- **hebetic** — PDF p. 192, printed p. 191; Persian OCR confidence 62.3; head confidence 4.3; embedded `hebetic`.
+- **Hebraic(-al)** — PDF p. 192, printed p. 191; Persian OCR confidence 51.7; head confidence 83.9; embedded `Hebraic(-al)`.
+- **Hebraism** — PDF p. 192, printed p. 191; Persian OCR confidence 47.0; head confidence 77.3; embedded `Hebraism`.
+- **Hebraist** — PDF p. 192, printed p. 191; Persian OCR confidence 51.5; head confidence 76.0; embedded `Hebraist`.
+- **hedonlc** — PDF p. 192, printed p. 191; Persian OCR confidence 0.0; head confidence 32.2; embedded `hedonlc`.
+- **hedonics** — PDF p. 192, printed p. 191; Persian OCR confidence 0.0; head confidence 57.2; embedded `hedonics`.
+- **hedonic tone** — PDF p. 192, printed p. 191; Persian OCR confidence 0.0; head confidence 89.8; embedded `hedonic tone`.
+- **hedonism** — PDF p. 192, printed p. 191; Persian OCR confidence 0.0; head confidence 45.7; embedded `hedonism`.
+- **Hegellsm** — PDF p. 192, printed p. 191; Persian OCR confidence 0.0; head confidence 92.2; embedded `Hegellsm = Hegelianism`.
+- **Hegelist Hegelianist** — PDF p. 192, printed p. 191; Persian OCR confidence 0.0; head confidence 90.6; embedded `Hegellst Hegelianist`.
+- **hegemonism** — PDF p. 192, printed p. 191; Persian OCR confidence 82.8; head confidence 2.5; embedded `hegemonism`.
+- **hegemonlstic** — PDF p. 192, printed p. 191; Persian OCR confidence 84.1; head confidence 37.7; embedded `hegemonlstic`.
+- **heir** — PDF p. 193, printed p. 192; Persian OCR confidence 51.6; head confidence 97.0; embedded `heir`.
+- **heir appareni** — PDF p. 193, printed p. 192; Persian OCR confidence 47.2; head confidence 91.8; embedded `heir apparent`.
+- **heir presumptive** — PDF p. 193, printed p. 192; Persian OCR confidence 42.7; head confidence 96.2; embedded `heir presumptive`.
+- **hejlra** — PDF p. 193, printed p. 192; Persian OCR confidence 0.0; head confidence 91.6; embedded `hejlra = hegira`.
+- **heliocenter** — PDF p. 193, printed p. 192; Persian OCR confidence 43.0; head confidence 92.6; embedded `heliocenter`.
+- **heliocentrism** — PDF p. 193, printed p. 192; Persian OCR confidence 11.9; head confidence 93.1; embedded `hellocentrlsm`.
+- **heliotropism** — PDF p. 193, printed p. 192; Persian OCR confidence 48.0; head confidence 92.7; embedded `heliotropism`.
+- **Hellenism** — PDF p. 193, printed p. 192; Persian OCR confidence 53.9; head confidence 95.1; embedded `Hellenism`.
+- **Hellenistic(-al)** — PDF p. 193, printed p. 192; Persian OCR confidence 53.9; head confidence 90.4; embedded `Hellenlstlc(-al)`.
+- **hemophobla** — PDF p. 193, printed p. 192; Persian OCR confidence 0.0; head confidence 92.5; embedded `hemophobla = hematophobla`.
+- **henotheism** — PDF p. 193, printed p. 192; Persian OCR confidence 54.4; head confidence 91.6; embedded `henothelsm`.
+- **herbalist** — PDF p. 193, printed p. 192; Persian OCR confidence 48.6; head confidence 78.9; embedded `herbalist`.
+- **Herbartlanlsm** — PDF p. 193, printed p. 192; Persian OCR confidence 89.4; head confidence 44.9; embedded `Herbartlanlsm`.
+- **herd** — PDF p. 193, printed p. 192; Persian OCR confidence 53.5; head confidence n/a; embedded `herd`.
+- **herd instinct** — PDF p. 193, printed p. 192; Persian OCR confidence 0.0; head confidence 69.3; embedded `herd Instinct`.
+- **herd mentality** — PDF p. 193, printed p. 192; Persian OCR confidence 0.0; head confidence 82.7; embedded `herd mentality`.
+- **herd morality** — PDF p. 193, printed p. 192; Persian OCR confidence 0.0; head confidence 75.0; embedded `herd morality`.
+- **herdsman** — PDF p. 193, printed p. 192; Persian OCR confidence 0.0; head confidence 88.8; embedded `herdsman`.
+- **hereafter** — PDF p. 193, printed p. 192; Persian OCR confidence 0.0; head confidence 69.5; embedded `hereafter`.
+- **heredltabillty** — PDF p. 193, printed p. 192; Persian OCR confidence 0.0; head confidence 42.7; embedded `heredltabillty`.
+- **hereditable** — PDF p. 193, printed p. 192; Persian OCR confidence 28.0; head confidence 64.3; embedded `heredltable`.
+- **heredltarlanlsm** — PDF p. 193, printed p. 192; Persian OCR confidence 84.0; head confidence 42.5; embedded `heredltarlanlsm`.
+- **hereditary** — PDF p. 193, printed p. 192; Persian OCR confidence 36.9; head confidence 82.4; embedded `hereditary`.
+- **hereditary characteristic** — PDF p. 193, printed p. 192; Persian OCR confidence 30.4; head confidence 91.3; embedded `hereditary characteristic`.
+- **hereditist** — PDF p. 193, printed p. 192; Persian OCR confidence 46.9; head confidence 70.6; embedded `heredltist`.
+- **hermaphrodlsm** — PDF p. 193, printed p. 192; Persian OCR confidence 34.0; head confidence 82.9; embedded `hermaphrodlsm = hermaphroditism`.
+- **hermaphroditic** — PDF p. 193, printed p. 192; Persian OCR confidence 41.0; head confidence 32.4; embedded `hermaphroditic`.
+- **hermeticism** — PDF p. 194, printed p. 193; Persian OCR confidence 0.0; head confidence 92.2; embedded `hermeticism = hermetism`.
+- **heroic poem** — PDF p. 194, printed p. 193; Persian OCR confidence 43.4; head confidence 96.1; embedded `heroic poem`.
+- **heteroeroticism** — PDF p. 194, printed p. 193; Persian OCR confidence 77.5; head confidence 39.1; embedded `heteroeroticism`.
+- **heterogenous** — PDF p. 194, printed p. 193; Persian OCR confidence 0.0; head confidence 96.4; embedded `heterogenous = heterogeneous`.
+- **heteroglossia** — PDF p. 194, printed p. 193; Persian OCR confidence 83.4; head confidence 42.9; embedded `heteroglossia`.
+- **heterography** — PDF p. 194, printed p. 193; Persian OCR confidence 0.0; head confidence 70.5; embedded `heterography`.
+- **heteronymous** — PDF p. 194, printed p. 193; Persian OCR confidence 50.3; head confidence 90.8; embedded `heteronymous`.
+- **heteronymy** — PDF p. 194, printed p. 193; Persian OCR confidence 49.5; head confidence 1.9; embedded `heteronymy`.
+- **heteropatrlc** — PDF p. 194, printed p. 193; Persian OCR confidence 0.0; head confidence 44.4; embedded `heteropatrlc`.
+- **heteropatry** — PDF p. 194, printed p. 193; Persian OCR confidence 43.4; head confidence 29.8; embedded `heteropatry`.
+- **heterophemy** — PDF p. 194, printed p. 193; Persian OCR confidence 54.8; head confidence 73.7; embedded `heterophemy`.
+- **Heterousian Heteroousian** — PDF p. 195, printed p. 194; Persian OCR confidence 0.0; head confidence 91.7; embedded `Heterousian Heteroousian`.
+- **heuristics** — PDF p. 195, printed p. 194; Persian OCR confidence 47.2; head confidence 96.3; embedded `heuristics`.
+- **hibernator** — PDF p. 195, printed p. 194; Persian OCR confidence 36.7; head confidence 92.2; embedded `hibernator`.
+- **hidden language** — PDF p. 195, printed p. 194; Persian OCR confidence 53.7; head confidence 96.1; embedded `hidden language`.
+- **hidden observer** — PDF p. 195, printed p. 194; Persian OCR confidence 52.6; head confidence 96.8; embedded `hidden observer`.
+- **hierarchism** — PDF p. 195, printed p. 194; Persian OCR confidence 70.6; head confidence 91.3; embedded `hlerarchlsm`.
+- **hierarchy of sciences** — PDF p. 195, printed p. 194; Persian OCR confidence 54.1; head confidence 89.4; embedded `hierarchy of sciences`.
+- **hieratic** — PDF p. 195, printed p. 194; Persian OCR confidence 77.2; head confidence 32.1; embedded `hieratic`.
+- **hlerodule** — PDF p. 195, printed p. 194; Persian OCR confidence 70.1; head confidence 0.0; embedded `hlerodule`.
+- **hlerogamy** — PDF p. 195, printed p. 194; Persian OCR confidence 84.0; head confidence 0.0; embedded `hlerogamy`.
+- **hierolatry** — PDF p. 195, printed p. 194; Persian OCR confidence 15.8; head confidence 75.9; embedded `hierolatry`.
+- **hierology** — PDF p. 195, printed p. 194; Persian OCR confidence 54.4; head confidence 70.2; embedded `hlerology`.
+- **hierophant** — PDF p. 195, printed p. 194; Persian OCR confidence 81.4; head confidence 5.4; embedded `hierophant`.
+- **hlerophany** — PDF p. 195, printed p. 194; Persian OCR confidence 68.4; head confidence 28.2; embedded `hlerophany`.
+- **hierophobla** — PDF p. 195, printed p. 194; Persian OCR confidence 48.2; head confidence 38.6; embedded `hierophobla`.
+- **higher knowledge** — PDF p. 196, printed p. 195; Persian OCR confidence 49.9; head confidence 96.6; embedded `higher knowledge`.
+- **higher order** — PDF p. 196, printed p. 195; Persian OCR confidence 41.0; head confidence 96.2; embedded `higher order`.
+- **higher science** — PDF p. 196, printed p. 195; Persian OCR confidence 0.0; head confidence 96.9; embedded `higher science`.
+- **higher sphere** — PDF p. 196, printed p. 195; Persian OCR confidence 49.2; head confidence 96.6; embedded `higher sphere`.
+- **highest good** — PDF p. 196, printed p. 195; Persian OCR confidence 38.6; head confidence 96.4; embedded `highest good`.
+- **highest sphere** — PDF p. 196, printed p. 195; Persian OCR confidence 0.0; head confidence 96.6; embedded `highest sphere`.
+- **high-flown** — PDF p. 196, printed p. 195; Persian OCR confidence 0.0; head confidence 91.9; embedded `high-flown`.
+- **high frequency** — PDF p. 196, printed p. 195; Persian OCR confidence 0.0; head confidence 96.4; embedded `high frequency`.
+- **high-grade** — PDF p. 196, printed p. 195; Persian OCR confidence 16.8; head confidence 97.0; embedded `high-grade`.
+- **highhanded** — PDF p. 196, printed p. 195; Persian OCR confidence 38.8; head confidence 9.6; embedded `highhanded`.
+- **highland** — PDF p. 196, printed p. 195; Persian OCR confidence 88.1; head confidence 38.7; embedded `highland`.
+- **High Renaissance** — PDF p. 196, printed p. 195; Persian OCR confidence 53.0; head confidence 96.6; embedded `High Renaissance`.
+- **high-yield** — PDF p. 196, printed p. 195; Persian OCR confidence 34.4; head confidence 76.2; embedded `high-yield`.
+- **hijab (Ar,Pers.)** — PDF p. 196, printed p. 195; Persian OCR confidence 37.0; head confidence 80.9; embedded `hijab (Ar,Pers.)`.
+- **Hindi** — PDF p. 196, printed p. 195; Persian OCR confidence 36.2; head confidence 86.5; embedded `Hindi`.
+- **Hindoo Hindu** — PDF p. 196, printed p. 195; Persian OCR confidence 0.0; head confidence 67.9; embedded `Hindoo Hindu`.
+- **~Hindooism Hinduism** — PDF p. 196, printed p. 195; Persian OCR confidence 0.0; head confidence 53.5; embedded `Hindooism Hinduism`.
+- **Hinduism** — PDF p. 196, printed p. 195; Persian OCR confidence 51.5; head confidence 81.7; embedded `Hinduism`.
+- **hippiedom** — PDF p. 196, printed p. 195; Persian OCR confidence 23.2; head confidence 64.9; embedded `hippiedom`.
+- **hippie** — PDF p. 196, printed p. 195; Persian OCR confidence 46.3; head confidence 82.6; embedded `hippie`.
+- **hippy hippie** — PDF p. 196, printed p. 195; Persian OCR confidence 0.0; head confidence 96.4; embedded `hippy hippie`.
+- **historic** — PDF p. 196, printed p. 195; Persian OCR confidence 52.9; head confidence 68.2; embedded `historic`.
+- **historic(-al) present** — PDF p. 196, printed p. 195; Persian OCR confidence 52.5; head confidence 68.7; embedded `historic(-al) present`.
+- **historical consciousness** — PDF p. 196, printed p. 195; Persian OCR confidence 78.7; head confidence 44.6; embedded `historical consciousness`.
+- **historicism** — PDF p. 197, printed p. 196; Persian OCR confidence 29.9; head confidence 92.7; embedded `historicism`.
+- **historiographic(-al)** — PDF p. 197, printed p. 196; Persian OCR confidence 49.7; head confidence 89.3; embedded `historlographlc(-al)`.
+- **historism** — PDF p. 197, printed p. 196; Persian OCR confidence 51.6; head confidence 92.9; embedded `historlsm`.
+- **histrionism** — PDF p. 197, printed p. 196; Persian OCR confidence 84.0; head confidence 91.0; embedded `histrlonlsm`.
+- **holiday pay** — PDF p. 197, printed p. 196; Persian OCR confidence 58.3; head confidence 96.9; embedded `holiday pay`.
+- **holism** — PDF p. 197, printed p. 196; Persian OCR confidence 49.1; head confidence 46.9; embedded `holism`.
+- **holist** — PDF p. 197, printed p. 196; Persian OCR confidence 42.2; head confidence 26.5; embedded `holist`.
+- **holistlc** — PDF p. 197, printed p. 196; Persian OCR confidence 73.5; head confidence 42.7; embedded `holistlc`.
+- **holistic ecology** — PDF p. 197, printed p. 196; Persian OCR confidence 35.3; head confidence 85.5; embedded `holistic ecology`.
+- **holocaust** — PDF p. 197, printed p. 196; Persian OCR confidence 46.0; head confidence 71.2; embedded `holocaust`.
+- **holophrase** — PDF p. 197, printed p. 196; Persian OCR confidence 89.6; head confidence 41.3; embedded `holophrase`.
+- **holos (Gr)** — PDF p. 197, printed p. 196; Persian OCR confidence 30.1; head confidence 52.2; embedded `holos (Gr.)`.
+- **holy** — PDF p. 197, printed p. 196; Persian OCR confidence 44.8; head confidence 58.7; embedded `holy`.
+- **Holy Alliance** — PDF p. 197, printed p. 196; Persian OCR confidence 40.6; head confidence 88.4; embedded `Holy Alliance`.
+- **Holy Book** — PDF p. 197, printed p. 196; Persian OCR confidence 52.4; head confidence 92.0; embedded `Holy Book`.
+- **Holy Ghost** — PDF p. 197, printed p. 196; Persian OCR confidence 0.0; head confidence 94.9; embedded `Holy Ghost`.
+- **Holy Grail** — PDF p. 197, printed p. 196; Persian OCR confidence 46.0; head confidence 88.2; embedded `Holy Grall`.
+- **Holy Intellect** — PDF p. 197, printed p. 196; Persian OCR confidence 34.7; head confidence 89.3; embedded `Holy Intellect`.
+- **Holy League** — PDF p. 197, printed p. 196; Persian OCR confidence 7.5; head confidence 95.9; embedded `Holy League`.
+- **Holy One** — PDF p. 197, printed p. 196; Persian OCR confidence 12.4; head confidence 89.6; embedded `Holy One`.
+- **Holy Spirit** — PDF p. 198, printed p. 197; Persian OCR confidence 14.4; head confidence 95.9; embedded `Holy Spirit`.
+- **Holy Synod** — PDF p. 198, printed p. 197; Persian OCR confidence 43.9; head confidence 95.1; embedded `Holy Synod`.
+- **homebound** — PDF p. 198, printed p. 197; Persian OCR confidence 0.0; head confidence 96.9; embedded `homebound`.
+- **homebred** — PDF p. 198, printed p. 197; Persian OCR confidence 0.0; head confidence 91.3; embedded `home bred`.
+- **homeless** — PDF p. 198, printed p. 197; Persian OCR confidence 0.0; head confidence 96.7; embedded `homeless`.
+- **homeopathic** — PDF p. 198, printed p. 197; Persian OCR confidence 17.5; head confidence 96.7; embedded `homeopathic`.
+- **homeopathist** — PDF p. 198, printed p. 197; Persian OCR confidence 42.5; head confidence 92.3; embedded `homeopathist`.
+- **homesick** — PDF p. 198, printed p. 197; Persian OCR confidence 49.6; head confidence 50.9; embedded `homesick`.
+- **homespun** — PDF p. 198, printed p. 197; Persian OCR confidence 92.3; head confidence 13.1; embedded `homespun`.
+- **homicidal** — PDF p. 198, printed p. 197; Persian OCR confidence 46.6; head confidence 96.8; embedded `homicidal`.
+- **homicide** — PDF p. 198, printed p. 197; Persian OCR confidence 46.7; head confidence 72.7; embedded `homicide`.
+- **homiletic(-al)** — PDF p. 198, printed p. 197; Persian OCR confidence 75.3; head confidence 90.5; embedded `homlletlc(-al)`.
+- **hominized** — PDF p. 198, printed p. 197; Persian OCR confidence 65.5; head confidence 47.1; embedded `homlnlzed`.
+- **hominoid** — PDF p. 198, printed p. 197; Persian OCR confidence 91.7; head confidence 55.1; embedded `homlnold`.
+- **homoerotism homoeroticism** — PDF p. 199, printed p. 198; Persian OCR confidence 0.0; head confidence 92.0; embedded `homoerotism homoeroticism`.
+- **homogamous** — PDF p. 199, printed p. 198; Persian OCR confidence 14.7; head confidence 92.1; embedded `homogamous`.
+- **homogenization** — PDF p. 199, printed p. 198; Persian OCR confidence 36.9; head confidence 96.2; embedded `homogenization`.
+- **homologous** — PDF p. 199, printed p. 198; Persian OCR confidence 51.8; head confidence 74.2; embedded `homologous`.
+- **homo mensura (L.)** — PDF p. 199, printed p. 198; Persian OCR confidence 48.5; head confidence 92.0; embedded `homo mensura (L.)`.
+- **homomorphic** — PDF p. 199, printed p. 198; Persian OCR confidence 23.4; head confidence 90.7; embedded `homomorphic`.
+- **homonymic** — PDF p. 199, printed p. 198; Persian OCR confidence 0.0; head confidence 94.0; embedded `homonymic = homonymous`.
+- **homophonic homophonous** — PDF p. 199, printed p. 198; Persian OCR confidence 0.0; head confidence 84.8; embedded `homophonic homophonous`.
+- **homo politicus (L.)** — PDF p. 199, printed p. 198; Persian OCR confidence 39.8; head confidence 91.4; embedded `homo politicus (L.)`.
+- **Homo rationalis (L.)** — PDF p. 199, printed p. 198; Persian OCR confidence 14.4; head confidence 90.6; embedded `Homo rationalis (L.)`.
+- **homorganic** — PDF p. 199, printed p. 198; Persian OCR confidence 61.6; head confidence 0.0; embedded `homorganic`.
+- **homosex** — PDF p. 199, printed p. 198; Persian OCR confidence 33.4; head confidence 73.3; embedded `homosex`.
+- **honorable mention** — PDF p. 199, printed p. 198; Persian OCR confidence 45.8; head confidence 93.0; embedded `honorable mention`.
+- **honor and shame** — PDF p. 199, printed p. 198; Persian OCR confidence 42.4; head confidence 93.2; embedded `honor and shame`.
+- **honoris causa (L.)** — PDF p. 199, printed p. 198; Persian OCR confidence 45.2; head confidence 87.3; embedded `honoris causa (L.)`.
+- **hoodlum** — PDF p. 200, printed p. 199; Persian OCR confidence 65.2; head confidence 37.4; embedded `hoodlum`.
+- **hoodiumism** — PDF p. 200, printed p. 199; Persian OCR confidence 87.9; head confidence 79.3; embedded `hoodlumlsm`.
+- **horizon** — PDF p. 200, printed p. 199; Persian OCR confidence 44.6; head confidence 52.4; embedded `horizon`.
+- **horizontal mobility** — PDF p. 200, printed p. 199; Persian OCR confidence 20.1; head confidence 82.3; embedded `horizontal mobility`.
+- **horticulture** — PDF p. 200, printed p. 199; Persian OCR confidence 37.5; head confidence 90.9; embedded `horticulture`.
+- **hostile** — PDF p. 200, printed p. 199; Persian OCR confidence 77.8; head confidence 37.9; embedded `hostile`.
+- **hostility** — PDF p. 200, printed p. 199; Persian OCR confidence 22.3; head confidence 31.9; embedded `hostility`.
+- **household administration** — PDF p. 200, printed p. 199; Persian OCR confidence 46.3; head confidence 74.6; embedded `household administration`.
+- **housekeeper** — PDF p. 200, printed p. 199; Persian OCR confidence 71.5; head confidence 36.4; embedded `housekeeper`.
+- **humaneness** — PDF p. 201, printed p. 200; Persian OCR confidence 70.0; head confidence 20.6; embedded `humaneness`.
+- **humanistic sciences** — PDF p. 201, printed p. 200; Persian OCR confidence 0.0; head confidence 93.7; embedded `humanistic sclences=human sciences`.
+- **humanitas (L.)** — PDF p. 201, printed p. 200; Persian OCR confidence 33.9; head confidence 64.3; embedded `humanitas (L.)`.
+- **humankind** — PDF p. 201, printed p. 200; Persian OCR confidence 50.9; head confidence 91.5; embedded `humankind`.
+- **humanness** — PDF p. 201, printed p. 200; Persian OCR confidence 20.8; head confidence 38.1; embedded `humanness`.
+- **humble** — PDF p. 201, printed p. 200; Persian OCR confidence 83.7; head confidence 23.4; embedded `humble`.
+- **hunter-gatherer** — PDF p. 202, printed p. 201; Persian OCR confidence 51.7; head confidence 96.7; embedded `hunter-gatherer`.
+- **hybrid** — PDF p. 202, printed p. 201; Persian OCR confidence 53.8; head confidence 41.4; embedded `hybrid`.
+- **hybridism hybridity** — PDF p. 202, printed p. 201; Persian OCR confidence 0.0; head confidence 94.6; embedded `hybridism hybridity`.
+- **hypaesthesia hypesthesia** — PDF p. 202, printed p. 201; Persian OCR confidence 0.0; head confidence 92.3; embedded `hypaesthesia hypesthesia`.
+- **hyperactive** — PDF p. 202, printed p. 201; Persian OCR confidence 37.3; head confidence 54.3; embedded `hyperactive`.
+- **hyperactivity** — PDF p. 202, printed p. 201; Persian OCR confidence 72.4; head confidence 26.4; embedded `hyperactivity`.
+- **hyperaesthesia hyperesthesia** — PDF p. 202, printed p. 201; Persian OCR confidence 0.0; head confidence 72.3; embedded `hyperaesthesia hyperesthesla`.
+- **hypercathexis** — PDF p. 202, printed p. 201; Persian OCR confidence 37.3; head confidence 38.7; embedded `hypercathexis`.
+- **hypercriticism** — PDF p. 202, printed p. 201; Persian OCR confidence 88.4; head confidence 23.9; embedded `hypercriticism`.
+- **hyperesthesia** — PDF p. 202, printed p. 201; Persian OCR confidence 83.6; head confidence 44.6; embedded `hyperesthesia`.
+- **hyperinflation** — PDF p. 202, printed p. 201; Persian OCR confidence 81.9; head confidence 37.3; embedded `hyperinflation`.
+- **hyperinflationary** — PDF p. 202, printed p. 201; Persian OCR confidence 48.9; head confidence 64.1; embedded `hyperinflationary`.
+- **hyperkinesis hyperkinesia** — PDF p. 202, printed p. 201; Persian OCR confidence 0.0; head confidence 50.7; embedded `hyperkinesis hyperklnesia`.
+- **hyperkinetic** — PDF p. 202, printed p. 201; Persian OCR confidence 54.5; head confidence 50.1; embedded `hyperkinetic`.
+- **hyperlogia** — PDF p. 202, printed p. 201; Persian OCR confidence 24.2; head confidence 64.7; embedded `hyper logia`.
+- **hypermnesic** — PDF p. 202, printed p. 201; Persian OCR confidence 44.2; head confidence 32.4; embedded `hypermnesic`.
+- **hypernym** — PDF p. 202, printed p. 201; Persian OCR confidence 0.0; head confidence 60.8; embedded `hypernym`.
+- **hypernymy** — PDF p. 202, printed p. 201; Persian OCR confidence 0.0; head confidence 61.8; embedded `hypernymy`.
+- **hyperorexia** — PDF p. 202, printed p. 201; Persian OCR confidence 0.0; head confidence 22.6; embedded `hyperorexia`.
+- **hyperphagia** — PDF p. 202, printed p. 201; Persian OCR confidence 74.2; head confidence 36.8; embedded `hyperphagia`.
+- **hyperphasia hyperphrasia** — PDF p. 202, printed p. 201; Persian OCR confidence 0.0; head confidence 92.0; embedded `hyperphasla hyperphrasla`.
+- **hypersensitivity** — PDF p. 203, printed p. 202; Persian OCR confidence 46.4; head confidence 96.5; embedded `hypersensitivity`.
+- **hypersomnia** — PDF p. 203, printed p. 202; Persian OCR confidence 35.0; head confidence 90.9; embedded `hypersomnia`.
+- **hyperspace** — PDF p. 203, printed p. 202; Persian OCR confidence 52.7; head confidence 96.3; embedded `hyperspace`.
+- **hyperthymia** — PDF p. 203, printed p. 202; Persian OCR confidence 42.6; head confidence 91.1; embedded `hyperthymia`.
+- **hypesthesia** — PDF p. 203, printed p. 202; Persian OCR confidence 37.2; head confidence 88.2; embedded `hypesthesla`.
+- **hypnogoglc** — PDF p. 203, printed p. 202; Persian OCR confidence 0.0; head confidence 91.7; embedded `hypnogoglc = hypnagogic`.
+- **hypnopaedia** — PDF p. 203, printed p. 202; Persian OCR confidence 0.0; head confidence 91.9; embedded `hypnopaedia = hypnopedla`.
+- **hypnopedia** — PDF p. 203, printed p. 202; Persian OCR confidence 7.6; head confidence 91.8; embedded `hypnopedia`.
+- **hypnotic** — PDF p. 203, printed p. 202; Persian OCR confidence 82.8; head confidence 24.2; embedded `hypnotic`.
+- **hypnotization** — PDF p. 203, printed p. 202; Persian OCR confidence 92.4; head confidence 18.9; embedded `hypnotization`.
+- **hypoactive** — PDF p. 203, printed p. 202; Persian OCR confidence 87.0; head confidence 31.3; embedded `hypoactive`.
+- **hypoergasia** — PDF p. 203, printed p. 202; Persian OCR confidence 23.6; head confidence 69.5; embedded `hypoergasla`.
+- **hypoesthesia** — PDF p. 203, printed p. 202; Persian OCR confidence 64.5; head confidence 0.0; embedded `hypoesthesia`.
+- **hypomanlac** — PDF p. 203, printed p. 202; Persian OCR confidence 82.4; head confidence 23.0; embedded `hypomanlac`.
+- **hypophrenla** — PDF p. 203, printed p. 202; Persian OCR confidence 77.8; head confidence 27.7; embedded `hypophrenla`.
+- **hyposensltivlty .r** — PDF p. 203, printed p. 202; Persian OCR confidence 63.4; head confidence 35.1; embedded `hyposensltivlty .r`.
+- **hypostatization** — PDF p. 204, printed p. 203; Persian OCR confidence 62.1; head confidence 17.0; embedded `hypostatization`.
+- **hypotactic** — PDF p. 204, printed p. 203; Persian OCR confidence 33.8; head confidence 91.4; embedded `hypotactic`.
+- **hypothecation** — PDF p. 204, printed p. 203; Persian OCR confidence 38.2; head confidence 91.1; embedded `hypothecatlon`.
+- **hypothesis** — PDF p. 204, printed p. 203; Persian OCR confidence 50.0; head confidence 96.8; embedded `hypothesis`.
+- **hypothetical dualism** — PDF p. 204, printed p. 203; Persian OCR confidence 51.9; head confidence 96.4; embedded `hypothetical dualism`.
+- **hypothetico-deductive method** — PDF p. 204, printed p. 203; Persian OCR confidence 50.5; head confidence 74.6; embedded `hypothetico-deductive method`.
+- **hypothymia** — PDF p. 204, printed p. 203; Persian OCR confidence 87.1; head confidence 38.4; embedded `hypothymia`.
+- **hypotrophy** — PDF p. 204, printed p. 203; Persian OCR confidence 67.7; head confidence 29.3; embedded `hypotrophy`.
+- **hysteria** — PDF p. 204, printed p. 203; Persian OCR confidence 69.5; head confidence 6.3; embedded `hysteria`.
+- **hysterlogenic** — PDF p. 204, printed p. 203; Persian OCR confidence 74.4; head confidence 18.3; embedded `hysterlogenic`.

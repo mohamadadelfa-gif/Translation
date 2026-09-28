@@ -1,0 +1,28 @@
+# Y Entries Requiring Visual Review
+
+- **Yahwe** — PDF p. 503; Persian OCR confidence 0; head match 0.494; head OCR confidence 96.5
+- **Yahweh [ose** — PDF p. 503; Persian OCR confidence 66.2; head match 0.8; head OCR confidence 58.6
+- **Yahwlsm** — PDF p. 503; Persian OCR confidence 28.1; head match 0.625; head OCR confidence 58.6
+- **Yahwlst** — PDF p. 503; Persian OCR confidence 53.9; head match 0.271; head OCR confidence 42.7
+- **Yahwistic** — PDF p. 503; Persian OCR confidence 54.8; head match 0.889; head OCR confidence 92.5
+- **Yankee** — PDF p. 503; Persian OCR confidence 65.3; head match 0.3; head OCR confidence 35.8
+- **Yankeeism** — PDF p. 503; Persian OCR confidence 63.7; head match 0.485; head OCR confidence 35.5
+- **yellow** — PDF p. 503; Persian OCR confidence 89.7; head match 0.29; head OCR confidence 42.9
+- **yellow journalism** — PDF p. 503; Persian OCR confidence 66.9; head match 0.744; head OCR confidence 59.3
+- **yeoman 40.:,).. .;,la.:, •t)j 9** — PDF p. 503; Persian OCR confidence 71.7; head match 0.389; head OCR confidence 27.6
+- **yeomanry** — PDF p. 503; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.4
+- **Yiddish** — PDF p. 503; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **Ylddishlsm** — PDF p. 503; Persian OCR confidence 35.3; head match 0.667; head OCR confidence 56.5
+- **yleld** — PDF p. 503; Persian OCR confidence 77.3; head match 0.243; head OCR confidence 35.7
+- **yleldlng** — PDF p. 503; Persian OCR confidence 57.5; head match 0.3; head OCR confidence 32.0
+- **yleldingness** — PDF p. 503; Persian OCR confidence 54.6; head match 0.759; head OCR confidence 43.5
+- **yob** — PDF p. 503; Persian OCR confidence 62.7; head match 0.233; head OCR confidence 45.9
+- **yobbish** — PDF p. 503; Persian OCR confidence 78.9; head match 0.49; head OCR confidence 39.4
+- **yobbishness** — PDF p. 503; Persian OCR confidence 81.2; head match 0.759; head OCR confidence 33.3
+- **yob culture** — PDF p. 503; Persian OCR confidence 88.5; head match 0.769; head OCR confidence 24.1
+- **yonl (Skt.)** — PDF p. 503; Persian OCR confidence 65.6; head match 0.35; head OCR confidence 76.9
+- **youth** — PDF p. 503; Persian OCR confidence 61.7; head match 0.5; head OCR confidence 8.8
+- **youth club** — PDF p. 503; Persian OCR confidence 92.0; head match 0.72; head OCR confidence 47.3
+- **youth culture blg> Sim** — PDF p. 503; Persian OCR confidence 88.9; head match 0.8; head OCR confidence 58.5
+- **youthful** — PDF p. 503; Persian OCR confidence 90.8; head match 0.377; head OCR confidence 58.5
+- **Yuman** — PDF p. 503; Persian OCR confidence 62.7; head match 0.769; head OCR confidence 50.1

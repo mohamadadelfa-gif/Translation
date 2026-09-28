@@ -1,0 +1,620 @@
+# A — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **abasement** — PDF p. 4, printed p. 3; Persian OCR confidence 72.4; head confidence 54.4; embedded `abasement`.
+- **abbe (Fr.)** — PDF p. 4, printed p. 3; Persian OCR confidence 56.3; head confidence 43.3; embedded `abbe (Fr.)`.
+- **abbey** — PDF p. 4, printed p. 3; Persian OCR confidence 51.0; head confidence 85.8; embedded `abbey`.
+- **abductor** — PDF p. 4, printed p. 3; Persian OCR confidence 17.6; head confidence 85.1; embedded `abductor`.
+- **abecedarian** — PDF p. 4, printed p. 3; Persian OCR confidence 59.0; head confidence 59.3; embedded `abecedarian`.
+- **aberrance** — PDF p. 4, printed p. 3; Persian OCR confidence 70.8; head confidence 48.6; embedded `aberrance`.
+- **abeyant** — PDF p. 4, printed p. 3; Persian OCR confidence 90.5; head confidence 57.6; embedded `abeyant`.
+- **abiogenesis** — PDF p. 4, printed p. 3; Persian OCR confidence 42.8; head confidence 41.0; embedded `abiogenesis`.
+- **ablaut** — PDF p. 5, printed p. 4; Persian OCR confidence 45.0; head confidence 92.3; embedded `ablaut`.
+- **ableist** — PDF p. 5, printed p. 4; Persian OCR confidence 0.1; head confidence 90.3; embedded `ableist`.
+- **ablism** — PDF p. 5, printed p. 4; Persian OCR confidence 0; head confidence 92.4; embedded `ablism = ablelsm`.
+- **abnormality** — PDF p. 5, printed p. 4; Persian OCR confidence 38.8; head confidence 92.8; embedded `abnormality`.
+- **abolitionism** — PDF p. 5, printed p. 4; Persian OCR confidence 34.5; head confidence 91.3; embedded `abolitionism`.
+- **abortionist** — PDF p. 5, printed p. 4; Persian OCR confidence 85.5; head confidence 44.7; embedded `abortionist`.
+- **aboutness** — PDF p. 5, printed p. 4; Persian OCR confidence 90.0; head confidence 18.3; embedded `aboutness`.
+- **abridgment** — PDF p. 5, printed p. 4; Persian OCR confidence 0; head confidence 81.4; embedded `abridgment = abridgement`.
+- **abrogation** — PDF p. 5, printed p. 4; Persian OCR confidence 0; head confidence 76.9; embedded `abrogation`.
+- **abrogative** — PDF p. 5, printed p. 4; Persian OCR confidence 0; head confidence 65.6; embedded `abrogatlve`.
+- **abrogator** — PDF p. 5, printed p. 4; Persian OCR confidence 0; head confidence 92.2; embedded `abrogator`.
+- **absence** — PDF p. 5, printed p. 4; Persian OCR confidence 0; head confidence 92.9; embedded `absence`.
+- **absent** — PDF p. 5, printed p. 4; Persian OCR confidence 0; head confidence 77.1; embedded `absent`.
+- **absentee** — PDF p. 5, printed p. 4; Persian OCR confidence 0; head confidence 83.2; embedded `absentee`.
+- **absentee landlord** — PDF p. 5, printed p. 4; Persian OCR confidence 81.3; head confidence 48.6; embedded `absentee landlord`.
+- **absentee ownership** — PDF p. 5, printed p. 4; Persian OCR confidence 52.4; head confidence 95.5; embedded `absentee ownership`.
+- **absolute Essence** — PDF p. 5, printed p. 4; Persian OCR confidence 45.9; head confidence 90.5; embedded `absolute Essence`.
+- **absoluteness** — PDF p. 6, printed p. 5; Persian OCR confidence 35.7; head confidence 92.6; embedded `absoluteness`.
+- **absolute universals** — PDF p. 6, printed p. 5; Persian OCR confidence 46.1; head confidence 93.3; embedded `absolute universals`.
+- **absolutization** — PDF p. 6, printed p. 5; Persian OCR confidence 74.4; head confidence 23.8; embedded `absolutization`.
+- **absolvent** — PDF p. 6, printed p. 5; Persian OCR confidence 54.1; head confidence 78.4; embedded `absolvent`.
+- **abstention** — PDF p. 6, printed p. 5; Persian OCR confidence 45.2; head confidence 88.9; embedded `abstention`.
+- **abstractionism** — PDF p. 6, printed p. 5; Persian OCR confidence 60.6; head confidence 28.1; embedded `abstractionism`.
+- **abstractive** — PDF p. 6, printed p. 5; Persian OCR confidence 61.7; head confidence 40.7; embedded `abstractive`.
+- **abstractum (L.)** — PDF p. 7, printed p. 6; Persian OCR confidence 52.7; head confidence 90.5; embedded `abstractum`.
+- **absurd** — PDF p. 7, printed p. 6; Persian OCR confidence 63.2; head confidence 42.8; embedded `absurd`.
+- **absurd theatre** — PDF p. 7, printed p. 6; Persian OCR confidence 42.8; head confidence 96.3; embedded `absurd theatre`.
+- **abysm** — PDF p. 7, printed p. 6; Persian OCR confidence 0; head confidence 93.8; embedded `abysm = abyss`.
+- **academia** — PDF p. 7, printed p. 6; Persian OCR confidence 0; head confidence 96.5; embedded `academia = academe`.
+- **academism academicism** — PDF p. 7, printed p. 6; Persian OCR confidence 0; head confidence 92.0; embedded `academism academicism`.
+- **acausal** — PDF p. 7, printed p. 6; Persian OCR confidence 50.3; head confidence 92.1; embedded `acausal`.
+- **acceptation** — PDF p. 7, printed p. 6; Persian OCR confidence 13.4; head confidence 47.0; embedded `acceptation`.
+- **accepter acceptor** — PDF p. 7, printed p. 6; Persian OCR confidence 0; head confidence 87.8; embedded `accepter acceptor`.
+- **accepting** — PDF p. 7, printed p. 6; Persian OCR confidence 43.2; head confidence 79.1; embedded `accepting`.
+- **acceptor** — PDF p. 7, printed p. 6; Persian OCR confidence 48.1; head confidence 95.1; embedded `acceptor`.
+- **accessibility** — PDF p. 7, printed p. 6; Persian OCR confidence 61.1; head confidence 33.9; embedded `accessibility`.
+- **accessorial** — PDF p. 7, printed p. 6; Persian OCR confidence 0; head confidence 73.7; embedded `accessorlal`.
+- **accessory** — PDF p. 7, printed p. 6; Persian OCR confidence 51.2; head confidence 80.5; embedded `accessory`.
+- **accidentalist** — PDF p. 8, printed p. 7; Persian OCR confidence 45.7; head confidence 92.7; embedded `accidentalist`.
+- **accident prone** — PDF p. 8, printed p. 7; Persian OCR confidence 47.4; head confidence 96.4; embedded `accident prone`.
+- **accidents** — PDF p. 8, printed p. 7; Persian OCR confidence 16.5; head confidence 96.0; embedded `accidents`.
+- **acclimation** — PDF p. 8, printed p. 7; Persian OCR confidence 53.8; head confidence 96.5; embedded `acclimation`.
+- **acclimatization** — PDF p. 8, printed p. 7; Persian OCR confidence 0; head confidence 96.3; embedded `acclimatization = acclimation`.
+- **accountability** — PDF p. 8, printed p. 7; Persian OCR confidence 78.7; head confidence 47.9; embedded `accountability`.
+- **accountableness accountability** — PDF p. 8, printed p. 7; Persian OCR confidence 0; head confidence 94.3; embedded `accountableness accountability`.
+- **acculturated** — PDF p. 8, printed p. 7; Persian OCR confidence 70.5; head confidence 0.0; embedded `acculturated`.
+- **accumulativeness** — PDF p. 8, printed p. 7; Persian OCR confidence 87.7; head confidence 10.1; embedded `accumulativeness`.
+- **acephalous** — PDF p. 8, printed p. 7; Persian OCR confidence 16.6; head confidence 70.1; embedded `acephalous`.
+- **achondroplasia** — PDF p. 8, printed p. 7; Persian OCR confidence 59.1; head confidence 41.9; embedded `achondroplasia`.
+- **acoustics** — PDF p. 9, printed p. 8; Persian OCR confidence 0; head confidence 96.2; embedded `acoustics`.
+- **acquisitive** — PDF p. 9, printed p. 8; Persian OCR confidence 38.6; head confidence 95.6; embedded `acquisitive`.
+- **acroama (Gr.)** — PDF p. 9, printed p. 8; Persian OCR confidence 54.5; head confidence 92.0; embedded `acroama (Gr.)`.
+- **acroamatic** — PDF p. 9, printed p. 8; Persian OCR confidence 37.8; head confidence 92.1; embedded `acroamatlc`.
+- **acroamatics** — PDF p. 9, printed p. 8; Persian OCR confidence 45.7; head confidence 90.9; embedded `acroamatics`.
+- **acrolith** — PDF p. 9, printed p. 8; Persian OCR confidence 52.9; head confidence 91.9; embedded `acrollth`.
+- **acronym** — PDF p. 9, printed p. 8; Persian OCR confidence 44.0; head confidence 95.9; embedded `acronym`.
+- **acronymic** — PDF p. 9, printed p. 8; Persian OCR confidence 46.8; head confidence 91.8; embedded `acronymlc`.
+- **acrophobia** — PDF p. 9, printed p. 8; Persian OCR confidence 39.9; head confidence 91.9; embedded `acrophobia`.
+- **acrophobic** — PDF p. 9, printed p. 8; Persian OCR confidence 50.9; head confidence 92.7; embedded `acrophoblc`.
+- **acropolis** — PDF p. 9, printed p. 8; Persian OCR confidence 25.4; head confidence 96.5; embedded `acropolis`.
+- **acting** — PDF p. 9, printed p. 8; Persian OCR confidence 79.8; head confidence 7.5; embedded `acting`.
+- **acting minister** — PDF p. 9, printed p. 8; Persian OCR confidence 48.6; head confidence 91.8; embedded `acting minister`.
+- **acting self** — PDF p. 9, printed p. 8; Persian OCR confidence 52.9; head confidence 89.1; embedded `acting self`.
+- **action art** — PDF p. 9, printed p. 8; Persian OCR confidence 41.4; head confidence 87.2; embedded `action art`.
+- **actionist** — PDF p. 9, printed p. 8; Persian OCR confidence 14.1; head confidence 87.4; embedded `actlonlst`.
+- **activating** — PDF p. 9, printed p. 8; Persian OCR confidence 46.8; head confidence 56.0; embedded `activating`.
+- **activeness** — PDF p. 9, printed p. 8; Persian OCR confidence 66.5; head confidence 35.6; embedded `activeness`.
+- **active observation** — PDF p. 9, printed p. 8; Persian OCR confidence 47.4; head confidence 92.0; embedded `active observation`.
+- **activity** — PDF p. 10, printed p. 9; Persian OCR confidence 29.7; head confidence 66.1; embedded `activity`.
+- **activity cage** — PDF p. 10, printed p. 9; Persian OCR confidence 25.7; head confidence 96.8; embedded `activity cage`.
+- **activity cycle** — PDF p. 10, printed p. 9; Persian OCR confidence 46.8; head confidence 96.3; embedded `activity cycle`.
+- **act psychology** — PDF p. 10, printed p. 9; Persian OCR confidence 42.8; head confidence 96.4; embedded `act psychology`.
+- **acuity** — PDF p. 10, printed p. 9; Persian OCR confidence 42.9; head confidence 95.8; embedded `acuity`.
+- **acute .r** — PDF p. 10, printed p. 9; Persian OCR confidence 63.2; head confidence 38.3; embedded `acute .r`.
+- **adaptability** — PDF p. 10, printed p. 9; Persian OCR confidence 0; head confidence 96.1; embedded `adaptability`.
+- **adaptable** — PDF p. 10, printed p. 9; Persian OCR confidence 0; head confidence 97.0; embedded `adaptable`.
+- **adaption** — PDF p. 10, printed p. 9; Persian OCR confidence 0; head confidence 96.5; embedded `adaption = adaptation`.
+- **adaptive .r** — PDF p. 10, printed p. 9; Persian OCR confidence 78.8; head confidence 39.9; embedded `adaptive .r`.
+- **addiction** — PDF p. 10, printed p. 9; Persian OCR confidence 67.4; head confidence 23.0; embedded `addiction`.
+- **address .r** — PDF p. 10, printed p. 9; Persian OCR confidence 59.3; head confidence 30.6; embedded `address .r`.
+- **addressor** — PDF p. 10, printed p. 9; Persian OCR confidence 0; head confidence 78.1; embedded `addressor = addresser`.
+- **adequate** — PDF p. 10, printed p. 9; Persian OCR confidence 18.7; head confidence 84.5; embedded `adequate`.
+- **adequateness adequacy** — PDF p. 10, printed p. 9; Persian OCR confidence 0; head confidence 94.7; embedded `adequateness adequacy`.
+- **adherence** — PDF p. 10, printed p. 9; Persian OCR confidence 75.8; head confidence 31.6; embedded `adherence`.
+- **ad hominem argument** — PDF p. 10, printed p. 9; Persian OCR confidence 43.4; head confidence 94.8; embedded `ad hominem argument`.
+- **adiaphorism** — PDF p. 10, printed p. 9; Persian OCR confidence 46.0; head confidence 92.1; embedded `adiaphorism`.
+- **adjacent** — PDF p. 11, printed p. 10; Persian OCR confidence 50.1; head confidence 96.8; embedded `adjacent`.
+- **adjudication .r** — PDF p. 11, printed p. 10; Persian OCR confidence 58.1; head confidence 22.4; embedded `adjudication .r`.
+- **adjunction** — PDF p. 11, printed p. 10; Persian OCR confidence 37.4; head confidence 95.9; embedded `adjunction`.
+- **administrative divisions** — PDF p. 11, printed p. 10; Persian OCR confidence 53.2; head confidence 94.5; embedded `administrative divisions`.
+- **admiralty** — PDF p. 11, printed p. 10; Persian OCR confidence 56.4; head confidence 46.9; embedded `admiralty`.
+- **admissible** — PDF p. 11, printed p. 10; Persian OCR confidence 46.5; head confidence 93.0; embedded `admissible`.
+- **admission fee** — PDF p. 11, printed p. 10; Persian OCR confidence 49.7; head confidence 96.1; embedded `admission fee`.
+- **admitted** — PDF p. 11, printed p. 10; Persian OCR confidence 0.0; head confidence 85.8; embedded `admitted`.
+- **admixture** — PDF p. 11, printed p. 10; Persian OCR confidence 53.3; head confidence 96.6; embedded `admixture`.
+- **admonition** — PDF p. 11, printed p. 10; Persian OCR confidence 0; head confidence 88.9; embedded `admonition`.
+- **admonitory** — PDF p. 11, printed p. 10; Persian OCR confidence 71.6; head confidence 47.4; embedded `admonitory`.
+- **adnominal .r** — PDF p. 11, printed p. 10; Persian OCR confidence 73.0; head confidence 25.3; embedded `adnominal .r`.
+- **adolescence** — PDF p. 11, printed p. 10; Persian OCR confidence 0; head confidence 82.2; embedded `adolescence`.
+- **adolescent** — PDF p. 11, printed p. 10; Persian OCR confidence 0; head confidence 72.1; embedded `adolescent`.
+- **adoptee** — PDF p. 11, printed p. 10; Persian OCR confidence 28.8; head confidence 71.3; embedded `adoptee`.
+- **adoption** — PDF p. 11, printed p. 10; Persian OCR confidence 91.7; head confidence 25.4; embedded `adoption`.
+- **adoptionism** — PDF p. 11, printed p. 10; Persian OCR confidence 76.0; head confidence 27.8; embedded `adoptionism`.
+- **adoration** — PDF p. 11, printed p. 10; Persian OCR confidence 0.0; head confidence 92.1; embedded `adoration`.
+- **adult** — PDF p. 11, printed p. 10; Persian OCR confidence 42.0; head confidence 72.7; embedded `adult`.
+- **adulterer** — PDF p. 11, printed p. 10; Persian OCR confidence 41.8; head confidence 62.8; embedded `adulterer`.
+- **adulteress** — PDF p. 11, printed p. 10; Persian OCR confidence 86.1; head confidence 1.8; embedded `adulteress`.
+- **adult mortality** — PDF p. 12, printed p. 11; Persian OCR confidence 24.7; head confidence 96.3; embedded `adult mortality`.
+- **advanced** — PDF p. 12, printed p. 11; Persian OCR confidence 2.1; head confidence 96.6; embedded `advanced`.
+- **advanced course** — PDF p. 12, printed p. 11; Persian OCR confidence 0; head confidence 96.8; embedded `advanced course`.
+- **advantageous** — PDF p. 12, printed p. 11; Persian OCR confidence 53.0; head confidence 91.3; embedded `advantageous`.
+- **adventist** — PDF p. 12, printed p. 11; Persian OCR confidence 54.6; head confidence 92.9; embedded `adventist`.
+- **adventurousness** — PDF p. 12, printed p. 11; Persian OCR confidence 64.4; head confidence 25.6; embedded `adventurousness`.
+- **adverbial clause** — PDF p. 12, printed p. 11; Persian OCR confidence 0; head confidence 96.6; embedded `adverbial clause = adverb clause`.
+- **adverbial phrase** — PDF p. 12, printed p. 11; Persian OCR confidence 53.0; head confidence 96.4; embedded `adverbial phrase`.
+- **adversative** — PDF p. 12, printed p. 11; Persian OCR confidence 61.8; head confidence 52.3; embedded `adversative`.
+- **advisor** — PDF p. 12, printed p. 11; Persian OCR confidence 0; head confidence 92.7; embedded `advisor = adviser`.
+- **advisory** — PDF p. 12, printed p. 11; Persian OCR confidence 86.0; head confidence 29.0; embedded `advisory`.
+- **Aeolic** — PDF p. 12, printed p. 11; Persian OCR confidence 77.9; head confidence 42.5; embedded `Aeolic`.
+- **aeon** — PDF p. 12, printed p. 11; Persian OCR confidence 83.9; head confidence 49.8; embedded `aeon`.
+- **aesthesiometer** — PDF p. 12, printed p. 11; Persian OCR confidence 53.3; head confidence 84.6; embedded `aesthesiometer`.
+- **aesthetic** — PDF p. 13, printed p. 12; Persian OCR confidence 76.2; head confidence 25.7; embedded `aesthetic`.
+- **aesthetic detachment** — PDF p. 13, printed p. 12; Persian OCR confidence 51.6; head confidence 96.6; embedded `aesthetic detachment`.
+- **aesthetic distance** — PDF p. 13, printed p. 12; Persian OCR confidence 29.8; head confidence 96.9; embedded `aesthetic distance`.
+- **aestheticization** — PDF p. 13, printed p. 12; Persian OCR confidence 52.6; head confidence 92.3; embedded `aestheticlzation`.
+- **aesthetic level** — PDF p. 13, printed p. 12; Persian OCR confidence 28.4; head confidence 96.3; embedded `aesthetic level`.
+- **aestlval** — PDF p. 13, printed p. 12; Persian OCR confidence 0; head confidence 92.5; embedded `aestlval = estival`.
+- **aestivation** — PDF p. 13, printed p. 12; Persian OCR confidence 0; head confidence 91.1; embedded `aestivation = estlvatlon`.
+- **aethereal** — PDF p. 13, printed p. 12; Persian OCR confidence 46.8; head confidence 89.8; embedded `aethereal`.
+- **aetiology etiology** — PDF p. 13, printed p. 12; Persian OCR confidence 0; head confidence 96.7; embedded `aetiology etiology`.
+- **affectional** — PDF p. 13, printed p. 12; Persian OCR confidence 77.6; head confidence 53.1; embedded `affectional`.
+- **affectioniess** — PDF p. 13, printed p. 12; Persian OCR confidence 85.5; head confidence 56.6; embedded `affection less`.
+- **affective fallacy** — PDF p. 13, printed p. 12; Persian OCR confidence 49.8; head confidence 80.4; embedded `affective fallacy`.
+- **affectivlty** — PDF p. 13, printed p. 12; Persian OCR confidence 51.3; head confidence 42.9; embedded `affectivlty`.
+- **affiliation** — PDF p. 13, printed p. 12; Persian OCR confidence 76.4; head confidence 53.1; embedded `affiliation`.
+- **affines** — PDF p. 13, printed p. 12; Persian OCR confidence 39.1; head confidence 72.7; embedded `afflnes`.
+- **affirmance** — PDF p. 14, printed p. 13; Persian OCR confidence 50.1; head confidence 91.2; embedded `affirmance`.
+- **affirmative** — PDF p. 14, printed p. 13; Persian OCR confidence 71.5; head confidence 38.0; embedded `affirmative`.
+- **affixation** — PDF p. 14, printed p. 13; Persian OCR confidence 71.7; head confidence 55.8; embedded `affixation`.
+- **affixing** — PDF p. 14, printed p. 13; Persian OCR confidence 54.2; head confidence 96.3; embedded `affixing`.
+- **Aframerican Afro-American** — PDF p. 14, printed p. 13; Persian OCR confidence 0; head confidence 94.2; embedded `Aframerican Afro-American`.
+- **African American** — PDF p. 14, printed p. 13; Persian OCR confidence 0; head confidence 96.3; embedded `African American`.
+- **Afro-Asiatic** — PDF p. 14, printed p. 13; Persian OCR confidence 19.9; head confidence 0.0; embedded `Afro-Asiatic`.
+- **Afrocentric** — PDF p. 14, printed p. 13; Persian OCR confidence 31.9; head confidence 69.2; embedded `Afrocentric`.
+- **Afrocentricism** — PDF p. 14, printed p. 13; Persian OCR confidence 90.3; head confidence 42.2; embedded `Afrocentricism`.
+- **Afrotropical** — PDF p. 14, printed p. 13; Persian OCR confidence 42.5; head confidence 20.5; embedded `Afrotropical`.
+- **afterimage** — PDF p. 14, printed p. 13; Persian OCR confidence 36.1; head confidence 86.7; embedded `afterimage`.
+- **aftermarket** — PDF p. 14, printed p. 13; Persian OCR confidence 76.1; head confidence 27.4; embedded `aftermarket`.
+- **afterworld** — PDF p. 14, printed p. 13; Persian OCR confidence 90.9; head confidence 19.3; embedded `afterworld`.
+- **agathlstic** — PDF p. 14, printed p. 13; Persian OCR confidence 80.9; head confidence 40.6; embedded `agathlstic`.
+- **agathobiotik** — PDF p. 14, printed p. 13; Persian OCR confidence 82.4; head confidence 54.3; embedded `agathobiotlk`.
+- **age distribution** — PDF p. 14, printed p. 13; Persian OCR confidence 50.0; head confidence 96.7; embedded `age distribution`.
+- **age-grade** — PDF p. 14, printed p. 13; Persian OCR confidence 91.7; head confidence 15.2; embedded `age-grade`.
+- **Age of Faith** — PDF p. 15, printed p. 14; Persian OCR confidence 52.5; head confidence 96.5; embedded `Age of Faith`.
+- **agglomerate** — PDF p. 15, printed p. 14; Persian OCR confidence 46.1; head confidence 96.8; embedded `agglomerate`.
+- **aggression** — PDF p. 15, printed p. 14; Persian OCR confidence 74.5; head confidence 33.3; embedded `aggression`.
+- **aggressiveness** — PDF p. 15, printed p. 14; Persian OCR confidence 70.3; head confidence 37.3; embedded `aggressiveness`.
+- **aggressor** — PDF p. 15, printed p. 14; Persian OCR confidence 92.1; head confidence 52.5; embedded `aggressor`.
+- **aging** — PDF p. 15, printed p. 14; Persian OCR confidence 0; head confidence 94.7; embedded `aging = ageing`.
+- **agism ageism** — PDF p. 15, printed p. 14; Persian OCR confidence 0; head confidence 90.1; embedded `agism ageism`.
+- **agist** — PDF p. 15, printed p. 14; Persian OCR confidence 0; head confidence 56.4; embedded `agist = ageist`.
+- **agnomen** — PDF p. 15, printed p. 14; Persian OCR confidence 45.0; head confidence 45.9; embedded `agnomen`.
+- **agonism** — PDF p. 15, printed p. 14; Persian OCR confidence 88.3; head confidence 53.7; embedded `agonism`.
+- **agonist** — PDF p. 15, printed p. 14; Persian OCR confidence 0; head confidence 88.9; embedded `agonist = protagonist`.
+- **agonistic(-al)** — PDF p. 15, printed p. 14; Persian OCR confidence 74.8; head confidence 59.2; embedded `agonistic(-al)`.
+- **agonistics** — PDF p. 15, printed p. 14; Persian OCR confidence 87.2; head confidence 53.5; embedded `agonistics`.
+- **agony** — PDF p. 16, printed p. 15; Persian OCR confidence 49.2; head confidence 96.9; embedded `agony`.
+- **agoraphobe** — PDF p. 16, printed p. 15; Persian OCR confidence 23.1; head confidence 93.1; embedded `agoraphobe`.
+- **agoraphobia** — PDF p. 16, printed p. 15; Persian OCR confidence 29.2; head confidence 96.3; embedded `agoraphobia`.
+- **agriculturist** — PDF p. 16, printed p. 15; Persian OCR confidence 0; head confidence 92.5; embedded `agriculturist = agriculturalist`.
+- **agroecology** — PDF p. 16, printed p. 15; Persian OCR confidence 0; head confidence 91.4; embedded `agroecology = agrioecology`.
+- **agronomics agronomy** — PDF p. 16, printed p. 15; Persian OCR confidence 0; head confidence 94.6; embedded `agronomics agronomy`.
+- **ahistoricity** — PDF p. 16, printed p. 15; Persian OCR confidence 0; head confidence 81.3; embedded `ahistoricity = ahistoricism`.
+- **Ahriman** — PDF p. 16, printed p. 15; Persian OCR confidence 14.2; head confidence 10.1; embedded `Ahriman`.
+- **akrasia acrasia** — PDF p. 16, printed p. 15; Persian OCR confidence 49.7; head confidence 74.1; embedded `akrasia acrasia`.
+- **alarm** — PDF p. 16, printed p. 15; Persian OCR confidence 32.7; head confidence 80.0; embedded `alarm`.
+- **alarmism** — PDF p. 16, printed p. 15; Persian OCR confidence 90.5; head confidence 58.0; embedded `alarmism`.
+- **alarmist** — PDF p. 16, printed p. 15; Persian OCR confidence 30.1; head confidence 96.5; embedded `alarmist`.
+- **Albertist(s)** — PDF p. 16, printed p. 15; Persian OCR confidence 76.1; head confidence 51.8; embedded `Albertist(s)`.
+- **Albigensian** — PDF p. 16, printed p. 15; Persian OCR confidence 86.8; head confidence 55.2; embedded `Albigensian`.
+- **Albigensianism** — PDF p. 16, printed p. 15; Persian OCR confidence 85.4; head confidence 56.8; embedded `Albigensian ism`.
+- **Alcaic** — PDF p. 16, printed p. 15; Persian OCR confidence 81.1; head confidence 47.9; embedded `Alcaic`.
+- **alert** — PDF p. 16, printed p. 15; Persian OCR confidence 78.1; head confidence 59.2; embedded `alert`.
+- **Algonklan** — PDF p. 17, printed p. 16; Persian OCR confidence 0; head confidence 94.4; embedded `Algonklan = Algonqulan`.
+- **alienism alienation** — PDF p. 17, printed p. 16; Persian OCR confidence 0; head confidence 94.3; embedded `allenlsm = alienation`.
+- **aliment** — PDF p. 17, printed p. 16; Persian OCR confidence 0; head confidence 90.2; embedded `aliment`.
+- **alimental alimentary** — PDF p. 17, printed p. 16; Persian OCR confidence 0; head confidence 94.1; embedded `allmental = alimentary`.
+- **alimony** — PDF p. 17, printed p. 16; Persian OCR confidence 52.9; head confidence 74.2; embedded `alimony`.
+- **Allah** — PDF p. 17, printed p. 16; Persian OCR confidence 63.2; head confidence 20.2; embedded `Allah`.
+- **allegorical novel** — PDF p. 17, printed p. 16; Persian OCR confidence 42.7; head confidence 83.9; embedded `allegorlcal novel`.
+- **allegory** — PDF p. 17, printed p. 16; Persian OCR confidence 82.0; head confidence 53.7; embedded `allegory`.
+- **Alllles** — PDF p. 17, printed p. 16; Persian OCR confidence 60.8; head confidence 65.4; embedded `Allies`.
+- **alliteration** — PDF p. 17, printed p. 16; Persian OCR confidence 86.1; head confidence 59.7; embedded `alliteration`.
+- **alllteratlveness** — PDF p. 17, printed p. 16; Persian OCR confidence 90.3; head confidence 24.4; embedded `alllteratlveness`.
+- **all-knowing** — PDF p. 17, printed p. 16; Persian OCR confidence 68.4; head confidence 40.7; embedded `all-knowing`.
+- **allness** — PDF p. 17, printed p. 16; Persian OCR confidence 73.6; head confidence 34.6; embedded `allness`.
+- **allocation** — PDF p. 17, printed p. 16; Persian OCR confidence 40.7; head confidence 70.5; embedded `allocation`.
+- **allod** — PDF p. 17, printed p. 16; Persian OCR confidence 83.9; head confidence 3.4; embedded `allod`.
+- **alloeroticlsm** — PDF p. 17, printed p. 16; Persian OCR confidence 74.9; head confidence 20.4; embedded `alloeroticlsm`.
+- **alloerotlsm** — PDF p. 17, printed p. 16; Persian OCR confidence 0; head confidence 91.9; embedded `alloerotlsm = alloerotlclsm`.
+- **allomorphism** — PDF p. 18, printed p. 17; Persian OCR confidence 48.8; head confidence 92.0; embedded `allomorphism`.
+- **ailonym** — PDF p. 18, printed p. 17; Persian OCR confidence 54.5; head confidence 80.8; embedded `allonym`.
+- **all-purpose** — PDF p. 18, printed p. 17; Persian OCR confidence 86.4; head confidence 21.5; embedded `all-purpose`.
+- **alms** — PDF p. 18, printed p. 17; Persian OCR confidence 38.5; head confidence 92.7; embedded `alms`.
+- **almsman** — PDF p. 18, printed p. 17; Persian OCR confidence 17.8; head confidence 85.5; embedded `almsman`.
+- **alogical** — PDF p. 18, printed p. 17; Persian OCR confidence 51.0; head confidence 93.1; embedded `alogical`.
+- **alogicalness** — PDF p. 18, printed p. 17; Persian OCR confidence 53.7; head confidence 90.5; embedded `alogicalness`.
+- **alphabet** — PDF p. 18, printed p. 17; Persian OCR confidence 22.6; head confidence 96.7; embedded `alphabet`.
+- **alphabetics** — PDF p. 18, printed p. 17; Persian OCR confidence 35.8; head confidence 86.7; embedded `alphabetics`.
+- **alphabetism** — PDF p. 18, printed p. 17; Persian OCR confidence 88.1; head confidence 24.6; embedded `alphabetism`.
+- **alphabetist** — PDF p. 18, printed p. 17; Persian OCR confidence 68.9; head confidence 21.7; embedded `alphabetist`.
+- **alphabetology** — PDF p. 18, printed p. 17; Persian OCR confidence 90.6; head confidence 44.5; embedded `alphabetology`.
+- **alphameric alphanumeric** — PDF p. 18, printed p. 17; Persian OCR confidence 0; head confidence 83.5; embedded `alphameric alphanumeric`.
+- **Altaic** — PDF p. 18, printed p. 17; Persian OCR confidence 86.8; head confidence 38.7; embedded `Altaic`.
+- **alterable** — PDF p. 18, printed p. 17; Persian OCR confidence 84.2; head confidence 46.1; embedded `alterable`.
+- **a Iterative** — PDF p. 18, printed p. 17; Persian OCR confidence 53.2; head confidence 43.0; embedded `a Iterative`.
+- **alternation** — PDF p. 18, printed p. 17; Persian OCR confidence 58.3; head confidence 48.0; embedded `alternation`.
+- **alumni** — PDF p. 18, printed p. 17; Persian OCR confidence 75.4; head confidence 36.5; embedded `alumni`.
+- **alveolar** — PDF p. 19, printed p. 18; Persian OCR confidence 54.0; head confidence 96.0; embedded `alveolar`.
+- **amateurish** — PDF p. 19, printed p. 18; Persian OCR confidence 53.4; head confidence 31.9; embedded `amateurish`.
+- **ambassador-at-large** — PDF p. 19, printed p. 18; Persian OCR confidence 41.0; head confidence 92.1; embedded `ambassador-at-large`.
+- **ambassador extraordinary** — PDF p. 19, printed p. 18; Persian OCR confidence 0; head confidence 96.5; embedded `ambassador extraordinary`.
+- **ambidexterality** — PDF p. 19, printed p. 18; Persian OCR confidence 48.9; head confidence 92.4; embedded `ambidexterality`.
+- **ambidexterity ambidexterality** — PDF p. 19, printed p. 18; Persian OCR confidence 0; head confidence 92.3; embedded `ambidexterity ambidexterality`.
+- **ambivalence** — PDF p. 19, printed p. 18; Persian OCR confidence 74.2; head confidence 41.0; embedded `ambivalence`.
+- **ambivert** — PDF p. 19, printed p. 18; Persian OCR confidence 76.5; head confidence 1.1; embedded `ambivert`.
+- **ambrosia** — PDF p. 19, printed p. 18; Persian OCR confidence 74.4; head confidence 53.6; embedded `ambrosia`.
+- **amelioration** — PDF p. 19, printed p. 18; Persian OCR confidence 83.7; head confidence 3.0; embedded `amelioration`.
+- **amentia** — PDF p. 19, printed p. 18; Persian OCR confidence 87.9; head confidence 39.1; embedded `amentia`.
+- **Amerasian** — PDF p. 19, printed p. 18; Persian OCR confidence 82.9; head confidence 15.3; embedded `Amerasian`.
+- **American Indian** — PDF p. 19, printed p. 18; Persian OCR confidence 37.4; head confidence 83.3; embedded `American Indian`.
+- **Americanist** — PDF p. 19, printed p. 18; Persian OCR confidence 76.1; head confidence 53.6; embedded `Americanist`.
+- **Americanization** — PDF p. 19, printed p. 18; Persian OCR confidence 83.9; head confidence 58.5; embedded `Americanization`.
+- **Amerindian** — PDF p. 20, printed p. 19; Persian OCR confidence 33.7; head confidence 96.6; embedded `Amerindian`.
+- **amok** — PDF p. 20, printed p. 19; Persian OCR confidence 0; head confidence 94.4; embedded `amok= amuck`.
+- **amortizement** — PDF p. 20, printed p. 19; Persian OCR confidence 0; head confidence 94.6; embedded `amortizement = amortization`.
+- **Anabaptism** — PDF p. 20, printed p. 19; Persian OCR confidence 54.2; head confidence 88.5; embedded `Anabaptism`.
+- **anachronous** — PDF p. 20, printed p. 19; Persian OCR confidence 0; head confidence 69.9; embedded `anachronous = anachronistic`.
+- **anaclitic** — PDF p. 20, printed p. 19; Persian OCR confidence 79.2; head confidence 13.6; embedded `anaclitic`.
+- **anadiplosis** — PDF p. 20, printed p. 19; Persian OCR confidence 53.4; head confidence 56.9; embedded `anadiplosis`.
+- **anaesthesia** — PDF p. 20, printed p. 19; Persian OCR confidence 0; head confidence 95.2; embedded `anaesthesia = anesthesia`.
+- **anagoge** — PDF p. 20, printed p. 19; Persian OCR confidence 72.3; head confidence 50.6; embedded `anagoge`.
+- **analecta analects** — PDF p. 21, printed p. 20; Persian OCR confidence 0; head confidence 91.9; embedded `analecta analects`.
+- **analog** — PDF p. 21, printed p. 20; Persian OCR confidence 0; head confidence 96.5; embedded `analog = analogous`.
+- **analytic(-al)** — PDF p. 21, printed p. 20; Persian OCR confidence 59.8; head confidence 0.0; embedded `analytic(-al)`.
+- **analytical empiricism** — PDF p. 21, printed p. 20; Persian OCR confidence 52.8; head confidence 95.4; embedded `analytical empiricism`.
+- **anaphoric** — PDF p. 21, printed p. 20; Persian OCR confidence 44.7; head confidence 43.5; embedded `anaphoric`.
+- **anarch** — PDF p. 21, printed p. 20; Persian OCR confidence 79.2; head confidence 31.4; embedded `anarch`.
+- **anarchic(-al) .r** — PDF p. 21, printed p. 20; Persian OCR confidence 60.4; head confidence 18.7; embedded `anarchic(-al) .r`.
+- **anarchism** — PDF p. 21, printed p. 20; Persian OCR confidence 0; head confidence 80.5; embedded `anarchism`.
+- **anarchy .r** — PDF p. 21, printed p. 20; Persian OCR confidence 63.1; head confidence 46.4; embedded `anarchy .r`.
+- **anatomic(-al)** — PDF p. 21, printed p. 20; Persian OCR confidence 89.2; head confidence 38.8; embedded `anatomic(-al)`.
+- **anchoret anchorite** — PDF p. 22, printed p. 21; Persian OCR confidence 0; head confidence 92.6; embedded `anchoret anchorite`.
+- **ancien régime (FF.) jo** — PDF p. 22, printed p. 21; Persian OCR confidence 81.1; head confidence 50.2; embedded `ancien regime (Fr.) ;.)`.
+- **ancillary** — PDF p. 22, printed p. 21; Persian OCR confidence 30.3; head confidence 96.4; embedded `ancillary`.
+- **androcentrism** — PDF p. 22, printed p. 21; Persian OCR confidence 18.5; head confidence 92.1; embedded `androcentrism`.
+- **androcracy** — PDF p. 22, printed p. 21; Persian OCR confidence 45.7; head confidence 92.3; embedded `androcracy`.
+- **androgyne** — PDF p. 22, printed p. 21; Persian OCR confidence 0; head confidence 94.6; embedded `androgyne = androgynous`.
+- **androgyneity androgyny** — PDF p. 22, printed p. 21; Persian OCR confidence 0; head confidence 91.1; embedded `androgyneity androgyny`.
+- **androgynous** — PDF p. 22, printed p. 21; Persian OCR confidence 28.1; head confidence 95.9; embedded `androgynous`.
+- **androgyny** — PDF p. 22, printed p. 21; Persian OCR confidence 0; head confidence 92.8; embedded `androgyny`.
+- **andromania** — PDF p. 22, printed p. 21; Persian OCR confidence 53.0; head confidence 92.2; embedded `andromania`.
+- **andromorphism** — PDF p. 22, printed p. 21; Persian OCR confidence 53.3; head confidence 74.5; embedded `andromorphism ~)`.
+- **androphobia** — PDF p. 22, printed p. 21; Persian OCR confidence 26.4; head confidence 90.6; embedded `androphobia`.
+- **anecdotic(-al)** — PDF p. 22, printed p. 21; Persian OCR confidence 55.2; head confidence 56.6; embedded `anecdotic(-al)`.
+- **anecdotism** — PDF p. 22, printed p. 21; Persian OCR confidence 79.7; head confidence 18.2; embedded `anecdotism`.
+- **angel** — PDF p. 22, printed p. 21; Persian OCR confidence 44.8; head confidence 62.9; embedded `angel`.
+- **angelic(-al)** — PDF p. 22, printed p. 21; Persian OCR confidence 90.3; head confidence 56.0; embedded `angelic{-al)`.
+- **Anglicism** — PDF p. 22, printed p. 21; Persian OCR confidence 80.9; head confidence 49.5; embedded `Anglicism`.
+- **Anglicist** — PDF p. 22, printed p. 21; Persian OCR confidence 82.6; head confidence 35.6; embedded `Anglicist`.
+- **Anglo-American** — PDF p. 22, printed p. 21; Persian OCR confidence 40.9; head confidence 73.9; embedded `Anglo-American`.
+- **Anglo-Indian** — PDF p. 22, printed p. 21; Persian OCR confidence 83.1; head confidence 50.6; embedded `Anglo-Indian`.
+- **Anglomania** — PDF p. 22, printed p. 21; Persian OCR confidence 56.7; head confidence 23.8; embedded `Anglomania`.
+- **Anglophil** — PDF p. 22, printed p. 21; Persian OCR confidence 0; head confidence 89.8; embedded `Anglophil = anglophile`.
+- **Anglophile** — PDF p. 22, printed p. 21; Persian OCR confidence 44.4; head confidence 92.7; embedded `Anglophile`.
+- **Anglophilia** — PDF p. 22, printed p. 21; Persian OCR confidence 32.8; head confidence 74.0; embedded `Anglophilia`.
+- **Anglophonic** — PDF p. 22, printed p. 21; Persian OCR confidence 43.0; head confidence 88.2; embedded `Anglophonic`.
+- **animae mundi anima mundi** — PDF p. 23, printed p. 22; Persian OCR confidence 0; head confidence 95.5; embedded `animae mundi anima mundi`.
+- **animal dance** — PDF p. 23, printed p. 22; Persian OCR confidence 49.8; head confidence 96.1; embedded `animal dance`.
+- **animal hypnosis cataplexy** — PDF p. 23, printed p. 22; Persian OCR confidence 0; head confidence 95.0; embedded `anlmal hypnosis = cataplexy`.
+- **animalia (L.)** — PDF p. 23, printed p. 22; Persian OCR confidence 63.2; head confidence 45.1; embedded `animalia (L.)`.
+- **animalist ,il> IKI** — PDF p. 23, printed p. 22; Persian OCR confidence 58.8; head confidence 51.3; embedded `animalist .r`.
+- **animalitarianism** — PDF p. 23, printed p. 22; Persian OCR confidence 35.9; head confidence 91.0; embedded `animalitarianism`.
+- **animal magnetism** — PDF p. 23, printed p. 22; Persian OCR confidence 50.5; head confidence 95.6; embedded `animal magnetism`.
+- **animal sociology** — PDF p. 23, printed p. 22; Persian OCR confidence 51.5; head confidence 96.3; embedded `animal sociology`.
+- **animal soul** — PDF p. 23, printed p. 22; Persian OCR confidence 19.8; head confidence 96.1; embedded `animal soul`.
+- **animator** — PDF p. 23, printed p. 22; Persian OCR confidence 45.4; head confidence 96.8; embedded `animator`.
+- **animosity** — PDF p. 23, printed p. 22; Persian OCR confidence 12.2; head confidence 42.2; embedded `animosity`.
+- **annalist** — PDF p. 23, printed p. 22; Persian OCR confidence 87.5; head confidence 49.7; embedded `annalist`.
+- **annalistic** — PDF p. 23, printed p. 22; Persian OCR confidence 89.1; head confidence 59.9; embedded `annalistic`.
+- **annexationism** — PDF p. 23, printed p. 22; Persian OCR confidence 87.9; head confidence 13.9; embedded `annexationism`.
+- **annihilability** — PDF p. 23, printed p. 22; Persian OCR confidence 0; head confidence 89.9; embedded `annihilability`.
+- **annihilable** — PDF p. 23, printed p. 22; Persian OCR confidence 0; head confidence 91.1; embedded `annihllable`.
+- **annihilation** — PDF p. 23, printed p. 22; Persian OCR confidence 0; head confidence 46.5; embedded `annihilation`.
+- **annihilation in God** — PDF p. 23, printed p. 22; Persian OCR confidence 0; head confidence 93.2; embedded `annihilation in God`.
+- **annihilation ism** — PDF p. 23, printed p. 22; Persian OCR confidence 0; head confidence 0.0; embedded `annihilation ism`.
+- **anno mundi (L.)** — PDF p. 24, printed p. 23; Persian OCR confidence 48.9; head confidence 92.2; embedded `anno mundi (L.)`.
+- **annus horribilis (L.)** — PDF p. 24, printed p. 23; Persian OCR confidence 52.6; head confidence 92.2; embedded `annus horribilis (L.)`.
+- **anomalous anomalistic** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 78.1; embedded `anomalous anomalistic`.
+- **anomie anomy** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 93.5; embedded `anomie anomy`.
+- **anonym** — PDF p. 24, printed p. 23; Persian OCR confidence 54.5; head confidence 76.6; embedded `anonym =`.
+- **anonymity** — PDF p. 24, printed p. 23; Persian OCR confidence 50.9; head confidence 96.2; embedded `anonymity`.
+- **antagonist** — PDF p. 24, printed p. 23; Persian OCR confidence 53.3; head confidence 88.6; embedded `antagonist`.
+- **antagonistic cooperation** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 90.3; embedded `antagonistic cooperation`.
+- **antagonizing** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 85.9; embedded `antagonizing`.
+- **Antarctic** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 79.6; embedded `Antarctic`.
+- **Antarctica** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 76.7; embedded `Antarctica`.
+- **antechamber** — PDF p. 24, printed p. 23; Persian OCR confidence 77.1; head confidence 59.9; embedded `antechamber`.
+- **antenatal** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 68.2; embedded `antenatal`.
+- **anterior** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 61.1; embedded `anterior`.
+- **anteriority** — PDF p. 24, printed p. 23; Persian OCR confidence 0; head confidence 49.1; embedded `anteriority`.
+- **anterograde amnesia** — PDF p. 24, printed p. 23; Persian OCR confidence 43.5; head confidence 94.8; embedded `anterograde amnesia`.
+- **anthropeic** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 92.1; embedded `anthropeic = anthropogenetic`.
+- **anthropic(-al)** — PDF p. 25, printed p. 24; Persian OCR confidence 22.0; head confidence 90.0; embedded `anthropic(-al)`.
+- **anthropism** — PDF p. 25, printed p. 24; Persian OCR confidence 48.9; head confidence 92.5; embedded `anthropism`.
+- **anthropocentric** — PDF p. 25, printed p. 24; Persian OCR confidence 41.7; head confidence 92.3; embedded `anthropocentric`.
+- **anthropocentricism** — PDF p. 25, printed p. 24; Persian OCR confidence 31.2; head confidence 91.5; embedded `anthropocentricism`.
+- **anthropocentrism** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 81.5; embedded `anthropocentrism=anthropocentricism`.
+- **anthropochore** — PDF p. 25, printed p. 24; Persian OCR confidence 30.8; head confidence 91.5; embedded `anthropochore`.
+- **anthropogenesis** — PDF p. 25, printed p. 24; Persian OCR confidence 47.3; head confidence 91.5; embedded `anthropogenesis`.
+- **anthropogenetic** — PDF p. 25, printed p. 24; Persian OCR confidence 47.4; head confidence 77.2; embedded `anthropogenetic`.
+- **anthropogenic anthropogenetic** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 93.8; embedded `anthropogenic anthropogenetic`.
+- **anthropogeny** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 91.6; embedded `anthropogeny = anthropogenesis`.
+- **anthropogony** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 91.5; embedded `anthropogony = anthropogenesis`.
+- **anthropoidae** — PDF p. 25, printed p. 24; Persian OCR confidence 44.7; head confidence 92.0; embedded `anthropoidae`.
+- **anthropological** — PDF p. 25, printed p. 24; Persian OCR confidence 41.8; head confidence 44.0; embedded `anthropological`.
+- **anthropologist** — PDF p. 25, printed p. 24; Persian OCR confidence 65.6; head confidence 46.5; embedded `anthropologist`.
+- **anthropometer** — PDF p. 25, printed p. 24; Persian OCR confidence 44.1; head confidence 91.1; embedded `anthropometer`.
+- **anthropomorph anthropomorphic** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 80.3; embedded `anthropomorph anthropomorphic`.
+- **anthropomorphosis** — PDF p. 25, printed p. 24; Persian OCR confidence 44.5; head confidence 55.0; embedded `anthropomorphosis`.
+- **anthropomorphous** — PDF p. 25, printed p. 24; Persian OCR confidence 92.8; head confidence 32.0; embedded `anthropomorphous`.
+- **anthroponymy** — PDF p. 25, printed p. 24; Persian OCR confidence 61.2; head confidence 59.8; embedded `anthroponymy`.
+- **anthropopathism** — PDF p. 25, printed p. 24; Persian OCR confidence 48.3; head confidence 48.8; embedded `anthropopathism`.
+- **anthropopathlte** — PDF p. 25, printed p. 24; Persian OCR confidence 82.0; head confidence 9.5; embedded `anthropopathlte`.
+- **anthropopathy** — PDF p. 25, printed p. 24; Persian OCR confidence 39.2; head confidence 64.1; embedded `anthropopathy`.
+- **anthropophagic anthropophagous** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 89.2; embedded `anthropophagic anthropophagous`.
+- **anthropophagus** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 40.4; embedded `anthropophagus =anthropophagous`.
+- **anthropophilism** — PDF p. 25, printed p. 24; Persian OCR confidence 91.9; head confidence 18.2; embedded `anthropophilism`.
+- **anthropophilous** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 86.7; embedded `anthropophilous = anthropophilic`.
+- **anthropopiteci anthropopitecus** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 61.7; embedded `anthropopiteci anthropopitecus`.
+- **anthropopithecus** — PDF p. 25, printed p. 24; Persian OCR confidence 49.7; head confidence 82.5; embedded `anthropopithecus`.
+- **anthroposophical** — PDF p. 25, printed p. 24; Persian OCR confidence 42.2; head confidence 59.0; embedded `anthroposophical`.
+- **anthropotheism** — PDF p. 25, printed p. 24; Persian OCR confidence 77.0; head confidence 29.7; embedded `anthropotheism`.
+- **anthropotomy** — PDF p. 25, printed p. 24; Persian OCR confidence 86.4; head confidence 26.2; embedded `anthropotomy`.
+- **anti-abortion** — PDF p. 25, printed p. 24; Persian OCR confidence 45.3; head confidence 76.5; embedded `anti-abortion`.
+- **antiabortionist** — PDF p. 25, printed p. 24; Persian OCR confidence 0; head confidence 65.5; embedded `antiabortionist = antiabortion`.
+- **anti-art** — PDF p. 25, printed p. 24; Persian OCR confidence 60.3; head confidence 32.7; embedded `anti-art`.
+- **anticipatory** — PDF p. 26, printed p. 25; Persian OCR confidence 0; head confidence 96.6; embedded `anticipatory = anticipative`.
+- **anticlericalist anticlerical** — PDF p. 26, printed p. 25; Persian OCR confidence 0; head confidence 92.3; embedded `anticlericalist anticlerical`.
+- **anticorruption j-.0.sl.3.¥** — PDF p. 26, printed p. 25; Persian OCR confidence 37.6; head confidence 47.7; embedded `anticorruption .r`.
+- **anticorruption activist** — PDF p. 26, printed p. 25; Persian OCR confidence 0; head confidence 94.4; embedded `anticorruption activist`.
+- **anticonstitutional** — PDF p. 26, printed p. 25; Persian OCR confidence 68.2; head confidence 51.4; embedded `anticonstitutional`.
+- **antidiscourse** — PDF p. 26, printed p. 25; Persian OCR confidence 28.2; head confidence 92.0; embedded `antidiscourse`.
+- **antiestablishment** — PDF p. 26, printed p. 25; Persian OCR confidence 52.9; head confidence 91.2; embedded `antiestablishment`.
+- **antifeminist** — PDF p. 26, printed p. 25; Persian OCR confidence 47.3; head confidence 92.0; embedded `antifeminist`.
+- **antifertility** — PDF p. 26, printed p. 25; Persian OCR confidence 26.9; head confidence 92.7; embedded `a ntife rt ility`.
+- **anti-metaphysical** — PDF p. 26, printed p. 25; Persian OCR confidence 33.5; head confidence 91.5; embedded `anti-metaphysical`.
+- **anti-metaphysics** — PDF p. 26, printed p. 25; Persian OCR confidence 44.0; head confidence 91.0; embedded `anti-metaphysics`.
+- **antimodernist** — PDF p. 26, printed p. 25; Persian OCR confidence 42.6; head confidence 76.5; embedded `antimodernist`.
+- **anti-natalist** — PDF p. 26, printed p. 25; Persian OCR confidence 38.0; head confidence 55.6; embedded `anti-natalist`.
+- **antinomies** — PDF p. 26, printed p. 25; Persian OCR confidence 89.9; head confidence 35.1; embedded `antinomies`.
+- **antinomy** — PDF p. 26, printed p. 25; Persian OCR confidence 82.7; head confidence 44.2; embedded `antinomy`.
+- **antinovel** — PDF p. 26, printed p. 25; Persian OCR confidence 51.6; head confidence 92.3; embedded `anti novel`.
+- **antipathetic(-al)** — PDF p. 26, printed p. 25; Persian OCR confidence 0; head confidence 92.0; embedded `antipathetic(-al)`.
+- **antipathic** — PDF p. 26, printed p. 25; Persian OCR confidence 0; head confidence 54.4; embedded `antipathic`.
+- **antipodal** — PDF p. 26, printed p. 25; Persian OCR confidence 86.0; head confidence 39.3; embedded `antipodal`.
+- **antipodes** — PDF p. 26, printed p. 25; Persian OCR confidence 68.6; head confidence 56.2; embedded `antipodes`.
+- **antipope** — PDF p. 26, printed p. 25; Persian OCR confidence 29.3; head confidence 77.6; embedded `antipope`.
+- **antipoverty** — PDF p. 26, printed p. 25; Persian OCR confidence 52.9; head confidence 50.6; embedded `antipoverty`.
+- **antiquarian .r** — PDF p. 26, printed p. 25; Persian OCR confidence 60.4; head confidence 32.1; embedded `antiquarian .r`.
+- **antiqueness .r** — PDF p. 26, printed p. 25; Persian OCR confidence 77.6; head confidence 0.0; embedded `antiqueness .r`.
+- **antireligiosity** — PDF p. 27, printed p. 26; Persian OCR confidence 51.6; head confidence 74.4; embedded `antireligiosity`.
+- **anti-Semitic** — PDF p. 27, printed p. 26; Persian OCR confidence 60.4; head confidence 47.5; embedded `anti-Semitic`.
+- **anti-statist** — PDF p. 27, printed p. 26; Persian OCR confidence 52.7; head confidence 93.0; embedded `anti-statist`.
+- **antitype** — PDF p. 27, printed p. 26; Persian OCR confidence 50.8; head confidence 91.4; embedded `antltype`.
+- **anti-utopia** — PDF p. 27, printed p. 26; Persian OCR confidence 0; head confidence 94.3; embedded `anti-utopia = dystopia`.
+- **antivivisectionist** — PDF p. 27, printed p. 26; Persian OCR confidence 39.7; head confidence 92.7; embedded `antivivisectionist`.
+- **antonymic** — PDF p. 27, printed p. 26; Persian OCR confidence 31.1; head confidence 92.5; embedded `antonymic`.
+- **antonymous** — PDF p. 27, printed p. 26; Persian OCR confidence 0; head confidence 92.0; embedded `antonymous = antonym`.
+- **antonymy** — PDF p. 27, printed p. 26; Persian OCR confidence 17.4; head confidence 92.2; embedded `antonymy`.
+- **anxiousness** — PDF p. 27, printed p. 26; Persian OCR confidence 79.4; head confidence 17.6; embedded `anxiousness`.
+- **apathy** — PDF p. 27, printed p. 26; Persian OCR confidence 79.6; head confidence 53.0; embedded `apathy`.
+- **apeman** — PDF p. 27, printed p. 26; Persian OCR confidence 85.5; head confidence 53.9; embedded `apeman`.
+- **aperiodicity** — PDF p. 27, printed p. 26; Persian OCR confidence 91.8; head confidence 57.3; embedded `aperiodicity`.
+- **aphasia .r** — PDF p. 27, printed p. 26; Persian OCR confidence 28.2; head confidence 10.2; embedded `aphasia .r`.
+- **aphasic** — PDF p. 27, printed p. 26; Persian OCR confidence 80.9; head confidence 0.0; embedded `aphasic`.
+- **aphonia** — PDF p. 27, printed p. 26; Persian OCR confidence 39.1; head confidence 77.2; embedded `aphonia`.
+- **aphonic** — PDF p. 27, printed p. 26; Persian OCR confidence 81.0; head confidence 51.7; embedded `aphonic`.
+- **aphrodisiac** — PDF p. 27, printed p. 26; Persian OCR confidence 69.2; head confidence 41.3; embedded `aphrodisiac`.
+- **apocalyptic(-al)** — PDF p. 27, printed p. 26; Persian OCR confidence 76.8; head confidence 22.2; embedded `apocalyptic(-al)`.
+- **apocalyptic science** — PDF p. 27, printed p. 26; Persian OCR confidence 52.8; head confidence 96.2; embedded `apocalyptic science`.
+- **apocalyptlsm** — PDF p. 27, printed p. 26; Persian OCR confidence 17.4; head confidence 72.0; embedded `apocalyptlsm = apocalypticism`.
+- **apocrypha [A-] .r** — PDF p. 27, printed p. 26; Persian OCR confidence 74.9; head confidence 44.0; embedded `apocrypha [A-] .r`.
+- **apodictic apodeictic** — PDF p. 27, printed p. 26; Persian OCR confidence 0; head confidence 78.7; embedded `apodlctlc apodeictlc`.
+- **apodosls** — PDF p. 27, printed p. 26; Persian OCR confidence 79.2; head confidence 24.6; embedded `apodosls`.
+- **apokatastasis apocatastasis** — PDF p. 28, printed p. 27; Persian OCR confidence 0; head confidence 91.8; embedded `apokatastasis apocatastasis`.
+- **apologetic** — PDF p. 28, printed p. 27; Persian OCR confidence 74.1; head confidence 0.0; embedded `apologetic`.
+- **apologetics** — PDF p. 28, printed p. 27; Persian OCR confidence 50.9; head confidence 96.5; embedded `apologetics`.
+- **apophthegm apothegm** — PDF p. 28, printed p. 27; Persian OCR confidence 0; head confidence 92.7; embedded `apophthegm apothegm`.
+- **aporia** — PDF p. 28, printed p. 27; Persian OCR confidence 50.5; head confidence 91.1; embedded `aporia`.
+- **apothegm** — PDF p. 28, printed p. 27; Persian OCR confidence 73.0; head confidence 37.9; embedded `apothegm`.
+- **apothegmatic** — PDF p. 28, printed p. 27; Persian OCR confidence 83.2; head confidence 49.0; embedded `apothegmatic`.
+- **apparition** — PDF p. 28, printed p. 27; Persian OCR confidence 54.7; head confidence 82.2; embedded `apparition`.
+- **appellation .r** — PDF p. 28, printed p. 27; Persian OCR confidence 58.5; head confidence 32.0; embedded `appellation .r`.
+- **apperceptlon** — PDF p. 28, printed p. 27; Persian OCR confidence 89.9; head confidence 37.5; embedded `apperceptlon`.
+- **appetence** — PDF p. 28, printed p. 27; Persian OCR confidence 0; head confidence 45.2; embedded `appetence`.
+- **appetency** — PDF p. 28, printed p. 27; Persian OCR confidence 0; head confidence 79.9; embedded `appetency = appetence`.
+- **appetitive** — PDF p. 28, printed p. 27; Persian OCR confidence 83.6; head confidence 57.0; embedded `appetitive`.
+- **applicable** — PDF p. 29, printed p. 28; Persian OCR confidence 4.9; head confidence 96.7; embedded `applicable`.
+- **applicational** — PDF p. 29, printed p. 28; Persian OCR confidence 14.8; head confidence 91.5; embedded `applicational`.
+- **application study** — PDF p. 29, printed p. 28; Persian OCR confidence 35.0; head confidence 96.6; embedded `application study`.
+- **applicatory applicative** — PDF p. 29, printed p. 28; Persian OCR confidence 0; head confidence 94.1; embedded `applicatory applicative`.
+- **applied** — PDF p. 29, printed p. 28; Persian OCR confidence 15.4; head confidence 96.4; embedded `applied`.
+- **applied arts** — PDF p. 29, printed p. 28; Persian OCR confidence 14.1; head confidence 96.1; embedded `applied arts`.
+- **applied linguistics** — PDF p. 29, printed p. 28; Persian OCR confidence 53.7; head confidence 82.8; embedded `applied linguistics`.
+- **applied sciences** — PDF p. 29, printed p. 28; Persian OCR confidence 46.8; head confidence 96.8; embedded `applied sciences`.
+- **appreciative** — PDF p. 29, printed p. 28; Persian OCR confidence 74.8; head confidence 0.8; embedded `appreciative`.
+- **appropriateness** — PDF p. 29, printed p. 28; Persian OCR confidence 92.0; head confidence 18.7; embedded `appropriateness`.
+- **approval** — PDF p. 29, printed p. 28; Persian OCR confidence 80.1; head confidence 43.1; embedded `approval`.
+- **apraxia** — PDF p. 29, printed p. 28; Persian OCR confidence 35.4; head confidence 96.4; embedded `apraxla`.
+- **apraxic** — PDF p. 29, printed p. 28; Persian OCR confidence 85.1; head confidence 59.1; embedded `apraxic`.
+- **a priori** — PDF p. 30, printed p. 29; Persian OCR confidence 76.5; head confidence 57.0; embedded `a priori`.
+- **aprosexia** — PDF p. 30, printed p. 29; Persian OCR confidence 48.2; head confidence 93.0; embedded `aprosexia`.
+- **aquacultural** — PDF p. 30, printed p. 29; Persian OCR confidence 0; head confidence 92.4; embedded `aquacultural = aquicultural`.
+- **aquaculture aquiculture** — PDF p. 30, printed p. 29; Persian OCR confidence 0; head confidence 94.4; embedded `aquaculture aquiculture`.
+- **aqueduct** — PDF p. 30, printed p. 29; Persian OCR confidence 29.5; head confidence 96.7; embedded `aqueduct`.
+- **Arab** — PDF p. 30, printed p. 29; Persian OCR confidence 51.3; head confidence 96.9; embedded `Arab`.
+- **Arabic** — PDF p. 30, printed p. 29; Persian OCR confidence 35.5; head confidence 95.8; embedded `Arabic`.
+- **Arabism** — PDF p. 30, printed p. 29; Persian OCR confidence 52.2; head confidence 91.5; embedded `Arabism`.
+- **Aramaean Aramean** — PDF p. 30, printed p. 29; Persian OCR confidence 0; head confidence 91.8; embedded `Aramaean Aramean`.
+- **arbiter** — PDF p. 30, printed p. 29; Persian OCR confidence 37.2; head confidence 97.0; embedded `arbiter`.
+- **arbitration** — PDF p. 30, printed p. 29; Persian OCR confidence 44.1; head confidence 71.6; embedded `arbitration`.
+- **arbitrator** — PDF p. 30, printed p. 29; Persian OCR confidence 43.2; head confidence 90.2; embedded `arbitrator`.
+- **arcadia** — PDF p. 30, printed p. 29; Persian OCR confidence 74.5; head confidence 33.5; embedded `arcadia`.
+- **arcana** — PDF p. 30, printed p. 29; Persian OCR confidence 75.8; head confidence 31.9; embedded `arcana`.
+- **archaeoastronomy** — PDF p. 30, printed p. 29; Persian OCR confidence 53.4; head confidence 75.4; embedded `archaeoastronomy`.
+- **archaeology** — PDF p. 30, printed p. 29; Persian OCR confidence 44.1; head confidence 91.7; embedded `archaeology = archeology`.
+- **archaic .r** — PDF p. 30, printed p. 29; Persian OCR confidence 60.5; head confidence 31.3; embedded `archaic .r`.
+- **archaism** — PDF p. 30, printed p. 29; Persian OCR confidence 60.8; head confidence 58.5; embedded `archaism`.
+- **archaist** — PDF p. 30, printed p. 29; Persian OCR confidence 75.6; head confidence 0.0; embedded `archaist`.
+- **archaization** — PDF p. 30, printed p. 29; Persian OCR confidence 92.1; head confidence 51.6; embedded `archaization`.
+- **archbishop** — PDF p. 30, printed p. 29; Persian OCR confidence 7.1; head confidence 96.5; embedded `archbishop`.
+- **archbishopric** — PDF p. 30, printed p. 29; Persian OCR confidence 25.5; head confidence 37.5; embedded `archbishopric`.
+- **archdeacon** — PDF p. 30, printed p. 29; Persian OCR confidence 69.3; head confidence 44.2; embedded `archdeacon`.
+- **archdiocese** — PDF p. 30, printed p. 29; Persian OCR confidence 0.0; head confidence 75.7; embedded `archdiocese`.
+- **arche (Gr.)** — PDF p. 30, printed p. 29; Persian OCR confidence 87.9; head confidence 55.9; embedded `arche (Gr.)`.
+- **archetypal** — PDF p. 31, printed p. 30; Persian OCR confidence 44.3; head confidence 96.1; embedded `archetypal`.
+- **archetype** — PDF p. 31, printed p. 30; Persian OCR confidence 52.5; head confidence 62.7; embedded `archetype`.
+- **archiepiscopality** — PDF p. 31, printed p. 30; Persian OCR confidence 0; head confidence 92.1; embedded `archiepiscopality`.
+- **archimage** — PDF p. 31, printed p. 30; Persian OCR confidence 0; head confidence 92.8; embedded `arch image`.
+- **architext** — PDF p. 31, printed p. 30; Persian OCR confidence 31.7; head confidence 89.9; embedded `architext`.
+- **architexuality** — PDF p. 31, printed p. 30; Persian OCR confidence 0; head confidence 91.8; embedded `architexuality`.
+- **archival** — PDF p. 31, printed p. 30; Persian OCR confidence 0; head confidence 96.1; embedded `archival`.
+- **archive officer** — PDF p. 31, printed p. 30; Persian OCR confidence 0; head confidence 96.1; embedded `archive officer`.
+- **archives** — PDF p. 31, printed p. 30; Persian OCR confidence 32.3; head confidence 95.7; embedded `archives`.
+- **archpriest** — PDF p. 31, printed p. 30; Persian OCR confidence 40.6; head confidence 92.2; embedded `archpriest`.
+- **Arctic Circle** — PDF p. 31, printed p. 30; Persian OCR confidence 0; head confidence 96.6; embedded `Arctic Circle`.
+- **ardor** — PDF p. 31, printed p. 30; Persian OCR confidence 0; head confidence 75.7; embedded `ardor`.
+- **area sampling** — PDF p. 31, printed p. 30; Persian OCR confidence 30.4; head confidence 96.5; embedded `area sampling`.
+- **aretology** — PDF p. 31, printed p. 30; Persian OCR confidence 84.0; head confidence 35.6; embedded `aretology`.
+- **argumentation** — PDF p. 31, printed p. 30; Persian OCR confidence 59.7; head confidence 30.4; embedded `argumentation`.
+- **argumentative** — PDF p. 31, printed p. 30; Persian OCR confidence 59.2; head confidence 53.0; embedded `argumentative`.
+- **argumentum ad hominem (L.)** — PDF p. 31, printed p. 30; Persian OCR confidence 41.7; head confidence 92.7; embedded `argumentum ad hominem (L.)`.
+- **Arian** — PDF p. 32, printed p. 31; Persian OCR confidence 65.6; head confidence 52.3; embedded `Arian`.
+- **Aristotelean Aristotelian** — PDF p. 32, printed p. 31; Persian OCR confidence 0; head confidence 93.9; embedded `Aristotelean Aristotelian`.
+- **Aristotelian logic** — PDF p. 32, printed p. 31; Persian OCR confidence 41.6; head confidence 96.7; embedded `Aristotelian logic`.
+- **armed insurgency** — PDF p. 32, printed p. 31; Persian OCR confidence 49.4; head confidence 95.7; embedded `armed insurgency`.
+- **armed peace** — PDF p. 32, printed p. 31; Persian OCR confidence 17.6; head confidence 96.4; embedded `armed peace`.
+- **Armenian** — PDF p. 32, printed p. 31; Persian OCR confidence 0; head confidence 96.2; embedded `Armenian`.
+- **Arminian** — PDF p. 32, printed p. 31; Persian OCR confidence 0; head confidence 57.7; embedded `Arminian`.
+- **Arminianism** — PDF p. 32, printed p. 31; Persian OCR confidence 62.3; head confidence 51.0; embedded `Arminianism`.
+- **armory** — PDF p. 32, printed p. 31; Persian OCR confidence 46.9; head confidence 75.6; embedded `armory`.
+- **army** — PDF p. 32, printed p. 31; Persian OCR confidence 47.9; head confidence 56.8; embedded `army`.
+- **arrangement** — PDF p. 32, printed p. 31; Persian OCR confidence 69.7; head confidence 40.4; embedded `arrangement`.
+- **arrogance** — PDF p. 32, printed p. 31; Persian OCR confidence 72.3; head confidence 40.6; embedded `arrogance`.
+- **artefact artifact** — PDF p. 32, printed p. 31; Persian OCR confidence 0; head confidence 85.6; embedded `artefact artifact`.
+- **art for art’s sake** — PDF p. 33, printed p. 32; Persian OCR confidence 30.9; head confidence 94.8; embedded `art for art's sake`.
+- **art gallery** — PDF p. 33, printed p. 32; Persian OCR confidence 39.8; head confidence 96.8; embedded `art gallery`.
+- **articulation disorder** — PDF p. 33, printed p. 32; Persian OCR confidence 86.3; head confidence 57.1; embedded `articulation disorder`.
+- **articulative articulatory** — PDF p. 33, printed p. 32; Persian OCR confidence 46.3; head confidence 94.8; embedded `articulatlve articulatory`.
+- **articulatory apraxia** — PDF p. 33, printed p. 32; Persian OCR confidence 35.0; head confidence 96.6; embedded `articulatory apraxia`.
+- **articulatory process** — PDF p. 33, printed p. 32; Persian OCR confidence 46.2; head confidence 61.0; embedded `articulatory process`.
+- **artifactual** — PDF p. 33, printed p. 32; Persian OCR confidence 62.7; head confidence 15.2; embedded `artifactual`.
+- **artificial intelligence (cs.20)>lu,592 asceticism** — PDF p. 33, printed p. 32; Persian OCR confidence 0; head confidence 67.9; embedded `artiflcial intelligence (asceticism`.
+- **art informel (Fr.)** — PDF p. 33, printed p. 32; Persian OCR confidence 25.4; head confidence 86.0; embedded `art informel (Fr.)`.
+- **artist** — PDF p. 33, printed p. 32; Persian OCR confidence 14.6; head confidence 90.1; embedded `artist`.
+- **artiste** — PDF p. 33, printed p. 32; Persian OCR confidence 37.8; head confidence 97.0; embedded `artiste`.
+- **artistic property** — PDF p. 33, printed p. 32; Persian OCR confidence 45.0; head confidence 88.6; embedded `artistic property`.
+- **artistry** — PDF p. 33, printed p. 32; Persian OCR confidence 63.1; head confidence 31.6; embedded `artistry`.
+- **art nouveau** — PDF p. 33, printed p. 32; Persian OCR confidence 54.2; head confidence 78.5; embedded `art nouveau`.
+- **ascendance** — PDF p. 33, printed p. 32; Persian OCR confidence 82.7; head confidence 32.3; embedded `ascendance`.
+- **ascendancy** — PDF p. 33, printed p. 32; Persian OCR confidence 0; head confidence 94.0; embedded `ascendancy= ascendance`.
+- **aSCeNding** — PDF p. 33, printed p. 32; Persian OCR confidence 75.6; head confidence 55.8; embedded `ascending`.
+- **ascetic poetry** — PDF p. 34, printed p. 33; Persian OCR confidence 54.8; head confidence 96.5; embedded `ascetic poetry`.
+- **aseity** — PDF p. 34, printed p. 33; Persian OCR confidence 51.2; head confidence 88.0; embedded `aseity`.
+- **asexuality** — PDF p. 34, printed p. 33; Persian OCR confidence 32.7; head confidence 91.0; embedded `asexuality`.
+- **Asiatic** — PDF p. 34, printed p. 33; Persian OCR confidence 0; head confidence 96.9; embedded `Asiatic`.
+- **as-if philosophy** — PDF p. 34, printed p. 33; Persian OCR confidence 46.2; head confidence 94.8; embedded `as-if philosophy`.
+- **aspect a>) (L3.¥** — PDF p. 34, printed p. 33; Persian OCR confidence 73.8; head confidence 52.2; embedded `aspect~§ .r`.
+- **assertiveness** — PDF p. 34, printed p. 33; Persian OCR confidence 45.9; head confidence 62.4; embedded `assertiveness`.
+- **assessment** — PDF p. 34, printed p. 33; Persian OCR confidence 71.0; head confidence 50.5; embedded `assessment`.
+- **asset** — PDF p. 34, printed p. 33; Persian OCR confidence 86.4; head confidence 17.3; embedded `asset`.
+- **assimilability** — PDF p. 34, printed p. 33; Persian OCR confidence 0.0; head confidence 88.1; embedded `assimilabillty`.
+- **assimilationism** — PDF p. 34, printed p. 33; Persian OCR confidence 91.2; head confidence 53.3; embedded `assimilation ism`.
+- **asslmilationist** — PDF p. 34, printed p. 33; Persian OCR confidence 87.6; head confidence 42.0; embedded `asslmilationist`.
+- **assistantship** — PDF p. 34, printed p. 33; Persian OCR confidence 32.0; head confidence 76.7; embedded `assistantship`.
+- **association** — PDF p. 34, printed p. 33; Persian OCR confidence 70.7; head confidence 59.7; embedded `association`.
+- **associational lob sol (ly)** — PDF p. 34, printed p. 33; Persian OCR confidence 72.5; head confidence 45.3; embedded `associational ).r`.
+- **associationalism** — PDF p. 34, printed p. 33; Persian OCR confidence 0; head confidence 78.2; embedded `associationalism = associationism`.
+- **associative process** — PDF p. 35, printed p. 34; Persian OCR confidence 49.9; head confidence 96.8; embedded `associative process`.
+- **associativity** — PDF p. 35, printed p. 34; Persian OCR confidence 35.7; head confidence 95.3; embedded `associativity`.
+- **assonant** — PDF p. 35, printed p. 34; Persian OCR confidence 53.4; head confidence 91.1; embedded `assonant`.
+- **astrobiology** — PDF p. 35, printed p. 34; Persian OCR confidence 7.5; head confidence 83.2; embedded `astrobiology`.
+- **astrogeny** — PDF p. 35, printed p. 34; Persian OCR confidence 72.2; head confidence 12.7; embedded `astrogeny`.
+- **astronaut** — PDF p. 35, printed p. 34; Persian OCR confidence 89.7; head confidence 57.4; embedded `astronaut`.
+- **astronautic(-al)** — PDF p. 35, printed p. 34; Persian OCR confidence 37.7; head confidence 70.6; embedded `astronautic(-al)`.
+- **astronavigatlon** — PDF p. 35, printed p. 34; Persian OCR confidence 48.1; head confidence 15.1; embedded `astronavigatlon`.
+- **astronavigator** — PDF p. 35, printed p. 34; Persian OCR confidence 85.9; head confidence 48.9; embedded `astronavlgator`.
+- **asymmetric(-al)** — PDF p. 35, printed p. 34; Persian OCR confidence 81.2; head confidence 52.8; embedded `asymmetric(-al)`.
+- **asynchronism** — PDF p. 35, printed p. 34; Persian OCR confidence 61.0; head confidence 36.1; embedded `asynchronism`.
+- **asyndeton** — PDF p. 35, printed p. 34; Persian OCR confidence 90.5; head confidence 48.0; embedded `asyndeton`.
+- **ataractic** — PDF p. 35, printed p. 34; Persian OCR confidence 89.7; head confidence 22.6; embedded `ataractic`.
+- **ataxia** — PDF p. 36, printed p. 35; Persian OCR confidence 33.8; head confidence 97.0; embedded `ataxia`.
+- **ataxic** — PDF p. 36, printed p. 35; Persian OCR confidence 36.4; head confidence 95.2; embedded `ataxic`.
+- **atelier** — PDF p. 36, printed p. 35; Persian OCR confidence 47.2; head confidence 96.8; embedded `atelier`.
+- **atheism** — PDF p. 36, printed p. 35; Persian OCR confidence 54.3; head confidence 96.7; embedded `atheism`.
+- **atheneum athenaeum** — PDF p. 36, printed p. 35; Persian OCR confidence 0; head confidence 92.4; embedded `atheneum athenaeum`.
+- **atomicity** — PDF p. 36, printed p. 35; Persian OCR confidence 5.7; head confidence 68.3; embedded `atomicity`.
+- **atomism** — PDF p. 36, printed p. 35; Persian OCR confidence 88.5; head confidence 55.2; embedded `atomism`.
+- **atomist** — PDF p. 36, printed p. 35; Persian OCR confidence 90.6; head confidence 49.9; embedded `atomist`.
+- **atomistic(-al)** — PDF p. 36, printed p. 35; Persian OCR confidence 45.8; head confidence 50.5; embedded `atomistic(-al)`.
+- **atomistics** — PDF p. 36, printed p. 35; Persian OCR confidence 0; head confidence 40.0; embedded `atomistics`.
+- **atomistic society** — PDF p. 36, printed p. 35; Persian OCR confidence 0; head confidence 94.0; embedded `atomistic society`.
+- **atomization** — PDF p. 36, printed p. 35; Persian OCR confidence 0; head confidence 96.6; embedded `atomization`.
+- **attachment** — PDF p. 36, printed p. 35; Persian OCR confidence 35.9; head confidence 95.8; embedded `attachment`.
+- **attainment** — PDF p. 36, printed p. 35; Persian OCR confidence 85.5; head confidence 38.9; embedded `attainment`.
+- **attendance age** — PDF p. 36, printed p. 35; Persian OCR confidence 4.8; head confidence 76.0; embedded `attendance age`.
+- **attestation** — PDF p. 36, printed p. 35; Persian OCR confidence 77.6; head confidence 51.3; embedded `attestation`.
+- **attitude survey** — PDF p. 37, printed p. 36; Persian OCR confidence 25.5; head confidence 96.5; embedded `attitude survey`.
+- **attractive** — PDF p. 37, printed p. 36; Persian OCR confidence 1.4; head confidence 96.5; embedded `attractive`.
+- **attributive dau cio** — PDF p. 37, printed p. 36; Persian OCR confidence 48.9; head confidence 50.9; embedded `attributive .r`.
+- **audible** — PDF p. 37, printed p. 36; Persian OCR confidence 44.6; head confidence 96.1; embedded `audible`.
+- **audience** — PDF p. 37, printed p. 36; Persian OCR confidence 50.1; head confidence 96.2; embedded `audience`.
+- **audio-lingual** — PDF p. 37, printed p. 36; Persian OCR confidence 85.1; head confidence 35.1; embedded `audio-lingual`.
+- **audio-visual** — PDF p. 37, printed p. 36; Persian OCR confidence 49.1; head confidence 80.7; embedded `audio-visual`.
+- **audit** — PDF p. 37, printed p. 36; Persian OCR confidence 35.5; head confidence 72.7; embedded `audit`.
+- **auditive auditory** — PDF p. 37, printed p. 36; Persian OCR confidence 7.0; head confidence 78.5; embedded `auditive auditory`.
+- **auditory hallucination** — PDF p. 37, printed p. 36; Persian OCR confidence 73.3; head confidence 41.6; embedded `auditory hallucination`.
+- **augmentative** — PDF p. 37, printed p. 36; Persian OCR confidence 76.8; head confidence 46.4; embedded `augmentative`.
+- **augural** — PDF p. 37, printed p. 36; Persian OCR confidence 0; head confidence 20.3; embedded `augural`.
+- **augury** — PDF p. 37, printed p. 36; Persian OCR confidence 0; head confidence 80.4; embedded `augury`.
+- **august** — PDF p. 37, printed p. 36; Persian OCR confidence 91.6; head confidence 31.7; embedded `august`.
+- **Augustinianism** — PDF p. 37, printed p. 36; Persian OCR confidence 85.9; head confidence 0.0; embedded `Augustinianism`.
+- **Augustinism** — PDF p. 37, printed p. 36; Persian OCR confidence 0; head confidence 68.6; embedded `Augustinism = Augustinlanism`.
+- **aulic** — PDF p. 37, printed p. 36; Persian OCR confidence 92.0; head confidence 33.3; embedded `aulic`.
+- **aura** — PDF p. 37, printed p. 36; Persian OCR confidence 45.7; head confidence 78.0; embedded `aura`.
+- **australopithecine** — PDF p. 38, printed p. 37; Persian OCR confidence 0.0; head confidence 91.8; embedded `australopithecine`.
+- **Australopithecus** — PDF p. 38, printed p. 37; Persian OCR confidence 32.7; head confidence 91.8; embedded `Australopithecus`.
+- **autarkic(-al)** — PDF p. 38, printed p. 37; Persian OCR confidence 0.0; head confidence 89.7; embedded `autarkic(-al)`.
+- **authenticity** — PDF p. 38, printed p. 37; Persian OCR confidence 90.9; head confidence 52.1; embedded `authenticity`.
+- **author** — PDF p. 38, printed p. 37; Persian OCR confidence 76.8; head confidence 8.7; embedded `author`.
+- **author-centered** — PDF p. 38, printed p. 37; Persian OCR confidence 92.7; head confidence 57.0; embedded `author-centered`.
+- **authorial** — PDF p. 38, printed p. 37; Persian OCR confidence 66.0; head confidence 56.1; embedded `authorial`.
+- **authorial intention** — PDF p. 38, printed p. 37; Persian OCR confidence 52.2; head confidence 80.5; embedded `authorial intention`.
+- **authority** — PDF p. 38, printed p. 37; Persian OCR confidence 57.0; head confidence 53.1; embedded `authority`.
+- **author’s** — PDF p. 39, printed p. 38; Persian OCR confidence 41.3; head confidence 89.4; embedded `author`.
+- **autocentric** — PDF p. 39, printed p. 38; Persian OCR confidence 35.5; head confidence 91.5; embedded `autocentric`.
+- **autochthonal** — PDF p. 39, printed p. 38; Persian OCR confidence 18.3; head confidence 92.3; embedded `autochthonal`.
+- **auto-da-fé** — PDF p. 39, printed p. 38; Persian OCR confidence 21.5; head confidence 90.4; embedded `auto-da-te`.
+- **auto-dialogue** — PDF p. 39, printed p. 38; Persian OCR confidence 20.4; head confidence 2.5; embedded `auto-dialogue`.
+- **autodidact** — PDF p. 39, printed p. 38; Persian OCR confidence 90.8; head confidence 27.3; embedded `autodidact`.
+- **autodidactic** — PDF p. 39, printed p. 38; Persian OCR confidence 92.1; head confidence 55.0; embedded `autodidactic`.
+- **autodiegesis** — PDF p. 39, printed p. 38; Persian OCR confidence 67.6; head confidence 47.0; embedded `autodiegesis`.
+- **autodynamic** — PDF p. 39, printed p. 38; Persian OCR confidence 92.2; head confidence 55.8; embedded `autodynamic`.
+- **autoeroticism** — PDF p. 39, printed p. 38; Persian OCR confidence 53.3; head confidence 86.0; embedded `autoeroticism`.
+- **autogenetlc** — PDF p. 39, printed p. 38; Persian OCR confidence 35.5; head confidence 39.9; embedded `autogenetlc`.
+- **autognosis** — PDF p. 39, printed p. 38; Persian OCR confidence 76.4; head confidence 19.1; embedded `autognosis`.
+- **autography** — PDF p. 39, printed p. 38; Persian OCR confidence 85.8; head confidence 28.9; embedded `autography`.
+- **autohypnosis** — PDF p. 39, printed p. 38; Persian OCR confidence 40.7; head confidence 74.2; embedded `autohypnosis`.
+- **automatic** — PDF p. 39, printed p. 38; Persian OCR confidence 27.7; head confidence 39.2; embedded `automatic`.
+- **automatism** — PDF p. 39, printed p. 38; Persian OCR confidence 79.7; head confidence 0.0; embedded `automatism`.
+- **automatizatlon** — PDF p. 39, printed p. 38; Persian OCR confidence 29.7; head confidence 17.1; embedded `automatizatlon`.
+- **autonomy ~** — PDF p. 40, printed p. 39; Persian OCR confidence 79.8; head confidence 33.7; embedded `autonomy ~`.
+- **autosexual** — PDF p. 40, printed p. 39; Persian OCR confidence 0.0; head confidence 88.6; embedded `autosexual`.
+- **autotelic** — PDF p. 40, printed p. 39; Persian OCR confidence 35.0; head confidence 90.1; embedded `autotelic`.
+- **autotelism** — PDF p. 40, printed p. 39; Persian OCR confidence 0.0; head confidence 92.4; embedded `autotelism`.
+- **auto-therapeutic** — PDF p. 40, printed p. 39; Persian OCR confidence 0; head confidence 92.2; embedded `auto-therapeutic`.
+- **auto-therapy** — PDF p. 40, printed p. 39; Persian OCR confidence 0; head confidence 92.7; embedded `auto-therapy`.
+- **auxiliary** — PDF p. 40, printed p. 39; Persian OCR confidence 50.5; head confidence 95.9; embedded `auxiliary`.
+- **auxiliary language** — PDF p. 40, printed p. 39; Persian OCR confidence 0; head confidence None; embedded `auxiliary language`.
+- **availableness** — PDF p. 40, printed p. 39; Persian OCR confidence 0; head confidence 89.1; embedded `availableness = availability`.
+- **avant-gardism** — PDF p. 40, printed p. 39; Persian OCR confidence 84.7; head confidence 35.6; embedded `avant-gardism`.
+- **avant-gardist** — PDF p. 40, printed p. 39; Persian OCR confidence 25.2; head confidence 59.4; embedded `avant-gardist`.
+- **Averroism** — PDF p. 40, printed p. 39; Persian OCR confidence 72.7; head confidence 51.9; embedded `Averroism`.
+- **Averroist** — PDF p. 40, printed p. 39; Persian OCR confidence 55.6; head confidence 54.2; embedded `Averroist`.
+- **aversion** — PDF p. 40, printed p. 39; Persian OCR confidence 19.7; head confidence 88.2; embedded `aversion`.
+- **Avicennism** — PDF p. 40, printed p. 39; Persian OCR confidence 62.6; head confidence 49.0; embedded `Avicennism`.
+- **Avicennlst** — PDF p. 40, printed p. 39; Persian OCR confidence 46.7; head confidence 7.4; embedded `Avicennlst`.
+- **avoidance** — PDF p. 40, printed p. 39; Persian OCR confidence 1.1; head confidence 94.2; embedded `avoidance`.
+- **avunculate** — PDF p. 40, printed p. 39; Persian OCR confidence 84.3; head confidence 47.7; embedded `avunculate`.
+- **aware** — PDF p. 40, printed p. 39; Persian OCR confidence 81.8; head confidence 31.9; embedded `aware`.
+- **awareness** — PDF p. 40, printed p. 39; Persian OCR confidence 89.3; head confidence 28.1; embedded `awareness`.
+- **awesome** — PDF p. 40, printed p. 39; Persian OCR confidence 12.3; head confidence 67.9; embedded `awesome`.
+- **axiologist** — PDF p. 40, printed p. 39; Persian OCR confidence 39.3; head confidence 89.1; embedded `axiologist`.
+- **axiology** — PDF p. 40, printed p. 39; Persian OCR confidence 0.0; head confidence 47.2; embedded `axiology`.
+- **axiomatics** — PDF p. 41, printed p. 40; Persian OCR confidence 42.3; head confidence 92.7; embedded `axiomatics`.
+- **axiomatization** — PDF p. 41, printed p. 40; Persian OCR confidence 42.6; head confidence 92.6; embedded `axiomatization`.
+- **azolc** — PDF p. 41, printed p. 40; Persian OCR confidence 70.0; head confidence 14.2; embedded `azolc`.

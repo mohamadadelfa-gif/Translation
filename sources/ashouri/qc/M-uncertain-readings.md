@@ -1,0 +1,546 @@
+# M — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **Machiavellianism** — PDF p. 261, printed p. 260; Persian OCR confidence 51.5; head confidence 92.2; embedded `Machiavellianism`.
+- **machine** — PDF p. 261, printed p. 260; Persian OCR confidence 52.5; head confidence 96.4; embedded `machine`.
+- **macro** — PDF p. 261, printed p. 260; Persian OCR confidence 52.8; head confidence 96.3; embedded `macro`.
+- **macrobiota** — PDF p. 261, printed p. 260; Persian OCR confidence 54.5; head confidence 91.6; embedded `macrobtota`.
+- **macroclimate** — PDF p. 261, printed p. 260; Persian OCR confidence 41.8; head confidence 91.5; embedded `macrocllmate`.
+- **macroclimatic** — PDF p. 261, printed p. 260; Persian OCR confidence 18.6; head confidence 69.1; embedded `macrocllmatlc`.
+- **macrocosmic** — PDF p. 261, printed p. 260; Persian OCR confidence 0.8; head confidence 91.3; embedded `macrocosmic`.
+- **macrolinguistics** — PDF p. 261, printed p. 260; Persian OCR confidence 40.4; head confidence 92.3; embedded `macrolingulstics`.
+- **macro-plan** — PDF p. 261, printed p. 260; Persian OCR confidence 49.6; head confidence 57.5; embedded `macro-plan`.
+- **macroscopic(-al)** — PDF p. 261, printed p. 260; Persian OCR confidence 29.0; head confidence n/a; embedded `macroscopic(-al)`.
+- **macrosegment** — PDF p. 261, printed p. 260; Persian OCR confidence 47.3; head confidence 52.6; embedded `macrosegment`.
+- **macrostructural** — PDF p. 261, printed p. 260; Persian OCR confidence 84.6; head confidence 16.8; embedded `macrostructural`.
+- **macrostructure** — PDF p. 261, printed p. 260; Persian OCR confidence 73.6; head confidence 41.9; embedded `macrostructure`.
+- **macrotom** — PDF p. 261, printed p. 260; Persian OCR confidence 5.5; head confidence 79.5; embedded `macrotom`.
+- **madhouse** — PDF p. 261, printed p. 260; Persian OCR confidence 78.7; head confidence 24.1; embedded `madhouse`.
+- **maecenatism** — PDF p. 261, printed p. 260; Persian OCR confidence 75.6; head confidence 26.2; embedded `maecenatism`.
+- **magi** — PDF p. 262, printed p. 261; Persian OCR confidence 0.0; head confidence 96.4; embedded `magi`.
+- **magianism** — PDF p. 262, printed p. 261; Persian OCR confidence 48.5; head confidence 92.4; embedded `magianism`.
+- **magistrate oli** — PDF p. 262, printed p. 261; Persian OCR confidence 79.4; head confidence 52.9; embedded `magistratec5;:_;)IS`.
+- **magistrature** — PDF p. 262, printed p. 261; Persian OCR confidence 0.0; head confidence 75.1; embedded `magistrature = magistracy`.
+- **M** — PDF p. 262, printed p. 261; Persian OCR confidence 29.8; head confidence n/a; embedded `M`.
+- **maharaja** — PDF p. 262, printed p. 261; Persian OCR confidence 0.0; head confidence 71.5; embedded `maharaja = maharajah`.
+- **maharajah** — PDF p. 262, printed p. 261; Persian OCR confidence 52.7; head confidence 72.1; embedded `maharajah`.
+- **Mahdi (Ar.)** — PDF p. 262, printed p. 261; Persian OCR confidence 49.9; head confidence 88.8; embedded `Mahdi (Ar.)`.
+- **Mahdism** — PDF p. 262, printed p. 261; Persian OCR confidence 16.8; head confidence 0.0; embedded `Mahdism`.
+- **Mahdist** — PDF p. 262, printed p. 261; Persian OCR confidence 0.0; head confidence 82.5; embedded `Mahdlst`.
+- **maieutic(-al)** — PDF p. 262, printed p. 261; Persian OCR confidence 83.9; head confidence 44.8; embedded `maieutic(-al)`.
+- **malhem** — PDF p. 262, printed p. 261; Persian OCR confidence 0.0; head confidence 87.2; embedded `malhem = mayhem`.
+- **mainlander** — PDF p. 262, printed p. 261; Persian OCR confidence 86.9; head confidence 44.1; embedded `mainlander`.
+- **maintenance level** — PDF p. 262, printed p. 261; Persian OCR confidence 0.0; head confidence 83.5; embedded `maintenance level`.
+- **majestic** — PDF p. 262, printed p. 261; Persian OCR confidence 0.0; head confidence 60.5; embedded `majestic`.
+- **majordomo** — PDF p. 262, printed p. 261; Persian OCR confidence 41.3; head confidence 84.7; embedded `majordomo`.
+- **majority** — PDF p. 262, printed p. 261; Persian OCR confidence 46.0; head confidence 70.1; embedded `majority`.
+- **majority leader** — PDF p. 262, printed p. 261; Persian OCR confidence 0.0; head confidence 92.5; embedded `majority leader`.
+- **majority rule** — PDF p. 263, printed p. 262; Persian OCR confidence 50.8; head confidence 96.2; embedded `majority rule`.
+- **major sentence** — PDF p. 263, printed p. 262; Persian OCR confidence 45.2; head confidence 96.9; embedded `major sentence`.
+- **Major term** — PDF p. 263, printed p. 262; Persian OCR confidence 51.5; head confidence 73.7; embedded `major term`.
+- **maladaptive** — PDF p. 263, printed p. 262; Persian OCR confidence 0.0; head confidence 93.5; embedded `maladaptlve`.
+- **maladjusted** — PDF p. 263, printed p. 262; Persian OCR confidence 0.0; head confidence 93.3; embedded `maladjusted`.
+- **maladministration** — PDF p. 263, printed p. 262; Persian OCR confidence 0.0; head confidence 91.4; embedded `maladminlstration`.
+- **mala in** — PDF p. 263, printed p. 262; Persian OCR confidence 69.5; head confidence 96.5; embedded `mala`.
+- **malapportloned** — PDF p. 263, printed p. 262; Persian OCR confidence 41.9; head confidence 33.9; embedded `malapportloned`.
+- **male centered** — PDF p. 263, printed p. 262; Persian OCR confidence 50.0; head confidence 96.7; embedded `male centered`.
+- **male centeredness** — PDF p. 263, printed p. 262; Persian OCR confidence 48.9; head confidence 92.1; embedded `male centeredness`.
+- **malediction** — PDF p. 263, printed p. 262; Persian OCR confidence 77.1; head confidence 90.3; embedded `maledlctlon`.
+- **malefactor** — PDF p. 263, printed p. 262; Persian OCR confidence 79.4; head confidence 36.6; embedded `malefactor`.
+- **maleficence** — PDF p. 263, printed p. 262; Persian OCR confidence 81.1; head confidence 33.4; embedded `maleficence`.
+- **male-oriented** — PDF p. 263, printed p. 262; Persian OCR confidence 44.7; head confidence 53.1; embedded `male-oriented`.
+- **male tyranny** — PDF p. 263, printed p. 262; Persian OCR confidence 44.0; head confidence 95.4; embedded `male tyranny`.
+- **malformation** — PDF p. 263, printed p. 262; Persian OCR confidence 21.0; head confidence 95.7; embedded `malformation`.
+- **malformed** — PDF p. 263, printed p. 262; Persian OCR confidence 29.3; head confidence 91.5; embedded `malformed`.
+- **malfunctioning** — PDF p. 263, printed p. 262; Persian OCR confidence 0.0; head confidence 91.5; embedded `malfunctioning`.
+- **malignance malignancy** — PDF p. 263, printed p. 262; Persian OCR confidence 0.0; head confidence 81.7; embedded `malignance malignancy`.
+- **malignancy** — PDF p. 263, printed p. 262; Persian OCR confidence 48.2; head confidence 75.0; embedded `malignancy`.
+- **malignant** — PDF p. 263, printed p. 262; Persian OCR confidence 67.8; head confidence 29.2; embedded `malignant`.
+- **malingering** — PDF p. 263, printed p. 262; Persian OCR confidence 90.4; head confidence 76.1; embedded `mallngerlng`.
+- **mammailia (L.)** — PDF p. 264, printed p. 263; Persian OCR confidence 0.0; head confidence 60.4; embedded `mammalia (L.)`.
+- **Mammon** — PDF p. 264, printed p. 263; Persian OCR confidence 50.8; head confidence 96.5; embedded `Mammon`.
+- **man** — PDF p. 264, printed p. 263; Persian OCR confidence 50.4; head confidence 95.8; embedded `man`.
+- **manageability** — PDF p. 264, printed p. 263; Persian OCR confidence 46.6; head confidence 96.4; embedded `manageability`.
+- **managed** — PDF p. 264, printed p. 263; Persian OCR confidence 0.0; head confidence 96.0; embedded `managed`.
+- **managerial grid** — PDF p. 264, printed p. 263; Persian OCR confidence 38.3; head confidence 96.0; embedded `managerlal grid`.
+- **managing director** — PDF p. 264, printed p. 263; Persian OCR confidence 40.7; head confidence 96.6; embedded `managing director`.
+- **mandate** — PDF p. 264, printed p. 263; Persian OCR confidence 69.0; head confidence 39.9; embedded `mandate`.
+- **manes** — PDF p. 264, printed p. 263; Persian OCR confidence 69.5; head confidence 42.8; embedded `manes`.
+- **Maneuver(s)** — PDF p. 264, printed p. 263; Persian OCR confidence 39.5; head confidence 73.3; embedded `maneuver(s)`.
+- **manhood** — PDF p. 264, printed p. 263; Persian OCR confidence 65.8; head confidence 24.2; embedded `manhood`.
+- **man-hour** — PDF p. 264, printed p. 263; Persian OCR confidence 57.6; head confidence 6.5; embedded `man-hour`.
+- **manic-depressive psychosis** — PDF p. 264, printed p. 263; Persian OCR confidence 18.9; head confidence 92.6; embedded `manic-depressive psychosis`.
+- **Manlchaeanlsm** — PDF p. 264, printed p. 263; Persian OCR confidence 0.0; head confidence 83.8; embedded `Manlchaeanlsm = Manichaeism`.
+- **Manichean** — PDF p. 264, printed p. 263; Persian OCR confidence 0.0; head confidence 88.7; embedded `Manichean = Manichaean`.
+- **Manichee Manichaean** — PDF p. 264, printed p. 263; Persian OCR confidence 0.0; head confidence 91.9; embedded `Manlchee Manlchaean`.
+- **manifold of appearance** — PDF p. 265, printed p. 264; Persian OCR confidence 40.4; head confidence 89.2; embedded `manifold of appearance`.
+- **Manipulator cuss** — PDF p. 265, printed p. 264; Persian OCR confidence 36.1; head confidence 65.8; embedded `manipulator ..:........:, ;;`.
+- **manipulatory** — PDF p. 265, printed p. 264; Persian OCR confidence 0.0; head confidence 93.6; embedded `manipulatory = manipulatlve`.
+- **manlike** — PDF p. 265, printed p. 264; Persian OCR confidence 41.4; head confidence 34.0; embedded `manlike`.
+- **manliness** — PDF p. 265, printed p. 264; Persian OCR confidence 41.8; head confidence 80.4; embedded `manliness`.
+- **mannerist** — PDF p. 265, printed p. 264; Persian OCR confidence 74.6; head confidence 13.0; embedded `mannerist`.
+- **Mannerliness** — PDF p. 265, printed p. 264; Persian OCR confidence 0.0; head confidence 71.6; embedded `mannerliness`.
+- **Manoeuvre maneuver** — PDF p. 265, printed p. 264; Persian OCR confidence 0.0; head confidence 86.5; embedded `manoeuvre maneuver`.
+- **manpower** — PDF p. 265, printed p. 264; Persian OCR confidence 91.4; head confidence 36.9; embedded `manpower`.
+- **mansion** — PDF p. 265, printed p. 264; Persian OCR confidence 89.3; head confidence 31.2; embedded `mansion`.
+- **manslaughter** — PDF p. 265, printed p. 264; Persian OCR confidence 31.3; head confidence 0.0; embedded `manslaughter`.
+- **mansiayer** — PDF p. 265, printed p. 264; Persian OCR confidence 27.2; head confidence 52.3; embedded `manslayer`.
+- **manuallsm** — PDF p. 265, printed p. 264; Persian OCR confidence 74.1; head confidence 0.0; embedded `manuallsm`.
+- **manufactory** — PDF p. 266, printed p. 265; Persian OCR confidence 54.3; head confidence 96.2; embedded `manufactory`.
+- **many-vaiued logic** — PDF p. 266, printed p. 265; Persian OCR confidence 45.4; head confidence 94.5; embedded `many-valued logic`.
+- **marabout (Ar.)** — PDF p. 266, printed p. 265; Persian OCR confidence 3.3; head confidence 92.4; embedded `marabout (Ar.)`.
+- **marginality** — PDF p. 266, printed p. 265; Persian OCR confidence 51.5; head confidence 66.2; embedded `marginality`.
+- **marginal production** — PDF p. 266, printed p. 265; Persian OCR confidence 54.7; head confidence 96.2; embedded `marginal production`.
+- **marital continence** — PDF p. 267, printed p. 266; Persian OCR confidence 0.0; head confidence 92.2; embedded `marital contlnence=marital abstinence`.
+- **market research** — PDF p. 267, printed p. 266; Persian OCR confidence 39.4; head confidence 96.1; embedded `market research`.
+- **marriage by capture** — PDF p. 267, printed p. 266; Persian OCR confidence 45.4; head confidence 91.5; embedded `marriage by capture`.
+- **marriage by exchange** — PDF p. 267, printed p. 266; Persian OCR confidence 39.2; head confidence 86.4; embedded `marriage by exchange`.
+- **marriage by purchase** — PDF p. 267, printed p. 266; Persian OCR confidence 13.2; head confidence 93.4; embedded `marriage by purchase`.
+- **marriage payment** — PDF p. 267, printed p. 266; Persian OCR confidence 42.3; head confidence 92.0; embedded `marriage payment`.
+- **marshal** — PDF p. 267, printed p. 266; Persian OCR confidence 59.8; head confidence 24.5; embedded `marshal`.
+- **martiallst** — PDF p. 267, printed p. 266; Persian OCR confidence 84.0; head confidence 36.8; embedded `martiallst`.
+- **martial law** — PDF p. 267, printed p. 266; Persian OCR confidence 0.0; head confidence 86.2; embedded `martial law`.
+- **Martian** — PDF p. 267, printed p. 266; Persian OCR confidence 0.0; head confidence 84.2; embedded `Martian`.
+- **martyr** — PDF p. 267, printed p. 266; Persian OCR confidence 0.0; head confidence 77.4; embedded `martyr`.
+- **martyrdom** — PDF p. 267, printed p. 266; Persian OCR confidence 0.0; head confidence 45.1; embedded `martyrdom`.
+- **Marxism-Leninism** — PDF p. 268, printed p. 267; Persian OCR confidence 53.1; head confidence 96.1; embedded `Marxism-Leninism`.
+- **Marxologist** — PDF p. 268, printed p. 267; Persian OCR confidence 8.5; head confidence 91.8; embedded `Marxologist`.
+- **Maryology Mariology** — PDF p. 268, printed p. 267; Persian OCR confidence 0.0; head confidence 92.5; embedded `Maryology Mariology`.
+- **masculineness** — PDF p. 268, printed p. 267; Persian OCR confidence 0.0; head confidence 94.3; embedded `masculineness = masculinity`.
+- **masculinized** — PDF p. 268, printed p. 267; Persian OCR confidence 45.5; head confidence 92.2; embedded `masculinlzed`.
+- **masquerader** — PDF p. 268, printed p. 267; Persian OCR confidence 41.1; head confidence 92.5; embedded `masquerader`.
+- **mass** — PDF p. 268, printed p. 267; Persian OCR confidence 62.2; head confidence 23.8; embedded `mass`.
+- **Mass; mass”** — PDF p. 268, printed p. 267; Persian OCR confidence 0.0; head confidence 71.4; embedded `Mass; mass`.
+- **massacre** — PDF p. 268, printed p. 267; Persian OCR confidence 0.0; head confidence 76.4; embedded `massacre`.
+- **mass art** — PDF p. 268, printed p. 267; Persian OCR confidence 0.0; head confidence 93.9; embedded `mass art`.
+- **masscult** — PDF p. 268, printed p. 267; Persian OCR confidence 48.5; head confidence 63.2; embedded `masscult`.
+- **mass market** — PDF p. 268, printed p. 267; Persian OCR confidence 46.3; head confidence 95.1; embedded `mass market`.
+- **mass movement** — PDF p. 268, printed p. 267; Persian OCR confidence 17.2; head confidence 73.6; embedded `mass movement`.
+- **mastabah** — PDF p. 268, printed p. 267; Persian OCR confidence 0.0; head confidence 81.2; embedded `mastabah = mastaba`.
+- **masterful** — PDF p. 269, printed p. 268; Persian OCR confidence 65.5; head confidence 27.6; embedded `masterful`.
+- **masturbation** — PDF p. 269, printed p. 268; Persian OCR confidence 25.4; head confidence 96.3; embedded `masturbation`.
+- **matching** — PDF p. 269, printed p. 268; Persian OCR confidence 80.9; head confidence 30.2; embedded `matching`.
+- **material cause** — PDF p. 269, printed p. 268; Persian OCR confidence 33.1; head confidence 96.2; embedded `material cause`.
+- **material form** — PDF p. 269, printed p. 268; Persian OCR confidence 50.1; head confidence 92.0; embedded `material form`.
+- **material goods** — PDF p. 269, printed p. 268; Persian OCR confidence 52.5; head confidence 64.5; embedded `material goods`.
+- **material-intensive** — PDF p. 269, printed p. 268; Persian OCR confidence 38.9; head confidence 42.6; embedded `material-intensive`.
+- **materializer** — PDF p. 269, printed p. 268; Persian OCR confidence 88.8; head confidence 35.5; embedded `materializer`.
+- **materlalness** — PDF p. 269, printed p. 268; Persian OCR confidence 0.0; head confidence 37.7; embedded `materlalness`.
+- **material substructure** — PDF p. 269, printed p. 268; Persian OCR confidence 0.0; head confidence 74.8; embedded `materlal substructure`.
+- **materiel; matériel (Fr.)** — PDF p. 270, printed p. 269; Persian OCR confidence 41.0; head confidence 93.4; embedded `materiel; materiel (Fr.)`.
+- **mathematical** — PDF p. 270, printed p. 269; Persian OCR confidence 44.8; head confidence 96.4; embedded `mathematical`.
+- **mathematical model** — PDF p. 270, printed p. 269; Persian OCR confidence 53.8; head confidence 96.2; embedded `mathematical model`.
+- **mating** — PDF p. 270, printed p. 269; Persian OCR confidence 39.0; head confidence 96.3; embedded `mating`.
+- **matricidal** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 92.5; embedded `matricidal`.
+- **matricide** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 92.7; embedded `matricide`.
+- **matriclinous** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 92.2; embedded `matriclinous`.
+- **matrilateral** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 93.0; embedded `matrllateral`.
+- **matrilineal** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 96.1; embedded `matrilineal`.
+- **matrillnear** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 94.9; embedded `matrillnear = matrilineal`.
+- **matrimoiety** — PDF p. 270, printed p. 269; Persian OCR confidence 46.0; head confidence 74.6; embedded `matrimoiety`.
+- **matroclinous matriclinous** — PDF p. 270, printed p. 269; Persian OCR confidence 27.3; head confidence 77.7; embedded `matroclinous matriclinous`.
+- **maturation** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 89.8; embedded `maturation`.
+- **mature** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 96.4; embedded `mature`.
+- **maturity** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 79.3; embedded `maturity`.
+- **mausolean** — PDF p. 270, printed p. 269; Persian OCR confidence 0.0; head confidence 92.4; embedded `mausolean`.
+- **mausoleum** — PDF p. 270, printed p. 269; Persian OCR confidence 74.4; head confidence 17.0; embedded `mausoleum`.
+- **maximal** — PDF p. 270, printed p. 269; Persian OCR confidence 13.3; head confidence 57.6; embedded `maximal`.
+- **maximalism** — PDF p. 270, printed p. 269; Persian OCR confidence 73.2; head confidence 29.6; embedded `maximalism`.
+- **maxlmalist** — PDF p. 270, printed p. 269; Persian OCR confidence 44.4; head confidence 31.2; embedded `maxlmalist`.
+- **maximand** — PDF p. 270, printed p. 269; Persian OCR confidence 26.0; head confidence 92.2; embedded `maximand`.
+- **mayhem** — PDF p. 270, printed p. 269; Persian OCR confidence 36.9; head confidence 95.8; embedded `mayhem`.
+- **Mazdaism** — PDF p. 271, printed p. 270; Persian OCR confidence 31.1; head confidence 92.3; embedded `Mazdalsm`.
+- **Mazdaist** — PDF p. 271, printed p. 270; Persian OCR confidence 0.0; head confidence 92.7; embedded `Mazdaist`.
+- **Mazdakism** — PDF p. 271, printed p. 270; Persian OCR confidence 0.0; head confidence 90.5; embedded `Mazdakism`.
+- **Mazdakist** — PDF p. 271, printed p. 270; Persian OCR confidence 0.0; head confidence 90.7; embedded `Mazdakist`.
+- **Mazdean** — PDF p. 271, printed p. 270; Persian OCR confidence 0.0; head confidence 92.8; embedded `Mazdean`.
+- **Mazdeism** — PDF p. 271, printed p. 270; Persian OCR confidence 0.0; head confidence 92.0; embedded `Mazdeism = Mazdaism`.
+- **McCarthyist** — PDF p. 271, printed p. 270; Persian OCR confidence 42.4; head confidence 91.4; embedded `McCarthylst`.
+- **mean** — PDF p. 271, printed p. 270; Persian OCR confidence 77.9; head confidence 41.9; embedded `mean`.
+- **mean age** — PDF p. 271, printed p. 270; Persian OCR confidence 48.8; head confidence 96.1; embedded `mean age`.
+- **mean error** — PDF p. 271, printed p. 270; Persian OCR confidence 50.6; head confidence 95.9; embedded `mean error`.
+- **mean income** — PDF p. 271, printed p. 270; Persian OCR confidence 42.5; head confidence 96.2; embedded `mean Income`.
+- **meaning analysis** — PDF p. 271, printed p. 270; Persian OCR confidence 47.2; head confidence 82.4; embedded `meaning analysis`.
+- **meaningful** — PDF p. 271, printed p. 270; Persian OCR confidence 40.1; head confidence 95.3; embedded `meaningful`.
+- **meaningless** — PDF p. 271, printed p. 270; Persian OCR confidence 41.0; head confidence 96.6; embedded `meaningless`.
+- **measurement** — PDF p. 271, printed p. 270; Persian OCR confidence 90.9; head confidence 40.2; embedded `measurement`.
+- **mechanical** — PDF p. 271, printed p. 270; Persian OCR confidence 74.8; head confidence 24.5; embedded `mechanical`.
+- **mechanician** — PDF p. 271, printed p. 270; Persian OCR confidence 15.6; head confidence 92.7; embedded `mechanician`.
+- **medal** — PDF p. 272, printed p. 271; Persian OCR confidence 46.4; head confidence 96.6; embedded `medal`.
+- **mediaeval medieval** — PDF p. 272, printed p. 271; Persian OCR confidence 0.0; head confidence 96.5; embedded `mediaeval medieval`.
+- **mediaevalism medievalism** — PDF p. 272, printed p. 271; Persian OCR confidence 0.0; head confidence 92.1; embedded `mediaevalism medievalism`.
+- **mediaevalist** — PDF p. 272, printed p. 271; Persian OCR confidence 0.0; head confidence 91.7; embedded `mediaevalist =`.
+- **mediated** — PDF p. 272, printed p. 271; Persian OCR confidence 27.4; head confidence 96.8; embedded `mediated`.
+- **mediational** — PDF p. 272, printed p. 271; Persian OCR confidence 51.7; head confidence 91.6; embedded `mediational`.
+- **medical** — PDF p. 272, printed p. 271; Persian OCR confidence 32.4; head confidence 96.5; embedded `medical`.
+- **medical care** — PDF p. 272, printed p. 271; Persian OCR confidence 53.7; head confidence 84.0; embedded `medical care`.
+- **medical service** — PDF p. 272, printed p. 271; Persian OCR confidence 8.1; head confidence 96.8; embedded `medical service`.
+- **medication** — PDF p. 272, printed p. 271; Persian OCR confidence 54.8; head confidence 75.4; embedded `medication`.
+- **medicolegal** — PDF p. 272, printed p. 271; Persian OCR confidence 42.7; head confidence 84.8; embedded `medicolegal`.
+- **medieval ages** — PDF p. 272, printed p. 271; Persian OCR confidence 40.6; head confidence 89.4; embedded `medieval ages`.
+- **Medieval Centuries** — PDF p. 272, printed p. 271; Persian OCR confidence 54.5; head confidence 95.7; embedded `Medieval Centuries`.
+- **mediocracy** — PDF p. 272, printed p. 271; Persian OCR confidence 51.2; head confidence 85.9; embedded `mediocracy`.
+- **medium of exchange** — PDF p. 273, printed p. 272; Persian OCR confidence 28.8; head confidence 96.3; embedded `medium of exchange`.
+- **megalith** — PDF p. 273, printed p. 272; Persian OCR confidence 32.2; head confidence 91.4; embedded `megalith`.
+- **megalomania** — PDF p. 273, printed p. 272; Persian OCR confidence 28.0; head confidence 90.9; embedded `megalomania`.
+- **megapolls** — PDF p. 273, printed p. 272; Persian OCR confidence 0.0; head confidence 94.3; embedded `megapolls = megalopolis`.
+- **meliorist** — PDF p. 273, printed p. 272; Persian OCR confidence 41.5; head confidence 92.7; embedded `meliorist`.
+- **melioristic** — PDF p. 273, printed p. 272; Persian OCR confidence 51.6; head confidence 91.1; embedded `melioristic`.
+- **melodlous** — PDF p. 273, printed p. 272; Persian OCR confidence 0.0; head confidence 95.1; embedded `melodlous = melodic`.
+- **melodramatic** — PDF p. 273, printed p. 272; Persian OCR confidence 43.0; head confidence 96.5; embedded `melodramatic`.
+- **melodramatist** — PDF p. 273, printed p. 272; Persian OCR confidence 48.2; head confidence 92.6; embedded `melodramatlst`.
+- **melody** — PDF p. 273, printed p. 272; Persian OCR confidence 0.0; head confidence 95.5; embedded `melody`.
+- **melting-pot** — PDF p. 273, printed p. 272; Persian OCR confidence 47.4; head confidence 75.5; embedded `melting-pot`.
+- **member** — PDF p. 273, printed p. 272; Persian OCR confidence 78.5; head confidence 20.5; embedded `member`.
+- **membership group** — PDF p. 273, printed p. 272; Persian OCR confidence 44.6; head confidence 94.5; embedded `membership group`.
+- **Memorialist** — PDF p. 273, printed p. 272; Persian OCR confidence 50.0; head confidence 68.7; embedded `memorialist`.
+- **memorializatlon** — PDF p. 273, printed p. 272; Persian OCR confidence 82.3; head confidence 3.2; embedded `memorializatlon`.
+- **menagerie** — PDF p. 273, printed p. 272; Persian OCR confidence 39.2; head confidence 96.7; embedded `menagerie`.
+- **mendicancy** — PDF p. 273, printed p. 272; Persian OCR confidence 53.1; head confidence 92.5; embedded `mendicancy`.
+- **mendicant .r** — PDF p. 274, printed p. 273; Persian OCR confidence 78.0; head confidence 38.8; embedded `mendicant .r`.
+- **mendicity** — PDF p. 274, printed p. 273; Persian OCR confidence 41.1; head confidence 92.0; embedded `mendicity`.
+- **menhir** — PDF p. 274, printed p. 273; Persian OCR confidence 46.8; head confidence 92.7; embedded `menhir`.
+- **menial employee** — PDF p. 274, printed p. 273; Persian OCR confidence 33.9; head confidence 96.2; embedded `menial employee`.
+- **menopause** — PDF p. 274, printed p. 273; Persian OCR confidence 23.3; head confidence 96.1; embedded `menopause`.
+- **mental automation** — PDF p. 274, printed p. 273; Persian OCR confidence 53.3; head confidence 95.9; embedded `mental automation`.
+- **menta! contagion** — PDF p. 274, printed p. 273; Persian OCR confidence 46.9; head confidence 94.3; embedded `mental contagion`.
+- **mental growth** — PDF p. 274, printed p. 273; Persian OCR confidence 45.0; head confidence 89.8; embedded `mental growth`.
+- **mental mechanism** — PDF p. 274, printed p. 273; Persian OCR confidence 46.1; head confidence 88.5; embedded `mental mechanism`.
+- **mental need** — PDF p. 274, printed p. 273; Persian OCR confidence 50.2; head confidence 91.4; embedded `mental need`.
+- **mental test** — PDF p. 274, printed p. 273; Persian OCR confidence 42.8; head confidence 88.8; embedded `mental test`.
+- **menticide** — PDF p. 274, printed p. 273; Persian OCR confidence 51.5; head confidence 91.9; embedded `menticide`.
+- **Mephistophelean** — PDF p. 274, printed p. 273; Persian OCR confidence 0.0; head confidence 85.8; embedded `Mephistophelean = Mephistophelian`.
+- **mercenariness** — PDF p. 275, printed p. 274; Persian OCR confidence 52.5; head confidence 44.4; embedded `mercenariness`.
+- **merchantalization** — PDF p. 275, printed p. 274; Persian OCR confidence 47.3; head confidence 92.3; embedded `merchantallzatlon`.
+- **merging** — PDF p. 275, printed p. 274; Persian OCR confidence 41.6; head confidence 96.3; embedded `merging`.
+- **meridional** — PDF p. 275, printed p. 274; Persian OCR confidence 70.7; head confidence 96.8; embedded `merldlonal`.
+- **meritocracy** — PDF p. 275, printed p. 274; Persian OCR confidence 42.8; head confidence 65.1; embedded `meritocracy`.
+- **mesmeric** — PDF p. 275, printed p. 274; Persian OCR confidence 86.3; head confidence 0.0; embedded `mesmeric`.
+- **mesomorph** — PDF p. 275, printed p. 274; Persian OCR confidence 81.2; head confidence 33.7; embedded `mesomorph`.
+- **message** — PDF p. 275, printed p. 274; Persian OCR confidence 72.6; head confidence 34.2; embedded `message`.
+- **mestizo** — PDF p. 275, printed p. 274; Persian OCR confidence 0.0; head confidence 61.0; embedded `mestizo`.
+- **metaanthropology** — PDF p. 275, printed p. 274; Persian OCR confidence 0.0; head confidence 78.2; embedded `metaanthropology`.
+- **metabiology** — PDF p. 275, printed p. 274; Persian OCR confidence 0.0; head confidence 73.7; embedded `metabiology`.
+- **metabolism** — PDF p. 275, printed p. 274; Persian OCR confidence 0.0; head confidence 90.8; embedded `metabolism`.
+- **metacognition** — PDF p. 275, printed p. 274; Persian OCR confidence 0.0; head confidence 83.2; embedded `metacognition`.
+- **metacognitive** — PDF p. 275, printed p. 274; Persian OCR confidence 0.0; head confidence 72.8; embedded `metacognltlve`.
+- **metacritique** — PDF p. 275, printed p. 274; Persian OCR confidence 0.0; head confidence 71.6; embedded `metacritlque`.
+- **metaculture** — PDF p. 275, printed p. 274; Persian OCR confidence 0.0; head confidence 49.2; embedded `metaculture`.
+- **metadiscipline** — PDF p. 276, printed p. 275; Persian OCR confidence 8.1; head confidence 92.4; embedded `metadiscipline`.
+- **metadiscourse** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 91.8; embedded `metadiscourse`.
+- **metaethical** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 92.3; embedded `metaethical`.
+- **metaethics** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 92.7; embedded `metaethics`.
+- **metafiction** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 91.6; embedded `metafiction`.
+- **metafictional** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 92.1; embedded `metafictional`.
+- **metafunction** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 92.8; embedded `metafunction`.
+- **metahistorical** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 91.7; embedded `metahistorical`.
+- **metahistory** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 91.3; embedded `meta history`.
+- **metalanguage** — PDF p. 276, printed p. 275; Persian OCR confidence 9.3; head confidence 92.2; embedded `metalanguage`.
+- **metalingual** — PDF p. 276, printed p. 275; Persian OCR confidence 18.3; head confidence 92.4; embedded `metalingual`.
+- **metalinguistics** — PDF p. 276, printed p. 275; Persian OCR confidence 18.8; head confidence 91.0; embedded `metalinguistics`.
+- **metalogic** — PDF p. 276, printed p. 275; Persian OCR confidence 41.1; head confidence 91.5; embedded `metalogic`.
+- **metalogical** — PDF p. 276, printed p. 275; Persian OCR confidence 31.2; head confidence 92.7; embedded `metalogical`.
+- **metalwork** — PDF p. 276, printed p. 275; Persian OCR confidence 29.1; head confidence 96.1; embedded `metalwork`.
+- **metanarrative** — PDF p. 276, printed p. 275; Persian OCR confidence 38.4; head confidence 96.7; embedded `metanarrative`.
+- **metaneeds** — PDF p. 276, printed p. 275; Persian OCR confidence 34.6; head confidence 91.1; embedded `meta needs`.
+- **metaphenomenal** — PDF p. 276, printed p. 275; Persian OCR confidence 37.1; head confidence 92.1; embedded `metaphenomenal`.
+- **metaphilosophy** — PDF p. 276, printed p. 275; Persian OCR confidence 36.0; head confidence 92.4; embedded `meta philosophy`.
+- **metaphoric(-al)** — PDF p. 276, printed p. 275; Persian OCR confidence 45.8; head confidence 92.1; embedded `metaphoric(-al)`.
+- **metaphysical animal** — PDF p. 276, printed p. 275; Persian OCR confidence 41.6; head confidence 96.4; embedded `metaphysical animal`.
+- **metapolitics** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 90.2; embedded `metapolitics`.
+- **metapsychic** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 92.3; embedded `meta psychic`.
+- **metapsychoanalysis** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 4.0; embedded `metapsychoanalysis`.
+- **metapsychology** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 17.9; embedded `metapsychology`.
+- **metascience** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 1.8; embedded `metascience`.
+- **metascientific** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 61.0; embedded `metascientific`.
+- **metasign** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 63.4; embedded `metasign`.
+- **metasociology** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 22.2; embedded `metasociology`.
+- **metatext** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 42.6; embedded `metatext`.
+- **metatextual** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 68.6; embedded `metatextual`.
+- **metatheorem** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 51.6; embedded `metatheorem`.
+- **metatheoretical** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 82.8; embedded `metatheoretical`.
+- **metatheory** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 84.2; embedded `metatheory`.
+- **metempirical** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 0.0; embedded `metempirical`.
+- **metempiricism** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 73.5; embedded `metempiricism`.
+- **metempiricist** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 68.7; embedded `metempiricist`.
+- **metempirics** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 69.1; embedded `metempirics`.
+- **metempsychosis** — PDF p. 276, printed p. 275; Persian OCR confidence 0.0; head confidence 46.6; embedded `metempsychosis`.
+- **methodic(-al)** — PDF p. 276, printed p. 275; Persian OCR confidence 63.8; head confidence 26.9; embedded `methodic(-al)`.
+- **methodical doubt** — PDF p. 276, printed p. 275; Persian OCR confidence 53.8; head confidence 94.4; embedded `methodical doubt`.
+- **methodicalness** — PDF p. 276, printed p. 275; Persian OCR confidence 90.8; head confidence 0.0; embedded `methodicalness`.
+- **methodologism** — PDF p. 277, printed p. 276; Persian OCR confidence 53.0; head confidence 90.8; embedded `methodologlsm`.
+- **methodologist** — PDF p. 277, printed p. 276; Persian OCR confidence 0.0; head confidence 92.9; embedded `methodologist`.
+- **methodology** — PDF p. 277, printed p. 276; Persian OCR confidence 0.0; head confidence 96.7; embedded `methodology`.
+- **meticulous** — PDF p. 277, printed p. 276; Persian OCR confidence 0.0; head confidence 96.6; embedded `metlculous`.
+- **metonym** — PDF p. 277, printed p. 276; Persian OCR confidence 0.0; head confidence 91.6; embedded `metonym`.
+- **metonymic(-al)** — PDF p. 277, printed p. 276; Persian OCR confidence 0.0; head confidence 86.0; embedded `metonymic(-al)`.
+- **metonymy** — PDF p. 277, printed p. 276; Persian OCR confidence 0.0; head confidence 92.0; embedded `metonymy`.
+- **metronymlc** — PDF p. 277, printed p. 276; Persian OCR confidence 0.0; head confidence 91.1; embedded `metronymlc =`.
+- **metropolitical** — PDF p. 277, printed p. 276; Persian OCR confidence 49.0; head confidence 89.2; embedded `metropolitlcal`.
+- **microcosmic(-al)** — PDF p. 277, printed p. 276; Persian OCR confidence 17.6; head confidence 91.6; embedded `mlcrocosmlc(-al)`.
+- **micrography** — PDF p. 277, printed p. 276; Persian OCR confidence 49.4; head confidence 92.8; embedded `micrography`.
+- **microtom** — PDF p. 277, printed p. 276; Persian OCR confidence 27.4; head confidence 92.1; embedded `mlcrotom`.
+- **middie** — PDF p. 277, printed p. 276; Persian OCR confidence 47.2; head confidence 82.8; embedded `mlddle`.
+- **middleman** — PDF p. 277, printed p. 276; Persian OCR confidence 86.0; head confidence 43.8; embedded `middleman`.
+- **mlgrator** — PDF p. 277, printed p. 276; Persian OCR confidence 89.8; head confidence 42.6; embedded `mlgrator`.
+- **milestone** — PDF p. 277, printed p. 276; Persian OCR confidence 66.6; head confidence 44.7; embedded `milestone`.
+- **militancy** — PDF p. 277, printed p. 276; Persian OCR confidence 0.0; head confidence 82.3; embedded `militancy`.
+- **militarism** — PDF p. 277, printed p. 276; Persian OCR confidence 71.7; head confidence 57.1; embedded `milltarlsm`.
+- **militarist** — PDF p. 277, printed p. 276; Persian OCR confidence 42.5; head confidence 46.0; embedded `mllltarlst`.
+- **milltarlstlc** — PDF p. 277, printed p. 276; Persian OCR confidence 71.4; head confidence 44.0; embedded `milltarlstlc`.
+- **militarization** — PDF p. 277, printed p. 276; Persian OCR confidence 78.1; head confidence 79.0; embedded `mllltarlzatlon`.
+- **military advisor** — PDF p. 277, printed p. 276; Persian OCR confidence 45.7; head confidence 86.3; embedded `military advisor`.
+- **military-industrial complex** — PDF p. 278, printed p. 277; Persian OCR confidence 35.5; head confidence 93.6; embedded `military-industrial complex`.
+- **military organization** — PDF p. 278, printed p. 277; Persian OCR confidence 46.3; head confidence 96.5; embedded `military organization`.
+- **military service** — PDF p. 278, printed p. 277; Persian OCR confidence 39.0; head confidence 96.8; embedded `military service`.
+- **mimic** — PDF p. 278, printed p. 277; Persian OCR confidence 53.9; head confidence 95.8; embedded `mimic`.
+- **mind** — PDF p. 278, printed p. 277; Persian OCR confidence 77.0; head confidence 23.0; embedded `mind`.
+- **mind-dependent** — PDF p. 278, printed p. 277; Persian OCR confidence 64.3; head confidence 42.5; embedded `mind-dependent`.
+- **mind process** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 80.5; embedded `mind process`.
+- **mind reader** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 82.5; embedded `mind reader`.
+- **mind reading** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 87.5; embedded `mind reading`.
+- **mindset** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 95.5; embedded `mindset`.
+- **mind-space** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 58.9; embedded `mind-space`.
+- **mindwork** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 81.3; embedded `mindwork`.
+- **mindworker** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 67.3; embedded `mindworker`.
+- **miner** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 56.2; embedded `miner`.
+- **mineral(s)** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 55.8; embedded `mineral(s)`.
+- **mineral kingdom** — PDF p. 278, printed p. 277; Persian OCR confidence 34.7; head confidence 92.6; embedded `mineral kingdom`.
+- **miniature** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 84.3; embedded `miniature`.
+- **miniaturist** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 51.3; embedded `miniaturist`.
+- **minifundlum** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 17.2; embedded `minifundlum`.
+- **minimal** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 56.9; embedded `minimal`.
+- **minimal art** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 93.2; embedded `minimal art`.
+- **minimal artist** — PDF p. 278, printed p. 277; Persian OCR confidence 0.0; head confidence 93.7; embedded `minimal artist`.
+- **minimum wage** — PDF p. 278, printed p. 277; Persian OCR confidence 13.8; head confidence 83.0; embedded `minimum wage`.
+- **minister** — PDF p. 278, printed p. 277; Persian OCR confidence 38.3; head confidence 73.4; embedded `minister`.
+- **minor arts** — PDF p. 279, printed p. 278; Persian OCR confidence 6.5; head confidence 96.5; embedded `minor arts`.
+- **minor term** — PDF p. 279, printed p. 278; Persian OCR confidence 0.0; head confidence 96.6; embedded `minor term`.
+- **mint** — PDF p. 279, printed p. 278; Persian OCR confidence 34.2; head confidence 96.3; embedded `mint`.
+- **miraculous** — PDF p. 279, printed p. 278; Persian OCR confidence 28.6; head confidence 96.7; embedded `mlraculous`.
+- **misanthrope** — PDF p. 279, printed p. 278; Persian OCR confidence 0.0; head confidence 65.5; embedded `misanthrope`.
+- **misanthropic** — PDF p. 279, printed p. 278; Persian OCR confidence 0.0; head confidence 68.3; embedded `misanthropic`.
+- **misanthropy** — PDF p. 279, printed p. 278; Persian OCR confidence 50.8; head confidence 56.1; embedded `misanthropy`.
+- **misconception** — PDF p. 279, printed p. 278; Persian OCR confidence 8.6; head confidence 96.3; embedded `misconception`.
+- **misdeed** — PDF p. 279, printed p. 278; Persian OCR confidence 91.9; head confidence 6.1; embedded `misdeed`.
+- **misdemeanant** — PDF p. 279, printed p. 278; Persian OCR confidence 28.2; head confidence 64.4; embedded `misdemeanant`.
+- **misery** — PDF p. 279, printed p. 278; Persian OCR confidence 0.0; head confidence 67.8; embedded `misery`.
+- **misfortune** — PDF p. 279, printed p. 278; Persian OCR confidence 0.0; head confidence 86.5; embedded `misfortune`.
+- **~** — PDF p. 279, printed p. 278; Persian OCR confidence 9.7; head confidence 50.5; embedded `misgovernment`.
+- **misinformation** — PDF p. 279, printed p. 278; Persian OCR confidence 39.2; head confidence 71.6; embedded `misinformation`.
+- **misinterpretation** — PDF p. 279, printed p. 278; Persian OCR confidence 69.3; head confidence 32.4; embedded `misinterpretation`.
+- **mismanagement** — PDF p. 279, printed p. 278; Persian OCR confidence 42.1; head confidence 90.0; embedded `mismanagement`.
+- **misogamy** — PDF p. 279, printed p. 278; Persian OCR confidence 8.0; head confidence 52.3; embedded `misogamy`.
+- **misoneism** — PDF p. 279, printed p. 278; Persian OCR confidence 49.8; head confidence 56.7; embedded `mlsonelsm`.
+- **misperception** — PDF p. 279, printed p. 278; Persian OCR confidence 54.4; head confidence 89.9; embedded `mlsperception`.
+- **misunderstanding** — PDF p. 280, printed p. 279; Persian OCR confidence 27.2; head confidence 96.5; embedded `misunderstanding`.
+- **Mithraist** — PDF p. 280, printed p. 279; Persian OCR confidence 43.6; head confidence 93.2; embedded `Mithra 1st`.
+- **mixed** — PDF p. 280, printed p. 279; Persian OCR confidence 38.9; head confidence 96.4; embedded `mixed`.
+- **mixed economy** — PDF p. 280, printed p. 279; Persian OCR confidence 47.4; head confidence 89.9; embedded `mixed economy`.
+- **mixture** — PDF p. 280, printed p. 279; Persian OCR confidence 54.2; head confidence 96.8; embedded `mixture`.
+- **mnemotechnic mnemonic** — PDF p. 280, printed p. 279; Persian OCR confidence 0.0; head confidence 94.1; embedded `mnemotechnic mnemonic`.
+- **mnemotechnlcs** — PDF p. 280, printed p. 279; Persian OCR confidence 0.0; head confidence 94.1; embedded `mnemotechnlcs = mnemonics`.
+- **mobile** — PDF p. 280, printed p. 279; Persian OCR confidence 43.8; head confidence 96.3; embedded `mobile`.
+- **mobile sculpture** — PDF p. 280, printed p. 279; Persian OCR confidence 0.0; head confidence 86.4; embedded `mobile sculpture`.
+- **mobility** — PDF p. 280, printed p. 279; Persian OCR confidence 0.0; head confidence 72.9; embedded `mobility`.
+- **mobilization** — PDF p. 280, printed p. 279; Persian OCR confidence 0.0; head confidence 82.7; embedded `mobilization`.
+- **mob mind** — PDF p. 280, printed p. 279; Persian OCR confidence 0.0; head confidence 93.2; embedded `mob mind`.
+- **mob mindedness** — PDF p. 280, printed p. 279; Persian OCR confidence 42.8; head confidence 76.5; embedded `mob mindedness`.
+- **mobocracy** — PDF p. 280, printed p. 279; Persian OCR confidence 67.0; head confidence 5.9; embedded `mobocracy`.
+- **mobocratlc** — PDF p. 280, printed p. 279; Persian OCR confidence 81.8; head confidence 8.2; embedded `mobocratlc`.
+- **modalistic** — PDF p. 280, printed p. 279; Persian OCR confidence 39.2; head confidence 70.6; embedded `modallstlc`.
+- **modal logic** — PDF p. 280, printed p. 279; Persian OCR confidence 3.6; head confidence 94.7; embedded `modal loglc`.
+- **model building** — PDF p. 280, printed p. 279; Persian OCR confidence 4.0; head confidence 94.9; embedded `model building`.
+- **modelling** — PDF p. 280, printed p. 279; Persian OCR confidence 14.6; head confidence 80.4; embedded `modelling`.
+- **model personality** — PDF p. 280, printed p. 279; Persian OCR confidence 20.1; head confidence 77.8; embedded `model personality`.
+- **modernism** — PDF p. 280, printed p. 279; Persian OCR confidence 45.4; head confidence 83.9; embedded `modernism`.
+- **modern sector** — PDF p. 281, printed p. 280; Persian OCR confidence 50.7; head confidence 96.8; embedded `modern sector`.
+- **modifiable** — PDF p. 281, printed p. 280; Persian OCR confidence 77.9; head confidence 96.5; embedded `modlflable`.
+- **modificative modificatory** — PDF p. 281, printed p. 280; Persian OCR confidence 0.0; head confidence 90.2; embedded `modificative modificatory`.
+- **modified** — PDF p. 281, printed p. 280; Persian OCR confidence 41.4; head confidence 96.2; embedded `modified`.
+- **modus inteiligendi (L.)** — PDF p. 281, printed p. 280; Persian OCR confidence 46.8; head confidence 86.7; embedded `modus lntelllgendi (L.)`.
+- **Moghul** — PDF p. 281, printed p. 280; Persian OCR confidence 0.0; head confidence 95.9; embedded `Moghul = Mogul`.
+- **molester** — PDF p. 281, printed p. 280; Persian OCR confidence 41.1; head confidence 71.9; embedded `molester`.
+- **momentum (L.)** — PDF p. 281, printed p. 280; Persian OCR confidence 80.5; head confidence 15.3; embedded `momentum (L.)`.
+- **monad** — PDF p. 281, printed p. 280; Persian OCR confidence 90.6; head confidence 0.0; embedded `monad`.
+- **monadist** — PDF p. 281, printed p. 280; Persian OCR confidence 84.2; head confidence 44.3; embedded `monadist`.
+- **monandry** — PDF p. 281, printed p. 280; Persian OCR confidence 89.4; head confidence 11.8; embedded `monandry`.
+- **monarchal monarchic** — PDF p. 281, printed p. 280; Persian OCR confidence 0.0; head confidence 79.5; embedded `monarchal monarchic`.
+- **monarchlal** — PDF p. 281, printed p. 280; Persian OCR confidence 0.0; head confidence 63.2; embedded `monarchlal = monarchic`.
+- **monarchlan ;** — PDF p. 281, printed p. 280; Persian OCR confidence 88.1; head confidence 23.4; embedded `monarchlan ;`.
+- **monarchism** — PDF p. 281, printed p. 280; Persian OCR confidence 52.3; head confidence 92.6; embedded `monarchtsm`.
+- **monarchist** — PDF p. 281, printed p. 280; Persian OCR confidence 47.2; head confidence 96.9; embedded `monarchist`.
+- **monastery** — PDF p. 281, printed p. 280; Persian OCR confidence 46.2; head confidence 8.5; embedded `monastery`.
+- **monastism** — PDF p. 281, printed p. 280; Persian OCR confidence 0.0; head confidence 94.2; embedded `monastism = monasticism`.
+- **monetarism** — PDF p. 281, printed p. 280; Persian OCR confidence 66.9; head confidence 0.0; embedded `monetarism`.
+- **monetarist** — PDF p. 281, printed p. 280; Persian OCR confidence 71.6; head confidence 13.7; embedded `monetarist`.
+- **money** — PDF p. 282, printed p. 281; Persian OCR confidence 79.5; head confidence 96.5; embedded `mon~`.
+- **moneyer** — PDF p. 282, printed p. 281; Persian OCR confidence 41.8; head confidence 92.4; embedded `moneyer`.
+- **moneymaker** — PDF p. 282, printed p. 281; Persian OCR confidence 35.6; head confidence 92.3; embedded `moneymaker`.
+- **Mongolian** — PDF p. 282, printed p. 281; Persian OCR confidence 48.0; head confidence 96.3; embedded `Mongolian`.
+- **mongolism** — PDF p. 282, printed p. 281; Persian OCR confidence 44.8; head confidence 92.5; embedded `mongolism`.
+- **Mongoioid** — PDF p. 282, printed p. 281; Persian OCR confidence 31.4; head confidence 78.4; embedded `Mongoloid`.
+- **monist** — PDF p. 282, printed p. 281; Persian OCR confidence 38.5; head confidence 91.7; embedded `monist`.
+- **monk** — PDF p. 282, printed p. 281; Persian OCR confidence 86.6; head confidence 21.1; embedded `monk`.
+- **monkishness** — PDF p. 282, printed p. 281; Persian OCR confidence 56.5; head confidence 41.9; embedded `monkishness`.
+- **monocausal** — PDF p. 282, printed p. 281; Persian OCR confidence 64.6; head confidence 36.8; embedded `monocausal`.
+- **monocentric** — PDF p. 282, printed p. 281; Persian OCR confidence 66.4; head confidence 0.0; embedded `monocentric`.
+- **monocracy** — PDF p. 282, printed p. 281; Persian OCR confidence 85.8; head confidence 19.1; embedded `monocracy`.
+- **monocratic** — PDF p. 282, printed p. 281; Persian OCR confidence 84.0; head confidence 37.5; embedded `monocratic`.
+- **monocultism** — PDF p. 282, printed p. 281; Persian OCR confidence 82.6; head confidence 4.0; embedded `monocultism`.
+- **monodlc(-al)** — PDF p. 282, printed p. 281; Persian OCR confidence 82.5; head confidence 36.4; embedded `monodlc(-al)`.
+- **monodist** — PDF p. 282, printed p. 281; Persian OCR confidence 24.8; head confidence 42.3; embedded `monodist`.
+- **monodrama** — PDF p. 282, printed p. 281; Persian OCR confidence 84.4; head confidence 18.1; embedded `monodrama`.
+- **monody** — PDF p. 282, printed p. 281; Persian OCR confidence 50.8; head confidence 53.5; embedded `monody`.
+- **monogamist** — PDF p. 282, printed p. 281; Persian OCR confidence 0.0; head confidence 60.3; embedded `monogamist = monogamous`.
+- **monogenesls** — PDF p. 282, printed p. 281; Persian OCR confidence 91.3; head confidence 32.8; embedded `monogenesls`.
+- **monogeneticism** — PDF p. 282, printed p. 281; Persian OCR confidence 82.4; head confidence 40.7; embedded `monogeneticism =`.
+- **monogenist** — PDF p. 282, printed p. 281; Persian OCR confidence 91.1; head confidence 0.9; embedded `monogenist`.
+- **monogenistlc** — PDF p. 282, printed p. 281; Persian OCR confidence 91.4; head confidence 0.0; embedded `monogenistlc`.
+- **monogenous monogenetic** — PDF p. 282, printed p. 281; Persian OCR confidence 0.0; head confidence 68.8; embedded `monogenous monogenetic`.
+- **monoglot** — PDF p. 282, printed p. 281; Persian OCR confidence 45.0; head confidence 43.4; embedded `monoglot`.
+- **monographer ·** — PDF p. 282, printed p. 281; Persian OCR confidence 88.4; head confidence 21.6; embedded `monographer ·`.
+- **monogynous monogynist** — PDF p. 282, printed p. 281; Persian OCR confidence 0.0; head confidence 67.8; embedded `monogynous mpnogynist`.
+- **monogyny** — PDF p. 283, printed p. 282; Persian OCR confidence 2.6; head confidence 92.7; embedded `monogyny`.
+- **monoideism** — PDF p. 283, printed p. 282; Persian OCR confidence 91.0; head confidence 91.3; embedded `monoldelsm`.
+- **monolingual** — PDF p. 283, printed p. 282; Persian OCR confidence 54.6; head confidence 96.4; embedded `monolingual`.
+- **monolith** — PDF p. 283, printed p. 282; Persian OCR confidence 24.8; head confidence 96.3; embedded `monolith`.
+- **monolog monologue** — PDF p. 283, printed p. 282; Persian OCR confidence 0.0; head confidence 94.2; embedded `monolog monologue`.
+- **monologism** — PDF p. 283, printed p. 282; Persian OCR confidence 48.2; head confidence 88.5; embedded `monologism`.
+- **monometalism** — PDF p. 283, printed p. 282; Persian OCR confidence 0.0; head confidence 89.4; embedded `monometalism = monometalllsm`.
+- **monometallic** — PDF p. 283, printed p. 282; Persian OCR confidence 49.3; head confidence 25.1; embedded `monometallic`.
+- **monometallism** — PDF p. 283, printed p. 282; Persian OCR confidence 47.5; head confidence 91.1; embedded `monometalllsm`.
+- **monomorphemic** — PDF p. 283, printed p. 282; Persian OCR confidence 0.0; head confidence 91.6; embedded `monomorphemic`.
+- **monomorphic** — PDF p. 283, printed p. 282; Persian OCR confidence 0.0; head confidence 94.8; embedded `monomorphic`.
+- **monomorphism** — PDF p. 283, printed p. 282; Persian OCR confidence 0.0; head confidence 96.3; embedded `monomorphlsm`.
+- **monophasic** — PDF p. 283, printed p. 282; Persian OCR confidence 0.0; head confidence 96.6; embedded `monophaslc`.
+- **monophobia** — PDF p. 283, printed p. 282; Persian OCR confidence 54.0; head confidence 92.5; embedded `monophobla`.
+- **Monophysite** — PDF p. 283, printed p. 282; Persian OCR confidence 47.6; head confidence 89.7; embedded `Monophyslte`.
+- **Monophysitic** — PDF p. 283, printed p. 282; Persian OCR confidence 53.3; head confidence 91.2; embedded `Monophysitlc`.
+- **Monophysitism** — PDF p. 283, printed p. 282; Persian OCR confidence 52.5; head confidence 91.6; embedded `Monophysltlsm`.
+- **monopsychlsm** — PDF p. 283, printed p. 282; Persian OCR confidence 54.4; head confidence 22.8; embedded `monopsychlsm`.
+- **monosyllablc** — PDF p. 283, printed p. 282; Persian OCR confidence 90.7; head confidence 0.0; embedded `monosyllablc`.
+- **monotheism** — PDF p. 283, printed p. 282; Persian OCR confidence 0.0; head confidence 96.0; embedded `monotheism`.
+- **monotheletlc** — PDF p. 283, printed p. 282; Persian OCR confidence 82.7; head confidence 35.4; embedded `monotheletlc`.
+- **monotheiitism** — PDF p. 283, printed p. 282; Persian OCR confidence 79.7; head confidence 27.3; embedded `monotheiitism`.
+- **monothetlc** — PDF p. 283, printed p. 282; Persian OCR confidence 83.8; head confidence 24.9; embedded `monothetlc`.
+- **monumentality** — PDF p. 284, printed p. 283; Persian OCR confidence 16.2; head confidence 92.6; embedded `monumentality`.
+- **moodiness** — PDF p. 284, printed p. 283; Persian OCR confidence 46.5; head confidence 96.2; embedded `moodiness`.
+- **moonstruck** — PDF p. 284, printed p. 283; Persian OCR confidence 41.8; head confidence 92.7; embedded `moonstruck`.
+- **moral code** — PDF p. 284, printed p. 283; Persian OCR confidence 49.7; head confidence 96.3; embedded `moral code`.
+- **morale** — PDF p. 284, printed p. 283; Persian OCR confidence 73.0; head confidence 24.6; embedded `morale`.
+- **morality play** — PDF p. 284, printed p. 283; Persian OCR confidence 43.0; head confidence 86.7; embedded `morality play`.
+- **moralization** — PDF p. 284, printed p. 283; Persian OCR confidence 37.9; head confidence 53.5; embedded `moralization`.
+- **moral obligation** — PDF p. 284, printed p. 283; Persian OCR confidence 37.9; head confidence 90.0; embedded `moral obligation`.
+- **moretic** — PDF p. 285, printed p. 284; Persian OCR confidence 49.0; head confidence 91.8; embedded `moretic`.
+- **moronity** — PDF p. 285, printed p. 284; Persian OCR confidence 0.0; head confidence 93.0; embedded `moronity`.
+- **morose** — PDF p. 285, printed p. 284; Persian OCR confidence 0.0; head confidence 96.6; embedded `morose`.
+- **moroseness** — PDF p. 285, printed p. 284; Persian OCR confidence 25.6; head confidence 90.1; embedded `moroseness`.
+- **morph** — PDF p. 285, printed p. 284; Persian OCR confidence 42.5; head confidence 96.7; embedded `morph`.
+- **morpheme** — PDF p. 285, printed p. 284; Persian OCR confidence 51.5; head confidence 93.0; embedded `morpheme`.
+- **morphemics morphology** — PDF p. 285, printed p. 284; Persian OCR confidence 0.0; head confidence 94.2; embedded `morphemics morphology`.
+- **morphonemics morphophonology** — PDF p. 285, printed p. 284; Persian OCR confidence 0.0; head confidence 92.2; embedded `morphonemics morphophonology`.
+- **morphonology morphophonology** — PDF p. 285, printed p. 284; Persian OCR confidence 0.0; head confidence 79.6; embedded `morphonology morphophonology`.
+- **morphosyntax** — PDF p. 285, printed p. 284; Persian OCR confidence 49.1; head confidence 92.5; embedded `morphosyntax`.
+- **mortalism** — PDF p. 285, printed p. 284; Persian OCR confidence 52.6; head confidence 92.3; embedded `mortalism`.
+- **mortgage bank** — PDF p. 285, printed p. 284; Persian OCR confidence 50.8; head confidence 90.9; embedded `mortgage bank`.
+- **mortuary cult** — PDF p. 285, printed p. 284; Persian OCR confidence 54.3; head confidence 96.8; embedded `mortuary cult`.
+- **Moslem** — PDF p. 285, printed p. 284; Persian OCR confidence 44.1; head confidence 38.1; embedded `Moslem`.
+- **mother country** — PDF p. 285, printed p. 284; Persian OCR confidence 32.4; head confidence 93.6; embedded `mother country`.
+- **mother-goddess** — PDF p. 285, printed p. 284; Persian OCR confidence 63.0; head confidence 18.7; embedded `mother-goddess`.
+- **mother right** — PDF p. 286, printed p. 285; Persian OCR confidence 47.8; head confidence 96.7; embedded `mother right`.
+- **motif** — PDF p. 286, printed p. 285; Persian OCR confidence 43.4; head confidence 96.2; embedded `motif`.
+- **motion** — PDF p. 286, printed p. 285; Persian OCR confidence 0.0; head confidence 96.4; embedded `motion`.
+- **motionless** — PDF p. 286, printed p. 285; Persian OCR confidence 0.0; head confidence 95.9; embedded `motionless`.
+- **movement** — PDF p. 286, printed p. 285; Persian OCR confidence 0.0; head confidence 96.4; embedded `movement`.
+- **mover** — PDF p. 286, printed p. 285; Persian OCR confidence 0.0; head confidence 96.8; embedded `mover`.
+- **movie** — PDF p. 286, printed p. 285; Persian OCR confidence 0.0; head confidence 96.2; embedded `movie`.
+- **moviedom** — PDF p. 286, printed p. 285; Persian OCR confidence 0.0; head confidence 92.7; embedded `moviedom`.
+- **moviegoer** — PDF p. 286, printed p. 285; Persian OCR confidence 0.0; head confidence 92.2; embedded `moviegoer`.
+- **moviemaker** — PDF p. 286, printed p. 285; Persian OCR confidence 0.0; head confidence 92.3; embedded `movlemaker`.
+- **moving agent** — PDF p. 286, printed p. 285; Persian OCR confidence 53.4; head confidence 96.4; embedded `moving agent`.
+- **moving school** — PDF p. 286, printed p. 285; Persian OCR confidence 36.9; head confidence 78.3; embedded `moving school`.
+- **mud lark** — PDF p. 286, printed p. 285; Persian OCR confidence 81.9; head confidence 43.6; embedded `mud lark`.
+- **mufti (Ar.)** — PDF p. 286, printed p. 285; Persian OCR confidence 70.6; head confidence 35.7; embedded `mufti (Ar.)`.
+- **Muhammadanism** — PDF p. 286, printed p. 285; Persian OCR confidence 47.9; head confidence 71.0; embedded `Muhammadanism`.
+- **Muhammedan** — PDF p. 286, printed p. 285; Persian OCR confidence 44.0; head confidence 79.4; embedded `Muhammedan`.
+- **Muharram** — PDF p. 286, printed p. 285; Persian OCR confidence 45.8; head confidence 93.8; embedded `Muharram`.
+- **mujahedin (Ar.)** — PDF p. 286, printed p. 285; Persian OCR confidence 35.7; head confidence 79.5; embedded `mujahedin (Ar.)`.
+- **mullah (Pers.)** — PDF p. 286, printed p. 285; Persian OCR confidence 32.4; head confidence 57.1; embedded `mullah (Pers.)`.
+- **mullahism** — PDF p. 286, printed p. 285; Persian OCR confidence 54.7; head confidence 48.4; embedded `mullahism`.
+- **multiagency** — PDF p. 286, printed p. 285; Persian OCR confidence 83.0; head confidence 29.0; embedded `multiagency`.
+- **multicultural** — PDF p. 286, printed p. 285; Persian OCR confidence 42.2; head confidence 9.8; embedded `multicultural`.
+- **multiculturalism** — PDF p. 286, printed p. 285; Persian OCR confidence 53.0; head confidence 78.4; embedded `multiculturalism`.
+- **multidimensional** — PDF p. 286, printed p. 285; Persian OCR confidence 8.0; head confidence 96.5; embedded `multidimensional`.
+- **multidimensionality** — PDF p. 286, printed p. 285; Persian OCR confidence 27.0; head confidence 92.3; embedded `multldimenslonality`.
+- **multidisciplinary** — PDF p. 286, printed p. 285; Persian OCR confidence 51.8; head confidence 92.2; embedded `multidisciplinary`.
+- **multidivlslonal** — PDF p. 286, printed p. 285; Persian OCR confidence 57.0; head confidence 41.7; embedded `multidivlslonal`.
+- **multiethnic** — PDF p. 286, printed p. 285; Persian OCR confidence 19.6; head confidence 86.7; embedded `multlethnlc`.
+- **multifaceted** — PDF p. 287, printed p. 286; Persian OCR confidence 43.1; head confidence 96.4; embedded `multifaceted`.
+- **multifactor** — PDF p. 287, printed p. 286; Persian OCR confidence 45.7; head confidence 96.9; embedded `multlfactor`.
+- **multifinality** — PDF p. 287, printed p. 286; Persian OCR confidence 22.0; head confidence 93.0; embedded `multifinality`.
+- **multiform** — PDF p. 287, printed p. 286; Persian OCR confidence 46.5; head confidence 92.9; embedded `multiform`.
+- **multilateral** — PDF p. 287, printed p. 286; Persian OCR confidence 11.9; head confidence 96.8; embedded `multilateral`.
+- **multilateralism** — PDF p. 287, printed p. 286; Persian OCR confidence 49.2; head confidence 96.2; embedded `multilateralism`.
+- **multilayer** — PDF p. 287, printed p. 286; Persian OCR confidence 47.5; head confidence 96.1; embedded `multilayer`.
+- **multilevel** — PDF p. 287, printed p. 286; Persian OCR confidence 28.1; head confidence 95.7; embedded `multilevel`.
+- **multilineal** — PDF p. 287, printed p. 286; Persian OCR confidence 53.3; head confidence 92.3; embedded `multilineal`.
+- **multilingual** — PDF p. 287, printed p. 286; Persian OCR confidence 28.9; head confidence 96.3; embedded `multilingual`.
+- **multinational** — PDF p. 287, printed p. 286; Persian OCR confidence 0.0; head confidence 96.6; embedded `multinational`.
+- **multinationalism** — PDF p. 287, printed p. 286; Persian OCR confidence 43.8; head confidence 92.1; embedded `multi nationalism`.
+- **multiparous** — PDF p. 287, printed p. 286; Persian OCR confidence 53.4; head confidence 95.0; embedded `multiparous`.
+- **multiple** — PDF p. 287, printed p. 286; Persian OCR confidence 52.0; head confidence 62.5; embedded `multiple`.
+- **multiple-choice** — PDF p. 287, printed p. 286; Persian OCR confidence 18.8; head confidence 95.8; embedded `multiple-choice`.
+- **multiplicity** — PDF p. 287, printed p. 286; Persian OCR confidence 54.5; head confidence 96.5; embedded `multiplicity`.
+- **multipolar** — PDF p. 287, printed p. 286; Persian OCR confidence 42.2; head confidence 96.8; embedded `multipolar`.
+- **multipolarity** — PDF p. 287, printed p. 286; Persian OCR confidence 31.8; head confidence 91.5; embedded `multi polarity`.
+- **multipurpose** — PDF p. 287, printed p. 286; Persian OCR confidence 2.7; head confidence 96.4; embedded `multipurpose`.
+- **multiracial** — PDF p. 287, printed p. 286; Persian OCR confidence 45.6; head confidence 96.2; embedded `multiracial`.
+- **multisense** — PDF p. 287, printed p. 286; Persian OCR confidence 9.5; head confidence 92.2; embedded `multisense`.
+- **multisensory** — PDF p. 287, printed p. 286; Persian OCR confidence 40.5; head confidence 96.5; embedded `multisensory`.
+- **multistage** — PDF p. 287, printed p. 286; Persian OCR confidence 43.1; head confidence 87.7; embedded `multistage`.
+- **multistate** — PDF p. 287, printed p. 286; Persian OCR confidence 52.6; head confidence 73.3; embedded `multistate`.
+- **multisubject** — PDF p. 287, printed p. 286; Persian OCR confidence 83.5; head confidence 38.5; embedded `multisubject`.
+- **multiverse** — PDF p. 287, printed p. 286; Persian OCR confidence 52.1; head confidence 76.1; embedded `multiverse`.
+- **multiversity** — PDF p. 287, printed p. 286; Persian OCR confidence 46.9; head confidence 80.2; embedded `multiversity`.
+- **mumbo jumbo** — PDF p. 287, printed p. 286; Persian OCR confidence 52.8; head confidence 91.7; embedded `mumbo jumbo`.
+- **mummer** — PDF p. 287, printed p. 286; Persian OCR confidence 62.9; head confidence 41.7; embedded `mummer`.
+- **mummy** — PDF p. 287, printed p. 286; Persian OCR confidence 77.4; head confidence 41.2; embedded `mummy`.
+- **mundanity** — PDF p. 287, printed p. 286; Persian OCR confidence 52.4; head confidence 31.5; embedded `mundanity`.
+- **municipal .r** — PDF p. 287, printed p. 286; Persian OCR confidence 61.6; head confidence 40.2; embedded `municipal .r`.
+- **mural painting** — PDF p. 287, printed p. 286; Persian OCR confidence 0.0; head confidence 87.9; embedded `mural painting`.
+- **murder** — PDF p. 287, printed p. 286; Persian OCR confidence 0.0; head confidence 77.8; embedded `murder`.
+- **murderer** — PDF p. 287, printed p. 286; Persian OCR confidence 0.0; head confidence 79.0; embedded `murderer`.
+- **museographer** — PDF p. 288, printed p. 287; Persian OCR confidence 24.9; head confidence 91.8; embedded `museographer`.
+- **museum curator** — PDF p. 288, printed p. 287; Persian OCR confidence 18.2; head confidence 94.7; embedded `museum curator`.
+- **musicality** — PDF p. 288, printed p. 287; Persian OCR confidence 45.3; head confidence 96.7; embedded `muslcality`.
+- **musicology** — PDF p. 288, printed p. 287; Persian OCR confidence 0.0; head confidence 91.1; embedded `musicology`.
+- **Muslim** — PDF p. 288, printed p. 287; Persian OCR confidence 31.6; head confidence 96.1; embedded `Muslim`.
+- **Musulman** — PDF p. 288, printed p. 287; Persian OCR confidence 0.0; head confidence 91.4; embedded `Musulman`.
+- **mutability** — PDF p. 288, printed p. 287; Persian OCR confidence 0.0; head confidence 96.5; embedded `mutability`.
+- **mutable** — PDF p. 288, printed p. 287; Persian OCR confidence 0.0; head confidence 87.5; embedded `mutable`.
+- **mutableness mutability** — PDF p. 288, printed p. 287; Persian OCR confidence 0.0; head confidence 94.5; embedded `mutableness mutability`.
+- **mutationism** — PDF p. 288, printed p. 287; Persian OCR confidence 88.3; head confidence 35.1; embedded `mutationism`.
+- **mutinous** — PDF p. 288, printed p. 287; Persian OCR confidence 82.3; head confidence 35.6; embedded `mutinous`.
+- **mutual aid** — PDF p. 288, printed p. 287; Persian OCR confidence 53.5; head confidence 90.0; embedded `mutual aid`.
+- **«mutual bond** — PDF p. 288, printed p. 287; Persian OCR confidence 43.8; head confidence 65.4; embedded `mutual bond`.
+- **mutualism** — PDF p. 288, printed p. 287; Persian OCR confidence 67.0; head confidence 43.1; embedded `mutualism`.
+- **mutuality mutualism** — PDF p. 288, printed p. 287; Persian OCR confidence 20.1; head confidence 87.9; embedded `mutuality mutualism`.
+- **mutualization** — PDF p. 288, printed p. 287; Persian OCR confidence 42.5; head confidence 67.9; embedded `mutualization`.
+- **muzhik (R.)** — PDF p. 288, printed p. 287; Persian OCR confidence 90.2; head confidence 61.5; embedded `muzhlk (A.)`.
+- **muzjik** — PDF p. 288, printed p. 287; Persian OCR confidence 0.0; head confidence 91.6; embedded `muzjik = muzhik`.
+- **mysticalness .r** — PDF p. 289, printed p. 288; Persian OCR confidence 73.1; head confidence 2.4; embedded `mysticalness .r`.
+- **mystique (Fr.)** — PDF p. 289, printed p. 288; Persian OCR confidence 44.5; head confidence 92.3; embedded `mystique (Fr.)`.
+- **mytheme** — PDF p. 289, printed p. 288; Persian OCR confidence 28.1; head confidence 92.6; embedded `mytheme`.
+- **mythmaking** — PDF p. 289, printed p. 288; Persian OCR confidence 78.7; head confidence 37.6; embedded `mythmaking`.
+- **mythographer** — PDF p. 289, printed p. 288; Persian OCR confidence 87.4; head confidence 42.3; embedded `mythographer`.
+- **mythography** — PDF p. 289, printed p. 288; Persian OCR confidence 33.2; head confidence 75.2; embedded `mythography`.
+- **mythologist** — PDF p. 289, printed p. 288; Persian OCR confidence 89.6; head confidence 16.3; embedded `mythologist`.
+- **mythologizer** — PDF p. 289, printed p. 288; Persian OCR confidence 87.1; head confidence 20.7; embedded `mythologizer`.
+- **mythologizing** — PDF p. 289, printed p. 288; Persian OCR confidence 74.0; head confidence 34.4; embedded `mythologizing`.
+- **mythomania** — PDF p. 289, printed p. 288; Persian OCR confidence 78.1; head confidence 24.9; embedded `mythomania`.
+- **mythomaniac** — PDF p. 289, printed p. 288; Persian OCR confidence 71.3; head confidence 37.9; embedded `mythomaniac`.
+- **mythopeic mythopoeic** — PDF p. 289, printed p. 288; Persian OCR confidence 0.0; head confidence 91.8; embedded `mythopeic mythopoeic`.
+- **mythopoeia mythopoesis** — PDF p. 289, printed p. 288; Persian OCR confidence 0.0; head confidence 89.1; embedded `mythopoeia mythopoesis`.
+- **mythopoesis** — PDF p. 289, printed p. 288; Persian OCR confidence 42.1; head confidence 39.0; embedded `mythopoesis`.

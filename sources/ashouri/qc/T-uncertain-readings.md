@@ -1,0 +1,923 @@
+# T Entries Requiring Visual Review
+
+- **ta’arof (Pers.** — PDF p. 448; Persian OCR confidence 2.6; head match 0.909; head OCR confidence 92.4
+- **table** — PDF p. 448; Persian OCR confidence 77.9; head match 0.4; head OCR confidence 52.8
+- **tabloid** — PDF p. 448; Persian OCR confidence 69.3; head match 0.533; head OCR confidence 58.7
+- **tabloid journalist OxgielJbe>** — PDF p. 448; Persian OCR confidence 83.8; head match 0.791; head OCR confidence 64.2
+- **tabloid newspaper acdijbu>** — PDF p. 448; Persian OCR confidence 80.3; head match 0.821; head OCR confidence 69.9
+- **tabloid press** — PDF p. 448; Persian OCR confidence 79.1; head match 0.774; head OCR confidence 48.3
+- **taboo 9b** — PDF p. 448; Persian OCR confidence 55.8; head match 0.833; head OCR confidence 68.4
+- **taboo language** — PDF p. 448; Persian OCR confidence 82.1; head match 0.765; head OCR confidence 56.8
+- **tabu** — PDF p. 448; Persian OCR confidence 26.1; head match 0.714; head OCR confidence 95.9
+- **tabula nuda (L.) oslse3)** — PDF p. 448; Persian OCR confidence 84.7; head match 0.786; head OCR confidence 78.2
+- **tabula rasa (L.) oalu ey)** — PDF p. 448; Persian OCR confidence 90.4; head match 0.786; head OCR confidence 74.1
+- **tabulation** — PDF p. 448; Persian OCR confidence 92.0; head match 0.769; head OCR confidence 48.2
+- **tachism** — PDF p. 448; Persian OCR confidence 71.2; head match 0.737; head OCR confidence 37.3
+- **tachist** — PDF p. 448; Persian OCR confidence 80.3; head match 0.632; head OCR confidence 37.3
+- **tachygraphy** — PDF p. 448; Persian OCR confidence 54.5; head match 0.786; head OCR confidence 46.4
+- **tacit** — PDF p. 448; Persian OCR confidence 73.8; head match 0.389; head OCR confidence 32.3
+- **tacit communication jbiS bls,!** — PDF p. 448; Persian OCR confidence 88.7; head match 0.837; head OCR confidence 55.6
+- **tacit consent** — PDF p. 448; Persian OCR confidence 88.0; head match 0.727; head OCR confidence 54.5
+- **tacit knowledge** — PDF p. 448; Persian OCR confidence 74.3; head match 0.757; head OCR confidence 66.2
+- **tacitness** — PDF p. 448; Persian OCR confidence 85.0; head match 0.818; head OCR confidence 48.2
+- **tact** — PDF p. 448; Persian OCR confidence 46.3; head match 1.0; head OCR confidence 13.8
+- **tactic** — PDF p. 448; Persian OCR confidence 85.2; head match 0.8; head OCR confidence 21.5
+- **tactical** — PDF p. 448; Persian OCR confidence 59.1; head match 0.8; head OCR confidence 50.1
+- **tactician** — PDF p. 448; Persian OCR confidence 88.9; head match 0.783; head OCR confidence 45.5
+- **tactics** — PDF p. 448; Persian OCR confidence 78.7; head match 0.467; head OCR confidence 45.5
+- **tactile** — PDF p. 448; Persian OCR confidence 17.2; head match 0.467; head OCR confidence 27.1
+- **tactility** — PDF p. 448; Persian OCR confidence 57.8; head match 0.72; head OCR confidence 11.0
+- **taction** — PDF p. 448; Persian OCR confidence 43.9; head match 0.426; head OCR confidence 15.8
+- **tactual** — PDF p. 448; Persian OCR confidence 89.8; head match 0.49; head OCR confidence 22.0
+- **tagmeme** — PDF p. 448; Persian OCR confidence 53.4; head match 0.875; head OCR confidence 42.8
+- **tagmemicist** — PDF p. 448; Persian OCR confidence 82.7; head match 0.6; head OCR confidence 42.8
+- **tagmemics** — PDF p. 448; Persian OCR confidence 76.5; head match 0.434; head OCR confidence 29.3
+- **Tahitian** — PDF p. 448; Persian OCR confidence 87.6; head match 0.415; head OCR confidence 2.4
+- **tahseeldar** — PDF p. 448; Persian OCR confidence 0; head match 0.483; head OCR confidence 75.1
+- **Tai** — PDF p. 448; Persian OCR confidence 86.5; head match 0.262; head OCR confidence 92.4
+- **take-off** — PDF p. 448; Persian OCR confidence 72.7; head match 0.49; head OCR confidence 38.0
+- **tale** — PDF p. 448; Persian OCR confidence 75.8; head match 0.247; head OCR confidence 38.0
+- **talent** — PDF p. 448; Persian OCR confidence 88.5; head match 0.255; head OCR confidence 16.5
+- **talented** — PDF p. 448; Persian OCR confidence 68.3; head match 0.35; head OCR confidence 19.7
+- **talent show** — PDF p. 448; Persian OCR confidence 87.7; head match 0.424; head OCR confidence 52.2
+- **taleteller** — PDF p. 448; Persian OCR confidence 56.7; head match 0.4; head OCR confidence 22.8
+- **talion** — PDF p. 448; Persian OCR confidence 70.3; head match 0.75; head OCR confidence 48.0
+- **talisman** — PDF p. 448; Persian OCR confidence 89.6; head match 0.556; head OCR confidence 48.0
+- **talismatic(-al)** — PDF p. 449; Persian OCR confidence 58.7; head match 0.454; head OCR confidence 30.2
+- **talk show** — PDF p. 449; Persian OCR confidence 69.3; head match 0.4; head OCR confidence 26.9
+- **Talmudic(-aij** — PDF p. 449; Persian OCR confidence 51.4; head match 0.8; head OCR confidence 34.7
+- **Talmudist** — PDF p. 449; Persian OCR confidence 90.0; head match 0.696; head OCR confidence 34.7
+- **tame** — PDF p. 449; Persian OCR confidence 84.7; head match 0.255; head OCR confidence 47.0
+- **Tamil** — PDF p. 449; Persian OCR confidence 80.3; head match 0.714; head OCR confidence 51.8
+- **tangibility** — PDF p. 449; Persian OCR confidence 65.4; head match 0.467; head OCR confidence 35.9
+- **tanglble** — PDF p. 449; Persian OCR confidence 59.7; head match 0.363; head OCR confidence 44.2
+- **tanglble assets** — PDF p. 449; Persian OCR confidence 45.4; head match 0.765; head OCR confidence 60.0
+- **Tanoan** — PDF p. 449; Persian OCR confidence 77.2; head match 0.42; head OCR confidence 59.1
+- **tantra (Hindi)** — PDF p. 449; Persian OCR confidence 74.4; head match 0.815; head OCR confidence 43.4
+- **tantric** — PDF p. 449; Persian OCR confidence 0; head match 0.857; head OCR confidence 96.3
+- **tantrism** — PDF p. 449; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.3
+- **tantrist** — PDF p. 449; Persian OCR confidence 0; head match 0.875; head OCR confidence 92.6
+- **tantrum** — PDF p. 449; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.1
+- **Taoism** — PDF p. 449; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **Taoist** — PDF p. 449; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **taphophobla** — PDF p. 449; Persian OCR confidence 79.5; head match 0.645; head OCR confidence 45.6
+- **Taracahltlan** — PDF p. 449; Persian OCR confidence 59.1; head match 0.917; head OCR confidence 26.1
+- **tarantism** — PDF p. 449; Persian OCR confidence 53.2; head match 0.889; head OCR confidence 83.2
+- **target determination Sli** — PDF p. 449; Persian OCR confidence 39.7; head match 0.927; head OCR confidence 64.7
+- **tariff** — PDF p. 449; Persian OCR confidence 85.4; head match 0.42; head OCR confidence 24.4
+- **tariff protection** — PDF p. 449; Persian OCR confidence 79.8; head match 0.762; head OCR confidence 48.3
+- **Tartar** — PDF p. 449; Persian OCR confidence 89.4; head match 0.442; head OCR confidence 17.2
+- **task** — PDF p. 449; Persian OCR confidence 83.0; head match 0.35; head OCR confidence 36.1
+- **task bonus** — PDF p. 449; Persian OCR confidence 90.9; head match 0.42; head OCR confidence 35.5
+- **task demands** — PDF p. 449; Persian OCR confidence 89.5; head match 0.759; head OCR confidence 45.2
+- **task force** — PDF p. 449; Persian OCR confidence 86.0; head match 0.434; head OCR confidence 52.7
+- **task group Sela** — PDF p. 449; Persian OCR confidence 75.2; head match 0.818; head OCR confidence 66.8
+- **task-oriented** — PDF p. 449; Persian OCR confidence 91.1; head match 0.774; head OCR confidence 44.9
+- **task specialist lis Solu!** — PDF p. 449; Persian OCR confidence 88.4; head match 0.8; head OCR confidence 60.1
+- **taste** — PDF p. 449; Persian OCR confidence 85.2; head match 0.833; head OCR confidence 40.4
+- **Tatar** — PDF p. 449; Persian OCR confidence 0; head match 0.494; head OCR confidence 96.8
+- **tautologlc(-al)** — PDF p. 449; Persian OCR confidence 90.2; head match 0.453; head OCR confidence 20.6
+- **tautologlst** — PDF p. 449; Persian OCR confidence 90.4; head match 0.424; head OCR confidence 27.5
+- **tautology** — PDF p. 449; Persian OCR confidence 71.2; head match 0.75; head OCR confidence 49.4
+- **tautonym** — PDF p. 449; Persian OCR confidence 90.1; head match 0.487; head OCR confidence 36.5
+- **tautonymlc** — PDF p. 449; Persian OCR confidence 91.7; head match 0.692; head OCR confidence 62.7
+- **tautonymous** — PDF p. 449; Persian OCR confidence 0; head match 0.541; head OCR confidence 62.7
+- **tax** — PDF p. 449; Persian OCR confidence 82.8; head match 0.28; head OCR confidence 39.7
+- **taxa** — PDF p. 449; Persian OCR confidence 84.4; head match 0.35; head OCR confidence 48.1
+- **taxable** — PDF p. 449; Persian OCR confidence 86.0; head match 0.778; head OCR confidence 64.1
+- **tax-base** — PDF p. 449; Persian OCR confidence 85.9; head match 0.467; head OCR confidence 42.2
+- **tax burden il b** — PDF p. 449; Persian OCR confidence 58.5; head match 0.857; head OCR confidence 65.9
+- **tax collectlon 9** — PDF p. 449; Persian OCR confidence 88.3; head match 0.42; head OCR confidence 29.1
+- **tax collector** — PDF p. 449; Persian OCR confidence 74.9; head match 0.41; head OCR confidence 39.8
+- **tax compliance oll pink** — PDF p. 449; Persian OCR confidence 64.4; head match 0.788; head OCR confidence 65.2
+- **tax-deductlble** — PDF p. 449; Persian OCR confidence 79.5; head match 0.727; head OCR confidence 48.3
+- **tax deed** — PDF p. 449; Persian OCR confidence 51.7; head match 0.778; head OCR confidence 67.6
+- **tax evasion SxSW** — PDF p. 450; Persian OCR confidence 55.9; head match 0.833; head OCR confidence 64.5
+- **tax exclusion** — PDF p. 450; Persian OCR confidence 86.8; head match 0.774; head OCR confidence 64.0
+- **tax exemption** — PDF p. 450; Persian OCR confidence 64.8; head match 1.0; head OCR confidence 96.6
+- **tax free** — PDF p. 450; Persian OCR confidence 78.1; head match 0.49; head OCR confidence 64.3
+- **tax impact [ 4.:, Js>r.** — PDF p. 450; Persian OCR confidence 86.8; head match 0.69; head OCR confidence 63.7
+- **tax incidence** — PDF p. 450; Persian OCR confidence 81.6; head match 0.494; head OCR confidence 49.0
+- **taxis (Gr.)** — PDF p. 450; Persian OCR confidence 91.5; head match 0.778; head OCR confidence 72.8
+- **taxon** — PDF p. 450; Persian OCR confidence 82.5; head match 0.438; head OCR confidence 52.8
+- **taxonomic** — PDF p. 450; Persian OCR confidence 71.2; head match 0.818; head OCR confidence 48.0
+- **taxonomist** — PDF p. 450; Persian OCR confidence 38.9; head match 0.467; head OCR confidence 95.3
+- **taxonomy** — PDF p. 450; Persian OCR confidence 88.8; head match 0.487; head OCR confidence 48.2
+- **taxpayer** — PDF p. 450; Persian OCR confidence 87.2; head match 0.415; head OCR confidence 41.0
+- **tax policy WL etl** — PDF p. 450; Persian OCR confidence 12.1; head match 0.783; head OCR confidence 66.1
+- **tax rate** — PDF p. 450; Persian OCR confidence 82.8; head match 0.49; head OCR confidence 48.7
+- **tax rebate aS** — PDF p. 450; Persian OCR confidence 64.0; head match 0.9; head OCR confidence 67.0
+- **tax receipt** — PDF p. 450; Persian OCR confidence 79.7; head match 0.389; head OCR confidence 44.7
+- **tax remission** — PDF p. 450; Persian OCR confidence 91.4; head match 0.494; head OCR confidence 56.9
+- **tax revenues** — PDF p. 450; Persian OCR confidence 90.6; head match 0.733; head OCR confidence 61.3
+- **tax shelter** — PDF p. 450; Persian OCR confidence 84.7; head match 0.438; head OCR confidence 52.4
+- **tax-sheltered** — PDF p. 450; Persian OCR confidence 74.7; head match 0.727; head OCR confidence 48.6
+- **Taylor ism** — PDF p. 450; Persian OCR confidence 90.8; head match 0.783; head OCR confidence 52.5
+- **teachable** — PDF p. 450; Persian OCR confidence 77.3; head match 0.434; head OCR confidence 47.0
+- **teacher** — PDF p. 450; Persian OCR confidence 86.0; head match 0.363; head OCR confidence 47.0
+- **teach-in** — PDF p. 450; Persian OCR confidence 74.9; head match 0.323; head OCR confidence 68.2
+- **teaching** — PDF p. 450; Persian OCR confidence 90.8; head match 0.727; head OCR confidence 45.1
+- **teaching fellow** — PDF p. 450; Persian OCR confidence 84.3; head match 0.778; head OCR confidence 57.5
+- **teaching fellowship Gylatijgal** — PDF p. 450; Persian OCR confidence 92.2; head match 0.783; head OCR confidence 65.5
+- **teaching hospital** — PDF p. 450; Persian OCR confidence 90.1; head match 0.477; head OCR confidence 46.3
+- **teaching machine** — PDF p. 450; Persian OCR confidence 82.9; head match 0.769; head OCR confidence 47.7
+- **teaching personnel** — PDF p. 450; Persian OCR confidence 87.1; head match 0.829; head OCR confidence 45.7
+- **teaching staff** — PDF p. 450; Persian OCR confidence 89.7; head match 0.414; head OCR confidence 32.2
+- **teahouse** — PDF p. 450; Persian OCR confidence 77.6; head match 0.361; head OCR confidence 19.3
+- **team od** — PDF p. 450; Persian OCR confidence 87.5; head match 0.8; head OCR confidence 66.6
+- **teammate** — PDF p. 450; Persian OCR confidence 0.0; head match 0.8; head OCR confidence 43.9
+- **team performance wos lal** — PDF p. 450; Persian OCR confidence 89.8; head match 0.833; head OCR confidence 62.7
+- **team play** — PDF p. 450; Persian OCR confidence 90.6; head match 0.762; head OCR confidence 72.1
+- **team play we oil** — PDF p. 450; Persian OCR confidence 67.2; head match 0.783; head OCR confidence 72.1
+- **team-teach** — PDF p. 450; Persian OCR confidence 84.3; head match 0.434; head OCR confidence 34.9
+- **team training** — PDF p. 450; Persian OCR confidence 71.9; head match 0.75; head OCR confidence 78.0
+- **teamwork** — PDF p. 450; Persian OCR confidence 90.9; head match 0.415; head OCR confidence 48.9
+- **techne (Gr.)** — PDF p. 450; Persian OCR confidence 81.8; head match 0.467; head OCR confidence 46.8
+- **technic** — PDF p. 450; Persian OCR confidence 89.4; head match 0.778; head OCR confidence 39.4
+- **technical aid ESSN** — PDF p. 450; Persian OCR confidence 59.7; head match 0.857; head OCR confidence 68.9
+- **technical analysis** — PDF p. 450; Persian OCR confidence 0; head match 0.941; head OCR confidence 72.9
+- **technical capital** — PDF p. 450; Persian OCR confidence 56.7; head match 0.938; head OCR confidence 96.5
+- **technlcal college** — PDF p. 450; Persian OCR confidence 66.7; head match 0.732; head OCR confidence 55.6
+- **technical know-how** — PDF p. 450; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **technical language** — PDF p. 450; Persian OCR confidence 0; head match 1.0; head OCR confidence 73.1
+- **technical service** — PDF p. 450; Persian OCR confidence 0; head match 0.938; head OCR confidence 96.4
+- **technical training** — PDF p. 450; Persian OCR confidence 0; head match 0.941; head OCR confidence 90.0
+- **technician** — PDF p. 450; Persian OCR confidence 0; head match 1.0; head OCR confidence 64.8
+- **technicist** — PDF p. 451; Persian OCR confidence 0; head match 0.8; head OCR confidence 91.5
+- **technicum** — PDF p. 451; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.6
+- **technicways** — PDF p. 451; Persian OCR confidence 0; head match 0.909; head OCR confidence 91.7
+- **technocracy** — PDF p. 451; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.3
+- **technocratic** — PDF p. 451; Persian OCR confidence 86.2; head match 0.645; head OCR confidence 30.5
+- **technologist** — PDF p. 451; Persian OCR confidence 90.9; head match 0.727; head OCR confidence 32.0
+- **technology** — PDF p. 451; Persian OCR confidence 64.9; head match 1.0; head OCR confidence 66.8
+- **technophile** — PDF p. 451; Persian OCR confidence 0; head match 0.909; head OCR confidence 93.0
+- **technophilia** — PDF p. 451; Persian OCR confidence 0; head match 0.833; head OCR confidence 89.9
+- **technophlllc** — PDF p. 451; Persian OCR confidence 78.6; head match 0.75; head OCR confidence 89.9
+- **technophobe** — PDF p. 451; Persian OCR confidence 57.2; head match 0.786; head OCR confidence 46.1
+- **technophobic** — PDF p. 451; Persian OCR confidence 60.5; head match 0.786; head OCR confidence 49.1
+- **technostructure** — PDF p. 451; Persian OCR confidence 66.1; head match 0.732; head OCR confidence 59.4
+- **tectonic r** — PDF p. 451; Persian OCR confidence 86.9; head match 0.762; head OCR confidence 62.7
+- **teenage** — PDF p. 451; Persian OCR confidence 65.0; head match 0.49; head OCR confidence 57.1
+- **teenager** — PDF p. 451; Persian OCR confidence 41.1; head match 0.762; head OCR confidence 57.9
+- **teen mother** — PDF p. 451; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **teens** — PDF p. 451; Persian OCR confidence 71.0; head match 0.412; head OCR confidence 58.1
+- **teknonymy** — PDF p. 451; Persian OCR confidence 47.7; head match 0.947; head OCR confidence 89.8
+- **telaesthesla** — PDF p. 451; Persian OCR confidence 0; head match 0.44; head OCR confidence 92.7
+- **telecommunlcatlon** — PDF p. 451; Persian OCR confidence 60.1; head match 0.698; head OCR confidence 41.3
+- **telecommuter** — PDF p. 451; Persian OCR confidence 0.0; head match 0.8; head OCR confidence 91.1
+- **teleconference** — PDF p. 451; Persian OCR confidence 91.9; head match 0.49; head OCR confidence 48.2
+- **telecourse** — PDF p. 451; Persian OCR confidence 85.4; head match 0.583; head OCR confidence 49.1
+- **telefllm** — PDF p. 451; Persian OCR confidence 79.2; head match 0.363; head OCR confidence 43.2
+- **telegnostlc** — PDF p. 451; Persian OCR confidence 46.2; head match 0.762; head OCR confidence 87.9
+- **Telegu** — PDF p. 451; Persian OCR confidence 78.1; head match 0.8; head OCR confidence 48.5
+- **telekinetic** — PDF p. 451; Persian OCR confidence 0; head match 0.909; head OCR confidence 93.2
+- **teleklin** — PDF p. 451; Persian OCR confidence 0; head match 0.875; head OCR confidence 93.1
+- **telemedlclne** — PDF p. 451; Persian OCR confidence 91.0; head match 0.69; head OCR confidence 53.5
+- **teleologlc(-al)** — PDF p. 451; Persian OCR confidence 62.4; head match 0.917; head OCR confidence 20.2
+- **teleological argument** — PDF p. 451; Persian OCR confidence 48.0; head match 1.0; head OCR confidence 91.5
+- **teleological idealism** — PDF p. 451; Persian OCR confidence 46.2; head match 0.95; head OCR confidence 82.9
+- **teleologlst** — PDF p. 451; Persian OCR confidence 62.2; head match 0.667; head OCR confidence 25.8
+- **teleology** — PDF p. 451; Persian OCR confidence 72.9; head match 0.467; head OCR confidence 42.7
+- **telepathic** — PDF p. 451; Persian OCR confidence 73.1; head match 0.769; head OCR confidence 38.6
+- **telepathlst** — PDF p. 451; Persian OCR confidence 82.9; head match 0.69; head OCR confidence 62.2
+- **telepresence** — PDF p. 451; Persian OCR confidence 59.6; head match 0.727; head OCR confidence 22.6
+- **telesales** — PDF p. 451; Persian OCR confidence 89.2; head match 0.42; head OCR confidence 48.5
+- **teleshoplng** — PDF p. 451; Persian OCR confidence 38.1; head match 0.645; head OCR confidence 32.1
+- **telesls** — PDF p. 451; Persian OCR confidence 15.3; head match 0.4; head OCR confidence 42.9
+- **telesthetlc** — PDF p. 451; Persian OCR confidence 78.4; head match 0.727; head OCR confidence 90.8
+- **televlewer** — PDF p. 451; Persian OCR confidence 79.9; head match 0.36; head OCR confidence 16.0
+- **televlslonary** — PDF p. 451; Persian OCR confidence 75.4; head match 0.405; head OCR confidence 20.7
+- **telework** — PDF p. 451; Persian OCR confidence 56.2; head match 1.0; head OCR confidence 11.0
+- **teleworker** — PDF p. 451; Persian OCR confidence 58.9; head match 0.889; head OCR confidence 11.0
+- **tellc** — PDF p. 451; Persian OCR confidence 67.7; head match 0.295; head OCR confidence 40.8
+- **tellclty** — PDF p. 451; Persian OCR confidence 82.2; head match 0.365; head OCR confidence 39.7
+- **tellcs** — PDF p. 451; Persian OCR confidence 88.6; head match 0.333; head OCR confidence 39.7
+- **tellc verb** — PDF p. 451; Persian OCR confidence 63.1; head match 0.4; head OCR confidence 59.9
+- **tellurian** — PDF p. 452; Persian OCR confidence 77.0; head match 0.818; head OCR confidence 46.1
+- **telluric** — PDF p. 452; Persian OCR confidence 88.3; head match 0.8; head OCR confidence 39.6
+- **telos** — PDF p. 452; Persian OCR confidence 77.7; head match 0.389; head OCR confidence 43.5
+- **temperance** — PDF p. 452; Persian OCR confidence 82.9; head match 0.4; head OCR confidence 32.1
+- **temperate** — PDF p. 452; Persian OCR confidence 68.3; head match 0.371; head OCR confidence 24.2
+- **Temperate Zone** — PDF p. 452; Persian OCR confidence 91.9; head match 0.492; head OCR confidence 49.5
+- **Templar** — PDF p. 452; Persian OCR confidence 87.8; head match 0.467; head OCR confidence 43.6
+- **temple** — PDF p. 452; Persian OCR confidence 77.5; head match 0.42; head OCR confidence 54.6
+- **temporal** — PDF p. 452; Persian OCR confidence 60.4; head match 0.769; head OCR confidence 96.6
+- **temporal flux** — PDF p. 452; Persian OCR confidence 90.8; head match 0.75; head OCR confidence 72.0
+- **temporal Idea** — PDF p. 452; Persian OCR confidence 81.3; head match 0.562; head OCR confidence 72.0
+- **temporalism** — PDF p. 452; Persian OCR confidence 91.6; head match 0.759; head OCR confidence 49.8
+- **temporal order oles aii** — PDF p. 452; Persian OCR confidence 59.9; head match 0.788; head OCR confidence 67.9
+- **temporal sequence ole} .se28)** — PDF p. 452; Persian OCR confidence 91.2; head match 0.821; head OCR confidence 61.1
+- **temporal succession obj sui,** — PDF p. 452; Persian OCR confidence 60.3; head match 0.857; head OCR confidence 74.5
+- **temporariness** — PDF p. 452; Persian OCR confidence 57.5; head match 0.467; head OCR confidence 26.0
+- **temporary** — PDF p. 452; Persian OCR confidence 49.1; head match 1.0; head OCR confidence 64.6
+- **tempter** — PDF p. 452; Persian OCR confidence 75.9; head match 0.363; head OCR confidence 44.1
+- **tenability** — PDF p. 452; Persian OCR confidence 90.8; head match 0.389; head OCR confidence 21.3
+- **tenancy** — PDF p. 452; Persian OCR confidence 71.0; head match 0.377; head OCR confidence 20.9
+- **tenant** — PDF p. 452; Persian OCR confidence 62.3; head match 0.857; head OCR confidence 28.5
+- **tenant farmer** — PDF p. 452; Persian OCR confidence 56.5; head match 1.0; head OCR confidence 33.1
+- **tenant farming** — PDF p. 452; Persian OCR confidence 68.1; head match 0.8; head OCR confidence 33.1
+- **tenantry** — PDF p. 452; Persian OCR confidence 90.3; head match 0.316; head OCR confidence 51.1
+- **tendencious** — PDF p. 452; Persian OCR confidence 0; head match 0.467; head OCR confidence 91.6
+- **tendency** — PDF p. 452; Persian OCR confidence 69.8; head match 0.727; head OCR confidence 43.0
+- **tendentious** — PDF p. 452; Persian OCR confidence 89.4; head match 0.56; head OCR confidence 43.0
+- **tendentiousness** — PDF p. 452; Persian OCR confidence 64.7; head match 1.0; head OCR confidence 72.3
+- **tender** — PDF p. 452; Persian OCR confidence 76.5; head match 0.467; head OCR confidence 58.6
+- **tenderhearted** — PDF p. 452; Persian OCR confidence 86.0; head match 0.765; head OCR confidence 19.8
+- **tenderness** — PDF p. 452; Persian OCR confidence 81.6; head match 0.483; head OCR confidence 23.8
+- **tenet** — PDF p. 452; Persian OCR confidence 83.5; head match 0.206; head OCR confidence 36.5
+- **tense** — PDF p. 452; Persian OCR confidence 58.4; head match 0.467; head OCR confidence 30.1
+- **tense** — PDF p. 452; Persian OCR confidence 91.9; head match 0.333; head OCR confidence 40.1
+- **tensibility** — PDF p. 452; Persian OCR confidence 49.5; head match 0.416; head OCR confidence 43.9
+- **tensible** — PDF p. 452; Persian OCR confidence 51.4; head match 0.487; head OCR confidence 29.9
+- **tension** — PDF p. 452; Persian OCR confidence 53.3; head match 0.778; head OCR confidence 40.1
+- **tension reduction aes** — PDF p. 452; Persian OCR confidence 0.0; head match 0.914; head OCR confidence 73.0
+- **tensity** — PDF p. 452; Persian OCR confidence 76.4; head match 0.467; head OCR confidence 24.5
+- **tensive** — PDF p. 453; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **tentative** — PDF p. 453; Persian OCR confidence 0; head match 1.0; head OCR confidence 97.0
+- **tentativeness** — PDF p. 453; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.5
+- **teratogen** — PDF p. 453; Persian OCR confidence 46.9; head match 0.485; head OCR confidence 45.2
+- **teratology** — PDF p. 453; Persian OCR confidence 0.0; head match 0.769; head OCR confidence 46.1
+- **terminablllty** — PDF p. 453; Persian OCR confidence 46.9; head match 0.556; head OCR confidence 30.8
+- **termlnable** — PDF p. 453; Persian OCR confidence 58.7; head match 0.371; head OCR confidence 48.2
+- **terminal** — PDF p. 453; Persian OCR confidence 78.4; head match 0.762; head OCR confidence 39.4
+- **termination** — PDF p. 453; Persian OCR confidence 78.4; head match 0.71; head OCR confidence 32.1
+- **terminational L** — PDF p. 453; Persian OCR confidence 0; head match 0.815; head OCR confidence 81.3
+- **terminative** — PDF p. 453; Persian OCR confidence 62.7; head match 0.72; head OCR confidence 81.3
+- **terminography** — PDF p. 453; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.3
+- **terminological** — PDF p. 453; Persian OCR confidence 54.3; head match 1.0; head OCR confidence 96.5
+- **terminologist** — PDF p. 453; Persian OCR confidence 83.6; head match 0.839; head OCR confidence 45.7
+- **terminology** — PDF p. 453; Persian OCR confidence 63.9; head match 0.69; head OCR confidence 45.7
+- **terminus a quo (L.)** — PDF p. 453; Persian OCR confidence 88.6; head match 0.444; head OCR confidence 62.7
+- **term paper** — PDF p. 453; Persian OCR confidence 77.6; head match 0.382; head OCR confidence 54.3
+- **terms of trade** — PDF p. 453; Persian OCR confidence 63.0; head match 0.467; head OCR confidence 63.3
+- **ternary** — PDF p. 453; Persian OCR confidence 70.9; head match 0.35; head OCR confidence 29.9
+- **terra cotta (Ital.) Slo aks** — PDF p. 453; Persian OCR confidence 61.3; head match 0.8; head OCR confidence 64.8
+- **terrain** — PDF p. 453; Persian OCR confidence 73.4; head match 0.467; head OCR confidence 52.2
+- **terr a lncognlta (L.)** — PDF p. 453; Persian OCR confidence 75.2; head match 0.684; head OCR confidence 40.5
+- **terrene** — PDF p. 453; Persian OCR confidence 36.4; head match 0.737; head OCR confidence 36.3
+- **terrestrlal** — PDF p. 453; Persian OCR confidence 74.4; head match 0.522; head OCR confidence 36.3
+- **terrestrlalness** — PDF p. 453; Persian OCR confidence 36.4; head match 0.683; head OCR confidence 29.0
+- **terrestrial world SE ple** — PDF p. 453; Persian OCR confidence 90.8; head match 0.811; head OCR confidence 62.4
+- **terrltorlal** — PDF p. 453; Persian OCR confidence 68.6; head match 0.692; head OCR confidence 37.2
+- **terrltorlal Integrity** — PDF p. 453; Persian OCR confidence 55.8; head match 0.692; head OCR confidence 33.9
+- **terrltoriallsm** — PDF p. 453; Persian OCR confidence 77.1; head match 0.649; head OCR confidence 20.9
+- **terrltorlallst** — PDF p. 453; Persian OCR confidence 75.0; head match 0.629; head OCR confidence 35.7
+- **terrltoriality** — PDF p. 453; Persian OCR confidence 68.9; head match 0.423; head OCR confidence 31.7
+- **terrltorlallzatlon** — PDF p. 453; Persian OCR confidence 61.0; head match 0.778; head OCR confidence 47.1
+- **terrltorlal language** — PDF p. 453; Persian OCR confidence 67.3; head match 0.773; head OCR confidence 48.3
+- **territorlal sea** — PDF p. 453; Persian OCR confidence 91.5; head match 0.743; head OCR confidence 57.2
+- **terror** — PDF p. 454; Persian OCR confidence 81.2; head match 0.3; head OCR confidence 24.0
+- **terrorism** — PDF p. 454; Persian OCR confidence 59.5; head match 0.45; head OCR confidence 32.0
+- **terrorist** — PDF p. 454; Persian OCR confidence 55.2; head match 0.45; head OCR confidence 32.0
+- **terroristic** — PDF p. 454; Persian OCR confidence 26.6; head match 0.759; head OCR confidence 50.7
+- **terrorization** — PDF p. 454; Persian OCR confidence 90.4; head match 0.581; head OCR confidence 50.7
+- **terror novel** — PDF p. 454; Persian OCR confidence 79.2; head match 0.667; head OCR confidence 86.2
+- **tertiary accent** — PDF p. 454; Persian OCR confidence 66.0; head match 0.824; head OCR confidence 48.2
+- **tertiary sector one oy Gl** — PDF p. 454; Persian OCR confidence 84.0; head match 0.8; head OCR confidence 67.1
+- **tertiary stress ox** — PDF p. 454; Persian OCR confidence 54.8; head match 0.933; head OCR confidence 64.2
+- **test** — PDF p. 454; Persian OCR confidence 56.1; head match 0.329; head OCR confidence 66.1
+- **testability** — PDF p. 454; Persian OCR confidence 84.0; head match 0.428; head OCR confidence 42.9
+- **testable** — PDF p. 454; Persian OCR confidence 61.0; head match 0.415; head OCR confidence 32.3
+- **testament** — PDF p. 454; Persian OCR confidence 75.4; head match 0.371; head OCR confidence 32.3
+- **testamentary** — PDF p. 454; Persian OCR confidence 69.0; head match 0.454; head OCR confidence 49.1
+- **testate** — PDF p. 454; Persian OCR confidence 40.8; head match 1.0; head OCR confidence 93.1
+- **testate** — PDF p. 454; Persian OCR confidence 32.6; head match 0.8; head OCR confidence 93.1
+- **testatrix** — PDF p. 454; Persian OCR confidence 46.2; head match 0.583; head OCR confidence 48.4
+- **test excavation** — PDF p. 454; Persian OCR confidence 88.4; head match 0.478; head OCR confidence 48.2
+- **testificatlon** — PDF p. 454; Persian OCR confidence 78.5; head match 0.41; head OCR confidence 40.2
+- **testimonial** — PDF p. 454; Persian OCR confidence 72.1; head match 0.71; head OCR confidence 57.6
+- **testing** — PDF p. 454; Persian OCR confidence 8.6; head match 0.824; head OCR confidence 48.3
+- **tetralogy Olle** — PDF p. 454; Persian OCR confidence 90.0; head match 0.818; head OCR confidence 66.9
+- **tetrarchate** — PDF p. 454; Persian OCR confidence 0; head match 0.71; head OCR confidence 92.6
+- **Teutonicism** — PDF p. 454; Persian OCR confidence 0; head match 0.71; head OCR confidence 40.8
+- **Teuton ism** — PDF p. 454; Persian OCR confidence 75.3; head match 0.485; head OCR confidence 37.5
+- **Teutonist** — PDF p. 454; Persian OCR confidence 72.9; head match 0.75; head OCR confidence 16.8
+- **Teutonization** — PDF p. 454; Persian OCR confidence 34.3; head match 0.897; head OCR confidence 20.8
+- **text** — PDF p. 454; Persian OCR confidence 64.0; head match 0.267; head OCR confidence 40.5
+- **text analogue** — PDF p. 454; Persian OCR confidence 0.0; head match 0.774; head OCR confidence 51.4
+- **textbook** — PDF p. 454; Persian OCR confidence 84.2; head match 0.339; head OCR confidence 18.7
+- **text edition** — PDF p. 454; Persian OCR confidence 0.0; head match 1.0; head OCR confidence 60.2
+- **text editor Space** — PDF p. 454; Persian OCR confidence 38.7; head match 0.8; head OCR confidence 63.4
+- **textlng** — PDF p. 454; Persian OCR confidence 30.5; head match 0.75; head OCR confidence 42.2
+- **text processing ablaze** — PDF p. 454; Persian OCR confidence 88.2; head match 0.824; head OCR confidence 71.9
+- **textual** — PDF p. 454; Persian OCR confidence 61.2; head match 0.327; head OCR confidence 25.7
+- **textual criticism eye** — PDF p. 454; Persian OCR confidence 31.9; head match 0.914; head OCR confidence 73.8
+- **textualism** — PDF p. 454; Persian OCR confidence 30.5; head match 0.4; head OCR confidence 21.6
+- **textualist** — PDF p. 454; Persian OCR confidence 31.9; head match 0.389; head OCR confidence 4.4
+- **textuallty** — PDF p. 454; Persian OCR confidence 74.3; head match 0.35; head OCR confidence 21.2
+- **textualizing** — PDF p. 454; Persian OCR confidence 19.7; head match 0.828; head OCR confidence 39.3
+- **textuary** — PDF p. 454; Persian OCR confidence 41.9; head match 0.487; head OCR confidence 47.7
+- **textural** — PDF p. 454; Persian OCR confidence 82.2; head match 0.487; head OCR confidence 47.7
+- **texture** — PDF p. 454; Persian OCR confidence 87.7; head match 0.377; head OCR confidence 38.4
+- **thalassic** — PDF p. 454; Persian OCR confidence 62.2; head match 0.394; head OCR confidence 8.0
+- **thalassophobia** — PDF p. 454; Persian OCR confidence 92.0; head match 0.8; head OCR confidence 11.1
+- **thalweg (G.)** — PDF p. 454; Persian OCR confidence 59.8; head match 0.842; head OCR confidence 47.2
+- **thanatlsm** — PDF p. 454; Persian OCR confidence 82.5; head match 0.415; head OCR confidence 56.7
+- **thanatology** — PDF p. 455; Persian OCR confidence 91.0; head match 0.786; head OCR confidence 45.9
+- **thanatomanla** — PDF p. 455; Persian OCR confidence 90.8; head match 0.71; head OCR confidence 55.5
+- **thanatophobia** — PDF p. 455; Persian OCR confidence 84.0; head match 0.812; head OCR confidence 30.8
+- **thanatopsls** — PDF p. 455; Persian OCR confidence 91.4; head match 0.759; head OCR confidence 46.1
+- **thanatopsy** — PDF p. 455; Persian OCR confidence 85.1; head match 0.714; head OCR confidence 45.6
+- **thanatotlc** — PDF p. 455; Persian OCR confidence 85.4; head match 0.382; head OCR confidence 30.7
+- **thaumatology** — PDF p. 455; Persian OCR confidence 51.3; head match 0.774; head OCR confidence 45.6
+- **thaumaturge** — PDF p. 455; Persian OCR confidence 45.1; head match 0.846; head OCR confidence 28.5
+- **thaumaturgic(-al)** — PDF p. 455; Persian OCR confidence 48.5; head match 0.824; head OCR confidence 29.3
+- **thaumaturgist** — PDF p. 455; Persian OCR confidence 0; head match 0.492; head OCR confidence 92.5
+- **theanthropic(-al)** — PDF p. 455; Persian OCR confidence 47.3; head match 1.0; head OCR confidence 90.6
+- **theanthropism** — PDF p. 455; Persian OCR confidence 52.1; head match 0.923; head OCR confidence 91.4
+- **thearchy** — PDF p. 455; Persian OCR confidence 80.3; head match 0.476; head OCR confidence 92.1
+- **theater** — PDF p. 455; Persian OCR confidence 72.9; head match 0.426; head OCR confidence 46.3
+- **theater company** — PDF p. 455; Persian OCR confidence 16.4; head match 1.0; head OCR confidence 95.7
+- **theatergoer** — PDF p. 455; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.9
+- **theater-in-the-round** — PDF p. 455; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.6
+- **theatre** — PDF p. 455; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.7
+- **theatrlc(-al)** — PDF p. 455; Persian OCR confidence 76.7; head match 0.706; head OCR confidence 96.7
+- **theatrlcallsm** — PDF p. 455; Persian OCR confidence 88.7; head match 0.385; head OCR confidence 24.2
+- **theatrlcallty** — PDF p. 455; Persian OCR confidence 61.4; head match 0.416; head OCR confidence 37.0
+- **theatrics** — PDF p. 455; Persian OCR confidence 81.3; head match 0.434; head OCR confidence 29.3
+- **theist** — PDF p. 455; Persian OCR confidence 92.3; head match 0.467; head OCR confidence 35.9
+- **theistic** — PDF p. 455; Persian OCR confidence 88.9; head match 0.6; head OCR confidence 35.9
+- **thelematlsm** — PDF p. 455; Persian OCR confidence 90.5; head match 0.4; head OCR confidence 86.6
+- **thelematology** — PDF p. 455; Persian OCR confidence 82.9; head match 0.588; head OCR confidence 33.2
+- **thema** — PDF p. 455; Persian OCR confidence 84.7; head match 0.389; head OCR confidence 31.7
+- **thematic** — PDF p. 455; Persian OCR confidence 81.3; head match 0.476; head OCR confidence 31.7
+- **thematic fronting** — PDF p. 455; Persian OCR confidence 85.2; head match 0.8; head OCR confidence 51.3
+- **thematic role** — PDF p. 455; Persian OCR confidence 81.7; head match 0.467; head OCR confidence 51.3
+- **thematics** — PDF p. 455; Persian OCR confidence 66.5; head match 0.45; head OCR confidence 46.0
+- **thematic structure** — PDF p. 455; Persian OCR confidence 27.2; head match 0.739; head OCR confidence 37.7
+- **thematlzatlon** — PDF p. 455; Persian OCR confidence 78.9; head match 0.629; head OCR confidence 32.2
+- **theme** — PDF p. 455; Persian OCR confidence 83.1; head match 0.438; head OCR confidence 46.9
+- **theocentrlc** — PDF p. 455; Persian OCR confidence 51.1; head match 0.667; head OCR confidence 32.4
+- **theocentrism** — PDF p. 455; Persian OCR confidence 18.2; head match 0.727; head OCR confidence 20.9
+- **theocracy** — PDF p. 455; Persian OCR confidence 89.3; head match 0.42; head OCR confidence 25.9
+- **theocrat** — PDF p. 455; Persian OCR confidence 72.6; head match 0.727; head OCR confidence 38.8
+- **theocratic(-al)** — PDF p. 455; Persian OCR confidence 68.2; head match 0.4; head OCR confidence 2.8
+- **theodlclan** — PDF p. 455; Persian OCR confidence 91.5; head match 0.329; head OCR confidence 11.6
+- **theodlcy** — PDF p. 455; Persian OCR confidence 65.4; head match 0.667; head OCR confidence 30.7
+- **theogonic holy** — PDF p. 455; Persian OCR confidence 89.6; head match 0.818; head OCR confidence 62.4
+- **theogonist** — PDF p. 455; Persian OCR confidence 89.5; head match 0.696; head OCR confidence 62.4
+- **theogony** — PDF p. 455; Persian OCR confidence 83.2; head match 0.361; head OCR confidence 37.7
+- **theography** — PDF p. 455; Persian OCR confidence 79.2; head match 0.769; head OCR confidence 46.0
+- **theolinguistlcs** — PDF p. 455; Persian OCR confidence 61.1; head match 0.737; head OCR confidence 40.0
+- **theologlcal** — PDF p. 455; Persian OCR confidence 85.8; head match 0.762; head OCR confidence 28.1
+- **theological virtues .,SUI>~** — PDF p. 455; Persian OCR confidence 0; head match 0.717; head OCR confidence 38.0
+- **theologlzlng** — PDF p. 455; Persian OCR confidence 68.2; head match 0.833; head OCR confidence 52.3
+- **theomachy** — PDF p. 456; Persian OCR confidence 80.0; head match 0.818; head OCR confidence 50.5
+- **theomania** — PDF p. 456; Persian OCR confidence 31.6; head match 0.857; head OCR confidence 46.1
+- **theomorphic** — PDF p. 456; Persian OCR confidence 90.9; head match 0.786; head OCR confidence 46.2
+- **theomorphism** — PDF p. 456; Persian OCR confidence 48.1; head match 0.759; head OCR confidence 46.2
+- **theonomous** — PDF p. 456; Persian OCR confidence 58.4; head match 0.467; head OCR confidence 44.4
+- **theonomy** — PDF p. 456; Persian OCR confidence 41.2; head match 0.487; head OCR confidence 46.2
+- **theophanic** — PDF p. 456; Persian OCR confidence 81.0; head match 0.833; head OCR confidence 49.4
+- **theophany** — PDF p. 456; Persian OCR confidence 63.7; head match 0.696; head OCR confidence 49.4
+- **theophobla** — PDF p. 456; Persian OCR confidence 45.5; head match 0.72; head OCR confidence 46.4
+- **theophoric** — PDF p. 456; Persian OCR confidence 73.7; head match 0.833; head OCR confidence 45.0
+- **theorem** — PDF p. 456; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **theoretic(-al) e585** — PDF p. 456; Persian OCR confidence 19.7; head match 0.846; head OCR confidence 63.8
+- **theoretical model Gyii Jas** — PDF p. 456; Persian OCR confidence 49.7; head match 0.821; head OCR confidence 65.2
+- **theoretical reason** — PDF p. 456; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **theoretical structure** — PDF p. 456; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **theoretician** — PDF p. 456; Persian OCR confidence 60.9; head match 0.828; head OCR confidence 46.2
+- **theoretics** — PDF p. 456; Persian OCR confidence 88.0; head match 0.467; head OCR confidence 42.9
+- **theorist** — PDF p. 456; Persian OCR confidence 0; head match 0.75; head OCR confidence 93.1
+- **theorization** — PDF p. 456; Persian OCR confidence 63.6; head match 1.0; head OCR confidence 92.4
+- **theorizer** — PDF p. 456; Persian OCR confidence 0; head match 0.947; head OCR confidence 48.2
+- **theory** — PDF p. 456; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **theory-laden** — PDF p. 456; Persian OCR confidence 57.7; head match 0.846; head OCR confidence 46.2
+- **theory of games** — PDF p. 456; Persian OCR confidence 0; head match 0.722; head OCR confidence 96.2
+- **theosophic(-al)** — PDF p. 456; Persian OCR confidence 47.9; head match 0.828; head OCR confidence 38.6
+- **theosophist** — PDF p. 456; Persian OCR confidence 51.7; head match 1.0; head OCR confidence 19.1
+- **theosophy** — PDF p. 456; Persian OCR confidence 55.8; head match 0.8; head OCR confidence 19.1
+- **therapeutic(-al) ~t..J~** — PDF p. 456; Persian OCR confidence 0; head match 0.667; head OCR confidence 24.3
+- **therapeutics** — PDF p. 456; Persian OCR confidence 55.9; head match 0.454; head OCR confidence 26.3
+- **therapeutlst** — PDF p. 456; Persian OCR confidence 0; head match 0.727; head OCR confidence 81.3
+- **therapy** — PDF p. 456; Persian OCR confidence 85.8; head match 0.35; head OCR confidence 27.2
+- **theriomorphic** — PDF p. 456; Persian OCR confidence 91.7; head match 0.788; head OCR confidence 38.9
+- **therlomorphlsm** — PDF p. 456; Persian OCR confidence 86.1; head match 0.647; head OCR confidence 38.9
+- **therlomorphous** — PDF p. 456; Persian OCR confidence 92.0; head match 0.743; head OCR confidence 47.1
+- **thesaurus (L.)** — PDF p. 456; Persian OCR confidence 40.0; head match 0.8; head OCR confidence 44.7
+- **thesis** — PDF p. 456; Persian OCR confidence 82.6; head match 0.494; head OCR confidence 31.4
+- **Thespian** — PDF p. 456; Persian OCR confidence 72.3; head match 0.487; head OCR confidence 51.2
+- **theurgic(-al)** — PDF p. 456; Persian OCR confidence 67.5; head match 0.438; head OCR confidence 31.1
+- **theurglst** — PDF p. 456; Persian OCR confidence 58.7; head match 0.375; head OCR confidence 13.9
+- **theurgy** — PDF p. 456; Persian OCR confidence 74.6; head match 0.327; head OCR confidence 29.5
+- **thing** — PDF p. 456; Persian OCR confidence 87.0; head match 0.714; head OCR confidence 54.5
+- **thing-in-itself** — PDF p. 456; Persian OCR confidence 59.1; head match 1.0; head OCR confidence 91.2
+- **thlngllke** — PDF p. 456; Persian OCR confidence 61.3; head match 0.609; head OCR confidence 46.6
+- **thingness** — PDF p. 456; Persian OCR confidence 75.4; head match 0.818; head OCR confidence 16.3
+- **thlnkable** — PDF p. 456; Persian OCR confidence 87.5; head match 0.727; head OCR confidence 33.7
+- **thinker** — PDF p. 456; Persian OCR confidence 54.5; head match 0.42; head OCR confidence 33.7
+- **thinking .r fa** — PDF p. 456; Persian OCR confidence 64.7; head match 0.371; head OCR confidence 9.4
+- **think tank** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **third gender** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **Third World** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **Third Worlder** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.9
+- **Third Worldism** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.3
+- **Third Worldist** — PDF p. 457; Persian OCR confidence 0; head match 0.923; head OCR confidence 92.7
+- **thisness** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.1
+- **this-worldliness** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **this-worldly** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.6
+- **Thomism** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **Thomist** — PDF p. 457; Persian OCR confidence 0; head match 0.857; head OCR confidence 92.0
+- **Thomistic** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.1
+- **thought** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.1
+- **thought control J** — PDF p. 457; Persian OCR confidence 0.1; head match 0.966; head OCR confidence 94.3
+- **thought disorder** — PDF p. 457; Persian OCR confidence 47.0; head match 0.769; head OCR confidence 46.2
+- **thoughtful** — PDF p. 457; Persian OCR confidence 74.6; head match 0.412; head OCR confidence 41.5
+- **thoughtfulness** — PDF p. 457; Persian OCR confidence 78.4; head match 0.456; head OCR confidence 14.8
+- **thought-stopping** — PDF p. 457; Persian OCR confidence 89.5; head match 0.769; head OCR confidence 45.5
+- **Thracian** — PDF p. 457; Persian OCR confidence 85.1; head match 0.8; head OCR confidence 48.5
+- **threnodial** — PDF p. 457; Persian OCR confidence 30.5; head match 0.545; head OCR confidence 48.5
+- **threnodlc** — PDF p. 457; Persian OCR confidence 0; head match 0.483; head OCR confidence 92.9
+- **threnodic** — PDF p. 457; Persian OCR confidence 35.3; head match 0.842; head OCR confidence 91.1
+- **threnody** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.7
+- **threshold** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 72.0
+- **thrift** — PDF p. 457; Persian OCR confidence 88.6; head match 0.365; head OCR confidence 44.0
+- **thriftiness** — PDF p. 457; Persian OCR confidence 90.6; head match 0.5; head OCR confidence 44.0
+- **thrifty** — PDF p. 457; Persian OCR confidence 86.4; head match 0.125; head OCR confidence 20.5
+- **throne** — PDF p. 457; Persian OCR confidence 66.7; head match 0.267; head OCR confidence 20.5
+- **Throne of God Al Bye** — PDF p. 457; Persian OCR confidence 74.0; head match 0.815; head OCR confidence 71.8
+- **thrown** — PDF p. 457; Persian OCR confidence 90.2; head match 0.467; head OCR confidence 48.0
+- **thug** — PDF p. 457; Persian OCR confidence 74.1; head match 0.329; head OCR confidence 42.9
+- **thumb index Liao,** — PDF p. 457; Persian OCR confidence 77.6; head match 0.833; head OCR confidence 80.9
+- **Tibeto-Burman** — PDF p. 457; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.8
+- **tillage** — PDF p. 457; Persian OCR confidence 80.5; head match 0.49; head OCR confidence 50.1
+- **tiller** — PDF p. 457; Persian OCR confidence 89.7; head match 0.75; head OCR confidence 32.2
+- **timbre (Fr.) Gath** — PDF p. 457; Persian OCR confidence 52.4; head match 0.8; head OCR confidence 61.2
+- **time** — PDF p. 457; Persian OCR confidence 65.4; head match 0.35; head OCR confidence 61.2
+- **time budget** — PDF p. 457; Persian OCR confidence 88.8; head match 0.714; head OCR confidence 44.9
+- **tlmecard** — PDF p. 457; Persian OCR confidence 16.4; head match 0.408; head OCR confidence 32.4
+- **time clock** — PDF p. 457; Persian OCR confidence 92.9; head match 0.72; head OCR confidence 43.1
+- **time cost** — PDF p. 457; Persian OCR confidence 88.1; head match 0.727; head OCR confidence 51.1
+- **time credit** — PDF p. 457; Persian OCR confidence 46.1; head match 0.5; head OCR confidence 51.1
+- **time deposit** — PDF p. 457; Persian OCR confidence 43.0; head match 0.481; head OCR confidence 48.1
+- **time lag** — PDF p. 457; Persian OCR confidence 41.8; head match 0.824; head OCR confidence 44.4
+- **timeless** — PDF p. 457; Persian OCR confidence 89.9; head match 0.556; head OCR confidence 44.4
+- **timelessness** — PDF p. 457; Persian OCR confidence 89.0; head match 0.727; head OCR confidence 14.6
+- **time-limit ol** — PDF p. 457; Persian OCR confidence 48.1; head match 0.9; head OCR confidence 59.5
+- **time loan** — PDF p. 457; Persian OCR confidence 91.1; head match 0.727; head OCR confidence 69.7
+- **time machine** — PDF p. 457; Persian OCR confidence 69.5; head match 0.759; head OCR confidence 66.8
+- **time money** — PDF p. 457; Persian OCR confidence 56.3; head match 0.72; head OCR confidence 65.5
+- **time order whi wy** — PDF p. 457; Persian OCR confidence 86.5; head match 0.783; head OCR confidence 68.5
+- **time perception ols; Gab.»** — PDF p. 457; Persian OCR confidence 68.8; head match 0.824; head OCR confidence 58.5
+- **time planning** — PDF p. 457; Persian OCR confidence 8.0; head match 0.828; head OCR confidence 45.6
+- **time rate sy** — PDF p. 458; Persian OCR confidence 53.5; head match 0.889; head OCR confidence 73.3
+- **time reckoning Gkeelf** — PDF p. 458; Persian OCR confidence 87.6; head match 0.812; head OCR confidence 64.2
+- **timesaver** — PDF p. 458; Persian OCR confidence 73.3; head match 0.75; head OCR confidence 45.7
+- **timesaving** — PDF p. 458; Persian OCR confidence 66.9; head match 0.741; head OCR confidence 45.8
+- **time schedule Gaugl** — PDF p. 458; Persian OCR confidence 84.0; head match 0.828; head OCR confidence 70.8
+- **timeserver** — PDF p. 458; Persian OCR confidence 84.9; head match 0.424; head OCR confidence 38.1
+- **timeserving** — PDF p. 458; Persian OCR confidence 91.4; head match 0.412; head OCR confidence 38.1
+- **time standard** — PDF p. 458; Persian OCR confidence 90.9; head match 0.828; head OCR confidence 51.2
+- **time study sxe;** — PDF p. 458; Persian OCR confidence 64.6; head match 0.857; head OCR confidence 69.7
+- **timetable** — PDF p. 458; Persian OCR confidence 45.6; head match 0.571; head OCR confidence 69.7
+- **tlme-trlal** — PDF p. 458; Persian OCR confidence 77.4; head match 0.7; head OCR confidence 76.4
+- **time-wage** — PDF p. 458; Persian OCR confidence 61.2; head match 0.526; head OCR confidence 76.4
+- **timeworn** — PDF p. 458; Persian OCR confidence 66.9; head match 0.737; head OCR confidence 54.1
+- **time zone** — PDF p. 458; Persian OCR confidence 52.5; head match 0.762; head OCR confidence 75.8
+- **timid** — PDF p. 458; Persian OCR confidence 66.9; head match 0.769; head OCR confidence 66.6
+- **timidness** — PDF p. 458; Persian OCR confidence 0; head match 0.593; head OCR confidence 47.9
+- **timing Sol;** — PDF p. 458; Persian OCR confidence 79.6; head match 0.8; head OCR confidence 72.3
+- **timocracy** — PDF p. 458; Persian OCR confidence 62.8; head match 0.485; head OCR confidence 35.9
+- **tlmocratlc** — PDF p. 458; Persian OCR confidence 65.5; head match 0.519; head OCR confidence 35.9
+- **timological** — PDF p. 458; Persian OCR confidence 64.1; head match 0.416; head OCR confidence 40.3
+- **timology** — PDF p. 458; Persian OCR confidence 80.0; head match 0.8; head OCR confidence 30.9
+- **Titanism** — PDF p. 458; Persian OCR confidence 88.7; head match 0.8; head OCR confidence 46.5
+- **title** — PDF p. 458; Persian OCR confidence 56.6; head match 0.269; head OCR confidence 27.9
+- **title deed He ais** — PDF p. 458; Persian OCR confidence 53.8; head match 0.783; head OCR confidence 60.6
+- **Titoism** — PDF p. 458; Persian OCR confidence 88.3; head match 0.49; head OCR confidence 44.3
+- **titular** — PDF p. 458; Persian OCR confidence 79.0; head match 0.408; head OCR confidence 43.9
+- **tmesis** — PDF p. 458; Persian OCR confidence 68.3; head match 0.8; head OCR confidence 30.2
+- **Tocharlan** — PDF p. 458; Persian OCR confidence 82.0; head match 0.727; head OCR confidence 45.6
+- **tocology** — PDF p. 458; Persian OCR confidence 82.5; head match 0.762; head OCR confidence 28.3
+- **togetherness tl** — PDF p. 458; Persian OCR confidence 39.5; head match 0.923; head OCR confidence 57.6
+- **token** — PDF p. 458; Persian OCR confidence 82.6; head match 0.412; head OCR confidence 41.9
+- **token economy** — PDF p. 458; Persian OCR confidence 40.2; head match 0.442; head OCR confidence 62.2
+- **tokenism** — PDF p. 458; Persian OCR confidence 72.0; head match 0.339; head OCR confidence 41.5
+- **tokenlstlc** — PDF p. 458; Persian OCR confidence 50.5; head match 0.8; head OCR confidence 52.0
+- **token money** — PDF p. 458; Persian OCR confidence 74.6; head match 0.412; head OCR confidence 38.4
+- **Tokharlan** — PDF p. 458; Persian OCR confidence 0; head match 0.467; head OCR confidence 91.5
+- **tokology** — PDF p. 458; Persian OCR confidence 0; head match 0.467; head OCR confidence 91.0
+- **tolerance** — PDF p. 458; Persian OCR confidence 78.8; head match 0.72; head OCR confidence 40.2
+- **tolerant** — PDF p. 458; Persian OCR confidence 72.3; head match 0.431; head OCR confidence 33.6
+- **tolerantism** — PDF p. 458; Persian OCR confidence 92.7; head match 0.621; head OCR confidence 33.6
+- **toleration** — PDF p. 458; Persian OCR confidence 70.9; head match 0.4; head OCR confidence 35.8
+- **tolerative** — PDF p. 458; Persian OCR confidence 66.3; head match 0.571; head OCR confidence 43.5
+- **tomb** — PDF p. 458; Persian OCR confidence 56.3; head match 0.5; head OCR confidence 3.7
+- **tonal** — PDF p. 458; Persian OCR confidence 86.1; head match 0.35; head OCR confidence 35.0
+- **tonality** — PDF p. 458; Persian OCR confidence 66.9; head match 0.431; head OCR confidence 42.3
+- **tonal language tls ohs** — PDF p. 458; Persian OCR confidence 91.9; head match 0.812; head OCR confidence 55.9
+- **tone** — PDF p. 458; Persian OCR confidence 75.3; head match 0.467; head OCR confidence 40.4
+- **tone group** — PDF p. 458; Persian OCR confidence 86.3; head match 0.75; head OCR confidence 63.7
+- **tone language** — PDF p. 458; Persian OCR confidence 59.9; head match 0.828; head OCR confidence 42.8
+- **toneme** — PDF p. 458; Persian OCR confidence 89.3; head match 0.442; head OCR confidence 32.0
+- **tonemic** — PDF p. 458; Persian OCR confidence 76.1; head match 0.737; head OCR confidence 35.9
+- **tonemics** — PDF p. 458; Persian OCR confidence 84.0; head match 0.8; head OCR confidence 35.9
+- **tonetics** — PDF p. 458; Persian OCR confidence 91.9; head match 0.762; head OCR confidence 40.6
+- **tone unit** — PDF p. 458; Persian OCR confidence 89.5; head match 0.762; head OCR confidence 61.9
+- **tonic** — PDF p. 458; Persian OCR confidence 64.2; head match 0.311; head OCR confidence 61.9
+- **tonicity** — PDF p. 458; Persian OCR confidence 52.9; head match 0.762; head OCR confidence 22.6
+- **tonic syllable** — PDF p. 458; Persian OCR confidence 79.4; head match 0.479; head OCR confidence 49.4
+- **tonology** — PDF p. 459; Persian OCR confidence 80.0; head match 0.467; head OCR confidence 45.9
+- **tool** — PDF p. 459; Persian OCR confidence 89.5; head match 0.467; head OCR confidence 65.5
+- **toolmaker** — PDF p. 459; Persian OCR confidence 91.2; head match 0.75; head OCR confidence 35.8
+- **topic** — PDF p. 459; Persian OCR confidence 45.2; head match 0.25; head OCR confidence 27.6
+- **topographer Lisl** — PDF p. 459; Persian OCR confidence 58.9; head match 0.846; head OCR confidence 74.3
+- **topographic(-al) (al_) Sel.)** — PDF p. 459; Persian OCR confidence 49.2; head match 0.839; head OCR confidence 58.3
+- **topography** — PDF p. 459; Persian OCR confidence 75.4; head match 0.483; head OCR confidence 34.2
+- **topologic(-al)** — PDF p. 459; Persian OCR confidence 75.8; head match 0.467; head OCR confidence 29.5
+- **topologist** — PDF p. 459; Persian OCR confidence 77.7; head match 0.769; head OCR confidence 45.9
+- **topology** — PDF p. 459; Persian OCR confidence 81.4; head match 0.762; head OCR confidence 48.0
+- **topomastlcs** — PDF p. 459; Persian OCR confidence 68.6; head match 0.412; head OCR confidence 50.3
+- **toponym** — PDF p. 459; Persian OCR confidence 17.0; head match 0.737; head OCR confidence 56.5
+- **toponymic(-al)** — PDF p. 459; Persian OCR confidence 0.0; head match 0.815; head OCR confidence 45.5
+- **toponymy** — PDF p. 459; Persian OCR confidence 82.7; head match 0.408; head OCR confidence 45.5
+- **topotype** — PDF p. 459; Persian OCR confidence 85.0; head match 0.487; head OCR confidence 55.2
+- **Torah** — PDF p. 459; Persian OCR confidence 72.2; head match 0.769; head OCR confidence 65.8
+- **toreutic** — PDF p. 459; Persian OCR confidence 81.2; head match 0.448; head OCR confidence 44.3
+- **toreutics** — PDF p. 459; Persian OCR confidence 83.3; head match 0.485; head OCR confidence 44.3
+- **torpor** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **torso (Ital.)** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 72.6
+- **torture** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 42.8
+- **torturer** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **torturous** — PDF p. 459; Persian OCR confidence 25.2; head match 0.706; head OCR confidence 96.8
+- **Toryism** — PDF p. 459; Persian OCR confidence 69.2; head match 0.737; head OCR confidence 49.4
+- **total depravity** — PDF p. 459; Persian OCR confidence 68.7; head match 0.718; head OCR confidence 38.6
+- **total dlsability** — PDF p. 459; Persian OCR confidence 72.3; head match 0.737; head OCR confidence 63.5
+- **totalitarlan** — PDF p. 459; Persian OCR confidence 54.4; head match 0.32; head OCR confidence 63.5
+- **totalltarlanism townsman** — PDF p. 459; Persian OCR confidence 0; head match 0.566; head OCR confidence 21.6
+- **totalltarianist** — PDF p. 459; Persian OCR confidence 57.1; head match 0.7; head OCR confidence 46.3
+- **totality** — PDF p. 459; Persian OCR confidence 45.3; head match 0.35; head OCR confidence 19.4
+- **totalizable** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 44.7
+- **totalization** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 78.5
+- **totalizing** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 78.8
+- **totally disabled** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.8
+- **total reality** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.5
+- **total utility** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 82.7
+- **total war** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 76.0
+- **totem** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 52.3
+- **totemic** — PDF p. 459; Persian OCR confidence 0; head match 1.0; head OCR confidence 71.0
+- **totemism** — PDF p. 459; Persian OCR confidence 0; head match 0.875; head OCR confidence 55.4
+- **totemlst** — PDF p. 459; Persian OCR confidence 0; head match 0.875; head OCR confidence 43.0
+- **totemlstlc** — PDF p. 459; Persian OCR confidence 0; head match 0.8; head OCR confidence 43.1
+- **totum divisum (L.)** — PDF p. 459; Persian OCR confidence 0; head match 0.923; head OCR confidence 78.5
+- **totum simul (L.)** — PDF p. 459; Persian OCR confidence 0; head match 0.818; head OCR confidence 92.0
+- **touch** — PDF p. 459; Persian OCR confidence 49.0; head match 0.262; head OCR confidence 92.0
+- **tough-mindedness** — PDF p. 459; Persian OCR confidence 82.8; head match 0.833; head OCR confidence 20.7
+- **tour** — PDF p. 459; Persian OCR confidence 66.3; head match 0.215; head OCR confidence 18.1
+- **town** — PDF p. 459; Persian OCR confidence 74.8; head match 0.373; head OCR confidence 65.8
+- **town councll** — PDF p. 459; Persian OCR confidence 91.9; head match 0.714; head OCR confidence 59.1
+- **town dweller** — PDF p. 459; Persian OCR confidence 80.8; head match 0.733; head OCR confidence 62.8
+- **town hall eS NE** — PDF p. 459; Persian OCR confidence 92.8; head match 0.8; head OCR confidence 67.2
+- **town house** — PDF p. 459; Persian OCR confidence 89.9; head match 0.667; head OCR confidence 67.2
+- **townsfolk** — PDF p. 459; Persian OCR confidence 58.1; head match 0.467; head OCR confidence 38.3
+- **townspeople** — PDF p. 459; Persian OCR confidence 73.5; head match 0.462; head OCR confidence 37.6
+- **toxic** — PDF p. 460; Persian OCR confidence 52.9; head match 0.35; head OCR confidence 48.4
+- **toxic asset** — PDF p. 460; Persian OCR confidence 77.4; head match 0.741; head OCR confidence 52.8
+- **toxicity** — PDF p. 460; Persian OCR confidence 89.5; head match 0.8; head OCR confidence 46.7
+- **toxophobia** — PDF p. 460; Persian OCR confidence 69.4; head match 0.8; head OCR confidence 54.2
+- **traceability** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **traceable** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **tracer** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 97.0
+- **tracing** — PDF p. 460; Persian OCR confidence 86.0; head match 0.615; head OCR confidence 97.0
+- **tract** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **Tractarian** — PDF p. 460; Persian OCR confidence 39.7; head match 1.0; head OCR confidence 92.8
+- **tractate** — PDF p. 460; Persian OCR confidence 54.7; head match 0.467; head OCR confidence 45.7
+- **trade** — PDF p. 460; Persian OCR confidence 75.9; head match 0.304; head OCR confidence 34.5
+- **trade acceptance Rye oe** — PDF p. 460; Persian OCR confidence 59.6; head match 0.857; head OCR confidence 57.3
+- **trade allowance i** — PDF p. 460; Persian OCR confidence 0; head match 0.966; head OCR confidence 78.5
+- **trade balance** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **trade book** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **trade center** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **trade credit** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **trade cycle** — PDF p. 460; Persian OCR confidence 25.2; head match 0.667; head OCR confidence 96.7
+- **trade deficit** — PDF p. 460; Persian OCR confidence 20.5; head match 0.727; head OCR confidence 52.9
+- **trade discount** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **trade gap** — PDF p. 460; Persian OCR confidence 35.3; head match 0.5; head OCR confidence 96.7
+- **trade language** — PDF p. 460; Persian OCR confidence 50.2; head match 0.722; head OCR confidence 61.6
+- **trade magazine** — PDF p. 460; Persian OCR confidence 49.5; head match 0.722; head OCR confidence 60.4
+- **trademark** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **trade name** — PDF p. 460; Persian OCR confidence 90.0; head match 0.818; head OCR confidence 54.9
+- **trade-off** — PDF p. 460; Persian OCR confidence 35.9; head match 0.476; head OCR confidence 54.9
+- **trade price** — PDF p. 460; Persian OCR confidence 91.3; head match 0.769; head OCR confidence 76.6
+- **trader** — PDF p. 460; Persian OCR confidence 78.9; head match 0.382; head OCR confidence 76.6
+- **trade relations Sib daly,** — PDF p. 460; Persian OCR confidence 91.7; head match 0.8; head OCR confidence 70.6
+- **trade school yl;,..,** — PDF p. 460; Persian OCR confidence 0; head match 0.688; head OCR confidence 41.7
+- **trade secret** — PDF p. 460; Persian OCR confidence 48.4; head match 0.481; head OCR confidence 49.5
+- **tradesman** — PDF p. 460; Persian OCR confidence 71.1; head match 0.371; head OCR confidence 28.6
+- **tradespeople** — PDF p. 460; Persian OCR confidence 55.1; head match 0.75; head OCR confidence 43.9
+- **trade surplus** — PDF p. 460; Persian OCR confidence 42.1; head match 0.562; head OCR confidence 43.9
+- **trade union** — PDF p. 460; Persian OCR confidence 67.5; head match 0.741; head OCR confidence 61.6
+- **trade unionist** — PDF p. 460; Persian OCR confidence 69.7; head match 0.765; head OCR confidence 52.5
+- **trading center** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.2
+- **trading post** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 82.4
+- **traditlonal** — PDF p. 460; Persian OCR confidence 0; head match 0.909; head OCR confidence 44.4
+- **traditlonal institutions** — PDF p. 460; Persian OCR confidence 45.9; head match 0.815; head OCR confidence 49.2
+- **traditionalism** — PDF p. 460; Persian OCR confidence 54.4; head match 0.8; head OCR confidence 40.3
+- **traditionalist** — PDF p. 460; Persian OCR confidence 78.4; head match 0.445; head OCR confidence 32.2
+- **traditionalistic** — PDF p. 460; Persian OCR confidence 65.2; head match 0.457; head OCR confidence 32.9
+- **traditional sector** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **tradition-directed** — PDF p. 460; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.8
+- **traditionism** — PDF p. 460; Persian OCR confidence 0; head match 0.558; head OCR confidence 92.8
+- **traduclanlstic** — PDF p. 460; Persian OCR confidence 71.2; head match 0.769; head OCR confidence 92.0
+- **trafficker** — PDF p. 461; Persian OCR confidence 72.8; head match 0.833; head OCR confidence 48.4
+- **trafficking** — PDF p. 461; Persian OCR confidence 63.3; head match 0.733; head OCR confidence 37.8
+- **tragedian** — PDF p. 461; Persian OCR confidence 69.7; head match 0.36; head OCR confidence 39.1
+- **tragedienne SOE Se** — PDF p. 461; Persian OCR confidence 72.4; head match 0.815; head OCR confidence 57.8
+- **tragedy** — PDF p. 461; Persian OCR confidence 36.6; head match 0.778; head OCR confidence 51.5
+- **traglc(-al)** — PDF p. 461; Persian OCR confidence 71.7; head match 0.737; head OCR confidence 47.1
+- **tragic climax Sjly jl** — PDF p. 461; Persian OCR confidence 59.5; head match 0.8; head OCR confidence 59.3
+- **tragic flaw jl** — PDF p. 461; Persian OCR confidence 43.4; head match 0.909; head OCR confidence 64.5
+- **tragic irony** — PDF p. 461; Persian OCR confidence 55.0; head match 0.733; head OCR confidence 49.1
+- **tragicomedy** — PDF p. 461; Persian OCR confidence 58.2; head match 1.0; head OCR confidence 91.2
+- **tragicomic(-al)** — PDF p. 461; Persian OCR confidence 85.6; head match 0.75; head OCR confidence 50.5
+- **trainability** — PDF p. 461; Persian OCR confidence 82.9; head match 0.431; head OCR confidence 23.3
+- **trainable** — PDF p. 461; Persian OCR confidence 47.0; head match 0.406; head OCR confidence 39.4
+- **trained** — PDF p. 461; Persian OCR confidence 41.1; head match 1.0; head OCR confidence 96.3
+- **trainer** — PDF p. 461; Persian OCR confidence 41.0; head match 1.0; head OCR confidence 97.0
+- **training** — PDF p. 461; Persian OCR confidence 90.5; head match 0.667; head OCR confidence 97.0
+- **training center <sis-\\555** — PDF p. 461; Persian OCR confidence 88.0; head match 0.824; head OCR confidence 64.6
+- **training school** — PDF p. 461; Persian OCR confidence 69.6; head match 0.718; head OCR confidence 53.0
+- **trait** — PDF p. 461; Persian OCR confidence 81.5; head match 0.241; head OCR confidence 32.3
+- **traitor** — PDF p. 461; Persian OCR confidence 89.3; head match 0.737; head OCR confidence 69.0
+- **traitorous** — PDF p. 461; Persian OCR confidence 56.1; head match 0.727; head OCR confidence 69.0
+- **traitress** — PDF p. 461; Persian OCR confidence 72.8; head match 0.72; head OCR confidence 46.5
+- **trajectory** — PDF p. 461; Persian OCR confidence 68.1; head match 0.483; head OCR confidence 32.4
+- **trance tbe** — PDF p. 461; Persian OCR confidence 48.1; head match 0.8; head OCR confidence 64.0
+- **tranquilizer** — PDF p. 461; Persian OCR confidence 90.7; head match 0.828; head OCR confidence 13.1
+- **transaction** — PDF p. 461; Persian OCR confidence 59.1; head match 0.733; head OCR confidence 22.0
+- **transactional** — PDF p. 461; Persian OCR confidence 56.8; head match 0.743; head OCR confidence 48.7
+- **transactional analysis** — PDF p. 461; Persian OCR confidence 48.0; head match 1.0; head OCR confidence 94.4
+- **transcendence** — PDF p. 461; Persian OCR confidence 57.1; head match 0.867; head OCR confidence 22.8
+- **transcendency** — PDF p. 461; Persian OCR confidence 0; head match 1.0; head OCR confidence 65.7
+- **transcendental** — PDF p. 461; Persian OCR confidence 50.9; head match 1.0; head OCR confidence 69.7
+- **transcendental ego laa! ot li** — PDF p. 461; Persian OCR confidence 58.6; head match 0.829; head OCR confidence 56.7
+- **transcendental god lace has** — PDF p. 461; Persian OCR confidence 92.3; head match 0.829; head OCR confidence 69.3
+- **transcendentalism** — PDF p. 461; Persian OCR confidence 36.8; head match 1.0; head OCR confidence 45.4
+- **transcendentalist** — PDF p. 461; Persian OCR confidence 38.6; head match 0.739; head OCR confidence 22.7
+- **transcendental logic cu! gluse Ql** — PDF p. 461; Persian OCR confidence 75.1; head match 0.809; head OCR confidence 57.5
+- **transcendental principles ,..x.|)ol** — PDF p. 462; Persian OCR confidence 62.0; head match 0.941; head OCR confidence 62.9
+- **transcendental self erlaal** — PDF p. 462; Persian OCR confidence 57.0; head match 0.857; head OCR confidence 64.2
+- **transcendental world i** — PDF p. 462; Persian OCR confidence 0; head match 0.974; head OCR confidence 77.4
+- **transcending** — PDF p. 462; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **transcontinental** — PDF p. 462; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **transcriber** — PDF p. 462; Persian OCR confidence 0; head match 1.0; head OCR confidence 97.0
+- **transcribing** — PDF p. 462; Persian OCR confidence 45.6; head match 0.454; head OCR confidence 33.6
+- **transcription** — PDF p. 462; Persian OCR confidence 11.1; head match 1.0; head OCR confidence 96.9
+- **transcriptional** — PDF p. 462; Persian OCR confidence 0; head match 0.933; head OCR confidence 96.5
+- **transcultural** — PDF p. 462; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.1
+- **transculturation** — PDF p. 462; Persian OCR confidence 0; head match 0.938; head OCR confidence 92.2
+- **transduction** — PDF p. 462; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **transductive** — PDF p. 462; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.4
+- **transferable** — PDF p. 462; Persian OCR confidence 75.8; head match 0.774; head OCR confidence 44.9
+- **transferal** — PDF p. 462; Persian OCR confidence 70.2; head match 0.467; head OCR confidence 28.0
+- **transference** — PDF p. 462; Persian OCR confidence 77.0; head match 0.727; head OCR confidence 32.3
+- **transferentlal** — PDF p. 462; Persian OCR confidence 65.7; head match 0.788; head OCR confidence 44.8
+- **transfer of learning** — PDF p. 462; Persian OCR confidence 46.5; head match 1.0; head OCR confidence 96.7
+- **transfer of technology** — PDF p. 462; Persian OCR confidence 52.6; head match 1.0; head OCR confidence 83.1
+- **transfiguration** — PDF p. 462; Persian OCR confidence 76.2; head match 0.75; head OCR confidence 31.5
+- **transformation** — PDF p. 462; Persian OCR confidence 41.4; head match 0.824; head OCR confidence 29.6
+- **transformatlonal** — PDF p. 462; Persian OCR confidence 78.6; head match 0.789; head OCR confidence 32.1
+- **transformed** — PDF p. 462; Persian OCR confidence 91.5; head match 0.786; head OCR confidence 37.2
+- **transformism** — PDF p. 462; Persian OCR confidence 81.7; head match 0.75; head OCR confidence 38.3
+- **transgender dle.** — PDF p. 462; Persian OCR confidence 44.1; head match 0.88; head OCR confidence 70.9
+- **transhistorical eels** — PDF p. 462; Persian OCR confidence 45.8; head match 0.882; head OCR confidence 55.6
+- **transhumance** — PDF p. 462; Persian OCR confidence 51.6; head match 0.774; head OCR confidence 57.4
+- **transhumanism** — PDF p. 462; Persian OCR confidence 83.3; head match 0.743; head OCR confidence 22.4
+- **transhumant** — PDF p. 462; Persian OCR confidence 86.3; head match 0.759; head OCR confidence 38.6
+- **transience** — PDF p. 462; Persian OCR confidence 64.9; head match 0.741; head OCR confidence 37.6
+- **transiency** — PDF p. 462; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.8
+- **transience** — PDF p. 462; Persian OCR confidence 64.9; head match 0.842; head OCR confidence 96.8
+- **transit** — PDF p. 462; Persian OCR confidence 82.6; head match 0.377; head OCR confidence 19.0
+- **transition** — PDF p. 462; Persian OCR confidence 84.3; head match 0.714; head OCR confidence 27.5
+- **transitional** — PDF p. 462; Persian OCR confidence 79.3; head match 0.733; head OCR confidence 27.5
+- **transitlonary** — PDF p. 462; Persian OCR confidence 0; head match 0.454; head OCR confidence 96.8
+- **transitive** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 97.0
+- **transitivity** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **transitoriness** — PDF p. 463; Persian OCR confidence 0; head match 0.815; head OCR confidence 63.4
+- **transitory** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **transit trade** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **translatability** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.2
+- **translatable** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **translation** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.9
+- **translational** — PDF p. 463; Persian OCR confidence 0; head match 0.923; head OCR confidence 96.1
+- **translatology** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.3
+- **translator** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.9
+- **transliteration** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.6
+- **transmarginal** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.9
+- **transmigrant** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.2
+- **transmigration** — PDF p. 463; Persian OCR confidence 55.0; head match 1.0; head OCR confidence 65.7
+- **transmigration** — PDF p. 463; Persian OCR confidence 60.4; head match 0.839; head OCR confidence 65.7
+- **transmigrator** — PDF p. 463; Persian OCR confidence 67.2; head match 0.839; head OCR confidence 46.1
+- **transmigratory** — PDF p. 463; Persian OCR confidence 36.6; head match 0.812; head OCR confidence 46.1
+- **transmitter** — PDF p. 463; Persian OCR confidence 84.3; head match 0.733; head OCR confidence 27.7
+- **transmutablllty** — PDF p. 463; Persian OCR confidence 82.1; head match 0.703; head OCR confidence 29.1
+- **transmutable RS** — PDF p. 463; Persian OCR confidence 53.0; head match 0.923; head OCR confidence 59.2
+- **transmutation** — PDF p. 463; Persian OCR confidence 59.7; head match 1.0; head OCR confidence 96.4
+- **transmutational** — PDF p. 463; Persian OCR confidence 0; head match 0.488; head OCR confidence 92.1
+- **trans muter** — PDF p. 463; Persian OCR confidence 78.2; head match 0.434; head OCR confidence 52.7
+- **transnational** — PDF p. 463; Persian OCR confidence 33.6; head match 1.0; head OCR confidence 96.8
+- **transoceanic** — PDF p. 463; Persian OCR confidence 73.8; head match 0.8; head OCR confidence 45.6
+- **transpacific** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.5
+- **transparence** — PDF p. 463; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.1
+- **transparency** — PDF p. 463; Persian OCR confidence 20.3; head match 1.0; head OCR confidence 96.1
+- **transparent** — PDF p. 463; Persian OCR confidence 4.6; head match 1.0; head OCR confidence 97.0
+- **transpersonal** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 40.4
+- **transplantation** — PDF p. 463; Persian OCR confidence 0; head match 0.933; head OCR confidence 96.2
+- **transplanted** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **transplanter** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.0
+- **transpontine** — PDF p. 463; Persian OCR confidence 0; head match 0.917; head OCR confidence 92.5
+- **transport** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **transportability** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.2
+- **transportable** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **transposable** — PDF p. 463; Persian OCR confidence 85.4; head match 0.494; head OCR confidence 39.6
+- **transposition** — PDF p. 463; Persian OCR confidence 60.7; head match 0.514; head OCR confidence 39.6
+- **transsexual** — PDF p. 463; Persian OCR confidence 83.6; head match 0.759; head OCR confidence 52.2
+- **transsexualism** — PDF p. 463; Persian OCR confidence 57.1; head match 0.778; head OCR confidence 46.3
+- **transsexuality** — PDF p. 463; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.2
+- **transshipment** — PDF p. 463; Persian OCR confidence 12.4; head match 0.839; head OCR confidence 45.4
+- **transsubstantiator** — PDF p. 463; Persian OCR confidence 64.7; head match 1.0; head OCR confidence 55.4
+- **transtextuality** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.8
+- **transvaluatlon** — PDF p. 463; Persian OCR confidence 77.0; head match 0.812; head OCR confidence 17.1
+- **transversal** — PDF p. 463; Persian OCR confidence 45.3; head match 1.0; head OCR confidence 96.9
+- **transverse** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.2
+- **transverseness** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 57.3
+- **transvestism** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 80.0
+- **transvestite** — PDF p. 463; Persian OCR confidence 0; head match 1.0; head OCR confidence 46.0
+- **Trappist** — PDF p. 463; Persian OCR confidence 44.4; head match 1.0; head OCR confidence 95.0
+- **trauma** — PDF p. 463; Persian OCR confidence 76.8; head match 0.429; head OCR confidence 95.0
+- **trauma-Inducing** — PDF p. 463; Persian OCR confidence 54.2; head match 0.456; head OCR confidence 35.7
+- **traumatic** — PDF p. 464; Persian OCR confidence 76.6; head match 0.467; head OCR confidence 32.1
+- **traumatism** — PDF p. 464; Persian OCR confidence 91.6; head match 0.667; head OCR confidence 83.0
+- **traumatizatlon** — PDF p. 464; Persian OCR confidence 92.2; head match 0.765; head OCR confidence 53.5
+- **traumatized** — PDF p. 464; Persian OCR confidence 75.5; head match 0.783; head OCR confidence 96.7
+- **traumatophllia** — PDF p. 464; Persian OCR confidence 87.6; head match 0.722; head OCR confidence 62.8
+- **travel** — PDF p. 464; Persian OCR confidence 52.8; head match 0.336; head OCR confidence 47.0
+- **travel agency** — PDF p. 464; Persian OCR confidence 87.6; head match 0.75; head OCR confidence 60.0
+- **traveler** — PDF p. 464; Persian OCR confidence 84.2; head match 0.35; head OCR confidence 60.0
+- **traveling** — PDF p. 464; Persian OCR confidence 80.9; head match 0.72; head OCR confidence 32.3
+- **traveling salesman** — PDF p. 464; Persian OCR confidence 85.7; head match 0.739; head OCR confidence 50.0
+- **traveling theater obs sis** — PDF p. 464; Persian OCR confidence 60.2; head match 0.842; head OCR confidence 79.4
+- **travelog** — PDF p. 464; Persian OCR confidence 0; head match 0.714; head OCR confidence 96.1
+- **travelogue** — PDF p. 464; Persian OCR confidence 58.6; head match 1.0; head OCR confidence 96.1
+- **travesty** — PDF p. 464; Persian OCR confidence 0; head match 1.0; head OCR confidence 97.0
+- **treacherous** — PDF p. 464; Persian OCR confidence 61.4; head match 1.0; head OCR confidence 96.6
+- **treacherousness** — PDF p. 464; Persian OCR confidence 0; head match 0.769; head OCR confidence 90.0
+- **treachery** — PDF p. 464; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **treason E** — PDF p. 464; Persian OCR confidence 57.8; head match 0.933; head OCR confidence 64.4
+- **treasonableness GSLs** — PDF p. 464; Persian OCR confidence 51.0; head match 0.882; head OCR confidence 69.0
+- **treasonous** — PDF p. 464; Persian OCR confidence 73.4; head match 0.8; head OCR confidence 46.9
+- **treasure** — PDF p. 464; Persian OCR confidence 85.2; head match 0.415; head OCR confidence 35.6
+- **treasurer** — PDF p. 464; Persian OCR confidence 82.4; head match 0.434; head OCR confidence 48.0
+- **treasure seeker cles** — PDF p. 464; Persian OCR confidence 60.0; head match 0.875; head OCR confidence 81.3
+- **treasureship** — PDF p. 464; Persian OCR confidence 30.0; head match 0.857; head OCR confidence 54.3
+- **treasury** — PDF p. 464; Persian OCR confidence 60.8; head match 0.415; head OCR confidence 46.9
+- **treasury bill** — PDF p. 464; Persian OCR confidence 66.1; head match 0.4; head OCR confidence 53.2
+- **treasury bond** — PDF p. 464; Persian OCR confidence 46.5; head match 0.494; head OCR confidence 60.1
+- **treasury general Sy,bals** — PDF p. 464; Persian OCR confidence 38.3; head match 0.833; head OCR confidence 74.1
+- **treasury note** — PDF p. 464; Persian OCR confidence 86.8; head match 0.606; head OCR confidence 74.1
+- **treatment ~.:,~** — PDF p. 464; Persian OCR confidence 68.8; head match 0.467; head OCR confidence 21.1
+- **treaty ALS** — PDF p. 464; Persian OCR confidence 79.7; head match 0.8; head OCR confidence 74.3
+- **tree of knowledge iil ady9** — PDF p. 464; Persian OCR confidence 76.7; head match 0.811; head OCR confidence 63.0
+- **tree of life Sie** — PDF p. 464; Persian OCR confidence 12.3; head match 0.87; head OCR confidence 73.3
+- **trend** — PDF p. 464; Persian OCR confidence 88.3; head match 0.35; head OCR confidence 40.5
+- **trend analysis** — PDF p. 464; Persian OCR confidence 66.4; head match 0.788; head OCR confidence 53.8
+- **trend line** — PDF p. 464; Persian OCR confidence 43.9; head match 1.0; head OCR confidence 83.5
+- **trespass** — PDF p. 464; Persian OCR confidence 70.6; head match 0.353; head OCR confidence 83.5
+- **triad** — PDF p. 464; Persian OCR confidence 89.9; head match 0.389; head OCR confidence 30.2
+- **triadic relation (ops Cape** — PDF p. 464; Persian OCR confidence 69.4; head match 0.811; head OCR confidence 59.4
+- **trial** — PDF p. 464; Persian OCR confidence 48.7; head match 0.304; head OCR confidence 20.1
+- **trial and error Pg Geil** — PDF p. 464; Persian OCR confidence 70.7; head match 0.812; head OCR confidence 69.4
+- **trial period rabesl** — PDF p. 464; Persian OCR confidence 85.7; head match 0.786; head OCR confidence 64.4
+- **triangular** — PDF p. 464; Persian OCR confidence 83.3; head match 0.714; head OCR confidence 58.9
+- **triangular Opi ty gua** — PDF p. 464; Persian OCR confidence 78.0; head match 0.839; head OCR confidence 58.9
+- **triarchy** — PDF p. 464; Persian OCR confidence 88.6; head match 0.431; head OCR confidence 35.3
+- **tribal** — PDF p. 464; Persian OCR confidence 87.7; head match 0.442; head OCR confidence 38.9
+- **tribalism** — PDF p. 464; Persian OCR confidence 68.7; head match 0.636; head OCR confidence 38.9
+- **tribalist** — PDF p. 464; Persian OCR confidence 41.2; head match 0.857; head OCR confidence 39.3
+- **tribal soclalism** — PDF p. 464; Persian OCR confidence 81.7; head match 0.667; head OCR confidence 39.3
+- **tribe** — PDF p. 464; Persian OCR confidence 63.6; head match 0.389; head OCR confidence 36.0
+- **tribesman** — PDF p. 464; Persian OCR confidence 68.7; head match 0.455; head OCR confidence 36.0
+- **trlbunate** — PDF p. 464; Persian OCR confidence 77.9; head match 0.6; head OCR confidence 39.6
+- **tributary** — PDF p. 464; Persian OCR confidence 69.1; head match 0.406; head OCR confidence 20.5
+- **tribute** — PDF p. 464; Persian OCR confidence 63.2; head match 0.408; head OCR confidence 38.0
+- **trlchotomizing** — PDF p. 464; Persian OCR confidence 38.4; head match 0.743; head OCR confidence 22.1
+- **trlchotomous** — PDF p. 464; Persian OCR confidence 53.6; head match 0.71; head OCR confidence 21.7
+- **trichotomy** — PDF p. 465; Persian OCR confidence 23.0; head match 0.8; head OCR confidence 46.1
+- **trickle-down theory h)** — PDF p. 465; Persian OCR confidence 62.8; head match 0.485; head OCR confidence 46.1
+- **tridimentional** — PDF p. 465; Persian OCR confidence 29.5; head match 0.929; head OCR confidence 93.2
+- **triggerman** — PDF p. 465; Persian OCR confidence 50.6; head match 0.467; head OCR confidence 30.6
+- **triglossia** — PDF p. 465; Persian OCR confidence 80.4; head match 0.467; head OCR confidence 16.8
+- **trilateral** — PDF p. 465; Persian OCR confidence 84.9; head match 0.833; head OCR confidence 51.0
+- **trilingual** — PDF p. 465; Persian OCR confidence 44.8; head match 0.8; head OCR confidence 54.7
+- **triliteral idee** — PDF p. 465; Persian OCR confidence 61.5; head match 0.833; head OCR confidence 62.9
+- **trilogy** — PDF p. 465; Persian OCR confidence 49.4; head match 0.49; head OCR confidence 48.0
+- **trimester** — PDF p. 465; Persian OCR confidence 80.4; head match 0.45; head OCR confidence 42.8
+- **trimestral** — PDF p. 465; Persian OCR confidence 82.4; head match 0.833; head OCR confidence 41.8
+- **trimestrial** — PDF p. 465; Persian OCR confidence 0; head match 0.686; head OCR confidence 41.8
+- **trimurtl {Skt.)** — PDF p. 465; Persian OCR confidence 86.4; head match 0.741; head OCR confidence 54.2
+- **Trine ey** — PDF p. 465; Persian OCR confidence 81.3; head match 0.833; head OCR confidence 62.3
+- **Trinitarian** — PDF p. 465; Persian OCR confidence 65.8; head match 0.71; head OCR confidence 32.4
+- **Trinitarian ism** — PDF p. 465; Persian OCR confidence 64.1; head match 0.757; head OCR confidence 46.0
+- **trinity** — PDF p. 465; Persian OCR confidence 82.4; head match 0.392; head OCR confidence 24.2
+- **trio** — PDF p. 465; Persian OCR confidence 87.9; head match 0.28; head OCR confidence 48.2
+- **tripartite** — PDF p. 465; Persian OCR confidence 71.6; head match 0.467; head OCR confidence 57.3
+- **trlphthongal** — PDF p. 465; Persian OCR confidence 88.4; head match 0.8; head OCR confidence 50.0
+- **trlple** — PDF p. 465; Persian OCR confidence 74.1; head match 0.412; head OCR confidence 55.8
+- **trlplet** — PDF p. 465; Persian OCR confidence 72.0; head match 0.556; head OCR confidence 55.8
+- **trlpllclty** — PDF p. 465; Persian OCR confidence 87.0; head match 0.609; head OCR confidence 64.6
+- **trlsyllablc (-al)** — PDF p. 465; Persian OCR confidence 74.5; head match 0.629; head OCR confidence 43.1
+- **trlsyllable** — PDF p. 465; Persian OCR confidence 83.6; head match 0.667; head OCR confidence 36.0
+- **trlthelsm** — PDF p. 465; Persian OCR confidence 88.7; head match 0.316; head OCR confidence 27.2
+- **trlthelst** — PDF p. 465; Persian OCR confidence 80.5; head match 0.316; head OCR confidence 27.2
+- **trlthelstlc(-al)** — PDF p. 465; Persian OCR confidence 73.0; head match 0.645; head OCR confidence 68.1
+- **triumph** — PDF p. 465; Persian OCR confidence 78.0; head match 0.392; head OCR confidence 41.8
+- **triumphal** — PDF p. 465; Persian OCR confidence 89.1; head match 0.394; head OCR confidence 28.4
+- **triumphalism** — PDF p. 465; Persian OCR confidence 53.8; head match 1.0; head OCR confidence 19.0
+- **triumphalist** — PDF p. 465; Persian OCR confidence 61.2; head match 0.8; head OCR confidence 40.9
+- **triumphant** — PDF p. 465; Persian OCR confidence 0; head match 1.0; head OCR confidence 40.9
+- **triumvir (L.)** — PDF p. 465; Persian OCR confidence 4.2; head match 1.0; head OCR confidence 38.5
+- **triumvirate** — PDF p. 465; Persian OCR confidence 76.9; head match 0.359; head OCR confidence 12.7
+- **triunlty** — PDF p. 465; Persian OCR confidence 73.9; head match 0.778; head OCR confidence 69.8
+- **trlvalued** — PDF p. 465; Persian OCR confidence 90.3; head match 0.727; head OCR confidence 52.5
+- **trlweekly** — PDF p. 465; Persian OCR confidence 81.2; head match 0.373; head OCR confidence 37.7
+- **troglodyte** — PDF p. 465; Persian OCR confidence 85.7; head match 0.769; head OCR confidence 31.0
+- **troglodytlc{-al)** — PDF p. 465; Persian OCR confidence 83.7; head match 0.722; head OCR confidence 51.5
+- **troika** — PDF p. 465; Persian OCR confidence 83.8; head match 0.494; head OCR confidence 37.6
+- **trope** — PDF p. 465; Persian OCR confidence 92.9; head match 0.35; head OCR confidence 42.9
+- **trophy** — PDF p. 465; Persian OCR confidence 79.0; head match 0.442; head OCR confidence 60.4
+- **troplcal** — PDF p. 465; Persian OCR confidence 49.4; head match 0.737; head OCR confidence 28.4
+- **tropic of Cancer** — PDF p. 465; Persian OCR confidence 63.7; head match 0.478; head OCR confidence 59.1
+- **Tropics** — PDF p. 465; Persian OCR confidence 80.8; head match 0.467; head OCR confidence 38.4
+- **tropism** — PDF p. 465; Persian OCR confidence 90.6; head match 0.392; head OCR confidence 37.3
+- **tropologic(-al)** — PDF p. 465; Persian OCR confidence 29.0; head match 0.917; head OCR confidence 71.5
+- **tropology** — PDF p. 465; Persian OCR confidence 68.1; head match 0.762; head OCR confidence 71.5
+- **Trotskylsm** — PDF p. 465; Persian OCR confidence 90.2; head match 0.371; head OCR confidence 26.9
+- **Trotskylst** — PDF p. 465; Persian OCR confidence 10.2; head match 0.667; head OCR confidence 21.4
+- **Trotskylte** — PDF p. 465; Persian OCR confidence 0.0; head match 0.72; head OCR confidence 24.6
+- **troupe** — PDF p. 465; Persian OCR confidence 57.4; head match 0.8; head OCR confidence 33.6
+- **truancy .r** — PDF p. 465; Persian OCR confidence 49.9; head match 0.8; head OCR confidence 0.0
+- **truant** — PDF p. 465; Persian OCR confidence 73.7; head match 0.255; head OCR confidence 38.2
+- **truantry** — PDF p. 465; Persian OCR confidence 0; head match 0.445; head OCR confidence 96.8
+- **truce** — PDF p. 465; Persian OCR confidence 62.0; head match 0.667; head OCR confidence 96.8
+- **truculency** — PDF p. 465; Persian OCR confidence 74.4; head match 0.368; head OCR confidence 20.6
+- **truculent** — PDF p. 466; Persian OCR confidence 69.7; head match 0.434; head OCR confidence 36.5
+- **true** — PDF p. 466; Persian OCR confidence 66.7; head match 0.165; head OCR confidence 13.2
+- **truism** — PDF p. 466; Persian OCR confidence 73.2; head match 0.4; head OCR confidence 31.9
+- **truistic** — PDF p. 466; Persian OCR confidence 85.6; head match 0.431; head OCR confidence 38.2
+- **trusteeship** — PDF p. 466; Persian OCR confidence 65.8; head match 0.428; head OCR confidence 46.4
+- **trusteeship council** — PDF p. 466; Persian OCR confidence 52.6; head match 0.857; head OCR confidence 37.9
+- **trusty** — PDF p. 466; Persian OCR confidence 68.9; head match 0.382; head OCR confidence 44.8
+- **truth-claim** — PDF p. 466; Persian OCR confidence 69.2; head match 0.741; head OCR confidence 52.4
+- **truth condition Grob s(a.** — PDF p. 466; Persian OCR confidence 89.0; head match 0.824; head OCR confidence 74.0
+- **truth drug** — PDF p. 466; Persian OCR confidence 82.8; head match 0.434; head OCR confidence 39.7
+- **truthful** — PDF p. 466; Persian OCR confidence 76.1; head match 0.467; head OCR confidence 32.3
+- **truthfulness** — PDF p. 466; Persian OCR confidence 57.4; head match 1.0; head OCR confidence 71.9
+- **truth function ¢:!L;-** — PDF p. 466; Persian OCR confidence 61.3; head match 0.467; head OCR confidence 52.7
+- **truth table** — PDF p. 466; Persian OCR confidence 83.9; head match 0.714; head OCR confidence 63.5
+- **truth-value** — PDF p. 466; Persian OCR confidence 61.5; head match 0.741; head OCR confidence 27.1
+- **tsar** — PDF p. 466; Persian OCR confidence 48.7; head match 1.0; head OCR confidence 97.0
+- **tuition** — PDF p. 466; Persian OCR confidence 64.2; head match 1.0; head OCR confidence 96.6
+- **tuitional** — PDF p. 466; Persian OCR confidence 82.7; head match 0.667; head OCR confidence 0.5
+- **tuitionary** — PDF p. 466; Persian OCR confidence 0; head match 0.45; head OCR confidence 92.9
+- **tuition fee** — PDF p. 466; Persian OCR confidence 63.7; head match 0.714; head OCR confidence 48.0
+- **tumulus (L.)** — PDF p. 466; Persian OCR confidence 65.5; head match 0.8; head OCR confidence 38.0
+- **Tungusic J.;] <.S'"'"'~'t'** — PDF p. 466; Persian OCR confidence 67.6; head match 0.737; head OCR confidence 56.4
+- **Tunisian gals** — PDF p. 466; Persian OCR confidence 1.7; head match 0.8; head OCR confidence 60.6
+- **Turanian** — PDF p. 466; Persian OCR confidence 74.4; head match 0.727; head OCR confidence 44.1
+- **Turcoman** — PDF p. 466; Persian OCR confidence 53.7; head match 0.467; head OCR confidence 91.4
+- **Turk** — PDF p. 466; Persian OCR confidence 75.9; head match 0.431; head OCR confidence 6.4
+- **Turki** — PDF p. 466; Persian OCR confidence 79.7; head match 0.333; head OCR confidence 45.9
+- **Turkic** — PDF p. 466; Persian OCR confidence 47.8; head match 0.442; head OCR confidence 41.7
+- **Turkish** — PDF p. 466; Persian OCR confidence 68.5; head match 0.49; head OCR confidence 31.9
+- **Turkism es}** — PDF p. 466; Persian OCR confidence 12.8; head match 0.875; head OCR confidence 63.4
+- **turmoil** — PDF p. 466; Persian OCR confidence 90.2; head match 0.533; head OCR confidence 6.5
+- **turning** — PDF p. 466; Persian OCR confidence 91.5; head match 0.727; head OCR confidence 83.8
+- **turning point** — PDF p. 466; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.0
+- **turnover** — PDF p. 466; Persian OCR confidence 0; head match 1.0; head OCR confidence 33.1
+- **Tuscan** — PDF p. 466; Persian OCR confidence 0; head match 1.0; head OCR confidence 71.9
+- **tutelage** — PDF p. 466; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **tutelary** — PDF p. 466; Persian OCR confidence 0; head match 1.0; head OCR confidence 75.2
+- **tutor** — PDF p. 466; Persian OCR confidence 54.4; head match 0.28; head OCR confidence 32.0
+- **tutorial .r** — PDF p. 466; Persian OCR confidence 76.8; head match 0.45; head OCR confidence 36.5
+- **tutorial system** — PDF p. 466; Persian OCR confidence 87.7; head match 0.478; head OCR confidence 44.6
+- **tutorship** — PDF p. 466; Persian OCR confidence 75.0; head match 0.467; head OCR confidence 42.1
+- **twodlmenslonal** — PDF p. 467; Persian OCR confidence 16.1; head match 0.706; head OCR confidence 45.9
+- **two-faced ORE** — PDF p. 467; Persian OCR confidence 38.7; head match 0.8; head OCR confidence 59.8
+- **two-valued logic** — PDF p. 467; Persian OCR confidence 81.9; head match 0.718; head OCR confidence 60.8
+- **tychism** — PDF p. 467; Persian OCR confidence 77.7; head match 0.49; head OCR confidence 47.3
+- **typal oe** — PDF p. 467; Persian OCR confidence 91.6; head match 0.833; head OCR confidence 75.8
+- **type** — PDF p. 467; Persian OCR confidence 77.3; head match 0.727; head OCR confidence 75.8
+- **typic(-al)** — PDF p. 467; Persian OCR confidence 67.6; head match 0.363; head OCR confidence 25.9
+- **typicality** — PDF p. 467; Persian OCR confidence 69.0; head match 0.769; head OCR confidence 64.3
+- **typifier** — PDF p. 467; Persian OCR confidence 86.8; head match 0.762; head OCR confidence 29.3
+- **typological** — PDF p. 467; Persian OCR confidence 65.5; head match 0.428; head OCR confidence 15.4
+- **typological comparison tzar** — PDF p. 467; Persian OCR confidence 0; head match 0.712; head OCR confidence 62.1
+- **typological interpretation** — PDF p. 467; Persian OCR confidence 56.7; head match 0.96; head OCR confidence 87.2
+- **typological linguistlcs** — PDF p. 467; Persian OCR confidence 52.6; head match 0.792; head OCR confidence 50.9
+- **typologist** — PDF p. 467; Persian OCR confidence 60.2; head match 0.87; head OCR confidence 41.4
+- **typology** — PDF p. 467; Persian OCR confidence 68.9; head match 0.727; head OCR confidence 40.7
+- **tyrannic(-al)** — PDF p. 467; Persian OCR confidence 61.9; head match 0.87; head OCR confidence 44.1
+- **tyrannicide** — PDF p. 467; Persian OCR confidence 0; head match 1.0; head OCR confidence 78.8
+- **tyrannizer** — PDF p. 467; Persian OCR confidence 0; head match 1.0; head OCR confidence 9.9
+- **tyrant** — PDF p. 467; Persian OCR confidence 64.7; head match 0.467; head OCR confidence 39.1

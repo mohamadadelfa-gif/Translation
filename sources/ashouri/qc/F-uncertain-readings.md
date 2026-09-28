@@ -1,0 +1,252 @@
+# F — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **Fabianism** — PDF p. 162, printed p. 161; Persian OCR confidence 0.0; head confidence 91.0; embedded `Fabianism`.
+- **Fabianist** — PDF p. 162, printed p. 161; Persian OCR confidence 27.7; head confidence 92.2; embedded `Fabian 1st`.
+- **facilities** — PDF p. 162, printed p. 161; Persian OCR confidence 84.3; head confidence 92.0; embedded `facllitles`.
+- **fact-finder** — PDF p. 162, printed p. 161; Persian OCR confidence 81.9; head confidence 0.9; embedded `fact-finder`.
+- **factical** — PDF p. 162, printed p. 161; Persian OCR confidence 49.2; head confidence 58.9; embedded `factlcal`.
+- **facticity** — PDF p. 162, printed p. 161; Persian OCR confidence 35.7; head confidence 36.6; embedded `facticity`.
+- **factitiousness** — PDF p. 163, printed p. 162; Persian OCR confidence 52.4; head confidence 91.9; embedded `factitiousness`.
+- **factor structure** — PDF p. 163, printed p. 162; Persian OCR confidence 31.5; head confidence 96.8; embedded `factor structure`.
+- **factualist** — PDF p. 163, printed p. 162; Persian OCR confidence 47.7; head confidence 92.7; embedded `factualist`.
+- **factuality** — PDF p. 163, printed p. 162; Persian OCR confidence 53.3; head confidence 91.4; embedded `factuality`.
+- **factual knowledge** — PDF p. 163, printed p. 162; Persian OCR confidence 44.9; head confidence 96.6; embedded `factual knowledge`.
+- **factualness** — PDF p. 163, printed p. 162; Persian OCR confidence 0.0; head confidence 85.3; embedded `factualness = factuality`.
+- **fad** — PDF p. 163, printed p. 162; Persian OCR confidence 39.6; head confidence 85.2; embedded `fad`.
+- **faddish** — PDF p. 163, printed p. 162; Persian OCR confidence 55.3; head confidence 38.6; embedded `faddish`.
+- **faddlshness** — PDF p. 163, printed p. 162; Persian OCR confidence 0.0; head confidence 91.1; embedded `faddlshness = faddism`.
+- **faddism** — PDF p. 163, printed p. 162; Persian OCR confidence 42.1; head confidence 74.1; embedded `faddism`.
+- **faith** — PDF p. 163, printed p. 162; Persian OCR confidence 42.2; head confidence 73.9; embedded `faith`.
+- **falthless** — PDF p. 163, printed p. 162; Persian OCR confidence 74.0; head confidence 31.0; embedded `falthless`.
+- **falthlessness** — PDF p. 163, printed p. 162; Persian OCR confidence 77.5; head confidence 40.7; embedded `falthlessness`.
+- **Falange** — PDF p. 163, printed p. 162; Persian OCR confidence 72.0; head confidence 42.3; embedded `Falange`.
+- **Falangism** — PDF p. 163, printed p. 162; Persian OCR confidence 54.4; head confidence 65.3; embedded `Falanglsm`.
+- **fall** — PDF p. 163, printed p. 162; Persian OCR confidence 68.9; head confidence 23.0; embedded `fall`.
+- **fallaclous** — PDF p. 163, printed p. 162; Persian OCR confidence 68.8; head confidence 38.3; embedded `fallaclous`.
+- **fallaclousness** — PDF p. 163, printed p. 162; Persian OCR confidence 73.0; head confidence 19.6; embedded `fallaclousness`.
+- **fallibilism** — PDF p. 164, printed p. 163; Persian OCR confidence 24.7; head confidence 85.2; embedded `fallibilism`.
+- **fallibleness fallibility** — PDF p. 164, printed p. 163; Persian OCR confidence 0.0; head confidence 88.9; embedded `fallibleness fallibility`.
+- **falsification** — PDF p. 164, printed p. 163; Persian OCR confidence 54.1; head confidence 96.9; embedded `falsification`.
+- **family allowance** — PDF p. 164, printed p. 163; Persian OCR confidence 42.1; head confidence 87.5; embedded `family allowance`.
+- **family resemblance** — PDF p. 164, printed p. 163; Persian OCR confidence 47.7; head confidence 44.4; embedded `family resemblance`.
+- **family structure** — PDF p. 164, printed p. 163; Persian OCR confidence 0.0; head confidence 85.6; embedded `family structure`.
+- **family therapy** — PDF p. 164, printed p. 163; Persian OCR confidence 35.2; head confidence 92.4; embedded `family therapy`.
+- **fantasist** — PDF p. 164, printed p. 163; Persian OCR confidence 76.4; head confidence 13.3; embedded `fantasist`.
+- **fantasm** — PDF p. 164, printed p. 163; Persian OCR confidence 0.0; head confidence 86.6; embedded `fantasm = phantasm`.
+- **fantom phantom** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 96.5; embedded `fantom phantom`.
+- **farm .r** — PDF p. 165, printed p. 164; Persian OCR confidence 79.5; head confidence 29.4; embedded `farm .r`.
+- **farmland** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 94.0; embedded `farmland`.
+- **farm owner** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 96.1; embedded `farm owner`.
+- **farm population** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 96.4; embedded `farm populatlon`.
+- **farmstead** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 96.1; embedded `farmstead`.
+- **farm worker** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 96.3; embedded `farm worker`.
+- **farmyard** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 96.5; embedded `farmyard`.
+- **fascism** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 96.8; embedded `fascism`.
+- **fashionability** — PDF p. 165, printed p. 164; Persian OCR confidence 43.4; head confidence 79.1; embedded `fashlonablllty`.
+- **fashionable** — PDF p. 165, printed p. 164; Persian OCR confidence 54.9; head confidence 96.5; embedded `fashlonable`.
+- **fashlonableness** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 92.4; embedded `fashlonableness = fashionabllity`.
+- **fashioning effect** — PDF p. 165, printed p. 164; Persian OCR confidence 50.8; head confidence 96.6; embedded `fashioning effect`.
+- **fatefulness** — PDF p. 165, printed p. 164; Persian OCR confidence 71.6; head confidence 34.2; embedded `fatefulness`.
+- **father figure** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 77.1; embedded `father figure`.
+- **father-fixated** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 30.0; embedded `father-fixated`.
+- **father fixation** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 97.0; embedded `father fixation`.
+- **fatherhood** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 96.6; embedded `fatherhood`.
+- **father imago** — PDF p. 165, printed p. 164; Persian OCR confidence 0.0; head confidence 92.2; embedded `father imago`.
+- **fathomless** — PDF p. 165, printed p. 164; Persian OCR confidence 20.2; head confidence 90.0; embedded `fathomless`.
+- **fatidic(-al)** — PDF p. 165, printed p. 164; Persian OCR confidence 84.8; head confidence 89.1; embedded `fatldlc(-al)`.
+- **fault** — PDF p. 165, printed p. 164; Persian OCR confidence 61.5; head confidence 0.0; embedded `fault`.
+- **faultfinding** — PDF p. 165, printed p. 164; Persian OCR confidence 90.2; head confidence 78.5; embedded `faulttlndlng`.
+- **Faustian** — PDF p. 166, printed p. 165; Persian OCR confidence 26.5; head confidence 96.9; embedded `Faustian`.
+- **favoritism** — PDF p. 166, printed p. 165; Persian OCR confidence 53.7; head confidence 96.6; embedded `favoritism`.
+- **feasible** — PDF p. 166, printed p. 165; Persian OCR confidence 27.5; head confidence 97.0; embedded `feasible`.
+- **feasibleness feasibility** — PDF p. 166, printed p. 165; Persian OCR confidence 0.0; head confidence 93.5; embedded `feaslbleness feasibility`.
+- **federacy confederacy** — PDF p. 166, printed p. 165; Persian OCR confidence 0.0; head confidence 90.0; embedded `federacy confederacy`.
+- **federative** — PDF p. 166, printed p. 165; Persian OCR confidence 0.0; head confidence 57.2; embedded `federative`.
+- **feebleminded** — PDF p. 166, printed p. 165; Persian OCR confidence 61.3; head confidence 38.4; embedded `feebleminded`.
+- **feliclflc** — PDF p. 166, printed p. 165; Persian OCR confidence 89.4; head confidence 3.8; embedded `feliclflc`.
+- **felicitation** — PDF p. 166, printed p. 165; Persian OCR confidence 91.3; head confidence 35.5; embedded `felicitation`.
+- **fellatio** — PDF p. 166, printed p. 165; Persian OCR confidence 58.6; head confidence 28.5; embedded `fellatio`.
+- **fellatlon** — PDF p. 166, printed p. 165; Persian OCR confidence 67.4; head confidence 41.2; embedded `fellatlon`.
+- **female slave** — PDF p. 167, printed p. 166; Persian OCR confidence 44.7; head confidence 93.7; embedded `female slave`.
+- **femininity feminity** — PDF p. 167, printed p. 166; Persian OCR confidence 0.0; head confidence 94.1; embedded `femininity feminity`.
+- **feminism** — PDF p. 167, printed p. 166; Persian OCR confidence 45.2; head confidence 96.3; embedded `feminism`.
+- **feral child** — PDF p. 167, printed p. 166; Persian OCR confidence 22.8; head confidence 96.7; embedded `feral child`.
+- **feral man** — PDF p. 167, printed p. 166; Persian OCR confidence 49.1; head confidence 96.5; embedded `feral man`.
+- **ferine** — PDF p. 167, printed p. 166; Persian OCR confidence 45.9; head confidence 93.2; embedded `ferine`.
+- **festination** — PDF p. 167, printed p. 166; Persian OCR confidence 37.8; head confidence 93.3; embedded `festination`.
+- **festival** — PDF p. 167, printed p. 166; Persian OCR confidence 90.7; head confidence 14.1; embedded `festival`.
+- **fetich fetish** — PDF p. 167, printed p. 166; Persian OCR confidence 0.0; head confidence 94.7; embedded `fetich fetish`.
+- **fetichism fetishism** — PDF p. 167, printed p. 166; Persian OCR confidence 0.0; head confidence 93.7; embedded `fetlchism fetishism`.
+- **feticide** — PDF p. 167, printed p. 166; Persian OCR confidence 0.0; head confidence 92.5; embedded `fetlcide`.
+- **fetish** — PDF p. 167, printed p. 166; Persian OCR confidence 52.9; head confidence 90.2; embedded `fetish`.
+- **fetishism of commodities** — PDF p. 167, printed p. 166; Persian OCR confidence 54.8; head confidence 82.6; embedded `fetishism of commodities`.
+- **fetishism .r** — PDF p. 167, printed p. 166; Persian OCR confidence 37.2; head confidence 31.3; embedded `fetishism .r`.
+- **fetishist** — PDF p. 167, printed p. 166; Persian OCR confidence 68.4; head confidence 38.4; embedded `fetishist`.
+- **fetishization** — PDF p. 167, printed p. 166; Persian OCR confidence 0.0; head confidence 54.9; embedded `fetishization`.
+- **feudal .r .r** — PDF p. 167, printed p. 166; Persian OCR confidence 26.9; head confidence 18.2; embedded `feudal .r .r`.
+- **feudal government** — PDF p. 167, printed p. 166; Persian OCR confidence 37.6; head confidence 96.4; embedded `feudal government`.
+- **feudalist** — PDF p. 167, printed p. 166; Persian OCR confidence 46.7; head confidence 61.5; embedded `feudalist`.
+- **fiction** — PDF p. 167, printed p. 166; Persian OCR confidence 70.8; head confidence 19.2; embedded `fiction`.
+- **fictionalism** — PDF p. 167, printed p. 166; Persian OCR confidence 86.5; head confidence 19.0; embedded `fictionalism`.
+- **fictionalization** — PDF p. 167, printed p. 166; Persian OCR confidence 89.1; head confidence 64.3; embedded `fictlonallzatlon`.
+- **fictionism** — PDF p. 167, printed p. 166; Persian OCR confidence 28.5; head confidence 48.2; embedded `flctlonlsm`.
+- **fideism** — PDF p. 167, printed p. 166; Persian OCR confidence 87.7; head confidence 93.0; embedded `fldelsm`.
+- **fideist** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 92.6; embedded `fideist`.
+- **fidelity** — PDF p. 168, printed p. 167; Persian OCR confidence 51.0; head confidence 96.9; embedded `fidelity`.
+- **fieldwork** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 95.7; embedded `fieldwork`.
+- **fiend** — PDF p. 168, printed p. 167; Persian OCR confidence 40.0; head confidence 96.5; embedded `fiend`.
+- **fiendishness** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 90.4; embedded `fiendishness`.
+- **fifth column** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 96.1; embedded `fifth column`.
+- **figural** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 96.3; embedded `figural`.
+- **figural aftereffect** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 92.8; embedded `figural aftereffect`.
+- **figural cohesion** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 96.6; embedded `figural cohesion`.
+- **figuration** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 96.3; embedded `figuration`.
+- **figurative language** — PDF p. 168, printed p. 167; Persian OCR confidence 53.8; head confidence 91.4; embedded `figurative language`.
+- **figure-ground** — PDF p. 168, printed p. 167; Persian OCR confidence 62.4; head confidence 35.2; embedded `figure-ground`.
+- **figure of speech** — PDF p. 168, printed p. 167; Persian OCR confidence 48.1; head confidence 86.6; embedded `figure of speech`.
+- **figurine** — PDF p. 168, printed p. 167; Persian OCR confidence 49.0; head confidence 40.8; embedded `figurine`.
+- **file clerk** — PDF p. 168, printed p. 167; Persian OCR confidence 0.0; head confidence 88.5; embedded `file clerk = filing clerk`.
+- **fillation** — PDF p. 168, printed p. 167; Persian OCR confidence 76.4; head confidence 0.0; embedded `fillation`.
+- **filicide** — PDF p. 168, printed p. 167; Persian OCR confidence 51.5; head confidence 82.7; embedded `filiclde`.
+- **filing** — PDF p. 168, printed p. 167; Persian OCR confidence 60.6; head confidence 39.7; embedded `filing`.
+- **filmdom** — PDF p. 168, printed p. 167; Persian OCR confidence 51.5; head confidence 90.9; embedded `filmdom`.
+- **filmgoer** — PDF p. 168, printed p. 167; Persian OCR confidence 24.2; head confidence 92.7; embedded `filmgoer`.
+- **film-making** — PDF p. 168, printed p. 167; Persian OCR confidence 92.1; head confidence 41.3; embedded `film-making`.
+- **filocentric** — PDF p. 169, printed p. 168; Persian OCR confidence 35.5; head confidence 89.0; embedded `fllocentrlc`.
+- **filocentrism** — PDF p. 169, printed p. 168; Persian OCR confidence 13.8; head confidence 92.5; embedded `filocentrism`.
+- **final cause** — PDF p. 169, printed p. 168; Persian OCR confidence 31.4; head confidence 96.6; embedded `final cause`.
+- **finalism** — PDF p. 169, printed p. 168; Persian OCR confidence 46.9; head confidence 91.7; embedded `flnalism`.
+- **finalist** — PDF p. 169, printed p. 168; Persian OCR confidence 77.6; head confidence 96.8; embedded `flnallst`.
+- **final version** — PDF p. 169, printed p. 168; Persian OCR confidence 48.7; head confidence 96.4; embedded `flnal version`.
+- **financial** — PDF p. 169, printed p. 168; Persian OCR confidence 89.5; head confidence 96.6; embedded `flnanclal`.
+- **find** — PDF p. 169, printed p. 168; Persian OCR confidence 53.9; head confidence 96.7; embedded `find`.
+- **finding** — PDF p. 169, printed p. 168; Persian OCR confidence 29.6; head confidence 71.8; embedded `finding`.
+- **finisher** — PDF p. 169, printed p. 168; Persian OCR confidence 71.0; head confidence 43.5; embedded `finisher`.
+- **finishing** — PDF p. 169, printed p. 168; Persian OCR confidence 59.2; head confidence 30.9; embedded `finishing`.
+- **finite** — PDF p. 169, printed p. 168; Persian OCR confidence 82.7; head confidence 40.5; embedded `finite`.
+- **finiteness** — PDF p. 169, printed p. 168; Persian OCR confidence 53.4; head confidence 76.8; embedded `finiteness`.
+- **finitism** — PDF p. 169, printed p. 168; Persian OCR confidence 87.8; head confidence 66.1; embedded `flnltlsm`.
+- **finitist** — PDF p. 169, printed p. 168; Persian OCR confidence 66.4; head confidence 82.2; embedded `flnltlst`.
+- **Flno-Ugrlc** — PDF p. 169, printed p. 168; Persian OCR confidence 42.2; head confidence 32.5; embedded `Flno-Ugrlc`.
+- **flrman** — PDF p. 169, printed p. 168; Persian OCR confidence 0.0; head confidence 89.8; embedded `flrman = farman`.
+- **firstborn** — PDF p. 169, printed p. 168; Persian OCR confidence 19.3; head confidence 51.9; embedded `firstborn`.
+- **first cause** — PDF p. 169, printed p. 168; Persian OCR confidence 51.8; head confidence 83.0; embedded `first cause`.
+- **First Heaven** — PDF p. 169, printed p. 168; Persian OCR confidence 52.9; head confidence 96.9; embedded `First Heaven`.
+- **First Intellect** — PDF p. 169, printed p. 168; Persian OCR confidence 33.6; head confidence 75.2; embedded `First Intellect`.
+- **firstling** — PDF p. 169, printed p. 168; Persian OCR confidence 42.0; head confidence 84.0; embedded `flrstllng`.
+- **first secretary** — PDF p. 170, printed p. 169; Persian OCR confidence 52.7; head confidence 96.6; embedded `first secretary`.
+- **fixative** — PDF p. 170, printed p. 169; Persian OCR confidence 0.0; head confidence 97.0; embedded `fixative`.
+- **fixed** — PDF p. 170, printed p. 169; Persian OCR confidence 0.0; head confidence 96.9; embedded `fixed`.
+- **fixed asset** — PDF p. 170, printed p. 169; Persian OCR confidence 0.0; head confidence 96.9; embedded `fixed asset`.
+- **fixed capital** — PDF p. 170, printed p. 169; Persian OCR confidence 0.0; head confidence 96.2; embedded `fixed capital`.
+- **fixed universe** — PDF p. 170, printed p. 169; Persian OCR confidence 50.7; head confidence 96.5; embedded `fixed universe`.
+- **flattery** — PDF p. 170, printed p. 169; Persian OCR confidence 44.1; head confidence 75.4; embedded `flattery`.
+- **flection inflection** — PDF p. 170, printed p. 169; Persian OCR confidence 0.0; head confidence 84.6; embedded `flection lnflectlon`.
+- **flectional inflectional** — PDF p. 170, printed p. 169; Persian OCR confidence 0.0; head confidence 84.4; embedded `flectional inflectional`.
+- **flexlble ~** — PDF p. 170, printed p. 169; Persian OCR confidence 78.8; head confidence 37.6; embedded `flexlble ~`.
+- **flirtation** — PDF p. 170, printed p. 169; Persian OCR confidence 25.8; head confidence 96.7; embedded `flirtation`.
+- **flow chart** — PDF p. 170, printed p. 169; Persian OCR confidence 54.1; head confidence 79.0; embedded `flow chart`.
+- **fluctuation** — PDF p. 170, printed p. 169; Persian OCR confidence 32.0; head confidence 51.9; embedded `fluctuation`.
+- **fluency** — PDF p. 170, printed p. 169; Persian OCR confidence 62.3; head confidence 34.1; embedded `fluency`.
+- **fluent** — PDF p. 170, printed p. 169; Persian OCR confidence 51.2; head confidence 76.9; embedded `fluent`.
+- **fluid** — PDF p. 170, printed p. 169; Persian OCR confidence 78.2; head confidence 9.7; embedded `fluid`.
+- **focal zone** — PDF p. 171, printed p. 170; Persian OCR confidence 34.8; head confidence 96.4; embedded `focal zone`.
+- **focused** — PDF p. 171, printed p. 170; Persian OCR confidence 48.3; head confidence 96.5; embedded `focused`.
+- **focus group** — PDF p. 171, printed p. 170; Persian OCR confidence 0.0; head confidence 96.8; embedded `focus group`.
+- **focusing** — PDF p. 171, printed p. 170; Persian OCR confidence 0.0; head confidence 96.5; embedded `focusing`.
+- **folie deux (Fr.)** — PDF p. 171, printed p. 170; Persian OCR confidence 0.0; head confidence 91.2; embedded `folie a deux (Fr.)`.
+- **folk literature** — PDF p. 171, printed p. 170; Persian OCR confidence 24.1; head confidence 96.7; embedded `folk literatU.re`.
+- **folk society** — PDF p. 171, printed p. 170; Persian OCR confidence 52.8; head confidence 96.7; embedded `folk society`.
+- **folk spirit** — PDF p. 171, printed p. 170; Persian OCR confidence 41.6; head confidence 89.8; embedded `folk spirit`.
+- **folkway** — PDF p. 171, printed p. 170; Persian OCR confidence 86.5; head confidence 42.9; embedded `folkway`.
+- **followism** — PDF p. 171, printed p. 170; Persian OCR confidence 75.3; head confidence 27.8; embedded `followism`.
+- **forbiddance** — PDF p. 171, printed p. 170; Persian OCR confidence 46.1; head confidence 57.8; embedded `forbiddance`.
+- **forced choice** — PDF p. 171, printed p. 170; Persian OCR confidence 52.5; head confidence 70.3; embedded `forced choice`.
+- **force majeure (Fr.)** — PDF p. 171, printed p. 170; Persian OCR confidence 0.4; head confidence 93.7; embedded `force majeure (Fr.)`.
+- **forebear·** — PDF p. 171, printed p. 170; Persian OCR confidence 59.9; head confidence 33.9; embedded `forebear·`.
+- **foreignism** — PDF p. 172, printed p. 171; Persian OCR confidence 39.1; head confidence 91.2; embedded `foreign ism`.
+- **foreign office** — PDF p. 172, printed p. 171; Persian OCR confidence 0.0; head confidence 97.0; embedded `foreign office`.
+- **forejudgement** — PDF p. 172, printed p. 171; Persian OCR confidence 0.7; head confidence 92.4; embedded `forejudgement`.
+- **foreman** — PDF p. 172, printed p. 171; Persian OCR confidence 52.5; head confidence 96.3; embedded `foreman`.
+- **foremother** — PDF p. 172, printed p. 171; Persian OCR confidence 50.2; head confidence 92.4; embedded `fore mother`.
+- **foreordainment** — PDF p. 172, printed p. 171; Persian OCR confidence 70.3; head confidence 23.2; embedded `foreordainment`.
+- **foreplay** — PDF p. 172, printed p. 171; Persian OCR confidence 16.1; head confidence 67.7; embedded `foreplay`.
+- **forepleasure** — PDF p. 172, printed p. 171; Persian OCR confidence 0.0; head confidence 79.4; embedded `forepleasure = foreplay`.
+- **forerunner** — PDF p. 172, printed p. 171; Persian OCR confidence 51.3; head confidence 58.1; embedded `forerunner`.
+- **foresight** — PDF p. 172, printed p. 171; Persian OCR confidence 26.3; head confidence 93.8; embedded `foresight`.
+- **foresighted** — PDF p. 172, printed p. 171; Persian OCR confidence 71.0; head confidence 6.1; embedded `foresighted`.
+- **foresightedness** — PDF p. 172, printed p. 171; Persian OCR confidence 21.5; head confidence 64.4; embedded `foresightedness`.
+- **forgery** — PDF p. 172, printed p. 171; Persian OCR confidence 9.2; head confidence 96.8; embedded `forgery`.
+- **formal cause** — PDF p. 173, printed p. 172; Persian OCR confidence 49.6; head confidence 96.6; embedded `formal cause`.
+- **formal education** — PDF p. 173, printed p. 172; Persian OCR confidence 0.0; head confidence 96.5; embedded `formal education`.
+- **formalistic sai... als** — PDF p. 173, printed p. 172; Persian OCR confidence 75.8; head confidence 45.3; embedded `formalistic .r`.
+- **formal maxim** — PDF p. 173, printed p. 172; Persian OCR confidence 46.7; head confidence 96.8; embedded `formal maxim`.
+- **formicatlon** — PDF p. 173, printed p. 172; Persian OCR confidence 83.3; head confidence 29.5; embedded `formicatlon`.
+- **formiess** — PDF p. 173, printed p. 172; Persian OCR confidence 24.1; head confidence 62.7; embedded `formless`.
+- **formularlzation** — PDF p. 173, printed p. 172; Persian OCR confidence 0.0; head confidence 69.8; embedded `formularlzation = formulation`.
+- **formulism** — PDF p. 173, printed p. 172; Persian OCR confidence 40.6; head confidence 31.9; embedded `formulism`.
+- **formulization formulation** — PDF p. 173, printed p. 172; Persian OCR confidence 0.0; head confidence 73.6; embedded `formulization formulation`.
+- **fortuitism** — PDF p. 173, printed p. 172; Persian OCR confidence 85.2; head confidence 41.7; embedded `fortuitism`.
+- **fortuitous** — PDF p. 173, printed p. 172; Persian OCR confidence 82.6; head confidence 17.7; embedded `fortuitous`.
+- **fortuitousness** — PDF p. 173, printed p. 172; Persian OCR confidence 90.5; head confidence 0.0; embedded `fortuitousness`.
+- **forward delivery** — PDF p. 173, printed p. 172; Persian OCR confidence 44.3; head confidence 84.0; embedded `forward delivery`.
+- **forwarding** — PDF p. 174, printed p. 173; Persian OCR confidence 83.0; head confidence 40.5; embedded `forwarding`.
+- **fosterli ng** — PDF p. 174, printed p. 173; Persian OCR confidence 63.5; head confidence 0.0; embedded `fosterli ng`.
+- **found** — PDF p. 174, printed p. 173; Persian OCR confidence 49.9; head confidence 96.1; embedded `found`.
+- **Founding Fathers** — PDF p. 174, printed p. 173; Persian OCR confidence 47.3; head confidence 96.5; embedded `Founding Fathers`.
+- **Fourierist** — PDF p. 174, printed p. 173; Persian OCR confidence 82.4; head confidence 89.7; embedded `Fourlerlst`.
+- **Fourierite** — PDF p. 174, printed p. 173; Persian OCR confidence 47.9; head confidence 91.5; embedded `Fourlerite`.
+- **fragmented** — PDF p. 174, printed p. 173; Persian OCR confidence 54.3; head confidence 84.2; embedded `fragmented`.
+- **frail** — PDF p. 174, printed p. 173; Persian OCR confidence 73.8; head confidence 32.9; embedded `frail`.
+- **franchise** — PDF p. 174, printed p. 173; Persian OCR confidence 44.5; head confidence 34.9; embedded `franchise`.
+- **Francophobia** — PDF p. 174, printed p. 173; Persian OCR confidence 53.2; head confidence 52.3; embedded `Francophobia`.
+- **fraternalism** — PDF p. 174, printed p. 173; Persian OCR confidence 51.4; head confidence 77.8; embedded `fraternallsm`.
+- **fraternization** — PDF p. 175, printed p. 174; Persian OCR confidence 9.0; head confidence 89.1; embedded `fraternization`.
+- **fraud** — PDF p. 175, printed p. 174; Persian OCR confidence 51.6; head confidence 95.3; embedded `fraud`.
+- **free association sls cli sol;i_su.ol free morpheme** — PDF p. 175, printed p. 174; Persian OCR confidence 0.0; head confidence 57.9; embedded `free association free morpheme`.
+- **freedom of seas** — PDF p. 175, printed p. 174; Persian OCR confidence 28.2; head confidence 96.8; embedded `freedom of seas`.
+- **freedom of speech** — PDF p. 175, printed p. 174; Persian OCR confidence 51.3; head confidence 96.6; embedded `freedom of speech`.
+- **freedwoman** — PDF p. 175, printed p. 174; Persian OCR confidence 0.0; head confidence 92.6; embedded `freedwoman`.
+- **freeholder** — PDF p. 175, printed p. 174; Persian OCR confidence 54.5; head confidence 76.1; embedded `freeholder`.
+- **free-hold right** — PDF p. 175, printed p. 174; Persian OCR confidence 46.2; head confidence 59.6; embedded `free-hold right`.
+- **freemason** — PDF p. 175, printed p. 174; Persian OCR confidence 66.0; head confidence 22.7; embedded `freemason`.
+- **freemasonary** — PDF p. 175, printed p. 174; Persian OCR confidence 54.4; head confidence 54.2; embedded `freemasonary`.
+- **freewoman** — PDF p. 175, printed p. 174; Persian OCR confidence 87.7; head confidence 28.5; embedded `freewoman`.
+- **frequentation** — PDF p. 176, printed p. 175; Persian OCR confidence 30.6; head confidence 96.6; embedded `frequentatlon`.
+- **frequentness** — PDF p. 176, printed p. 175; Persian OCR confidence 54.9; head confidence 91.3; embedded `frequentness`.
+- **Freudianism** — PDF p. 176, printed p. 175; Persian OCR confidence 0.0; head confidence 91.6; embedded `Freudianism = Freudism`.
+- **frictional .r** — PDF p. 176, printed p. 175; Persian OCR confidence 46.9; head confidence 39.4; embedded `frictional .r`.
+- **frigid** — PDF p. 176, printed p. 175; Persian OCR confidence 51.5; head confidence 96.9; embedded `frigid`.
+- **frigidness frigidity** — PDF p. 176, printed p. 175; Persian OCR confidence 0.0; head confidence 92.3; embedded `frigidness frigidity`.
+- **fringe benefits** — PDF p. 176, printed p. 175; Persian OCR confidence 53.1; head confidence 83.4; embedded `fringe benefits`.
+- **fringe of consciousness** — PDF p. 176, printed p. 175; Persian OCR confidence 47.6; head confidence 90.4; embedded `fringe of consciousness`.
+- **frontal** — PDF p. 176, printed p. 175; Persian OCR confidence 76.2; head confidence 43.0; embedded `frontal`.
+- **front-end** — PDF p. 176, printed p. 175; Persian OCR confidence 70.8; head confidence 33.0; embedded `front-end`.
+- **frontier** — PDF p. 176, printed p. 175; Persian OCR confidence 16.8; head confidence 96.7; embedded `frontier`.
+- **frontiersman** — PDF p. 176, printed p. 175; Persian OCR confidence 0.0; head confidence 59.2; embedded `frontiersman`.
+- **fronting** — PDF p. 176, printed p. 175; Persian OCR confidence 91.4; head confidence 44.8; embedded `fronting`.
+- **front-running** — PDF p. 176, printed p. 175; Persian OCR confidence 36.2; head confidence 29.7; embedded `front-running`.
+- **frotteurism** — PDF p. 176, printed p. 175; Persian OCR confidence 91.6; head confidence 43.9; embedded `frotteurism`.
+- **frugal** — PDF p. 176, printed p. 175; Persian OCR confidence 71.3; head confidence 17.7; embedded `frugal`.
+- **frugalness** — PDF p. 176, printed p. 175; Persian OCR confidence 0.0; head confidence 76.0; embedded `frugalness = frugality`.
+- **frustrated** — PDF p. 176, printed p. 175; Persian OCR confidence 70.6; head confidence 25.9; embedded `frustrated`.
+- **frustration** — PDF p. 176, printed p. 175; Persian OCR confidence 52.4; head confidence 93.3; embedded `frustration`.
+- **fuhrer (G.)** — PDF p. 176, printed p. 175; Persian OCR confidence 59.1; head confidence 42.6; embedded `fuhrer (G.)`.
+- **full authority** — PDF p. 176, printed p. 175; Persian OCR confidence 41.5; head confidence 74.3; embedded `full authority`.
+- **full morpheme** — PDF p. 177, printed p. 176; Persian OCR confidence 51.1; head confidence 92.4; embedded `full morpheme`.
+- **full professor** — PDF p. 177, printed p. 176; Persian OCR confidence 20.0; head confidence 96.7; embedded `full professor`.
+- **functional capability** — PDF p. 177, printed p. 176; Persian OCR confidence 9.7; head confidence 96.2; embedded `functional capability`.
+- **functionalism** — PDF p. 177, printed p. 176; Persian OCR confidence 54.5; head confidence 66.7; embedded `functionalism`.
+- **functional** — PDF p. 177, printed p. 176; Persian OCR confidence 89.1; head confidence 84.9; embedded `functional psychology`.
+- **functional society** — PDF p. 177, printed p. 176; Persian OCR confidence 54.7; head confidence 93.6; embedded `functional society`.
+- **functional yield** — PDF p. 177, printed p. 176; Persian OCR confidence 22.7; head confidence 63.4; embedded `functional yleld`.
+- **functioning** — PDF p. 177, printed p. 176; Persian OCR confidence 50.4; head confidence 96.5; embedded `functioning`.
+- **funeral monument** — PDF p. 178, printed p. 177; Persian OCR confidence 14.9; head confidence 96.1; embedded `funeral monument`.
+- **funeral prayer** — PDF p. 178, printed p. 177; Persian OCR confidence 45.7; head confidence 96.6; embedded `funeral prayer`.
+- **funeral pyre** — PDF p. 178, printed p. 177; Persian OCR confidence 32.0; head confidence 96.8; embedded `funeral pyre`.
+- **funerary** — PDF p. 178, printed p. 177; Persian OCR confidence 11.8; head confidence 96.6; embedded `funerary`.
+- **funereal** — PDF p. 178, printed p. 177; Persian OCR confidence 46.4; head confidence 92.4; embedded `funereal`.
+- **furniture** — PDF p. 178, printed p. 177; Persian OCR confidence 62.0; head confidence 26.3; embedded `furniture`.
+- **fuzzy logic** — PDF p. 178, printed p. 177; Persian OCR confidence 51.6; head confidence 92.6; embedded `fuzzy loglc`.

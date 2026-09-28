@@ -1,0 +1,340 @@
+# W Entries Requiring Visual Review
+
+- **wage** — PDF p. 493; Persian OCR confidence 28.9; head match 0.431; head OCR confidence 49.2
+- **wage agreement** — PDF p. 493; Persian OCR confidence 52.0; head match 1.0; head OCR confidence 96.3
+- **wage ceiling** — PDF p. 493; Persian OCR confidence 91.3; head match 0.759; head OCR confidence 66.5
+- **wage determination** — PDF p. 493; Persian OCR confidence 0.9; head match 1.0; head OCR confidence 96.9
+- **wage earner oye** — PDF p. 493; Persian OCR confidence 43.3; head match 0.87; head OCR confidence 74.5
+- **wage freeze** — PDF p. 493; Persian OCR confidence 84.2; head match 0.741; head OCR confidence 63.9
+- **wage fund** — PDF p. 493; Persian OCR confidence 84.3; head match 0.415; head OCR confidence 51.1
+- **wage goods** — PDF p. 493; Persian OCR confidence 74.0; head match 0.75; head OCR confidence 64.4
+- **wage labor** — PDF p. 493; Persian OCR confidence 53.7; head match 0.364; head OCR confidence 96.7
+- **wage laborer** — PDF p. 493; Persian OCR confidence 64.5; head match 0.759; head OCR confidence 64.6
+- **wage money oe de** — PDF p. 493; Persian OCR confidence 88.7; head match 0.818; head OCR confidence 71.4
+- **wage payment** — PDF p. 493; Persian OCR confidence 37.6; head match 0.733; head OCR confidence 64.5
+- **wage policy** — PDF p. 493; Persian OCR confidence 44.6; head match 0.609; head OCR confidence 93.6
+- **wage-push inflation** — PDF p. 493; Persian OCR confidence 50.0; head match 0.756; head OCR confidence 38.2
+- **wages** — PDF p. 493; Persian OCR confidence 80.9; head match 0.615; head OCR confidence 96.7
+- **wage stabilization** — PDF p. 493; Persian OCR confidence 91.0; head match 0.829; head OCR confidence 46.3
+- **wage system** — PDF p. 493; Persian OCR confidence 45.1; head match 0.741; head OCR confidence 59.1
+- **wage tax** — PDF p. 493; Persian OCR confidence 76.2; head match 0.392; head OCR confidence 55.4
+- **wageworker** — PDF p. 493; Persian OCR confidence 46.1; head match 0.467; head OCR confidence 24.6
+- **Wahabi** — PDF p. 493; Persian OCR confidence 0; head match 0.49; head OCR confidence 91.3
+- **Wahhabi** — PDF p. 493; Persian OCR confidence 48.7; head match 0.778; head OCR confidence 39.4
+- **Wahhabism** — PDF p. 493; Persian OCR confidence 79.8; head match 0.8; head OCR confidence 39.4
+- **waif** — PDF p. 493; Persian OCR confidence 81.1; head match 0.221; head OCR confidence 53.7
+- **waiver** — PDF p. 493; Persian OCR confidence 67.7; head match 0.382; head OCR confidence 35.4
+- **Wakashan** — PDF p. 493; Persian OCR confidence 70.3; head match 0.361; head OCR confidence 29.9
+- **wakeful** — PDF p. 493; Persian OCR confidence 83.0; head match 0.35; head OCR confidence 7.1
+- **wakefulness** — PDF p. 493; Persian OCR confidence 69.0; head match 0.759; head OCR confidence 43.3
+- **walk-out** — PDF p. 493; Persian OCR confidence 79.0; head match 0.545; head OCR confidence 28.7
+- **wanderer** — PDF p. 493; Persian OCR confidence 88.5; head match 0.448; head OCR confidence 34.0
+- **wandering** — PDF p. 493; Persian OCR confidence 46.9; head match 0.406; head OCR confidence 31.8
+- **Wandering Jew** — PDF p. 493; Persian OCR confidence 76.7; head match 0.774; head OCR confidence 55.5
+- **wanderlust** — PDF p. 494; Persian OCR confidence 39.5; head match 0.769; head OCR confidence 40.0
+- **wane .r ~!5'** — PDF p. 494; Persian OCR confidence 47.2; head match 0.318; head OCR confidence 40.0
+- **want** — PDF p. 494; Persian OCR confidence 77.4; head match 0.431; head OCR confidence 48.4
+- **wanton** — PDF p. 494; Persian OCR confidence 70.7; head match 0.382; head OCR confidence 31.9
+- **war** — PDF p. 494; Persian OCR confidence 72.8; head match 0.262; head OCR confidence 44.1
+- **war crime** — PDF p. 494; Persian OCR confidence 65.8; head match 0.8; head OCR confidence 53.1
+- **war dance** — PDF p. 494; Persian OCR confidence 64.7; head match 0.762; head OCR confidence 69.5
+- **warden** — PDF p. 494; Persian OCR confidence 64.6; head match 0.368; head OCR confidence 69.5
+- **wardenry** — PDF p. 494; Persian OCR confidence 78.3; head match 0.4; head OCR confidence 39.6
+- **wardership tthe** — PDF p. 494; Persian OCR confidence 90.6; head match 0.833; head OCR confidence 66.3
+- **wardship** — PDF p. 494; Persian OCR confidence 81.8; head match 0.415; head OCR confidence 34.2
+- **ware** — PDF p. 494; Persian OCR confidence 73.9; head match 0.311; head OCR confidence 45.0
+- **warehousing charge** — PDF p. 494; Persian OCR confidence 44.0; head match 0.75; head OCR confidence 74.8
+- **wareroom** — PDF p. 494; Persian OCR confidence 83.4; head match 0.386; head OCR confidence 49.4
+- **warfare** — PDF p. 494; Persian OCR confidence 56.9; head match 0.408; head OCR confidence 41.0
+- **warfare state** — PDF p. 494; Persian OCR confidence 67.4; head match 0.494; head OCR confidence 38.2
+- **war indemnity Gules** — PDF p. 494; Persian OCR confidence 69.0; head match 0.828; head OCR confidence 61.9
+- **warlock** — PDF p. 494; Persian OCR confidence 82.2; head match 0.35; head OCR confidence 45.4
+- **warlord** — PDF p. 494; Persian OCR confidence 58.5; head match 0.392; head OCR confidence 28.3
+- **warlordism** — PDF p. 494; Persian OCR confidence 74.9; head match 0.571; head OCR confidence 28.3
+- **warning** — PDF p. 494; Persian OCR confidence 78.6; head match 0.737; head OCR confidence 44.5
+- **war novel** — PDF p. 494; Persian OCR confidence 92.0; head match 0.5; head OCR confidence 44.5
+- **war of aggression** — PDF p. 494; Persian OCR confidence 83.0; head match 0.714; head OCR confidence 59.4
+- **war of nerves** — PDF p. 494; Persian OCR confidence 91.7; head match 0.71; head OCR confidence 58.5
+- **warrant** — PDF p. 494; Persian OCR confidence 56.1; head match 0.316; head OCR confidence 31.7
+- **warrantee** — PDF p. 494; Persian OCR confidence 88.4; head match 0.45; head OCR confidence 45.1
+- **warranter** — PDF p. 494; Persian OCR confidence 77.3; head match 0.4; head OCR confidence 45.1
+- **warrantor** — PDF p. 494; Persian OCR confidence 0; head match 0.467; head OCR confidence 92.3
+- **Warsaw Circle** — PDF p. 494; Persian OCR confidence 87.6; head match 0.75; head OCR confidence 40.5
+- **wartime** — PDF p. 494; Persian OCR confidence 89.5; head match 0.49; head OCR confidence 51.2
+- **wastage** — PDF p. 494; Persian OCR confidence 63.4; head match 0.35; head OCR confidence 51.2
+- **waste** — PDF p. 494; Persian OCR confidence 66.2; head match 0.364; head OCR confidence 12.0
+- **waste control** — PDF p. 494; Persian OCR confidence 88.0; head match 0.494; head OCR confidence 53.2
+- **waste disposal Spy Jaat** — PDF p. 495; Persian OCR confidence 35.5; head match 0.788; head OCR confidence 56.5
+- **wasteful** — PDF p. 495; Persian OCR confidence 77.1; head match 0.3; head OCR confidence 56.5
+- **wastefulness** — PDF p. 495; Persian OCR confidence 89.1; head match 0.431; head OCR confidence 41.9
+- **wasteland** — PDF p. 495; Persian OCR confidence 64.2; head match 0.406; head OCR confidence 39.7
+- **waster** — PDF p. 495; Persian OCR confidence 77.5; head match 0.442; head OCR confidence 58.3
+- **wasting** — PDF p. 495; Persian OCR confidence 56.2; head match 0.363; head OCR confidence 37.9
+- **wastrel** — PDF p. 495; Persian OCR confidence 0.0; head match 1.0; head OCR confidence 95.2
+- **watcher** — PDF p. 495; Persian OCR confidence 80.1; head match 0.737; head OCR confidence 58.2
+- **watchful** — PDF p. 495; Persian OCR confidence 55.7; head match 0.5; head OCR confidence 58.2
+- **watchfulness** — PDF p. 495; Persian OCR confidence 55.5; head match 1.0; head OCR confidence 67.9
+- **watchman** — PDF p. 495; Persian OCR confidence 89.0; head match 0.6; head OCR confidence 67.9
+- **watch night** — PDF p. 495; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **watchword** — PDF p. 495; Persian OCR confidence 0; head match 0.947; head OCR confidence 48.2
+- **waterborne** — PDF p. 495; Persian OCR confidence 68.5; head match 0.769; head OCR confidence 63.1
+- **water burial** — PDF p. 495; Persian OCR confidence 80.4; head match 0.44; head OCR confidence 41.2
+- **waterfall illusion sli] pay (lh,** — PDF p. 495; Persian OCR confidence 77.1; head match 0.81; head OCR confidence 55.7
+- **way** — PDF p. 495; Persian OCR confidence 66.4; head match 0.28; head OCR confidence 35.1
+- **wayfarer** — PDF p. 495; Persian OCR confidence 58.4; head match 0.727; head OCR confidence 48.3
+- **wayworn** — PDF p. 495; Persian OCR confidence 50.9; head match 0.778; head OCR confidence 46.4
+- **weak** — PDF p. 495; Persian OCR confidence 71.3; head match 0.2; head OCR confidence 30.3
+- **weakling** — PDF p. 495; Persian OCR confidence 47.6; head match 0.487; head OCR confidence 29.5
+- **weakminded** — PDF p. 495; Persian OCR confidence 49.2; head match 1.0; head OCR confidence 71.6
+- **weakmindedness .r** — PDF p. 495; Persian OCR confidence 69.6; head match 0.824; head OCR confidence 2.6
+- **weakness** — PDF p. 495; Persian OCR confidence 71.6; head match 0.361; head OCR confidence 4.6
+- **weal** — PDF p. 495; Persian OCR confidence 81.2; head match 0.267; head OCR confidence 23.5
+- **wealthiness** — PDF p. 495; Persian OCR confidence 91.3; head match 0.44; head OCR confidence 37.7
+- **wealth tax** — PDF p. 495; Persian OCR confidence 87.1; head match 0.485; head OCR confidence 65.7
+- **wealthy** — PDF p. 495; Persian OCR confidence 84.5; head match 0.737; head OCR confidence 30.1
+- **weaning SHY** — PDF p. 495; Persian OCR confidence 78.7; head match 0.824; head OCR confidence 64.8
+- **weanling** — PDF p. 495; Persian OCR confidence 87.5; head match 0.778; head OCR confidence 64.8
+- **weapon** — PDF p. 495; Persian OCR confidence 87.1; head match 0.35; head OCR confidence 37.3
+- **weaponry** — PDF p. 495; Persian OCR confidence 83.6; head match 0.727; head OCR confidence 36.2
+- **wearable** — PDF p. 495; Persian OCR confidence 81.5; head match 0.727; head OCR confidence 32.5
+- **wedding aig** — PDF p. 495; Persian OCR confidence 71.0; head match 0.824; head OCR confidence 57.5
+- **we-group** — PDF p. 495; Persian OCR confidence 65.3; head match 0.824; head OCR confidence 36.5
+- **weighing** — PDF p. 495; Persian OCR confidence 68.0; head match 0.444; head OCR confidence 36.5
+- **welfare benefits** — PDF p. 495; Persian OCR confidence 82.1; head match 0.811; head OCR confidence 54.3
+- **welfare capitalism** — PDF p. 495; Persian OCR confidence 72.1; head match 0.81; head OCR confidence 32.0
+- **welfare economy** — PDF p. 495; Persian OCR confidence 77.1; head match 0.824; head OCR confidence 48.4
+- **welfare state** — PDF p. 495; Persian OCR confidence 59.1; head match 0.774; head OCR confidence 61.2
+- **welfarism** — PDF p. 496; Persian OCR confidence 90.5; head match 0.72; head OCR confidence 45.4
+- **well-born** — PDF p. 496; Persian OCR confidence 59.9; head match 0.588; head OCR confidence 23.0
+- **well-bred** — PDF p. 496; Persian OCR confidence 70.0; head match 0.7; head OCR confidence 16.3
+- **well-defined** — PDF p. 496; Persian OCR confidence 55.0; head match 1.0; head OCR confidence 96.5
+- **well-disposed** — PDF p. 496; Persian OCR confidence 67.4; head match 0.696; head OCR confidence 96.5
+- **well-formed** — PDF p. 496; Persian OCR confidence 84.6; head match 0.483; head OCR confidence 25.0
+- **well-found** — PDF p. 496; Persian OCR confidence 54.3; head match 0.45; head OCR confidence 45.4
+- **well-founded** — PDF p. 496; Persian OCR confidence 73.0; head match 0.667; head OCR confidence 45.4
+- **well-grounded** — PDF p. 496; Persian OCR confidence 76.4; head match 0.442; head OCR confidence 48.8
+- **well-informed** — PDF p. 496; Persian OCR confidence 82.0; head match 0.727; head OCR confidence 58.7
+- **well-intentioned** — PDF p. 496; Persian OCR confidence 65.9; head match 0.5; head OCR confidence 58.7
+- **well-known** — PDF p. 496; Persian OCR confidence 67.4; head match 0.72; head OCR confidence 48.0
+- **well-mannered** — PDF p. 496; Persian OCR confidence 88.9; head match 0.75; head OCR confidence 47.9
+- **well-meaning** — PDF p. 496; Persian OCR confidence 32.1; head match 0.71; head OCR confidence 49.0
+- **well-ordered** — PDF p. 496; Persian OCR confidence 80.6; head match 0.71; head OCR confidence 40.6
+- **Welsh** — PDF p. 496; Persian OCR confidence 84.3; head match 0.714; head OCR confidence 51.7
+- **Weltgeist (G.)** — PDF p. 496; Persian OCR confidence 70.5; head match 0.424; head OCR confidence 57.9
+- **Weltschmerz (G.) lege** — PDF p. 496; Persian OCR confidence 32.0; head match 0.857; head OCR confidence 73.3
+- **Wendish** — PDF p. 496; Persian OCR confidence 81.6; head match 0.35; head OCR confidence 36.4
+- **werewolf (G.) oS** — PDF p. 496; Persian OCR confidence 24.6; head match 0.9; head OCR confidence 61.5
+- **wergeld (G.)** — PDF p. 496; Persian OCR confidence 67.8; head match 0.762; head OCR confidence 68.2
+- **werwolf** — PDF p. 496; Persian OCR confidence 0; head match 0.487; head OCR confidence 96.7
+- **Wesleyanism** — PDF p. 496; Persian OCR confidence 90.1; head match 0.385; head OCR confidence 21.5
+- **West** — PDF p. 496; Persian OCR confidence 92.2; head match 0.329; head OCR confidence 54.2
+- **western** — PDF p. 496; Persian OCR confidence 70.6; head match 0.392; head OCR confidence 40.7
+- **westerner** — PDF p. 496; Persian OCR confidence 61.6; head match 0.45; head OCR confidence 28.1
+- **Western Hemisphere** — PDF p. 496; Persian OCR confidence 55.7; head match 0.791; head OCR confidence 49.6
+- **Westernism** — PDF p. 496; Persian OCR confidence 80.9; head match 0.424; head OCR confidence 22.9
+- **West Germanic** — PDF p. 496; Persian OCR confidence 90.4; head match 0.727; head OCR confidence 47.8
+- **Westomania** — PDF p. 496; Persian OCR confidence 62.1; head match 1.0; head OCR confidence 48.6
+- **West-toxicated** — PDF p. 496; Persian OCR confidence 88.3; head match 0.812; head OCR confidence 41.9
+- **white collar** — PDF p. 496; Persian OCR confidence 54.3; head match 0.759; head OCR confidence 59.1
+- **whited sepulcher** — PDF p. 496; Persian OCR confidence 53.1; head match 0.833; head OCR confidence 48.1
+- **white magic** — PDF p. 496; Persian OCR confidence 77.4; head match 0.452; head OCR confidence 46.1
+- **white man** — PDF p. 496; Persian OCR confidence 44.8; head match 0.415; head OCR confidence 47.9
+- **white paper** — PDF p. 496; Persian OCR confidence 81.4; head match 0.389; head OCR confidence 41.4
+- **white revolution ade Mal** — PDF p. 496; Persian OCR confidence 76.2; head match 0.833; head OCR confidence 66.7
+- **white supremacistcs** — PDF p. 496; Persian OCR confidence 54.7; head match 1.0; head OCR confidence 90.8
+- **whole** — PDF p. 496; Persian OCR confidence 64.3; head match 0.412; head OCR confidence 14.7
+- **whole learning** — PDF p. 496; Persian OCR confidence 46.4; head match 0.743; head OCR confidence 64.2
+- **whole method ort** — PDF p. 496; Persian OCR confidence 17.2; head match 0.88; head OCR confidence 64.8
+- **wholeness** — PDF p. 496; Persian OCR confidence 55.0; head match 0.522; head OCR confidence 64.8
+- **wholesale** — PDF p. 496; Persian OCR confidence 63.8; head match 1.0; head OCR confidence 90.8
+- **wholesaler** — PDF p. 496; Persian OCR confidence 69.5; head match 0.714; head OCR confidence 39.8
+- **wholesomeness** — PDF p. 497; Persian OCR confidence 88.1; head match 0.788; head OCR confidence 38.4
+- **whole structure est.** — PDF p. 497; Persian OCR confidence 31.9; head match 0.903; head OCR confidence 89.6
+- **wholism** — PDF p. 497; Persian OCR confidence 0; head match 0.49; head OCR confidence 92.7
+- **wholistic** — PDF p. 497; Persian OCR confidence 0; head match 0.72; head OCR confidence 90.9
+- **wickedness** — PDF p. 497; Persian OCR confidence 73.1; head match 0.833; head OCR confidence 53.0
+- **widow** — PDF p. 497; Persian OCR confidence 51.9; head match 0.467; head OCR confidence 32.2
+- **widower** — PDF p. 497; Persian OCR confidence 16.2; head match 0.737; head OCR confidence 48.3
+- **widowerhood** — PDF p. 497; Persian OCR confidence 81.0; head match 0.759; head OCR confidence 46.2
+- **wife-capture** — PDF p. 497; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.9
+- **wifedom** — PDF p. 497; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.9
+- **wifehood** — PDF p. 497; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.2
+- **wildlife** — PDF p. 497; Persian OCR confidence 36.4; head match 0.842; head OCR confidence 44.2
+- **wildness** — PDF p. 497; Persian OCR confidence 67.4; head match 0.415; head OCR confidence 23.6
+- **Wild West** — PDF p. 497; Persian OCR confidence 76.6; head match 0.762; head OCR confidence 74.7
+- **will** — PDF p. 497; Persian OCR confidence 41.6; head match 0.255; head OCR confidence 29.1
+- **willful** — PDF p. 497; Persian OCR confidence 82.6; head match 0.49; head OCR confidence 34.2
+- **willfulness** — PDF p. 497; Persian OCR confidence 84.6; head match 0.833; head OCR confidence 25.1
+- **willing** — PDF p. 497; Persian OCR confidence 76.1; head match 0.49; head OCR confidence 0.0
+- **willingness** — PDF p. 497; Persian OCR confidence 91.5; head match 0.786; head OCR confidence 26.1
+- **will of God** — PDF p. 497; Persian OCR confidence 65.8; head match 0.42; head OCR confidence 58.8
+- **will power ool) ad** — PDF p. 497; Persian OCR confidence 63.7; head match 0.783; head OCR confidence 66.8
+- **will to believe** — PDF p. 497; Persian OCR confidence 80.6; head match 0.743; head OCR confidence 71.9
+- **will to knowledge lls Cul** — PDF p. 497; Persian OCR confidence 75.1; head match 0.833; head OCR confidence 65.7
+- **will to life** — PDF p. 497; Persian OCR confidence 70.9; head match 0.769; head OCR confidence 57.4
+- **will to meaning Lene Cul** — PDF p. 497; Persian OCR confidence 63.3; head match 0.788; head OCR confidence 65.3
+- **will to pleasure** — PDF p. 497; Persian OCR confidence 32.7; head match 0.778; head OCR confidence 50.9
+- **will to power** — PDF p. 497; Persian OCR confidence 56.3; head match 0.786; head OCR confidence 46.9
+- **will to truth** — PDF p. 497; Persian OCR confidence 56.6; head match 0.71; head OCR confidence 53.0
+- **Wilsonian** — PDF p. 497; Persian OCR confidence 75.4; head match 0.323; head OCR confidence 21.7
+- **Wilsonianism** — PDF p. 497; Persian OCR confidence 60.4; head match 0.923; head OCR confidence 92.7
+- **windfall** — PDF p. 497; Persian OCR confidence 91.9; head match 0.4; head OCR confidence 92.7
+- **windfall profit** — PDF p. 497; Persian OCR confidence 92.8; head match 0.778; head OCR confidence 54.6
+- **wing** — PDF p. 497; Persian OCR confidence 91.2; head match 0.727; head OCR confidence 80.4
+- **wisdom** — PDF p. 497; Persian OCR confidence 72.3; head match 0.382; head OCR confidence 28.0
+- **wish** — PDF p. 497; Persian OCR confidence 61.0; head match 0.431; head OCR confidence 26.0
+- **wishful** — PDF p. 497; Persian OCR confidence 85.7; head match 0.625; head OCR confidence 26.0
+- **wishfulness** — PDF p. 497; Persian OCR confidence 72.6; head match 0.453; head OCR confidence 11.3
+- **wit** — PDF p. 497; Persian OCR confidence 54.2; head match 0.247; head OCR confidence 27.1
+- **witch** — PDF p. 497; Persian OCR confidence 68.4; head match 0.467; head OCR confidence 59.3
+- **witchcraft .r** — PDF p. 497; Persian OCR confidence 91.4; head match 0.69; head OCR confidence 19.9
+- **witch doctor** — PDF p. 497; Persian OCR confidence 80.8; head match 0.786; head OCR confidence 40.1
+- **witchery** — PDF p. 498; Persian OCR confidence 76.9; head match 0.431; head OCR confidence 35.3
+- **witches' Sabbath** — PDF p. 498; Persian OCR confidence 56.4; head match 0.778; head OCR confidence 59.8
+- **witching** — PDF p. 498; Persian OCR confidence 80.9; head match 0.373; head OCR confidence 54.3
+- **withdrawal** — PDF p. 498; Persian OCR confidence 74.7; head match 0.389; head OCR confidence 34.9
+- **withdrawn** — PDF p. 498; Persian OCR confidence 65.0; head match 0.434; head OCR confidence 48.3
+- **with-presence group Soy4>05)5(l>** — PDF p. 498; Persian OCR confidence 87.6; head match 0.81; head OCR confidence 63.2
+- **witness** — PDF p. 498; Persian OCR confidence 73.9; head match 0.338; head OCR confidence 35.5
+- **witticism** — PDF p. 498; Persian OCR confidence 50.2; head match 1.0; head OCR confidence 85.1
+- **wittiness** — PDF p. 498; Persian OCR confidence 76.7; head match 0.75; head OCR confidence 34.8
+- **wizard** — PDF p. 498; Persian OCR confidence 87.1; head match 0.42; head OCR confidence 36.0
+- **wizardry Syke** — PDF p. 498; Persian OCR confidence 91.8; head match 0.8; head OCR confidence 69.7
+- **wolf child** — PDF p. 498; Persian OCR confidence 53.0; head match 0.485; head OCR confidence 48.1
+- **woman** — PDF p. 498; Persian OCR confidence 81.6; head match 0.438; head OCR confidence 43.5
+- **womenfolk(s)** — PDF p. 498; Persian OCR confidence 60.3; head match 0.4; head OCR confidence 15.7
+- **womanish if** — PDF p. 498; Persian OCR confidence 4.8; head match 0.889; head OCR confidence 57.8
+- **womanized** — PDF p. 498; Persian OCR confidence 74.4; head match 0.72; head OCR confidence 41.5
+- **womanliness** — PDF p. 498; Persian OCR confidence 43.5; head match 0.786; head OCR confidence 49.3
+- **womanly** — PDF p. 498; Persian OCR confidence 81.2; head match 0.467; head OCR confidence 53.5
+- **woman suffrage** — PDF p. 498; Persian OCR confidence 47.5; head match 0.839; head OCR confidence 40.5
+- **women’s rights cl** — PDF p. 498; Persian OCR confidence 0; head match 0.923; head OCR confidence 64.3
+- **wonderland** — PDF p. 498; Persian OCR confidence 0; head match 1.0; head OCR confidence 86.2
+- **wonderwork** — PDF p. 498; Persian OCR confidence 0; head match 1.0; head OCR confidence 17.4
+- **wonderworker** — PDF p. 498; Persian OCR confidence 0; head match 1.0; head OCR confidence 78.2
+- **woodcarving** — PDF p. 498; Persian OCR confidence 0; head match 1.0; head OCR confidence 52.2
+- **woodcraft** — PDF p. 498; Persian OCR confidence 72.3; head match 0.783; head OCR confidence 40.7
+- **woodcut** — PDF p. 498; Persian OCR confidence 57.7; head match 0.49; head OCR confidence 42.0
+- **woodcutter** — PDF p. 498; Persian OCR confidence 0; head match 1.0; head OCR confidence 62.8
+- **woodcutting** — PDF p. 498; Persian OCR confidence 25.7; head match 0.759; head OCR confidence 58.2
+- **wooden** — PDF p. 498; Persian OCR confidence 74.1; head match 0.336; head OCR confidence 19.6
+- **wood engraving** — PDF p. 498; Persian OCR confidence 57.7; head match 0.479; head OCR confidence 47.0
+- **woodenness** — PDF p. 498; Persian OCR confidence 74.4; head match 0.36; head OCR confidence 47.0
+- **woodland** — PDF p. 498; Persian OCR confidence 80.7; head match 0.487; head OCR confidence 32.1
+- **woodman** — PDF p. 498; Persian OCR confidence 0; head match 0.487; head OCR confidence 92.1
+- **woodturner** — PDF p. 498; Persian OCR confidence 90.3; head match 0.452; head OCR confidence 45.8
+- **woodturning** — PDF p. 498; Persian OCR confidence 90.0; head match 0.481; head OCR confidence 48.6
+- **woodwork** — PDF p. 498; Persian OCR confidence 88.8; head match 0.386; head OCR confidence 33.4
+- **word** — PDF p. 498; Persian OCR confidence 71.6; head match 0.224; head OCR confidence 33.4
+- **wordage** — PDF p. 498; Persian OCR confidence 73.9; head match 0.363; head OCR confidence 31.1
+- **word association test** — PDF p. 498; Persian OCR confidence 64.5; head match 1.0; head OCR confidence 91.4
+- **wordbook** — PDF p. 498; Persian OCR confidence 55.7; head match 0.476; head OCR confidence 89.4
+- **word configuration** — PDF p. 498; Persian OCR confidence 64.1; head match 0.756; head OCR confidence 45.8
+- **word deafness 5Sejl5** — PDF p. 499; Persian OCR confidence 43.8; head match 0.8; head OCR confidence 64.5
+- **word ending** — PDF p. 499; Persian OCR confidence 75.4; head match 0.483; head OCR confidence 61.8
+- **word formation sixe5l9** — PDF p. 499; Persian OCR confidence 92.2; head match 0.788; head OCR confidence 64.3
+- **word index** — PDF p. 499; Persian OCR confidence 81.7; head match 0.72; head OCR confidence 69.6
+- **wording** — PDF p. 499; Persian OCR confidence 61.0; head match 0.75; head OCR confidence 92.9
+- **wordless** — PDF p. 499; Persian OCR confidence 64.1; head match 0.762; head OCR confidence 47.5
+- **word play** — PDF p. 499; Persian OCR confidence 82.7; head match 0.448; head OCR confidence 45.1
+- **word processing cobeles},** — PDF p. 499; Persian OCR confidence 46.1; head match 0.8; head OCR confidence 64.2
+- **word processor Llesly** — PDF p. 499; Persian OCR confidence 87.8; head match 0.812; head OCR confidence 71.3
+- **wordsmlth** — PDF p. 499; Persian OCR confidence 63.0; head match 0.3; head OCR confidence 71.3
+- **word stress** — PDF p. 499; Persian OCR confidence 70.9; head match 0.741; head OCR confidence 54.5
+- **work** — PDF p. 499; Persian OCR confidence 68.3; head match 0.667; head OCR confidence 96.0
+- **workability** — PDF p. 499; Persian OCR confidence 51.3; head match 1.0; head OCR confidence 96.1
+- **workable** — PDF p. 499; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **workahollc** — PDF p. 499; Persian OCR confidence 68.5; head match 0.556; head OCR confidence 90.9
+- **workahollsm** — PDF p. 499; Persian OCR confidence 71.8; head match 0.645; head OCR confidence 24.9
+- **workbook** — PDF p. 499; Persian OCR confidence 72.0; head match 0.467; head OCR confidence 39.7
+- **work breakdown** — PDF p. 499; Persian OCR confidence 50.1; head match 0.492; head OCR confidence 57.5
+- **workcamp** — PDF p. 499; Persian OCR confidence 73.4; head match 0.727; head OCR confidence 46.3
+- **work count** — PDF p. 499; Persian OCR confidence 83.5; head match 0.485; head OCR confidence 45.1
+- **workday jot** — PDF p. 499; Persian OCR confidence 78.7; head match 0.824; head OCR confidence 72.8
+- **work decrement JIS ~** — PDF p. 499; Persian OCR confidence 81.5; head match 0.727; head OCR confidence 45.6
+- **work distribution** — PDF p. 499; Persian OCR confidence 72.4; head match 0.821; head OCR confidence 43.5
+- **work ethic** — PDF p. 499; Persian OCR confidence 43.4; head match 0.467; head OCR confidence 56.2
+- **work execution WS eles!** — PDF p. 499; Persian OCR confidence 92.5; head match 0.812; head OCR confidence 71.7
+- **work flow 3S** — PDF p. 499; Persian OCR confidence 48.1; head match 0.889; head OCR confidence 73.7
+- **work flow chart** — PDF p. 499; Persian OCR confidence 56.5; head match 0.492; head OCR confidence 64.2
+- **workfolk(s)** — PDF p. 499; Persian OCR confidence 76.2; head match 0.45; head OCR confidence 21.4
+- **workhouse** — PDF p. 499; Persian OCR confidence 77.3; head match 0.6; head OCR confidence 84.4
+- **working** — PDF p. 499; Persian OCR confidence 73.4; head match 0.363; head OCR confidence 40.4
+- **working age IS Sw** — PDF p. 499; Persian OCR confidence 50.2; head match 0.833; head OCR confidence 57.1
+- **working assumption LESS** — PDF p. 499; Persian OCR confidence 59.5; head match 0.895; head OCR confidence 77.4
+- **working cash LsoyF** — PDF p. 499; Persian OCR confidence 74.6; head match 0.815; head OCR confidence 61.7
+- **working class** — PDF p. 499; Persian OCR confidence 87.2; head match 0.8; head OCR confidence 54.8
+- **working fund** — PDF p. 499; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.9
+- **working hypothesis** — PDF p. 499; Persian OCR confidence 65.6; head match 0.773; head OCR confidence 48.2
+- **working life** — PDF p. 499; Persian OCR confidence 62.2; head match 0.909; head OCR confidence 71.6
+- **working machine** — PDF p. 499; Persian OCR confidence 76.9; head match 0.757; head OCR confidence 62.3
+- **workingman** — PDF p. 499; Persian OCR confidence 62.7; head match 1.0; head OCR confidence 74.5
+- **working model** — PDF p. 499; Persian OCR confidence 45.2; head match 0.727; head OCR confidence 74.5
+- **working population** — PDF p. 499; Persian OCR confidence 49.4; head match 0.829; head OCR confidence 40.3
+- **workload** — PDF p. 499; Persian OCR confidence 62.2; head match 0.556; head OCR confidence 58.1
+- **workmanlike** — PDF p. 500; Persian OCR confidence 12.5; head match 0.815; head OCR confidence 48.4
+- **work maturity** — PDF p. 500; Persian OCR confidence 65.9; head match 0.774; head OCR confidence 59.3
+- **work measurement** — PDF p. 500; Persian OCR confidence 57.2; head match 1.0; head OCR confidence 96.0
+- **work of art J, ars** — PDF p. 500; Persian OCR confidence 33.6; head match 0.818; head OCR confidence 68.4
+- **workpeople** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.1
+- **work permit** — PDF p. 500; Persian OCR confidence 0.0; head match 1.0; head OCR confidence 96.7
+- **work position** — PDF p. 500; Persian OCR confidence 84.5; head match 0.636; head OCR confidence 96.7
+- **work progress Wed,** — PDF p. 500; Persian OCR confidence 55.6; head match 0.889; head OCR confidence 70.6
+- **work psychology** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **work release** — PDF p. 500; Persian OCR confidence 91.1; head match 0.759; head OCR confidence 66.3
+- **work rules** — PDF p. 500; Persian OCR confidence 74.2; head match 0.415; head OCR confidence 66.3
+- **work sampling** — PDF p. 500; Persian OCR confidence 21.1; head match 0.494; head OCR confidence 62.3
+- **workshop** — PDF p. 500; Persian OCR confidence 51.6; head match 0.762; head OCR confidence 48.0
+- **work status** — PDF p. 500; Persian OCR confidence 70.4; head match 0.769; head OCR confidence 59.0
+- **work stoppage** — PDF p. 500; Persian OCR confidence 77.3; head match 0.5; head OCR confidence 59.0
+- **work team 3Sp5** — PDF p. 500; Persian OCR confidence 88.8; head match 0.8; head OCR confidence 76.1
+- **work-therapy gle. lf** — PDF p. 500; Persian OCR confidence 87.2; head match 0.815; head OCR confidence 59.8
+- **work unit wSa>l,** — PDF p. 500; Persian OCR confidence 59.8; head match 0.8; head OCR confidence 64.3
+- **work-up** — PDF p. 500; Persian OCR confidence 69.7; head match 0.365; head OCR confidence 57.0
+- **workweek** — PDF p. 500; Persian OCR confidence 51.8; head match 0.467; head OCR confidence 66.1
+- **world** — PDF p. 500; Persian OCR confidence 63.1; head match 0.259; head OCR confidence 37.2
+- **World Court** — PDF p. 500; Persian OCR confidence 89.5; head match 0.483; head OCR confidence 61.5
+- **world dlscloslng** — PDF p. 500; Persian OCR confidence 72.3; head match 0.703; head OCR confidence 59.8
+- **world government lee GogS>** — PDF p. 500; Persian OCR confidence 64.5; head match 0.811; head OCR confidence 73.5
+- **world ground ok** — PDF p. 500; Persian OCR confidence 60.7; head match 0.917; head OCR confidence 79.1
+- **world hood** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 23.0
+- **world less** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 47.7
+- **worldliness** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 38.5
+- **worldling** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 69.3
+- **world of body** — PDF p. 500; Persian OCR confidence 85.5; head match 0.416; head OCR confidence 59.5
+- **world of form** — PDF p. 500; Persian OCR confidence 33.9; head match 0.481; head OCR confidence 58.2
+- **world of forms U1>Jt:.. ~I&. ~I&.** — PDF p. 500; Persian OCR confidence 56.5; head match 0.612; head OCR confidence 52.5
+- **world of imagination Ae pile** — PDF p. 500; Persian OCR confidence 48.5; head match 0.857; head OCR confidence 79.3
+- **world of Intellect** — PDF p. 500; Persian OCR confidence 67.6; head match 0.762; head OCR confidence 67.6
+- **world of sense Saacis** — PDF p. 500; Persian OCR confidence 28.8; head match 0.8; head OCR confidence 66.7
+- **world of the elements** — PDF p. 500; Persian OCR confidence 62.9; head match 0.75; head OCR confidence 71.4
+- **world order** — PDF p. 500; Persian OCR confidence 79.5; head match 0.438; head OCR confidence 55.6
+- **world-outlook** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 82.6
+- **world power** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.3
+- **world’s fair** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.8
+- **world society** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.9
+- **world soul** — PDF p. 500; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.3
+- **world spirit** — PDF p. 500; Persian OCR confidence 69.2; head match 0.467; head OCR confidence 51.4
+- **world view** — PDF p. 500; Persian OCR confidence 90.7; head match 0.72; head OCR confidence 56.6
+- **world war** — PDF p. 500; Persian OCR confidence 92.4; head match 0.727; head OCR confidence 54.2
+- **worldwlde** — PDF p. 500; Persian OCR confidence 88.9; head match 0.373; head OCR confidence 48.8
+- **worship** — PDF p. 500; Persian OCR confidence 83.3; head match 0.5; head OCR confidence 50.7
+- **worshiper edie** — PDF p. 500; Persian OCR confidence 67.5; head match 0.818; head OCR confidence 65.2
+- **worth** — PDF p. 501; Persian OCR confidence 63.6; head match 0.412; head OCR confidence 55.9
+- **worthiness** — PDF p. 501; Persian OCR confidence 68.6; head match 0.4; head OCR confidence 42.0
+- **worthless** — PDF p. 501; Persian OCR confidence 49.8; head match 0.467; head OCR confidence 40.6
+- **worthy** — PDF p. 501; Persian OCR confidence 64.4; head match 0.4; head OCR confidence 32.2
+- **wretch** — PDF p. 501; Persian OCR confidence 64.9; head match 0.28; head OCR confidence 21.6
+- **wretched** — PDF p. 501; Persian OCR confidence 67.1; head match 0.373; head OCR confidence 24.1
+- **wretchedness** — PDF p. 501; Persian OCR confidence 55.0; head match 0.889; head OCR confidence 91.3
+- **writer** — PDF p. 501; Persian OCR confidence 75.7; head match 0.667; head OCR confidence 39.3
+- **writer's block odin gi** — PDF p. 501; Persian OCR confidence 81.8; head match 0.8; head OCR confidence 58.8
+- **wrlterly** — PDF p. 501; Persian OCR confidence 87.2; head match 0.533; head OCR confidence 51.3
+- **writerly text** — PDF p. 501; Persian OCR confidence 89.1; head match 0.75; head OCR confidence 37.5
+- **written** — PDF p. 501; Persian OCR confidence 92.5; head match 0.714; head OCR confidence 23.8
+- **written form** — PDF p. 501; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.7
+- **written language** — PDF p. 501; Persian OCR confidence 0; head match 1.0; head OCR confidence 86.8
+- **wrong** — PDF p. 501; Persian OCR confidence 70.4; head match 0.438; head OCR confidence 49.9
+- **wrongdoer** — PDF p. 501; Persian OCR confidence 60.1; head match 0.485; head OCR confidence 22.2
+- **wrongdoing** — PDF p. 501; Persian OCR confidence 70.4; head match 0.833; head OCR confidence 52.4
+- **wrongfu I** — PDF p. 501; Persian OCR confidence 49.3; head match 0.545; head OCR confidence 52.4

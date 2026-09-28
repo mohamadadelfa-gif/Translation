@@ -1,0 +1,241 @@
+# N — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **naiveness; naiveness** — PDF p. 290, printed p. 289; Persian OCR confidence 53.5; head confidence 91.9; embedded `naiveness; naiveness`.
+- **naivety; naivety naiveté** — PDF p. 290, printed p. 289; Persian OCR confidence 0.0; head confidence 95.4; embedded `naivety; naivety naivete`.
+- **narcism narcissism** — PDF p. 290, printed p. 289; Persian OCR confidence 0.0; head confidence 94.2; embedded `narcism narcissism`.
+- **narcissism** — PDF p. 290, printed p. 289; Persian OCR confidence 83.2; head confidence 0.0; embedded `narcissism`.
+- **narcotics** — PDF p. 290, printed p. 289; Persian OCR confidence 45.5; head confidence 74.2; embedded `narcotics`.
+- **narcotism** — PDF p. 290, printed p. 289; Persian OCR confidence 84.8; head confidence 26.9; embedded `narcotism`.
+- **narodnism** — PDF p. 290, printed p. 289; Persian OCR confidence 86.9; head confidence 11.7; embedded `narodnism`.
+- **narratee** — PDF p. 290, printed p. 289; Persian OCR confidence 82.1; head confidence 24.4; embedded `narratee`.
+- **Narrative sequence** — PDF p. 290, printed p. 289; Persian OCR confidence 44.4; head confidence 92.5; embedded `narrative sequence`.
+- **Narratological** — PDF p. 290, printed p. 289; Persian OCR confidence 41.2; head confidence 77.4; embedded `narratological`.
+- **nascence** — PDF p. 291, printed p. 290; Persian OCR confidence 26.7; head confidence 91.6; embedded `nascence`.
+- **nation** — PDF p. 291, printed p. 290; Persian OCR confidence 26.4; head confidence 96.5; embedded `nation`.
+- **national accounts** — PDF p. 291, printed p. 290; Persian OCR confidence 52.6; head confidence 96.8; embedded `national accounts`.
+- **national bank** — PDF p. 291, printed p. 290; Persian OCR confidence 51.1; head confidence 96.7; embedded `national bank`.
+- **national consciousness** — PDF p. 291, printed p. 290; Persian OCR confidence 45.2; head confidence 96.3; embedded `national consciousness`.
+- **national consumption** — PDF p. 291, printed p. 290; Persian OCR confidence 38.7; head confidence 96.3; embedded `natlonal consumption`.
+- **national government** — PDF p. 291, printed p. 290; Persian OCR confidence 38.7; head confidence 96.1; embedded `natlonal government`.
+- **national investment** — PDF p. 291, printed p. 290; Persian OCR confidence 49.3; head confidence 87.5; embedded `national Investment`.
+- **Nationalistic** — PDF p. 291, printed p. 290; Persian OCR confidence 53.1; head confidence 64.5; embedded `nationalistic`.
+- **nationalization** — PDF p. 291, printed p. 290; Persian OCR confidence 53.4; head confidence 96.4; embedded `nationalization`.
+- **national language** — PDF p. 291, printed p. 290; Persian OCR confidence 36.2; head confidence 81.9; embedded `natlonal language`.
+- **national park** — PDF p. 291, printed p. 290; Persian OCR confidence 0.0; head confidence 92.6; embedded `national park`.
+- **national product** — PDF p. 291, printed p. 290; Persian OCR confidence 28.0; head confidence 90.3; embedded `national product`.
+- **national security** — PDF p. 291, printed p. 290; Persian OCR confidence 44.9; head confidence 91.9; embedded `national security`.
+- **national sovereignty** — PDF p. 291, printed p. 290; Persian OCR confidence 49.2; head confidence 86.2; embedded `national sovereignty`.
+- **nation-building** — PDF p. 291, printed p. 290; Persian OCR confidence 45.9; head confidence 96.3; embedded `nation-build`.
+- **nationhood** — PDF p. 291, printed p. 290; Persian OCR confidence 0.0; head confidence 26.8; embedded `nationhood`.
+- **nation-state** — PDF p. 291, printed p. 290; Persian OCR confidence 24.3; head confidence 69.8; embedded `nation-state`.
+- **native behavior** — PDF p. 291, printed p. 290; Persian OCR confidence 41.0; head confidence 70.6; embedded `native behavior`.
+- **nativism** — PDF p. 291, printed p. 290; Persian OCR confidence 76.0; head confidence 70.6; embedded `natlvlsm`.
+- **nativlstlc** — PDF p. 291, printed p. 290; Persian OCR confidence 76.6; head confidence 35.4; embedded `nativlstlc`.
+- **natural equality** — PDF p. 292, printed p. 291; Persian OCR confidence 0.0; head confidence 96.4; embedded `natural equality`.
+- **natural evolution** — PDF p. 292, printed p. 291; Persian OCR confidence 0.0; head confidence 96.5; embedded `natural evolutlon`.
+- **natural gender** — PDF p. 292, printed p. 291; Persian OCR confidence 0.0; head confidence 96.5; embedded `natural gender`.
+- **natural group** — PDF p. 292, printed p. 291; Persian OCR confidence 0.0; head confidence 96.2; embedded `natural group`.
+- **natural justice** — PDF p. 292, printed p. 291; Persian OCR confidence 0.0; head confidence 96.5; embedded `natural justice`.
+- **natural language** — PDF p. 292, printed p. 291; Persian OCR confidence 0.0; head confidence 95.8; embedded `natural language`.
+- **natural law** — PDF p. 292, printed p. 291; Persian OCR confidence 0.0; head confidence 95.8; embedded `natural law`.
+- **natural life** — PDF p. 292, printed p. 291; Persian OCR confidence 0.0; head confidence 95.5; embedded `natural life`.
+- **natural monopoly** — PDF p. 292, printed p. 291; Persian OCR confidence 51.4; head confidence 96.6; embedded `natural monopoly`.
+- **natural philosopher** — PDF p. 292, printed p. 291; Persian OCR confidence 33.5; head confidence 90.1; embedded `natural philosopher`.
+- **natural right** — PDF p. 292, printed p. 291; Persian OCR confidence 53.5; head confidence 75.3; embedded `natural right`.
+- **nature people** — PDF p. 292, printed p. 291; Persian OCR confidence 26.5; head confidence 64.8; embedded `nature people`.
+- **naturopathic** — PDF p. 292, printed p. 291; Persian OCR confidence 54.1; head confidence 96.5; embedded `naturopathlc`.
+- **naturopathy** — PDF p. 292, printed p. 291; Persian OCR confidence 20.0; head confidence 96.8; embedded `naturopathy`.
+- **necessarlan** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 91.6; embedded `necessarlan = necessltarian`.
+- **necessarlanlsm** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 91.9; embedded `necessarlanlsm = necessltarianlsm`.
+- **necessary** — PDF p. 293, printed p. 292; Persian OCR confidence 51.8; head confidence 93.0; embedded `necessary`.
+- **necessitatlon0.)** — PDF p. 293, printed p. 292; Persian OCR confidence 78.4; head confidence 24.0; embedded `necessitatlon0.)`.
+- **necrolatry** — PDF p. 293, printed p. 292; Persian OCR confidence 21.9; head confidence 90.8; embedded `necrolatry`.
+- **necrological** — PDF p. 293, printed p. 292; Persian OCR confidence 53.7; head confidence 90.7; embedded `necrologlcal`.
+- **necromancy** — PDF p. 293, printed p. 292; Persian OCR confidence 79.5; head confidence 39.1; embedded `necromancy`.
+- **necrophagy** — PDF p. 293, printed p. 292; Persian OCR confidence 45.3; head confidence 92.4; embedded `necrophagy`.
+- **necrophile** — PDF p. 293, printed p. 292; Persian OCR confidence 65.7; head confidence 35.8; embedded `necrophile`.
+- **necrophilia** — PDF p. 293, printed p. 292; Persian OCR confidence 65.1; head confidence 16.3; embedded `necrophilia`.
+- **necrophiliac necrophile** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 68.8; embedded `necrophiliac necrophile`.
+- **necrophilic** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 76.8; embedded `necrophilic = necrophile`.
+- **necrophilism necrophilia** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 87.9; embedded `necrophlllsm necrophilia`.
+- **necropolis** — PDF p. 293, printed p. 292; Persian OCR confidence 53.4; head confidence 88.8; embedded `necropolis`.
+- **necroscopy** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 93.9; embedded `necroscopy = ne.cropsy`.
+- **need for affiliation** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 90.2; embedded `need for afflllation`.
+- **need for punishment** — PDF p. 293, printed p. 292; Persian OCR confidence 38.2; head confidence 95.6; embedded `need for punishment`.
+- **need gratification** — PDF p. 293, printed p. 292; Persian OCR confidence 49.9; head confidence 91.6; embedded `need gratification`.
+- **need hierarchy** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 90.7; embedded `need hierarchy`.
+- **needy** — PDF p. 293, printed p. 292; Persian OCR confidence 0.0; head confidence 91.5; embedded `needy`.
+- **negativity** — PDF p. 294, printed p. 293; Persian OCR confidence 8.8; head confidence 96.8; embedded `negativity`.
+- **negotiant** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 92.8; embedded `negotiant`.
+- **negotiation** — PDF p. 294, printed p. 293; Persian OCR confidence 41.6; head confidence 96.5; embedded `negotiation`.
+- **negotiator** — PDF p. 294, printed p. 293; Persian OCR confidence 8.6; head confidence 96.7; embedded `negotiator`.
+- **negotiatory** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 92.0; embedded `negotlatory`.
+- **neoclassicism** — PDF p. 294, printed p. 293; Persian OCR confidence 18.7; head confidence 71.6; embedded `neoclassic Ism`.
+- **neocolonlalism** — PDF p. 294, printed p. 293; Persian OCR confidence 69.0; head confidence 29.7; embedded `neocolonlalism`.
+- **Neo-Darwinism** — PDF p. 294, printed p. 293; Persian OCR confidence 40.2; head confidence 50.6; embedded `Neo-Darwlnlsm`.
+- **Neo-Darwinist** — PDF p. 294, printed p. 293; Persian OCR confidence 47.1; head confidence 82.0; embedded `Neo-Darwlnlst`.
+- **Neo-Hegelianism** — PDF p. 294, printed p. 293; Persian OCR confidence 39.2; head confidence 88.6; embedded `Neo-Hegellanlsm`.
+- **neo-impressionism** — PDF p. 294, printed p. 293; Persian OCR confidence 46.5; head confidence 53.6; embedded `neo-lmpresslonism`.
+- **Neo-Kantlan** — PDF p. 294, printed p. 293; Persian OCR confidence 74.1; head confidence 32.1; embedded `Neo-Kantlan`.
+- **Neo-Kantianism** — PDF p. 294, printed p. 293; Persian OCR confidence 34.5; head confidence 43.8; embedded `Neo-Kantianism`.
+- **Neo-Lamarckism** — PDF p. 294, printed p. 293; Persian OCR confidence 28.2; head confidence 53.8; embedded `Neo-Lamarckism`.
+- **neolocal** — PDF p. 294, printed p. 293; Persian OCR confidence 15.3; head confidence 61.5; embedded `neolocal`.
+- **neology** — PDF p. 294, printed p. 293; Persian OCR confidence 64.8; head confidence 6.9; embedded `neology`.
+- **Neo-Marxism** — PDF p. 294, printed p. 293; Persian OCR confidence 54.1; head confidence 71.5; embedded `Neo-Marxlsm`.
+- **Neo-Marxist** — PDF p. 294, printed p. 293; Persian OCR confidence 37.9; head confidence 82.9; embedded `Neo-Marxlst`.
+- **neo-orthodox** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 51.3; embedded `neo-orthodox`.
+- **neo-orthodoxy** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 61.9; embedded `nee-orthodoxy`.
+- **neophilla** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 73.9; embedded `neophilla = neophllism`.
+- **neophobla** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 90.9; embedded `neophobla = neophoblsm`.
+- **neophobism** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 90.3; embedded `neophoblsm`.
+- **neophyte** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 89.6; embedded `neophyte`.
+- **Neoplatonic** — PDF p. 294, printed p. 293; Persian OCR confidence 0.0; head confidence 46.1; embedded `Neoplatonic`.
+- **neo-positivist** — PDF p. 295, printed p. 294; Persian OCR confidence 34.3; head confidence 92.1; embedded `neo-positivist`.
+- **Neo-Scholastic** — PDF p. 295, printed p. 294; Persian OCR confidence 26.2; head confidence 77.0; embedded `Neo-Scholastic`.
+- **neoteric** — PDF p. 295, printed p. 294; Persian OCR confidence 32.8; head confidence 92.2; embedded `neoterlc`.
+- **nepotism** — PDF p. 295, printed p. 294; Persian OCR confidence 18.7; head confidence 96.6; embedded `nepotism`.
+- **nervous breakdown** — PDF p. 295, printed p. 294; Persian OCR confidence 37.5; head confidence 81.3; embedded `nervous breakdown`.
+- **netherworld** — PDF p. 295, printed p. 294; Persian OCR confidence 53.6; head confidence 0.0; embedded `netherworld`.
+- **networking** — PDF p. 295, printed p. 294; Persian OCR confidence 42.6; head confidence 95.9; embedded `networking`.
+- **Neuter** — PDF p. 295, printed p. 294; Persian OCR confidence 33.6; head confidence 76.5; embedded `neuter`.
+- **neutral** — PDF p. 295, printed p. 294; Persian OCR confidence 66.7; head confidence 17.2; embedded `neutral`.
+- **neutral monism** — PDF p. 295, printed p. 294; Persian OCR confidence 40.6; head confidence 90.0; embedded `neutral monism`.
+- **News bulletin** — PDF p. 295, printed p. 294; Persian OCR confidence 43.8; head confidence 64.0; embedded `news bulletin`.
+- **newscast** — PDF p. 295, printed p. 294; Persian OCR confidence 5.8; head confidence 86.6; embedded `newscast`.
+- **newscaster** — PDF p. 295, printed p. 294; Persian OCR confidence 75.5; head confidence 12.1; embedded `newscaster`.
+- **news conference** — PDF p. 295, printed p. 294; Persian OCR confidence 90.2; head confidence 39.0; embedded `news conference`.
+- **newsgathering** — PDF p. 295, printed p. 294; Persian OCR confidence 92.1; head confidence 6.0; embedded `newsgathering`.
+- **newspaper** — PDF p. 295, printed p. 294; Persian OCR confidence 92.4; head confidence 22.1; embedded `newspaper`.
+- **newsperson** — PDF p. 295, printed p. 294; Persian OCR confidence 45.8; head confidence 65.0; embedded `news person`.
+- **newsreel** — PDF p. 295, printed p. 294; Persian OCR confidence 91.0; head confidence 28.4; embedded `newsreel`.
+- **newswoman** — PDF p. 295, printed p. 294; Persian OCR confidence 92.7; head confidence 15.2; embedded `newswoman`.
+- **next of kin** — PDF p. 296, printed p. 295; Persian OCR confidence 51.9; head confidence 96.8; embedded `next of kin`.
+- **nickname** — PDF p. 296, printed p. 295; Persian OCR confidence 70.5; head confidence 38.3; embedded `nickname`.
+- **niece** — PDF p. 296, printed p. 295; Persian OCR confidence 49.9; head confidence 96.4; embedded `niece`.
+- **nightmare** — PDF p. 296, printed p. 295; Persian OCR confidence 9.6; head confidence 96.4; embedded `nightmare`.
+- **nightwork** — PDF p. 296, printed p. 295; Persian OCR confidence 44.1; head confidence 92.8; embedded `nightwork`.
+- **nihilist** — PDF p. 296, printed p. 295; Persian OCR confidence 47.5; head confidence 85.7; embedded `nihilist`.
+- **Nipponese** — PDF p. 296, printed p. 295; Persian OCR confidence 21.0; head confidence 91.9; embedded `Nipponese`.
+- **nobiliary** — PDF p. 296, printed p. 295; Persian OCR confidence 51.6; head confidence 90.4; embedded `nobiliary`.
+- **nobleman** — PDF p. 296, printed p. 295; Persian OCR confidence 38.1; head confidence 96.5; embedded `nobleman`.
+- **noctambulatlon** — PDF p. 296, printed p. 295; Persian OCR confidence 0.0; head confidence 92.0; embedded `noctambulatlon = noctambulism`.
+- **noctambulism** — PDF p. 296, printed p. 295; Persian OCR confidence 91.4; head confidence 20.2; embedded `noctambulism`.
+- **noetic** — PDF p. 296, printed p. 295; Persian OCR confidence 80.3; head confidence 39.7; embedded `noetic`.
+- **nomadic** — PDF p. 296, printed p. 295; Persian OCR confidence 79.3; head confidence 42.6; embedded `nomadic`.
+- **nomadism ~.r** — PDF p. 296, printed p. 295; Persian OCR confidence 64.9; head confidence 17.4; embedded `nomadism ~.r`.
+- **nomenclatorial** — PDF p. 296, printed p. 295; Persian OCR confidence 79.0; head confidence 43.7; embedded `nomenclatorial`.
+- **nomenclature .r** — PDF p. 296, printed p. 295; Persian OCR confidence 80.0; head confidence 23.2; embedded `nomenclature .r`.
+- **nominal** — PDF p. 296, printed p. 295; Persian OCR confidence 79.2; head confidence 69.0; embedded `nominal account`.
+- **nominal suffix** — PDF p. 297, printed p. 296; Persian OCR confidence 50.7; head confidence 96.0; embedded `nominal suffix`.
+- **nominative** — PDF p. 297, printed p. 296; Persian OCR confidence 53.0; head confidence 96.0; embedded `nominative`.
+- **nominator** — PDF p. 297, printed p. 296; Persian OCR confidence 53.4; head confidence 96.8; embedded `nominator`.
+- **nominee** — PDF p. 297, printed p. 296; Persian OCR confidence 40.5; head confidence 96.4; embedded `nominee`.
+- **nomothetic laws** — PDF p. 297, printed p. 296; Persian OCR confidence 34.2; head confidence 92.1; embedded `nomothetlc laws`.
+- **non-acceptance** — PDF p. 297, printed p. 296; Persian OCR confidence 57.9; head confidence 0.0; embedded `non-acceptance`.
+- **nonaction** — PDF p. 297, printed p. 296; Persian OCR confidence 4.8; head confidence 89.6; embedded `non action`.
+- **nonage** — PDF p. 297, printed p. 296; Persian OCR confidence 43.5; head confidence 92.2; embedded `nonage`.
+- **non-aligned countries** — PDF p. 297, printed p. 296; Persian OCR confidence 0.0; head confidence 62.5; embedded `non-aligned countries`.
+- **non-alignment** — PDF p. 297, printed p. 296; Persian OCR confidence 0.0; head confidence 84.3; embedded `non-alignment`.
+- **non-being** — PDF p. 297, printed p. 296; Persian OCR confidence 17.5; head confidence 47.0; embedded `non-being`.
+- **non-believer** — PDF p. 297, printed p. 296; Persian OCR confidence 0.0; head confidence 63.1; embedded `non-believer`.
+- **non-biological** — PDF p. 297, printed p. 296; Persian OCR confidence 0.0; head confidence 45.4; embedded `non-biological`.
+- **non-broken service** — PDF p. 297, printed p. 296; Persian OCR confidence 0.0; head confidence 64.5; embedded `non-broken service`.
+- **non-celibate** — PDF p. 297, printed p. 296; Persian OCR confidence 79.3; head confidence 44.7; embedded `non-celibate`.
+- **non-cognitlvism** — PDF p. 297, printed p. 296; Persian OCR confidence 86.9; head confidence 42.0; embedded `non-cognitlvism`.
+- **nonconformity** — PDF p. 297, printed p. 296; Persian OCR confidence 81.4; head confidence 40.1; embedded `nonconformity`.
+- **nonconscious** — PDF p. 297, printed p. 296; Persian OCR confidence 66.7; head confidence 19.1; embedded `nonconscious`.
+- **non-contiguous** — PDF p. 297, printed p. 296; Persian OCR confidence 0.0; head confidence 76.7; embedded `non-contiguous`.
+- **non-contradiction** — PDF p. 297, printed p. 296; Persian OCR confidence 53.7; head confidence 59.0; embedded `non-contradiction`.
+- **non-conventional** — PDF p. 297, printed p. 296; Persian OCR confidence 51.9; head confidence 68.3; embedded `non-conventional`.
+- **noncooperatlonlst** — PDF p. 297, printed p. 296; Persian OCR confidence 88.5; head confidence 42.6; embedded `noncooperatlonlst`.
+- **noncooperator** — PDF p. 297, printed p. 296; Persian OCR confidence 84.3; head confidence 13.6; embedded `noncooperator`.
+- **noncountable noun** — PDF p. 297, printed p. 296; Persian OCR confidence 56.2; head confidence 44.2; embedded `noncountable noun`.
+- **nondescript** — PDF p. 297, printed p. 296; Persian OCR confidence 37.4; head confidence 68.6; embedded `nondescript`.
+- **non-differentiation** — PDF p. 297, printed p. 296; Persian OCR confidence 23.2; head confidence 86.1; embedded `non-differentiation`.
+- **non-ego** — PDF p. 298, printed p. 297; Persian OCR confidence 50.4; head confidence 90.6; embedded `non-ego`.
+- **non-emotional** — PDF p. 298, printed p. 297; Persian OCR confidence 0.0; head confidence 92.6; embedded `non-emotional`.
+- **non-empirical** — PDF p. 298, printed p. 297; Persian OCR confidence 0.0; head confidence 92.7; embedded `non-empirical`.
+- **non-factive** — PDF p. 298, printed p. 297; Persian OCR confidence 48.5; head confidence 73.6; embedded `non-factive`.
+- **nonfiction** — PDF p. 298, printed p. 297; Persian OCR confidence 22.1; head confidence 96.6; embedded `nonfiction`.
+- **nonfictional** — PDF p. 298, printed p. 297; Persian OCR confidence 29.9; head confidence 91.2; embedded `nonfictional`.
+- **nongovernmental organization NGO** — PDF p. 298, printed p. 297; Persian OCR confidence 0.0; head confidence 93.2; embedded `nongovernmental organization NGO`.
+- **nonjuror** — PDF p. 298, printed p. 297; Persian OCR confidence 42.5; head confidence 90.6; embedded `nonjuror`.
+- **nonliabllity** — PDF p. 298, printed p. 297; Persian OCR confidence 64.2; head confidence 44.8; embedded `nonliabllity`.
+- **nonmilitary** — PDF p. 298, printed p. 297; Persian OCR confidence 19.2; head confidence 79.9; embedded `nonmilitary`.
+- **nonmoral** — PDF p. 298, printed p. 297; Persian OCR confidence 49.0; head confidence 91.4; embedded `nonmoral`.
+- **non-natural** — PDF p. 298, printed p. 297; Persian OCR confidence 47.7; head confidence 32.3; embedded `non-natural`.
+- **non-objective** — PDF p. 298, printed p. 297; Persian OCR confidence 79.5; head confidence 35.7; embedded `non-objective`.
+- **nonpartisanship** — PDF p. 298, printed p. 297; Persian OCR confidence 72.6; head confidence 20.8; embedded `nonpartisanship`.
+- **nonparty** — PDF p. 298, printed p. 297; Persian OCR confidence 0.0; head confidence 64.0; embedded `nonparty`.
+- **nonpolitical** — PDF p. 298, printed p. 297; Persian OCR confidence 32.9; head confidence 18.0; embedded `nonpolitical`.
+- **nonpredicative** — PDF p. 298, printed p. 297; Persian OCR confidence 47.6; head confidence 39.2; embedded `nonpredicative`.
+- **nonproducing** — PDF p. 298, printed p. 297; Persian OCR confidence 54.1; head confidence 54.5; embedded `nonproducing`.
+- **nonprofessional** — PDF p. 298, printed p. 297; Persian OCR confidence 70.3; head confidence 19.4; embedded `nonprofessional`.
+- **nonprofit** — PDF p. 298, printed p. 297; Persian OCR confidence 52.5; head confidence 96.7; embedded `nonprofit`.
+- **non-proliferation** — PDF p. 298, printed p. 297; Persian OCR confidence 77.7; head confidence 35.3; embedded `non-proliferation`.
+- **nonpropositional** — PDF p. 298, printed p. 297; Persian OCR confidence 91.4; head confidence 44.2; embedded `nonpropositional`.
+- **nonracial** — PDF p. 298, printed p. 297; Persian OCR confidence 73.2; head confidence 37.0; embedded `nonracial`.
+- **nonrandom** — PDF p. 298, printed p. 297; Persian OCR confidence 44.4; head confidence 91.6; embedded `nonrandom`.
+- **nonreligiousity** — PDF p. 298, printed p. 297; Persian OCR confidence 89.5; head confidence 37.0; embedded `nonreligiousity`.
+- **nonreligious** — PDF p. 298, printed p. 297; Persian OCR confidence 28.1; head confidence 79.5; embedded `nonreligious`.
+- **nonrepresentational nonobjective** — PDF p. 298, printed p. 297; Persian OCR confidence 0.0; head confidence 76.3; embedded `nonrepresentational nonobjective`.
+- **nonresidency** — PDF p. 298, printed p. 297; Persian OCR confidence 0.0; head confidence 72.3; embedded `nonresidency = nonresidence`.
+- **non-restrictive** — PDF p. 299, printed p. 298; Persian OCR confidence 0.0; head confidence 93.1; embedded `non-restrictive`.
+- **nonscientific** — PDF p. 299, printed p. 298; Persian OCR confidence 0.0; head confidence 92.8; embedded `nonscientific`.
+- **nonsectarian** — PDF p. 299, printed p. 298; Persian OCR confidence 0.0; head confidence 92.7; embedded `nonsectarian`.
+- **nonsectarianism** — PDF p. 299, printed p. 298; Persian OCR confidence 46.9; head confidence 91.3; embedded `nonsectarianism`.
+- **non-self** — PDF p. 299, printed p. 298; Persian OCR confidence 14.6; head confidence 92.2; embedded `non-self`.
+- **nonsense verse** — PDF p. 299, printed p. 298; Persian OCR confidence 20.9; head confidence 96.8; embedded `nonsense verse`.
+- **nonsensical** — PDF p. 299, printed p. 298; Persian OCR confidence 49.7; head confidence 87.7; embedded `nonsenslcal`.
+- **nonsensicalness** — PDF p. 299, printed p. 298; Persian OCR confidence 47.0; head confidence 91.7; embedded `nonsensicalness`.
+- **nonsensory** — PDF p. 299, printed p. 298; Persian OCR confidence 43.1; head confidence 90.4; embedded `non sensory`.
+- **nonsensuous** — PDF p. 299, printed p. 298; Persian OCR confidence 47.8; head confidence 92.3; embedded `nonsensuous`.
+- **non-sexual** — PDF p. 299, printed p. 298; Persian OCR confidence 23.9; head confidence 96.7; embedded `non-sexual`.
+- **nonsocial** — PDF p. 299, printed p. 298; Persian OCR confidence 44.9; head confidence 92.6; embedded `nonsoclal`.
+- **nonsymmetrical** — PDF p. 299, printed p. 298; Persian OCR confidence 29.7; head confidence 91.4; embedded `nonsymmetrical`.
+- **nontradable** — PDF p. 299, printed p. 298; Persian OCR confidence 33.5; head confidence 91.5; embedded `nontradable`.
+- **nontransitive** — PDF p. 299, printed p. 298; Persian OCR confidence 51.8; head confidence 91.8; embedded `nontransitlve`.
+- **nonviolent action** — PDF p. 299, printed p. 298; Persian OCR confidence 44.6; head confidence 96.5; embedded `nonviolent action`.
+- **non-voluntary** — PDF p. 299, printed p. 298; Persian OCR confidence 19.1; head confidence 92.4; embedded `non-voluntary`.
+- **non-white** — PDF p. 299, printed p. 298; Persian OCR confidence 45.0; head confidence 78.0; embedded `non-white`.
+- **noodynamlc** — PDF p. 299, printed p. 298; Persian OCR confidence 66.4; head confidence 36.9; embedded `noodynamlc`.
+- **noological** — PDF p. 299, printed p. 298; Persian OCR confidence 32.6; head confidence 65.2; embedded `noological`.
+- **normal** — PDF p. 299, printed p. 298; Persian OCR confidence 60.0; head confidence 16.8; embedded `normal`.
+- **normativeness** — PDF p. 299, printed p. 298; Persian OCR confidence 72.1; head confidence 35.5; embedded `normativeness`.
+- **normativism** — PDF p. 299, printed p. 298; Persian OCR confidence 53.8; head confidence 59.6; embedded `normatlvism`.
+- **normatlvlst** — PDF p. 299, printed p. 298; Persian OCR confidence 89.8; head confidence 15.6; embedded `normatlvlst`.
+- **normatlvity** — PDF p. 299, printed p. 298; Persian OCR confidence 53.5; head confidence 40.0; embedded `normatlvity`.
+- **Northern Hemisphere** — PDF p. 300, printed p. 299; Persian OCR confidence 46.3; head confidence 77.0; embedded `Northern Hemisphere`.
+- **Northman** — PDF p. 300, printed p. 299; Persian OCR confidence 0.0; head confidence 94.1; embedded `Northman = Norseman`.
+- **Norwegian** — PDF p. 300, printed p. 299; Persian OCR confidence 33.3; head confidence 96.3; embedded `Norwegian`.
+- **nostalgic** — PDF p. 300, printed p. 299; Persian OCR confidence 23.9; head confidence 94.1; embedded `nostalgic`.
+- **notitia illata (L.)** — PDF p. 300, printed p. 299; Persian OCR confidence 0.0; head confidence 91.1; embedded `notitia illata (L.)`.
+- **notitia innata (L.)** — PDF p. 300, printed p. 299; Persian OCR confidence 0.0; head confidence 90.5; embedded `notitia innata (L.)`.
+- **notitia intuitiva (L.)** — PDF p. 300, printed p. 299; Persian OCR confidence 0.0; head confidence 91.8; embedded `notitia intuitiva`.
+- **not-self** — PDF p. 300, printed p. 299; Persian OCR confidence 50.4; head confidence 62.1; embedded `not-self`.
+- **noumena ~** — PDF p. 300, printed p. 299; Persian OCR confidence 69.0; head confidence 29.9; embedded `noumena ~`.
+- **noumenalism** — PDF p. 300, printed p. 299; Persian OCR confidence 0.0; head confidence 82.6; embedded `noumenalism`.
+- **noumenal reality** — PDF p. 300, printed p. 299; Persian OCR confidence 0.0; head confidence 94.6; embedded `noumenal reality`.
+- **noumenal worid** — PDF p. 300, printed p. 299; Persian OCR confidence 0.0; head confidence 91.7; embedded `noumenal world`.
+- **noumenon** — PDF p. 300, printed p. 299; Persian OCR confidence 72.4; head confidence 19.1; embedded `noumenon`.
+- **nourishment .r** — PDF p. 300, printed p. 299; Persian OCR confidence 66.3; head confidence 19.9; embedded `nourishment .r`.
+- **novelist** — PDF p. 300, printed p. 299; Persian OCR confidence 0.3; head confidence 96.8; embedded `novelist`.
+- **novelistic** — PDF p. 300, printed p. 299; Persian OCR confidence 83.7; head confidence 35.1; embedded `novelistic`.
+- **noviciate** — PDF p. 300, printed p. 299; Persian OCR confidence 0.0; head confidence 83.2; embedded `noviciate = novitiate`.
+- **Nuba** — PDF p. 300, printed p. 299; Persian OCR confidence 85.4; head confidence 23.0; embedded `Nuba`.
+- **nuclear free** — PDF p. 301, printed p. 300; Persian OCR confidence 26.8; head confidence 96.8; embedded `nuclear free`.
+- **nuclear tone** — PDF p. 301, printed p. 300; Persian OCR confidence 0.0; head confidence 96.4; embedded `nuclear tone`.
+- **nudeness** — PDF p. 301, printed p. 300; Persian OCR confidence 13.3; head confidence 89.2; embedded `nudeness`.
+- **nuisance** — PDF p. 301, printed p. 300; Persian OCR confidence 50.0; head confidence 96.1; embedded `nuisance`.
+- **nullifidian** — PDF p. 301, printed p. 300; Persian OCR confidence 0.0; head confidence 87.0; embedded `nullifidian`.
+- **numen (L.) S49** — PDF p. 301, printed p. 300; Persian OCR confidence 74.8; head confidence 71.0; embedded `numen (L.) ~`.
+- **numismatic(-al)** — PDF p. 301, printed p. 300; Persian OCR confidence 45.0; head confidence 91.1; embedded `numlsmatlc(-al)`.
+- **numismatology** — PDF p. 301, printed p. 300; Persian OCR confidence 11.3; head confidence 60.1; embedded `numismatology = numismatics`.
+- **nuncupative** — PDF p. 301, printed p. 300; Persian OCR confidence 65.2; head confidence 36.7; embedded `nuncupative`.
+- **nuptial** — PDF p. 301, printed p. 300; Persian OCR confidence 49.2; head confidence 73.2; embedded `nuptial`.
+- **nutraceutical** — PDF p. 301, printed p. 300; Persian OCR confidence 28.1; head confidence 61.0; embedded `nutraceutlcal`.
+- **nutrltlonal** — PDF p. 301, printed p. 300; Persian OCR confidence 90.8; head confidence 24.9; embedded `nutrltlonal`.
+- **nutritiousness** — PDF p. 301, printed p. 300; Persian OCR confidence 78.7; head confidence 30.6; embedded `nutritiousness`.
+- **nyctophobla** — PDF p. 301, printed p. 300; Persian OCR confidence 90.6; head confidence 30.3; embedded `nyctophobla`.

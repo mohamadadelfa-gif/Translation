@@ -1,0 +1,72 @@
+# Z Entries Requiring Visual Review
+
+- **zanana** — PDF p. 504; Persian OCR confidence 0; head match 0.467; head OCR confidence 92.4
+- **zazen** — PDF p. 504; Persian OCR confidence 61.4; head match 0.545; head OCR confidence 92.4
+- **zeal** — PDF p. 504; Persian OCR confidence 61.2; head match 0.28; head OCR confidence 39.4
+- **zealot** — PDF p. 504; Persian OCR confidence 52.4; head match 1.0; head OCR confidence 96.8
+- **zealotry** — PDF p. 504; Persian OCR confidence 44.5; head match 0.889; head OCR confidence 48.1
+- **zealous** — PDF p. 504; Persian OCR confidence 62.9; head match 0.588; head OCR confidence 48.1
+- **zealousness y.:i;. J~** — PDF p. 504; Persian OCR confidence 0; head match 0.611; head OCR confidence 40.2
+- **zeitgeist (G.) ales¢3,** — PDF p. 504; Persian OCR confidence 79.5; head match 0.8; head OCR confidence 61.5
+- **Zen** — PDF p. 504; Persian OCR confidence 54.5; head match 0.3; head OCR confidence 32.2
+- **Zen Buddhist** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **Zend** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **Zend-Avesta** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.4
+- **Zend-Avestaic** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.8
+- **zero grade** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **zero growth** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **zero hour** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **zero morph** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **zero population growth** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 94.7
+- **zero time** — PDF p. 504; Persian OCR confidence 49.8; head match 0.727; head OCR confidence 74.0
+- **zest** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 97.0
+- **zestful** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 0.0
+- **zestfulness** — PDF p. 504; Persian OCR confidence 42.1; head match 0.759; head OCR confidence 22.6
+- **zigzag** — PDF p. 504; Persian OCR confidence 50.0; head match 0.625; head OCR confidence 5.1
+- **zigzag progress** — PDF p. 504; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.0
+- **Zion** — PDF p. 504; Persian OCR confidence 58.1; head match 0.8; head OCR confidence 38.3
+- **Zionism** — PDF p. 504; Persian OCR confidence 90.4; head match 0.392; head OCR confidence 36.4
+- **Zionist** — PDF p. 504; Persian OCR confidence 29.8; head match 0.49; head OCR confidence 17.7
+- **Zionlstic** — PDF p. 504; Persian OCR confidence 90.7; head match 0.696; head OCR confidence 46.3
+- **zoanthropy** — PDF p. 504; Persian OCR confidence 82.7; head match 0.412; head OCR confidence 20.2
+- **zonal** — PDF p. 504; Persian OCR confidence 54.0; head match 0.389; head OCR confidence 33.5
+- **zonary lao** — PDF p. 504; Persian OCR confidence 88.9; head match 0.8; head OCR confidence 55.8
+- **zone** — PDF p. 504; Persian OCR confidence 72.1; head match 0.323; head OCR confidence 55.8
+- **zone of deterioration** — PDF p. 504; Persian OCR confidence 0; head match 0.95; head OCR confidence 85.7
+- **zone rate** — PDF p. 504; Persian OCR confidence 91.9; head match 0.467; head OCR confidence 63.7
+- **zonetlme** — PDF p. 504; Persian OCR confidence 67.8; head match 0.408; head OCR confidence 63.7
+- **zoning** — PDF p. 504; Persian OCR confidence 62.4; head match 0.304; head OCR confidence 41.0
+- **zoo** — PDF p. 504; Persian OCR confidence 81.0; head match 0.311; head OCR confidence 43.3
+- **zoochore LSI** — PDF p. 504; Persian OCR confidence 60.0; head match 0.842; head OCR confidence 56.2
+- **zoogeographer** — PDF p. 504; Persian OCR confidence 44.9; head match 0.765; head OCR confidence 44.3
+- **zoogeographic(-al)** — PDF p. 504; Persian OCR confidence 49.9; head match 1.0; head OCR confidence 88.7
+- **zoogeographic region** — PDF p. 505; Persian OCR confidence 0; head match 0.826; head OCR confidence 94.2
+- **zoogeography** — PDF p. 505; Persian OCR confidence 38.9; head match 0.71; head OCR confidence 94.2
+- **zoolater** — PDF p. 505; Persian OCR confidence 15.1; head match 0.467; head OCR confidence 41.9
+- **zoolatrous** — PDF p. 505; Persian OCR confidence 21.6; head match 0.769; head OCR confidence 49.6
+- **zoologic(-al)** — PDF p. 505; Persian OCR confidence 62.5; head match 0.556; head OCR confidence 92.0
+- **zoological garden** — PDF p. 505; Persian OCR confidence 61.4; head match 0.914; head OCR confidence 48.3
+- **zoologist** — PDF p. 505; Persian OCR confidence 70.3; head match 0.72; head OCR confidence 48.4
+- **zoology** — PDF p. 505; Persian OCR confidence 92.4; head match 0.467; head OCR confidence 48.2
+- **zoomorph** — PDF p. 505; Persian OCR confidence 0; head match 0.714; head OCR confidence 72.4
+- **zoomorphic** — PDF p. 505; Persian OCR confidence 60.5; head match 1.0; head OCR confidence 72.4
+- **zoomorphism J,;4- .r _;.;,sJ,;4-.,** — PDF p. 505; Persian OCR confidence 0; head match 0.759; head OCR confidence 53.6
+- **zoophilia** — PDF p. 505; Persian OCR confidence 88.8; head match 0.571; head OCR confidence 53.6
+- **zoophilic** — PDF p. 505; Persian OCR confidence 89.1; head match 0.467; head OCR confidence 51.6
+- **zoophobia** — PDF p. 505; Persian OCR confidence 91.9; head match 0.72; head OCR confidence 43.4
+- **zoopsychology** — PDF p. 505; Persian OCR confidence 88.0; head match 0.552; head OCR confidence 43.4
+- **zoosemiotics** — PDF p. 505; Persian OCR confidence 88.2; head match 0.431; head OCR confidence 45.6
+- **zootechnician** — PDF p. 505; Persian OCR confidence 45.3; head match 0.897; head OCR confidence 33.1
+- **zootechnlcs** — PDF p. 505; Persian OCR confidence 0; head match 0.645; head OCR confidence 65.8
+- **zootechny** — PDF p. 505; Persian OCR confidence 26.4; head match 1.0; head OCR confidence 92.5
+- **zootheism** — PDF p. 505; Persian OCR confidence 90.6; head match 0.818; head OCR confidence 17.5
+- **zootheist** — PDF p. 505; Persian OCR confidence 88.6; head match 0.72; head OCR confidence 31.0
+- **zootheistic** — PDF p. 505; Persian OCR confidence 66.6; head match 0.741; head OCR confidence 31.0
+- **zootomy** — PDF p. 505; Persian OCR confidence 84.9; head match 0.49; head OCR confidence 46.8
+- **Zoroastrianism** — PDF p. 505; Persian OCR confidence 50.5; head match 0.903; head OCR confidence 45.6
+- **Zoroastrian 1st** — PDF p. 505; Persian OCR confidence 60.7; head match 0.774; head OCR confidence 45.6
+- **Zoroastrian priest** — PDF p. 505; Persian OCR confidence 49.1; head match 0.895; head OCR confidence 47.7
+- **Zulu** — PDF p. 505; Persian OCR confidence 91.3; head match 0.35; head OCR confidence 12.5
+- **Zunian** — PDF p. 505; Persian OCR confidence 75.1; head match 0.333; head OCR confidence 41.4
+- **Zwinglianism** — PDF p. 505; Persian OCR confidence 81.3; head match 0.8; head OCR confidence 45.9
+- **Zwingliism** — PDF p. 505; Persian OCR confidence 0; head match 0.494; head OCR confidence 91.8

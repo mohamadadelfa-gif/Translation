@@ -1,0 +1,47 @@
+# J — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **Jacobin** — PDF p. 237, printed p. 236; Persian OCR confidence 43.2; head confidence 83.7; embedded `Jacobin`.
+- **Jahve; Jahveh** — PDF p. 237, printed p. 236; Persian OCR confidence 40.1; head confidence 91.1; embedded `Jahve; Jahveh`.
+- **Jahweh** — PDF p. 237, printed p. 236; Persian OCR confidence 0.0; head confidence 91.3; embedded `Jahweh = Jahve`.
+- **jail** — PDF p. 237, printed p. 236; Persian OCR confidence 38.1; head confidence 96.8; embedded `jail`.
+- **Japhetic** — PDF p. 237, printed p. 236; Persian OCR confidence 74.2; head confidence 22.3; embedded `Japhetic`.
+- **Java man** — PDF p. 237, printed p. 236; Persian OCR confidence 52.7; head confidence 95.9; embedded `Java man`.
+- **Jehovah** — PDF p. 237, printed p. 236; Persian OCR confidence 35.3; head confidence 89.1; embedded `Jehovah= Jahve`.
+- **Jehovic** — PDF p. 237, printed p. 236; Persian OCR confidence 18.9; head confidence 75.9; embedded `Jehovic`.
+- **Jehovist** — PDF p. 237, printed p. 236; Persian OCR confidence 36.6; head confidence 90.3; embedded `Jehovist`.
+- **Jesuit** — PDF p. 237, printed p. 236; Persian OCR confidence 53.0; head confidence 78.6; embedded `Jesuit`.
+- **Je ltlsm** — PDF p. 237, printed p. 236; Persian OCR confidence 0.0; head confidence 24.0; embedded `Je ltlsm`.
+- **Jesultry** — PDF p. 237, printed p. 236; Persian OCR confidence 0.0; head confidence 66.4; embedded `Jesultry = Jesultism`.
+- **Jewishness** — PDF p. 237, printed p. 236; Persian OCR confidence 54.8; head confidence 77.4; embedded `Jewishness`.
+- **Jihad Jehad** — PDF p. 237, printed p. 236; Persian OCR confidence 0.0; head confidence 78.8; embedded `Jihad Jehad`.
+- **jingoish** — PDF p. 237, printed p. 236; Persian OCR confidence 63.2; head confidence 38.5; embedded `jingoish`.
+- **job** — PDF p. 238, printed p. 237; Persian OCR confidence 51.8; head confidence 97.0; embedded `job`.
+- **job applicant** — PDF p. 238, printed p. 237; Persian OCR confidence 0.0; head confidence 95.1; embedded `job applicant`.
+- **job description** — PDF p. 238, printed p. 237; Persian OCR confidence 0.0; head confidence 93.3; embedded `job description`.
+- **job hazards** — PDF p. 238, printed p. 237; Persian OCR confidence 54.1; head confidence 95.9; embedded `job hazards`.
+- **job orientation** — PDF p. 238, printed p. 237; Persian OCR confidence 51.0; head confidence 96.8; embedded `job orientation`.
+- **job protection** — PDF p. 238, printed p. 237; Persian OCR confidence 48.7; head confidence 95.9; embedded `job protection`.
+- **joint committee** — PDF p. 238, printed p. 237; Persian OCR confidence 49.5; head confidence 96.3; embedded `joint committee`.
+- **joint management** — PDF p. 238, printed p. 237; Persian OCR confidence 28.2; head confidence 96.6; embedded `joint management`.
+- **journalist asiails, Y** — PDF p. 238, printed p. 237; Persian OCR confidence 59.3; head confidence 47.4; embedded `journalist r`.
+- **judaeo-Christian** — PDF p. 238, printed p. 237; Persian OCR confidence 12.1; head confidence 19.4; embedded `judaeo-Christian`.
+- **Judaic(-al)** — PDF p. 238, printed p. 237; Persian OCR confidence 10.4; head confidence 37.1; embedded `Judaic(-al)`.
+- **Judaizatlon** — PDF p. 238, printed p. 237; Persian OCR confidence 63.4; head confidence 43.4; embedded `Judaizatlon`.
+- **Judeo-Christian Judaeo-Christian** — PDF p. 238, printed p. 237; Persian OCR confidence 0.0; head confidence 90.7; embedded `Judeo-Christian Judaeo-Christian`.
+- **judicative** — PDF p. 238, printed p. 237; Persian OCR confidence 92.0; head confidence 42.8; embedded `judicative`.
+- **judicatory** — PDF p. 238, printed p. 237; Persian OCR confidence 80.8; head confidence 36.5; embedded `judicatory`.
+- **juge d’instruction (Fr.)** — PDF p. 239, printed p. 238; Persian OCR confidence 0.0; head confidence 86.6; embedded `juge d'lnstruction (Fr.)`.
+- **junior** — PDF p. 239, printed p. 238; Persian OCR confidence 68.2; head confidence 30.5; embedded `junior`.
+- **junk sculpture** — PDF p. 239, printed p. 238; Persian OCR confidence 54.9; head confidence 96.4; embedded `junk sculpture`.
+- **jural pluralism** — PDF p. 239, printed p. 238; Persian OCR confidence 50.3; head confidence 75.4; embedded `jural pluralism`.
+- **jurat** — PDF p. 239, printed p. 238; Persian OCR confidence 77.8; head confidence 42.2; embedded `jurat`.
+- **juridic(-al)** — PDF p. 239, printed p. 238; Persian OCR confidence 0.0; head confidence 51.1; embedded `jurldlc(-al)`.
+- **juristic** — PDF p. 239, printed p. 238; Persian OCR confidence 69.4; head confidence 20.5; embedded `juristic`.
+- **j us (L.) .Y** — PDF p. 239, printed p. 238; Persian OCR confidence 44.0; head confidence 31.2; embedded `j us (L.) .Y`.
+- **jus naturale (L.)** — PDF p. 239, printed p. 238; Persian OCR confidence 36.2; head confidence 86.8; embedded `jus naturale (L.)`.
+- **just cause** — PDF p. 240, printed p. 239; Persian OCR confidence 53.5; head confidence 96.9; embedded `just cause`.
+- **justiciability** — PDF p. 240, printed p. 239; Persian OCR confidence 23.4; head confidence 88.2; embedded `justiclabillty`.
+- **justificatory justificative** — PDF p. 240, printed p. 239; Persian OCR confidence 0.0; head confidence 66.8; embedded `justificatory justificative`.
+- **juvenocracy** — PDF p. 240, printed p. 239; Persian OCR confidence 42.3; head confidence 92.7; embedded `juvenocracy`.

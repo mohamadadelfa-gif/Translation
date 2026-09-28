@@ -1,0 +1,145 @@
+# G — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **Gallic** — PDF p. 179, printed p. 178; Persian OCR confidence 35.5; head confidence 96.0; embedded `Gallic`.
+- **Gallicanlsm** — PDF p. 179, printed p. 178; Persian OCR confidence 72.2; head confidence 31.7; embedded `Gallicanlsm`.
+- **Gallomania** — PDF p. 179, printed p. 178; Persian OCR confidence 33.2; head confidence 91.8; embedded `Gallomanla`.
+- **gang age** — PDF p. 179, printed p. 178; Persian OCR confidence 45.3; head confidence 91.7; embedded `gang age`.
+- **gayness** — PDF p. 179, printed p. 178; Persian OCR confidence 68.7; head confidence 25.2; embedded `gayness`.
+- **gender apartheid** — PDF p. 179, printed p. 178; Persian OCR confidence 0.0; head confidence 81.1; embedded `gender apartheid`.
+- **gender-based** — PDF p. 179, printed p. 178; Persian OCR confidence 0.0; head confidence 66.1; embedded `gender-based`.
+- **gender behavior** — PDF p. 179, printed p. 178; Persian OCR confidence 0.0; head confidence 93.9; embedded `gender behavior`.
+- **gendered** — PDF p. 180, printed p. 179; Persian OCR confidence 46.4; head confidence 96.2; embedded `gendered`.
+- **genderlect** — PDF p. 180, printed p. 179; Persian OCR confidence 53.9; head confidence 91.0; embedded `genderlect`.
+- **genderless** — PDF p. 180, printed p. 179; Persian OCR confidence 0.0; head confidence 88.2; embedded `genderless`.
+- **gender-neutral** — PDF p. 180, printed p. 179; Persian OCR confidence 0.0; head confidence 96.3; embedded `gender-neutral`.
+- **gender nonconformity** — PDF p. 180, printed p. 179; Persian OCR confidence 51.2; head confidence 92.2; embedded `gender nonconformity`.
+- **gender queer** — PDF p. 180, printed p. 179; Persian OCR confidence 43.5; head confidence 96.8; embedded `gender queer`.
+- **gender-specific** — PDF p. 180, printed p. 179; Persian OCR confidence 28.6; head confidence 53.2; embedded `gender-specific`.
+- **gene** — PDF p. 180, printed p. 179; Persian OCR confidence 32.8; head confidence 96.4; embedded `gene`.
+- **gene expression** — PDF p. 180, printed p. 179; Persian OCR confidence 52.4; head confidence 96.0; embedded `gene expression`.
+- **general auditor** — PDF p. 180, printed p. 179; Persian OCR confidence 41.5; head confidence 94.2; embedded `general auditor`.
+- **general consul** — PDF p. 180, printed p. 179; Persian OCR confidence 0.0; head confidence 95.9; embedded `general consul`.
+- **general consulate** — PDF p. 180, printed p. 179; Persian OCR confidence 26.1; head confidence 87.4; embedded `general consulate`.
+- **general manager** — PDF p. 180, printed p. 179; Persian OCR confidence 42.2; head confidence 90.9; embedded `general manager`.
+- **general policy** — PDF p. 181, printed p. 180; Persian OCR confidence 48.8; head confidence 96.7; embedded `general policy`.
+- **generalshlp .r** — PDF p. 181, printed p. 180; Persian OCR confidence 77.3; head confidence 31.2; embedded `generalshlp .r`.
+- **generic category** — PDF p. 181, printed p. 180; Persian OCR confidence 29.4; head confidence 96.8; embedded `generic category`.
+- **genericity** — PDF p. 181, printed p. 180; Persian OCR confidence 82.8; head confidence 92.9; embedded `generlclty`.
+- **genesis** — PDF p. 181, printed p. 180; Persian OCR confidence 37.8; head confidence 96.2; embedded `genesis`.
+- **genetic approach** — PDF p. 181, printed p. 180; Persian OCR confidence 50.5; head confidence 79.6; embedded `genetic approach`.
+- **genetic connection** — PDF p. 181, printed p. 180; Persian OCR confidence 33.1; head confidence 95.8; embedded `genetic connection`.
+- **genetic deterioration** — PDF p. 181, printed p. 180; Persian OCR confidence 45.1; head confidence 96.5; embedded `genetic deterioration`.
+- **genetic drift** — PDF p. 181, printed p. 180; Persian OCR confidence 0.0; head confidence 70.6; embedded `genetic drift`.
+- **genetic endowment** — PDF p. 181, printed p. 180; Persian OCR confidence 0.0; head confidence 96.7; embedded `genetic endowment`.
+- **genetic engineering** — PDF p. 181, printed p. 180; Persian OCR confidence 0.0; head confidence 91.2; embedded `genetic engineering`.
+- **genetic explanation** — PDF p. 181, printed p. 180; Persian OCR confidence 42.7; head confidence 70.7; embedded `qenetic explanation`.
+- **geneticism** — PDF p. 181, printed p. 180; Persian OCR confidence 43.9; head confidence 32.5; embedded `geneticism`.
+- **genetics** — PDF p. 181, printed p. 180; Persian OCR confidence 51.5; head confidence 54.2; embedded `genetics`.
+- **genitals** — PDF p. 181, printed p. 180; Persian OCR confidence 0.0; head confidence 96.3; embedded `genitals = genltalia`.
+- **genocide** — PDF p. 182, printed p. 181; Persian OCR confidence 50.0; head confidence 96.2; embedded `genocide`.
+- **genotypical** — PDF p. 182, printed p. 181; Persian OCR confidence 52.8; head confidence 89.3; embedded `genotyplcal`.
+- **geochronology** — PDF p. 182, printed p. 181; Persian OCR confidence 0.0; head confidence 96.0; embedded `geochronology`.
+- **geographical determinism** — PDF p. 182, printed p. 181; Persian OCR confidence 39.7; head confidence 95.9; embedded `geographlcal determinism`.
+- **geographical mobility** — PDF p. 182, printed p. 181; Persian OCR confidence 42.8; head confidence 96.4; embedded `geographical mobility`.
+- **geographism** — PDF p. 182, printed p. 181; Persian OCR confidence 0.0; head confidence 91.2; embedded `geographism`.
+- **geography** — PDF p. 182, printed p. 181; Persian OCR confidence 42.1; head confidence 83.9; embedded `geography`.
+- **geomancer** — PDF p. 182, printed p. 181; Persian OCR confidence 41.1; head confidence 42.8; embedded `geomancer`.
+- **geomancy** — PDF p. 182, printed p. 181; Persian OCR confidence 69.9; head confidence 14.3; embedded `geomancy`.
+- **geomantlc** — PDF p. 182, printed p. 181; Persian OCR confidence 85.1; head confidence 13.2; embedded `geomantlc`.
+- **geometric illusion** — PDF p. 182, printed p. 181; Persian OCR confidence 13.2; head confidence 78.6; embedded `geometric illuslon`.
+- **geopolitical** — PDF p. 182, printed p. 181; Persian OCR confidence 40.5; head confidence 55.2; embedded `geopolitical`.
+- **geopolitics** — PDF p. 182, printed p. 181; Persian OCR confidence 42.7; head confidence 76.1; embedded `geopolitics`.
+- **germ** — PDF p. 182, printed p. 181; Persian OCR confidence 24.5; head confidence 81.8; embedded `germ`.
+- **Germanism** — PDF p. 182, printed p. 181; Persian OCR confidence 67.8; head confidence 0.0; embedded `Germanism`.
+- **gestaltist** — PDF p. 183, printed p. 182; Persian OCR confidence 34.5; head confidence 93.1; embedded `gestaltist`.
+- **gestatory** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 94.2; embedded `gestatory = gestational`.
+- **gesture** — PDF p. 183, printed p. 182; Persian OCR confidence 35.1; head confidence 96.9; embedded `gesture`.
+- **geumaphobia** — PDF p. 183, printed p. 182; Persian OCR confidence 42.6; head confidence 92.6; embedded `geumaphobla`.
+- **ghetto** — PDF p. 183, printed p. 182; Persian OCR confidence 42.0; head confidence 96.3; embedded `ghetto`.
+- **ghost cult** — PDF p. 183, printed p. 182; Persian OCR confidence 32.8; head confidence 96.7; embedded `ghost cult`.
+- **ghost dance** — PDF p. 183, printed p. 182; Persian OCR confidence 43.4; head confidence 96.8; embedded `ghost dance`.
+- **ghostliness** — PDF p. 183, printed p. 182; Persian OCR confidence 40.5; head confidence 85.3; embedded `ghostliness`.
+- **ghostword** — PDF p. 183, printed p. 182; Persian OCR confidence 46.8; head confidence 91.6; embedded `ghostword`.
+- **ghoul (Ar.)** — PDF p. 183, printed p. 182; Persian OCR confidence 49.9; head confidence 86.7; embedded `ghoul (Ar.)`.
+- **giaour** — PDF p. 183, printed p. 182; Persian OCR confidence 83.9; head confidence 4.3; embedded `giaour`.
+- **gift-exchange** — PDF p. 183, printed p. 182; Persian OCR confidence 70.0; head confidence 17.7; embedded `gift-exchange`.
+- **gild** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 74.1; embedded `gild= guild`.
+- **Gipsy Gypsy** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 89.3; embedded `Gipsy Gypsy`.
+- **globalist** — PDF p. 183, printed p. 182; Persian OCR confidence 65.8; head confidence 24.0; embedded `globalist`.
+- **globalization** — PDF p. 183, printed p. 182; Persian OCR confidence 51.9; head confidence 81.8; embedded `globalization`.
+- **globalized** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 71.3; embedded `globalized`.
+- **glorification** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 84.4; embedded `glorlfication`.
+- **glorious** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 94.2; embedded `glorlous`.
+- **gloriousness** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 67.8; embedded `glorlousness`.
+- **glory** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 37.1; embedded `glory`.
+- **gloss** — PDF p. 183, printed p. 182; Persian OCR confidence 0.0; head confidence 92.4; embedded `gloss`.
+- **glossographer .r** — PDF p. 184, printed p. 183; Persian OCR confidence 46.5; head confidence 42.7; embedded `glossographer .r`.
+- **glossographia** — PDF p. 184, printed p. 183; Persian OCR confidence 31.2; head confidence 92.5; embedded `glossographia`.
+- **glossolalic** — PDF p. 184, printed p. 183; Persian OCR confidence 34.1; head confidence 87.9; embedded `glossolalic`.
+- **glossoiogical** — PDF p. 184, printed p. 183; Persian OCR confidence 35.5; head confidence 86.2; embedded `glossologlcal`.
+- **glossology** — PDF p. 184, printed p. 183; Persian OCR confidence 0.0; head confidence 90.8; embedded `glossology`.
+- **glut** — PDF p. 184, printed p. 183; Persian OCR confidence 45.6; head confidence 96.6; embedded `glut`.
+- **gnosiological** — PDF p. 184, printed p. 183; Persian OCR confidence 29.2; head confidence 91.7; embedded `gnosiologlcal`.
+- **gnosiology** — PDF p. 184, printed p. 183; Persian OCR confidence 43.8; head confidence 90.2; embedded `gnosiology`.
+- **goal orientation** — PDF p. 184, printed p. 183; Persian OCR confidence 45.1; head confidence 83.3; embedded `goal orientation`.
+- **godliness** — PDF p. 184, printed p. 183; Persian OCR confidence 54.9; head confidence 85.2; embedded `godliness`.
+- **godllng** — PDF p. 184, printed p. 183; Persian OCR confidence 49.4; head confidence 15.3; embedded `godllng`.
+- **god-seeing** — PDF p. 184, printed p. 183; Persian OCR confidence 45.1; head confidence 75.4; embedded `god-seeing`.
+- **God's grace** — PDF p. 184, printed p. 183; Persian OCR confidence 54.3; head confidence 53.9; embedded `God's grace`.
+- **godson** — PDF p. 184, printed p. 183; Persian OCR confidence 88.2; head confidence 27.9; embedded `godson`.
+- **good-neighborhood** — PDF p. 185, printed p. 184; Persian OCR confidence 66.6; head confidence 0.0; embedded `good-neighborhood`.
+- **goodwlll** — PDF p. 185, printed p. 184; Persian OCR confidence 56.9; head confidence 2.1; embedded `goodwlll`.
+- **governance** — PDF p. 185, printed p. 184; Persian OCR confidence 76.4; head confidence 38.2; embedded `governance`.
+- **governmental** — PDF p. 185, printed p. 184; Persian OCR confidence 59.5; head confidence 31.4; embedded `governmental`.
+- **governmentallty** — PDF p. 185, printed p. 184; Persian OCR confidence 88.6; head confidence 2.2; embedded `governmentallty`.
+- **government-in-exile** — PDF p. 185, printed p. 184; Persian OCR confidence 25.4; head confidence 56.9; embedded `government-In-exile`.
+- **government stocks** — PDF p. 185, printed p. 184; Persian OCR confidence 54.5; head confidence 81.3; embedded `government stocks`.
+- **governor-general** — PDF p. 185, printed p. 184; Persian OCR confidence 40.3; head confidence 81.8; embedded `governor-general`.
+- **grace** — PDF p. 185, printed p. 184; Persian OCR confidence 55.5; head confidence 0.0; embedded `grace`.
+- **Gracism Grecism** — PDF p. 185, printed p. 184; Persian OCR confidence 0.0; head confidence 80.3; embedded `Graclsm Grecism`.
+- **gradability** — PDF p. 185, printed p. 184; Persian OCR confidence 92.0; head confidence 49.7; embedded `gradablllty`.
+- **gradatlonal** — PDF p. 185, printed p. 184; Persian OCR confidence 90.0; head confidence 29.0; embedded `gradatlonal`.
+- **graduation** — PDF p. 186, printed p. 185; Persian OCR confidence 64.0; head confidence 37.1; embedded `graduation`.
+- **graffitist** — PDF p. 186, printed p. 185; Persian OCR confidence 64.0; head confidence 89.0; embedded `graffltlst`.
+- **grammaticality** — PDF p. 186, printed p. 185; Persian OCR confidence 46.1; head confidence 92.5; embedded `grammatlcallty`.
+- **grammaticalization** — PDF p. 186, printed p. 185; Persian OCR confidence 49.5; head confidence 91.4; embedded `grammaticallzatlon`.
+- **grammatically conditioned** — PDF p. 186, printed p. 185; Persian OCR confidence 44.5; head confidence 96.3; embedded `grammatically conditioned`.
+- **grammaticalness grammaticality** — PDF p. 186, printed p. 185; Persian OCR confidence 0.0; head confidence 91.4; embedded `grammatlcalness grammatlcality`.
+- **grammatical subject** — PDF p. 186, printed p. 185; Persian OCR confidence 46.5; head confidence 85.9; embedded `grammatical subject`.
+- **grand duchess** — PDF p. 186, printed p. 185; Persian OCR confidence 23.2; head confidence 87.9; embedded `grand duchess`.
+- **grandiose** — PDF p. 186, printed p. 185; Persian OCR confidence 72.3; head confidence 31.0; embedded `grandiose`.
+- **graphetlcs** — PDF p. 186, printed p. 185; Persian OCR confidence 83.8; head confidence 44.7; embedded `graphetlcs`.
+- **graphic individuality** — PDF p. 187, printed p. 186; Persian OCR confidence 52.1; head confidence 96.6; embedded `graphic lndlviduality`.
+- **graphology** — PDF p. 187, printed p. 186; Persian OCR confidence 85.5; head confidence 8.8; embedded `graphology`.
+- **gratification** — PDF p. 187, printed p. 186; Persian OCR confidence 52.6; head confidence 96.3; embedded `gratification`.
+- **great mother** — PDF p. 187, printed p. 186; Persian OCR confidence 34.2; head confidence 96.9; embedded `great mother`.
+- **Greek land** — PDF p. 187, printed p. 186; Persian OCR confidence 0.0; head confidence 93.8; embedded `Greek land`.
+- **green politics** — PDF p. 187, printed p. 186; Persian OCR confidence 20.5; head confidence 95.6; embedded `green politics`.
+- **gregariousness** — PDF p. 187, printed p. 186; Persian OCR confidence 53.0; head confidence 79.6; embedded `gregariousness`.
+- **grimace** — PDF p. 187, printed p. 186; Persian OCR confidence 47.9; head confidence 74.0; embedded `grimace`.
+- **grotesquerie** — PDF p. 188, printed p. 187; Persian OCR confidence 53.0; head confidence 91.0; embedded `grotesquerie`.
+- **groundless** — PDF p. 188, printed p. 187; Persian OCR confidence 67.7; head confidence 27.1; embedded `groundless`.
+- **group** — PDF p. 188, printed p. 187; Persian OCR confidence 42.8; head confidence 96.1; embedded `group`.
+- **group atmosphere** — PDF p. 188, printed p. 187; Persian OCR confidence 53.0; head confidence 96.3; embedded `group atmosphere`.
+- **group-centered** — PDF p. 188, printed p. 187; Persian OCR confidence 47.5; head confidence 92.2; embedded `group-centered`.
+- **group cohesion** — PDF p. 188, printed p. 187; Persian OCR confidence 48.5; head confidence 96.3; embedded `group cohesion`.
+- **group configuration** — PDF p. 188, printed p. 187; Persian OCR confidence 54.3; head confidence 73.0; embedded `group configuration`.
+- **group consensus** — PDF p. 188, printed p. 187; Persian OCR confidence 52.0; head confidence 96.4; embedded `group consensus`.
+- **group superego** — PDF p. 188, printed p. 187; Persian OCR confidence 42.8; head confidence 91.0; embedded `group superego`.
+- **group therapy** — PDF p. 188, printed p. 187; Persian OCR confidence 53.5; head confidence 87.3; embedded `group therapy`.
+- **guaranty guarantee** — PDF p. 189, printed p. 188; Persian OCR confidence 0.0; head confidence 96.3; embedded `guaranty guarantee`.
+- **guess** — PDF p. 189, printed p. 188; Persian OCR confidence 54.8; head confidence 96.7; embedded `guess`.
+- **guessing bias** — PDF p. 189, printed p. 188; Persian OCR confidence 0.3; head confidence 96.7; embedded `guessing bias`.
+- **guilt** — PDF p. 189, printed p. 188; Persian OCR confidence 41.5; head confidence 97.0; embedded `guilt`.
+- **guiltiness** — PDF p. 189, printed p. 188; Persian OCR confidence 52.1; head confidence 92.1; embedded `guiltiness`.
+- **gustation** — PDF p. 189, printed p. 188; Persian OCR confidence 75.5; head confidence 43.0; embedded `gustation`.
+- **gustatory gustative** — PDF p. 189, printed p. 188; Persian OCR confidence 0.0; head confidence 92.1; embedded `gustatory gustative`.
+- **gymnasiast** — PDF p. 189, printed p. 188; Persian OCR confidence 70.2; head confidence 35.2; embedded `gymnasiast`.
+- **gymnosophist** — PDF p. 189, printed p. 188; Persian OCR confidence 81.8; head confidence 35.1; embedded `gymnosophist`.
+- **gynandromorphism** — PDF p. 189, printed p. 188; Persian OCR confidence 49.3; head confidence 49.4; embedded `gynandromorphism`.
+- **gynandromorphous** — PDF p. 189, printed p. 188; Persian OCR confidence 49.4; head confidence 84.1; embedded `gynandromorphous`.
+- **gynarchy** — PDF p. 189, printed p. 188; Persian OCR confidence 15.3; head confidence 81.1; embedded `gynarchy`.
+- **gynephobia** — PDF p. 189, printed p. 188; Persian OCR confidence 72.8; head confidence 39.9; embedded `gynephobia`.
+- **gynophobia gynephobia** — PDF p. 189, printed p. 188; Persian OCR confidence 37.9; head confidence 77.8; embedded `gynophobla gynephobia`.

@@ -1,0 +1,522 @@
+# U Entries Requiring Visual Review
+
+- **ubiquitous** — PDF p. 468; Persian OCR confidence 70.8; head match 0.4; head OCR confidence 24.2
+- **ubiquity** — PDF p. 468; Persian OCR confidence 69.8; head match 0.386; head OCR confidence 39.6
+- **UFO** — PDF p. 468; Persian OCR confidence 70.8; head match 0.3; head OCR confidence 31.5
+- **ufologist** — PDF p. 468; Persian OCR confidence 66.4; head match 0.783; head OCR confidence 54.2
+- **Ugrian** — PDF p. 468; Persian OCR confidence 51.8; head match 0.365; head OCR confidence 46.0
+- **Ugric** — PDF p. 468; Persian OCR confidence 66.2; head match 0.269; head OCR confidence 39.0
+- **Uighur** — PDF p. 468; Persian OCR confidence 0; head match 0.494; head OCR confidence 92.0
+- **Uigur** — PDF p. 468; Persian OCR confidence 78.2; head match 0.714; head OCR confidence 44.9
+- **Ukranian** — PDF p. 468; Persian OCR confidence 78.6; head match 0.727; head OCR confidence 39.7
+- **ulema (Ar.) [uL.;W...... ½'t,,... ;.)] ~<?I,~** — PDF p. 468; Persian OCR confidence 0; head match 0.35; head OCR confidence 46.0
+- **ultima (L.)** — PDF p. 468; Persian OCR confidence 71.2; head match 0.338; head OCR confidence 47.3
+- **ultimacy** — PDF p. 468; Persian OCR confidence 78.2; head match 0.415; head OCR confidence 30.7
+- **ultimate** — PDF p. 468; Persian OCR confidence 80.3; head match 0.386; head OCR confidence 31.7
+- **ultimate cause** — PDF p. 468; Persian OCR confidence 59.0; head match 0.571; head OCR confidence 75.2
+- **ultimateness** — PDF p. 468; Persian OCR confidence 83.3; head match 0.442; head OCR confidence 36.3
+- **ultimate principle** — PDF p. 468; Persian OCR confidence 85.1; head match 0.739; head OCR confidence 53.9
+- **ultimatum (L.) gil)** — PDF p. 468; Persian OCR confidence 50.7; head match 0.87; head OCR confidence 80.0
+- **ultra** — PDF p. 468; Persian OCR confidence 44.9; head match 0.28; head OCR confidence 15.9
+- **ultraconservative** — PDF p. 468; Persian OCR confidence 0; head match 0.895; head OCR confidence 66.8
+- **ultra-imperialism** — PDF p. 468; Persian OCR confidence 47.1; head match 0.78; head OCR confidence 25.6
+- **ultra-individualism** — PDF p. 468; Persian OCR confidence 91.9; head match 0.783; head OCR confidence 23.1
+- **ultraism** — PDF p. 468; Persian OCR confidence 85.5; head match 0.487; head OCR confidence 43.1
+- **ultraist** — PDF p. 468; Persian OCR confidence 53.7; head match 0.889; head OCR confidence 93.1
+- **ultramarine** — PDF p. 468; Persian OCR confidence 16.1; head match 0.733; head OCR confidence 21.0
+- **ultramllitant** — PDF p. 468; Persian OCR confidence 21.2; head match 0.686; head OCR confidence 29.7
+- **ultramodern** — PDF p. 468; Persian OCR confidence 60.9; head match 0.815; head OCR confidence 11.3
+- **ultramodern ism** — PDF p. 468; Persian OCR confidence 54.3; head match 1.0; head OCR confidence 0.0
+- **ultramontane** — PDF p. 468; Persian OCR confidence 73.6; head match 0.454; head OCR confidence 23.0
+- **ultramundane** — PDF p. 468; Persian OCR confidence 65.3; head match 0.494; head OCR confidence 30.1
+- **ultranational** — PDF p. 469; Persian OCR confidence 23.4; head match 0.897; head OCR confidence 52.2
+- **ultranationalism L** — PDF p. 469; Persian OCR confidence 0; head match 0.97; head OCR confidence 84.4
+- **ultranationalist** — PDF p. 469; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.0
+- **ultranationalistic** — PDF p. 469; Persian OCR confidence 0; head match 1.0; head OCR confidence 80.0
+- **umbrella organization** — PDF p. 469; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **umbrella term** — PDF p. 469; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **unaccented** — PDF p. 469; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.4
+- **unadjustment** — PDF p. 469; Persian OCR confidence 52.1; head match 0.828; head OCR confidence 46.0
+- **unaggressive** — PDF p. 469; Persian OCR confidence 77.6; head match 0.774; head OCR confidence 61.0
+- **unambivalent** — PDF p. 469; Persian OCR confidence 75.2; head match 0.774; head OCR confidence 50.3
+- **unanimism** — PDF p. 469; Persian OCR confidence 75.2; head match 0.406; head OCR confidence 43.9
+- **unanimity** — PDF p. 469; Persian OCR confidence 82.0; head match 0.45; head OCR confidence 36.9
+- **unanimous** — PDF p. 469; Persian OCR confidence 64.7; head match 0.485; head OCR confidence 61.8
+- **unarticulated** — PDF p. 469; Persian OCR confidence 72.7; head match 0.479; head OCR confidence 30.6
+- **unassimilable** — PDF p. 469; Persian OCR confidence 65.0; head match 0.839; head OCR confidence 45.7
+- **unbalance** — PDF p. 469; Persian OCR confidence 86.1; head match 0.434; head OCR confidence 33.9
+- **unbalanced** — PDF p. 469; Persian OCR confidence 88.2; head match 0.438; head OCR confidence 48.0
+- **unbeqotten** — PDF p. 469; Persian OCR confidence 81.4; head match 0.42; head OCR confidence 31.7
+- **unbelief** — PDF p. 469; Persian OCR confidence 80.0; head match 0.727; head OCR confidence 52.8
+- **unbeliever** — PDF p. 469; Persian OCR confidence 68.8; head match 0.741; head OCR confidence 41.0
+- **unbiased** — PDF p. 469; Persian OCR confidence 79.8; head match 0.487; head OCR confidence 41.6
+- **unbiasedness** — PDF p. 469; Persian OCR confidence 73.5; head match 0.741; head OCR confidence 41.6
+- **unbiassed** — PDF p. 469; Persian OCR confidence 0; head match 0.485; head OCR confidence 92.1
+- **unblessed** — PDF p. 469; Persian OCR confidence 33.2; head match 0.406; head OCR confidence 39.6
+- **unbodied** — PDF p. 469; Persian OCR confidence 52.1; head match 0.842; head OCR confidence 46.1
+- **unbroken** — PDF p. 469; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **uncaused** — PDF p. 469; Persian OCR confidence 32.3; head match 0.448; head OCR confidence 33.3
+- **uncaused cause dey cle** — PDF p. 469; Persian OCR confidence 46.5; head match 0.812; head OCR confidence 63.4
+- **uncertain** — PDF p. 469; Persian OCR confidence 68.6; head match 0.434; head OCR confidence 34.2
+- **unchristian** — PDF p. 469; Persian OCR confidence 55.2; head match 0.88; head OCR confidence 30.9
+- **unchurched** — PDF p. 469; Persian OCR confidence 74.1; head match 0.467; head OCR confidence 42.1
+- **uncivil** — PDF p. 469; Persian OCR confidence 60.1; head match 0.737; head OCR confidence 32.3
+- **uncivilized** — PDF p. 469; Persian OCR confidence 39.9; head match 0.467; head OCR confidence 9.6
+- **unclassified** — PDF p. 469; Persian OCR confidence 85.7; head match 0.467; head OCR confidence 22.9
+- **uncle** — PDF p. 469; Persian OCR confidence 50.5; head match 0.318; head OCR confidence 38.5
+- **Uncle Sam** — PDF p. 469; Persian OCR confidence 62.8; head match 0.415; head OCR confidence 63.6
+- **Uncle Tom** — PDF p. 469; Persian OCR confidence 72.0; head match 0.431; head OCR confidence 56.7
+- **Uncle Tomism** — PDF p. 469; Persian OCR confidence 87.1; head match 0.405; head OCR confidence 48.6
+- **uncommitted** — PDF p. 469; Persian OCR confidence 44.3; head match 0.759; head OCR confidence 25.5
+- **uncommon** — PDF p. 469; Persian OCR confidence 74.7; head match 0.431; head OCR confidence 25.5
+- **uncommonness** — PDF p. 469; Persian OCR confidence 76.4; head match 0.454; head OCR confidence 22.1
+- **uncommunicable** — PDF p. 469; Persian OCR confidence 0; head match 1.0; head OCR confidence 0.0
+- **uncommunicative** — PDF p. 469; Persian OCR confidence 78.2; head match 0.828; head OCR confidence 0.0
+- **uncompromising** — PDF p. 470; Persian OCR confidence 58.6; head match 0.737; head OCR confidence 32.9
+- **unconcealed** — PDF p. 470; Persian OCR confidence 70.4; head match 0.815; head OCR confidence 46.0
+- **unconceptualizability** — PDF p. 470; Persian OCR confidence 64.6; head match 0.872; head OCR confidence 81.0
+- **unconcern** — PDF p. 470; Persian OCR confidence 68.9; head match 0.467; head OCR confidence 36.2
+- **unconcerned** — PDF p. 470; Persian OCR confidence 68.2; head match 0.733; head OCR confidence 34.3
+- **unconditional ._,lb ,.;** — PDF p. 470; Persian OCR confidence 47.5; head match 0.457; head OCR confidence 44.4
+- **unconditioned** — PDF p. 470; Persian OCR confidence 40.4; head match 0.765; head OCR confidence 47.9
+- **unconditioned stimulus** — PDF p. 470; Persian OCR confidence 50.3; head match 1.0; head OCR confidence 96.4
+- **unconditioning** — PDF p. 470; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.1
+- **unconformable** — PDF p. 470; Persian OCR confidence 80.6; head match 0.812; head OCR confidence 45.5
+- **unconformity** — PDF p. 470; Persian OCR confidence 91.1; head match 0.828; head OCR confidence 48.1
+- **uncongenial ju.)** — PDF p. 470; Persian OCR confidence 51.2; head match 0.917; head OCR confidence 62.3
+- **uncongeniality** — PDF p. 470; Persian OCR confidence 54.2; head match 0.49; head OCR confidence 33.3
+- **unconnected** — PDF p. 470; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **unconnectedness es Sins)** — PDF p. 470; Persian OCR confidence 49.7; head match 0.833; head OCR confidence 57.1
+- **unconquerable** — PDF p. 470; Persian OCR confidence 60.6; head match 1.0; head OCR confidence 78.0
+- **unconscionable** — PDF p. 470; Persian OCR confidence 83.4; head match 0.737; head OCR confidence 48.2
+- **unconscionablenessJ~L;,1.5-,l.1xcs.-'** — PDF p. 470; Persian OCR confidence 77.4; head match 0.745; head OCR confidence 28.8
+- **unconscious .r** — PDF p. 470; Persian OCR confidence 85.8; head match 0.667; head OCR confidence 40.5
+- **unconscious drive** — PDF p. 470; Persian OCR confidence 71.6; head match 0.78; head OCR confidence 45.0
+- **unconscious mind** — PDF p. 470; Persian OCR confidence 71.8; head match 0.811; head OCR confidence 49.0
+- **unconscious motivation slalsit ol** — PDF p. 470; Persian OCR confidence 69.9; head match 0.824; head OCR confidence 59.0
+- **unconsidered** — PDF p. 470; Persian OCR confidence 84.6; head match 0.75; head OCR confidence 32.9
+- **unconstitutional** — PDF p. 470; Persian OCR confidence 90.8; head match 0.477; head OCR confidence 23.8
+- **unconstitutionality** — PDF p. 470; Persian OCR confidence 92.0; head match 0.809; head OCR confidence 15.3
+- **uncontrolled** — PDF p. 470; Persian OCR confidence 63.2; head match 0.467; head OCR confidence 19.7
+- **unconventional** — PDF p. 470; Persian OCR confidence 41.6; head match 1.0; head OCR confidence 90.8
+- **unconventionality** — PDF p. 470; Persian OCR confidence 37.1; head match 1.0; head OCR confidence 77.0
+- **uncountable noun sl lad eal** — PDF p. 470; Persian OCR confidence 89.5; head match 0.789; head OCR confidence 60.6
+- **uncovenanted** — PDF p. 470; Persian OCR confidence 31.6; head match 0.4; head OCR confidence 2.4
+- **uncreated** — PDF p. 470; Persian OCR confidence 65.9; head match 0.818; head OCR confidence 93.0
+- **uncritical ..s~** — PDF p. 470; Persian OCR confidence 49.9; head match 0.452; head OCR confidence 50.1
+- **uncultivated** — PDF p. 470; Persian OCR confidence 87.2; head match 0.828; head OCR confidence 37.8
+- **uncultured** — PDF p. 470; Persian OCR confidence 53.3; head match 0.714; head OCR confidence 47.7
+- **undecidability** — PDF p. 470; Persian OCR confidence 54.4; head match 0.824; head OCR confidence 23.1
+- **undecidable** — PDF p. 471; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **undecorated** — PDF p. 471; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **undefinable** — PDF p. 471; Persian OCR confidence 53.4; head match 0.545; head OCR confidence 91.7
+- **undemonstrative** — PDF p. 471; Persian OCR confidence 88.3; head match 0.488; head OCR confidence 30.1
+- **underachievement** — PDF p. 471; Persian OCR confidence 76.7; head match 0.828; head OCR confidence 96.5
+- **underacting** — PDF p. 471; Persian OCR confidence 75.8; head match 0.733; head OCR confidence 31.0
+- **underage lopS** — PDF p. 471; Persian OCR confidence 89.5; head match 0.8; head OCR confidence 56.1
+- **underclass** — PDF p. 471; Persian OCR confidence 64.8; head match 0.636; head OCR confidence 56.1
+- **underconsumption** — PDF p. 471; Persian OCR confidence 88.8; head match 0.744; head OCR confidence 40.8
+- **underdetermination ·** — PDF p. 471; Persian OCR confidence 56.3; head match 0.857; head OCR confidence 46.0
+- **underdetermined** — PDF p. 471; Persian OCR confidence 59.5; head match 1.0; head OCR confidence 85.1
+- **underdeveloped** — PDF p. 471; Persian OCR confidence 72.5; head match 0.69; head OCR confidence 85.1
+- **underdeveloped country cilia.)** — PDF p. 471; Persian OCR confidence 0; head match 0.857; head OCR confidence 73.8
+- **underdeveloped economy** — PDF p. 471; Persian OCR confidence 47.4; head match 1.0; head OCR confidence 76.9
+- **underdevelopment** — PDF p. 471; Persian OCR confidence 81.0; head match 0.8; head OCR confidence 48.2
+- **undereducated** — PDF p. 471; Persian OCR confidence 81.4; head match 0.788; head OCR confidence 30.7
+- **underemployed** — PDF p. 471; Persian OCR confidence 79.2; head match 0.743; head OCR confidence 26.5
+- **underestimation** — PDF p. 471; Persian OCR confidence 76.3; head match 0.714; head OCR confidence 36.4
+- **underextension** — PDF p. 471; Persian OCR confidence 0.0; head match 1.0; head OCR confidence 93.1
+- **undergeneralization Ben** — PDF p. 471; Persian OCR confidence 29.3; head match 0.927; head OCR confidence 63.4
+- **underlying structurec.st., r...i '0!.Y-3..:,..>L.,** — PDF p. 471; Persian OCR confidence 0; head match 0.767; head OCR confidence 25.4
+- **undernourished** — PDF p. 471; Persian OCR confidence 77.4; head match 0.824; head OCR confidence 36.2
+- **underpopulated** — PDF p. 471; Persian OCR confidence 84.9; head match 0.757; head OCR confidence 37.3
+- **underpopulation** — PDF p. 471; Persian OCR confidence 78.0; head match 0.769; head OCR confidence 36.8
+- **underproduction** — PDF p. 471; Persian OCR confidence 80.8; head match 0.811; head OCR confidence 45.9
+- **underrating** — PDF p. 471; Persian OCR confidence 86.9; head match 0.71; head OCR confidence 40.1
+- **uNderregistration** — PDF p. 471; Persian OCR confidence 62.7; head match 1.0; head OCR confidence 73.2
+- **underreporting NSS** — PDF p. 471; Persian OCR confidence 44.3; head match 0.903; head OCR confidence 55.2
+- **undersecretary** — PDF p. 471; Persian OCR confidence 72.6; head match 0.516; head OCR confidence 55.2
+- **underselling** — PDF p. 471; Persian OCR confidence 72.9; head match 0.8; head OCR confidence 41.8
+- **undersexed Sapte** — PDF p. 471; Persian OCR confidence 87.7; head match 0.8; head OCR confidence 59.1
+- **understudy** — PDF p. 471; Persian OCR confidence 69.7; head match 0.583; head OCR confidence 71.0
+- **undertaker** — PDF p. 471; Persian OCR confidence 77.4; head match 0.714; head OCR confidence 36.2
+- **undertaking** — PDF p. 471; Persian OCR confidence 80.5; head match 0.71; head OCR confidence 37.5
+- **undervalued** — PDF p. 471; Persian OCR confidence 91.9; head match 0.385; head OCR confidence 39.3
+- **underworld** — PDF p. 471; Persian OCR confidence 61.6; head match 0.438; head OCR confidence 38.6
+- **undetermined** — PDF p. 472; Persian OCR confidence 42.0; head match 0.727; head OCR confidence 42.9
+- **undifferentiated** — PDF p. 472; Persian OCR confidence 57.7; head match 0.865; head OCR confidence 8.5
+- **undlplomatic** — PDF p. 472; Persian OCR confidence 72.6; head match 0.428; head OCR confidence 37.7
+- **undirected haa,** — PDF p. 472; Persian OCR confidence 44.5; head match 0.87; head OCR confidence 72.6
+- **undiscriminating** — PDF p. 472; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **undivided** — PDF p. 472; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **undutiful** — PDF p. 472; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.2
+- **undutifuiness** — PDF p. 472; Persian OCR confidence 0; head match 0.923; head OCR confidence 81.3
+- **undying** — PDF p. 472; Persian OCR confidence 75.2; head match 0.35; head OCR confidence 81.3
+- **unearned increment C82 dg** — PDF p. 472; Persian OCR confidence 55.6; head match 0.872; head OCR confidence 58.6
+- **uneconomical** — PDF p. 472; Persian OCR confidence 79.8; head match 0.774; head OCR confidence 44.5
+- **unedited** — PDF p. 472; Persian OCR confidence 69.1; head match 0.727; head OCR confidence 47.9
+- **uneducated** — PDF p. 472; Persian OCR confidence 55.4; head match 0.769; head OCR confidence 48.2
+- **unemotional** — PDF p. 472; Persian OCR confidence 56.6; head match 0.733; head OCR confidence 32.4
+- **unemployability** — PDF p. 472; Persian OCR confidence 85.4; head match 0.789; head OCR confidence 46.0
+- **unemployable** — PDF p. 472; Persian OCR confidence 57.3; head match 0.75; head OCR confidence 48.3
+- **unemployed** — PDF p. 472; Persian OCR confidence 89.0; head match 0.714; head OCR confidence 46.8
+- **unemployment** — PDF p. 472; Persian OCR confidence 43.9; head match 0.75; head OCR confidence 44.8
+- **unemployment fund <.SJ~.,,......,_,_ ~.l..:..,:,** — PDF p. 472; Persian OCR confidence 0; head match 0.773; head OCR confidence 47.9
+- **unemployment insurance** — PDF p. 472; Persian OCR confidence 0; head match 0.955; head OCR confidence 94.5
+- **unending** — PDF p. 472; Persian OCR confidence 91.0; head match 0.467; head OCR confidence 60.8
+- **unequal** — PDF p. 472; Persian OCR confidence 71.0; head match 0.426; head OCR confidence 62.1
+- **unequaled** — PDF p. 472; Persian OCR confidence 88.7; head match 0.434; head OCR confidence 32.5
+- **unequivocal** — PDF p. 472; Persian OCR confidence 70.3; head match 0.452; head OCR confidence 32.5
+- **unerring** — PDF p. 472; Persian OCR confidence 23.2; head match 0.727; head OCR confidence 63.4
+- **unessential** — PDF p. 472; Persian OCR confidence 48.4; head match 0.786; head OCR confidence 46.2
+- **uneven** — PDF p. 472; Persian OCR confidence 76.0; head match 0.29; head OCR confidence 20.7
+- **unevenness** — PDF p. 472; Persian OCR confidence 89.5; head match 0.452; head OCR confidence 25.1
+- **uneventful** — PDF p. 472; Persian OCR confidence 62.6; head match 0.424; head OCR confidence 34.7
+- **unexceptional** — PDF p. 472; Persian OCR confidence 73.5; head match 0.492; head OCR confidence 45.8
+- **unexpected** — PDF p. 472; Persian OCR confidence 86.4; head match 0.769; head OCR confidence 48.0
+- **unexpectedness** — PDF p. 472; Persian OCR confidence 87.6; head match 0.8; head OCR confidence 46.1
+- **unexplainable** — PDF p. 472; Persian OCR confidence 80.1; head match 0.743; head OCR confidence 31.1
+- **unexploited** — PDF p. 472; Persian OCR confidence 79.6; head match 0.481; head OCR confidence 41.4
+- **unexplored** — PDF p. 472; Persian OCR confidence 78.6; head match 0.769; head OCR confidence 57.8
+- **unexpressive** — PDF p. 472; Persian OCR confidence 50.6; head match 0.774; head OCR confidence 26.7
+- **unexpressiveness** — PDF p. 472; Persian OCR confidence 63.2; head match 1.0; head OCR confidence 57.0
+- **unfair** — PDF p. 472; Persian OCR confidence 69.6; head match 0.29; head OCR confidence 24.0
+- **unfairness** — PDF p. 472; Persian OCR confidence 63.4; head match 1.0; head OCR confidence 80.6
+- **unfaith** — PDF p. 472; Persian OCR confidence 90.3; head match 0.737; head OCR confidence 44.1
+- **unfaithful** — PDF p. 472; Persian OCR confidence 80.5; head match 0.727; head OCR confidence 44.1
+- **unfaithfulness** — PDF p. 472; Persian OCR confidence 74.0; head match 0.8; head OCR confidence 23.0
+- **unfashlonable** — PDF p. 472; Persian OCR confidence 79.7; head match 0.727; head OCR confidence 28.2
+- **unfinished** — PDF p. 472; Persian OCR confidence 74.7; head match 0.359; head OCR confidence 33.4
+- **unformed** — PDF p. 472; Persian OCR confidence 83.8; head match 0.431; head OCR confidence 42.0
+- **unfounded** — PDF p. 472; Persian OCR confidence 78.1; head match 0.467; head OCR confidence 43.0
+- **unfoundedness** — PDF p. 472; Persian OCR confidence 81.0; head match 0.492; head OCR confidence 37.8
+- **ungrammatical** — PDF p. 473; Persian OCR confidence 43.0; head match 0.812; head OCR confidence 30.9
+- **unhappy** — PDF p. 473; Persian OCR confidence 66.4; head match 0.49; head OCR confidence 45.6
+- **unhappy consciousness** — PDF p. 473; Persian OCR confidence 64.6; head match 1.0; head OCR confidence 96.3
+- **unholiness** — PDF p. 473; Persian OCR confidence 49.6; head match 0.483; head OCR confidence 13.5
+- **unholy** — PDF p. 473; Persian OCR confidence 65.8; head match 0.382; head OCR confidence 32.0
+- **unicameral** — PDF p. 473; Persian OCR confidence 77.1; head match 0.56; head OCR confidence 54.9
+- **unicity** — PDF p. 473; Persian OCR confidence 78.3; head match 0.338; head OCR confidence 34.2
+- **unidimensional** — PDF p. 473; Persian OCR confidence 81.3; head match 0.737; head OCR confidence 35.6
+- **unidimensionality** — PDF p. 473; Persian OCR confidence 16.8; head match 0.85; head OCR confidence 45.9
+- **unidlrectional** — PDF p. 473; Persian OCR confidence 60.8; head match 0.703; head OCR confidence 56.3
+- **unifiable** — PDF p. 473; Persian OCR confidence 80.6; head match 0.783; head OCR confidence 52.8
+- **unification** — PDF p. 473; Persian OCR confidence 77.0; head match 0.56; head OCR confidence 52.8
+- **unified** — PDF p. 473; Persian OCR confidence 62.8; head match 0.875; head OCR confidence 51.1
+- **unified whole** — PDF p. 473; Persian OCR confidence 41.1; head match 1.0; head OCR confidence 96.5
+- **unifier** — PDF p. 473; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.1
+- **uniform cow** — PDF p. 473; Persian OCR confidence 69.2; head match 0.824; head OCR confidence 66.6
+- **uniformity of nature Cunb lus** — PDF p. 473; Persian OCR confidence 79.4; head match 0.837; head OCR confidence 74.5
+- **uniform motion CBS, hate** — PDF p. 473; Persian OCR confidence 63.6; head match 0.788; head OCR confidence 58.0
+- **uniformness** — PDF p. 473; Persian OCR confidence 0; head match 0.481; head OCR confidence 91.6
+- **unifying** — PDF p. 473; Persian OCR confidence 88.2; head match 0.762; head OCR confidence 60.8
+- **unifying prlnclple** — PDF p. 473; Persian OCR confidence 82.8; head match 0.714; head OCR confidence 56.1
+- **unilateralism** — PDF p. 473; Persian OCR confidence 86.7; head match 0.722; head OCR confidence 44.7
+- **unilateralist** — PDF p. 473; Persian OCR confidence 59.3; head match 0.788; head OCR confidence 30.2
+- **unilateral kinship** — PDF p. 473; Persian OCR confidence 73.9; head match 0.756; head OCR confidence 53.4
+- **unllingual** — PDF p. 473; Persian OCR confidence 75.4; head match 0.783; head OCR confidence 16.9
+- **unimodal** — PDF p. 473; Persian OCR confidence 77.3; head match 0.467; head OCR confidence 54.6
+- **unimprovabillty** — PDF p. 473; Persian OCR confidence 90.9; head match 0.737; head OCR confidence 30.0
+- **uninflected** — PDF p. 473; Persian OCR confidence 84.4; head match 0.733; head OCR confidence 28.3
+- **uninhabitable** — PDF p. 473; Persian OCR confidence 75.3; head match 0.423; head OCR confidence 28.9
+- **uninhabited** — PDF p. 473; Persian OCR confidence 91.7; head match 0.453; head OCR confidence 19.2
+- **uninhibited** — PDF p. 473; Persian OCR confidence 66.7; head match 0.481; head OCR confidence 30.9
+- **uninitiate** — PDF p. 473; Persian OCR confidence 88.2; head match 0.311; head OCR confidence 17.3
+- **uninstructed** — PDF p. 473; Persian OCR confidence 73.6; head match 0.75; head OCR confidence 11.0
+- **unintelligibility** — PDF p. 473; Persian OCR confidence 89.4; head match 0.647; head OCR confidence 26.5
+- **Unintelligible** — PDF p. 473; Persian OCR confidence 83.8; head match 0.467; head OCR confidence 6.8
+- **unintended** — PDF p. 473; Persian OCR confidence 86.0; head match 0.8; head OCR confidence 45.8
+- **unintentional** — PDF p. 473; Persian OCR confidence 91.3; head match 0.571; head OCR confidence 45.8
+- **uninterested** — PDF p. 473; Persian OCR confidence 73.9; head match 0.494; head OCR confidence 31.8
+- **unio mystlca (L.)** — PDF p. 473; Persian OCR confidence 80.7; head match 0.688; head OCR confidence 57.2
+- **unionism** — PDF p. 473; Persian OCR confidence 74.6; head match 0.431; head OCR confidence 32.9
+- **unionization** — PDF p. 473; Persian OCR confidence 59.4; head match 0.533; head OCR confidence 32.9
+- **union shop** — PDF p. 473; Persian OCR confidence 83.5; head match 0.45; head OCR confidence 61.5
+- **unlpathy** — PDF p. 473; Persian OCR confidence 89.4; head match 0.4; head OCR confidence 81.8
+- **unipersonal** — PDF p. 473; Persian OCR confidence 9.3; head match 0.846; head OCR confidence 39.9
+- **unlplex** — PDF p. 473; Persian OCR confidence 76.6; head match 0.706; head OCR confidence 52.7
+- **unipolar oh SS** — PDF p. 473; Persian OCR confidence 38.0; head match 0.8; head OCR confidence 55.9
+- **unique** — PDF p. 473; Persian OCR confidence 65.7; head match 0.336; head OCR confidence 42.6
+- **unisex ~-.r>** — PDF p. 473; Persian OCR confidence 72.0; head match 0.353; head OCR confidence 32.9
+- **unisexual** — PDF p. 474; Persian OCR confidence 50.9; head match 0.857; head OCR confidence 46.0
+- **unisexuality (eS** — PDF p. 474; Persian OCR confidence 14.1; head match 0.923; head OCR confidence 58.2
+- **unison etl** — PDF p. 474; Persian OCR confidence 87.7; head match 0.8; head OCR confidence 65.8
+- **unit** — PDF p. 474; Persian OCR confidence 65.1; head match 0.431; head OCR confidence 65.8
+- **Unitarian** — PDF p. 474; Persian OCR confidence 79.1; head match 0.42; head OCR confidence 31.7
+- **Unitarianism** — PDF p. 474; Persian OCR confidence 83.7; head match 0.667; head OCR confidence 31.7
+- **unitary** — PDF p. 474; Persian OCR confidence 79.4; head match 0.363; head OCR confidence 38.6
+- **unitary space** — PDF p. 474; Persian OCR confidence 80.8; head match 0.774; head OCR confidence 59.6
+- **unit cost** — PDF p. 474; Persian OCR confidence 82.2; head match 0.361; head OCR confidence 44.1
+- **United Nations Jods le** — PDF p. 474; Persian OCR confidence 71.7; head match 0.812; head OCR confidence 69.5
+- **United Nations Organization** — PDF p. 474; Persian OCR confidence 44.9; head match 1.0; head OCR confidence 96.6
+- **unitive** — PDF p. 474; Persian OCR confidence 76.2; head match 0.49; head OCR confidence 36.2
+- **unitizing** — PDF p. 474; Persian OCR confidence 82.9; head match 0.783; head OCR confidence 45.9
+- **unit of measurement** — PDF p. 474; Persian OCR confidence 57.6; head match 0.756; head OCR confidence 76.8
+- **unit of time** — PDF p. 474; Persian OCR confidence 68.9; head match 0.741; head OCR confidence 62.0
+- **unit price** — PDF p. 474; Persian OCR confidence 68.7; head match 0.371; head OCR confidence 46.5
+- **unity** — PDF p. 474; Persian OCR confidence 79.7; head match 0.368; head OCR confidence 50.1
+- **unity of command** — PDF p. 474; Persian OCR confidence 63.3; head match 1.0; head OCR confidence 96.4
+- **universal** — PDF p. 474; Persian OCR confidence 62.5; head match 0.467; head OCR confidence 20.2
+- **universal characteristic JS** — PDF p. 474; Persian OCR confidence 20.6; head match 0.939; head OCR confidence 76.9
+- **universal claim** — PDF p. 474; Persian OCR confidence 73.6; head match 0.615; head OCR confidence 76.9
+- **universal community** — PDF p. 474; Persian OCR confidence 91.1; head match 0.75; head OCR confidence 48.3
+- **universal complex** — PDF p. 474; Persian OCR confidence 55.8; head match 0.821; head OCR confidence 50.5
+- **universal concept SB pyaie** — PDF p. 474; Persian OCR confidence 52.6; head match 0.821; head OCR confidence 60.0
+- **universal grammar** — PDF p. 474; Persian OCR confidence 59.9; head match 1.0; head OCR confidence 71.5
+- **universal intellect** — PDF p. 474; Persian OCR confidence 58.2; head match 0.783; head OCR confidence 49.7
+- **universal intelligence** — PDF p. 474; Persian OCR confidence 53.8; head match 1.0; head OCR confidence 90.9
+- **universalist <~** — PDF p. 474; Persian OCR confidence 61.2; head match 0.454; head OCR confidence 24.6
+- **universalistic** — PDF p. 474; Persian OCR confidence 52.9; head match 0.478; head OCR confidence 38.9
+- **universality** — PDF p. 474; Persian OCR confidence 67.5; head match 0.727; head OCR confidence 42.0
+- **universalizability** — PDF p. 474; Persian OCR confidence 37.1; head match 0.766; head OCR confidence 38.5
+- **universalizable** — PDF p. 474; Persian OCR confidence 55.5; head match 0.833; head OCR confidence 32.4
+- **universalized** — PDF p. 474; Persian OCR confidence 51.5; head match 0.444; head OCR confidence 30.7
+- **universalizing Sl glee** — PDF p. 474; Persian OCR confidence 85.7; head match 0.824; head OCR confidence 57.9
+- **universal judgement** — PDF p. 474; Persian OCR confidence 46.8; head match 1.0; head OCR confidence 72.8
+- **universal language** — PDF p. 474; Persian OCR confidence 42.9; head match 1.0; head OCR confidence 65.9
+- **universal law** — PDF p. 474; Persian OCR confidence 66.7; head match 0.467; head OCR confidence 37.6
+- **universally** — PDF p. 474; Persian OCR confidence 38.0; head match 1.0; head OCR confidence 69.0
+- **universally valid** — PDF p. 474; Persian OCR confidence 34.1; head match 0.711; head OCR confidence 51.6
+- **universal man** — PDF p. 474; Persian OCR confidence 76.9; head match 0.8; head OCR confidence 45.0
+- **universal matter** — PDF p. 474; Persian OCR confidence 57.5; head match 0.75; head OCR confidence 49.3
+- **universal mind** — PDF p. 474; Persian OCR confidence 28.4; head match 1.0; head OCR confidence 96.7
+- **universal money** — PDF p. 474; Persian OCR confidence 0; head match 1.0; head OCR confidence 83.9
+- **universalness** — PDF p. 474; Persian OCR confidence 0; head match 1.0; head OCR confidence 31.1
+- **universal proposition** — PDF p. 474; Persian OCR confidence 60.0; head match 0.816; head OCR confidence 41.5
+- **universal reason SS Jie** — PDF p. 475; Persian OCR confidence 48.6; head match 0.857; head OCR confidence 62.1
+- **unlversals** — PDF p. 475; Persian OCR confidence 64.3; head match 0.42; head OCR confidence 62.1
+- **universal self i** — PDF p. 475; Persian OCR confidence 29.9; head match 0.963; head OCR confidence 80.8
+- **universal soul** — PDF p. 475; Persian OCR confidence 71.9; head match 0.765; head OCR confidence 55.2
+- **universal suffrage clea gl G>** — PDF p. 475; Persian OCR confidence 56.4; head match 0.829; head OCR confidence 66.2
+- **universal term** — PDF p. 475; Persian OCR confidence 69.3; head match 0.743; head OCR confidence 56.9
+- **universal validity** — PDF p. 475; Persian OCR confidence 25.1; head match 0.791; head OCR confidence 48.2
+- **universal vocabulary** — PDF p. 475; Persian OCR confidence 59.2; head match 0.844; head OCR confidence 48.4
+- **universe** — PDF p. 475; Persian OCR confidence 73.5; head match 0.386; head OCR confidence 45.1
+- **universe mirror eS sel** — PDF p. 475; Persian OCR confidence 34.3; head match 0.848; head OCR confidence 68.2
+- **universe of discourse** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **universe of interpretation** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.0
+- **university** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **univocal** — PDF p. 475; Persian OCR confidence 88.9; head match 0.444; head OCR confidence 96.8
+- **univocality** — PDF p. 475; Persian OCR confidence 81.9; head match 0.621; head OCR confidence 34.0
+- **univocity** — PDF p. 475; Persian OCR confidence 85.1; head match 0.434; head OCR confidence 46.3
+- **unjust** — PDF p. 475; Persian OCR confidence 56.9; head match 0.29; head OCR confidence 32.6
+- **unjustness .r** — PDF p. 475; Persian OCR confidence 73.1; head match 0.667; head OCR confidence 49.8
+- **unknowability** — PDF p. 475; Persian OCR confidence 87.5; head match 0.783; head OCR confidence 89.0
+- **unknown** — PDF p. 475; Persian OCR confidence 59.6; head match 0.392; head OCR confidence 24.0
+- **unlawfulness** — PDF p. 475; Persian OCR confidence 73.1; head match 0.42; head OCR confidence 30.8
+- **unlearned .r** — PDF p. 475; Persian OCR confidence 72.2; head match 0.341; head OCR confidence 29.4
+- **unlettered** — PDF p. 475; Persian OCR confidence 65.0; head match 0.438; head OCR confidence 22.9
+- **unlicensed** — PDF p. 475; Persian OCR confidence 54.0; head match 0.483; head OCR confidence 32.0
+- **unlimited** — PDF p. 475; Persian OCR confidence 66.9; head match 0.394; head OCR confidence 31.4
+- **unlimited liability dgtrvel aga** — PDF p. 475; Persian OCR confidence 63.4; head match 0.783; head OCR confidence 59.0
+- **unlisted** — PDF p. 475; Persian OCR confidence 86.5; head match 0.667; head OCR confidence 32.0
+- **unmanifested** — PDF p. 475; Persian OCR confidence 74.9; head match 0.48; head OCR confidence 25.8
+- **unmarked** — PDF p. 475; Persian OCR confidence 74.7; head match 0.762; head OCR confidence 62.1
+- **unmarried** — PDF p. 475; Persian OCR confidence 42.8; head match 0.72; head OCR confidence 30.6
+- **unmoral** — PDF p. 475; Persian OCR confidence 58.1; head match 0.426; head OCR confidence 30.3
+- **unmoved mover** — PDF p. 475; Persian OCR confidence 55.0; head match 0.5; head OCR confidence 30.3
+- **unnaturalness** — PDF p. 475; Persian OCR confidence 72.2; head match 0.722; head OCR confidence 29.1
+- **unnecessary** — PDF p. 475; Persian OCR confidence 63.7; head match 0.815; head OCR confidence 34.4
+- **unoccupied JY** — PDF p. 475; Persian OCR confidence 64.1; head match 0.87; head OCR confidence 58.8
+- **unofficial** — PDF p. 475; Persian OCR confidence 73.5; head match 0.364; head OCR confidence 58.8
+- **unofficial employee** — PDF p. 475; Persian OCR confidence 15.8; head match 1.0; head OCR confidence 66.5
+- **unorganized** — PDF p. 475; Persian OCR confidence 69.6; head match 0.428; head OCR confidence 26.9
+- **unorigina1** — PDF p. 475; Persian OCR confidence 84.8; head match 0.315; head OCR confidence 26.5
+- **unorthodoxy** — PDF p. 475; Persian OCR confidence 64.9; head match 1.0; head OCR confidence 36.9
+- **unpaid** — PDF p. 475; Persian OCR confidence 77.4; head match 0.8; head OCR confidence 43.0
+- **unpaid service OIE, Gas** — PDF p. 475; Persian OCR confidence 67.3; head match 0.812; head OCR confidence 62.9
+- **unparliamentary** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 40.9
+- **unpatterned** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 68.6
+- **unpeopled** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 52.3
+- **unpolitical** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 40.9
+- **unpopular** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 43.7
+- **unpopularity** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 78.0
+- **unpracticed** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 48.3
+- **unprecedented** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 48.6
+- **unpredictable** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 80.1
+- **uNprejudiced** — PDF p. 475; Persian OCR confidence 0; head match 1.0; head OCR confidence 60.7
+- **unpremeditated** — PDF p. 476; Persian OCR confidence 61.5; head match 1.0; head OCR confidence 90.9
+- **unprepared** — PDF p. 476; Persian OCR confidence 73.6; head match 0.714; head OCR confidence 41.8
+- **unprincipled** — PDF p. 476; Persian OCR confidence 64.4; head match 0.467; head OCR confidence 66.8
+- **unprintable** — PDF p. 476; Persian OCR confidence 43.8; head match 0.88; head OCR confidence 46.5
+- **unproductive** — PDF p. 476; Persian OCR confidence 73.4; head match 0.774; head OCR confidence 46.6
+- **unprofessional** — PDF p. 476; Persian OCR confidence 87.8; head match 0.478; head OCR confidence 51.0
+- **unprofitable** — PDF p. 476; Persian OCR confidence 77.1; head match 0.467; head OCR confidence 32.2
+- **unpunctual** — PDF p. 476; Persian OCR confidence 89.7; head match 0.714; head OCR confidence 56.3
+- **unqualified** — PDF p. 476; Persian OCR confidence 33.6; head match 0.481; head OCR confidence 33.0
+- **unquestioned** — PDF p. 476; Persian OCR confidence 65.8; head match 0.48; head OCR confidence 32.3
+- **unquiet** — PDF p. 476; Persian OCR confidence 68.6; head match 0.737; head OCR confidence 46.5
+- **unread .:,bLi ,o..ul~Li .r ,o.i..:..;...Jlho .\** — PDF p. 476; Persian OCR confidence 0; head match 0.509; head OCR confidence 31.6
+- **unreadability** — PDF p. 476; Persian OCR confidence 65.2; head match 0.433; head OCR confidence 0.0
+- **unreadable** — PDF p. 476; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **unreadiness** — PDF p. 476; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.3
+- **unready** — PDF p. 476; Persian OCR confidence 76.9; head match 0.377; head OCR confidence 23.0
+- **unreal** — PDF p. 476; Persian OCR confidence 83.7; head match 0.336; head OCR confidence 23.0
+- **unrealizable** — PDF p. 476; Persian OCR confidence 67.4; head match 0.494; head OCR confidence 44.6
+- **unreason** — PDF p. 476; Persian OCR confidence 68.1; head match 0.8; head OCR confidence 47.1
+- **unreasonable** — PDF p. 476; Persian OCR confidence 70.8; head match 0.454; head OCR confidence 34.0
+- **unreasonableness** — PDF p. 476; Persian OCR confidence 60.8; head match 1.0; head OCR confidence 72.8
+- **unreasoning** — PDF p. 476; Persian OCR confidence 68.6; head match 0.481; head OCR confidence 23.2
+- **unreconstructed** — PDF p. 476; Persian OCR confidence 91.1; head match 0.75; head OCR confidence 37.2
+- **unreflective** — PDF p. 476; Persian OCR confidence 81.0; head match 0.431; head OCR confidence 16.6
+- **unregeneracy** — PDF p. 476; Persian OCR confidence 75.5; head match 0.494; head OCR confidence 21.3
+- **unregenerate** — PDF p. 476; Persian OCR confidence 80.6; head match 0.42; head OCR confidence 16.0
+- **unrehearsed** — PDF p. 476; Persian OCR confidence 80.1; head match 0.733; head OCR confidence 51.7
+- **unrelated** — PDF p. 476; Persian OCR confidence 82.0; head match 0.394; head OCR confidence 42.7
+- **unreliable** — PDF p. 476; Persian OCR confidence 63.4; head match 0.72; head OCR confidence 47.2
+- **unreligious** — PDF p. 476; Persian OCR confidence 76.7; head match 0.759; head OCR confidence 25.7
+- **unremunerative** — PDF p. 476; Persian OCR confidence 84.2; head match 0.737; head OCR confidence 14.6
+- **unrepresentable** — PDF p. 476; Persian OCR confidence 84.1; head match 0.75; head OCR confidence 19.6
+- **unresolved oni Jo** — PDF p. 476; Persian OCR confidence 91.4; head match 0.8; head OCR confidence 57.1
+- **unresponsive** — PDF p. 476; Persian OCR confidence 21.0; head match 0.828; head OCR confidence 48.4
+- **unrest** — PDF p. 476; Persian OCR confidence 87.0; head match 0.494; head OCR confidence 48.1
+- **unrestricted Det Se** — PDF p. 476; Persian OCR confidence 89.5; head match 0.828; head OCR confidence 58.9
+- **unriddling** — PDF p. 476; Persian OCR confidence 87.2; head match 0.444; head OCR confidence 58.9
+- **unrighteous nye Say** — PDF p. 476; Persian OCR confidence 67.0; head match 0.786; head OCR confidence 59.8
+- **unrighteousness** — PDF p. 476; Persian OCR confidence 80.7; head match 0.811; head OCR confidence 44.5
+- **unrivaled** — PDF p. 476; Persian OCR confidence 55.6; head match 0.467; head OCR confidence 30.8
+- **unruly** — PDF p. 476; Persian OCR confidence 85.8; head match 0.42; head OCR confidence 35.4
+- **unsatisfactory** — PDF p. 477; Persian OCR confidence 51.9; head match 0.8; head OCR confidence 40.8
+- **unsaved** — PDF p. 477; Persian OCR confidence 47.8; head match 0.778; head OCR confidence 32.1
+- **unscalable** — PDF p. 477; Persian OCR confidence 72.4; head match 0.8; head OCR confidence 45.2
+- **unscientific** — PDF p. 477; Persian OCR confidence 79.7; head match 0.48; head OCR confidence 37.2
+- **unsearchableness** — PDF p. 477; Persian OCR confidence 78.6; head match 0.8; head OCR confidence 45.9
+- **unseasonable ada Ld** — PDF p. 477; Persian OCR confidence 71.5; head match 0.828; head OCR confidence 57.7
+- **unseasonableness** — PDF p. 477; Persian OCR confidence 63.7; head match 0.842; head OCR confidence 46.1
+- **unsecured** — PDF p. 477; Persian OCR confidence 68.3; head match 0.45; head OCR confidence 48.1
+- **unseen** — PDF p. 477; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **unsegregated** — PDF p. 477; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.9
+- **unselected** — PDF p. 477; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **unsettled** — PDF p. 477; Persian OCR confidence 84.6; head match 0.737; head OCR confidence 96.6
+- **unsexed** — PDF p. 477; Persian OCR confidence 84.0; head match 0.49; head OCR confidence 60.4
+- **unshaped** — PDF p. 477; Persian OCR confidence 67.8; head match 0.476; head OCR confidence 60.4
+- **unskilled** — PDF p. 477; Persian OCR confidence 81.7; head match 0.72; head OCR confidence 48.2
+- **unskilled worker Ext) sis** — PDF p. 477; Persian OCR confidence 79.3; head match 0.833; head OCR confidence 56.4
+- **unskillful** — PDF p. 477; Persian OCR confidence 64.2; head match 0.769; head OCR confidence 72.8
+- **unsociability** — PDF p. 477; Persian OCR confidence 59.6; head match 0.433; head OCR confidence 28.1
+- **unsociable** — PDF p. 477; Persian OCR confidence 79.9; head match 0.452; head OCR confidence 23.3
+- **unsociableness** — PDF p. 477; Persian OCR confidence 0; head match 0.455; head OCR confidence 92.5
+- **unsocial** — PDF p. 477; Persian OCR confidence 79.9; head match 0.762; head OCR confidence 92.5
+- **unsoclalized drive** — PDF p. 477; Persian OCR confidence 75.9; head match 0.681; head OCR confidence 64.1
+- **unsound** — PDF p. 477; Persian OCR confidence 71.4; head match 0.327; head OCR confidence 33.7
+- **unsoundness** — PDF p. 477; Persian OCR confidence 81.5; head match 0.467; head OCR confidence 26.2
+- **unspeakable** — PDF p. 477; Persian OCR confidence 84.4; head match 0.71; head OCR confidence 48.9
+- **unspeakableness** — PDF p. 477; Persian OCR confidence 90.0; head match 0.833; head OCR confidence 35.3
+- **unspecialized** — PDF p. 477; Persian OCR confidence 60.5; head match 0.471; head OCR confidence 35.3
+- **unspiritual** — PDF p. 477; Persian OCR confidence 74.5; head match 0.395; head OCR confidence 27.5
+- **unspirituality** — PDF p. 477; Persian OCR confidence 43.8; head match 0.718; head OCR confidence 43.1
+- **unsteadiness** — PDF p. 477; Persian OCR confidence 76.6; head match 0.727; head OCR confidence 27.0
+- **unsteady** — PDF p. 477; Persian OCR confidence 56.6; head match 0.415; head OCR confidence 22.4
+- **unsteady market** — PDF p. 477; Persian OCR confidence 85.3; head match 0.757; head OCR confidence 47.9
+- **unstressed 45g (Ly** — PDF p. 477; Persian OCR confidence 79.8; head match 0.8; head OCR confidence 57.3
+- **unsubstantial** — PDF p. 477; Persian OCR confidence 76.2; head match 0.467; head OCR confidence 20.2
+- **unsubstantiality** — PDF p. 477; Persian OCR confidence 77.3; head match 0.78; head OCR confidence 23.5
+- **unsubstantiated wlll.** — PDF p. 478; Persian OCR confidence 57.8; head match 0.882; head OCR confidence 55.2
+- **untenability** — PDF p. 478; Persian OCR confidence 87.4; head match 0.75; head OCR confidence 30.7
+- **unthinkable** — PDF p. 478; Persian OCR confidence 83.9; head match 0.481; head OCR confidence 48.7
+- **unthroned** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **untimeliness** — PDF p. 478; Persian OCR confidence 59.2; head match 0.96; head OCR confidence 76.1
+- **untimely p95** — PDF p. 478; Persian OCR confidence 60.0; head match 0.842; head OCR confidence 57.0
+- **untouchable SLE** — PDF p. 478; Persian OCR confidence 62.8; head match 0.88; head OCR confidence 58.0
+- **untrue** — PDF p. 478; Persian OCR confidence 69.1; head match 0.323; head OCR confidence 21.8
+- **untruth** — PDF p. 478; Persian OCR confidence 60.2; head match 0.316; head OCR confidence 29.9
+- **untruthful** — PDF p. 478; Persian OCR confidence 74.0; head match 0.8; head OCR confidence 47.0
+- **untruthfulness** — PDF p. 478; Persian OCR confidence 77.1; head match 0.8; head OCR confidence 39.8
+- **untutored** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.6
+- **unutterable** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.5
+- **unutterableness** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.9
+- **unverifiable** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **unvoiced** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **unwarranted** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **unwritten** — PDF p. 478; Persian OCR confidence 83.0; head match 0.6; head OCR confidence 96.6
+- **unwritten law** — PDF p. 478; Persian OCR confidence 67.4; head match 0.48; head OCR confidence 48.2
+- **upcountry** — PDF p. 478; Persian OCR confidence 68.9; head match 0.394; head OCR confidence 33.5
+- **update** — PDF p. 478; Persian OCR confidence 73.5; head match 0.75; head OCR confidence 35.9
+- **updated** — PDF p. 478; Persian OCR confidence 91.8; head match 0.824; head OCR confidence 39.2
+- **updating** — PDF p. 478; Persian OCR confidence 92.3; head match 0.727; head OCR confidence 38.7
+- **upheaval** — PDF p. 478; Persian OCR confidence 32.2; head match 1.0; head OCR confidence 73.8
+- **upper-class** — PDF p. 478; Persian OCR confidence 73.1; head match 0.741; head OCR confidence 46.6
+- **upperclassman** — PDF p. 478; Persian OCR confidence 91.4; head match 0.812; head OCR confidence 36.3
+- **Upper House; upper house** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.3
+- **upper limit** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 74.0
+- **upper stratum** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 85.2
+- **uprising** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.5
+- **uprooted** — PDF p. 478; Persian OCR confidence 0; head match 1.0; head OCR confidence 46.6
+- **up-to-date** — PDF p. 478; Persian OCR confidence 92.3; head match 0.625; head OCR confidence 46.6
+- **up-to-dateness** — PDF p. 478; Persian OCR confidence 92.2; head match 0.8; head OCR confidence 45.7
+- **up-to-the-minute** — PDF p. 478; Persian OCR confidence 44.1; head match 0.897; head OCR confidence 31.3
+- **uptown nog** — PDF p. 478; Persian OCR confidence 0.0; head match 0.8; head OCR confidence 56.9
+- **upward** — PDF p. 478; Persian OCR confidence 63.8; head match 0.4; head OCR confidence 56.9
+- **upward mobility sbdig YL** — PDF p. 478; Persian OCR confidence 90.2; head match 0.8; head OCR confidence 62.3
+- **Ural-Altaic** — PDF p. 478; Persian OCR confidence 77.8; head match 0.452; head OCR confidence 33.3
+- **Uralian** — PDF p. 478; Persian OCR confidence 0; head match 0.49; head OCR confidence 76.3
+- **Uralic** — PDF p. 478; Persian OCR confidence 79.5; head match 0.311; head OCR confidence 42.4
+- **urban** — PDF p. 478; Persian OCR confidence 79.9; head match 0.389; head OCR confidence 42.3
+- **urban area** — PDF p. 478; Persian OCR confidence 90.9; head match 0.394; head OCR confidence 49.9
+- **urban centralization SSiglT es** — PDF p. 478; Persian OCR confidence 72.8; head match 0.826; head OCR confidence 60.4
+- **urban community** — PDF p. 478; Persian OCR confidence 56.9; head match 0.49; head OCR confidence 48.2
+- **urban decentralization** — PDF p. 478; Persian OCR confidence 63.8; head match 1.0; head OCR confidence 96.7
+- **urban district** — PDF p. 478; Persian OCR confidence 59.2; head match 1.0; head OCR confidence 89.0
+- **urbane** — PDF p. 478; Persian OCR confidence 92.4; head match 0.75; head OCR confidence 26.4
+- **urban ecology** — PDF p. 478; Persian OCR confidence 75.1; head match 0.8; head OCR confidence 53.3
+- **urbanism** — PDF p. 479; Persian OCR confidence 68.6; head match 0.487; head OCR confidence 50.0
+- **urbanite** — PDF p. 479; Persian OCR confidence 82.1; head match 0.8; head OCR confidence 54.1
+- **urbanity** — PDF p. 479; Persian OCR confidence 71.0; head match 0.4; head OCR confidence 26.6
+- **urbanization** — PDF p. 479; Persian OCR confidence 79.9; head match 0.454; head OCR confidence 48.4
+- **urbanized** — PDF p. 479; Persian OCR confidence 82.8; head match 0.42; head OCR confidence 41.0
+- **urbanizing** — PDF p. 479; Persian OCR confidence 46.5; head match 0.438; head OCR confidence 46.8
+- **urban legend** — PDF p. 479; Persian OCR confidence 0; head match 0.71; head OCR confidence 95.8
+- **urban morphology** — PDF p. 479; Persian OCR confidence 90.2; head match 0.769; head OCR confidence 48.3
+- **urbanologist** — PDF p. 479; Persian OCR confidence 40.5; head match 0.857; head OCR confidence 40.9
+- **urban society** — PDF p. 479; Persian OCR confidence 91.6; head match 0.774; head OCR confidence 57.3
+- **urban sociology** — PDF p. 479; Persian OCR confidence 85.7; head match 0.667; head OCR confidence 57.3
+- **urban space** — PDF p. 479; Persian OCR confidence 80.9; head match 0.769; head OCR confidence 71.9
+- **urban sprawl** — PDF p. 479; Persian OCR confidence 61.3; head match 0.667; head OCR confidence 71.9
+- **urban zone** — PDF p. 479; Persian OCR confidence 75.7; head match 0.467; head OCR confidence 58.8
+- **Urdu** — PDF p. 479; Persian OCR confidence 85.8; head match 0.431; head OCR confidence 41.3
+- **urethral eroticism** — PDF p. 479; Persian OCR confidence 68.5; head match 0.791; head OCR confidence 40.9
+- **urge** — PDF p. 479; Persian OCR confidence 81.6; head match 0.165; head OCR confidence 15.8
+- **urgency** — PDF p. 479; Persian OCR confidence 73.3; head match 0.363; head OCR confidence 41.2
+- **urgent** — PDF p. 479; Persian OCR confidence 79.1; head match 0.29; head OCR confidence 41.7
+- **Urheimat** — PDF p. 479; Persian OCR confidence 70.0; head match 0.361; head OCR confidence 39.5
+- **urolagnia** — PDF p. 479; Persian OCR confidence 48.2; head match 0.783; head OCR confidence 39.9
+- **urophilia** — PDF p. 479; Persian OCR confidence 70.7; head match 0.522; head OCR confidence 39.9
+- **Ursprache (G.)** — PDF p. 479; Persian OCR confidence 65.6; head match 0.452; head OCR confidence 51.5
+- **urtext** — PDF p. 479; Persian OCR confidence 54.5; head match 0.494; head OCR confidence 46.5
+- **usage** — PDF p. 479; Persian OCR confidence 64.4; head match 0.389; head OCR confidence 27.1
+- **usance** — PDF p. 479; Persian OCR confidence 48.6; head match 0.382; head OCR confidence 62.0
+- **Usbek** — PDF p. 479; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.9
+- **use** — PDF p. 479; Persian OCR confidence 57.5; head match 0.162; head OCR confidence 25.6
+- **user** — PDF p. 479; Persian OCR confidence 37.0; head match 1.0; head OCR confidence 81.1
+- **use-value** — PDF p. 479; Persian OCR confidence 62.4; head match 0.842; head OCR confidence 38.9
+- **usual** — PDF p. 479; Persian OCR confidence 55.7; head match 0.318; head OCR confidence 28.6
+- **usufruct (L.)** — PDF p. 479; Persian OCR confidence 48.1; head match 0.75; head OCR confidence 30.9
+- **usufructuary** — PDF p. 479; Persian OCR confidence 75.1; head match 0.75; head OCR confidence 39.7
+- **usurer** — PDF p. 479; Persian OCR confidence 87.6; head match 0.8; head OCR confidence 37.7
+- **usurious** — PDF p. 479; Persian OCR confidence 88.9; head match 0.487; head OCR confidence 48.1
+- **usuriousness** — PDF p. 479; Persian OCR confidence 92.3; head match 0.828; head OCR confidence 33.5
+- **usurpation** — PDF p. 479; Persian OCR confidence 77.9; head match 0.741; head OCR confidence 26.5
+- **usurper** — PDF p. 479; Persian OCR confidence 46.8; head match 0.42; head OCR confidence 19.1
+- **usury** — PDF p. 479; Persian OCR confidence 65.4; head match 0.16; head OCR confidence 29.8
+- **uterine** — PDF p. 479; Persian OCR confidence 59.7; head match 0.327; head OCR confidence 24.7
+- **uterine fantasy** — PDF p. 479; Persian OCR confidence 81.8; head match 0.778; head OCR confidence 53.0
+- **uterine system** — PDF p. 479; Persian OCR confidence 69.2; head match 0.743; head OCR confidence 57.8
+- **uterus (L.)** — PDF p. 479; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.1
+- **utilitarian** — PDF p. 479; Persian OCR confidence 66.4; head match 0.481; head OCR confidence 32.3
+- **utilitarian calculus** — PDF p. 479; Persian OCR confidence 89.2; head match 0.776; head OCR confidence 20.4
+- **utilitarianism** — PDF p. 479; Persian OCR confidence 90.3; head match 0.737; head OCR confidence 30.8
+- **utilitarianist** — PDF p. 479; Persian OCR confidence 87.5; head match 0.757; head OCR confidence 32.0
+- **utilities** — PDF p. 479; Persian OCR confidence 80.7; head match 0.35; head OCR confidence 32.0
+- **utility** — PDF p. 479; Persian OCR confidence 69.9; head match 0.28; head OCR confidence 30.9
+- **utility rate** — PDF p. 479; Persian OCR confidence 78.4; head match 0.481; head OCR confidence 32.3
+- **utllizable** — PDF p. 479; Persian OCR confidence 60.1; head match 0.72; head OCR confidence 27.7
+- **utilizer** — PDF p. 479; Persian OCR confidence 87.2; head match 0.727; head OCR confidence 41.4
+- **utopia** — PDF p. 480; Persian OCR confidence 83.9; head match 0.8; head OCR confidence 48.0
+- **utopian** — PDF p. 480; Persian OCR confidence 70.2; head match 0.75; head OCR confidence 48.0
+- **utopian socialism ~L,,...,~** — PDF p. 480; Persian OCR confidence 0; head match 0.829; head OCR confidence 50.9
+- **utopian socialist** — PDF p. 480; Persian OCR confidence 74.2; head match 0.762; head OCR confidence 39.8
+- **utterance** — PDF p. 480; Persian OCR confidence 67.0; head match 0.382; head OCR confidence 21.2
+- **uxorial** — PDF p. 480; Persian OCR confidence 46.7; head match 0.49; head OCR confidence 39.0
+- **uxoricide** — PDF p. 480; Persian OCR confidence 62.4; head match 1.0; head OCR confidence 37.9
+- **uxorious** — PDF p. 480; Persian OCR confidence 27.0; head match 0.386; head OCR confidence 21.2
+- **uxoriousness** — PDF p. 480; Persian OCR confidence 44.3; head match 0.606; head OCR confidence 21.2

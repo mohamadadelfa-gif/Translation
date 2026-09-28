@@ -1,0 +1,238 @@
+# L — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **labial** — PDF p. 244, printed p. 243; Persian OCR confidence 0.0; head confidence 96.5; embedded `lablal`.
+- **labialism** — PDF p. 244, printed p. 243; Persian OCR confidence 0.0; head confidence 89.7; embedded `labialism`.
+- **labiality** — PDF p. 244, printed p. 243; Persian OCR confidence 0.0; head confidence 92.2; embedded `lablality`.
+- **labialization** — PDF p. 244, printed p. 243; Persian OCR confidence 70.2; head confidence 91.8; embedded `lablallzatlon`.
+- **labio-nasal** — PDF p. 244, printed p. 243; Persian OCR confidence 47.3; head confidence 77.5; embedded `labio-nasal`.
+- **laboratory** — PDF p. 244, printed p. 243; Persian OCR confidence 0.0; head confidence 96.3; embedded `laboratory`.
+- **labor class** — PDF p. 244, printed p. 243; Persian OCR confidence 0.0; head confidence 92.6; embedded `labor class`.
+- **Labor Day** — PDF p. 244, printed p. 243; Persian OCR confidence 32.0; head confidence 96.7; embedded `Labor Day`.
+- **labor-intensive** — PDF p. 244, printed p. 243; Persian OCR confidence 31.1; head confidence 96.7; embedded `labor-Intensive`.
+- **laborism** — PDF p. 244, printed p. 243; Persian OCR confidence 0.0; head confidence 88.8; embedded `laborlsm`.
+- **laborist** — PDF p. 244, printed p. 243; Persian OCR confidence 0.0; head confidence 91.7; embedded `laborlst`.
+- **labor movement** — PDF p. 244, printed p. 243; Persian OCR confidence 46.3; head confidence 90.1; embedded `labor movement`.
+- **labor unrest** — PDF p. 245, printed p. 244; Persian OCR confidence 48.6; head confidence 96.6; embedded `labor unrest`.
+- **labour labor** — PDF p. 245, printed p. 244; Persian OCR confidence 0.0; head confidence 95.7; embedded `labour labor`.
+- **labourer** — PDF p. 245, printed p. 244; Persian OCR confidence 0.0; head confidence 96.2; embedded `labourer = laborer`.
+- **labret** — PDF p. 245, printed p. 244; Persian OCR confidence 51.3; head confidence 96.1; embedded `labret`.
+- **labyrinthic** — PDF p. 245, printed p. 244; Persian OCR confidence 0.0; head confidence 93.9; embedded `labyrinthic = labyrinthine`.
+- **laconiclsm** — PDF p. 245, printed p. 244; Persian OCR confidence 43.9; head confidence 92.0; embedded `laconiclsm = laconlsm`.
+- **lacunar** — PDF p. 245, printed p. 244; Persian OCR confidence 2.1; head confidence 96.6; embedded `lacunar`.
+- **Lady Day** — PDF p. 245, printed p. 244; Persian OCR confidence 85.4; head confidence 0.0; embedded `Lady Day`.
+- **lag** — PDF p. 245, printed p. 244; Persian OCR confidence 21.3; head confidence 96.7; embedded `lag`.
+- **laicism** — PDF p. 245, printed p. 244; Persian OCR confidence 45.5; head confidence 92.8; embedded `laiclsm`.
+- **laicization** — PDF p. 245, printed p. 244; Persian OCR confidence 6.8; head confidence 92.5; embedded `laicization`.
+- **laisser-aller (Fr.)** — PDF p. 245, printed p. 244; Persian OCR confidence 78.1; head confidence 44.3; embedded `laisser-aller (Fr.)`.
+- **lalsser faire (Fr.)** — PDF p. 245, printed p. 244; Persian OCR confidence 0.0; head confidence 85.7; embedded `lalsser faire (Fr.) = lalssez faire`.
+- **lalty** — PDF p. 245, printed p. 244; Persian OCR confidence 69.8; head confidence 32.3; embedded `lalty`.
+- **lalophobia** — PDF p. 245, printed p. 244; Persian OCR confidence 70.6; head confidence 0.0; embedded `lalophobia`.
+- **Lamaism** — PDF p. 245, printed p. 244; Persian OCR confidence 51.6; head confidence 57.7; embedded `Lamaism`.
+- **Lamarckianism Lamarckism** — PDF p. 245, printed p. 244; Persian OCR confidence 0.0; head confidence 84.8; embedded `Lamarckianlsm Lamarckism`.
+- **lamia** — PDF p. 245, printed p. 244; Persian OCR confidence 73.1; head confidence 62.6; embedded `lamla`.
+- **lampooner lampoonist** — PDF p. 245, printed p. 244; Persian OCR confidence 0.0; head confidence 74.7; embedded `lampooner lampoonist`.
+- **lampoonist** — PDF p. 245, printed p. 244; Persian OCR confidence 48.0; head confidence 58.1; embedded `lampoon 1st`.
+- **land** — PDF p. 245, printed p. 244; Persian OCR confidence 75.8; head confidence 0.0; embedded `land`.
+- **landlady** — PDF p. 246, printed p. 245; Persian OCR confidence 64.6; head confidence 43.4; embedded `landlady`.
+- **landlord** — PDF p. 246, printed p. 245; Persian OCR confidence 66.6; head confidence 27.6; embedded `landlord`.
+- **landpoor** — PDF p. 246, printed p. 245; Persian OCR confidence 84.7; head confidence 39.0; embedded `landpoor`.
+- **land ggcialism** — PDF p. 246, printed p. 245; Persian OCR confidence 25.6; head confidence 66.5; embedded `land ~cialism`.
+- **land tenure** — PDF p. 246, printed p. 245; Persian OCR confidence 47.9; head confidence 94.0; embedded `land tenure`.
+- **langage (Fr.)** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 88.4; embedded `langage (Fr.)`.
+- **language** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 81.2; embedded `language`.
+- **language acquisition** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 93.0; embedded `language acquisition`.
+- **language aptitude** — PDF p. 246, printed p. 245; Persian OCR confidence 39.0; head confidence 79.3; embedded `language aptitude`.
+- **language area** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 96.3; embedded `language area`.
+- **language arts** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 90.4; embedded `language arts`.
+- **language attitude** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 96.5; embedded `language attitude`.
+- **language attrition** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 96.1; embedded `language attrition`.
+- **language awareness** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 89.1; embedded `language awareness`.
+- **language behavior** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 92.2; embedded `language behavior`.
+- **language borrowing** — PDF p. 246, printed p. 245; Persian OCR confidence 0.6; head confidence 89.6; embedded `language borrowing`.
+- **language change** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 71.8; embedded `language change`.
+- **language community** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 96.4; embedded `language community`.
+- **language death** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 87.7; embedded `language death`.
+- **language deficit** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 88.3; embedded `language deficit`.
+- **language delay** — PDF p. 246, printed p. 245; Persian OCR confidence 34.3; head confidence 91.0; embedded `language delay`.
+- **language development** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 96.5; embedded `language development`.
+- **language disability** — PDF p. 246, printed p. 245; Persian OCR confidence 0.0; head confidence 90.7; embedded `language dlsabillty`.
+- **language interaction** — PDF p. 247, printed p. 246; Persian OCR confidence 50.1; head confidence 96.2; embedded `language Interaction`.
+- **language-like** — PDF p. 247, printed p. 246; Persian OCR confidence 48.3; head confidence 92.6; embedded `language-like`.
+- **language typology** — PDF p. 247, printed p. 246; Persian OCR confidence 35.2; head confidence 81.8; embedded `language typology`.
+- **lapsus linguae (L)** — PDF p. 247, printed p. 246; Persian OCR confidence 45.8; head confidence 70.3; embedded `lapsus linguae (L.)`.
+- **larcener** — PDF p. 247, printed p. 246; Persian OCR confidence 0.0; head confidence 68.7; embedded `larcener = larcenlst`.
+- **large-scale production** — PDF p. 247, printed p. 246; Persian OCR confidence 50.7; head confidence 87.1; embedded `large-scale production`.
+- **lastling** — PDF p. 247, printed p. 246; Persian OCR confidence 68.2; head confidence 25.3; embedded `lastling`.
+- **late maturity** — PDF p. 248, printed p. 247; Persian OCR confidence 53.9; head confidence 95.9; embedded `late maturity`.
+- **latent traits** — PDF p. 248, printed p. 247; Persian OCR confidence 53.8; head confidence 97.0; embedded `latent traits`.
+- **Latin alphabet** — PDF p. 248, printed p. 247; Persian OCR confidence 24.5; head confidence 96.6; embedded `Latin alphabet`.
+- **Latin Church** — PDF p. 248, printed p. 247; Persian OCR confidence 38.0; head confidence 96.4; embedded `Latin Church`.
+- **Latlnity .r** — PDF p. 248, printed p. 247; Persian OCR confidence 48.9; head confidence 37.7; embedded `Latlnity .r`.
+- **latitude** — PDF p. 248, printed p. 247; Persian OCR confidence 42.5; head confidence 62.6; embedded `latitude`.
+- **latrla** — PDF p. 248, printed p. 247; Persian OCR confidence 75.8; head confidence 41.4; embedded `latrla`.
+- **laureate** — PDF p. 248, printed p. 247; Persian OCR confidence 63.9; head confidence 33.4; embedded `laureate`.
+- **lawbreaker** — PDF p. 248, printed p. 247; Persian OCR confidence 87.6; head confidence 41.7; embedded `lawbreaker`.
+- **law of causality** — PDF p. 248, printed p. 247; Persian OCR confidence 39.2; head confidence 87.4; embedded `law of causality`.
+- **law of nature** — PDF p. 248, printed p. 247; Persian OCR confidence 54.5; head confidence 87.7; embedded `law of nature`.
+- **layperson** — PDF p. 249, printed p. 248; Persian OCR confidence 39.6; head confidence 96.0; embedded `layperson`.
+- **leaseholder** — PDF p. 249, printed p. 248; Persian OCR confidence 64.6; head confidence 39.3; embedded `leaseholder`.
+- **least-effort prlnciple** — PDF p. 249, printed p. 248; Persian OCR confidence 61.1; head confidence 44.6; embedded `least-effort prlnciple`.
+- **leave pay** — PDF p. 249, printed p. 248; Persian OCR confidence 45.4; head confidence 88.7; embedded `leave pay`.
+- **lectionary** — PDF p. 249, printed p. 248; Persian OCR confidence 83.5; head confidence 28.0; embedded `lectionary`.
+- **left-handedness** — PDF p. 249, printed p. 248; Persian OCR confidence 55.3; head confidence 23.1; embedded `left-handedness`.
+- **legal language** — PDF p. 250, printed p. 249; Persian OCR confidence 45.0; head confidence 96.6; embedded `legal language`.
+- **legatee** — PDF p. 250, printed p. 249; Persian OCR confidence 0.0; head confidence 89.9; embedded `legatee`.
+- **legator** — PDF p. 250, printed p. 249; Persian OCR confidence 46.7; head confidence 91.7; embedded `legator`.
+- **legendary** — PDF p. 250, printed p. 249; Persian OCR confidence 71.5; head confidence 40.8; embedded `legendary`.
+- **legibleness** — PDF p. 250, printed p. 249; Persian OCR confidence 0.0; head confidence 9.8; embedded `legibleness = legibility`.
+- **legionnaire** — PDF p. 250, printed p. 249; Persian OCR confidence 88.2; head confidence 29.5; embedded `legionnaire`.
+- **legist** — PDF p. 250, printed p. 249; Persian OCR confidence 82.4; head confidence 23.4; embedded `legist`.
+- **legitimate government** — PDF p. 250, printed p. 249; Persian OCR confidence 45.5; head confidence 87.8; embedded `legitimate government`.
+- **legitimism** — PDF p. 250, printed p. 249; Persian OCR confidence 78.4; head confidence 32.4; embedded `legitimism`.
+- **legitimist** — PDF p. 250, printed p. 249; Persian OCR confidence 56.3; head confidence 39.4; embedded `legitimist`.
+- **legitimization** — PDF p. 250, printed p. 249; Persian OCR confidence 0.0; head confidence 71.7; embedded `legitimization = legitimation`.
+- **Leibnitzianist** — PDF p. 251, printed p. 250; Persian OCR confidence 0.0; head confidence 92.2; embedded `Leibnitzianist`.
+- **leisure** — PDF p. 251, printed p. 250; Persian OCR confidence 0.0; head confidence 96.2; embedded `leisure`.
+- **leitmotif** — PDF p. 251, printed p. 250; Persian OCR confidence 0.0; head confidence 93.1; embedded `leitmotif`.
+- **leitmotiv** — PDF p. 251, printed p. 250; Persian OCR confidence 0.0; head confidence 91.7; embedded `leitmotiv = leltmotif`.
+- **Leninist** — PDF p. 251, printed p. 250; Persian OCR confidence 14.1; head confidence 93.2; embedded `Leninist`.
+- **lesbianism** — PDF p. 251, printed p. 250; Persian OCR confidence 40.6; head confidence 61.1; embedded `lesbianlsm`.
+- **lethal chamber** — PDF p. 251, printed p. 250; Persian OCR confidence 54.6; head confidence 92.9; embedded `lethal chamber`.
+- **letter narration** — PDF p. 251, printed p. 250; Persian OCR confidence 50.2; head confidence 96.1; embedded `letter narration`.
+- **letter of commitment** — PDF p. 251, printed p. 250; Persian OCR confidence 12.7; head confidence 96.2; embedded `letter of commitment`.
+- **letter of provision** — PDF p. 251, printed p. 250; Persian OCR confidence 5.3; head confidence 89.2; embedded `letter of provision`.
+- **Lettic** — PDF p. 251, printed p. 250; Persian OCR confidence 70.2; head confidence 34.4; embedded `Lettic`.
+- **leveller** — PDF p. 251, printed p. 250; Persian OCR confidence 0.0; head confidence 75.2; embedded `leveller = leveler`.
+- **levelling leveling** — PDF p. 251, printed p. 250; Persian OCR confidence 0.0; head confidence 94.1; embedded `levelling leveling`.
+- **lexeme** — PDF p. 252, printed p. 251; Persian OCR confidence 43.4; head confidence 92.4; embedded `lexeme`.
+- **lexical** — PDF p. 252, printed p. 251; Persian OCR confidence 44.8; head confidence 95.6; embedded `lexical`.
+- **lexical item** — PDF p. 252, printed p. 251; Persian OCR confidence 32.9; head confidence 95.9; embedded `lexical item`.
+- **lexicalization** — PDF p. 252, printed p. 251; Persian OCR confidence 45.7; head confidence 90.6; embedded `lexicallzation`.
+- **lexical** — PDF p. 252, printed p. 251; Persian OCR confidence 87.5; head confidence 96.5; embedded `lexical morphology`.
+- **lexical word** — PDF p. 252, printed p. 251; Persian OCR confidence 48.7; head confidence 96.4; embedded `lexical word`.
+- **lexicographer** — PDF p. 252, printed p. 251; Persian OCR confidence 6.3; head confidence 91.0; embedded `lexicographer`.
+- **lexicographic(-al)** — PDF p. 252, printed p. 251; Persian OCR confidence 69.8; head confidence 0.0; embedded `lexicographic(-al)`.
+- **lexicologist** — PDF p. 252, printed p. 251; Persian OCR confidence 25.4; head confidence 92.2; embedded `lexicologist`.
+- **lex talionis (L.)** — PDF p. 252, printed p. 251; Persian OCR confidence 2.6; head confidence 71.4; embedded `lex talionis (L.)`.
+- **liabilities** — PDF p. 252, printed p. 251; Persian OCR confidence 38.4; head confidence 87.6; embedded `liabilities`.
+- **liaison** — PDF p. 252, printed p. 251; Persian OCR confidence 81.7; head confidence 14.4; embedded `liaison`.
+- **libation** — PDF p. 252, printed p. 251; Persian OCR confidence 46.9; head confidence 52.5; embedded `libation`.
+- **libationary** — PDF p. 252, printed p. 251; Persian OCR confidence 55.5; head confidence 31.6; embedded `libationary`.
+- **libellous** — PDF p. 252, printed p. 251; Persian OCR confidence 27.0; head confidence 75.4; embedded `libellous = libelous`.
+- **liberal education** — PDF p. 252, printed p. 251; Persian OCR confidence 37.3; head confidence 89.3; embedded `liberal education`.
+- **liberality** — PDF p. 252, printed p. 251; Persian OCR confidence 60.7; head confidence 34.2; embedded `liberality`.
+- **libertarian** — PDF p. 253, printed p. 252; Persian OCR confidence 79.6; head confidence 42.6; embedded `libertarian`.
+- **libertarianist** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 94.8; embedded `libertarianist = libertarian`.
+- **libertinage libertinism** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 91.8; embedded `libertinage libertinlsm`.
+- **libertine** — PDF p. 253, printed p. 252; Persian OCR confidence 71.6; head confidence 3.0; embedded `libertine`.
+- **libidinous** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 92.6; embedded `libidinous`.
+- **libido (L.)** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 66.6; embedded `libido (L.)`.
+- **librarian** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 95.4; embedded `librarian`.
+- **library** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 96.6; embedded `library`.
+- **library science** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 96.1; embedded `library science`.
+- **Libyan** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 96.1; embedded `Libyan`.
+- **licence** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 96.6; embedded `licence= license`.
+- **licentiate** — PDF p. 253, printed p. 252; Persian OCR confidence 82.5; head confidence 30.9; embedded `licentiate`.
+- **lie detector** — PDF p. 253, printed p. 252; Persian OCR confidence 45.6; head confidence 82.7; embedded `lie detector`.
+- **life drive** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 76.0; embedded `life drive`.
+- **lifelong** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 96.9; embedded `lifelong`.
+- **lifelong education** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 96.2; embedded `lifelong education`.
+- **life potential** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 96.0; embedded `life potentlal`.
+- **life-sized** — PDF p. 253, printed p. 252; Persian OCR confidence 0.0; head confidence 94.3; embedded `life-sized = life-size`.
+- **lifeworld** — PDF p. 254, printed p. 253; Persian OCR confidence 37.8; head confidence 91.5; embedded `lifeworld`.
+- **lighthearted** — PDF p. 254, printed p. 253; Persian OCR confidence 31.3; head confidence 96.1; embedded `lighthearted`.
+- **light industry** — PDF p. 254, printed p. 253; Persian OCR confidence 31.8; head confidence 96.5; embedded `light Industry`.
+- **lightness** — PDF p. 254, printed p. 253; Persian OCR confidence 23.1; head confidence 63.3; embedded `lightness`.
+- **likelihood** — PDF p. 254, printed p. 253; Persian OCR confidence 37.9; head confidence 86.5; embedded `likelihood`.
+- **like-minded** — PDF p. 254, printed p. 253; Persian OCR confidence 29.6; head confidence 96.0; embedded `like-minded`.
+- **liking** — PDF p. 254, printed p. 253; Persian OCR confidence 35.2; head confidence 96.3; embedded `liking`.
+- **limen** — PDF p. 254, printed p. 253; Persian OCR confidence 22.7; head confidence 92.8; embedded `limen`.
+- **limitary** — PDF p. 254, printed p. 253; Persian OCR confidence 72.7; head confidence 31.8; embedded `limitary`.
+- **limited government** — PDF p. 254, printed p. 253; Persian OCR confidence 26.2; head confidence 96.3; embedded `limited government`.
+- **limited sovereignty** — PDF p. 254, printed p. 253; Persian OCR confidence 52.5; head confidence 95.1; embedded `limlted sovereignty`.
+- **limiting .r** — PDF p. 254, printed p. 253; Persian OCR confidence 28.2; head confidence 27.7; embedded `limiting .r`.
+- **linearity** — PDF p. 254, printed p. 253; Persian OCR confidence 0.0; head confidence 90.5; embedded `linearity`.
+- **linear transformation** — PDF p. 254, printed p. 253; Persian OCR confidence 33.7; head confidence 80.7; embedded `linear transformation`.
+- **lineation** — PDF p. 254, printed p. 253; Persian OCR confidence 0.1; head confidence 71.2; embedded `lineation`.
+- **line chart** — PDF p. 254, printed p. 253; Persian OCR confidence 32.0; head confidence 80.8; embedded `line chart`.
+- **linga lingam** — PDF p. 254, printed p. 253; Persian OCR confidence 0.0; head confidence 82.1; embedded `linga lingam`.
+- **lingual** — PDF p. 254, printed p. 253; Persian OCR confidence 90.0; head confidence 33.0; embedded `lingual`.
+- **linguicism** — PDF p. 254, printed p. 253; Persian OCR confidence 91.9; head confidence 39.8; embedded `linguicism`.
+- **linguisticality** — PDF p. 254, printed p. 253; Persian OCR confidence 21.5; head confidence 83.4; embedded `linguisticality`.
+- **linguistically conditioned thought** — PDF p. 254, printed p. 253; Persian OCR confidence 53.6; head confidence 93.6; embedded `linguistically conditioned thought`.
+- **linguistic approach** — PDF p. 255, printed p. 254; Persian OCR confidence 53.0; head confidence 92.7; embedded `lingulstic approach`.
+- **linguistic form** — PDF p. 255, printed p. 254; Persian OCR confidence 39.0; head confidence 96.3; embedded `linguistic form`.
+- **linguistic minority** — PDF p. 255, printed p. 254; Persian OCR confidence 43.0; head confidence 90.4; embedded `linguistic minority`.
+- **linguistic ontogeny** — PDF p. 255, printed p. 254; Persian OCR confidence 48.2; head confidence 84.7; embedded `linguistic ontogeny`.
+- **linguistic phylogeny** — PDF p. 255, printed p. 254; Persian OCR confidence 42.0; head confidence 76.4; embedded `linguistlc phylogeny`.
+- **linguistics** — PDF p. 255, printed p. 254; Persian OCR confidence 26.7; head confidence 44.8; embedded `linguistics`.
+- **link** — PDF p. 255, printed p. 254; Persian OCR confidence 19.9; head confidence 95.7; embedded `link`.
+- **linkage politics** — PDF p. 255, printed p. 254; Persian OCR confidence 79.2; head confidence 71.5; embedded `linkage potltlcs`.
+- **linking verb** — PDF p. 255, printed p. 254; Persian OCR confidence 45.3; head confidence 86.5; embedded `linking verb`.
+- **lip reading** — PDF p. 255, printed p. 254; Persian OCR confidence 25.9; head confidence 84.3; embedded `lip reading`.
+- **listlng ..:.,.)}'** — PDF p. 255, printed p. 254; Persian OCR confidence 90.3; head confidence 18.6; embedded `listlng ..:.,.)}'`.
+- **literalness literality** — PDF p. 256, printed p. 255; Persian OCR confidence 0.0; head confidence 88.6; embedded `literalness literality`.
+- **litigable** — PDF p. 256, printed p. 255; Persian OCR confidence 83.2; head confidence 34.1; embedded `litigable`.
+- **livelihood** — PDF p. 256, printed p. 255; Persian OCR confidence 59.0; head confidence 24.1; embedded `livelihood`.
+- **living organism** — PDF p. 256, printed p. 255; Persian OCR confidence 40.8; head confidence 68.1; embedded `living organism`.
+- **local authorities** — PDF p. 257, printed p. 256; Persian OCR confidence 52.9; head confidence 71.6; embedded `local authorities`.
+- **local community** — PDF p. 257, printed p. 256; Persian OCR confidence 46.0; head confidence 96.5; embedded `local community`.
+- **local government** — PDF p. 257, printed p. 256; Persian OCR confidence 45.7; head confidence 84.1; embedded `local government`.
+- **locative phrase** — PDF p. 257, printed p. 256; Persian OCR confidence 51.6; head confidence 94.0; embedded `locative phrase`.
+- **locutionary** — PDF p. 257, printed p. 256; Persian OCR confidence 24.4; head confidence 91.3; embedded `locutlonary`.
+- **locutionary act** — PDF p. 257, printed p. 256; Persian OCR confidence 50.5; head confidence 95.1; embedded `locutionary act`.
+- **loftiness** — PDF p. 257, printed p. 256; Persian OCR confidence 88.7; head confidence 37.3; embedded `loftiness`.
+- **logia** — PDF p. 257, printed p. 256; Persian OCR confidence 80.2; head confidence 29.6; embedded `logia`.
+- **logic** — PDF p. 257, printed p. 256; Persian OCR confidence 76.5; head confidence 77.0; embedded `loglc`.
+- **logical fallacy** — PDF p. 257, printed p. 256; Persian OCR confidence 49.5; head confidence 81.4; embedded `logical fallacy`.
+- **logical form** — PDF p. 257, printed p. 256; Persian OCR confidence 54.9; head confidence 72.8; embedded `logical form`.
+- **logicality** — PDF p. 257, printed p. 256; Persian OCR confidence 37.4; head confidence 49.3; embedded `logicality`.
+- **logical necessity** — PDF p. 257, printed p. 256; Persian OCR confidence 46.3; head confidence 90.2; embedded `loglcal necessity`.
+- **logical positivism** — PDF p. 257, printed p. 256; Persian OCR confidence 26.1; head confidence 86.0; embedded `loglcal positivism`.
+- **logical semantics** — PDF p. 258, printed p. 257; Persian OCR confidence 44.1; head confidence 90.6; embedded `logical semantics`.
+- **logicism** — PDF p. 258, printed p. 257; Persian OCR confidence 53.6; head confidence 55.8; embedded `logicism`.
+- **logistic** — PDF p. 258, printed p. 257; Persian OCR confidence 46.3; head confidence 96.9; embedded `logistic`.
+- **logistics** — PDF p. 258, printed p. 257; Persian OCR confidence 52.8; head confidence 96.1; embedded `logistics`.
+- **logocentric** — PDF p. 258, printed p. 257; Persian OCR confidence 45.7; head confidence 22.6; embedded `logocentric`.
+- **logogram** — PDF p. 258, printed p. 257; Persian OCR confidence 40.0; head confidence 92.4; embedded `logogram`.
+- **logography** — PDF p. 258, printed p. 257; Persian OCR confidence 28.4; head confidence 90.6; embedded `logography`.
+- **logorrhea** — PDF p. 258, printed p. 257; Persian OCR confidence 49.3; head confidence 91.2; embedded `logorrhea`.
+- **logorrheic** — PDF p. 258, printed p. 257; Persian OCR confidence 80.2; head confidence 24.5; embedded `logorrheic`.
+- **long run** — PDF p. 258, printed p. 257; Persian OCR confidence 51.3; head confidence 62.7; embedded `long run`.
+- **loquacious** — PDF p. 258, printed p. 257; Persian OCR confidence 44.0; head confidence 51.7; embedded `loquacious`.
+- **loquaciousness** — PDF p. 258, printed p. 257; Persian OCR confidence 44.1; head confidence 66.8; embedded `toquaclousnesa`.
+- **lordling** — PDF p. 258, printed p. 257; Persian OCR confidence 43.9; head confidence 65.5; embedded `lordllng`.
+- **lowbred** — PDF p. 259, printed p. 258; Persian OCR confidence 36.3; head confidence 90.2; embedded `lowbred`.
+- **low-class** — PDF p. 259, printed p. 258; Persian OCR confidence 78.9; head confidence 21.3; embedded `low-class`.
+- **low comedy** — PDF p. 259, printed p. 258; Persian OCR confidence 47.9; head confidence 96.5; embedded `low comedy`.
+- **low culture** — PDF p. 259, printed p. 258; Persian OCR confidence 46.1; head confidence 93.6; embedded `low culture`.
+- **low echelon** — PDF p. 259, printed p. 258; Persian OCR confidence 43.9; head confidence 96.6; embedded `low echelon`.
+- **lower world** — PDF p. 259, printed p. 258; Persian OCR confidence 53.6; head confidence 96.6; embedded `lower world`.
+- **low frequency** — PDF p. 259, printed p. 258; Persian OCR confidence 50.6; head confidence 96.6; embedded `low frequency`.
+- **lowland** — PDF p. 259, printed p. 258; Persian OCR confidence 17.7; head confidence 96.6; embedded `lowland`.
+- **lowliness** — PDF p. 259, printed p. 258; Persian OCR confidence 77.6; head confidence 32.8; embedded `lowliness`.
+- **low-minded** — PDF p. 259, printed p. 258; Persian OCR confidence 43.2; head confidence 43.8; embedded `low-minded`.
+- **low profile** — PDF p. 259, printed p. 258; Persian OCR confidence 42.3; head confidence 85.3; embedded `low profile`.
+- **loyal** — PDF p. 259, printed p. 258; Persian OCR confidence 46.5; head confidence 80.1; embedded `loyal`.
+- **loyalist** — PDF p. 259, printed p. 258; Persian OCR confidence 54.4; head confidence 56.9; embedded `loyalist`.
+- **lucid** — PDF p. 259, printed p. 258; Persian OCR confidence 18.0; head confidence 71.8; embedded `lucld`.
+- **lucidity** — PDF p. 259, printed p. 258; Persian OCR confidence 49.9; head confidence 46.2; embedded `lucidlty`.
+- **lucidness lucidity** — PDF p. 259, printed p. 258; Persian OCR confidence 14.0; head confidence 87.2; embedded `lucidness lucldlty`.
+- **Lullism** — PDF p. 259, printed p. 258; Persian OCR confidence 71.0; head confidence 26.2; embedded `Lullism`.
+- **lumpen** — PDF p. 259, printed p. 258; Persian OCR confidence 69.3; head confidence 35.1; embedded `lumpen`.
+- **lunacy** — PDF p. 259, printed p. 258; Persian OCR confidence 23.9; head confidence 88.5; embedded `lunacy`.
+- **lunar** — PDF p. 259, printed p. 258; Persian OCR confidence 40.7; head confidence 86.3; embedded `lunar`.
+- **lunar month** — PDF p. 259, printed p. 258; Persian OCR confidence 49.4; head confidence 92.3; embedded `lunar month`.
+- **lunarnaut** — PDF p. 259, printed p. 258; Persian OCR confidence 47.1; head confidence 5.6; embedded `lunarnaut`.
+- **lustful** — PDF p. 260, printed p. 259; Persian OCR confidence 44.5; head confidence 96.8; embedded `lustful`.
+- **lustiness lustihood** — PDF p. 260, printed p. 259; Persian OCR confidence 0.0; head confidence 91.8; embedded `lustiness lustihood`.
+- **luxe** — PDF p. 260, printed p. 259; Persian OCR confidence 21.1; head confidence 92.6; embedded `luxe`.
+- **luxuriant** — PDF p. 260, printed p. 259; Persian OCR confidence 0.0; head confidence 94.7; embedded `luxuriant`.
+- **lycanthropic** — PDF p. 260, printed p. 259; Persian OCR confidence 45.9; head confidence 37.9; embedded `lycanthropic`.
+- **lynching** — PDF p. 260, printed p. 259; Persian OCR confidence 20.0; head confidence 54.9; embedded `lynching`.
+- **lyric(-al)** — PDF p. 260, printed p. 259; Persian OCR confidence 84.5; head confidence 32.3; embedded `lyric(-al)`.
+- **lyrism lyricism** — PDF p. 260, printed p. 259; Persian OCR confidence 0.0; head confidence 89.9; embedded `lyrism lyricism`.
+- **lyrist** — PDF p. 260, printed p. 259; Persian OCR confidence 0.0; head confidence 66.0; embedded `lyrist = lyricist`.
+- **Lysenkoism** — PDF p. 260, printed p. 259; Persian OCR confidence 43.5; head confidence 66.0; embedded `Lysenkoism`.

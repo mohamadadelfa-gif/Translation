@@ -1,0 +1,2491 @@
+# S Entries Requiring Visual Review
+
+- **Sabaean** — PDF p. 393; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.2
+- **Sabaism** — PDF p. 393; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.2
+- **Sabaist** — PDF p. 393; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.9
+- **Sabbatarian** — PDF p. 393; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.8
+- **Sabbatarianism** — PDF p. 393; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.0
+- **sabbatical leavedWlbo..:;....,)(o~b ;.))** — PDF p. 393; Persian OCR confidence 0; head match 0.654; head OCR confidence 58.3
+- **Sabbatical year ee (o9@2 cs** — PDF p. 393; Persian OCR confidence 69.8; head match 0.8; head OCR confidence 55.4
+- **Sabellianlsm** — PDF p. 393; Persian OCR confidence 66.6; head match 0.71; head OCR confidence 46.4
+- **sabotage** — PDF p. 393; Persian OCR confidence 89.5; head match 0.727; head OCR confidence 58.7
+- **sacralization** — PDF p. 393; Persian OCR confidence 66.1; head match 0.833; head OCR confidence 65.1
+- **Sacrament** — PDF p. 393; Persian OCR confidence 49.9; head match 1.0; head OCR confidence 86.7
+- **sacramental** — PDF p. 393; Persian OCR confidence 67.9; head match 0.759; head OCR confidence 46.2
+- **sacramentarlan** — PDF p. 393; Persian OCR confidence 75.1; head match 0.765; head OCR confidence 16.6
+- **sacrarlum** — PDF p. 393; Persian OCR confidence 53.9; head match 0.431; head OCR confidence 36.1
+- **sacred** — PDF p. 393; Persian OCR confidence 58.8; head match 0.382; head OCR confidence 27.0
+- **Sacred College** — PDF p. 393; Persian OCR confidence 0; head match 0.735; head OCR confidence 89.7
+- **Sacred College** — PDF p. 393; Persian OCR confidence 72.8; head match 0.786; head OCR confidence 91.0
+- **sacredness** — PDF p. 393; Persian OCR confidence 3.7; head match 0.412; head OCR confidence 19.0
+- **sacred society** — PDF p. 393; Persian OCR confidence 44.6; head match 0.743; head OCR confidence 37.6
+- **sacred void** — PDF p. 393; Persian OCR confidence 85.8; head match 0.741; head OCR confidence 52.2
+- **sacrifice** — PDF p. 393; Persian OCR confidence 64.0; head match 0.434; head OCR confidence 14.1
+- **sacrificial** — PDF p. 394; Persian OCR confidence 49.1; head match 0.71; head OCR confidence 48.3
+- **sacrilege** — PDF p. 394; Persian OCR confidence 77.6; head match 0.382; head OCR confidence 32.1
+- **sacrilegious** — PDF p. 394; Persian OCR confidence 43.9; head match 0.467; head OCR confidence 42.6
+- **sacrlleglousness** — PDF p. 394; Persian OCR confidence 0; head match 0.439; head OCR confidence 91.7
+- **sacrosanct** — PDF p. 394; Persian OCR confidence 62.3; head match 0.538; head OCR confidence 91.7
+- **sacrosanctity** — PDF p. 394; Persian OCR confidence 41.2; head match 0.722; head OCR confidence 30.7
+- **sadism** — PDF p. 394; Persian OCR confidence 86.3; head match 0.35; head OCR confidence 36.1
+- **sadist N35)...** — PDF p. 394; Persian OCR confidence 77.6; head match 0.8; head OCR confidence 58.4
+- **sadistic** — PDF p. 394; Persian OCR confidence 57.9; head match 0.339; head OCR confidence 19.3
+- **sadomasochism** — PDF p. 394; Persian OCR confidence 0; head match 0.929; head OCR confidence 47.6
+- **sadomasochist** — PDF p. 394; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.4
+- **Safar (Ar.)** — PDF p. 394; Persian OCR confidence 45.1; head match 0.778; head OCR confidence 65.7
+- **safe-conduct** — PDF p. 394; Persian OCR confidence 59.4; head match 0.759; head OCR confidence 48.3
+- **safety** — PDF p. 394; Persian OCR confidence 89.8; head match 0.467; head OCR confidence 38.7
+- **safety training** — PDF p. 394; Persian OCR confidence 75.7; head match 0.757; head OCR confidence 57.4
+- **sagacious** — PDF p. 394; Persian OCR confidence 89.9; head match 0.485; head OCR confidence 45.7
+- **sagaciousness** — PDF p. 394; Persian OCR confidence 0.0; head match 1.0; head OCR confidence 91.6
+- **sahib (Ar.)** — PDF p. 394; Persian OCR confidence 83.0; head match 0.737; head OCR confidence 33.2
+- **sailing** — PDF p. 394; Persian OCR confidence 26.7; head match 0.392; head OCR confidence 32.0
+- **sailor** — PDF p. 394; Persian OCR confidence 61.2; head match 0.494; head OCR confidence 56.2
+- **saint** — PDF p. 394; Persian OCR confidence 59.8; head match 0.438; head OCR confidence 45.4
+- **saintdom** — PDF p. 394; Persian OCR confidence 73.9; head match 0.632; head OCR confidence 45.4
+- **sainted** — PDF p. 394; Persian OCR confidence 84.0; head match 0.467; head OCR confidence 43.4
+- **saintliness** — PDF p. 394; Persian OCR confidence 68.8; head match 0.467; head OCR confidence 33.8
+- **saintly ily** — PDF p. 394; Persian OCR confidence 85.5; head match 0.824; head OCR confidence 60.4
+- **salntship** — PDF p. 394; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.5
+- **Saiva** — PDF p. 394; Persian OCR confidence 57.9; head match 0.329; head OCR confidence 0.0
+- **salability** — PDF p. 394; Persian OCR confidence 90.2; head match 0.412; head OCR confidence 41.2
+- **Salaflsm** — PDF p. 394; Persian OCR confidence 66.7; head match 0.327; head OCR confidence 32.9
+- **salable** — PDF p. 394; Persian OCR confidence 74.5; head match 0.408; head OCR confidence 48.8
+- **salaried** — PDF p. 394; Persian OCR confidence 44.7; head match 0.336; head OCR confidence 48.8
+- **salary** — PDF p. 394; Persian OCR confidence 51.4; head match 1.0; head OCR confidence 93.0
+- **salary scale** — PDF p. 394; Persian OCR confidence 52.9; head match 0.786; head OCR confidence 51.2
+- **sale** — PDF p. 394; Persian OCR confidence 81.8; head match 0.373; head OCR confidence 41.8
+- **saleable** — PDF p. 394; Persian OCR confidence 0; head match 0.487; head OCR confidence 96.9
+- **salesman** — PDF p. 394; Persian OCR confidence 91.2; head match 0.727; head OCR confidence 44.0
+- **salesmanshlp** — PDF p. 394; Persian OCR confidence 91.3; head match 0.692; head OCR confidence 44.0
+- **salespeople** — PDF p. 394; Persian OCR confidence 73.7; head match 0.786; head OCR confidence 30.1
+- **Salish** — PDF p. 394; Persian OCR confidence 69.2; head match 0.5; head OCR confidence 75.3
+- **Sallshan** — PDF p. 394; Persian OCR confidence 0; head match 0.545; head OCR confidence 62.7
+- **salon** — PDF p. 394; Persian OCR confidence 52.7; head match 0.35; head OCR confidence 47.2
+- **salvable Los** — PDF p. 394; Persian OCR confidence 51.9; head match 0.842; head OCR confidence 79.4
+- **Salvadorian** — PDF p. 394; Persian OCR confidence 65.5; head match 0.545; head OCR confidence 79.4
+- **salvage** — PDF p. 394; Persian OCR confidence 66.1; head match 0.49; head OCR confidence 64.9
+- **salvageable** — PDF p. 394; Persian OCR confidence 71.4; head match 0.759; head OCR confidence 14.1
+- **salvager** — PDF p. 394; Persian OCR confidence 91.3; head match 0.762; head OCR confidence 26.7
+- **salvation** — PDF p. 394; Persian OCR confidence 65.3; head match 0.545; head OCR confidence 26.7
+- **salvational** — PDF p. 394; Persian OCR confidence 60.7; head match 1.0; head OCR confidence 75.1
+- **Salvation Army GBs, cls** — PDF p. 394; Persian OCR confidence 91.5; head match 0.812; head OCR confidence 56.7
+- **salvationlsm** — PDF p. 394; Persian OCR confidence 86.3; head match 0.71; head OCR confidence 56.7
+- **salvationlst** — PDF p. 394; Persian OCR confidence 72.4; head match 0.688; head OCR confidence 33.6
+- **sameness** — PDF p. 395; Persian OCR confidence 90.0; head match 0.431; head OCR confidence 37.6
+- **same-sex ~~ ,~** — PDF p. 395; Persian OCR confidence 90.7; head match 0.336; head OCR confidence 37.6
+- **same-sex couples** — PDF p. 395; Persian OCR confidence 45.8; head match 0.718; head OCR confidence 48.1
+- **same-sex marriage** — PDF p. 395; Persian OCR confidence 89.9; head match 0.811; head OCR confidence 49.5
+- **Samoyed** — PDF p. 395; Persian OCR confidence 79.5; head match 0.338; head OCR confidence 47.2
+- **Samoyede** — PDF p. 395; Persian OCR confidence 0; head match 0.487; head OCR confidence 92.7
+- **sample** — PDF p. 395; Persian OCR confidence 92.0; head match 0.494; head OCR confidence 49.1
+- **sample bias** — PDF p. 395; Persian OCR confidence 91.5; head match 0.667; head OCR confidence 49.1
+- **sampler** — PDF p. 395; Persian OCR confidence 61.5; head match 0.467; head OCR confidence 48.3
+- **sample survey** — PDF p. 395; Persian OCR confidence 69.9; head match 0.75; head OCR confidence 41.2
+- **sampling** — PDF p. 395; Persian OCR confidence 50.0; head match 0.467; head OCR confidence 48.1
+- **sampling survey** — PDF p. 395; Persian OCR confidence 84.9; head match 0.778; head OCR confidence 49.9
+- **sampling unit** — PDF p. 395; Persian OCR confidence 74.3; head match 0.454; head OCR confidence 50.3
+- **samsara** — PDF p. 395; Persian OCR confidence 75.3; head match 0.288; head OCR confidence 48.8
+- **samurai** — PDF p. 395; Persian OCR confidence 71.9; head match 0.737; head OCR confidence 69.0
+- **sanatarium** — PDF p. 395; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.4
+- **sanctification** — PDF p. 395; Persian OCR confidence 29.9; head match 0.467; head OCR confidence 34.8
+- **sanctifier** — PDF p. 395; Persian OCR confidence 76.4; head match 0.412; head OCR confidence 38.7
+- **sanctimonious ...,, i..'-"'~** — PDF p. 395; Persian OCR confidence 39.6; head match 0.757; head OCR confidence 33.2
+- **sanctimoniousness** — PDF p. 395; Persian OCR confidence 43.3; head match 1.0; head OCR confidence 91.5
+- **sanctimony** — PDF p. 395; Persian OCR confidence 86.5; head match 0.438; head OCR confidence 35.2
+- **sanctioned** — PDF p. 395; Persian OCR confidence 67.6; head match 0.483; head OCR confidence 39.1
+- **sanctity** — PDF p. 395; Persian OCR confidence 80.1; head match 0.339; head OCR confidence 28.0
+- **sanctum** — PDF p. 395; Persian OCR confidence 68.8; head match 0.737; head OCR confidence 44.8
+- **sanctum sanctorum (L.)** — PDF p. 395; Persian OCR confidence 57.8; head match 1.0; head OCR confidence 92.1
+- **sandhi (Skt.)** — PDF p. 395; Persian OCR confidence 87.7; head match 0.467; head OCR confidence 37.4
+- **sane** — PDF p. 395; Persian OCR confidence 78.9; head match 0.5; head OCR confidence 76.6
+- **sanguinary** — PDF p. 395; Persian OCR confidence 77.8; head match 0.4; head OCR confidence 32.5
+- **sanguine** — PDF p. 395; Persian OCR confidence 68.3; head match 0.8; head OCR confidence 50.0
+- **sanitarian** — PDF p. 395; Persian OCR confidence 90.1; head match 0.714; head OCR confidence 27.3
+- **sanitarium (L.)** — PDF p. 395; Persian OCR confidence 89.5; head match 0.815; head OCR confidence 49.4
+- **sanitary** — PDF p. 395; Persian OCR confidence 92.0; head match 0.8; head OCR confidence 44.3
+- **sanitary engineer** — PDF p. 395; Persian OCR confidence 91.5; head match 0.727; head OCR confidence 38.2
+- **Sanitation** — PDF p. 395; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.4
+- **sanitized** — PDF p. 395; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **sanitizing** — PDF p. 395; Persian OCR confidence 92.1; head match 0.714; head OCR confidence 33.1
+- **sanity** — PDF p. 395; Persian OCR confidence 82.3; head match 0.365; head OCR confidence 31.9
+- **sansculottlc** — PDF p. 395; Persian OCR confidence 75.1; head match 0.71; head OCR confidence 15.9
+- **sansculottlsm** — PDF p. 395; Persian OCR confidence 65.7; head match 0.4; head OCR confidence 42.6
+- **Sanskritic** — PDF p. 396; Persian OCR confidence 90.7; head match 0.741; head OCR confidence 40.9
+- **Sanskritist** — PDF p. 396; Persian OCR confidence 88.8; head match 0.733; head OCR confidence 48.3
+- **Sapphic** — PDF p. 396; Persian OCR confidence 52.1; head match 0.737; head OCR confidence 26.7
+- **Sapphism** — PDF p. 396; Persian OCR confidence 33.5; head match 0.7; head OCR confidence 26.7
+- **Saracen** — PDF p. 396; Persian OCR confidence 62.7; head match 0.35; head OCR confidence 40.7
+- **Sarcasm** — PDF p. 396; Persian OCR confidence 59.3; head match 1.0; head OCR confidence 56.3
+- **sarcastic** — PDF p. 396; Persian OCR confidence 43.3; head match 0.75; head OCR confidence 56.3
+- **sardonic** — PDF p. 396; Persian OCR confidence 65.2; head match 0.35; head OCR confidence 46.0
+- **Sassanian** — PDF p. 396; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.6
+- **Sassanid ll,** — PDF p. 396; Persian OCR confidence 51.9; head match 0.889; head OCR confidence 64.4
+- **Sassanide** — PDF p. 396; Persian OCR confidence 0; head match 0.593; head OCR confidence 64.4
+- **Satan** — PDF p. 396; Persian OCR confidence 81.9; head match 0.389; head OCR confidence 60.7
+- **Satanic(-al)** — PDF p. 396; Persian OCR confidence 89.3; head match 0.75; head OCR confidence 29.8
+- **satanic cult Spolat** — PDF p. 396; Persian OCR confidence 63.8; head match 0.786; head OCR confidence 69.7
+- **satanic image** — PDF p. 396; Persian OCR confidence 62.1; head match 0.75; head OCR confidence 60.8
+- **Satanism** — PDF p. 396; Persian OCR confidence 62.2; head match 1.0; head OCR confidence 96.4
+- **Satanist** — PDF p. 396; Persian OCR confidence 90.0; head match 0.487; head OCR confidence 31.0
+- **satellite** — PDF p. 396; Persian OCR confidence 76.8; head match 0.417; head OCR confidence 31.0
+- **Satellite town athe Se** — PDF p. 396; Persian OCR confidence 69.4; head match 0.812; head OCR confidence 64.2
+- **satem** — PDF p. 396; Persian OCR confidence 57.0; head match 0.467; head OCR confidence 45.1
+- **satiate** — PDF p. 396; Persian OCR confidence 76.7; head match 0.737; head OCR confidence 47.8
+- **satiety** — PDF p. 396; Persian OCR confidence 69.0; head match 0.737; head OCR confidence 48.3
+- **satire** — PDF p. 396; Persian OCR confidence 50.8; head match 0.35; head OCR confidence 39.2
+- **satirist '<..r!.~~~** — PDF p. 396; Persian OCR confidence 67.1; head match 0.371; head OCR confidence 22.1
+- **satirizing GSS** — PDF p. 396; Persian OCR confidence 51.4; head match 0.87; head OCR confidence 58.6
+- **satisfaction** — PDF p. 396; Persian OCR confidence 86.4; head match 0.494; head OCR confidence 31.8
+- **satisfying** — PDF p. 396; Persian OCR confidence 89.0; head match 0.714; head OCR confidence 34.4
+- **satori •,sJ,;L., .;.,l.9 r** — PDF p. 396; Persian OCR confidence 0; head match 0.727; head OCR confidence 61.5
+- **satrap** — PDF p. 396; Persian OCR confidence 71.5; head match 0.75; head OCR confidence 39.2
+- **saturated** — PDF p. 396; Persian OCR confidence 57.9; head match 0.75; head OCR confidence 43.4
+- **saturating** — PDF p. 396; Persian OCR confidence 29.9; head match 0.714; head OCR confidence 33.8
+- **saturation** — PDF p. 396; Persian OCR confidence 57.9; head match 0.643; head OCR confidence 33.8
+- **saturnalia** — PDF p. 396; Persian OCR confidence 70.3; head match 0.389; head OCR confidence 43.1
+- **saturnalian** — PDF p. 396; Persian OCR confidence 64.2; head match 0.846; head OCR confidence 13.5
+- **satyr** — PDF p. 396; Persian OCR confidence 78.8; head match 0.259; head OCR confidence 34.4
+- **satyriasis** — PDF p. 396; Persian OCR confidence 80.2; head match 0.412; head OCR confidence 25.3
+- **satyric** — PDF p. 396; Persian OCR confidence 86.4; head match 0.35; head OCR confidence 18.8
+- **satyr play** — PDF p. 396; Persian OCR confidence 81.3; head match 0.467; head OCR confidence 36.7
+- **savage** — PDF p. 396; Persian OCR confidence 71.4; head match 0.28; head OCR confidence 20.0
+- **savagery** — PDF p. 396; Persian OCR confidence 76.0; head match 0.431; head OCR confidence 44.3
+- **savant** — PDF p. 396; Persian OCR confidence 90.6; head match 0.336; head OCR confidence 12.4
+- **savings** — PDF p. 396; Persian OCR confidence 66.2; head match 0.49; head OCR confidence 46.7
+- **savings bank jlul~ Gl** — PDF p. 397; Persian OCR confidence 61.8; head match 0.786; head OCR confidence 67.4
+- **savings ratio** — PDF p. 397; Persian OCR confidence 69.2; head match 0.727; head OCR confidence 57.5
+- **savior [S-) .r** — PDF p. 397; Persian OCR confidence 56.4; head match 0.408; head OCR confidence 37.4
+- **saviour** — PDF p. 397; Persian OCR confidence 0; head match 0.49; head OCR confidence 96.4
+- **Saxonlsm** — PDF p. 397; Persian OCR confidence 68.7; head match 0.327; head OCR confidence 28.1
+- **scab** — PDF p. 397; Persian OCR confidence 69.6; head match 0.35; head OCR confidence 21.3
+- **scalable pies** — PDF p. 397; Persian OCR confidence 75.1; head match 0.8; head OCR confidence 72.1
+- **scalar** — PDF p. 397; Persian OCR confidence 40.1; head match 0.442; head OCR confidence 67.2
+- **scalar analysis** — PDF p. 397; Persian OCR confidence 67.2; head match 0.778; head OCR confidence 71.1
+- **scale** — PDF p. 397; Persian OCR confidence 88.3; head match 0.35; head OCR confidence 38.7
+- **scale value Glare** — PDF p. 397; Persian OCR confidence 76.1; head match 0.8; head OCR confidence 68.6
+- **scaling** — PDF p. 397; Persian OCR confidence 60.7; head match 0.338; head OCR confidence 47.6
+- **scandal** — PDF p. 397; Persian OCR confidence 75.0; head match 0.377; head OCR confidence 37.1
+- **scandalization** — PDF p. 397; Persian OCR confidence 59.7; head match 0.857; head OCR confidence 92.0
+- **scandalous** — PDF p. 397; Persian OCR confidence 55.3; head match 0.667; head OCR confidence 92.0
+- **scandalousness** — PDF p. 397; Persian OCR confidence 79.9; head match 0.684; head OCR confidence 15.8
+- **scandal sheet aslglw,** — PDF p. 397; Persian OCR confidence 82.6; head match 0.8; head OCR confidence 74.5
+- **Scandlan** — PDF p. 397; Persian OCR confidence 86.2; head match 0.392; head OCR confidence 33.8
+- **Scandinavian** — PDF p. 397; Persian OCR confidence 62.2; head match 1.0; head OCR confidence 26.3
+- **scansion** — PDF p. 397; Persian OCR confidence 84.4; head match 0.762; head OCR confidence 57.2
+- **scapegoat** — PDF p. 397; Persian OCR confidence 40.6; head match 0.9; head OCR confidence 48.4
+- **scarcity** — PDF p. 397; Persian OCR confidence 89.4; head match 0.762; head OCR confidence 54.6
+- **scarcity value** — PDF p. 397; Persian OCR confidence 90.3; head match 0.812; head OCR confidence 52.7
+- **scatter** — PDF p. 397; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **scatterbrain** — PDF p. 397; Persian OCR confidence 7.8; head match 0.8; head OCR confidence 46.2
+- **scatter diagram** — PDF p. 397; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.5
+- **scenario** — PDF p. 397; Persian OCR confidence 72.3; head match 0.373; head OCR confidence 45.8
+- **scenarist** — PDF p. 397; Persian OCR confidence 69.3; head match 0.361; head OCR confidence 45.8
+- **scene** — PDF p. 397; Persian OCR confidence 76.1; head match 0.292; head OCR confidence 35.9
+- **scepter** — PDF p. 397; Persian OCR confidence 80.1; head match 0.714; head OCR confidence 14.2
+- **sceptic** — PDF p. 397; Persian OCR confidence 77.9; head match 0.824; head OCR confidence 47.4
+- **sceptical** — PDF p. 397; Persian OCR confidence 74.4; head match 0.382; head OCR confidence 30.9
+- **scepticism** — PDF p. 397; Persian OCR confidence 90.5; head match 0.714; head OCR confidence 20.6
+- **sceptre** — PDF p. 397; Persian OCR confidence 77.5; head match 0.467; head OCR confidence 94.7
+- **scheduled** — PDF p. 397; Persian OCR confidence 56.4; head match 1.0; head OCR confidence 77.9
+- **scheduling** — PDF p. 397; Persian OCR confidence 61.0; head match 0.412; head OCR confidence 20.1
+- **schema** — PDF p. 397; Persian OCR confidence 74.6; head match 0.35; head OCR confidence 28.7
+- **schematic** — PDF p. 397; Persian OCR confidence 66.9; head match 0.332; head OCR confidence 20.9
+- **schematlzatlon** — PDF p. 397; Persian OCR confidence 74.2; head match 0.382; head OCR confidence 34.0
+- **schism** — PDF p. 397; Persian OCR confidence 55.3; head match 0.75; head OCR confidence 46.5
+- **schismatic** — PDF p. 397; Persian OCR confidence 90.8; head match 0.8; head OCR confidence 46.5
+- **schizoid** — PDF p. 397; Persian OCR confidence 73.5; head match 0.287; head OCR confidence 26.0
+- **schizophrene** — PDF p. 397; Persian OCR confidence 76.7; head match 0.727; head OCR confidence 26.4
+- **schizophrenic** — PDF p. 397; Persian OCR confidence 56.8; head match 1.0; head OCR confidence 32.4
+- **schizophreniform** — PDF p. 398; Persian OCR confidence 77.7; head match 0.762; head OCR confidence 53.8
+- **schizophrenogenic** — PDF p. 398; Persian OCR confidence 74.1; head match 0.791; head OCR confidence 36.3
+- **schlzothymla** — PDF p. 398; Persian OCR confidence 43.0; head match 0.4; head OCR confidence 42.9
+- **schizothymlc** — PDF p. 398; Persian OCR confidence 90.6; head match 0.667; head OCR confidence 50.6
+- **schizotypal** — PDF p. 398; Persian OCR confidence 83.8; head match 0.759; head OCR confidence 33.8
+- **schlzotype** — PDF p. 398; Persian OCR confidence 85.4; head match 0.692; head OCR confidence 53.9
+- **schizotypy** — PDF p. 398; Persian OCR confidence 57.3; head match 0.692; head OCR confidence 53.9
+- **scholar** — PDF p. 398; Persian OCR confidence 53.9; head match 0.288; head OCR confidence 26.4
+- **scholarshlp** — PDF p. 398; Persian OCR confidence 78.9; head match 0.416; head OCR confidence 19.3
+- **scholastic** — PDF p. 398; Persian OCR confidence 58.5; head match 0.438; head OCR confidence 40.7
+- **scholastic aptitude** — PDF p. 398; Persian OCR confidence 86.9; head match 0.766; head OCR confidence 59.6
+- **scholastlclsm** — PDF p. 398; Persian OCR confidence 71.0; head match 0.395; head OCR confidence 40.4
+- **scholastic theology AW ele** — PDF p. 398; Persian OCR confidence 86.1; head match 0.829; head OCR confidence 79.6
+- **scholium (Gr.)** — PDF p. 398; Persian OCR confidence 63.5; head match 0.632; head OCR confidence 7.7
+- **school** — PDF p. 398; Persian OCR confidence 80.4; head match 0.259; head OCR confidence 37.8
+- **school age** — PDF p. 398; Persian OCR confidence 79.8; head match 0.783; head OCR confidence 54.5
+- **school age population** — PDF p. 398; Persian OCR confidence 63.8; head match 0.745; head OCR confidence 58.7
+- **school board (lA.)** — PDF p. 398; Persian OCR confidence 78.3; head match 0.75; head OCR confidence 51.7
+- **schoolbook** — PDF p. 398; Persian OCR confidence 43.0; head match 0.483; head OCR confidence 51.7
+- **schoolboy** — PDF p. 398; Persian OCR confidence 83.4; head match 0.75; head OCR confidence 35.4
+- **schoolchild** — PDF p. 398; Persian OCR confidence 71.9; head match 0.71; head OCR confidence 42.8
+- **school committee oS2jgc)** — PDF p. 398; Persian OCR confidence 70.0; head match 0.833; head OCR confidence 63.3
+- **schoolfellow** — PDF p. 398; Persian OCR confidence 90.4; head match 0.442; head OCR confidence 17.3
+- **schoolglrl** — PDF p. 398; Persian OCR confidence 73.9; head match 0.692; head OCR confidence 45.3
+- **schoolhouse** — PDF p. 398; Persian OCR confidence 89.9; head match 0.519; head OCR confidence 45.3
+- **schooling ,....,J.l.o** — PDF p. 398; Persian OCR confidence 68.6; head match 0.762; head OCR confidence 44.8
+- **schoolmaster ples** — PDF p. 398; Persian OCR confidence 59.7; head match 0.857; head OCR confidence 64.5
+- **schoolmate** — PDF p. 398; Persian OCR confidence 88.5; head match 0.741; head OCR confidence 42.5
+- **schoolmlstress .r** — PDF p. 398; Persian OCR confidence 39.7; head match 0.684; head OCR confidence 49.6
+- **schoolphobla** — PDF p. 398; Persian OCR confidence 91.4; head match 0.667; head OCR confidence 37.2
+- **school psychology** — PDF p. 398; Persian OCR confidence 79.2; head match 0.727; head OCR confidence 41.2
+- **school refusal** — PDF p. 398; Persian OCR confidence 63.4; head match 0.492; head OCR confidence 45.3
+- **schoolroom** — PDF p. 398; Persian OCR confidence 11.0; head match 0.833; head OCR confidence 34.2
+- **schoolteacher** — PDF p. 398; Persian OCR confidence 79.5; head match 0.519; head OCR confidence 34.2
+- **schoolwork** — PDF p. 398; Persian OCR confidence 84.2; head match 0.769; head OCR confidence 44.4
+- **school year** — PDF p. 398; Persian OCR confidence 89.6; head match 0.769; head OCR confidence 60.0
+- **science we** — PDF p. 398; Persian OCR confidence 0.0; head match 0.875; head OCR confidence 83.7
+- **science education** — PDF p. 398; Persian OCR confidence 63.2; head match 0.467; head OCR confidence 31.8
+- **science fiction** — PDF p. 398; Persian OCR confidence 87.9; head match 0.778; head OCR confidence 50.8
+- **science of man** — PDF p. 398; Persian OCR confidence 76.4; head match 0.41; head OCR confidence 61.2
+- **science of nature orek ple** — PDF p. 398; Persian OCR confidence 88.2; head match 0.811; head OCR confidence 75.5
+- **science of society ancl> ple** — PDF p. 398; Persian OCR confidence 91.7; head match 0.821; head OCR confidence 69.2
+- **sclentlal** — PDF p. 398; Persian OCR confidence 80.3; head match 0.28; head OCR confidence 23.5
+- **scientific** — PDF p. 398; Persian OCR confidence 86.9; head match 0.452; head OCR confidence 29.8
+- **scientlficallsm** — PDF p. 398; Persian OCR confidence 75.9; head match 0.722; head OCR confidence 29.8
+- **scientific empiricism** — PDF p. 398; Persian OCR confidence 76.2; head match 0.816; head OCR confidence 47.7
+- **scientific knowledge** — PDF p. 398; Persian OCR confidence 90.7; head match 0.826; head OCR confidence 54.2
+- **scientific law** — PDF p. 399; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **scientific management** — PDF p. 399; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **scientific manpower ~** — PDF p. 399; Persian OCR confidence 55.6; head match 0.878; head OCR confidence 43.0
+- **scientific method “Gale cg,** — PDF p. 399; Persian OCR confidence 50.3; head match 0.842; head OCR confidence 68.7
+- **scientific rmsconduct** — PDF p. 399; Persian OCR confidence 64.2; head match 0.792; head OCR confidence 34.9
+- **scientific outlook gales** — PDF p. 399; Persian OCR confidence 34.2; head match 0.872; head OCR confidence 68.2
+- **scientific prevision cole Geuty** — PDF p. 399; Persian OCR confidence 76.2; head match 0.809; head OCR confidence 62.6
+- **scientific register cele plisyl;** — PDF p. 399; Persian OCR confidence 85.2; head match 0.783; head OCR confidence 59.9
+- **scientific socialism** — PDF p. 399; Persian OCR confidence 0.0; head match 0.76; head OCR confidence 64.4
+- **scientlsm** — PDF p. 399; Persian OCR confidence 42.2; head match 0.667; head OCR confidence 45.5
+- **scientist** — PDF p. 399; Persian OCR confidence 57.4; head match 0.667; head OCR confidence 45.5
+- **scientlstic** — PDF p. 399; Persian OCR confidence 20.3; head match 0.394; head OCR confidence 51.8
+- **sclollsm** — PDF p. 399; Persian OCR confidence 90.6; head match 0.336; head OCR confidence 44.8
+- **sclolist** — PDF p. 399; Persian OCR confidence 87.7; head match 0.392; head OCR confidence 47.6
+- **sclolistic** — PDF p. 399; Persian OCR confidence 58.0; head match 0.593; head OCR confidence 47.6
+- **scion** — PDF p. 399; Persian OCR confidence 89.1; head match 0.438; head OCR confidence 33.3
+- **sclosophy** — PDF p. 399; Persian OCR confidence 66.6; head match 0.696; head OCR confidence 30.5
+- **scope** — PDF p. 399; Persian OCR confidence 84.2; head match 0.304; head OCR confidence 34.5
+- **scopophlle** — PDF p. 399; Persian OCR confidence 91.1; head match 0.5; head OCR confidence 34.5
+- **scopophllia** — PDF p. 399; Persian OCR confidence 69.0; head match 0.645; head OCR confidence 41.1
+- **scopophillac** — PDF p. 399; Persian OCR confidence 90.6; head match 0.688; head OCR confidence 41.1
+- **scopophlllc** — PDF p. 399; Persian OCR confidence 47.2; head match 0.645; head OCR confidence 30.9
+- **scopophillst** — PDF p. 399; Persian OCR confidence 75.5; head match 0.667; head OCR confidence 57.0
+- **scopophobia** — PDF p. 399; Persian OCR confidence 71.1; head match 0.786; head OCR confidence 45.6
+- **Scot** — PDF p. 399; Persian OCR confidence 88.1; head match 0.255; head OCR confidence 41.2
+- **Scotch** — PDF p. 399; Persian OCR confidence 90.9; head match 0.75; head OCR confidence 48.2
+- **Scotch-lrlsh** — PDF p. 399; Persian OCR confidence 73.6; head match 0.667; head OCR confidence 48.2
+- **Scotchman** — PDF p. 399; Persian OCR confidence 90.7; head match 0.783; head OCR confidence 48.1
+- **Scotlsm** — PDF p. 399; Persian OCR confidence 51.2; head match 0.333; head OCR confidence 48.1
+- **scotomization** — PDF p. 399; Persian OCR confidence 51.0; head match 0.923; head OCR confidence 85.9
+- **scotophobla** — PDF p. 399; Persian OCR confidence 56.3; head match 0.786; head OCR confidence 43.4
+- **Scotticism** — PDF p. 399; Persian OCR confidence 78.7; head match 0.833; head OCR confidence 30.8
+- **scouting** — PDF p. 399; Persian OCR confidence 88.4; head match 0.769; head OCR confidence 21.4
+- **scoutmaster** — PDF p. 399; Persian OCR confidence 0; head match 1.0; head OCR confidence 34.3
+- **screening** — PDF p. 399; Persian OCR confidence 53.3; head match 1.0; head OCR confidence 50.3
+- **screen memory** — PDF p. 399; Persian OCR confidence 62.3; head match 0.467; head OCR confidence 43.4
+- **screenplay** — PDF p. 399; Persian OCR confidence 48.6; head match 1.0; head OCR confidence 95.2
+- **screenwriter** — PDF p. 399; Persian OCR confidence 88.1; head match 0.545; head OCR confidence 95.2
+- **scribe** — PDF p. 399; Persian OCR confidence 65.1; head match 0.262; head OCR confidence 21.6
+- **scrip** — PDF p. 399; Persian OCR confidence 92.0; head match 0.292; head OCR confidence 26.0
+- **scripophilist** — PDF p. 399; Persian OCR confidence 91.4; head match 0.788; head OCR confidence 33.7
+- **script** — PDF p. 399; Persian OCR confidence 78.7; head match 0.333; head OCR confidence 29.6
+- **scriptible text** — PDF p. 399; Persian OCR confidence 89.0; head match 0.718; head OCR confidence 40.4
+- **scriptor** — PDF p. 399; Persian OCR confidence 72.2; head match 0.727; head OCR confidence 33.2
+- **scriptorial** — PDF p. 399; Persian OCR confidence 90.6; head match 0.733; head OCR confidence 34.0
+- **scriptorium (L.)** — PDF p. 399; Persian OCR confidence 91.0; head match 0.774; head OCR confidence 44.4
+- **scriptural** — PDF p. 399; Persian OCR confidence 58.0; head match 0.833; head OCR confidence 50.5
+- **Scripture** — PDF p. 399; Persian OCR confidence 64.2; head match 0.42; head OCR confidence 31.9
+- **scriptwriter** — PDF p. 399; Persian OCR confidence 88.9; head match 0.48; head OCR confidence 35.0
+- **scrivener** — PDF p. 399; Persian OCR confidence 47.0; head match 1.0; head OCR confidence 20.3
+- **scrutiny** — PDF p. 399; Persian OCR confidence 68.5; head match 0.588; head OCR confidence 20.3
+- **Sculptor** — PDF p. 399; Persian OCR confidence 39.7; head match 1.0; head OCR confidence 76.5
+- **sculptress** — PDF p. 399; Persian OCR confidence 62.1; head match 0.769; head OCR confidence 36.2
+- **sculptural** — PDF p. 399; Persian OCR confidence 89.5; head match 0.615; head OCR confidence 36.2
+- **sculpture** — PDF p. 400; Persian OCR confidence 65.1; head match 0.72; head OCR confidence 45.4
+- **Scythlan** — PDF p. 400; Persian OCR confidence 84.8; head match 0.737; head OCR confidence 70.2
+- **Scytho-Dravidian** — PDF p. 400; Persian OCR confidence 79.4; head match 0.789; head OCR confidence 46.1
+- **seaborne sjk,>** — PDF p. 400; Persian OCR confidence 60.0; head match 0.842; head OCR confidence 55.7
+- **seafarer** — PDF p. 400; Persian OCR confidence 38.4; head match 0.8; head OCR confidence 44.5
+- **seafaring** — PDF p. 400; Persian OCR confidence 86.8; head match 0.783; head OCR confidence 47.2
+- **seaman** — PDF p. 400; Persian OCR confidence 88.9; head match 0.75; head OCR confidence 48.2
+- **seamanship 3b.** — PDF p. 400; Persian OCR confidence 91.1; head match 0.818; head OCR confidence 56.1
+- **seasonal employment _..a3.5,3,15(31_** — PDF p. 400; Persian OCR confidence 67.7; head match 0.818; head OCR confidence 62.1
+- **seasonal migration laicjeke** — PDF p. 400; Persian OCR confidence 62.6; head match 0.81; head OCR confidence 66.8
+- **seat** — PDF p. 400; Persian OCR confidence 75.3; head match 0.431; head OCR confidence 43.1
+- **secession** — PDF p. 400; Persian OCR confidence 4.0; head match 0.72; head OCR confidence 43.8
+- **secondary 0:,-; ,u,,-4;.:> .\** — PDF p. 400; Persian OCR confidence 61.4; head match 0.667; head OCR confidence 37.0
+- **secondary data** — PDF p. 400; Persian OCR confidence 78.5; head match 0.743; head OCR confidence 62.5
+- **secondary education** — PDF p. 400; Persian OCR confidence 63.8; head match 1.0; head OCR confidence 88.9
+- **secondary gain** — PDF p. 400; Persian OCR confidence 81.1; head match 0.765; head OCR confidence 67.4
+- **secondary needs** — PDF p. 400; Persian OCR confidence 73.9; head match 0.718; head OCR confidence 55.7
+- **secondary personality** — PDF p. 400; Persian OCR confidence 0; head match 0.952; head OCR confidence 82.1
+- **secondary quality** — PDF p. 400; Persian OCR confidence 46.6; head match 0.8; head OCR confidence 49.3
+- **second language** — PDF p. 400; Persian OCR confidence 68.6; head match 0.824; head OCR confidence 40.5
+- **second nature ggecak** — PDF p. 400; Persian OCR confidence 35.1; head match 0.8; head OCR confidence 64.0
+- **secret ballot wie gl,** — PDF p. 400; Persian OCR confidence 77.6; head match 0.828; head OCR confidence 72.0
+- **secretiveness** — PDF p. 400; Persian OCR confidence 90.7; head match 0.839; head OCR confidence 36.1
+- **Secret partner hy Ss** — PDF p. 400; Persian OCR confidence 54.9; head match 0.867; head OCR confidence 56.9
+- **secret police ite gal,** — PDF p. 400; Persian OCR confidence 86.3; head match 0.8; head OCR confidence 63.1
+- **secret society ley geal** — PDF p. 400; Persian OCR confidence 67.8; head match 0.788; head OCR confidence 67.3
+- **sectarian** — PDF p. 401; Persian OCR confidence 69.2; head match 0.783; head OCR confidence 33.0
+- **sectary** — PDF p. 401; Persian OCR confidence 84.4; head match 0.737; head OCR confidence 49.0
+- **section** — PDF p. 401; Persian OCR confidence 82.1; head match 0.363; head OCR confidence 32.4
+- **sectional** — PDF p. 401; Persian OCR confidence 62.7; head match 0.857; head OCR confidence 51.0
+- **sectionalism** — PDF p. 401; Persian OCR confidence 76.3; head match 0.4; head OCR confidence 25.3
+- **sectlonallst** — PDF p. 401; Persian OCR confidence 75.9; head match 0.714; head OCR confidence 53.2
+- **sectionalizatlon** — PDF p. 401; Persian OCR confidence 59.8; head match 0.688; head OCR confidence 53.2
+- **section head oyl ous,** — PDF p. 401; Persian OCR confidence 66.3; head match 0.786; head OCR confidence 61.5
+- **sector** — PDF p. 401; Persian OCR confidence 67.4; head match 0.382; head OCR confidence 37.0
+- **sector la I** — PDF p. 401; Persian OCR confidence 90.6; head match 0.64; head OCR confidence 37.0
+- **sectorial economy** — PDF p. 401; Persian OCR confidence 67.0; head match 0.625; head OCR confidence 31.0
+- **sector plan** — PDF p. 401; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.5
+- **secular humanism** — PDF p. 401; Persian OCR confidence 53.6; head match 1.0; head OCR confidence 96.6
+- **secularlst** — PDF p. 401; Persian OCR confidence 69.5; head match 0.818; head OCR confidence 49.0
+- **secularlstlc** — PDF p. 401; Persian OCR confidence 71.3; head match 0.714; head OCR confidence 39.5
+- **secularity** — PDF p. 401; Persian OCR confidence 47.0; head match 1.0; head OCR confidence 70.8
+- **secularizatlon** — PDF p. 401; Persian OCR confidence 54.0; head match 0.929; head OCR confidence 35.6
+- **secular mysticism** — PDF p. 401; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **secular trend** — PDF p. 401; Persian OCR confidence 70.1; head match 0.494; head OCR confidence 62.5
+- **secure** — PDF p. 401; Persian OCR confidence 65.0; head match 0.29; head OCR confidence 36.7
+- **securities** — PDF p. 401; Persian OCR confidence 88.4; head match 0.483; head OCR confidence 48.0
+- **security** — PDF p. 401; Persian OCR confidence 68.5; head match 0.415; head OCR confidence 48.0
+- **Security Council** — PDF p. 401; Persian OCR confidence 57.4; head match 0.789; head OCR confidence 51.7
+- **securocrat** — PDF p. 401; Persian OCR confidence 42.2; head match 1.0; head OCR confidence 72.4
+- **sedentarlness** — PDF p. 401; Persian OCR confidence 36.9; head match 0.42; head OCR confidence 35.0
+- **sedentary** — PDF p. 401; Persian OCR confidence 69.2; head match 0.783; head OCR confidence 48.0
+- **sedentary job** — PDF p. 401; Persian OCR confidence 70.9; head match 0.774; head OCR confidence 47.1
+- **sedltionlst J,-.:,** — PDF p. 401; Persian OCR confidence 88.5; head match 0.769; head OCR confidence 38.6
+- **seditious** — PDF p. 401; Persian OCR confidence 62.7; head match 0.783; head OCR confidence 45.5
+- **seditiousness** — PDF p. 401; Persian OCR confidence 82.1; head match 0.433; head OCR confidence 22.7
+- **seducer** — PDF p. 401; Persian OCR confidence 56.8; head match 0.706; head OCR confidence 67.5
+- **seduction** — PDF p. 401; Persian OCR confidence 90.7; head match 0.36; head OCR confidence 20.2
+- **seductive** — PDF p. 401; Persian OCR confidence 0; head match None; head OCR confidence None
+- **seductiveness** — PDF p. 401; Persian OCR confidence 0; head match None; head OCR confidence None
+- **see** — PDF p. 401; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.5
+- **seeming** — PDF p. 401; Persian OCR confidence 9.2; head match 1.0; head OCR confidence 96.4
+- **seeress** — PDF p. 402; Persian OCR confidence 91.0; head match 0.408; head OCR confidence 43.2
+- **segment .r ~** — PDF p. 402; Persian OCR confidence 36.2; head match 0.7; head OCR confidence 52.9
+- **segmental** — PDF p. 402; Persian OCR confidence 68.3; head match 0.371; head OCR confidence 34.8
+- **segmental phonology** — PDF p. 402; Persian OCR confidence 63.4; head match 1.0; head OCR confidence 95.5
+- **segmentary** — PDF p. 402; Persian OCR confidence 0; head match 0.483; head OCR confidence 88.0
+- **segmentation** — PDF p. 402; Persian OCR confidence 54.1; head match 0.8; head OCR confidence 46.3
+- **segregation** — PDF p. 402; Persian OCR confidence 60.1; head match 0.759; head OCR confidence 48.0
+- **segregationist** — PDF p. 402; Persian OCR confidence 61.9; head match 0.408; head OCR confidence 18.1
+- **segregative** — PDF p. 402; Persian OCR confidence 55.3; head match 1.0; head OCR confidence 92.8
+- **seigneur** — PDF p. 402; Persian OCR confidence 0; head match 0.467; head OCR confidence 91.3
+- **seignior** — PDF p. 402; Persian OCR confidence 63.2; head match 0.4; head OCR confidence 32.8
+- **seigniorage ol)! se,** — PDF p. 402; Persian OCR confidence 52.2; head match 0.846; head OCR confidence 67.1
+- **seigniorial** — PDF p. 402; Persian OCR confidence 86.0; head match 0.769; head OCR confidence 67.1
+- **seigniory** — PDF p. 402; Persian OCR confidence 70.8; head match 0.415; head OCR confidence 30.1
+- **seizure** — PDF p. 402; Persian OCR confidence 69.3; head match 0.778; head OCR confidence 48.3
+- **select** — PDF p. 402; Persian OCR confidence 47.3; head match 0.382; head OCR confidence 45.7
+- **selectee** — PDF p. 402; Persian OCR confidence 54.7; head match 0.448; head OCR confidence 49.2
+- **selecting** — PDF p. 402; Persian OCR confidence 68.0; head match 0.406; head OCR confidence 32.3
+- **selection** — PDF p. 402; Persian OCR confidence 59.0; head match 0.857; head OCR confidence 54.5
+- **selective** — PDF p. 402; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **selective learning Aa snd** — PDF p. 402; Persian OCR confidence 82.8; head match 0.821; head OCR confidence 56.1
+- **selective mutism** — PDF p. 402; Persian OCR confidence 64.3; head match 0.769; head OCR confidence 49.5
+- **selectiveness** — PDF p. 402; Persian OCR confidence 23.8; head match 0.467; head OCR confidence 46.5
+- **selectivity ray** — PDF p. 402; Persian OCR confidence 79.3; head match 0.8; head OCR confidence 60.1
+- **selectness** — PDF p. 402; Persian OCR confidence 27.4; head match 0.5; head OCR confidence 60.1
+- **selector sas** — PDF p. 402; Persian OCR confidence 51.0; head match 0.842; head OCR confidence 77.4
+- **self** — PDF p. 402; Persian OCR confidence 61.5; head match 0.5; head OCR confidence 46.8
+- **self-abandoned** — PDF p. 402; Persian OCR confidence 31.6; head match 0.765; head OCR confidence 43.4
+- **self-abandonment** — PDF p. 402; Persian OCR confidence 38.0; head match 1.0; head OCR confidence 23.6
+- **self-abasement** — PDF p. 402; Persian OCR confidence 40.0; head match 0.765; head OCR confidence 4.3
+- **self-abnegating** — PDF p. 402; Persian OCR confidence 29.0; head match 0.903; head OCR confidence 50.9
+- **self-abnegation ~~-.),,.._)** — PDF p. 402; Persian OCR confidence 83.1; head match 0.839; head OCR confidence 50.9
+- **self-absorbed** — PDF p. 402; Persian OCR confidence 71.5; head match 0.8; head OCR confidence 33.6
+- **self-abuse** — PDF p. 402; Persian OCR confidence 89.5; head match 0.72; head OCR confidence 44.7
+- **self-acceptance** — PDF p. 402; Persian OCR confidence 27.3; head match 0.966; head OCR confidence 49.4
+- **self-actualization** — PDF p. 402; Persian OCR confidence 90.9; head match 0.739; head OCR confidence 25.9
+- **self-affirmation** — PDF p. 402; Persian OCR confidence 52.9; head match 0.833; head OCR confidence 28.4
+- **Self-aggrandizing MEAS)** — PDF p. 402; Persian OCR confidence 33.5; head match 0.889; head OCR confidence 58.6
+- **self-alienation** — PDF p. 402; Persian OCR confidence 54.1; head match 0.903; head OCR confidence 48.0
+- **self-analysis** — PDF p. 402; Persian OCR confidence 89.5; head match 0.8; head OCR confidence 43.2
+- **self-analytic(-al)** — PDF p. 402; Persian OCR confidence 50.8; head match 0.757; head OCR confidence 36.3
+- **self-annlhilatlon** — PDF p. 402; Persian OCR confidence 68.1; head match 0.757; head OCR confidence 31.5
+- **self-apotheosis** — PDF p. 402; Persian OCR confidence 29.4; head match 1.0; head OCR confidence 31.5
+- **self-appointed** — PDF p. 402; Persian OCR confidence 0; head match 1.0; head OCR confidence 50.8
+- **self-appraisal** — PDF p. 402; Persian OCR confidence 81.9; head match 0.788; head OCR confidence 49.7
+- **self-asserting** — PDF p. 402; Persian OCR confidence 62.1; head match 0.812; head OCR confidence 46.1
+- **self-assertive .r** — PDF p. 402; Persian OCR confidence 71.1; head match 0.788; head OCR confidence 40.3
+- **selt-asslstance** — PDF p. 402; Persian OCR confidence 91.3; head match 0.727; head OCR confidence 10.3
+- **self-assurance** — PDF p. 403; Persian OCR confidence 84.1; head match 0.743; head OCR confidence 43.9
+- **self-assured** — PDF p. 403; Persian OCR confidence 69.4; head match 0.759; head OCR confidence 69.1
+- **self-aware** — PDF p. 403; Persian OCR confidence 62.3; head match 0.72; head OCR confidence 50.2
+- **self-awareness** — PDF p. 403; Persian OCR confidence 82.0; head match 0.788; head OCR confidence 34.4
+- **self-centered** — PDF p. 403; Persian OCR confidence 70.1; head match 0.454; head OCR confidence 32.1
+- **self-centeredness** — PDF p. 403; Persian OCR confidence 63.9; head match 0.727; head OCR confidence 35.1
+- **self-command** — PDF p. 403; Persian OCR confidence 89.9; head match 0.815; head OCR confidence 43.6
+- **self-complacency** — PDF p. 403; Persian OCR confidence 2.8; head match 0.811; head OCR confidence 46.0
+- **self-complacent** — PDF p. 403; Persian OCR confidence 46.8; head match 0.848; head OCR confidence 40.7
+- **self-concentration** — PDF p. 403; Persian OCR confidence 55.6; head match 0.895; head OCR confidence 48.4
+- **self-concept** — PDF p. 403; Persian OCR confidence 16.2; head match 0.786; head OCR confidence 48.3
+- **self-conception** — PDF p. 403; Persian OCR confidence 40.1; head match 0.839; head OCR confidence 48.3
+- **self-concern** — PDF p. 403; Persian OCR confidence 87.9; head match 0.818; head OCR confidence 26.1
+- **self-concerned** — PDF p. 403; Persian OCR confidence 45.7; head match 1.0; head OCR confidence 91.4
+- **self-confessed** — PDF p. 403; Persian OCR confidence 65.3; head match 0.788; head OCR confidence 48.1
+- **self-confidence ol s** — PDF p. 403; Persian OCR confidence 45.7; head match 0.903; head OCR confidence 59.9
+- **self-conscious** — PDF p. 403; Persian OCR confidence 47.3; head match 0.722; head OCR confidence 41.4
+- **self-consciousness** — PDF p. 403; Persian OCR confidence 74.5; head match 0.829; head OCR confidence 45.6
+- **self-contained** — PDF p. 403; Persian OCR confidence 69.2; head match 0.743; head OCR confidence 43.6
+- **self-containment** — PDF p. 403; Persian OCR confidence 89.9; head match 0.75; head OCR confidence 8.9
+- **self-contemplatlve** — PDF p. 403; Persian OCR confidence 81.9; head match 0.744; head OCR confidence 31.6
+- **self-content** — PDF p. 403; Persian OCR confidence 68.8; head match 0.733; head OCR confidence 45.6
+- **self-contentment** — PDF p. 403; Persian OCR confidence 11.3; head match 0.769; head OCR confidence 8.0
+- **self-contradlctlon..sµ.:,s>** — PDF p. 403; Persian OCR confidence 92.3; head match 0.829; head OCR confidence 8.3
+- **self-control** — PDF p. 403; Persian OCR confidence 88.4; head match 0.376; head OCR confidence 28.6
+- **self-controlled** — PDF p. 403; Persian OCR confidence 87.9; head match 0.467; head OCR confidence 11.9
+- **self-created** — PDF p. 403; Persian OCR confidence 85.4; head match 0.733; head OCR confidence 18.8
+- **self-creating** — PDF p. 403; Persian OCR confidence 60.7; head match 0.774; head OCR confidence 26.8
+- **self-creation** — PDF p. 403; Persian OCR confidence 90.6; head match 0.75; head OCR confidence 12.3
+- **self-crltlcal** — PDF p. 403; Persian OCR confidence 60.7; head match 0.833; head OCR confidence 41.2
+- **self-cultlvatlon** — PDF p. 403; Persian OCR confidence 50.7; head match 0.765; head OCR confidence 32.7
+- **self-deceit** — PDF p. 403; Persian OCR confidence 91.1; head match 0.643; head OCR confidence 24.3
+- **self-deceiving** — PDF p. 403; Persian OCR confidence 63.0; head match 0.788; head OCR confidence 23.0
+- **self-deception** — PDF p. 403; Persian OCR confidence 91.4; head match 0.765; head OCR confidence 32.5
+- **self-defeating** — PDF p. 403; Persian OCR confidence 88.3; head match 0.839; head OCR confidence 15.1
+- **self-defining** — PDF p. 403; Persian OCR confidence 72.5; head match 0.696; head OCR confidence 81.9
+- **self-delight** — PDF p. 403; Persian OCR confidence 62.1; head match 0.376; head OCR confidence 27.5
+- **self-denial** — PDF p. 403; Persian OCR confidence 59.1; head match 1.0; head OCR confidence 79.1
+- **self-dependence** — PDF p. 403; Persian OCR confidence 75.4; head match 0.824; head OCR confidence 4.6
+- **self-dependent** — PDF p. 403; Persian OCR confidence 40.6; head match 0.765; head OCR confidence 45.1
+- **self-deprecating** — PDF p. 403; Persian OCR confidence 50.9; head match 1.0; head OCR confidence 48.0
+- **self-depreciation** — PDF p. 404; Persian OCR confidence 78.7; head match 0.744; head OCR confidence 33.7
+- **self-destruction** — PDF p. 404; Persian OCR confidence 66.5; head match 0.811; head OCR confidence 45.5
+- **self-destructive Sysop.)** — PDF p. 404; Persian OCR confidence 43.7; head match 0.857; head OCR confidence 57.6
+- **self-destructiveness** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.6
+- **self-determined** — PDF p. 404; Persian OCR confidence 75.7; head match 0.436; head OCR confidence 32.4
+- **self-development** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.0
+- **self-devotedness J.) r.->J.) ,J.) ~;-:,** — PDF p. 404; Persian OCR confidence 0; head match 0.294; head OCR confidence 11.3
+- **self-devotion** — PDF p. 404; Persian OCR confidence 89.3; head match 0.8; head OCR confidence 29.7
+- **self-directed** — PDF p. 404; Persian OCR confidence 54.8; head match 0.75; head OCR confidence 34.8
+- **self-directing Ghd** — PDF p. 404; Persian OCR confidence 91.7; head match 0.828; head OCR confidence 59.1
+- **self-discovery** — PDF p. 404; Persian OCR confidence 87.8; head match 0.492; head OCR confidence 35.2
+- **self-distrust** — PDF p. 404; Persian OCR confidence 77.7; head match 0.75; head OCR confidence 44.9
+- **self-distrustful** — PDF p. 404; Persian OCR confidence 80.7; head match 0.833; head OCR confidence 45.1
+- **self-doubt** — PDF p. 404; Persian OCR confidence 62.2; head match 0.72; head OCR confidence 48.4
+- **self-doubting** — PDF p. 404; Persian OCR confidence 43.4; head match 1.0; head OCR confidence 90.6
+- **self-dynamism** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.1
+- **self-edification** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.3
+- **self-educated** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.6
+- **self-education** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **self-effacement** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.4
+- **self-effacing** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.1
+- **self-employed** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.7
+- **self-employed** — PDF p. 404; Persian OCR confidence 57.6; head match 0.846; head OCR confidence 95.7
+- **self-enclosed** — PDF p. 404; Persian OCR confidence 85.7; head match 0.75; head OCR confidence 18.3
+- **self-esteem** — PDF p. 404; Persian OCR confidence 78.2; head match 0.438; head OCR confidence 45.5
+- **self-estrangement** — PDF p. 404; Persian OCR confidence 53.4; head match 0.889; head OCR confidence 49.7
+- **self-evidence** — PDF p. 404; Persian OCR confidence 42.9; head match 1.0; head OCR confidence 42.6
+- **self-evident** — PDF p. 404; Persian OCR confidence 89.3; head match 0.395; head OCR confidence 2.0
+- **self-exhibition** — PDF p. 404; Persian OCR confidence 91.3; head match 0.824; head OCR confidence 53.0
+- **self-exile** — PDF p. 404; Persian OCR confidence 47.4; head match 0.72; head OCR confidence 41.7
+- **self-existence** — PDF p. 404; Persian OCR confidence 62.4; head match 0.788; head OCR confidence 28.8
+- **self-existent** — PDF p. 404; Persian OCR confidence 46.3; head match 0.688; head OCR confidence 28.8
+- **self-existing** — PDF p. 404; Persian OCR confidence 25.3; head match 0.889; head OCR confidence 38.9
+- **self-explanatory** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 79.3
+- **self-exploration** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 41.7
+- **Self-expression** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 68.6
+- **Self-expressive** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 72.0
+- **self-extension** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 31.5
+- **self-fashioning** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 41.1
+- **Self-financing** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 69.6
+- **self-forgetful** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 47.0
+- **self-forgetfulness** — PDF p. 404; Persian OCR confidence 46.9; head match 0.867; head OCR confidence 47.0
+- **self-fulfillment** — PDF p. 404; Persian OCR confidence 66.1; head match 0.447; head OCR confidence 8.7
+- **self-given** — PDF p. 404; Persian OCR confidence 74.9; head match 0.609; head OCR confidence 92.5
+- **self-giving** — PDF p. 404; Persian OCR confidence 90.5; head match 0.714; head OCR confidence 42.3
+- **self-glorification** — PDF p. 404; Persian OCR confidence 0; head match 0.919; head OCR confidence 87.4
+- **self-governed** — PDF p. 404; Persian OCR confidence 89.9; head match 0.774; head OCR confidence 42.9
+- **self-governing** — PDF p. 404; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.5
+- **self-government tevlw DI.)** — PDF p. 405; Persian OCR confidence 73.5; head match 0.8; head OCR confidence 55.5
+- **self-hatred** — PDF p. 405; Persian OCR confidence 81.7; head match 0.8; head OCR confidence 46.4
+- **self-healing .r** — PDF p. 405; Persian OCR confidence 53.7; head match 0.444; head OCR confidence 46.4
+- **self-help** — PDF p. 405; Persian OCR confidence 84.4; head match 0.467; head OCR confidence 38.4
+- **selfhood** — PDF p. 405; Persian OCR confidence 59.7; head match 1.0; head OCR confidence 96.1
+- **self-humiliation** — PDF p. 405; Persian OCR confidence 60.4; head match 0.857; head OCR confidence 40.6
+- **self-identical** — PDF p. 405; Persian OCR confidence 45.8; head match 0.923; head OCR confidence 91.6
+- **self-identity** — PDF p. 405; Persian OCR confidence 68.4; head match 0.8; head OCR confidence 49.0
+- **self-illumination** — PDF p. 405; Persian OCR confidence 25.8; head match 0.8; head OCR confidence 52.0
+- **self-image** — PDF p. 405; Persian OCR confidence 26.5; head match 0.75; head OCR confidence 47.9
+- **self-importance** — PDF p. 405; Persian OCR confidence 51.3; head match 0.778; head OCR confidence 36.5
+- **self-important** — PDF p. 405; Persian OCR confidence 80.6; head match 0.765; head OCR confidence 43.1
+- **self-improvement** — PDF p. 405; Persian OCR confidence 40.4; head match 0.833; head OCR confidence 43.8
+- **self-lncluslve** — PDF p. 405; Persian OCR confidence 71.9; head match 0.667; head OCR confidence 40.3
+- **self-induced** — PDF p. 405; Persian OCR confidence 9.7; head match 0.759; head OCR confidence 41.2
+- **self-indulgence** — PDF p. 405; Persian OCR confidence 86.0; head match 0.737; head OCR confidence 40.7
+- **self-initiated** — PDF p. 405; Persian OCR confidence 83.5; head match 0.423; head OCR confidence 29.1
+- **self-instructed** — PDF p. 405; Persian OCR confidence 89.8; head match 0.778; head OCR confidence 35.6
+- **self-instruction** — PDF p. 405; Persian OCR confidence 92.4; head match 0.811; head OCR confidence 46.1
+- **self-instructlonal** — PDF p. 405; Persian OCR confidence 69.8; head match 0.727; head OCR confidence 38.6
+- **self-Insurance** — PDF p. 405; Persian OCR confidence 76.5; head match 0.492; head OCR confidence 47.5
+- **self-interested** — PDF p. 405; Persian OCR confidence 86.0; head match 0.49; head OCR confidence 41.3
+- **self-inventory** — PDF p. 405; Persian OCR confidence 62.3; head match 1.0; head OCR confidence 91.4
+- **self-Involved** — PDF p. 405; Persian OCR confidence 88.8; head match 0.774; head OCR confidence 45.9
+- **selfish** — PDF p. 405; Persian OCR confidence 68.0; head match 0.306; head OCR confidence 24.4
+- **self-justification** — PDF p. 405; Persian OCR confidence 68.2; head match 0.773; head OCR confidence 26.8
+- **self-justifying** — PDF p. 405; Persian OCR confidence 65.2; head match 0.8; head OCR confidence 26.3
+- **selfless** — PDF p. 405; Persian OCR confidence 52.3; head match 0.842; head OCR confidence 44.2
+- **selflessness** — PDF p. 405; Persian OCR confidence 51.9; head match 1.0; head OCR confidence 24.5
+- **self-limitation** — PDF p. 405; Persian OCR confidence 29.0; head match 0.903; head OCR confidence 48.9
+- **self-limiting** — PDF p. 405; Persian OCR confidence 87.2; head match 0.48; head OCR confidence 6.2
+- **self-liquidatlng** — PDF p. 405; Persian OCR confidence 90.5; head match 0.778; head OCR confidence 33.5
+- **self-love** — PDF p. 405; Persian OCR confidence 91.3; head match 0.431; head OCR confidence 27.8
+- **self-lovlng** — PDF p. 405; Persian OCR confidence 89.3; head match 0.643; head OCR confidence 39.7
+- **self-made** — PDF p. 405; Persian OCR confidence 87.0; head match 0.467; head OCR confidence 22.5
+- **self-maintaining** — PDF p. 405; Persian OCR confidence 93.0; head match 0.7; head OCR confidence 15.4
+- **self-maintenance** — PDF p. 405; Persian OCR confidence 91.4; head match 0.477; head OCR confidence 5.4
+- **self-making** — PDF p. 405; Persian OCR confidence 91.8; head match 0.741; head OCR confidence 27.2
+- **self-managed** — PDF p. 405; Persian OCR confidence 76.3; head match 0.759; head OCR confidence 0.0
+- **self-management** — PDF p. 405; Persian OCR confidence 62.1; head match 0.903; head OCR confidence 37.8
+- **self-mastery** — PDF p. 405; Persian OCR confidence 0; head match 1.0; head OCR confidence 32.0
+- **self-mortification** — PDF p. 405; Persian OCR confidence 0; head match 1.0; head OCR confidence 52.5
+- **self-motion** — PDF p. 405; Persian OCR confidence 0; head match 1.0; head OCR confidence 68.9
+- **self-motivated** — PDF p. 405; Persian OCR confidence 0; head match 1.0; head OCR confidence 21.4
+- **Self-motivation** — PDF p. 405; Persian OCR confidence 0; head match 1.0; head OCR confidence 77.3
+- **self-movement** — PDF p. 405; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.1
+- **selfness** — PDF p. 406; Persian OCR confidence 57.8; head match 0.35; head OCR confidence 30.6
+- **self-object** — PDF p. 406; Persian OCR confidence 72.3; head match 0.741; head OCR confidence 47.5
+- **self-objectification** — PDF p. 406; Persian OCR confidence 60.4; head match 0.864; head OCR confidence 42.7
+- **self-observation** — PDF p. 406; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.3
+- **self-opinion** — PDF p. 406; Persian OCR confidence 3.8; head match 0.786; head OCR confidence 41.3
+- **self-organized** — PDF p. 406; Persian OCR confidence 64.2; head match 0.815; head OCR confidence 96.5
+- **self-originating** — PDF p. 406; Persian OCR confidence 68.7; head match 0.833; head OCR confidence 45.1
+- **self-perception** — PDF p. 406; Persian OCR confidence 60.0; head match 0.8; head OCR confidence 50.7
+- **self-perpetuating** — PDF p. 406; Persian OCR confidence 50.6; head match 0.8; head OCR confidence 46.4
+- **self-pity** — PDF p. 406; Persian OCR confidence 68.1; head match 0.415; head OCR confidence 35.1
+- **self-portrait** — PDF p. 406; Persian OCR confidence 51.5; head match 0.452; head OCR confidence 35.1
+- **self-positing** — PDF p. 406; Persian OCR confidence 60.2; head match 0.431; head OCR confidence 29.8
+- **self-possessed** — PDF p. 406; Persian OCR confidence 87.8; head match 0.743; head OCR confidence 44.9
+- **self-possession** — PDF p. 406; Persian OCR confidence 87.1; head match 0.737; head OCR confidence 45.7
+- **self-presence** — PDF p. 406; Persian OCR confidence 46.1; head match 0.8; head OCR confidence 39.8
+- **self-preservation brs thos** — PDF p. 406; Persian OCR confidence 71.2; head match 0.821; head OCR confidence 55.4
+- **self-propagative** — PDF p. 406; Persian OCR confidence 79.0; head match 0.811; head OCR confidence 45.8
+- **self-protection** — PDF p. 406; Persian OCR confidence 78.0; head match 0.8; head OCR confidence 54.8
+- **self psychology** — PDF p. 406; Persian OCR confidence 49.2; head match 0.737; head OCR confidence 55.2
+- **self-punishment** — PDF p. 406; Persian OCR confidence 39.8; head match 0.778; head OCR confidence 46.7
+- **self-purification** — PDF p. 406; Persian OCR confidence 65.6; head match 0.821; head OCR confidence 45.2
+- **self-questioning Lujogs** — PDF p. 406; Persian OCR confidence 32.8; head match 0.833; head OCR confidence 72.9
+- **self-rating** — PDF p. 406; Persian OCR confidence 57.3; head match 0.483; head OCR confidence 33.5
+- **self-realization** — PDF p. 406; Persian OCR confidence 34.4; head match 0.529; head OCR confidence 33.5
+- **self-reference** — PDF p. 406; Persian OCR confidence 52.0; head match 1.0; head OCR confidence 71.6
+- **self-reference** — PDF p. 406; Persian OCR confidence 43.0; head match 0.786; head OCR confidence 71.6
+- **self-referentiality** — PDF p. 406; Persian OCR confidence 39.8; head match 0.818; head OCR confidence 44.0
+- **self-reflection** — PDF p. 406; Persian OCR confidence 63.8; head match 1.0; head OCR confidence 39.2
+- **self-reflexive** — PDF p. 406; Persian OCR confidence 15.5; head match 0.828; head OCR confidence 39.6
+- **self-regard** — PDF p. 406; Persian OCR confidence 58.2; head match 0.467; head OCR confidence 30.9
+- **self-reliance** — PDF p. 406; Persian OCR confidence 20.4; head match 1.0; head OCR confidence 25.9
+- **self-reliant** — PDF p. 406; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.8
+- **Self-renunciation** — PDF p. 406; Persian OCR confidence 0; head match 1.0; head OCR confidence 71.5
+- **self-reproachful** — PDF p. 406; Persian OCR confidence 55.8; head match 0.769; head OCR confidence 1.4
+- **self-respecting** — PDF p. 406; Persian OCR confidence 83.0; head match 0.828; head OCR confidence 36.0
+- **self-restraint** — PDF p. 406; Persian OCR confidence 89.4; head match 0.839; head OCR confidence 25.6
+- **self-revealing** — PDF p. 406; Persian OCR confidence 58.7; head match 0.839; head OCR confidence 25.4
+- **self-revelation** — PDF p. 406; Persian OCR confidence 57.7; head match 0.778; head OCR confidence 37.1
+- **self-righteousness** — PDF p. 406; Persian OCR confidence 41.3; head match 0.919; head OCR confidence 26.8
+- **self-rule** — PDF p. 406; Persian OCR confidence 91.6; head match 0.487; head OCR confidence 12.4
+- **self-sacrificing** — PDF p. 406; Persian OCR confidence 77.8; head match 0.839; head OCR confidence 40.6
+- **self-service** — PDF p. 407; Persian OCR confidence 60.0; head match 0.786; head OCR confidence 43.3
+- **self-slaughter** — PDF p. 407; Persian OCR confidence 49.3; head match 0.812; head OCR confidence 45.5
+- **self-stimulation** — PDF p. 407; Persian OCR confidence 77.0; head match 0.75; head OCR confidence 45.4
+- **self-study** — PDF p. 407; Persian OCR confidence 60.1; head match 0.72; head OCR confidence 48.3
+- **self-subsistence** — PDF p. 407; Persian OCR confidence 26.0; head match 0.833; head OCR confidence 45.0
+- **self-sufficiency** — PDF p. 407; Persian OCR confidence 0.0; head match 0.833; head OCR confidence 50.2
+- **self-sufficient** — PDF p. 407; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.8
+- **self-suggestion** — PDF p. 407; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **self-support** — PDF p. 407; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.3
+- **self-supporting** — PDF p. 407; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **self-sustained** — PDF p. 407; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **self-sustained** — PDF p. 407; Persian OCR confidence 57.8; head match 0.815; head OCR confidence 96.2
+- **self-taught** — PDF p. 407; Persian OCR confidence 89.4; head match 0.714; head OCR confidence 48.4
+- **self-teaching** — PDF p. 407; Persian OCR confidence 92.3; head match 0.75; head OCR confidence 45.4
+- **self-test** — PDF p. 407; Persian OCR confidence 87.8; head match 0.448; head OCR confidence 47.0
+- **self-testing** — PDF p. 407; Persian OCR confidence 91.5; head match 0.759; head OCR confidence 56.9
+- **self-thinking** — PDF p. 407; Persian OCR confidence 71.8; head match 0.774; head OCR confidence 45.7
+- **self-transcendence** — PDF p. 407; Persian OCR confidence 36.0; head match 1.0; head OCR confidence 89.5
+- **self-transcending** — PDF p. 407; Persian OCR confidence 25.0; head match 1.0; head OCR confidence 84.7
+- **self-trust** — PDF p. 407; Persian OCR confidence 76.0; head match 0.45; head OCR confidence 43.5
+- **self-will** — PDF p. 407; Persian OCR confidence 66.2; head match 0.386; head OCR confidence 37.0
+- **self-willed** — PDF p. 407; Persian OCR confidence 78.1; head match 0.467; head OCR confidence 46.2
+- **self-willing** — PDF p. 407; Persian OCR confidence 89.5; head match 0.581; head OCR confidence 46.2
+- **seller** — PDF p. 407; Persian OCR confidence 91.2; head match 0.467; head OCR confidence 51.5
+- **sellers' monopoly** — PDF p. 407; Persian OCR confidence 67.3; head match 0.732; head OCR confidence 36.4
+- **selling price** — PDF p. 407; Persian OCR confidence 73.9; head match 0.75; head OCR confidence 50.2
+- **Semanteme** — PDF p. 407; Persian OCR confidence 52.5; head match 1.0; head OCR confidence 65.4
+- **semantic category** — PDF p. 407; Persian OCR confidence 87.0; head match 0.711; head OCR confidence 50.8
+- **semantic change** — PDF p. 407; Persian OCR confidence 77.8; head match 0.456; head OCR confidence 39.2
+- **semantic complex** — PDF p. 407; Persian OCR confidence 84.5; head match 0.488; head OCR confidence 58.6
+- **semantic constituent** — PDF p. 407; Persian OCR confidence 62.6; head match 0.864; head OCR confidence 48.0
+- **semantic criterion** — PDF p. 407; Persian OCR confidence 71.0; head match 0.723; head OCR confidence 50.6
+- **semantic deviation** — PDF p. 407; Persian OCR confidence 73.1; head match 0.756; head OCR confidence 55.5
+- **semantic distinction** — PDF p. 407; Persian OCR confidence 86.4; head match 0.809; head OCR confidence 35.5
+- **semantic feature** — PDF p. 407; Persian OCR confidence 88.6; head match 0.477; head OCR confidence 32.3
+- **semantic fleld** — PDF p. 407; Persian OCR confidence 82.3; head match 0.42; head OCR confidence 34.9
+- **semantlcian** — PDF p. 407; Persian OCR confidence 90.9; head match 0.667; head OCR confidence 37.6
+- **semanticist** — PDF p. 407; Persian OCR confidence 88.7; head match 0.759; head OCR confidence 18.4
+- **semanticlty** — PDF p. 407; Persian OCR confidence 59.8; head match 0.667; head OCR confidence 56.8
+- **semantic load** — PDF p. 407; Persian OCR confidence 70.0; head match 0.8; head OCR confidence 41.3
+- **semantic paraphasia las** — PDF p. 407; Persian OCR confidence 58.4; head match 0.923; head OCR confidence 68.0
+- **semantic relations** — PDF p. 407; Persian OCR confidence 90.0; head match 0.723; head OCR confidence 52.9
+- **Semantic representation oles o5.5;L (L;** — PDF p. 407; Persian OCR confidence 81.7; head match 0.793; head OCR confidence 57.5
+- **semantics** — PDF p. 407; Persian OCR confidence 91.6; head match 0.434; head OCR confidence 52.7
+- **semaphore** — PDF p. 407; Persian OCR confidence 91.1; head match 0.467; head OCR confidence 24.0
+- **semaphorlc** — PDF p. 408; Persian OCR confidence 35.8; head match 0.714; head OCR confidence 46.1
+- **semasiologlcal ci->L.:, !'~** — PDF p. 408; Persian OCR confidence 0; head match 0.682; head OCR confidence 24.9
+- **semasiologist** — PDF p. 408; Persian OCR confidence 91.8; head match 0.492; head OCR confidence 45.8
+- **semasiology** — PDF p. 408; Persian OCR confidence 90.1; head match 0.467; head OCR confidence 47.1
+- **sematic** — PDF p. 408; Persian OCR confidence 57.6; head match 1.0; head OCR confidence 92.5
+- **semblable** — PDF p. 408; Persian OCR confidence 78.7; head match 0.72; head OCR confidence 57.2
+- **semblance .r ,),.._;** — PDF p. 408; Persian OCR confidence 70.3; head match 0.341; head OCR confidence 24.4
+- **semanteme** — PDF p. 408; Persian OCR confidence 0; head match 0.818; head OCR confidence 92.1
+- **semeiology** — PDF p. 408; Persian OCR confidence 0; head match 0.483; head OCR confidence 76.0
+- **semeiotic** — PDF p. 408; Persian OCR confidence 0; head match 0.519; head OCR confidence 76.0
+- **semeiotics** — PDF p. 408; Persian OCR confidence 0; head match 0.483; head OCR confidence 92.8
+- **sememe obs** — PDF p. 408; Persian OCR confidence 58.7; head match 0.8; head OCR confidence 76.0
+- **semester** — PDF p. 408; Persian OCR confidence 63.1; head match 0.588; head OCR confidence 76.0
+- **semiabstract** — PDF p. 408; Persian OCR confidence 60.9; head match 0.494; head OCR confidence 30.7
+- **semlabstractlon** — PDF p. 408; Persian OCR confidence 38.4; head match 0.722; head OCR confidence 62.1
+- **semiannual** — PDF p. 408; Persian OCR confidence 64.7; head match 0.9; head OCR confidence 96.3
+- **semiaquatic** — PDF p. 408; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.9
+- **semiarid** — PDF p. 408; Persian OCR confidence 75.0; head match 0.632; head OCR confidence 91.9
+- **semiaridity** — PDF p. 408; Persian OCR confidence 54.1; head match 0.733; head OCR confidence 28.5
+- **semiautomated** — PDF p. 408; Persian OCR confidence 90.6; head match 0.765; head OCR confidence 48.1
+- **semiautomatic** — PDF p. 408; Persian OCR confidence 53.3; head match 0.743; head OCR confidence 50.0
+- **semiautonomous** — PDF p. 408; Persian OCR confidence 89.8; head match 0.8; head OCR confidence 45.2
+- **semlcapltalist** — PDF p. 408; Persian OCR confidence 30.5; head match 0.686; head OCR confidence 48.5
+- **semicentennlal** — PDF p. 408; Persian OCR confidence 79.0; head match 0.765; head OCR confidence 49.1
+- **semi civilized** — PDF p. 408; Persian OCR confidence 25.9; head match 0.867; head OCR confidence 46.1
+- **semlcolony** — PDF p. 408; Persian OCR confidence 35.2; head match 0.444; head OCR confidence 47.9
+- **semiconscious** — PDF p. 408; Persian OCR confidence 42.2; head match 0.812; head OCR confidence 45.5
+- **semiconsclousness** — PDF p. 408; Persian OCR confidence 29.0; head match 0.8; head OCR confidence 44.6
+- **semiconsonant** — PDF p. 408; Persian OCR confidence 77.8; head match 0.765; head OCR confidence 61.7
+- **semidesert** — PDF p. 408; Persian OCR confidence 85.8; head match 0.769; head OCR confidence 60.0
+- **semidiurnal** — PDF p. 408; Persian OCR confidence 79.2; head match 0.519; head OCR confidence 60.0
+- **semidivlne** — PDF p. 408; Persian OCR confidence 84.3; head match 0.72; head OCR confidence 46.3
+- **semldocumentary** — PDF p. 408; Persian OCR confidence 64.2; head match 0.456; head OCR confidence 31.9
+- **semidynamic Ligaei** — PDF p. 408; Persian OCR confidence 82.0; head match 0.786; head OCR confidence 74.2
+- **semlemployment** — PDF p. 408; Persian OCR confidence 80.9; head match 0.703; head OCR confidence 46.2
+- **semiflnlshed** — PDF p. 408; Persian OCR confidence 68.5; head match 0.412; head OCR confidence 26.6
+- **semiformal** — PDF p. 408; Persian OCR confidence 62.9; head match 0.483; head OCR confidence 25.3
+- **semilinguallsm** — PDF p. 408; Persian OCR confidence 91.3; head match 0.727; head OCR confidence 47.6
+- **semllingulstlc** — PDF p. 408; Persian OCR confidence 83.0; head match 0.579; head OCR confidence 23.3
+- **semi literate** — PDF p. 408; Persian OCR confidence 90.0; head match 0.382; head OCR confidence 37.3
+- **semimercantlle** — PDF p. 408; Persian OCR confidence 91.2; head match 0.722; head OCR confidence 46.1
+- **semlmonthly** — PDF p. 408; Persian OCR confidence 64.1; head match 0.69; head OCR confidence 45.8
+- **seminar** — PDF p. 408; Persian OCR confidence 50.2; head match 0.737; head OCR confidence 49.7
+- **seminarian** — PDF p. 408; Persian OCR confidence 88.9; head match 0.636; head OCR confidence 49.7
+- **seminary** — PDF p. 408; Persian OCR confidence 81.1; head match 0.762; head OCR confidence 58.6
+- **semlnomad_** — PDF p. 408; Persian OCR confidence 55.5; head match 0.64; head OCR confidence 42.7
+- **semlnomadlc** — PDF p. 408; Persian OCR confidence 74.7; head match 0.692; head OCR confidence 59.4
+- **semiofficial** — PDF p. 408; Persian OCR confidence 21.0; head match 0.857; head OCR confidence 30.5
+- **semlology** — PDF p. 408; Persian OCR confidence 82.4; head match 0.386; head OCR confidence 29.7
+- **semlosls** — PDF p. 408; Persian OCR confidence 0; head match 0.75; head OCR confidence 60.6
+- **semiotlc(-al)** — PDF p. 408; Persian OCR confidence 73.1; head match 0.643; head OCR confidence 34.9
+- **semiotic language** — PDF p. 408; Persian OCR confidence 41.3; head match 0.8; head OCR confidence 54.8
+- **semiotics** — PDF p. 408; Persian OCR confidence 42.9; head match 0.382; head OCR confidence 54.8
+- **semlpathologlcal** — PDF p. 408; Persian OCR confidence 45.9; head match 0.7; head OCR confidence 37.8
+- **semlpolltlcal** — PDF p. 408; Persian OCR confidence 55.0; head match 0.667; head OCR confidence 33.4
+- **semiprofesslonal** — PDF p. 408; Persian OCR confidence 81.7; head match 0.811; head OCR confidence 30.5
+- **semlrent** — PDF p. 408; Persian OCR confidence 56.6; head match 0.363; head OCR confidence 35.3
+- **semis killed** — PDF p. 408; Persian OCR confidence 81.7; head match 0.759; head OCR confidence 32.4
+- **semlstable** — PDF p. 408; Persian OCR confidence 86.9; head match 0.75; head OCR confidence 30.1
+- **semistatlc** — PDF p. 408; Persian OCR confidence 48.7; head match 0.72; head OCR confidence 39.1
+- **Semite** — PDF p. 408; Persian OCR confidence 76.8; head match 0.4; head OCR confidence 39.1
+- **Semitic** — PDF p. 408; Persian OCR confidence 78.7; head match 0.327; head OCR confidence 55.1
+- **Semitic** — PDF p. 408; Persian OCR confidence 92.6; head match 0.445; head OCR confidence 35.8
+- **Semitics** — PDF p. 408; Persian OCR confidence 90.7; head match 0.727; head OCR confidence 30.6
+- **Semitism** — PDF p. 409; Persian OCR confidence 67.0; head match 0.487; head OCR confidence 30.8
+- **semitropical** — PDF p. 409; Persian OCR confidence 52.8; head match 0.774; head OCR confidence 46.3
+- **semi-vowel** — PDF p. 409; Persian OCR confidence 79.3; head match 0.467; head OCR confidence 33.7
+- **semiweekly** — PDF p. 409; Persian OCR confidence 80.7; head match 0.483; head OCR confidence 46.3
+- **semiyearly** — PDF p. 409; Persian OCR confidence 74.2; head match 0.8; head OCR confidence 49.6
+- **sempiternal** — PDF p. 409; Persian OCR confidence 62.9; head match 0.733; head OCR confidence 42.1
+- **sempiternity** — PDF p. 409; Persian OCR confidence 64.6; head match 0.8; head OCR confidence 46.1
+- **senate** — PDF p. 409; Persian OCR confidence 83.2; head match 0.4; head OCR confidence 44.9
+- **senator vgs** — PDF p. 409; Persian OCR confidence 89.0; head match 0.824; head OCR confidence 71.7
+- **senatorlal** — PDF p. 409; Persian OCR confidence 89.9; head match 0.7; head OCR confidence 71.7
+- **senatorial district** — PDF p. 409; Persian OCR confidence 87.5; head match 0.75; head OCR confidence 53.0
+- **senectitude** — PDF p. 409; Persian OCR confidence 36.8; head match 1.0; head OCR confidence 91.7
+- **senescence** — PDF p. 409; Persian OCR confidence 45.7; head match 0.769; head OCR confidence 48.3
+- **senescent Sg** — PDF p. 409; Persian OCR confidence 30.8; head match 0.9; head OCR confidence 74.1
+- **senile** — PDF p. 409; Persian OCR confidence 44.9; head match 0.35; head OCR confidence 39.5
+- **senile dementia She ye (ly** — PDF p. 409; Persian OCR confidence 70.8; head match 0.8; head OCR confidence 56.1
+- **senility** — PDF p. 409; Persian OCR confidence 52.1; head match 0.386; head OCR confidence 48.4
+- **senior** — PDF p. 409; Persian OCR confidence 85.6; head match 0.323; head OCR confidence 28.0
+- **senior high school** — PDF p. 409; Persian OCR confidence 48.4; head match 0.762; head OCR confidence 57.1
+- **seniority** — PDF p. 409; Persian OCR confidence 32.0; head match 0.467; head OCR confidence 46.0
+- **senior year** — PDF p. 409; Persian OCR confidence 71.4; head match 0.359; head OCR confidence 31.7
+- **sensate** — PDF p. 409; Persian OCR confidence 66.8; head match 0.426; head OCR confidence 46.2
+- **sensated** — PDF p. 409; Persian OCR confidence 57.0; head match 0.487; head OCR confidence 46.1
+- **sensation** — PDF p. 409; Persian OCR confidence 63.9; head match 0.434; head OCR confidence 33.5
+- **sensation al** — PDF p. 409; Persian OCR confidence 72.1; head match 0.44; head OCR confidence 37.0
+- **sensationalism** — PDF p. 409; Persian OCR confidence 88.6; head match 0.8; head OCR confidence 53.1
+- **sensationalistic** — PDF p. 409; Persian OCR confidence 75.1; head match 0.78; head OCR confidence 27.5
+- **sense** — PDF p. 409; Persian OCR confidence 60.6; head match 0.241; head OCR confidence 26.7
+- **sense cognition wir sks** — PDF p. 409; Persian OCR confidence 28.6; head match 0.824; head OCR confidence 62.4
+- **sense data** — PDF p. 409; Persian OCR confidence 80.9; head match 0.382; head OCR confidence 45.8
+- **sense datum** — PDF p. 409; Persian OCR confidence 71.4; head match 0.452; head OCR confidence 41.2
+- **sense group** — PDF p. 409; Persian OCR confidence 74.2; head match 0.452; head OCR confidence 50.2
+- **sense impression** — PDF p. 409; Persian OCR confidence 45.6; head match 1.0; head OCR confidence 85.1
+- **sense intuition** — PDF p. 409; Persian OCR confidence 53.5; head match 1.0; head OCR confidence 91.5
+- **senseless** — PDF p. 409; Persian OCR confidence 63.3; head match 0.434; head OCR confidence 25.0
+- **senselessness** — PDF p. 409; Persian OCR confidence 75.2; head match 0.839; head OCR confidence 34.4
+- **sense-object** — PDF p. 409; Persian OCR confidence 57.2; head match 0.815; head OCR confidence 46.6
+- **sense of guilt oS a>** — PDF p. 409; Persian OCR confidence 41.3; head match 0.889; head OCR confidence 56.4
+- **sense of justice Shae jam** — PDF p. 409; Persian OCR confidence 54.0; head match 0.8; head OCR confidence 72.8
+- **sense organ** — PDF p. 409; Persian OCR confidence 52.5; head match 0.769; head OCR confidence 66.5
+- **sense perception** — PDF p. 409; Persian OCR confidence 48.0; head match 1.0; head OCR confidence 74.8
+- **sense-world i> Glee** — PDF p. 409; Persian OCR confidence 58.2; head match 0.8; head OCR confidence 66.7
+- **senslbllia** — PDF p. 409; Persian OCR confidence 0.0; head match 0.696; head OCR confidence 27.6
+- **sensibility** — PDF p. 409; Persian OCR confidence 79.8; head match 0.416; head OCR confidence 19.6
+- **sensible** — PDF p. 409; Persian OCR confidence 69.3; head match 0.375; head OCR confidence 0.0
+- **sensible form** — PDF p. 409; Persian OCR confidence 76.0; head match 0.727; head OCR confidence 55.5
+- **sensibleness** — PDF p. 409; Persian OCR confidence 0; head match 0.453; head OCR confidence 96.9
+- **senslble object** — PDF p. 409; Persian OCR confidence 60.7; head match 0.743; head OCR confidence 48.5
+- **senslble world** — PDF p. 409; Persian OCR confidence 81.8; head match 0.727; head OCR confidence 60.7
+- **sensitive knowledge** — PDF p. 410; Persian OCR confidence 36.0; head match 1.0; head OCR confidence 87.6
+- **sensitivity** — PDF p. 410; Persian OCR confidence 56.4; head match 1.0; head OCR confidence 96.3
+- **sensitizer Sula** — PDF p. 410; Persian OCR confidence 75.6; head match 0.833; head OCR confidence 64.6
+- **sensorimotor** — PDF p. 410; Persian OCR confidence 56.1; head match 0.75; head OCR confidence 47.4
+- **sensorineural** — PDF p. 410; Persian OCR confidence 56.8; head match 0.812; head OCR confidence 53.1
+- **sensory adaptation** — PDF p. 410; Persian OCR confidence 51.2; head match 1.0; head OCR confidence 89.8
+- **sensory ataxia** — PDF p. 410; Persian OCR confidence 60.2; head match 1.0; head OCR confidence 96.4
+- **sensory automatism** — PDF p. 410; Persian OCR confidence 49.0; head match 1.0; head OCR confidence 81.0
+- **sensory deprivation** — PDF p. 410; Persian OCR confidence 85.7; head match 0.837; head OCR confidence 47.7
+- **sensory experience** — PDF p. 410; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **sensory handicap** — PDF p. 410; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **sensory input** — PDF p. 410; Persian OCR confidence 44.1; head match 0.667; head OCR confidence 96.6
+- **sensory memory** — PDF p. 410; Persian OCR confidence 55.9; head match 0.788; head OCR confidence 49.9
+- **sensory process** — PDF p. 410; Persian OCR confidence 46.9; head match 0.778; head OCR confidence 55.5
+- **sensory stimulus** — PDF p. 410; Persian OCR confidence 57.1; head match 1.0; head OCR confidence 96.6
+- **Sensual Sy** — PDF p. 410; Persian OCR confidence 47.2; head match 0.875; head OCR confidence 63.5
+- **Sensuality** — PDF p. 410; Persian OCR confidence 55.5; head match 0.87; head OCR confidence 67.6
+- **sensualization** — PDF p. 410; Persian OCR confidence 69.9; head match 0.824; head OCR confidence 37.1
+- **sensual soul** — PDF p. 410; Persian OCR confidence 16.6; head match 0.846; head OCR confidence 44.8
+- **sensuous** — PDF p. 410; Persian OCR confidence 59.4; head match 0.727; head OCR confidence 42.6
+- **Sensuous consciousness** — PDF p. 410; Persian OCR confidence 48.7; head match 1.0; head OCR confidence 80.4
+- **sensuous representation** — PDF p. 410; Persian OCR confidence 48.5; head match 1.0; head OCR confidence 95.8
+- **sentence** — PDF p. 410; Persian OCR confidence 86.3; head match 0.727; head OCR confidence 36.2
+- **sentience** — PDF p. 411; Persian OCR confidence 51.3; head match 0.467; head OCR confidence 32.3
+- **sentient ~** — PDF p. 411; Persian OCR confidence 64.1; head match 0.889; head OCR confidence 40.1
+- **sentient being** — PDF p. 411; Persian OCR confidence 89.7; head match 0.788; head OCR confidence 52.3
+- **sentiment** — PDF p. 411; Persian OCR confidence 56.2; head match 0.42; head OCR confidence 43.9
+- **sentimental** — PDF p. 411; Persian OCR confidence 49.1; head match 1.0; head OCR confidence 95.1
+- **sentimentalism elec** — PDF p. 411; Persian OCR confidence 55.6; head match 0.875; head OCR confidence 64.6
+- **separable** — PDF p. 411; Persian OCR confidence 0.0; head match 0.75; head OCR confidence 61.8
+- **separate** — PDF p. 411; Persian OCR confidence 72.2; head match 0.426; head OCR confidence 56.3
+- **separateness** — PDF p. 411; Persian OCR confidence 70.3; head match 0.727; head OCR confidence 38.2
+- **separationlst** — PDF p. 411; Persian OCR confidence 86.1; head match 0.733; head OCR confidence 82.8
+- **separation of powers** — PDF p. 411; Persian OCR confidence 41.4; head match 1.0; head OCR confidence 87.4
+- **separatism** — PDF p. 411; Persian OCR confidence 76.3; head match 0.643; head OCR confidence 87.4
+- **separatist** — PDF p. 411; Persian OCR confidence 54.3; head match 0.424; head OCR confidence 31.6
+- **separatistic** — PDF p. 411; Persian OCR confidence 52.7; head match 0.727; head OCR confidence 30.0
+- **separative** — PDF p. 411; Persian OCR confidence 22.0; head match 0.769; head OCR confidence 49.2
+- **seppukar** — PDF p. 411; Persian OCR confidence 60.6; head match 0.5; head OCR confidence 60.9
+- **sept** — PDF p. 411; Persian OCR confidence 0; head match 1.0; head OCR confidence 79.7
+- **Septembrist** — PDF p. 411; Persian OCR confidence 0; head match 1.0; head OCR confidence 37.0
+- **septennial** — PDF p. 411; Persian OCR confidence 0; head match 1.0; head OCR confidence 47.1
+- **septentrion** — PDF p. 411; Persian OCR confidence 0; head match 1.0; head OCR confidence 60.9
+- **septuagenary** — PDF p. 411; Persian OCR confidence 0; head match 0.49; head OCR confidence 93.1
+- **Septuagint ~** — PDF p. 411; Persian OCR confidence 58.6; head match 0.75; head OCR confidence 93.1
+- **sepulcher** — PDF p. 411; Persian OCR confidence 82.8; head match 0.42; head OCR confidence 10.6
+- **sepulchral** — PDF p. 411; Persian OCR confidence 75.8; head match 0.424; head OCR confidence 29.8
+- **sepulchre** — PDF p. 411; Persian OCR confidence 0; head match 0.467; head OCR confidence 93.1
+- **sepulture** — PDF p. 411; Persian OCR confidence 78.3; head match 0.778; head OCR confidence 93.1
+- **sequacious** — PDF p. 411; Persian OCR confidence 71.7; head match 0.452; head OCR confidence 26.1
+- **sequacity** — PDF p. 411; Persian OCR confidence 70.9; head match 0.75; head OCR confidence 22.3
+- **sequel** — PDF p. 411; Persian OCR confidence 77.2; head match 0.35; head OCR confidence 50.1
+- **sequence** — PDF p. 411; Persian OCR confidence 79.9; head match 0.431; head OCR confidence 10.3
+- **sequence of vowels** — PDF p. 411; Persian OCR confidence 73.6; head match 0.762; head OCR confidence 68.5
+- **sequencing** — PDF p. 411; Persian OCR confidence 69.2; head match 0.741; head OCR confidence 17.5
+- **sequent** — PDF p. 411; Persian OCR confidence 65.6; head match 0.377; head OCR confidence 41.4
+- **sequentlal constraint ~W.:, ~bl** — PDF p. 411; Persian OCR confidence 86.5; head match 0.741; head OCR confidence 51.1
+- **seragilo (Ital.<Turk)** — PDF p. 411; Persian OCR confidence 61.3; head match 0.938; head OCR confidence 70.1
+- **seraph** — PDF p. 412; Persian OCR confidence 42.0; head match 0.35; head OCR confidence 51.0
+- **seraphim** — PDF p. 412; Persian OCR confidence 53.4; head match 0.361; head OCR confidence 35.8
+- **Serbian** — PDF p. 412; Persian OCR confidence 90.1; head match 0.338; head OCR confidence 27.5
+- **Serbo-Croatian** — PDF p. 412; Persian OCR confidence 87.6; head match 0.479; head OCR confidence 26.2
+- **serendipitous** — PDF p. 412; Persian OCR confidence 68.4; head match 0.455; head OCR confidence 44.5
+- **serendipity sles** — PDF p. 412; Persian OCR confidence 0.0; head match 0.846; head OCR confidence 65.0
+- **serf o~** — PDF p. 412; Persian OCR confidence 79.7; head match 0.187; head OCR confidence 17.7
+- **serfdom system GibGy el** — PDF p. 412; Persian OCR confidence 61.5; head match 0.788; head OCR confidence 63.2
+- **serial polygamy ile dj-42** — PDF p. 412; Persian OCR confidence 37.2; head match 0.8; head OCR confidence 59.2
+- **serial time** — PDF p. 412; Persian OCR confidence 49.8; head match 0.714; head OCR confidence 55.7
+- **seriatlon** — PDF p. 412; Persian OCR confidence 67.6; head match 0.386; head OCR confidence 44.0
+- **series** — PDF p. 412; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.1
+- **sermon** — PDF p. 412; Persian OCR confidence 60.9; head match 1.0; head OCR confidence 96.6
+- **sermonical )** — PDF p. 412; Persian OCR confidence 72.5; head match 0.359; head OCR confidence 34.1
+- **servant** — PDF p. 412; Persian OCR confidence 83.4; head match 0.471; head OCR confidence 92.1
+- **service charge** — PDF p. 412; Persian OCR confidence 83.8; head match 0.765; head OCR confidence 62.4
+- **service industry** — PDF p. 412; Persian OCR confidence 78.0; head match 0.732; head OCR confidence 66.4
+- **service occupations sls cleai,>** — PDF p. 412; Persian OCR confidence 83.4; head match 0.818; head OCR confidence 56.5
+- **service rating** — PDF p. 412; Persian OCR confidence 87.0; head match 0.839; head OCR confidence 50.6
+- **services** — PDF p. 412; Persian OCR confidence 88.2; head match 0.727; head OCR confidence 51.9
+- **service sector** — PDF p. 412; Persian OCR confidence 88.3; head match 0.722; head OCR confidence 53.6
+- **servicing** — PDF p. 412; Persian OCR confidence 82.3; head match 0.434; head OCR confidence 44.4
+- **servility** — PDF p. 412; Persian OCR confidence 78.4; head match 0.45; head OCR confidence 32.8
+- **servitor** — PDF p. 412; Persian OCR confidence 89.3; head match 0.8; head OCR confidence 34.6
+- **servitude** — PDF p. 412; Persian OCR confidence 62.6; head match 0.667; head OCR confidence 34.6
+- **Sesquicentennial** — PDF p. 412; Persian OCR confidence 44.3; head match 0.938; head OCR confidence 67.8
+- **sesquipedal** — PDF p. 412; Persian OCR confidence 0; head match 0.718; head OCR confidence 92.1
+- **sesqulpedalianism** — PDF p. 412; Persian OCR confidence 23.3; head match 0.865; head OCR confidence 4.3
+- **session** — PDF p. 412; Persian OCR confidence 68.8; head match 0.824; head OCR confidence 33.1
+- **sessional** — PDF p. 412; Persian OCR confidence 81.3; head match 0.382; head OCR confidence 22.8
+- **set** — PDF p. 412; Persian OCR confidence 90.2; head match 0.233; head OCR confidence 24.2
+- **setting** — PDF p. 412; Persian OCR confidence 74.5; head match 0.392; head OCR confidence 40.9
+- **settlement** — PDF p. 412; Persian OCR confidence 72.8; head match 0.424; head OCR confidence 0.0
+- **settler** — PDF p. 412; Persian OCR confidence 0; head match 1.0; head OCR confidence 2.4
+- **sevlleness** — PDF p. 412; Persian OCR confidence 0; head match 0.45; head OCR confidence 91.1
+- **sex** — PDF p. 412; Persian OCR confidence 0; head match 1.0; head OCR confidence 82.8
+- **sex-abuse . ~.,** — PDF p. 412; Persian OCR confidence 0; head match 0.778; head OCR confidence 0.0
+- **sexagenarian** — PDF p. 412; Persian OCR confidence 37.1; head match 0.454; head OCR confidence 39.0
+- **sexagenary** — PDF p. 412; Persian OCR confidence 80.3; head match 0.452; head OCR confidence 29.5
+- **sex appeal** — PDF p. 412; Persian OCR confidence 91.3; head match 0.467; head OCR confidence 47.7
+- **sexcentenary r** — PDF p. 412; Persian OCR confidence 71.6; head match 0.839; head OCR confidence 37.3
+- **sex distribution** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **sexennial** — PDF p. 413; Persian OCR confidence 0; head match 0.889; head OCR confidence 91.3
+- **sex impulse** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **sex industry** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.0
+- **sexiness** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **sex intercourse** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.0
+- **sexism** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.2
+- **sexist** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **sexist language** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.9
+- **sexless** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 94.7
+- **sexlessness** — PDF p. 413; Persian OCR confidence 60.7; head match 0.786; head OCR confidence 46.3
+- **sex object** — PDF p. 413; Persian OCR confidence 59.9; head match 0.406; head OCR confidence 49.3
+- **sex offender ork Ihe},** — PDF p. 413; Persian OCR confidence 88.1; head match 0.786; head OCR confidence 56.9
+- **sexologlc(-al)** — PDF p. 413; Persian OCR confidence 74.7; head match 0.4; head OCR confidence 30.8
+- **sexology** — PDF p. 413; Persian OCR confidence 81.8; head match 0.8; head OCR confidence 34.9
+- **sex role** — PDF p. 413; Persian OCR confidence 87.3; head match 0.49; head OCR confidence 63.8
+- **sex therapy** — PDF p. 413; Persian OCR confidence 74.9; head match 0.389; head OCR confidence 42.5
+- **sex traffic** — PDF p. 413; Persian OCR confidence 58.7; head match 0.833; head OCR confidence 44.9
+- **sexual anomaly** — PDF p. 413; Persian OCR confidence 67.2; head match 0.765; head OCR confidence 62.8
+- **sexual apathy** — PDF p. 413; Persian OCR confidence 83.4; head match 0.8; head OCR confidence 51.7
+- **sexual assault** — PDF p. 413; Persian OCR confidence 87.2; head match 0.765; head OCR confidence 74.3
+- **sexual communism** — PDF p. 413; Persian OCR confidence 0.0; head match 0.811; head OCR confidence 53.4
+- **sexual conduct Shue jb5** — PDF p. 413; Persian OCR confidence 61.2; head match 0.788; head OCR confidence 58.6
+- **sexual desire** — PDF p. 413; Persian OCR confidence 66.5; head match 0.75; head OCR confidence 55.8
+- **sexual dimorphism ~** — PDF p. 413; Persian OCR confidence 52.4; head match 0.821; head OCR confidence 49.0
+- **sexual discrimination** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 85.9
+- **sexual drive** — PDF p. 413; Persian OCR confidence 78.7; head match 0.71; head OCR confidence 71.5
+- **sexual identity** — PDF p. 413; Persian OCR confidence 53.7; head match 1.0; head OCR confidence 64.5
+- **sexual involution** — PDF p. 413; Persian OCR confidence 54.6; head match 0.875; head OCR confidence 87.5
+- **sexuality** — PDF p. 413; Persian OCR confidence 64.9; head match 0.818; head OCR confidence 45.9
+- **sexual maturation** — PDF p. 413; Persian OCR confidence 91.1; head match 0.744; head OCR confidence 58.2
+- **sexual object** — PDF p. 413; Persian OCR confidence 55.5; head match 0.857; head OCR confidence 54.7
+- **sexual orientation** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **sexual partner** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 88.0
+- **sexual preference** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 88.4
+- **sexual promiscuity** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **sexual selection** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.2
+- **sexual trauma** — PDF p. 413; Persian OCR confidence 91.3; head match 0.727; head OCR confidence 45.6
+- **shadow** — PDF p. 413; Persian OCR confidence 79.0; head match 0.494; head OCR confidence 68.3
+- **shadow cabinet** — PDF p. 413; Persian OCR confidence 80.7; head match 0.722; head OCR confidence 61.7
+- **shadow play** — PDF p. 413; Persian OCR confidence 88.2; head match 0.483; head OCR confidence 66.5
+- **shadow price** — PDF p. 413; Persian OCR confidence 43.8; head match 1.0; head OCR confidence 92.5
+- **shadow theatre** — PDF p. 413; Persian OCR confidence 0.0; head match 1.0; head OCR confidence 90.4
+- **Shaitan (Ar.)** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 70.5
+- **Shallow living** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 80.2
+- **shaman** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 84.2
+- **shamanic** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **shamanism** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **shaman 1st** — PDF p. 413; Persian OCR confidence 0; head match 0.889; head OCR confidence 0.0
+- **Shamanistic** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.0
+- **shame** — PDF p. 413; Persian OCR confidence 80.3; head match 0.35; head OCR confidence 90.0
+- **shanty** — PDF p. 413; Persian OCR confidence 0; head match 1.0; head OCR confidence 0.0
+- **shantyman** — PDF p. 414; Persian OCR confidence 79.4; head match 0.394; head OCR confidence 28.5
+- **shanty town** — PDF p. 414; Persian OCR confidence 62.3; head match 0.438; head OCR confidence 51.8
+- **shaping** — PDF p. 414; Persian OCR confidence 64.7; head match 0.778; head OCR confidence 64.9
+- **share ee** — PDF p. 414; Persian OCR confidence 90.4; head match 0.833; head OCR confidence 82.7
+- **share cropper** — PDF p. 414; Persian OCR confidence 65.0; head match 0.632; head OCR confidence 82.7
+- **share tenant** — PDF p. 414; Persian OCR confidence 65.4; head match 0.467; head OCR confidence 34.1
+- **sharif** — PDF p. 414; Persian OCR confidence 57.0; head match 0.467; head OCR confidence 94.7
+- **sharing** — PDF p. 414; Persian OCR confidence 31.0; head match 0.778; head OCR confidence 70.8
+- **Shawwal (Ar.) Jip (le)** — PDF p. 414; Persian OCR confidence 50.7; head match 0.783; head OCR confidence 59.1
+- **sheepherder** — PDF p. 414; Persian OCR confidence 87.8; head match 0.71; head OCR confidence 55.9
+- **sheikdom** — PDF p. 414; Persian OCR confidence 84.2; head match 0.762; head OCR confidence 57.9
+- **sheikh** — PDF p. 414; Persian OCR confidence 0; head match 0.494; head OCR confidence 96.4
+- **shepherd** — PDF p. 414; Persian OCR confidence 84.2; head match 0.386; head OCR confidence 34.3
+- **sherlf (Ar.)** — PDF p. 414; Persian OCR confidence 82.4; head match 0.778; head OCR confidence 75.6
+- **Shia** — PDF p. 414; Persian OCR confidence 0; head match 0.714; head OCR confidence 92.9
+- **shift** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **shifting agriculture** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.6
+- **Shifting cultivation** — PDF p. 414; Persian OCR confidence 0; head match 0.818; head OCR confidence 73.7
+- **shifting group** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **shift pay** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **shift system** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **shift work** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **shift worker** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **Shiism** — PDF p. 414; Persian OCR confidence 78.4; head match 0.323; head OCR confidence 42.6
+- **Shiitic** — PDF p. 414; Persian OCR confidence 68.0; head match 0.769; head OCR confidence 93.5
+- **Shinto** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **Shintoism** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.7
+- **Shintoist** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.2
+- **Shintoistic** — PDF p. 414; Persian OCR confidence 0; head match 0.818; head OCR confidence 92.0
+- **shipman** — PDF p. 414; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.1
+- **shipment** — PDF p. 414; Persian OCR confidence 79.6; head match 0.415; head OCR confidence 34.7
+- **shipper** — PDF p. 414; Persian OCR confidence 78.3; head match 0.445; head OCR confidence 45.0
+- **shipping** — PDF p. 414; Persian OCR confidence 80.8; head match 0.762; head OCR confidence 48.0
+- **shipping document dom slau!** — PDF p. 414; Persian OCR confidence 78.9; head match 0.821; head OCR confidence 70.4
+- **shock** — PDF p. 414; Persian OCR confidence 83.3; head match 0.467; head OCR confidence 74.8
+- **shocker** — PDF p. 414; Persian OCR confidence 50.0; head match 0.408; head OCR confidence 31.9
+- **shock treatment** — PDF p. 414; Persian OCR confidence 0; head match 0.571; head OCR confidence 58.7
+- **shogunate** — PDF p. 414; Persian OCR confidence 59.7; head match 0.35; head OCR confidence 28.0
+- **shop** — PDF p. 414; Persian OCR confidence 76.8; head match 0.2; head OCR confidence 28.7
+- **shophouse** — PDF p. 414; Persian OCR confidence 35.8; head match 0.818; head OCR confidence 46.4
+- **shopkeeper** — PDF p. 414; Persian OCR confidence 81.7; head match 0.741; head OCR confidence 42.8
+- **shoplifter** — PDF p. 414; Persian OCR confidence 50.4; head match 0.714; head OCR confidence 48.0
+- **shoplifting** — PDF p. 414; Persian OCR confidence 56.8; head match 0.733; head OCR confidence 48.1
+- **shopper** — PDF p. 414; Persian OCR confidence 58.6; head match 0.778; head OCR confidence 68.7
+- **shopping mall aayhl** — PDF p. 414; Persian OCR confidence 87.5; head match 0.828; head OCR confidence 59.6
+- **shopworn** — PDF p. 414; Persian OCR confidence 58.4; head match 0.448; head OCR confidence 45.7
+- **shoreline** — PDF p. 414; Persian OCR confidence 89.7; head match 0.75; head OCR confidence 86.2
+- **shore patrol** — PDF p. 414; Persian OCR confidence 92.7; head match 0.786; head OCR confidence 54.4
+- **shortage** — PDF p. 414; Persian OCR confidence 89.4; head match 0.8; head OCR confidence 33.8
+- **shortcoming** — PDF p. 414; Persian OCR confidence 56.7; head match 0.522; head OCR confidence 33.8
+- **short credit** — PDF p. 414; Persian OCR confidence 43.0; head match 0.467; head OCR confidence 40.0
+- **shortcut wile** — PDF p. 414; Persian OCR confidence 48.2; head match 0.8; head OCR confidence 56.3
+- **shorthand BDO 9s** — PDF p. 414; Persian OCR confidence 81.7; head match 0.783; head OCR confidence 60.2
+- **short range** — PDF p. 414; Persian OCR confidence 8.8; head match 0.769; head OCR confidence 64.4
+- **short run** — PDF p. 414; Persian OCR confidence 8.6; head match 0.487; head OCR confidence 48.2
+- **shortsighted** — PDF p. 414; Persian OCR confidence 53.8; head match 0.519; head OCR confidence 48.2
+- **short story** — PDF p. 415; Persian OCR confidence 89.3; head match 0.452; head OCR confidence 69.5
+- **short-tempered** — PDF p. 415; Persian OCR confidence 54.0; head match 0.722; head OCR confidence 49.5
+- **short-term** — PDF p. 415; Persian OCR confidence 50.6; head match 0.371; head OCR confidence 26.7
+- **short-term planning ,s- 9 .... l.i x** — PDF p. 415; Persian OCR confidence 0; head match 0.776; head OCR confidence 45.7
+- **shoulds** — PDF p. 415; Persian OCR confidence 80.1; head match 0.445; head OCR confidence 54.0
+- **show** — PDF p. 415; Persian OCR confidence 61.3; head match 0.35; head OCR confidence 47.9
+- **show business** — PDF p. 415; Persian OCR confidence 64.0; head match 0.75; head OCR confidence 64.4
+- **showcase** — PDF p. 415; Persian OCR confidence 84.0; head match 0.727; head OCR confidence 48.0
+- **showdown** — PDF p. 415; Persian OCR confidence 85.9; head match 0.467; head OCR confidence 52.7
+- **showman** — PDF p. 415; Persian OCR confidence 34.5; head match 0.338; head OCR confidence 36.8
+- **showmanship** — PDF p. 415; Persian OCR confidence 52.6; head match 1.0; head OCR confidence 96.7
+- **show trials** — PDF p. 415; Persian OCR confidence 77.5; head match 0.588; head OCR confidence 40.7
+- **shrine** — PDF p. 415; Persian OCR confidence 71.1; head match 0.42; head OCR confidence 48.9
+- **shut-in personality** — PDF p. 415; Persian OCR confidence 0; head match 1.0; head OCR confidence 65.8
+- **shuttle diplomacy** — PDF p. 415; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **shy** — PDF p. 415; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **shyness** — PDF p. 415; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **Siamese** — PDF p. 415; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **sib** — PDF p. 415; Persian OCR confidence 62.6; head match 0.221; head OCR confidence 31.9
+- **sibling** — PDF p. 415; Persian OCR confidence 63.5; head match 0.445; head OCR confidence 43.0
+- **slbshlp** — PDF p. 415; Persian OCR confidence 56.4; head match 0.29; head OCR confidence 33.6
+- **sibyl** — PDF p. 415; Persian OCR confidence 81.4; head match 0.714; head OCR confidence 36.8
+- **sibyllne** — PDF p. 415; Persian OCR confidence 63.7; head match 0.377; head OCR confidence 17.5
+- **sickliness** — PDF p. 415; Persian OCR confidence 91.7; head match 0.833; head OCR confidence 46.1
+- **sick pay** — PDF p. 415; Persian OCR confidence 47.3; head match 0.426; head OCR confidence 54.7
+- **side effect uae!** — PDF p. 415; Persian OCR confidence 44.1; head match 0.87; head OCR confidence 74.8
+- **sldereal** — PDF p. 415; Persian OCR confidence 82.5; head match 0.338; head OCR confidence 37.1
+- **sidereal day** — PDF p. 415; Persian OCR confidence 58.6; head match 0.759; head OCR confidence 64.6
+- **sidereal time** — PDF p. 415; Persian OCR confidence 0; head match 0.917; head OCR confidence 95.1
+- **sidereal year** — PDF p. 415; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.9
+- **sight bill** — PDF p. 415; Persian OCR confidence 47.2; head match 0.72; head OCR confidence 44.4
+- **sight draft** — PDF p. 415; Persian OCR confidence 67.0; head match 0.56; head OCR confidence 66.6
+- **sightseeing g** — PDF p. 415; Persian OCR confidence 22.4; head match 0.957; head OCR confidence 56.9
+- **sightseer** — PDF p. 415; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.5
+- **slgil .r ~i.:>** — PDF p. 415; Persian OCR confidence 0; head match 0.375; head OCR confidence 89.5
+- **signal** — PDF p. 415; Persian OCR confidence 66.0; head match 0.442; head OCR confidence 54.6
+- **signal learning** — PDF p. 415; Persian OCR confidence 91.3; head match 0.718; head OCR confidence 41.9
+- **signalling** — PDF p. 415; Persian OCR confidence 91.7; head match 0.483; head OCR confidence 25.3
+- **signalling reflexes** — PDF p. 415; Persian OCR confidence 78.6; head match 0.766; head OCR confidence 42.7
+- **signed language** — PDF p. 415; Persian OCR confidence 0; head match 0.49; head OCR confidence 96.6
+- **signet** — PDF p. 415; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **signifiable** — PDF p. 415; Persian OCR confidence 0; head match 0.909; head OCR confidence 92.3
+- **signifiable** — PDF p. 415; Persian OCR confidence 75.3; head match 0.783; head OCR confidence 92.3
+- **signlficancy** — PDF p. 415; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.1
+- **signlficatio** — PDF p. 415; Persian OCR confidence 89.3; head match 0.667; head OCR confidence 69.9
+- **signification .r** — PDF p. 415; Persian OCR confidence 67.8; head match 0.686; head OCR confidence 69.9
+- **significatlve** — PDF p. 415; Persian OCR confidence 82.4; head match 0.774; head OCR confidence 47.9
+- **signlfics** — PDF p. 415; Persian OCR confidence 83.9; head match 0.64; head OCR confidence 26.5
+- **signified** — PDF p. 415; Persian OCR confidence 87.2; head match 0.64; head OCR confidence 26.5
+- **signifying system** — PDF p. 415; Persian OCR confidence 89.4; head match 0.769; head OCR confidence 90.3
+- **sign language** — PDF p. 415; Persian OCR confidence 69.7; head match 0.727; head OCR confidence 62.3
+- **sign learning** — PDF p. 416; Persian OCR confidence 83.6; head match 0.48; head OCR confidence 61.9
+- **sign stimulus** — PDF p. 416; Persian OCR confidence 83.2; head match 0.727; head OCR confidence 43.8
+- **Sikh** — PDF p. 416; Persian OCR confidence 90.7; head match 0.431; head OCR confidence 53.1
+- **Sikhism** — PDF p. 416; Persian OCR confidence 74.9; head match 0.625; head OCR confidence 53.1
+- **silent pause** — PDF p. 416; Persian OCR confidence 58.6; head match 0.71; head OCR confidence 46.0
+- **silent speech** — PDF p. 416; Persian OCR confidence 70.0; head match 0.727; head OCR confidence 42.1
+- **silent trade** — PDF p. 416; Persian OCR confidence 51.1; head match 0.467; head OCR confidence 48.4
+- **silent way** — PDF p. 416; Persian OCR confidence 66.6; head match 0.485; head OCR confidence 43.7
+- **silhouette** — PDF p. 416; Persian OCR confidence 65.6; head match 0.483; head OCR confidence 58.1
+- **silver age** — PDF p. 416; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **silvicolous** — PDF p. 416; Persian OCR confidence 0; head match 0.909; head OCR confidence 90.5
+- **silviculture** — PDF p. 416; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.8
+- **silviculturist** — PDF p. 416; Persian OCR confidence 0; head match 0.929; head OCR confidence 92.2
+- **similar** — PDF p. 416; Persian OCR confidence 59.7; head match 0.769; head OCR confidence 71.1
+- **slmilarity** — PDF p. 416; Persian OCR confidence 86.0; head match 0.434; head OCR confidence 59.9
+- **slmile** — PDF p. 416; Persian OCR confidence 87.5; head match 0.368; head OCR confidence 40.6
+- **similitude** — PDF p. 416; Persian OCR confidence 83.4; head match 0.438; head OCR confidence 45.5
+- **slmllitudo (L.)** — PDF p. 416; Persian OCR confidence 67.3; head match 0.667; head OCR confidence 45.7
+- **slmonic(-al)** — PDF p. 416; Persian OCR confidence 70.2; head match 0.4; head OCR confidence 35.6
+- **simony** — PDF p. 416; Persian OCR confidence 69.8; head match 0.35; head OCR confidence 36.2
+- **slmple** — PDF p. 416; Persian OCR confidence 76.4; head match 0.28; head OCR confidence 38.6
+- **simple causation odlw cals** — PDF p. 416; Persian OCR confidence 72.0; head match 0.789; head OCR confidence 63.8
+- **slmple element** — PDF p. 416; Persian OCR confidence 89.2; head match 0.727; head OCR confidence 73.9
+- **simple interest cols** — PDF p. 416; Persian OCR confidence 35.2; head match 0.812; head OCR confidence 80.5
+- **simple labor oslw lf** — PDF p. 416; Persian OCR confidence 86.5; head match 0.786; head OCR confidence 68.3
+- **simple-minded** — PDF p. 416; Persian OCR confidence 70.1; head match 0.42; head OCR confidence 48.2
+- **slmple sentence** — PDF p. 416; Persian OCR confidence 90.6; head match 0.684; head OCR confidence 51.8
+- **Simple substance dee** — PDF p. 416; Persian OCR confidence 61.1; head match 0.909; head OCR confidence 74.2
+- **simple vowel** — PDF p. 416; Persian OCR confidence 85.2; head match 0.733; head OCR confidence 54.5
+- **simpliclty** — PDF p. 416; Persian OCR confidence 73.0; head match 0.643; head OCR confidence 22.2
+- **simplification** — PDF p. 416; Persian OCR confidence 89.1; head match 0.445; head OCR confidence 27.1
+- **simplified** — PDF p. 416; Persian OCR confidence 92.2; head match 0.714; head OCR confidence 10.2
+- **simplifier** — PDF p. 416; Persian OCR confidence 59.6; head match 0.467; head OCR confidence 39.8
+- **simplism** — PDF p. 416; Persian OCR confidence 76.7; head match 0.467; head OCR confidence 13.2
+- **simplistic** — PDF p. 416; Persian OCR confidence 71.7; head match 0.615; head OCR confidence 13.2
+- **simulacra (L.)** — PDF p. 416; Persian OCR confidence 93.0; head match 0.714; head OCR confidence 59.7
+- **simulacrum (L.) Aiaile** — PDF p. 416; Persian OCR confidence 89.9; head match 0.786; head OCR confidence 60.0
+- **simulant** — PDF p. 416; Persian OCR confidence 91.3; head match 0.361; head OCR confidence 41.5
+- **slmulatlon** — PDF p. 416; Persian OCR confidence 83.6; head match 0.593; head OCR confidence 47.6
+- **simulatlve** — PDF p. 416; Persian OCR confidence 91.8; head match 0.307; head OCR confidence 30.1
+- **simulator** — PDF p. 416; Persian OCR confidence 80.0; head match 0.485; head OCR confidence 41.7
+- **simultaneous interpretation** — PDF p. 416; Persian OCR confidence 62.8; head match 1.0; head OCR confidence 82.8
+- **simultaneousness** — PDF p. 416; Persian OCR confidence 0.0; head match 0.727; head OCR confidence 58.4
+- **sin** — PDF p. 416; Persian OCR confidence 57.8; head match 0.467; head OCR confidence 48.9
+- **Sinanthropus** — PDF p. 416; Persian OCR confidence 52.7; head match 0.8; head OCR confidence 51.7
+- **Sindhi** — PDF p. 416; Persian OCR confidence 91.5; head match 0.494; head OCR confidence 44.9
+- **sinecure** — PDF p. 416; Persian OCR confidence 51.8; head match 0.842; head OCR confidence 45.2
+- **sinecurist** — PDF p. 416; Persian OCR confidence 91.5; head match 0.714; head OCR confidence 36.7
+- **sinful** — PDF p. 416; Persian OCR confidence 65.7; head match 0.389; head OCR confidence 64.0
+- **slnfulness** — PDF p. 416; Persian OCR confidence 82.4; head match 0.35; head OCR confidence 25.8
+- **Slnghalese** — PDF p. 416; Persian OCR confidence 88.4; head match 0.783; head OCR confidence 48.9
+- **single** — PDF p. 416; Persian OCR confidence 72.8; head match 0.442; head OCR confidence 48.9
+- **single cause alt cle** — PDF p. 417; Persian OCR confidence 51.8; head match 0.786; head OCR confidence 80.4
+- **single combat oegiSi>** — PDF p. 417; Persian OCR confidence 91.4; head match 0.8; head OCR confidence 67.7
+- **single entry** — PDF p. 417; Persian OCR confidence 16.7; head match 1.0; head OCR confidence 96.8
+- **singleness** — PDF p. 417; Persian OCR confidence 69.8; head match 0.741; head OCR confidence 33.9
+- **single party ies** — PDF p. 417; Persian OCR confidence 53.3; head match 0.88; head OCR confidence 77.9
+- **single tax** — PDF p. 417; Persian OCR confidence 78.2; head match 0.609; head OCR confidence 77.9
+- **singularism** — PDF p. 417; Persian OCR confidence 69.4; head match 0.786; head OCR confidence 47.5
+- **singularity** — PDF p. 417; Persian OCR confidence 79.8; head match 0.759; head OCR confidence 45.2
+- **singularization** — PDF p. 417; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.5
+- **singularness** — PDF p. 417; Persian OCR confidence 0; head match 0.526; head OCR confidence 91.5
+- **Sinhalese** — PDF p. 417; Persian OCR confidence 0; head match 0.483; head OCR confidence 92.6
+- **Sinicism** — PDF p. 417; Persian OCR confidence 58.8; head match 0.727; head OCR confidence 42.1
+- **sinisterness** — PDF p. 417; Persian OCR confidence 65.2; head match 0.48; head OCR confidence 35.9
+- **sinistral** — PDF p. 417; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.9
+- **Sinitic** — PDF p. 417; Persian OCR confidence 55.8; head match 0.426; head OCR confidence 28.8
+- **sinking fund** — PDF p. 417; Persian OCR confidence 80.9; head match 0.71; head OCR confidence 54.3
+- **sinless** — PDF p. 417; Persian OCR confidence 85.9; head match 0.426; head OCR confidence 55.4
+- **sinlessness** — PDF p. 417; Persian OCR confidence 80.4; head match 0.667; head OCR confidence 55.4
+- **sinner** — PDF p. 417; Persian OCR confidence 47.7; head match 0.336; head OCR confidence 50.6
+- **Slnolog** — PDF p. 417; Persian OCR confidence 0; head match 0.72; head OCR confidence 92.4
+- **Slnologue** — PDF p. 417; Persian OCR confidence 89.6; head match 0.696; head OCR confidence 48.8
+- **Sinology** — PDF p. 417; Persian OCR confidence 0; head match 1.0; head OCR confidence 75.5
+- **Sinophile** — PDF p. 417; Persian OCR confidence 0; head match 1.0; head OCR confidence 75.6
+- **Sino-Tibetan** — PDF p. 417; Persian OCR confidence 0; head match 1.0; head OCR confidence 18.2
+- **sire** — PDF p. 417; Persian OCR confidence 0.0; head match 0.889; head OCR confidence 48.5
+- **sister** — PDF p. 417; Persian OCR confidence 74.0; head match 0.545; head OCR confidence 48.5
+- **sisterhood** — PDF p. 417; Persian OCR confidence 68.4; head match 0.609; head OCR confidence 15.7
+- **sister-in-law** — PDF p. 417; Persian OCR confidence 65.4; head match 0.581; head OCR confidence 28.6
+- **site** — PDF p. 417; Persian OCR confidence 75.5; head match 0.295; head OCR confidence 78.8
+- **sit-in** — PDF p. 417; Persian OCR confidence 44.3; head match 0.714; head OCR confidence 39.4
+- **sitology** — PDF p. 417; Persian OCR confidence 92.0; head match 0.487; head OCR confidence 43.0
+- **Sittllchkelt (G.) _))G.I ~;** — PDF p. 417; Persian OCR confidence 90.2; head match 0.733; head OCR confidence 33.8
+- **situatedness** — PDF p. 417; Persian OCR confidence 88.2; head match 0.42; head OCR confidence 47.4
+- **situation** — PDF p. 417; Persian OCR confidence 61.4; head match 0.467; head OCR confidence 35.4
+- **situational** — PDF p. 417; Persian OCR confidence 84.2; head match 0.759; head OCR confidence 48.0
+- **situational context** — PDF p. 417; Persian OCR confidence 79.1; head match 0.837; head OCR confidence 52.8
+- **situational feature** — PDF p. 417; Persian OCR confidence 86.9; head match 0.766; head OCR confidence 50.7
+- **sltuatlonallsm** — PDF p. 417; Persian OCR confidence 90.9; head match 0.611; head OCR confidence 53.4
+- **sltuatlonal test** — PDF p. 417; Persian OCR confidence 49.0; head match 0.788; head OCR confidence 53.7
+- **situation ethics ~',S'""'L::,J)G.I** — PDF p. 417; Persian OCR confidence 92.7; head match 0.791; head OCR confidence 34.1
+- **situatlonlsm** — PDF p. 417; Persian OCR confidence 0; head match 0.455; head OCR confidence 92.9
+- **size** — PDF p. 417; Persian OCR confidence 88.0; head match 0.467; head OCR confidence 48.2
+- **skeptic** — PDF p. 417; Persian OCR confidence 0; head match 0.467; head OCR confidence 92.8
+- **skepticism** — PDF p. 417; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.6
+- **sketch** — PDF p. 418; Persian OCR confidence 76.8; head match 0.3; head OCR confidence 42.3
+- **skew** — PDF p. 418; Persian OCR confidence 83.4; head match 0.35; head OCR confidence 34.8
+- **skewness** — PDF p. 418; Persian OCR confidence 88.3; head match 0.431; head OCR confidence 25.0
+- **skill** — PDF p. 418; Persian OCR confidence 91.4; head match 0.389; head OCR confidence 37.4
+- **skilled** — PDF p. 418; Persian OCR confidence 41.9; head match 1.0; head OCR confidence 96.3
+- **skilled labor** — PDF p. 418; Persian OCR confidence 92.2; head match 0.774; head OCR confidence 80.4
+- **skillful** — PDF p. 418; Persian OCR confidence 84.3; head match 0.431; head OCR confidence 25.7
+- **slang** — PDF p. 418; Persian OCR confidence 58.7; head match 0.28; head OCR confidence 34.6
+- **slant** — PDF p. 418; Persian OCR confidence 65.3; head match 0.389; head OCR confidence 37.7
+- **slaughter** — PDF p. 418; Persian OCR confidence 65.0; head match 0.455; head OCR confidence 37.7
+- **slaughterhouse** — PDF p. 418; Persian OCR confidence 46.5; head match 0.824; head OCR confidence 47.7
+- **slave** — PDF p. 418; Persian OCR confidence 63.8; head match 0.769; head OCR confidence 52.3
+- **slave morality** — PDF p. 418; Persian OCR confidence 78.5; head match 0.812; head OCR confidence 24.9
+- **slave owner** — PDF p. 418; Persian OCR confidence 60.7; head match 1.0; head OCR confidence 96.4
+- **slaver** — PDF p. 418; Persian OCR confidence 45.5; head match 1.0; head OCR confidence 88.1
+- **slaver** — PDF p. 418; Persian OCR confidence 64.7; head match 0.923; head OCR confidence 88.1
+- **slave ship** — PDF p. 418; Persian OCR confidence 59.3; head match 1.0; head OCR confidence 96.4
+- **slave society** — PDF p. 418; Persian OCR confidence 71.9; head match 0.667; head OCR confidence 96.4
+- **slave trade** — PDF p. 418; Persian OCR confidence 55.3; head match 1.0; head OCR confidence 96.6
+- **Slavic** — PDF p. 418; Persian OCR confidence 73.8; head match 0.35; head OCR confidence 41.5
+- **slavlsh** — PDF p. 418; Persian OCR confidence 56.3; head match 0.42; head OCR confidence 69.8
+- **slavlshness** — PDF p. 418; Persian OCR confidence 51.5; head match 0.714; head OCR confidence 39.4
+- **Slavism** — PDF p. 418; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.4
+- **Slavist** — PDF p. 418; Persian OCR confidence 0; head match 0.857; head OCR confidence 92.8
+- **Slavonic** — PDF p. 418; Persian OCR confidence 18.3; head match 1.0; head OCR confidence 96.1
+- **Slavophil** — PDF p. 418; Persian OCR confidence 0; head match 0.483; head OCR confidence 92.7
+- **Slavophile** — PDF p. 418; Persian OCR confidence 59.7; head match 1.0; head OCR confidence 92.7
+- **Slavophilism** — PDF p. 418; Persian OCR confidence 77.4; head match 0.75; head OCR confidence 46.2
+- **sleepwalker** — PDF p. 418; Persian OCR confidence 44.1; head match 1.0; head OCR confidence 91.5
+- **sleepwalker** — PDF p. 418; Persian OCR confidence 91.9; head match 0.783; head OCR confidence 91.5
+- **slippery slope** — PDF p. 418; Persian OCR confidence 87.8; head match 0.788; head OCR confidence 53.7
+- **slogan** — PDF p. 418; Persian OCR confidence 62.9; head match 0.75; head OCR confidence 56.3
+- **sloganistic** — PDF p. 418; Persian OCR confidence 74.7; head match 0.815; head OCR confidence 29.6
+- **sloganlzing** — PDF p. 418; Persian OCR confidence 84.4; head match 0.645; head OCR confidence 42.1
+- **Slovak** — PDF p. 418; Persian OCR confidence 91.4; head match 0.4; head OCR confidence 35.6
+- **Slovaklan** — PDF p. 418; Persian OCR confidence 53.7; head match 0.667; head OCR confidence 78.0
+- **Slovene** — PDF p. 418; Persian OCR confidence 91.3; head match 0.426; head OCR confidence 47.9
+- **slowdown** — PDF p. 418; Persian OCR confidence 71.3; head match 0.415; head OCR confidence 17.9
+- **slow-witted** — PDF p. 418; Persian OCR confidence 41.0; head match 0.741; head OCR confidence 14.6
+- **slow-wittedness ees** — PDF p. 418; Persian OCR confidence 41.2; head match 0.903; head OCR confidence 64.4
+- **slum** — PDF p. 418; Persian OCR confidence 88.6; head match 0.311; head OCR confidence 30.4
+- **slum area** — PDF p. 418; Persian OCR confidence 89.3; head match 0.32; head OCR confidence 42.6
+- **slum clearance** — PDF p. 418; Persian OCR confidence 33.7; head match 0.743; head OCR confidence 45.5
+- **slum dweller** — PDF p. 418; Persian OCR confidence 85.2; head match 0.733; head OCR confidence 59.9
+- **slummer** — PDF p. 418; Persian OCR confidence 78.2; head match 0.327; head OCR confidence 34.2
+- **slump** — PDF p. 418; Persian OCR confidence 85.7; head match 0.615; head OCR confidence 88.7
+- **smallholder** — PDF p. 418; Persian OCR confidence 33.1; head match 0.759; head OCR confidence 1.8
+- **smallholdlng** — PDF p. 418; Persian OCR confidence 10.8; head match 0.733; head OCR confidence 37.8
+- **small-scale** — PDF p. 418; Persian OCR confidence 77.1; head match 0.714; head OCR confidence 40.4
+- **smuggler** — PDF p. 418; Persian OCR confidence 55.0; head match 0.467; head OCR confidence 35.5
+- **smuggling** — PDF p. 418; Persian OCR confidence 46.9; head match 0.72; head OCR confidence 33.4
+- **snob** — PDF p. 418; Persian OCR confidence 87.1; head match 0.431; head OCR confidence 35.8
+- **snobbery** — PDF p. 418; Persian OCR confidence 85.2; head match 0.667; head OCR confidence 36.2
+- **snobbish** — PDF p. 418; Persian OCR confidence 91.2; head match 0.762; head OCR confidence 29.2
+- **snobbishness** — PDF p. 418; Persian OCR confidence 0; head match 0.75; head OCR confidence 92.4
+- **snobbism** — PDF p. 418; Persian OCR confidence 0; head match 0.875; head OCR confidence 80.5
+- **soberiety** — PDF p. 418; Persian OCR confidence 0; head match 0.889; head OCR confidence 92.9
+- **sociability** — PDF p. 418; Persian OCR confidence 52.9; head match 0.909; head OCR confidence 39.7
+- **sociable** — PDF p. 418; Persian OCR confidence 74.3; head match 0.28; head OCR confidence 5.7
+- **soclableness** — PDF p. 418; Persian OCR confidence 0; head match 0.453; head OCR confidence 95.3
+- **soclal** — PDF p. 418; Persian OCR confidence 74.9; head match 0.5; head OCR confidence 0.0
+- **social abnormality** — PDF p. 419; Persian OCR confidence 39.2; head match 0.941; head OCR confidence 78.9
+- **social acceptance cslcel** — PDF p. 419; Persian OCR confidence 87.1; head match 0.789; head OCR confidence 64.2
+- **soclal accounting** — PDF p. 419; Persian OCR confidence 73.2; head match 0.769; head OCR confidence 60.9
+- **soclal act** — PDF p. 419; Persian OCR confidence 77.7; head match 0.431; head OCR confidence 58.2
+- **soclal action** — PDF p. 419; Persian OCR confidence 10.6; head match 0.453; head OCR confidence 55.9
+- **soclal adaptation** — PDF p. 419; Persian OCR confidence 85.4; head match 0.769; head OCR confidence 59.1
+- **social adjustment** — PDF p. 419; Persian OCR confidence 65.7; head match 0.744; head OCR confidence 64.0
+- **social affairs** — PDF p. 419; Persian OCR confidence 64.9; head match 0.923; head OCR confidence 96.2
+- **social age** — PDF p. 419; Persian OCR confidence 88.7; head match 0.783; head OCR confidence 48.3
+- **soclal aggregate** — PDF p. 419; Persian OCR confidence 64.3; head match 0.683; head OCR confidence 48.4
+- **soclal amenities** — PDF p. 419; Persian OCR confidence 67.8; head match 0.757; head OCR confidence 32.6
+- **soclal anabolism** — PDF p. 419; Persian OCR confidence 81.4; head match 0.7; head OCR confidence 55.1
+- **soclal analysls** — PDF p. 419; Persian OCR confidence 75.1; head match 0.743; head OCR confidence 72.9
+- **soclal anatomy** — PDF p. 419; Persian OCR confidence 90.2; head match 0.667; head OCR confidence 54.5
+- **soclal anchoring** — PDF p. 419; Persian OCR confidence 50.3; head match 0.7; head OCR confidence 55.0
+- **social animal** — PDF p. 419; Persian OCR confidence 62.6; head match 0.467; head OCR confidence 47.1
+- **soclal anomie** — PDF p. 419; Persian OCR confidence 78.7; head match 0.44; head OCR confidence 51.8
+- **social anxiety** — PDF p. 419; Persian OCR confidence 91.1; head match 0.765; head OCR confidence 64.1
+- **social arrangement** — PDF p. 419; Persian OCR confidence 67.4; head match 0.773; head OCR confidence 61.7
+- **social arts** — PDF p. 419; Persian OCR confidence 83.1; head match 0.378; head OCR confidence 61.7
+- **soclal ascending** — PDF p. 419; Persian OCR confidence 91.7; head match 0.778; head OCR confidence 64.2
+- **social ascent** — PDF p. 419; Persian OCR confidence 90.4; head match 0.774; head OCR confidence 48.1
+- **social asslmllatlon ~I .,,~** — PDF p. 419; Persian OCR confidence 74.7; head match 0.667; head OCR confidence 44.8
+- **social atom** — PDF p. 419; Persian OCR confidence 60.5; head match 0.714; head OCR confidence 64.5
+- **social attitude** — PDF p. 419; Persian OCR confidence 91.2; head match 0.757; head OCR confidence 61.8
+- **social authority** — PDF p. 419; Persian OCR confidence 44.6; head match 0.486; head OCR confidence 57.5
+- **soclal behavior** — PDF p. 419; Persian OCR confidence 91.5; head match 0.743; head OCR confidence 59.0
+- **soclal being** — PDF p. 419; Persian OCR confidence 72.3; head match 0.667; head OCR confidence 60.7
+- **soclal bond** — PDF p. 419; Persian OCR confidence 88.5; head match 0.406; head OCR confidence 47.1
+- **soclal boundary** — PDF p. 419; Persian OCR confidence 58.3; head match 0.703; head OCR confidence 48.8
+- **social cadre** — PDF p. 419; Persian OCR confidence 83.4; head match 0.759; head OCR confidence 62.4
+- **social capital** — PDF p. 419; Persian OCR confidence 88.7; head match 0.71; head OCR confidence 62.4
+- **soclal casework** — PDF p. 419; Persian OCR confidence 60.8; head match 0.722; head OCR confidence 64.5
+- **soclal category** — PDF p. 419; Persian OCR confidence 91.1; head match 0.765; head OCR confidence 58.5
+- **social causation** — PDF p. 419; Persian OCR confidence 63.2; head match 0.75; head OCR confidence 49.2
+- **soclal cause** — PDF p. 419; Persian OCR confidence 50.8; head match 0.645; head OCR confidence 61.8
+- **soclal change** — PDF p. 419; Persian OCR confidence 80.9; head match 0.759; head OCR confidence 67.0
+- **social chaos** — PDF p. 419; Persian OCR confidence 90.0; head match 0.643; head OCR confidence 67.0
+- **social character** — PDF p. 419; Persian OCR confidence 62.4; head match 0.789; head OCR confidence 53.5
+- **social choice olacal** — PDF p. 419; Persian OCR confidence 67.5; head match 0.8; head OCR confidence 64.6
+- **social clrculatlon** — PDF p. 419; Persian OCR confidence 73.2; head match 0.714; head OCR confidence 50.4
+- **soclal class** — PDF p. 419; Persian OCR confidence 91.0; head match 0.438; head OCR confidence 59.0
+- **social climate** — PDF p. 419; Persian OCR confidence 88.6; head match 0.743; head OCR confidence 47.5
+- **soclal climber** — PDF p. 419; Persian OCR confidence 91.4; head match 0.571; head OCR confidence 47.5
+- **soclal climbing** — PDF p. 419; Persian OCR confidence 85.9; head match 0.667; head OCR confidence 48.8
+- **social clique** — PDF p. 419; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **social code** — PDF p. 419; Persian OCR confidence 0; head match 0.9; head OCR confidence 90.9
+- **social coherence** — PDF p. 419; Persian OCR confidence 0; head match 0.933; head OCR confidence 70.0
+- **social cohesion** — PDF p. 419; Persian OCR confidence 0; head match 1.0; head OCR confidence 94.4
+- **soclal communication** — PDF p. 419; Persian OCR confidence 90.4; head match 0.766; head OCR confidence 58.6
+- **soclal comparison** — PDF p. 419; Persian OCR confidence 87.8; head match 0.698; head OCR confidence 46.0
+- **soclal conflict** — PDF p. 419; Persian OCR confidence 89.0; head match 0.667; head OCR confidence 47.7
+- **soclal conscience** — PDF p. 419; Persian OCR confidence 91.3; head match 0.667; head OCR confidence 47.7
+- **social constitution** — PDF p. 419; Persian OCR confidence 52.3; head match 0.703; head OCR confidence 85.4
+- **social constraint** — PDF p. 419; Persian OCR confidence 89.6; head match 0.711; head OCR confidence 42.6
+- **social constructionism** — PDF p. 419; Persian OCR confidence 60.6; head match 0.905; head OCR confidence 85.0
+- **social contact** — PDF p. 419; Persian OCR confidence 85.9; head match 0.743; head OCR confidence 48.8
+- **social context** — PDF p. 420; Persian OCR confidence 55.4; head match 0.722; head OCR confidence 48.2
+- **social contract** — PDF p. 420; Persian OCR confidence 69.1; head match 0.595; head OCR confidence 48.2
+- **soclal control** — PDF p. 420; Persian OCR confidence 71.9; head match 0.686; head OCR confidence 48.1
+- **social cost** — PDF p. 420; Persian OCR confidence 89.6; head match 0.467; head OCR confidence 48.4
+- **soclal craze** — PDF p. 420; Persian OCR confidence 91.9; head match 0.69; head OCR confidence 66.9
+- **soclal creativity** — PDF p. 420; Persian OCR confidence 74.1; head match 0.75; head OCR confidence 64.3
+- **soclal credit** — PDF p. 420; Persian OCR confidence 59.3; head match 0.453; head OCR confidence 49.0
+- **soclal crisis** — PDF p. 420; Persian OCR confidence 83.4; head match 0.688; head OCR confidence 48.6
+- **social Darwinism** — PDF p. 420; Persian OCR confidence 41.5; head match 0.732; head OCR confidence 38.6
+- **soclal deficiency** — PDF p. 420; Persian OCR confidence 87.4; head match 0.714; head OCR confidence 64.2
+- **social democracy** — PDF p. 420; Persian OCR confidence 63.5; head match 0.75; head OCR confidence 39.9
+- **soclal demography** — PDF p. 420; Persian OCR confidence 83.3; head match 0.75; head OCR confidence 47.5
+- **social deprivation** — PDF p. 420; Persian OCR confidence 87.0; head match 0.81; head OCR confidence 51.2
+- **social deslrabllity** — PDF p. 420; Persian OCR confidence 0.0; head match 0.696; head OCR confidence 64.3
+- **social deterrence** — PDF p. 420; Persian OCR confidence 88.4; head match 0.711; head OCR confidence 62.1
+- **social development** — PDF p. 420; Persian OCR confidence 91.9; head match 0.773; head OCR confidence 48.7
+- **social dialectology** — PDF p. 420; Persian OCR confidence 89.3; head match 0.837; head OCR confidence 46.2
+- **social differentiation** — PDF p. 420; Persian OCR confidence 52.5; head match 0.952; head OCR confidence 96.7
+- **social dilemma** — PDF p. 420; Persian OCR confidence 61.2; head match 0.743; head OCR confidence 54.8
+- **soclal direction** — PDF p. 420; Persian OCR confidence 83.0; head match 0.737; head OCR confidence 54.7
+- **social disease** — PDF p. 420; Persian OCR confidence 89.8; head match 0.743; head OCR confidence 65.9
+- **soclal disorder** — PDF p. 420; Persian OCR confidence 68.4; head match 0.722; head OCR confidence 48.3
+- **soclal disparity** — PDF p. 420; Persian OCR confidence 91.0; head match 0.445; head OCR confidence 51.1
+- **soclal distance** — PDF p. 420; Persian OCR confidence 56.9; head match 0.667; head OCR confidence 51.2
+- **soclal drive** — PDF p. 420; Persian OCR confidence 79.5; head match 0.424; head OCR confidence 67.9
+- **soclal dynamics** — PDF p. 420; Persian OCR confidence 45.8; head match 0.667; head OCR confidence 54.2
+- **social engineer (slice! te** — PDF p. 420; Persian OCR confidence 60.8; head match 0.8; head OCR confidence 58.0
+- **social engineer (slice! te** — PDF p. 420; Persian OCR confidence 90.3; head match 0.789; head OCR confidence 58.0
+- **soclal entity** — PDF p. 420; Persian OCR confidence 67.9; head match 0.667; head OCR confidence 40.2
+- **social environment** — PDF p. 420; Persian OCR confidence 24.5; head match 0.829; head OCR confidence 54.8
+- **soclal equilibrium** — PDF p. 420; Persian OCR confidence 78.9; head match 0.457; head OCR confidence 47.9
+- **social evil place!** — PDF p. 420; Persian OCR confidence 65.6; head match 0.8; head OCR confidence 75.3
+- **social evolutionism** — PDF p. 420; Persian OCR confidence 88.3; head match 0.766; head OCR confidence 48.0
+- **social expectation** — PDF p. 420; Persian OCR confidence 60.4; head match 0.773; head OCR confidence 49.6
+- **soclal expenditure** — PDF p. 420; Persian OCR confidence 88.2; head match 0.711; head OCR confidence 50.5
+- **social facilitation pslezal** — PDF p. 420; Persian OCR confidence 88.4; head match 0.791; head OCR confidence 64.5
+- **social fact** — PDF p. 420; Persian OCR confidence 4.1; head match 1.0; head OCR confidence 89.9
+- **social factor** — PDF p. 420; Persian OCR confidence 90.3; head match 0.454; head OCR confidence 50.7
+- **social feeling** — PDF p. 420; Persian OCR confidence 71.3; head match 0.455; head OCR confidence 40.1
+- **social fermentation** — PDF p. 420; Persian OCR confidence 90.6; head match 0.766; head OCR confidence 30.8
+- **social fleld** — PDF p. 420; Persian OCR confidence 81.0; head match 0.438; head OCR confidence 48.2
+- **social fission** — PDF p. 420; Persian OCR confidence 79.9; head match 0.529; head OCR confidence 48.2
+- **social flxism** — PDF p. 420; Persian OCR confidence 82.1; head match 0.44; head OCR confidence 43.1
+- **social formation** — PDF p. 420; Persian OCR confidence 88.0; head match 0.579; head OCR confidence 43.1
+- **social function clare!** — PDF p. 420; Persian OCR confidence 59.4; head match 0.848; head OCR confidence 63.7
+- **social geography** — PDF p. 420; Persian OCR confidence 89.2; head match 0.75; head OCR confidence 48.3
+- **soclal gesture** — PDF p. 420; Persian OCR confidence 90.8; head match 0.442; head OCR confidence 44.1
+- **soclal good** — PDF p. 420; Persian OCR confidence 71.3; head match 0.667; head OCR confidence 51.4
+- **social gradation** — PDF p. 420; Persian OCR confidence 90.8; head match 0.5; head OCR confidence 51.4
+- **social gravitation** — PDF p. 420; Persian OCR confidence 67.6; head match 0.773; head OCR confidence 55.4
+- **social group** — PDF p. 420; Persian OCR confidence 71.8; head match 0.71; head OCR confidence 62.1
+- **social growth** — PDF p. 421; Persian OCR confidence 84.9; head match 0.75; head OCR confidence 64.3
+- **social habituation cathetel** — PDF p. 421; Persian OCR confidence 68.3; head match 0.81; head OCR confidence 64.4
+- **soclal heredity** — PDF p. 421; Persian OCR confidence 54.7; head match 0.667; head OCR confidence 48.5
+- **soclal heritage** — PDF p. 421; Persian OCR confidence 64.8; head match 0.684; head OCR confidence 64.4
+- **social hierarchy else! ol&l** — PDF p. 421; Persian OCR confidence 87.9; head match 0.811; head OCR confidence 66.2
+- **social homogeneity** — PDF p. 421; Persian OCR confidence 91.3; head match 0.773; head OCR confidence 48.2
+- **social hygiene** — PDF p. 421; Persian OCR confidence 74.7; head match 0.743; head OCR confidence 65.0
+- **soclal Ideal** — PDF p. 421; Persian OCR confidence 86.7; head match 0.667; head OCR confidence 66.2
+- **soclal identity** — PDF p. 421; Persian OCR confidence 44.9; head match 0.684; head OCR confidence 66.4
+- **social imaginary** — PDF p. 421; Persian OCR confidence 86.7; head match 0.714; head OCR confidence 50.2
+- **social Immobility** — PDF p. 421; Persian OCR confidence 53.1; head match 0.762; head OCR confidence 48.1
+- **soclal Imperative** — PDF p. 421; Persian OCR confidence 52.3; head match 0.75; head OCR confidence 47.2
+- **soclal lmperlalism** — PDF p. 421; Persian OCR confidence 88.8; head match 0.667; head OCR confidence 49.4
+- **soclal Indicator** — PDF p. 421; Persian OCR confidence 87.3; head match 0.7; head OCR confidence 54.5
+- **soclal Inheritance** — PDF p. 421; Persian OCR confidence 83.9; head match 0.744; head OCR confidence 55.7
+- **soclal Inhibition** — PDF p. 421; Persian OCR confidence 87.1; head match 0.682; head OCR confidence 48.6
+- **social insight** — PDF p. 421; Persian OCR confidence 86.5; head match 0.765; head OCR confidence 54.2
+- **social Instability** — PDF p. 421; Persian OCR confidence 85.1; head match 0.632; head OCR confidence 54.2
+- **soclal Instinct** — PDF p. 421; Persian OCR confidence 72.8; head match 0.684; head OCR confidence 57.1
+- **social institution islets** — PDF p. 421; Persian OCR confidence 67.3; head match 0.8; head OCR confidence 71.4
+- **social Insurance** — PDF p. 421; Persian OCR confidence 85.0; head match 0.769; head OCR confidence 48.3
+- **soclal Integration** — PDF p. 421; Persian OCR confidence 78.9; head match 0.821; head OCR confidence 48.2
+- **soclal Interaction** — PDF p. 421; Persian OCR confidence 81.1; head match 0.727; head OCR confidence 56.5
+- **soclal Investment** — PDF p. 421; Persian OCR confidence 76.5; head match 0.732; head OCR confidence 45.4
+- **socialism** — PDF p. 421; Persian OCR confidence 87.5; head match 0.434; head OCR confidence 47.7
+- **social isolate** — PDF p. 421; Persian OCR confidence 83.2; head match 0.818; head OCR confidence 85.2
+- **soclalistlc** — PDF p. 421; Persian OCR confidence 89.3; head match 0.667; head OCR confidence 48.3
+- **socialite** — PDF p. 421; Persian OCR confidence 55.9; head match 0.406; head OCR confidence 54.6
+- **soclality** — PDF p. 421; Persian OCR confidence 87.2; head match 0.329; head OCR confidence 30.0
+- **socialized drive** — PDF p. 421; Persian OCR confidence 84.8; head match 0.75; head OCR confidence 55.3
+- **soclallzed medicine** — PDF p. 421; Persian OCR confidence 87.4; head match 0.744; head OCR confidence 48.2
+- **socializer** — PDF p. 421; Persian OCR confidence 0.0; head match 0.483; head OCR confidence 17.4
+- **social katabolism** — PDF p. 421; Persian OCR confidence 89.4; head match 0.477; head OCR confidence 53.8
+- **social lag** — PDF p. 421; Persian OCR confidence 57.9; head match 0.45; head OCR confidence 55.8
+- **social layer** — PDF p. 421; Persian OCR confidence 90.6; head match 0.467; head OCR confidence 55.9
+- **social learning** — PDF p. 421; Persian OCR confidence 77.0; head match 0.737; head OCR confidence 42.8
+- **social life** — PDF p. 421; Persian OCR confidence 91.0; head match 0.741; head OCR confidence 57.6
+- **social man** — PDF p. 421; Persian OCR confidence 85.6; head match 0.467; head OCR confidence 44.0
+- **social mania** — PDF p. 421; Persian OCR confidence 82.6; head match 0.69; head OCR confidence 44.0
+- **social manners** — PDF p. 421; Persian OCR confidence 69.0; head match 0.743; head OCR confidence 62.5
+- **social maturity** — PDF p. 421; Persian OCR confidence 81.2; head match 0.778; head OCR confidence 51.7
+- **social meaning** — PDF p. 421; Persian OCR confidence 92.0; head match 0.514; head OCR confidence 51.7
+- **social metabolism JL..,_** — PDF p. 421; Persian OCR confidence 71.5; head match 0.8; head OCR confidence 37.5
+- **social mind** — PDF p. 421; Persian OCR confidence 91.1; head match 0.741; head OCR confidence 51.7
+- **soclal-mlndedness** — PDF p. 421; Persian OCR confidence 56.8; head match 0.636; head OCR confidence 41.6
+- **social mobility** — PDF p. 421; Persian OCR confidence 79.4; head match 0.737; head OCR confidence 52.6
+- **social monism** — PDF p. 421; Persian OCR confidence 70.0; head match 0.727; head OCR confidence 46.0
+- **social morals else! ae!** — PDF p. 421; Persian OCR confidence 69.2; head match 0.8; head OCR confidence 60.1
+- **social movement** — PDF p. 421; Persian OCR confidence 76.6; head match 0.718; head OCR confidence 48.0
+- **soclal necessity** — PDF p. 421; Persian OCR confidence 79.1; head match 0.737; head OCR confidence 38.8
+- **soclal need** — PDF p. 421; Persian OCR confidence 84.8; head match 0.434; head OCR confidence 54.3
+- **soclal nexus** — PDF p. 421; Persian OCR confidence 50.7; head match 0.412; head OCR confidence 53.1
+- **social nomlnallsm** — PDF p. 421; Persian OCR confidence 91.4; head match 0.718; head OCR confidence 55.1
+- **social norm** — PDF p. 421; Persian OCR confidence 56.8; head match 0.467; head OCR confidence 47.2
+- **soclal normlessness** — PDF p. 421; Persian OCR confidence 88.3; head match 0.81; head OCR confidence 38.3
+- **social nucleus.** — PDF p. 421; Persian OCR confidence 92.1; head match 0.467; head OCR confidence 47.9
+- **soclal object** — PDF p. 422; Persian OCR confidence 52.8; head match 0.667; head OCR confidence 54.7
+- **social optimum** — PDF p. 422; Persian OCR confidence 54.7; head match 0.765; head OCR confidence 52.5
+- **social order** — PDF p. 422; Persian OCR confidence 66.3; head match 0.44; head OCR confidence 29.0
+- **soclal organ** — PDF p. 422; Persian OCR confidence 73.8; head match 0.645; head OCR confidence 70.3
+- **social organism** — PDF p. 422; Persian OCR confidence 91.5; head match 0.647; head OCR confidence 70.3
+- **social orientation** — PDF p. 422; Persian OCR confidence 78.4; head match 0.756; head OCR confidence 38.6
+- **social origin** — PDF p. 422; Persian OCR confidence 91.1; head match 0.467; head OCR confidence 64.1
+- **social ossification** — PDF p. 422; Persian OCR confidence 79.0; head match 0.766; head OCR confidence 50.5
+- **social ownership** — PDF p. 422; Persian OCR confidence 56.6; head match 0.75; head OCR confidence 53.4
+- **soclal panic** — PDF p. 422; Persian OCR confidence 57.8; head match 0.412; head OCR confidence 48.8
+- **social parasite** — PDF p. 422; Persian OCR confidence 74.8; head match 0.541; head OCR confidence 48.8
+- **social parasitism sel SJ&i** — PDF p. 422; Persian OCR confidence 59.9; head match 0.842; head OCR confidence 60.5
+- **soclal partner** — PDF p. 422; Persian OCR confidence 74.6; head match 0.686; head OCR confidence 57.4
+- **soclal pathology** — PDF p. 422; Persian OCR confidence 85.1; head match 0.718; head OCR confidence 55.4
+- **soclal perception** — PDF p. 422; Persian OCR confidence 68.2; head match 0.732; head OCR confidence 64.6
+- **soclal phenomena** — PDF p. 422; Persian OCR confidence 58.8; head match 0.667; head OCR confidence 49.4
+- **soclal phobia** — PDF p. 422; Persian OCR confidence 91.9; head match 0.44; head OCR confidence 54.9
+- **social physics** — PDF p. 422; Persian OCR confidence 87.9; head match 0.479; head OCR confidence 53.5
+- **social planner else! pac,** — PDF p. 422; Persian OCR confidence 81.0; head match 0.788; head OCR confidence 55.7
+- **soclal planning** — PDF p. 422; Persian OCR confidence 66.3; head match 0.588; head OCR confidence 55.7
+- **social polarity** — PDF p. 422; Persian OCR confidence 90.9; head match 0.445; head OCR confidence 48.3
+- **soclal policy** — PDF p. 422; Persian OCR confidence 62.0; head match 0.667; head OCR confidence 63.7
+- **social politesse theta** — PDF p. 422; Persian OCR confidence 83.3; head match 0.8; head OCR confidence 72.8
+- **social potential else! ily** — PDF p. 422; Persian OCR confidence 91.6; head match 0.811; head OCR confidence 68.9
+- **social power** — PDF p. 422; Persian OCR confidence 62.0; head match 0.481; head OCR confidence 64.3
+- **soclal pressure** — PDF p. 422; Persian OCR confidence 91.2; head match 0.684; head OCR confidence 61.1
+- **soclal prestige** — PDF p. 422; Persian OCR confidence 81.0; head match 0.722; head OCR confidence 54.3
+- **social process** — PDF p. 422; Persian OCR confidence 62.3; head match 1.0; head OCR confidence 96.2
+- **social product celal** — PDF p. 422; Persian OCR confidence 86.5; head match 0.839; head OCR confidence 64.0
+- **social propagation slsal sly** — PDF p. 422; Persian OCR confidence 54.9; head match 0.81; head OCR confidence 58.3
+- **soclal provision** — PDF p. 422; Persian OCR confidence 89.3; head match 0.683; head OCR confidence 60.2
+- **social psychiatry** — PDF p. 422; Persian OCR confidence 57.3; head match 0.727; head OCR confidence 30.5
+- **soclal-psychological** — PDF p. 422; Persian OCR confidence 91.0; head match 0.75; head OCR confidence 30.6
+- **social psychologist** — PDF p. 422; Persian OCR confidence 89.1; head match 0.818; head OCR confidence 50.2
+- **social pyramid** — PDF p. 422; Persian OCR confidence 60.8; head match 1.0; head OCR confidence 95.9
+- **social qualification** — PDF p. 422; Persian OCR confidence 30.5; head match 0.826; head OCR confidence 45.8
+- **social realism** — PDF p. 422; Persian OCR confidence 64.0; head match 0.467; head OCR confidence 44.8
+- **soclal reality** — PDF p. 422; Persian OCR confidence 69.0; head match 0.454; head OCR confidence 53.6
+- **social recognition plaza! lols** — PDF p. 422; Persian OCR confidence 90.0; head match 0.791; head OCR confidence 56.8
+- **social regulation lace! lg** — PDF p. 422; Persian OCR confidence 59.1; head match 0.842; head OCR confidence 57.3
+- **social rejection** — PDF p. 422; Persian OCR confidence 82.4; head match 0.588; head OCR confidence 85.7
+- **social relation** — PDF p. 422; Persian OCR confidence 89.1; head match 0.737; head OCR confidence 45.6
+- **social repression** — PDF p. 422; Persian OCR confidence 69.3; head match 0.78; head OCR confidence 48.6
+- **social research** — PDF p. 422; Persian OCR confidence 78.0; head match 0.737; head OCR confidence 37.0
+- **social resource** — PDF p. 422; Persian OCR confidence 91.7; head match 0.737; head OCR confidence 64.3
+- **social restraint** — PDF p. 422; Persian OCR confidence 90.2; head match 0.564; head OCR confidence 64.3
+- **social retrogression** — PDF p. 422; Persian OCR confidence 53.6; head match 0.776; head OCR confidence 41.8
+- **social revolution** — PDF p. 422; Persian OCR confidence 81.4; head match 0.8; head OCR confidence 50.4
+- **social rhythm place!** — PDF p. 422; Persian OCR confidence 91.3; head match 0.828; head OCR confidence 74.7
+- **social rite (s)** — PDF p. 422; Persian OCR confidence 76.5; head match 0.643; head OCR confidence 74.7
+- **social role** — PDF p. 423; Persian OCR confidence 0; head match 0.9; head OCR confidence 96.5
+- **social sanction** — PDF p. 423; Persian OCR confidence 0; head match 0.929; head OCR confidence 96.7
+- **social satisfaction** — PDF p. 423; Persian OCR confidence 0; head match 0.944; head OCR confidence 96.7
+- **social scale** — PDF p. 423; Persian OCR confidence 0; head match 0.909; head OCR confidence 96.3
+- **social science** — PDF p. 423; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **social sciences** — PDF p. 423; Persian OCR confidence 0; head match 0.929; head OCR confidence 96.6
+- **social sector** — PDF p. 423; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **social security** — PDF p. 423; Persian OCR confidence 0; head match 0.929; head OCR confidence 96.5
+- **social selection** — PDF p. 423; Persian OCR confidence 0; head match 0.933; head OCR confidence 96.8
+- **social self** — PDF p. 423; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **social sense** — PDF p. 423; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **social sensitivity** — PDF p. 423; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.8
+- **social service** — PDF p. 423; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **social solidarity** — PDF p. 423; Persian OCR confidence 0; head match 0.938; head OCR confidence 96.3
+- **social space** — PDF p. 423; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **social staticism** — PDF p. 423; Persian OCR confidence 0; head match 0.8; head OCR confidence 93.2
+- **social statics** — PDF p. 423; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.8
+- **soclal status** — PDF p. 423; Persian OCR confidence 85.7; head match 0.759; head OCR confidence 52.9
+- **soclal stlmulation** — PDF p. 423; Persian OCR confidence 81.8; head match 0.769; head OCR confidence 63.7
+- **social strata** — PDF p. 423; Persian OCR confidence 85.1; head match 0.48; head OCR confidence 48.5
+- **soclal stratification** — PDF p. 423; Persian OCR confidence 90.5; head match 0.76; head OCR confidence 52.9
+- **soclal stratum** — PDF p. 423; Persian OCR confidence 90.4; head match 0.706; head OCR confidence 57.7
+- **social strictures** — PDF p. 423; Persian OCR confidence 61.0; head match 0.938; head OCR confidence 84.2
+- **social strictures** — PDF p. 423; Persian OCR confidence 52.8; head match 0.839; head OCR confidence 84.2
+- **social studies** — PDF p. 423; Persian OCR confidence 73.9; head match 0.611; head OCR confidence 65.7
+- **soclal surplus** — PDF p. 423; Persian OCR confidence 82.0; head match 0.431; head OCR confidence 51.2
+- **soclal survey** — PDF p. 423; Persian OCR confidence 76.7; head match 0.71; head OCR confidence 56.0
+- **soclal survival** — PDF p. 423; Persian OCR confidence 85.2; head match 0.606; head OCR confidence 56.0
+- **soclal synthesis** — PDF p. 423; Persian OCR confidence 55.0; head match 0.667; head OCR confidence 47.6
+- **soclal system** — PDF p. 423; Persian OCR confidence 85.9; head match 0.44; head OCR confidence 58.3
+- **soclal technique** — PDF p. 423; Persian OCR confidence 57.3; head match 0.683; head OCR confidence 54.3
+- **social technology** — PDF p. 423; Persian OCR confidence 89.0; head match 0.8; head OCR confidence 48.3
+- **social telesls** — PDF p. 423; Persian OCR confidence 82.2; head match 0.727; head OCR confidence 57.8
+- **social telics** — PDF p. 423; Persian OCR confidence 84.2; head match 0.727; head OCR confidence 47.4
+- **social temper i** — PDF p. 423; Persian OCR confidence 14.8; head match 0.96; head OCR confidence 84.9
+- **social tension** — PDF p. 423; Persian OCR confidence 87.2; head match 0.722; head OCR confidence 52.7
+- **social theory** — PDF p. 423; Persian OCR confidence 86.1; head match 0.467; head OCR confidence 60.1
+- **social thought tlc! atl** — PDF p. 423; Persian OCR confidence 86.0; head match 0.812; head OCR confidence 67.3
+- **social time** — PDF p. 423; Persian OCR confidence 69.1; head match 0.483; head OCR confidence 63.0
+- **social transmission** — PDF p. 423; Persian OCR confidence 77.7; head match 0.766; head OCR confidence 48.1
+- **social trends** — PDF p. 423; Persian OCR confidence 91.1; head match 0.467; head OCR confidence 48.0
+- **social type** — PDF p. 423; Persian OCR confidence 90.8; head match 0.4; head OCR confidence 46.1
+- **social understanding** — PDF p. 423; Persian OCR confidence 86.5; head match 0.776; head OCR confidence 57.0
+- **social union** — PDF p. 423; Persian OCR confidence 84.4; head match 0.467; head OCR confidence 61.6
+- **social unit** — PDF p. 423; Persian OCR confidence 80.2; head match 0.483; head OCR confidence 53.5
+- **social unrest** — PDF p. 423; Persian OCR confidence 79.9; head match 0.581; head OCR confidence 53.5
+- **soclal valuatlon** — PDF p. 423; Persian OCR confidence 76.9; head match 0.703; head OCR confidence 64.1
+- **social value** — PDF p. 423; Persian OCR confidence 87.5; head match 0.759; head OCR confidence 64.4
+- **social wage** — PDF p. 423; Persian OCR confidence 88.8; head match 0.571; head OCR confidence 64.4
+- **soclal welfare** — PDF p. 423; Persian OCR confidence 85.8; head match 0.706; head OCR confidence 53.5
+- **social wholes** — PDF p. 423; Persian OCR confidence 49.5; head match 0.545; head OCR confidence 53.5
+- **social will** — PDF p. 423; Persian OCR confidence 88.2; head match 0.438; head OCR confidence 47.5
+- **soclal work** — PDF p. 423; Persian OCR confidence 84.7; head match 0.643; head OCR confidence 50.5
+- **soclal worker** — PDF p. 423; Persian OCR confidence 86.7; head match 0.6; head OCR confidence 50.5
+- **soclation** — PDF p. 423; Persian OCR confidence 44.4; head match 0.696; head OCR confidence 48.4
+- **societal** — PDF p. 423; Persian OCR confidence 89.8; head match 0.487; head OCR confidence 22.3
+- **socletal forces** — PDF p. 423; Persian OCR confidence 82.5; head match 0.552; head OCR confidence 22.3
+- **societal pattern** — PDF p. 423; Persian OCR confidence 68.6; head match 0.811; head OCR confidence 53.6
+- **societal phenomena** — PDF p. 423; Persian OCR confidence 87.5; head match 0.739; head OCR confidence 47.2
+- **societal process** — PDF p. 423; Persian OCR confidence 59.4; head match 0.769; head OCR confidence 47.6
+- **societal wholes** — PDF p. 423; Persian OCR confidence 46.3; head match 0.737; head OCR confidence 46.5
+- **societary** — PDF p. 423; Persian OCR confidence 0; head match 0.585; head OCR confidence 46.5
+- **society** — PDF p. 423; Persian OCR confidence 0; head match 0.875; head OCR confidence 27.8
+- **Socinian d,-, <~** — PDF p. 423; Persian OCR confidence 83.7; head match 0.455; head OCR confidence 39.3
+- **socioanalysls** — PDF p. 423; Persian OCR confidence 65.0; head match 0.492; head OCR confidence 23.3
+- **sociobiology** — PDF p. 424; Persian OCR confidence 79.3; head match 0.467; head OCR confidence 38.0
+- **sociocenter** — PDF p. 424; Persian OCR confidence 88.8; head match 0.481; head OCR confidence 30.6
+- **soclocentric** — PDF p. 424; Persian OCR confidence 69.6; head match 0.733; head OCR confidence 44.5
+- **soclocentrlcity** — PDF p. 424; Persian OCR confidence 22.0; head match 0.743; head OCR confidence 45.2
+- **soclocentrism** — PDF p. 424; Persian OCR confidence 62.7; head match 0.727; head OCR confidence 45.9
+- **socio-cultural** — PDF p. 424; Persian OCR confidence 75.3; head match 0.743; head OCR confidence 48.0
+- **sociodrama** — PDF p. 424; Persian OCR confidence 59.7; head match 0.483; head OCR confidence 45.8
+- **soclodynamics** — PDF p. 424; Persian OCR confidence 90.2; head match 0.5; head OCR confidence 45.8
+- **soclodynamism** — PDF p. 424; Persian OCR confidence 75.7; head match 0.75; head OCR confidence 41.7
+- **socio-economic** — PDF p. 424; Persian OCR confidence 49.5; head match 0.788; head OCR confidence 30.6
+- **sociofugal** — PDF p. 424; Persian OCR confidence 87.3; head match 0.424; head OCR confidence 36.6
+- **soclogenetlc** — PDF p. 424; Persian OCR confidence 72.1; head match 0.71; head OCR confidence 45.6
+- **soclogenic** — PDF p. 424; Persian OCR confidence 76.5; head match 0.667; head OCR confidence 50.3
+- **soclogeny** — PDF p. 424; Persian OCR confidence 84.7; head match 0.431; head OCR confidence 52.0
+- **sociogram** — PDF p. 424; Persian OCR confidence 69.3; head match 0.72; head OCR confidence 46.2
+- **soclographer** — PDF p. 424; Persian OCR confidence 81.2; head match 0.759; head OCR confidence 45.8
+- **soclography** — PDF p. 424; Persian OCR confidence 72.4; head match 0.69; head OCR confidence 30.4
+- **sociohistorical** — PDF p. 424; Persian OCR confidence 63.0; head match 0.789; head OCR confidence 45.2
+- **soclolatry** — PDF p. 424; Persian OCR confidence 87.6; head match 0.667; head OCR confidence 46.5
+- **sociolect** — PDF p. 424; Persian OCR confidence 59.8; head match 0.75; head OCR confidence 36.7
+- **socio-legal** — PDF p. 424; Persian OCR confidence 81.2; head match 0.714; head OCR confidence 46.1
+- **soclollnguist** — PDF p. 424; Persian OCR confidence 67.8; head match 0.611; head OCR confidence 33.9
+- **soclolinguistic** — PDF p. 424; Persian OCR confidence 67.3; head match 0.667; head OCR confidence 44.3
+- **soclolinguistics** — PDF p. 424; Persian OCR confidence 46.2; head match 0.698; head OCR confidence 44.3
+- **sociologlcal** — PDF p. 424; Persian OCR confidence 60.7; head match 0.395; head OCR confidence 38.9
+- **sociological law** — PDF p. 424; Persian OCR confidence 48.2; head match 0.933; head OCR confidence 96.5
+- **sociological norms** — PDF p. 424; Persian OCR confidence 56.9; head match 1.0; head OCR confidence 96.6
+- **sociological trends** — PDF p. 424; Persian OCR confidence 39.2; head match 0.889; head OCR confidence 96.2
+- **sociological units** — PDF p. 424; Persian OCR confidence 41.8; head match 0.941; head OCR confidence 96.8
+- **sociologism** — PDF p. 424; Persian OCR confidence 90.4; head match 0.733; head OCR confidence 35.1
+- **sociologist** — PDF p. 424; Persian OCR confidence 90.7; head match 0.733; head OCR confidence 48.0
+- **sociology** — PDF p. 424; Persian OCR confidence 86.9; head match 0.467; head OCR confidence 31.6
+- **sociology of education** — PDF p. 424; Persian OCR confidence 60.6; head match 1.0; head OCR confidence 92.9
+- **SOCIOiogy of family** — PDF p. 424; Persian OCR confidence 82.0; head match 0.681; head OCR confidence 55.2
+- **sociology of law** — PDF p. 424; Persian OCR confidence 79.0; head match 0.478; head OCR confidence 57.8
+- **sociology of poverty ii _plteul** — PDF p. 424; Persian OCR confidence 49.6; head match 0.818; head OCR confidence 63.4
+- **sociology of religion** — PDF p. 424; Persian OCR confidence 31.4; head match 0.947; head OCR confidence 87.7
+- **sociometric** — PDF p. 424; Persian OCR confidence 40.7; head match 0.467; head OCR confidence 87.7
+- **sociometrlcs** — PDF p. 424; Persian OCR confidence 0; head match 0.917; head OCR confidence 22.8
+- **Sociometric test** — PDF p. 424; Persian OCR confidence 0; head match 1.0; head OCR confidence 75.8
+- **soclometry** — PDF p. 424; Persian OCR confidence 0; head match 0.9; head OCR confidence 74.6
+- **sociopath** — PDF p. 424; Persian OCR confidence 0; head match 1.0; head OCR confidence 84.1
+- **sociopathic** — PDF p. 424; Persian OCR confidence 0; head match 0.818; head OCR confidence 82.0
+- **sociopathy** — PDF p. 424; Persian OCR confidence 0; head match 1.0; head OCR confidence 67.6
+- **sociopetal** — PDF p. 424; Persian OCR confidence 0; head match 1.0; head OCR confidence 25.7
+- **socio-political** — PDF p. 424; Persian OCR confidence 0; head match 1.0; head OCR confidence 69.0
+- **soclo-rellglous** — PDF p. 424; Persian OCR confidence 0; head match 0.786; head OCR confidence 48.8
+- **sociosphere** — PDF p. 424; Persian OCR confidence 77.5; head match 0.56; head OCR confidence 48.8
+- **soclotherapy** — PDF p. 424; Persian OCR confidence 83.0; head match 0.667; head OCR confidence 16.2
+- **Socratic Irony** — PDF p. 424; Persian OCR confidence 82.4; head match 0.722; head OCR confidence 49.4
+- **Socratic method** — PDF p. 424; Persian OCR confidence 75.4; head match 0.757; head OCR confidence 59.2
+- **sodality** — PDF p. 424; Persian OCR confidence 60.3; head match 1.0; head OCR confidence 91.4
+- **sodom** — PDF p. 424; Persian OCR confidence 43.8; head match 0.292; head OCR confidence 14.4
+- **soft determinism** — PDF p. 424; Persian OCR confidence 67.8; head match 0.488; head OCR confidence 45.6
+- **soft drug** — PDF p. 424; Persian OCR confidence 23.3; head match 0.467; head OCR confidence 62.8
+- **soft orientation “sje** — PDF p. 425; Persian OCR confidence 43.5; head match 0.909; head OCR confidence 70.6
+- **soft science** — PDF p. 425; Persian OCR confidence 75.4; head match 0.71; head OCR confidence 66.9
+- **software** — PDF p. 425; Persian OCR confidence 31.0; head match 0.727; head OCR confidence 68.0
+- **solar day jg 4S,** — PDF p. 425; Persian OCR confidence 82.0; head match 0.8; head OCR confidence 74.8
+- **solar month** — PDF p. 425; Persian OCR confidence 92.2; head match 0.8; head OCR confidence 48.3
+- **solar system** — PDF p. 425; Persian OCR confidence 86.2; head match 0.71; head OCR confidence 51.7
+- **solar year** — PDF p. 425; Persian OCR confidence 78.3; head match 0.75; head OCR confidence 67.6
+- **soldan** — PDF p. 425; Persian OCR confidence 74.8; head match 0.494; head OCR confidence 43.8
+- **soleclsm** — PDF p. 425; Persian OCR confidence 82.5; head match 0.526; head OCR confidence 43.8
+- **soleclst** — PDF p. 425; Persian OCR confidence 78.1; head match 0.363; head OCR confidence 37.6
+- **solecistic** — PDF p. 425; Persian OCR confidence 83.0; head match 0.438; head OCR confidence 28.2
+- **solidarity** — PDF p. 425; Persian OCR confidence 23.8; head match 0.769; head OCR confidence 49.1
+- **sollloqulst** — PDF p. 425; Persian OCR confidence 54.4; head match 0.692; head OCR confidence 68.0
+- **soliloquy** — PDF p. 425; Persian OCR confidence 83.5; head match 0.783; head OCR confidence 48.0
+- **sollpsistic** — PDF p. 425; Persian OCR confidence 72.7; head match 0.69; head OCR confidence 68.7
+- **solitary** — PDF p. 425; Persian OCR confidence 77.6; head match 0.7; head OCR confidence 80.0
+- **Solutrlan** — PDF p. 425; Persian OCR confidence 0; head match 0.467; head OCR confidence 92.6
+- **solvency** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **solvent** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.7
+- **soma** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **Somali** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **somatic** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **somatic disorder AS SLLL** — PDF p. 425; Persian OCR confidence 68.1; head match 0.833; head OCR confidence 66.4
+- **somatic therapy la et** — PDF p. 425; Persian OCR confidence 42.9; head match 0.875; head OCR confidence 61.5
+- **somatogenic** — PDF p. 425; Persian OCR confidence 0; head match 0.585; head OCR confidence 55.1
+- **somatological** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 41.0
+- **somatology** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 68.8
+- **somatopsychic** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 14.1
+- **somatotonia** — PDF p. 425; Persian OCR confidence 0; head match 0.909; head OCR confidence 72.8
+- **somatotonic** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 83.6
+- **somatotype** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.4
+- **somatotypic** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 65.1
+- **somatotypology** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 62.6
+- **somesthesia** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 9.3
+- **somnambular** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 51.0
+- **somnambulism** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 44.9
+- **somnambulist** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 54.6
+- **somnambulistic** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 39.1
+- **somnifacient** — PDF p. 425; Persian OCR confidence 0; head match 0.833; head OCR confidence 78.8
+- **somniferous** — PDF p. 425; Persian OCR confidence 0; head match 1.0; head OCR confidence 47.0
+- **somnlfic** — PDF p. 425; Persian OCR confidence 0; head match 0.733; head OCR confidence 92.4
+- **somniloquence** — PDF p. 425; Persian OCR confidence 50.4; head match 0.788; head OCR confidence 18.0
+- **somniloquy** — PDF p. 425; Persian OCR confidence 0; head match 0.722; head OCR confidence 91.9
+- **somniloquence** — PDF p. 425; Persian OCR confidence 91.2; head match 0.783; head OCR confidence 91.9
+- **son et lumiére (Fr) laos** — PDF p. 425; Persian OCR confidence 56.4; head match 0.839; head OCR confidence 57.0
+- **song** — PDF p. 425; Persian OCR confidence 86.4; head match 0.295; head OCR confidence 57.8
+- **songsmith** — PDF p. 425; Persian OCR confidence 75.1; head match 0.706; head OCR confidence 87.7
+- **songster** — PDF p. 425; Persian OCR confidence 62.5; head match 0.35; head OCR confidence 26.1
+- **songwriter** — PDF p. 425; Persian OCR confidence 91.6; head match 0.483; head OCR confidence 25.9
+- **sonnet** — PDF p. 425; Persian OCR confidence 40.8; head match 0.365; head OCR confidence 32.0
+- **sonneteer** — PDF p. 425; Persian OCR confidence 77.4; head match 0.434; head OCR confidence 39.6
+- **sonority** — PDF p. 426; Persian OCR confidence 65.0; head match 0.75; head OCR confidence 87.4
+- **sonorous** — PDF p. 426; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.3
+- **sonorousness** — PDF p. 426; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **sooth** — PDF p. 426; Persian OCR confidence 62.1; head match 0.318; head OCR confidence 31.7
+- **soothfast** — PDF p. 426; Persian OCR confidence 72.1; head match 0.72; head OCR confidence 46.1
+- **soothsayer** — PDF p. 426; Persian OCR confidence 80.5; head match 0.714; head OCR confidence 49.2
+- **soothsaying** — PDF p. 426; Persian OCR confidence 87.6; head match 0.733; head OCR confidence 38.8
+- **sophism** — PDF p. 426; Persian OCR confidence 68.8; head match 0.363; head OCR confidence 43.8
+- **sophist** — PDF p. 426; Persian OCR confidence 71.5; head match 0.363; head OCR confidence 43.8
+- **sophistlc(-al)** — PDF p. 426; Persian OCR confidence 76.4; head match 0.645; head OCR confidence 36.8
+- **sophisticate** — PDF p. 426; Persian OCR confidence 39.8; head match 0.688; head OCR confidence 36.8
+- **sophisticated** — PDF p. 426; Persian OCR confidence 60.9; head match 0.467; head OCR confidence 29.0
+- **sophistication c?lfa ,J~** — PDF p. 426; Persian OCR confidence 81.6; head match 0.32; head OCR confidence 12.7
+- **sophistry** — PDF p. 426; Persian OCR confidence 63.4; head match 0.45; head OCR confidence 48.7
+- **sop hoc racy** — PDF p. 426; Persian OCR confidence 54.0; head match 0.714; head OCR confidence 44.7
+- **soporlferous** — PDF p. 426; Persian OCR confidence 49.9; head match 0.815; head OCR confidence 46.1
+- **soporific** — PDF p. 426; Persian OCR confidence 81.2; head match 0.406; head OCR confidence 31.6
+- **Sorbonlst** — PDF p. 426; Persian OCR confidence 45.6; head match 0.36; head OCR confidence 40.5
+- **sorcerer** — PDF p. 426; Persian OCR confidence 86.7; head match 0.487; head OCR confidence 48.3
+- **sorceress** — PDF p. 426; Persian OCR confidence 92.4; head match 0.75; head OCR confidence 48.3
+- **sorcerous** — PDF p. 426; Persian OCR confidence 76.8; head match 0.583; head OCR confidence 48.3
+- **sorcery** — PDF p. 426; Persian OCR confidence 91.5; head match 0.408; head OCR confidence 48.1
+- **sorites** — PDF p. 426; Persian OCR confidence 70.6; head match 0.737; head OCR confidence 53.8
+- **sororal** — PDF p. 426; Persian OCR confidence 91.2; head match 0.526; head OCR confidence 53.8
+- **sororal polygyny** — PDF p. 426; Persian OCR confidence 88.0; head match 0.75; head OCR confidence 61.2
+- **sororate** — PDF p. 426; Persian OCR confidence 67.5; head match 0.467; head OCR confidence 34.8
+- **sororicide** — PDF p. 426; Persian OCR confidence 23.4; head match 0.833; head OCR confidence 50.9
+- **sorority** — PDF p. 426; Persian OCR confidence 27.1; head match 0.889; head OCR confidence 40.2
+- **sorter** — PDF p. 426; Persian OCR confidence 8.6; head match 0.75; head OCR confidence 21.6
+- **sortilege** — PDF p. 426; Persian OCR confidence 70.2; head match 0.783; head OCR confidence 48.9
+- **soteriologic(-al)** — PDF p. 426; Persian OCR confidence 0; head match 1.0; head OCR confidence 44.2
+- **soterlology** — PDF p. 426; Persian OCR confidence 49.9; head match 0.667; head OCR confidence 41.2
+- **Sotho** — PDF p. 426; Persian OCR confidence 83.5; head match 0.389; head OCR confidence 27.6
+- **soul** — PDF p. 426; Persian OCR confidence 88.7; head match 0.545; head OCR confidence 28.0
+- **soul-image** — PDF p. 426; Persian OCR confidence 88.4; head match 0.485; head OCR confidence 40.6
+- **soul loss** — PDF p. 426; Persian OCR confidence 87.4; head match 0.373; head OCR confidence 29.5
+- **soul-stuff** — PDF p. 426; Persian OCR confidence 84.1; head match 0.818; head OCR confidence 19.2
+- **soul substance** — PDF p. 426; Persian OCR confidence 88.7; head match 0.538; head OCR confidence 19.2
+- **sound** — PDF p. 426; Persian OCR confidence 75.0; head match 0.28; head OCR confidence 27.3
+- **sound** — PDF p. 426; Persian OCR confidence 53.8; head match 0.714; head OCR confidence 43.3
+- **sound bite** — PDF p. 426; Persian OCR confidence 62.4; head match 1.0; head OCR confidence 78.9
+- **sound change** — PDF p. 426; Persian OCR confidence 65.6; head match 0.786; head OCR confidence 45.8
+- **sound law** — PDF p. 426; Persian OCR confidence 79.2; head match 0.448; head OCR confidence 38.2
+- **soundness** — PDF p. 426; Persian OCR confidence 82.9; head match 0.75; head OCR confidence 35.9
+- **sound organs** — PDF p. 426; Persian OCR confidence 85.5; head match 0.453; head OCR confidence 46.5
+- **sound shift** — PDF p. 426; Persian OCR confidence 81.2; head match 0.452; head OCR confidence 52.7
+- **sound symbolism** — PDF p. 426; Persian OCR confidence 79.2; head match 0.737; head OCR confidence 34.3
+- **sound system** — PDF p. 426; Persian OCR confidence 87.4; head match 0.428; head OCR confidence 53.5
+- **source** — PDF p. 426; Persian OCR confidence 71.0; head match 0.28; head OCR confidence 8.2
+- **source book** — PDF p. 426; Persian OCR confidence 65.2; head match 0.483; head OCR confidence 34.1
+- **source document** — PDF p. 426; Persian OCR confidence 0; head match 1.0; head OCR confidence 86.1
+- **source material Lol cabo** — PDF p. 426; Persian OCR confidence 67.9; head match 0.8; head OCR confidence 66.8
+- **southern** — PDF p. 427; Persian OCR confidence 91.6; head match 0.6; head OCR confidence 75.3
+- **southerner** — PDF p. 427; Persian OCR confidence 76.2; head match 0.714; head OCR confidence 43.0
+- **Southern Hemisphere** — PDF p. 427; Persian OCR confidence 28.6; head match 1.0; head OCR confidence 81.3
+- **souvenir** — PDF p. 427; Persian OCR confidence 70.5; head match 0.431; head OCR confidence 29.6
+- **sovereign** — PDF p. 427; Persian OCR confidence 70.3; head match 0.371; head OCR confidence 25.3
+- **sovereign state** — PDF p. 427; Persian OCR confidence 53.5; head match 0.737; head OCR confidence 48.2
+- **sovereignty** — PDF p. 427; Persian OCR confidence 87.1; head match 0.759; head OCR confidence 42.7
+- **soviet** — PDF p. 427; Persian OCR confidence 52.6; head match 0.42; head OCR confidence 32.1
+- **sovletlzatlon** — PDF p. 427; Persian OCR confidence 86.9; head match 0.769; head OCR confidence 91.5
+- **sovkhoz (R.) SIRI** — PDF p. 427; Persian OCR confidence 67.9; head match 0.8; head OCR confidence 68.1
+- **space** — PDF p. 427; Persian OCR confidence 76.0; head match 0.769; head OCR confidence 47.9
+- **space blology** — PDF p. 427; Persian OCR confidence 0; head match 0.453; head OCR confidence 96.7
+- **spaceborne** — PDF p. 427; Persian OCR confidence 88.2; head match 0.714; head OCR confidence 32.4
+- **spaceborne satellite** — PDF p. 427; Persian OCR confidence 86.8; head match 0.792; head OCR confidence 54.3
+- **space-bound** — PDF p. 427; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.8
+- **spacecraft** — PDF p. 427; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.4
+- **space flight** — PDF p. 427; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **space law** — PDF p. 427; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **space-like** — PDF p. 427; Persian OCR confidence 0; head match 0.889; head OCR confidence 92.1
+- **spaceman** — PDF p. 427; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.5
+- **space medicine** — PDF p. 427; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **space opera** — PDF p. 427; Persian OCR confidence 70.5; head match 0.452; head OCR confidence 47.7
+- **space planning** — PDF p. 427; Persian OCR confidence 74.4; head match 0.765; head OCR confidence 58.9
+- **spaceport** — PDF p. 427; Persian OCR confidence 66.4; head match 0.783; head OCR confidence 11.8
+- **space probe** — PDF p. 427; Persian OCR confidence 87.5; head match 0.583; head OCR confidence 11.8
+- **space psychology** — PDF p. 427; Persian OCR confidence 69.8; head match 0.732; head OCR confidence 50.5
+- **space science** — PDF p. 427; Persian OCR confidence 90.1; head match 0.727; head OCR confidence 59.0
+- **spaceship; space ship** — PDF p. 427; Persian OCR confidence 42.5; head match 0.783; head OCR confidence 51.6
+- **space shuttle** — PDF p. 427; Persian OCR confidence 68.2; head match 0.8; head OCR confidence 47.0
+- **space sickness 5d5-Lad** — PDF p. 427; Persian OCR confidence 86.0; head match 0.812; head OCR confidence 63.6
+- **space station** — PDF p. 427; Persian OCR confidence 83.3; head match 0.75; head OCR confidence 51.8
+- **space-time** — PDF p. 427; Persian OCR confidence 43.7; head match 0.72; head OCR confidence 31.4
+- **space vehicle** — PDF p. 427; Persian OCR confidence 60.9; head match 0.5; head OCR confidence 31.4
+- **space walk** — PDF p. 427; Persian OCR confidence 90.5; head match 0.485; head OCR confidence 48.4
+- **space walker** — PDF p. 427; Persian OCR confidence 92.6; head match 0.759; head OCR confidence 62.2
+- **spaceward** — PDF p. 427; Persian OCR confidence 92.0; head match 0.45; head OCR confidence 32.2
+- **spacial** — PDF p. 427; Persian OCR confidence 0; head match 0.545; head OCR confidence 32.2
+- **spaclallty** — PDF p. 427; Persian OCR confidence 0; head match 0.373; head OCR confidence 91.1
+- **spagyrlc(-al)** — PDF p. 427; Persian OCR confidence 79.7; head match 0.643; head OCR confidence 33.9
+- **span** — PDF p. 427; Persian OCR confidence 70.6; head match 0.191; head OCR confidence 33.9
+- **Spaniard** — PDF p. 427; Persian OCR confidence 88.3; head match 0.762; head OCR confidence 38.2
+- **Spanish** — PDF p. 427; Persian OCR confidence 91.8; head match 0.377; head OCR confidence 26.8
+- **Spanish-American** — PDF p. 427; Persian OCR confidence 26.2; head match 0.714; head OCR confidence 30.7
+- **span of consciousness _,al51 sl+1,5** — PDF p. 427; Persian OCR confidence 78.1; head match 0.826; head OCR confidence 64.2
+- **span of control** — PDF p. 427; Persian OCR confidence 82.0; head match 0.765; head OCR confidence 57.3
+- **Spartanlsm** — PDF p. 427; Persian OCR confidence 81.4; head match 0.72; head OCR confidence 60.5
+- **spatlal** — PDF p. 427; Persian OCR confidence 75.5; head match 0.42; head OCR confidence 62.2
+- **spatlal abllitles** — PDF p. 427; Persian OCR confidence 89.8; head match 0.578; head OCR confidence 56.1
+- **spatiallzatlon** — PDF p. 428; Persian OCR confidence 61.6; head match 0.8; head OCR confidence 50.9
+- **spatialized** — PDF p. 428; Persian OCR confidence 77.5; head match 0.786; head OCR confidence 46.4
+- **spatializing** — PDF p. 428; Persian OCR confidence 49.9; head match 0.828; head OCR confidence 45.9
+- **spatial order lai kl,** — PDF p. 428; Persian OCR confidence 86.7; head match 0.828; head OCR confidence 73.2
+- **spatial orientation** — PDF p. 428; Persian OCR confidence 68.3; head match 0.735; head OCR confidence 54.2
+- **spatial planning** — PDF p. 428; Persian OCR confidence 72.4; head match 0.769; head OCR confidence 58.1
+- **spatial relation olic.i** — PDF p. 428; Persian OCR confidence 58.5; head match 0.857; head OCR confidence 63.1
+- **spatio-temporal** — PDF p. 428; Persian OCR confidence 49.9; head match 0.875; head OCR confidence 10.3
+- **speaker** — PDF p. 428; Persian OCR confidence 54.8; head match 0.467; head OCR confidence 60.5
+- **special** — PDF p. 428; Persian OCR confidence 72.2; head match 0.778; head OCR confidence 48.3
+- **special act** — PDF p. 428; Persian OCR confidence 80.1; head match 0.769; head OCR confidence 64.8
+- **special case** — PDF p. 428; Persian OCR confidence 9.6; head match 1.0; head OCR confidence 96.5
+- **spec la envoy** — PDF p. 428; Persian OCR confidence 82.2; head match 0.645; head OCR confidence 61.6
+- **special fund og Gite** — PDF p. 428; Persian OCR confidence 85.8; head match 0.786; head OCR confidence 72.7
+- **specialism** — PDF p. 428; Persian OCR confidence 68.9; head match 0.593; head OCR confidence 72.7
+- **specialist** — PDF p. 428; Persian OCR confidence 59.6; head match 0.769; head OCR confidence 56.4
+- **specialistic** — PDF p. 428; Persian OCR confidence 68.2; head match 0.431; head OCR confidence 25.6
+- **speciality** — PDF p. 428; Persian OCR confidence 0; head match 0.483; head OCR confidence 95.9
+- **specializatlon** — PDF p. 428; Persian OCR confidence 65.0; head match 0.75; head OCR confidence 95.9
+- **specialized** — PDF p. 428; Persian OCR confidence 66.2; head match 0.405; head OCR confidence 26.6
+- **special school** — PDF p. 428; Persian OCR confidence 86.9; head match 0.765; head OCR confidence 48.3
+- **special stock** — PDF p. 428; Persian OCR confidence 76.7; head match 0.75; head OCR confidence 52.9
+- **specialty** — PDF p. 428; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.1
+- **speclation** — PDF p. 428; Persian OCR confidence 82.1; head match 0.75; head OCR confidence 72.8
+- **species** — PDF p. 428; Persian OCR confidence 79.9; head match 0.49; head OCR confidence 50.4
+- **specieslsm** — PDF p. 428; Persian OCR confidence 86.4; head match 0.696; head OCR confidence 50.4
+- **species-specific** — PDF p. 428; Persian OCR confidence 49.5; head match 1.0; head OCR confidence 96.7
+- **species-typical** — PDF p. 428; Persian OCR confidence 53.4; head match 0.903; head OCR confidence 6.1
+- **specific** — PDF p. 428; Persian OCR confidence 66.2; head match 0.373; head OCR confidence 22.6
+- **specific ability** — PDF p. 428; Persian OCR confidence 79.3; head match 0.769; head OCR confidence 46.6
+- **specification** — PDF p. 428; Persian OCR confidence 45.3; head match 0.416; head OCR confidence 46.6
+- **specificative lad Sg** — PDF p. 428; Persian OCR confidence 57.3; head match 0.839; head OCR confidence 58.9
+- **specificity** — PDF p. 428; Persian OCR confidence 67.6; head match 0.621; head OCR confidence 58.9
+- **specifier** — PDF p. 428; Persian OCR confidence 28.3; head match 0.783; head OCR confidence 29.3
+- **specimen** — PDF p. 428; Persian OCR confidence 86.6; head match 0.8; head OCR confidence 41.8
+- **specious** — PDF p. 428; Persian OCR confidence 73.9; head match 0.6; head OCR confidence 41.8
+- **speciousness** — PDF p. 428; Persian OCR confidence 84.3; head match 0.625; head OCR confidence 23.6
+- **spectacle** — PDF p. 428; Persian OCR confidence 68.5; head match 0.75; head OCR confidence 41.0
+- **spectacular** — PDF p. 428; Persian OCR confidence 70.8; head match 0.71; head OCR confidence 33.5
+- **specter** — PDF p. 428; Persian OCR confidence 41.7; head match 0.632; head OCR confidence 45.5
+- **spectral** — PDF p. 428; Persian OCR confidence 44.0; head match 0.487; head OCR confidence 43.9
+- **spectrality** — PDF p. 428; Persian OCR confidence 47.8; head match 0.667; head OCR confidence 29.7
+- **spectralness** — PDF p. 428; Persian OCR confidence 0; head match 0.453; head OCR confidence 92.7
+- **spectre** — PDF p. 428; Persian OCR confidence 0; head match 0.56; head OCR confidence 92.7
+- **speculation** — PDF p. 428; Persian OCR confidence 75.3; head match 0.556; head OCR confidence 96.0
+- **speculative** — PDF p. 428; Persian OCR confidence 73.2; head match 0.435; head OCR confidence 18.4
+- **speculatlve idealism** — PDF p. 428; Persian OCR confidence 78.5; head match 0.75; head OCR confidence 46.5
+- **speculatlveness** — PDF p. 429; Persian OCR confidence 59.5; head match 0.778; head OCR confidence 50.3
+- **speculative philosophy sls cai.li** — PDF p. 429; Persian OCR confidence 87.7; head match 0.8; head OCR confidence 58.9
+- **speculator** — PDF p. 429; Persian OCR confidence 73.1; head match 0.769; head OCR confidence 31.9
+- **speech** — PDF p. 429; Persian OCR confidence 86.1; head match 0.442; head OCR confidence 48.1
+- **speech-act** — PDF p. 429; Persian OCR confidence 53.4; head match 0.9; head OCR confidence 53.2
+- **speech-act theory** — PDF p. 429; Persian OCR confidence 37.1; head match 0.769; head OCR confidence 50.6
+- **speech and hearing science** — PDF p. 429; Persian OCR confidence 32.7; head match 1.0; head OCR confidence 96.1
+- **speech apparatus** — PDF p. 429; Persian OCR confidence 90.4; head match 0.75; head OCR confidence 65.4
+- **speech area JLAS** — PDF p. 429; Persian OCR confidence 49.9; head match 0.833; head OCR confidence 72.0
+- **speech center** — PDF p. 429; Persian OCR confidence 86.7; head match 0.75; head OCR confidence 50.6
+- **speech community** — PDF p. 429; Persian OCR confidence 59.5; head match 0.811; head OCR confidence 54.5
+- **speech defect** — PDF p. 429; Persian OCR confidence 69.4; head match 0.727; head OCR confidence 54.0
+- **speech disguise** — PDF p. 429; Persian OCR confidence 55.0; head match 1.0; head OCR confidence 96.3
+- **speech disorder** — PDF p. 429; Persian OCR confidence 72.0; head match 0.8; head OCR confidence 52.5
+- **speech event “oh; hug,** — PDF p. 429; Persian OCR confidence 30.7; head match 0.815; head OCR confidence 74.4
+- **speech genre bas 3h** — PDF p. 429; Persian OCR confidence 46.5; head match 0.815; head OCR confidence 74.7
+- **speech guise** — PDF p. 429; Persian OCR confidence 71.4; head match 0.733; head OCR confidence 64.4
+- **speech habits** — PDF p. 429; Persian OCR confidence 90.0; head match 0.516; head OCR confidence 64.4
+- **speech Island** — PDF p. 429; Persian OCR confidence 88.7; head match 0.774; head OCR confidence 37.6
+- **speechless bj SVS** — PDF p. 429; Persian OCR confidence 71.4; head match 0.8; head OCR confidence 55.9
+- **speechmaking hess** — PDF p. 429; Persian OCR confidence 38.6; head match 0.786; head OCR confidence 64.4
+- **speech organs** — PDF p. 429; Persian OCR confidence 0.0; head match 0.571; head OCR confidence 64.4
+- **speech pathology SEAS cack** — PDF p. 429; Persian OCR confidence 87.7; head match 0.789; head OCR confidence 55.8
+- **speech production Gee** — PDF p. 429; Persian OCR confidence 5.7; head match 0.914; head OCR confidence 73.0
+- **speech science Ja ple (L5** — PDF p. 429; Persian OCR confidence 89.7; head match 0.788; head OCR confidence 59.2
+- **speech signal Gs ee** — PDF p. 429; Persian OCR confidence 67.0; head match 0.786; head OCR confidence 56.9
+- **speech surrogate** — PDF p. 429; Persian OCR confidence 83.0; head match 0.769; head OCR confidence 44.2
+- **speech therapist Silos. Lat** — PDF p. 429; Persian OCR confidence 77.7; head match 0.789; head OCR confidence 58.5
+- **speech therapy** — PDF p. 429; Persian OCR confidence 81.9; head match 0.765; head OCR confidence 64.8
+- **speech writer** — PDF p. 429; Persian OCR confidence 73.1; head match 0.75; head OCR confidence 56.8
+- **speleologlcal** — PDF p. 429; Persian OCR confidence 59.9; head match 0.454; head OCR confidence 38.0
+- **spell** — PDF p. 429; Persian OCR confidence 67.7; head match 0.412; head OCR confidence 45.7
+- **spellbinder** — PDF p. 429; Persian OCR confidence 89.8; head match 0.759; head OCR confidence 18.8
+- **spelunking** — PDF p. 429; Persian OCR confidence 39.9; head match 0.909; head OCR confidence 44.2
+- **Spencerian** — PDF p. 429; Persian OCR confidence 17.5; head match 0.467; head OCR confidence 42.3
+- **Spencerianism** — PDF p. 429; Persian OCR confidence 58.7; head match 1.0; head OCR confidence 86.1
+- **sphere** — PDF p. 429; Persian OCR confidence 74.8; head match 0.382; head OCR confidence 43.8
+- **sphere of aether** — PDF p. 429; Persian OCR confidence 77.4; head match 0.778; head OCR confidence 58.3
+- **Sphinx** — PDF p. 429; Persian OCR confidence 91.9; head match 0.75; head OCR confidence 35.6
+- **sphragistics** — PDF p. 429; Persian OCR confidence 27.1; head match 0.727; head OCR confidence 16.8
+- **Splnozlsm** — PDF p. 429; Persian OCR confidence 89.0; head match 0.327; head OCR confidence 30.3
+- **Splnozist** — PDF p. 429; Persian OCR confidence 90.1; head match 0.762; head OCR confidence 50.6
+- **spiral** — PDF p. 430; Persian OCR confidence 48.4; head match 0.923; head OCR confidence 54.1
+- **spiral dynamics** — PDF p. 430; Persian OCR confidence 55.8; head match 0.778; head OCR confidence 69.7
+- **spiral progress** — PDF p. 430; Persian OCR confidence 47.8; head match 0.757; head OCR confidence 50.1
+- **spirant** — PDF p. 430; Persian OCR confidence 88.0; head match 0.778; head OCR confidence 28.7
+- **spirit** — PDF p. 430; Persian OCR confidence 75.4; head match 0.42; head OCR confidence 34.9
+- **splrltism** — PDF p. 430; Persian OCR confidence 0; head match 0.727; head OCR confidence 96.3
+- **splritlst** — PDF p. 430; Persian OCR confidence 0; head match 0.727; head OCR confidence 96.6
+- **spirit mediumshlp** — PDF p. 430; Persian OCR confidence 84.2; head match 0.698; head OCR confidence 46.2
+- **spiritual** — PDF p. 430; Persian OCR confidence 60.6; head match 0.467; head OCR confidence 36.0
+- **splritual culture** — PDF p. 430; Persian OCR confidence 89.2; head match 0.769; head OCR confidence 43.9
+- **Spiritual director** — PDF p. 430; Persian OCR confidence 60.4; head match 1.0; head OCR confidence 82.1
+- **spiritual emancipation** — PDF p. 430; Persian OCR confidence 48.4; head match 1.0; head OCR confidence 81.7
+- **splrltual growth** — PDF p. 430; Persian OCR confidence 90.1; head match 0.765; head OCR confidence 85.6
+- **spiritual heritage ge cle** — PDF p. 430; Persian OCR confidence 61.3; head match 0.821; head OCR confidence 57.8
+- **spiritualism** — PDF p. 430; Persian OCR confidence 68.1; head match 0.412; head OCR confidence 57.8
+- **spiritualist** — PDF p. 430; Persian OCR confidence 68.7; head match 0.75; head OCR confidence 17.5
+- **spiritualistic** — PDF p. 430; Persian OCR confidence 83.1; head match 0.765; head OCR confidence 17.5
+- **spirituality** — PDF p. 430; Persian OCR confidence 44.9; head match 0.467; head OCR confidence 17.6
+- **spirltualization** — PDF p. 430; Persian OCR confidence 50.7; head match 0.447; head OCR confidence 44.7
+- **splritualizer** — PDF p. 430; Persian OCR confidence 38.5; head match 0.373; head OCR confidence 30.4
+- **spiritual marriage «sb5,¢\%** — PDF p. 430; Persian OCR confidence 40.5; head match 0.919; head OCR confidence 63.1
+- **spiritual principle «sb3, Le)** — PDF p. 430; Persian OCR confidence 81.7; head match 0.829; head OCR confidence 69.4
+- **spiritual son** — PDF p. 430; Persian OCR confidence 83.6; head match 0.774; head OCR confidence 70.4
+- **spiritual state by, We** — PDF p. 430; Persian OCR confidence 55.9; head match 0.875; head OCR confidence 71.3
+- **splritualty** — PDF p. 430; Persian OCR confidence 0; head match 0.48; head OCR confidence 95.7
+- **spiritual vision Spee tt** — PDF p. 430; Persian OCR confidence 80.9; head match 0.833; head OCR confidence 66.9
+- **spirltuel (Fr.)** — PDF p. 430; Persian OCR confidence 73.5; head match 0.4; head OCR confidence 64.7
+- **splendorous** — PDF p. 430; Persian OCR confidence 0; head match 1.0; head OCR confidence 20.5
+- **splendour** — PDF p. 430; Persian OCR confidence 0; head match 0.485; head OCR confidence 90.5
+- **split** — PDF p. 430; Persian OCR confidence 74.8; head match 0.462; head OCR confidence 96.5
+- **split personality** — PDF p. 430; Persian OCR confidence 76.0; head match 0.744; head OCR confidence 34.6
+- **split subject** — PDF p. 430; Persian OCR confidence 88.2; head match 0.454; head OCR confidence 52.4
+- **spoil** — PDF p. 430; Persian OCR confidence 77.6; head match 0.35; head OCR confidence 33.5
+- **spoil system** — PDF p. 430; Persian OCR confidence 86.3; head match 0.759; head OCR confidence 53.7
+- **spokesman** — PDF p. 430; Persian OCR confidence 76.1; head match 0.35; head OCR confidence 59.7
+- **Spontanelty** — PDF p. 430; Persian OCR confidence 63.3; head match 0.909; head OCR confidence 66.8
+- **spontaneous generation** — PDF p. 430; Persian OCR confidence 29.2; head match 0.985; head OCR confidence 45.7
+- **spontaneous Interaction** — PDF p. 430; Persian OCR confidence 63.2; head match 1.0; head OCR confidence 54.2
+- **spontaneousness** — PDF p. 430; Persian OCR confidence 0; head match 0.732; head OCR confidence 84.2
+- **spontaneous recovery** — PDF p. 430; Persian OCR confidence 64.9; head match 1.0; head OCR confidence 92.9
+- **spoonerism** — PDF p. 430; Persian OCR confidence 66.2; head match 0.452; head OCR confidence 21.1
+- **sporadic** — PDF p. 431; Persian OCR confidence 54.7; head match 0.448; head OCR confidence 47.7
+- **sporadic capitalism** — PDF p. 431; Persian OCR confidence 32.9; head match 0.8; head OCR confidence 43.9
+- **spot check** — PDF p. 431; Persian OCR confidence 65.4; head match 0.485; head OCR confidence 57.2
+- **spot price** — PDF p. 431; Persian OCR confidence 67.8; head match 0.485; head OCR confidence 61.2
+- **spousal** — PDF p. 431; Persian OCR confidence 68.6; head match 0.445; head OCR confidence 32.1
+- **spouse** — PDF p. 431; Persian OCR confidence 88.7; head match 0.42; head OCR confidence 32.1
+- **Sprachbund (G.)** — PDF p. 431; Persian OCR confidence 81.8; head match 0.759; head OCR confidence 63.1
+- **Sprachgefuhl (G.)** — PDF p. 431; Persian OCR confidence 64.1; head match 0.727; head OCR confidence 48.3
+- **spread** — PDF p. 431; Persian OCR confidence 58.7; head match 1.0; head OCR confidence 96.1
+- **spread eagle** — PDF p. 431; Persian OCR confidence 54.5; head match 0.428; head OCR confidence 36.2
+- **spread effect** — PDF p. 431; Persian OCR confidence 55.4; head match 0.727; head OCR confidence 53.3
+- **spreading activation** — PDF p. 431; Persian OCR confidence 62.2; head match 1.0; head OCR confidence 92.1
+- **spread vowel** — PDF p. 431; Persian OCR confidence 53.8; head match 0.533; head OCR confidence 92.1
+- **spurious** — PDF p. 431; Persian OCR confidence 70.5; head match 0.386; head OCR confidence 42.3
+- **spurious money** — PDF p. 431; Persian OCR confidence 84.9; head match 0.8; head OCR confidence 96.4
+- **spy** — PDF p. 431; Persian OCR confidence 88.2; head match 0.262; head OCR confidence 36.0
+- **spying** — PDF p. 431; Persian OCR confidence 91.2; head match 0.382; head OCR confidence 32.2
+- **squad** — PDF p. 431; Persian OCR confidence 35.8; head match 0.389; head OCR confidence 40.4
+- **square dance side** — PDF p. 431; Persian OCR confidence 57.9; head match 0.846; head OCR confidence 69.4
+- **squat** — PDF p. 431; Persian OCR confidence 48.2; head match 0.5; head OCR confidence 5.7
+- **squatter** — PDF p. 431; Persian OCR confidence 82.4; head match 0.8; head OCR confidence 52.2
+- **squatter’s right Sajal** — PDF p. 431; Persian OCR confidence 52.9; head match 0.848; head OCR confidence 71.2
+- **squire** — PDF p. 431; Persian OCR confidence 72.3; head match 0.75; head OCR confidence 39.2
+- **squirearch** — PDF p. 431; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.3
+- **squirearchical** — PDF p. 431; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.1
+- **squiredom** — PDF p. 431; Persian OCR confidence 54.3; head match 1.0; head OCR confidence 72.7
+- **stability** — PDF p. 431; Persian OCR confidence 73.0; head match 0.36; head OCR confidence 17.5
+- **stabilization ._;.;l::.....;.l** — PDF p. 431; Persian OCR confidence 82.5; head match 0.737; head OCR confidence 15.0
+- **stabilized** — PDF p. 431; Persian OCR confidence 17.2; head match 0.833; head OCR confidence 28.3
+- **stable** — PDF p. 431; Persian OCR confidence 86.4; head match 0.442; head OCR confidence 15.0
+- **stable population ghub cdeee** — PDF p. 431; Persian OCR confidence 59.9; head match 0.78; head OCR confidence 58.5
+- **staff** — PDF p. 431; Persian OCR confidence 86.9; head match 0.233; head OCR confidence 17.2
+- **staff college** — PDF p. 431; Persian OCR confidence 77.2; head match 0.727; head OCR confidence 48.7
+- **staffing** — PDF p. 431; Persian OCR confidence 76.7; head match 0.4; head OCR confidence 30.4
+- **stage** — PDF p. 431; Persian OCR confidence 75.6; head match 0.304; head OCR confidence 13.4
+- **stagecraft** — PDF p. 431; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **stage direction** — PDF p. 431; Persian OCR confidence 66.3; head match 0.737; head OCR confidence 52.4
+- **stage effect** — PDF p. 431; Persian OCR confidence 69.8; head match 0.467; head OCR confidence 22.4
+- **stagehand** — PDF p. 431; Persian OCR confidence 82.4; head match 0.45; head OCR confidence 32.2
+- **stage management** — PDF p. 431; Persian OCR confidence 27.8; head match 0.714; head OCR confidence 32.9
+- **stage manager** — PDF p. 431; Persian OCR confidence 62.9; head match 0.454; head OCR confidence 40.0
+- **stage play** — PDF p. 431; Persian OCR confidence 82.2; head match 0.434; head OCR confidence 56.9
+- **stage whisper** — PDF p. 431; Persian OCR confidence 77.0; head match 0.438; head OCR confidence 56.9
+- **stagflation lel** — PDF p. 431; Persian OCR confidence 50.4; head match 0.8; head OCR confidence 72.0
+- **staging** — PDF p. 431; Persian OCR confidence 69.7; head match 0.4; head OCR confidence 72.0
+- **stagnancy** — PDF p. 431; Persian OCR confidence 35.4; head match 1.0; head OCR confidence 90.9
+- **stagnant** — PDF p. 431; Persian OCR confidence 51.1; head match 0.35; head OCR confidence 25.7
+- **stagnant economy ASI, glass)** — PDF p. 432; Persian OCR confidence 65.0; head match 0.789; head OCR confidence 56.8
+- **stagnation** — PDF p. 432; Persian OCR confidence 85.3; head match 0.438; head OCR confidence 33.4
+- **stained glass** — PDF p. 432; Persian OCR confidence 50.5; head match 0.774; head OCR confidence 58.3
+- **Stakhanovlte** — PDF p. 432; Persian OCR confidence 68.8; head match 0.44; head OCR confidence 38.0
+- **stake** — PDF p. 432; Persian OCR confidence 79.0; head match 0.389; head OCR confidence 57.3
+- **stakeholder** — PDF p. 432; Persian OCR confidence 78.3; head match 0.583; head OCR confidence 57.3
+- **stalemate** — PDF p. 432; Persian OCR confidence 61.2; head match 0.485; head OCR confidence 50.2
+- **Stallnlsm** — PDF p. 432; Persian OCR confidence 50.1; head match 0.7; head OCR confidence 48.2
+- **Stalinist** — PDF p. 432; Persian OCR confidence 86.0; head match 0.8; head OCR confidence 48.2
+- **stance** — PDF p. 432; Persian OCR confidence 60.4; head match 0.42; head OCR confidence 32.0
+- **standard** — PDF p. 432; Persian OCR confidence 68.8; head match 0.455; head OCR confidence 32.0
+- **standardized oad luk!** — PDF p. 432; Persian OCR confidence 90.5; head match 0.8; head OCR confidence 55.5
+- **standard of price ca5 gaun** — PDF p. 432; Persian OCR confidence 66.2; head match 0.811; head OCR confidence 57.7
+- **standard time** — PDF p. 432; Persian OCR confidence 57.5; head match 0.75; head OCR confidence 64.1
+- **standing** — PDF p. 432; Persian OCR confidence 76.6; head match 0.415; head OCR confidence 60.7
+- **standing army cvs 4s,]** — PDF p. 432; Persian OCR confidence 90.8; head match 0.828; head OCR confidence 58.0
+- **stanza (Ital.) Sgpw** — PDF p. 432; Persian OCR confidence 46.9; head match 0.833; head OCR confidence 59.3
+- **stanzalc** — PDF p. 432; Persian OCR confidence 47.3; head match 0.667; head OCR confidence 54.5
+- **staple .r** — PDF p. 432; Persian OCR confidence 70.4; head match 0.338; head OCR confidence 31.9
+- **stare decisis (L.)** — PDF p. 432; Persian OCR confidence 92.6; head match 0.812; head OCR confidence 52.3
+- **starred form** — PDF p. 432; Persian OCR confidence 0; head match 0.718; head OCR confidence 94.7
+- **starting point** — PDF p. 432; Persian OCR confidence 67.8; head match 0.467; head OCR confidence 35.3
+- **start-up** — PDF p. 432; Persian OCR confidence 66.1; head match 0.338; head OCR confidence 25.7
+- **start-up capital** — PDF p. 432; Persian OCR confidence 78.0; head match 0.49; head OCR confidence 37.3
+- **stasis** — PDF p. 432; Persian OCR confidence 69.4; head match 0.4; head OCR confidence 38.4
+- **state** — PDF p. 432; Persian OCR confidence 77.4; head match 0.35; head OCR confidence 38.4
+- **state capitalism** — PDF p. 432; Persian OCR confidence 88.8; head match 0.488; head OCR confidence 53.1
+- **statecraft** — PDF p. 432; Persian OCR confidence 91.1; head match 0.8; head OCR confidence 45.4
+- **state farm** — PDF p. 432; Persian OCR confidence 84.7; head match 0.72; head OCR confidence 53.5
+- **state government ~I;.** — PDF p. 432; Persian OCR confidence 69.8; head match 0.789; head OCR confidence 47.3
+- **statehood** — PDF p. 432; Persian OCR confidence 62.7; head match 0.467; head OCR confidence 32.7
+- **state house** — PDF p. 432; Persian OCR confidence 58.4; head match 0.643; head OCR confidence 32.7
+- **stateless** — PDF p. 432; Persian OCR confidence 80.6; head match 0.75; head OCR confidence 30.3
+- **stateless nation Np be** — PDF p. 432; Persian OCR confidence 35.5; head match 0.882; head OCR confidence 56.2
+- **statement** — PDF p. 432; Persian OCR confidence 80.8; head match 0.783; head OCR confidence 48.1
+- **State monopoly** — PDF p. 432; Persian OCR confidence 0; head match 1.0; head OCR confidence 66.3
+- **state of nature** — PDF p. 432; Persian OCR confidence 0; head match 1.0; head OCR confidence 88.7
+- **state of necessity** — PDF p. 432; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **state-of-the-art** — PDF p. 432; Persian OCR confidence 69.6; head match 0.812; head OCR confidence 40.9
+- **state ownership ists CEL** — PDF p. 432; Persian OCR confidence 61.5; head match 0.8; head OCR confidence 57.5
+- **state planning go sx 4b** — PDF p. 433; Persian OCR confidence 76.3; head match 0.812; head OCR confidence 57.1
+- **state school** — PDF p. 433; Persian OCR confidence 86.3; head match 0.481; head OCR confidence 56.8
+- **statesman** — PDF p. 433; Persian OCR confidence 52.4; head match 0.45; head OCR confidence 46.6
+- **statesmanlike** — PDF p. 433; Persian OCR confidence 49.5; head match 0.562; head OCR confidence 46.6
+- **statesmanly** — PDF p. 433; Persian OCR confidence 0; head match 0.492; head OCR confidence 92.3
+- **statesmanship** — PDF p. 433; Persian OCR confidence 79.1; head match 0.769; head OCR confidence 92.3
+- **state socialism** — PDF p. 433; Persian OCR confidence 89.2; head match 0.757; head OCR confidence 62.2
+- **state treasury Gbaihs** — PDF p. 433; Persian OCR confidence 77.4; head match 0.812; head OCR confidence 79.9
+- **static(-al}** — PDF p. 433; Persian OCR confidence 61.5; head match 0.842; head OCR confidence 45.5
+- **static culture tu) Sia,3** — PDF p. 433; Persian OCR confidence 53.4; head match 0.812; head OCR confidence 57.5
+- **static equilibrlum** — PDF p. 433; Persian OCR confidence 75.8; head match 0.727; head OCR confidence 59.6
+- **statics** — PDF p. 433; Persian OCR confidence 87.4; head match 0.778; head OCR confidence 46.2
+- **station** — PDF p. 433; Persian OCR confidence 71.6; head match 0.333; head OCR confidence 48.2
+- **stationary** — PDF p. 433; Persian OCR confidence 77.5; head match 0.5; head OCR confidence 25.7
+- **stationary equilibrium Lui cuiejls** — PDF p. 433; Persian OCR confidence 73.2; head match 0.808; head OCR confidence 59.3
+- **stationary society Lu) saasle** — PDF p. 433; Persian OCR confidence 79.4; head match 0.81; head OCR confidence 55.4
+- **stationary state pity) Gd** — PDF p. 433; Persian OCR confidence 49.9; head match 0.833; head OCR confidence 66.2
+- **statlsm** — PDF p. 433; Persian OCR confidence 83.8; head match 0.632; head OCR confidence 49.5
+- **statlst** — PDF p. 433; Persian OCR confidence 46.7; head match 0.526; head OCR confidence 49.5
+- **statistic** — PDF p. 433; Persian OCR confidence 91.5; head match 0.75; head OCR confidence 48.0
+- **statistical inference** — PDF p. 433; Persian OCR confidence 61.5; head match 0.9; head OCR confidence 85.2
+- **statlstlcal sylloglsm** — PDF p. 433; Persian OCR confidence 30.4; head match 0.756; head OCR confidence 55.5
+- **Statistical unit yd sol,** — PDF p. 433; Persian OCR confidence 64.0; head match 0.857; head OCR confidence 70.1
+- **Statistical unit yd sol,** — PDF p. 433; Persian OCR confidence 90.0; head match 0.78; head OCR confidence 70.1
+- **Statistical universe chill** — PDF p. 433; Persian OCR confidence 69.3; head match 0.837; head OCR confidence 65.0
+- **statistic index** — PDF p. 433; Persian OCR confidence 73.4; head match 0.757; head OCR confidence 36.1
+- **statistics** — PDF p. 433; Persian OCR confidence 90.6; head match 0.368; head OCR confidence 34.9
+- **statue** — PDF p. 433; Persian OCR confidence 81.4; head match 0.364; head OCR confidence 39.6
+- **statuette (Fr.)** — PDF p. 433; Persian OCR confidence 0; head match 1.0; head OCR confidence 44.8
+- **status** — PDF p. 433; Persian OCR confidence 84.1; head match 0.29; head OCR confidence 22.8
+- **status group** — PDF p. 433; Persian OCR confidence 69.9; head match 0.71; head OCR confidence 48.8
+- **status grouping** — PDF p. 433; Persian OCR confidence 82.6; head match 0.647; head OCR confidence 48.8
+- **status hierarchy laos, GIRL** — PDF p. 433; Persian OCR confidence 88.9; head match 0.789; head OCR confidence 68.9
+- **status honor** — PDF p. 433; Persian OCR confidence 63.0; head match 0.71; head OCR confidence 71.7
+- **status need** — PDF p. 433; Persian OCR confidence 83.8; head match 0.741; head OCR confidence 58.9
+- **status prlvlleges** — PDF p. 433; Persian OCR confidence 78.9; head match 0.667; head OCR confidence 44.8
+- **status que (L.) SS Eo3** — PDF p. 433; Persian OCR confidence 86.4; head match 0.8; head OCR confidence 56.9
+- **status situation S35 Gaby** — PDF p. 433; Persian OCR confidence 90.8; head match 0.811; head OCR confidence 60.8
+- **status study** — PDF p. 433; Persian OCR confidence 84.8; head match 0.815; head OCR confidence 43.0
+- **statute** — PDF p. 433; Persian OCR confidence 83.8; head match 0.288; head OCR confidence 20.2
+- **statute law** — PDF p. 433; Persian OCR confidence 65.5; head match 0.714; head OCR confidence 38.5
+- **statutory** — PDF p. 433; Persian OCR confidence 84.6; head match 0.415; head OCR confidence 38.5
+- **statutory offense** — PDF p. 433; Persian OCR confidence 19.2; head match 0.78; head OCR confidence 53.5
+- **steadiness** — PDF p. 433; Persian OCR confidence 90.9; head match 0.741; head OCR confidence 43.5
+- **steady** — PDF p. 433; Persian OCR confidence 84.0; head match 0.545; head OCR confidence 40.4
+- **steady market** — PDF p. 433; Persian OCR confidence 62.0; head match 0.774; head OCR confidence 45.0
+- **steady state** — PDF p. 433; Persian OCR confidence 69.5; head match 0.759; head OCR confidence 53.2
+- **stele** — PDF p. 433; Persian OCR confidence 63.5; head match 0.467; head OCR confidence 42.0
+- **stem** — PDF p. 433; Persian OCR confidence 66.9; head match 0.255; head OCR confidence 41.7
+- **stencil art** — PDF p. 434; Persian OCR confidence 62.9; head match 1.0; head OCR confidence 96.5
+- **stenography** — PDF p. 434; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.4
+- **stenotype** — PDF p. 434; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.1
+- **step** — PDF p. 434; Persian OCR confidence 0; head match 1.0; head OCR confidence 97.0
+- **stepbrother** — PDF p. 434; Persian OCR confidence 66.9; head match 0.481; head OCR confidence 32.2
+- **stepchild 5b** — PDF p. 434; Persian OCR confidence 51.7; head match 0.9; head OCR confidence 79.4
+- **stepdaughter** — PDF p. 434; Persian OCR confidence 68.6; head match 0.774; head OCR confidence 31.9
+- **stepfather** — PDF p. 434; Persian OCR confidence 55.5; head match 0.8; head OCR confidence 55.0
+- **stepparent** — PDF p. 434; Persian OCR confidence 71.3; head match 0.522; head OCR confidence 61.3
+- **stepsister** — PDF p. 434; Persian OCR confidence 87.8; head match 0.769; head OCR confidence 48.3
+- **stepson** — PDF p. 434; Persian OCR confidence 84.1; head match 0.445; head OCR confidence 51.2
+- **stepwise** — PDF p. 434; Persian OCR confidence 26.5; head match 0.889; head OCR confidence 48.5
+- **stereotype** — PDF p. 434; Persian OCR confidence 58.2; head match 1.0; head OCR confidence 95.4
+- **stereotypy** — PDF p. 434; Persian OCR confidence 61.8; head match 0.769; head OCR confidence 42.8
+- **sterile** — PDF p. 434; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **sterility** — PDF p. 434; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.6
+- **sterilization** — PDF p. 434; Persian OCR confidence 0; head match 0.923; head OCR confidence 96.8
+- **sterilizer** — PDF p. 434; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.9
+- **steward** — PDF p. 434; Persian OCR confidence 79.5; head match 0.471; head OCR confidence 96.9
+- **stewardship** — PDF p. 434; Persian OCR confidence 85.8; head match 0.759; head OCR confidence 39.5
+- **sthenia** — PDF p. 434; Persian OCR confidence 0; head match 0.857; head OCR confidence 92.2
+- **sthenlc** — PDF p. 434; Persian OCR confidence 50.1; head match 0.714; head OCR confidence 92.2
+- **stigma** — PDF p. 434; Persian OCR confidence 57.7; head match 0.5; head OCR confidence 64.4
+- **stillbirth** — PDF p. 434; Persian OCR confidence 0.7; head match 0.741; head OCR confidence 47.5
+- **stillborn** — PDF p. 434; Persian OCR confidence 0.0; head match 0.72; head OCR confidence 56.6
+- **still life** — PDF p. 434; Persian OCR confidence 62.9; head match 0.75; head OCR confidence 52.7
+- **stimulant** — PDF p. 434; Persian OCR confidence 59.6; head match 0.783; head OCR confidence 48.3
+- **stlmulatlon** — PDF p. 434; Persian OCR confidence 64.2; head match 0.64; head OCR confidence 48.3
+- **stimulus** — PDF p. 434; Persian OCR confidence 83.1; head match 0.667; head OCR confidence 48.4
+- **stimulus-bound** — PDF p. 434; Persian OCR confidence 87.5; head match 0.6; head OCR confidence 15.9
+- **stimulus field** — PDF p. 434; Persian OCR confidence 83.7; head match 0.743; head OCR confidence 55.2
+- **stimulus generalization** — PDF p. 434; Persian OCR confidence 46.1; head match 0.864; head OCR confidence 85.6
+- **stimulus-response** — PDF p. 434; Persian OCR confidence 61.4; head match 0.821; head OCR confidence 40.5
+- **stimulus-response psychology** — PDF p. 434; Persian OCR confidence 59.8; head match 1.0; head OCR confidence 93.7
+- **stipend ub** — PDF p. 434; Persian OCR confidence 63.8; head match 0.875; head OCR confidence 72.1
+- **stipendiary** — PDF p. 434; Persian OCR confidence 54.5; head match 0.786; head OCR confidence 15.6
+- **stipulatlon** — PDF p. 434; Persian OCR confidence 44.7; head match 0.769; head OCR confidence 31.9
+- **stochastic** — PDF p. 434; Persian OCR confidence 74.8; head match 0.483; head OCR confidence 26.3
+- **stock** — PDF p. 434; Persian OCR confidence 76.0; head match 0.25; head OCR confidence 16.5
+- **stockbreeder** — PDF p. 434; Persian OCR confidence 76.7; head match 0.828; head OCR confidence 40.4
+- **stockbreedlng** — PDF p. 434; Persian OCR confidence 86.9; head match 0.733; head OCR confidence 40.4
+- **stockbroker** — PDF p. 434; Persian OCR confidence 86.4; head match 0.44; head OCR confidence 49.5
+- **stock certificate** — PDF p. 434; Persian OCR confidence 10.9; head match 0.8; head OCR confidence 52.8
+- **stock company qlwess** — PDF p. 434; Persian OCR confidence 79.0; head match 0.8; head OCR confidence 69.8
+- **stock-dividend** — PDF p. 434; Persian OCR confidence 90.5; head match 0.492; head OCR confidence 40.9
+- **stock exchange eae** — PDF p. 434; Persian OCR confidence 17.3; head match 0.897; head OCR confidence 67.9
+- **stockholder** — PDF p. 434; Persian OCR confidence 65.5; head match 0.759; head OCR confidence 9.1
+- **stockjobber** — PDF p. 434; Persian OCR confidence 74.2; head match 0.733; head OCR confidence 23.4
+- **stockjobbery** — PDF p. 434; Persian OCR confidence 82.0; head match 0.431; head OCR confidence 20.0
+- **stockman** — PDF p. 435; Persian OCR confidence 91.6; head match 0.431; head OCR confidence 30.6
+- **stock market** — PDF p. 435; Persian OCR confidence 78.6; head match 0.481; head OCR confidence 55.8
+- **stoic** — PDF p. 435; Persian OCR confidence 76.0; head match 0.438; head OCR confidence 64.8
+- **stoical** — PDF p. 435; Persian OCR confidence 52.3; head match 0.327; head OCR confidence 29.9
+- **stoicism** — PDF p. 435; Persian OCR confidence 81.7; head match 0.632; head OCR confidence 75.6
+- **Stone Age** — PDF p. 435; Persian OCR confidence 55.8; head match 0.762; head OCR confidence 69.9
+- **storage** — PDF p. 435; Persian OCR confidence 32.2; head match 0.42; head OCR confidence 69.9
+- **store** — PDF p. 435; Persian OCR confidence 68.4; head match 0.769; head OCR confidence 62.3
+- **store's stock** — PDF p. 435; Persian OCR confidence 75.8; head match 0.71; head OCR confidence 56.9
+- **storehouse** — PDF p. 435; Persian OCR confidence 75.6; head match 0.741; head OCR confidence 47.4
+- **storekeeper** — PDF p. 435; Persian OCR confidence 57.8; head match 0.429; head OCR confidence 47.4
+- **story** — PDF p. 435; Persian OCR confidence 50.4; head match 0.333; head OCR confidence 44.9
+- **story book oul ks** — PDF p. 435; Persian OCR confidence 90.7; head match 0.783; head OCR confidence 58.9
+- **story line; storyline otuls sul,** — PDF p. 435; Persian OCR confidence 92.2; head match 0.818; head OCR confidence 72.1
+- **storyteller** — PDF p. 435; Persian OCR confidence 67.6; head match 0.428; head OCR confidence 41.0
+- **straight** — PDF p. 435; Persian OCR confidence 72.0; head match 0.386; head OCR confidence 25.3
+- **straightness** — PDF p. 435; Persian OCR confidence 79.7; head match 0.8; head OCR confidence 45.9
+- **strain** — PDF p. 435; Persian OCR confidence 82.5; head match 0.336; head OCR confidence 24.2
+- **stranger** — PDF p. 435; Persian OCR confidence 76.3; head match 0.415; head OCR confidence 49.5
+- **strata** — PDF p. 435; Persian OCR confidence 77.7; head match 0.467; head OCR confidence 49.6
+- **strategic(-al)** — PDF p. 435; Persian OCR confidence 30.7; head match 1.0; head OCR confidence 79.6
+- **strategics** — PDF p. 435; Persian OCR confidence 51.3; head match 0.741; head OCR confidence 27.9
+- **strategic zone** — PDF p. 435; Persian OCR confidence 90.6; head match 0.667; head OCR confidence 27.9
+- **strategist** — PDF p. 435; Persian OCR confidence 25.2; head match 0.368; head OCR confidence 32.9
+- **strategy** — PDF p. 435; Persian OCR confidence 64.0; head match 0.386; head OCR confidence 26.2
+- **stratigraphy** — PDF p. 435; Persian OCR confidence 57.1; head match 0.828; head OCR confidence 25.4
+- **stratocratlc** — PDF p. 435; Persian OCR confidence 85.5; head match 0.741; head OCR confidence 36.4
+- **stratum** — PDF p. 435; Persian OCR confidence 79.0; head match 0.824; head OCR confidence 29.8
+- **street children** — PDF p. 435; Persian OCR confidence 88.2; head match 0.757; head OCR confidence 55.0
+- **street credlbllity** — PDF p. 435; Persian OCR confidence 89.0; head match 0.75; head OCR confidence 39.6
+- **street entertainment** — PDF p. 435; Persian OCR confidence 73.4; head match 0.826; head OCR confidence 43.7
+- **street people** — PDF p. 435; Persian OCR confidence 83.1; head match 0.8; head OCR confidence 36.8
+- **street smart** — PDF p. 435; Persian OCR confidence 0; head match 0.481; head OCR confidence 89.1
+- **street theater GlLS sls** — PDF p. 435; Persian OCR confidence 52.1; head match 0.788; head OCR confidence 60.5
+- **street urchin** — PDF p. 435; Persian OCR confidence 44.1; head match 0.857; head OCR confidence 43.6
+- **street walker** — PDF p. 435; Persian OCR confidence 4.6; head match 0.8; head OCR confidence 51.7
+- **streetwise** — PDF p. 435; Persian OCR confidence 53.2; head match 0.571; head OCR confidence 51.7
+- **stress** — PDF p. 435; Persian OCR confidence 81.4; head match 0.467; head OCR confidence 32.2
+- **stress interview** — PDF p. 436; Persian OCR confidence 65.7; head match 0.732; head OCR confidence 48.3
+- **stress language** — PDF p. 436; Persian OCR confidence 81.3; head match 0.778; head OCR confidence 67.6
+- **stressor** — PDF p. 436; Persian OCR confidence 90.6; head match 0.467; head OCR confidence 53.0
+- **stress reaction** — PDF p. 436; Persian OCR confidence 91.9; head match 0.718; head OCR confidence 48.1
+- **stress-timed Bip** — PDF p. 436; Persian OCR confidence 62.1; head match 0.88; head OCR confidence 74.1
+- **stress tolerance Gres (I,** — PDF p. 436; Persian OCR confidence 48.5; head match 0.857; head OCR confidence 55.7
+- **strict** — PDF p. 436; Persian OCR confidence 76.5; head match 0.29; head OCR confidence 38.9
+- **strict implication ul pw lj.** — PDF p. 436; Persian OCR confidence 53.8; head match 0.85; head OCR confidence 67.3
+- **Strict liability** — PDF p. 436; Persian OCR confidence 63.7; head match 1.0; head OCR confidence 96.0
+- **strictness tegen** — PDF p. 436; Persian OCR confidence 73.0; head match 0.8; head OCR confidence 58.0
+- **Stricture** — PDF p. 436; Persian OCR confidence 56.0; head match 1.0; head OCR confidence 69.4
+- **strife** — PDF p. 436; Persian OCR confidence 60.7; head match 0.311; head OCR confidence 43.5
+- **strike** — PDF p. 436; Persian OCR confidence 91.9; head match 0.75; head OCR confidence 67.5
+- **strike-breaker** — PDF p. 436; Persian OCR confidence 88.8; head match 0.743; head OCR confidence 45.9
+- **striker las!** — PDF p. 436; Persian OCR confidence 57.7; head match 0.824; head OCR confidence 80.0
+- **stroboscope** — PDF p. 436; Persian OCR confidence 63.3; head match 0.428; head OCR confidence 30.3
+- **stroboscopic** — PDF p. 436; Persian OCR confidence 50.2; head match 0.727; head OCR confidence 61.3
+- **structural** — PDF p. 436; Persian OCR confidence 92.3; head match 0.769; head OCR confidence 40.7
+- **structural analysis •..s,lS')t:.;;.L,** — PDF p. 436; Persian OCR confidence 0; head match 0.833; head OCR confidence 49.7
+- **structural change SbSlo** — PDF p. 436; Persian OCR confidence 57.9; head match 0.865; head OCR confidence 64.6
+- **structural-functional** — PDF p. 436; Persian OCR confidence 45.8; head match 0.816; head OCR confidence 44.4
+- **structuralism** — PDF p. 436; Persian OCR confidence 89.5; head match 0.743; head OCR confidence 25.3
+- **structuralist** — PDF p. 436; Persian OCR confidence 88.0; head match 0.788; head OCR confidence 35.4
+- **structuralized** — PDF p. 436; Persian OCR confidence 61.5; head match 0.718; head OCR confidence 46.2
+- **structural properties** — PDF p. 436; Persian OCR confidence 86.7; head match 0.8; head OCR confidence 43.8
+- **structure** — PDF p. 436; Persian OCR confidence 76.1; head match 0.72; head OCR confidence 34.0
+- **structured** — PDF p. 436; Persian OCR confidence 60.1; head match 0.438; head OCR confidence 18.9
+- **structure-function** — PDF p. 436; Persian OCR confidence 60.1; head match 0.81; head OCR confidence 24.0
+- **structureless** — PDF p. 436; Persian OCR confidence 61.0; head match 0.788; head OCR confidence 41.3
+- **Struggle of life @ehizayg** — PDF p. 436; Persian OCR confidence 54.4; head match 0.8; head OCR confidence 60.7
+- **student** — PDF p. 436; Persian OCR confidence 63.8; head match 0.35; head OCR confidence 36.3
+- **student life** — PDF p. 436; Persian OCR confidence 90.3; head match 0.769; head OCR confidence 45.2
+- **study** — PDF p. 436; Persian OCR confidence 84.6; head match 0.25; head OCR confidence 25.1
+- **stupefacient** — PDF p. 436; Persian OCR confidence 51.4; head match 0.8; head OCR confidence 32.7
+- **stupefaction** — PDF p. 436; Persian OCR confidence 65.5; head match 0.774; head OCR confidence 46.0
+- **stupefactive** — PDF p. 436; Persian OCR confidence 53.6; head match 0.828; head OCR confidence 28.7
+- **stupor** — PDF p. 436; Persian OCR confidence 76.5; head match 0.75; head OCR confidence 36.1
+- **style** — PDF p. 436; Persian OCR confidence 74.1; head match 0.35; head OCR confidence 34.2
+- **style book** — PDF p. 436; Persian OCR confidence 77.6; head match 0.72; head OCR confidence 51.1
+- **stylish** — PDF p. 436; Persian OCR confidence 45.0; head match 0.556; head OCR confidence 95.2
+- **stylishness** — PDF p. 436; Persian OCR confidence 6.2; head match 0.733; head OCR confidence 46.2
+- **stylist** — PDF p. 437; Persian OCR confidence 68.0; head match 0.363; head OCR confidence 19.3
+- **stylistic** — PDF p. 437; Persian OCR confidence 45.4; head match 0.72; head OCR confidence 31.1
+- **stylistic register** — PDF p. 437; Persian OCR confidence 51.0; head match 0.773; head OCR confidence 38.5
+- **stylistics ln** — PDF p. 437; Persian OCR confidence 56.0; head match 0.909; head OCR confidence 71.0
+- **stylite** — PDF p. 437; Persian OCR confidence 75.9; head match 0.632; head OCR confidence 71.0
+- **stylitism** — PDF p. 437; Persian OCR confidence 0; head match 0.889; head OCR confidence 92.7
+- **stylization** — PDF p. 437; Persian OCR confidence 63.9; head match 0.917; head OCR confidence 52.7
+- **stylized** — PDF p. 437; Persian OCR confidence 66.9; head match 0.487; head OCR confidence 48.2
+- **stylometry SEL;** — PDF p. 437; Persian OCR confidence 57.4; head match 0.87; head OCR confidence 63.5
+- **stylostatistlcs** — PDF p. 437; Persian OCR confidence 73.4; head match 0.718; head OCR confidence 47.7
+- **subaltern** — PDF p. 437; Persian OCR confidence 44.7; head match 0.42; head OCR confidence 46.8
+- **subalternate** — PDF p. 437; Persian OCR confidence 68.7; head match 0.828; head OCR confidence 44.6
+- **subalternatlon** — PDF p. 437; Persian OCR confidence 57.7; head match 0.722; head OCR confidence 45.1
+- **subalternlty** — PDF p. 437; Persian OCR confidence 34.4; head match 0.759; head OCR confidence 46.1
+- **subapical** — PDF p. 437; Persian OCR confidence 0; head match 0.889; head OCR confidence 96.6
+- **subarctic** — PDF p. 437; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.6
+- **subarea** — PDF p. 437; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **subarid** — PDF p. 437; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.5
+- **subaudition** — PDF p. 437; Persian OCR confidence 0; head match 0.909; head OCR confidence 92.4
+- **subcelestial** — PDF p. 437; Persian OCR confidence 0; head match 0.917; head OCR confidence 92.1
+- **subception ob** — PDF p. 437; Persian OCR confidence 32.3; head match 0.818; head OCR confidence 55.8
+- **subclinical** — PDF p. 437; Persian OCR confidence 75.8; head match 0.545; head OCR confidence 86.8
+- **subcommittee** — PDF p. 437; Persian OCR confidence 67.7; head match 0.8; head OCR confidence 52.7
+- **subconscious** — PDF p. 437; Persian OCR confidence 74.9; head match 0.774; head OCR confidence 48.1
+- **subconscious self** — PDF p. 437; Persian OCR confidence 74.7; head match 0.762; head OCR confidence 59.9
+- **subcontinent** — PDF p. 437; Persian OCR confidence 59.4; head match 1.0; head OCR confidence 96.3
+- **subculture** — PDF p. 437; Persian OCR confidence 27.7; head match 0.741; head OCR confidence 48.0
+- **subdlalect** — PDF p. 437; Persian OCR confidence 37.8; head match 0.667; head OCR confidence 44.8
+- **subdlalectal** — PDF p. 437; Persian OCR confidence 54.0; head match 0.688; head OCR confidence 51.6
+- **subequatorial** — PDF p. 437; Persian OCR confidence 0; head match 0.923; head OCR confidence 63.3
+- **subfamily** — PDF p. 437; Persian OCR confidence 0; head match 1.0; head OCR confidence 58.2
+- **subfunctlon** — PDF p. 437; Persian OCR confidence 0; head match 0.909; head OCR confidence 36.6
+- **subgoal** — PDF p. 437; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.3
+- **subgroup** — PDF p. 437; Persian OCR confidence 0; head match 1.0; head OCR confidence 80.5
+- **subhuman** — PDF p. 437; Persian OCR confidence 63.0; head match 1.0; head OCR confidence 37.9
+- **subject-centered** — PDF p. 437; Persian OCR confidence 45.8; head match 0.789; head OCR confidence 26.3
+- **Subject index** — PDF p. 437; Persian OCR confidence 30.0; head match 1.0; head OCR confidence 64.3
+- **Subject index** — PDF p. 437; Persian OCR confidence 72.9; head match 0.818; head OCR confidence 64.3
+- **subjectiveness** — PDF p. 437; Persian OCR confidence 0; head match 0.49; head OCR confidence 92.0
+- **Subjective reality** — PDF p. 437; Persian OCR confidence 50.9; head match 1.0; head OCR confidence 82.2
+- **subjective spirit** — PDF p. 437; Persian OCR confidence 88.3; head match 0.8; head OCR confidence 47.8
+- **Subjective stress** — PDF p. 437; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.9
+- **subjectivism** — PDF p. 438; Persian OCR confidence 69.4; head match 0.828; head OCR confidence 27.8
+- **subjectivist** — PDF p. 438; Persian OCR confidence 88.6; head match 0.391; head OCR confidence 45.1
+- **su bjectivistic** — PDF p. 438; Persian OCR confidence 66.6; head match 0.436; head OCR confidence 45.1
+- **subjectivity** — PDF p. 438; Persian OCR confidence 55.0; head match 0.42; head OCR confidence 46.8
+- **subject matter** — PDF p. 438; Persian OCR confidence 52.7; head match 1.0; head OCR confidence 96.0
+- **subjolnder** — PDF p. 438; Persian OCR confidence 0.0; head match 0.667; head OCR confidence 25.6
+- **subjugation** — PDF p. 438; Persian OCR confidence 81.5; head match 0.481; head OCR confidence 48.4
+- **sublimated** — PDF p. 438; Persian OCR confidence 73.1; head match 0.476; head OCR confidence 96.7
+- **sublimation** — PDF p. 438; Persian OCR confidence 61.8; head match 0.759; head OCR confidence 48.7
+- **sublime** — PDF p. 438; Persian OCR confidence 56.8; head match 0.49; head OCR confidence 26.4
+- **sublimeness** — PDF p. 438; Persian OCR confidence 0; head match 0.71; head OCR confidence 92.7
+- **sublimlnal** — PDF p. 438; Persian OCR confidence 56.2; head match 0.818; head OCR confidence 53.9
+- **subliminal learning** — PDF p. 438; Persian OCR confidence 7.2; head match 0.919; head OCR confidence 82.6
+- **subliminal perception** — PDF p. 438; Persian OCR confidence 60.0; head match 1.0; head OCR confidence 96.7
+- **subliminal stimulus** — PDF p. 438; Persian OCR confidence 55.5; head match 1.0; head OCR confidence 95.9
+- **sublimity tu** — PDF p. 438; Persian OCR confidence 64.4; head match 0.9; head OCR confidence 66.5
+- **sublunar** — PDF p. 438; Persian OCR confidence 0; head match 0.485; head OCR confidence 74.3
+- **sublunary** — PDF p. 438; Persian OCR confidence 62.6; head match 0.9; head OCR confidence 74.3
+- **subman** — PDF p. 438; Persian OCR confidence 0.0; head match 1.0; head OCR confidence 92.3
+- **submarginal** — PDF p. 438; Persian OCR confidence 64.0; head match 1.0; head OCR confidence 91.5
+- **submeaning** — PDF p. 438; Persian OCR confidence 64.0; head match 0.8; head OCR confidence 51.1
+- **submission** — PDF p. 438; Persian OCR confidence 74.9; head match 0.4; head OCR confidence 25.3
+- **submissiveness** — PDF p. 438; Persian OCR confidence 72.5; head match 0.467; head OCR confidence 30.2
+- **submlttal** — PDF p. 438; Persian OCR confidence 89.9; head match 0.696; head OCR confidence 33.2
+- **subnormal** — PDF p. 438; Persian OCR confidence 61.1; head match 0.75; head OCR confidence 31.2
+- **subnormality** — PDF p. 438; Persian OCR confidence 38.1; head match 0.727; head OCR confidence 35.6
+- **subordinate** — PDF p. 438; Persian OCR confidence 79.0; head match 0.481; head OCR confidence 36.3
+- **subordinate clause** — PDF p. 438; Persian OCR confidence 70.8; head match 0.81; head OCR confidence 53.4
+- **subordination** — PDF p. 438; Persian OCR confidence 84.9; head match 0.788; head OCR confidence 25.8
+- **subordinationism** — PDF p. 438; Persian OCR confidence 61.9; head match 0.938; head OCR confidence 92.7
+- **subordinative** — PDF p. 438; Persian OCR confidence 58.9; head match 0.788; head OCR confidence 50.6
+- **subordinator** — PDF p. 438; Persian OCR confidence 82.6; head match 0.75; head OCR confidence 42.8
+- **suborganization** — PDF p. 438; Persian OCR confidence 57.6; head match 1.0; head OCR confidence 73.1
+- **subpopulation** — PDF p. 438; Persian OCR confidence 44.4; head match 0.765; head OCR confidence 16.0
+- **subproblem** — PDF p. 438; Persian OCR confidence 48.3; head match 0.8; head OCR confidence 46.0
+- **subprogram** — PDF p. 438; Persian OCR confidence 0; head match 1.0; head OCR confidence 29.3
+- **subratlonal** — PDF p. 438; Persian OCR confidence 0; head match 0.909; head OCR confidence 31.1
+- **subregion** — PDF p. 438; Persian OCR confidence 0; head match 1.0; head OCR confidence 29.5
+- **subregional** — PDF p. 438; Persian OCR confidence 0; head match 1.0; head OCR confidence 80.5
+- **subsample** — PDF p. 439; Persian OCR confidence 49.8; head match 0.75; head OCR confidence 50.3
+- **subsection** — PDF p. 439; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.1
+- **subsector** — PDF p. 439; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **subsequence** — PDF p. 439; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **subsequent** — PDF p. 439; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **subset** — PDF p. 439; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.6
+- **subsidiary** — PDF p. 439; Persian OCR confidence 55.7; head match 0.5; head OCR confidence 96.6
+- **subsidiary company Artly BS** — PDF p. 439; Persian OCR confidence 55.7; head match 0.829; head OCR confidence 56.5
+- **subsidization ral,** — PDF p. 439; Persian OCR confidence 61.9; head match 0.897; head OCR confidence 64.2
+- **subsidized** — PDF p. 439; Persian OCR confidence 39.7; head match 0.833; head OCR confidence 51.8
+- **subsidy ai,** — PDF p. 439; Persian OCR confidence 0.0; head match 0.875; head OCR confidence 57.5
+- **subsistence farm Slayer,** — PDF p. 439; Persian OCR confidence 81.0; head match 0.833; head OCR confidence 65.6
+- **subsistence wage** — PDF p. 439; Persian OCR confidence 85.1; head match 0.732; head OCR confidence 48.3
+- **subsistent** — PDF p. 439; Persian OCR confidence 63.4; head match 0.8; head OCR confidence 45.5
+- **subsisting** — PDF p. 439; Persian OCR confidence 80.3; head match 0.714; head OCR confidence 48.1
+- **subsocial** — PDF p. 439; Persian OCR confidence 84.9; head match 0.72; head OCR confidence 46.0
+- **substance .r ~** — PDF p. 439; Persian OCR confidence 64.1; head match 0.545; head OCR confidence 63.3
+- **substance abuse** — PDF p. 439; Persian OCR confidence 57.1; head match 1.0; head OCR confidence 96.5
+- **Substance dependence** — PDF p. 439; Persian OCR confidence 62.0; head match 1.0; head OCR confidence 89.1
+- **substandard** — PDF p. 439; Persian OCR confidence 84.9; head match 0.815; head OCR confidence 27.6
+- **substantial form** — PDF p. 439; Persian OCR confidence 61.0; head match 0.789; head OCR confidence 35.6
+- **substantlalism** — PDF p. 439; Persian OCR confidence 91.2; head match 0.839; head OCR confidence 32.5
+- **Substantialist 2g** — PDF p. 439; Persian OCR confidence 53.4; head match 0.839; head OCR confidence 64.7
+- **substantiation** — PDF p. 439; Persian OCR confidence 78.4; head match 0.456; head OCR confidence 19.0
+- **substantlval** — PDF p. 439; Persian OCR confidence 89.6; head match 0.786; head OCR confidence 44.6
+- **substantive** — PDF p. 439; Persian OCR confidence 75.1; head match 0.741; head OCR confidence 44.6
+- **substantive right oh eS** — PDF p. 439; Persian OCR confidence 44.2; head match 0.889; head OCR confidence 64.2
+- **substantive universals** — PDF p. 439; Persian OCR confidence 52.1; head match 1.0; head OCR confidence 88.0
+- **substitute** — PDF p. 439; Persian OCR confidence 87.2; head match 0.741; head OCR confidence 19.3
+- **substitute goods** — PDF p. 440; Persian OCR confidence 69.3; head match 0.769; head OCR confidence 48.3
+- **substitute stimulus ~1** — PDF p. 440; Persian OCR confidence 49.9; head match 0.878; head OCR confidence 43.4
+- **substitution** — PDF p. 440; Persian OCR confidence 70.1; head match 0.41; head OCR confidence 31.5
+- **substitutional** — PDF p. 440; Persian OCR confidence 87.1; head match 0.718; head OCR confidence 32.0
+- **substitution class <4.i** — PDF p. 440; Persian OCR confidence 0; head match 0.818; head OCR confidence 50.7
+- **substitutive** — PDF p. 440; Persian OCR confidence 0.0; head match 0.828; head OCR confidence 45.9
+- **substrate** — PDF p. 440; Persian OCR confidence 0; head match 0.483; head OCR confidence 96.7
+- **substratum** — PDF p. 440; Persian OCR confidence 70.2; head match 0.382; head OCR confidence 63.9
+- **substruction** — PDF p. 440; Persian OCR confidence 82.9; head match 0.467; head OCR confidence 21.4
+- **substructural** — PDF p. 440; Persian OCR confidence 81.6; head match 0.788; head OCR confidence 37.3
+- **substructure** — PDF p. 440; Persian OCR confidence 85.6; head match 0.75; head OCR confidence 37.3
+- **subsumable** — PDF p. 440; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.8
+- **subsumed** — PDF p. 440; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.5
+- **subsuming** — PDF p. 440; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.3
+- **subsumptive** — PDF p. 440; Persian OCR confidence 59.2; head match 0.88; head OCR confidence 54.7
+- **subsystem** — PDF p. 440; Persian OCR confidence 65.5; head match 0.435; head OCR confidence 54.7
+- **subtest** — PDF p. 440; Persian OCR confidence 34.6; head match 0.49; head OCR confidence 51.9
+- **subtext** — PDF p. 440; Persian OCR confidence 85.4; head match 0.824; head OCR confidence 48.0
+- **subtopia** — PDF p. 440; Persian OCR confidence 41.4; head match 0.667; head OCR confidence 48.0
+- **subtopian** — PDF p. 440; Persian OCR confidence 27.3; head match 0.818; head OCR confidence 31.1
+- **subtopic (ote** — PDF p. 440; Persian OCR confidence 23.7; head match 0.842; head OCR confidence 64.9
+- **subtropical** — PDF p. 440; Persian OCR confidence 33.9; head match 0.88; head OCR confidence 47.8
+- **subtropics** — PDF p. 440; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.2
+- **suburb** — PDF p. 440; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.3
+- **suburb** — PDF p. 440; Persian OCR confidence 56.4; head match 0.857; head OCR confidence 95.3
+- **suburbanite** — PDF p. 440; Persian OCR confidence 83.7; head match 0.44; head OCR confidence 32.8
+- **suburbanization** — PDF p. 440; Persian OCR confidence 84.4; head match 0.833; head OCR confidence 36.8
+- **suburbia** — PDF p. 440; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.0
+- **subvention** — PDF p. 440; Persian OCR confidence 68.4; head match 0.8; head OCR confidence 49.9
+- **subventionary** — PDF p. 440; Persian OCR confidence 36.1; head match 0.867; head OCR confidence 43.7
+- **subversion** — PDF p. 440; Persian OCR confidence 89.8; head match 0.741; head OCR confidence 40.3
+- **subversive** — PDF p. 440; Persian OCR confidence 59.3; head match 0.714; head OCR confidence 27.8
+- **succession** — PDF p. 440; Persian OCR confidence 76.6; head match 0.429; head OCR confidence 27.8
+- **successional** — PDF p. 440; Persian OCR confidence 78.4; head match 0.48; head OCR confidence 30.5
+- **succession states ~~** — PDF p. 440; Persian OCR confidence 73.6; head match 0.487; head OCR confidence 37.9
+- **succession tax Sp olde** — PDF p. 440; Persian OCR confidence 87.7; head match 0.812; head OCR confidence 63.5
+- **successive induction lo (Ea)** — PDF p. 440; Persian OCR confidence 25.1; head match 0.905; head OCR confidence 58.1
+- **successor** — PDF p. 440; Persian OCR confidence 71.6; head match 0.434; head OCR confidence 36.7
+- **succuba (L.)** — PDF p. 440; Persian OCR confidence 70.7; head match 0.431; head OCR confidence 45.7
+- **succubus (L.)** — PDF p. 440; Persian OCR confidence 42.5; head match 0.45; head OCR confidence 55.0
+- **sufferer** — PDF p. 440; Persian OCR confidence 63.9; head match 1.0; head OCR confidence 12.1
+- **Sufficiency bs,** — PDF p. 440; Persian OCR confidence 80.4; head match 0.783; head OCR confidence 56.7
+- **suffix** — PDF p. 440; Persian OCR confidence 0; head match 0.923; head OCR confidence 45.9
+- **suffixal** — PDF p. 440; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.0
+- **suftixation** — PDF p. 440; Persian OCR confidence 0; head match 0.909; head OCR confidence 86.2
+- **suffragan** — PDF p. 440; Persian OCR confidence 0; head match 1.0; head OCR confidence 45.2
+- **suffragette** — PDF p. 440; Persian OCR confidence 64.3; head match 0.733; head OCR confidence 53.6
+- **suffragettism** — PDF p. 440; Persian OCR confidence 77.4; head match 0.743; head OCR confidence 55.1
+- **Sufi** — PDF p. 440; Persian OCR confidence 14.9; head match 0.35; head OCR confidence 26.6
+- **Suflc** — PDF p. 441; Persian OCR confidence 82.3; head match 0.35; head OCR confidence 59.8
+- **Sufism** — PDF p. 441; Persian OCR confidence 73.6; head match 0.365; head OCR confidence 32.1
+- **suggestlbllity** — PDF p. 441; Persian OCR confidence 85.0; head match 0.615; head OCR confidence 39.9
+- **suggestlble** — PDF p. 441; Persian OCR confidence 86.6; head match 0.69; head OCR confidence 54.4
+- **suggestion** — PDF p. 441; Persian OCR confidence 76.6; head match 0.571; head OCR confidence 54.4
+- **suggestive** — PDF p. 441; Persian OCR confidence 80.6; head match 0.452; head OCR confidence 32.2
+- **suggestiveness** — PDF p. 441; Persian OCR confidence 73.0; head match 0.824; head OCR confidence 45.7
+- **sulcldal** — PDF p. 441; Persian OCR confidence 55.5; head match 0.667; head OCR confidence 48.5
+- **sulcldallty** — PDF p. 441; Persian OCR confidence 50.8; head match 0.667; head OCR confidence 60.2
+- **suicide bomber** — PDF p. 441; Persian OCR confidence 56.7; head match 0.867; head OCR confidence 92.9
+- **sulcldologlst** — PDF p. 441; Persian OCR confidence 31.1; head match 0.606; head OCR confidence 33.1
+- **sulcldology** — PDF p. 441; Persian OCR confidence 20.5; head match 0.643; head OCR confidence 44.7
+- **sul generls (L.)** — PDF p. 441; Persian OCR confidence 79.5; head match 0.429; head OCR confidence 44.7
+- **sul Juris (L.)** — PDF p. 441; Persian OCR confidence 77.1; head match 0.4; head OCR confidence 56.5
+- **sultan (Ar.)** — PDF p. 441; Persian OCR confidence 66.4; head match 0.762; head OCR confidence 71.0
+- **sultana (Ar.)** — PDF p. 441; Persian OCR confidence 74.2; head match 0.727; head OCR confidence 71.0
+- **sultanlc** — PDF p. 441; Persian OCR confidence 44.6; head match 0.737; head OCR confidence 46.4
+- **sultan Ism** — PDF p. 441; Persian OCR confidence 91.4; head match 0.7; head OCR confidence 46.4
+- **sultanry** — PDF p. 441; Persian OCR confidence 81.6; head match 0.487; head OCR confidence 44.6
+- **sultanshlp** — PDF p. 441; Persian OCR confidence 84.3; head match 0.72; head OCR confidence 44.7
+- **Sumerian** — PDF p. 441; Persian OCR confidence 84.5; head match 0.415; head OCR confidence 36.6
+- **summa (L.)** — PDF p. 441; Persian OCR confidence 76.9; head match 0.336; head OCR confidence 57.6
+- **summarlness** — PDF p. 441; Persian OCR confidence 72.2; head match 0.769; head OCR confidence 45.3
+- **summation reflex** — PDF p. 441; Persian OCR confidence 64.9; head match 1.0; head OCR confidence 42.4
+- **summatlve** — PDF p. 441; Persian OCR confidence 88.9; head match 0.762; head OCR confidence 32.4
+- **summative evaluation** — PDF p. 441; Persian OCR confidence 50.2; head match 0.947; head OCR confidence 77.6
+- **summer school** — PDF p. 441; Persian OCR confidence 71.8; head match 0.494; head OCR confidence 40.6
+- **summit !.Y .r** — PDF p. 441; Persian OCR confidence 75.8; head match 0.32; head OCR confidence 33.3
+- **summit dlplomacy** — PDF p. 441; Persian OCR confidence 74.3; head match 0.683; head OCR confidence 52.9
+- **summons** — PDF p. 441; Persian OCR confidence 0; head match 1.0; head OCR confidence 24.3
+- **Summum bonum (L.)** — PDF p. 441; Persian OCR confidence 0; head match 1.0; head OCR confidence 81.6
+- **Summum genus (L.)** — PDF p. 441; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.2
+- **sumptuary** — PDF p. 441; Persian OCR confidence 0; head match 1.0; head OCR confidence 46.2
+- **sumptuary laws** — PDF p. 441; Persian OCR confidence 66.9; head match 0.818; head OCR confidence 46.2
+- **Sunnah** — PDF p. 441; Persian OCR confidence 0; head match 0.494; head OCR confidence 94.7
+- **Sunni (Ar.)** — PDF p. 441; Persian OCR confidence 61.7; head match 0.408; head OCR confidence 46.4
+- **Sunnism ..s~** — PDF p. 441; Persian OCR confidence 82.4; head match 0.8; head OCR confidence 19.2
+- **Sunnite** — PDF p. 441; Persian OCR confidence 53.9; head match 0.571; head OCR confidence 19.2
+- **superannuated** — PDF p. 441; Persian OCR confidence 60.7; head match 0.867; head OCR confidence 38.7
+- **superannuation .r .)L...~.I** — PDF p. 441; Persian OCR confidence 83.8; head match 0.7; head OCR confidence 6.0
+- **superego** — PDF p. 441; Persian OCR confidence 44.3; head match 0.842; head OCR confidence 54.7
+- **superego lacuna** — PDF p. 441; Persian OCR confidence 54.6; head match 0.8; head OCR confidence 40.6
+- **supererogation** — PDF p. 441; Persian OCR confidence 62.5; head match 0.757; head OCR confidence 23.6
+- **superfamlly** — PDF p. 441; Persian OCR confidence 90.3; head match 0.69; head OCR confidence 42.8
+- **superhuman** — PDF p. 441; Persian OCR confidence 0.0; head match 0.87; head OCR confidence 52.5
+- **superhumanity ee** — PDF p. 441; Persian OCR confidence 52.3; head match 0.857; head OCR confidence 65.4
+- **super-lmperlallsm** — PDF p. 441; Persian OCR confidence 0; head match 0.812; head OCR confidence 40.8
+- **superimposition** — PDF p. 442; Persian OCR confidence 49.9; head match 0.789; head OCR confidence 46.3
+- **superindividual** — PDF p. 442; Persian OCR confidence 4.4; head match 1.0; head OCR confidence 91.1
+- **superintendence** — PDF p. 442; Persian OCR confidence 83.9; head match 0.765; head OCR confidence 79.5
+- **superintendent** — PDF p. 442; Persian OCR confidence 55.6; head match 0.778; head OCR confidence 46.0
+- **superior** — PDF p. 442; Persian OCR confidence 67.2; head match 0.4; head OCR confidence 30.7
+- **superiority ,._5.r** — PDF p. 442; Persian OCR confidence 78.6; head match 0.786; head OCR confidence 29.9
+- **superiority complex Sy Gosie(ls,** — PDF p. 442; Persian OCR confidence 82.5; head match 0.8; head OCR confidence 59.4
+- **superiority feeling** — PDF p. 442; Persian OCR confidence 90.9; head match 0.766; head OCR confidence 48.3
+- **superior knowledge** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **superior office** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.8
+- **superior position** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **superman** — PDF p. 442; Persian OCR confidence 47.0; head match 0.361; head OCR confidence 30.1
+- **supermarket** — PDF p. 442; Persian OCR confidence 89.8; head match 0.733; head OCR confidence 49.8
+- **supermundane** — PDF p. 442; Persian OCR confidence 6.5; head match 0.923; head OCR confidence 52.7
+- **supernal** — PDF p. 442; Persian OCR confidence 89.8; head match 0.762; head OCR confidence 58.2
+- **supernatlonal** — PDF p. 442; Persian OCR confidence 0; head match 0.467; head OCR confidence 96.2
+- **Supernatural** — PDF p. 442; Persian OCR confidence 64.2; head match 0.96; head OCR confidence 92.0
+- **supernaturalism** — PDF p. 442; Persian OCR confidence 48.6; head match 0.857; head OCR confidence 46.4
+- **supernaturalist** — PDF p. 442; Persian OCR confidence 2.6; head match 0.789; head OCR confidence 46.1
+- **supernaturalistic** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.0
+- **supernormal** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.6
+- **superorder** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.8
+- **superordinate** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 89.8
+- **superordination** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.1
+- **superorganic** — PDF p. 442; Persian OCR confidence 17.7; head match 1.0; head OCR confidence 70.1
+- **superphysical** — PDF p. 442; Persian OCR confidence 37.4; head match 0.812; head OCR confidence 37.7
+- **superpower** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 65.4
+- **super-rational** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 41.9
+- **superscription** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 58.1
+- **supersensible** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 64.4
+- **supersensory** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 70.7
+- **supersensual** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 82.4
+- **supersensuous** — PDF p. 442; Persian OCR confidence 0.0; head match 1.0; head OCR confidence 0.0
+- **supersocial** — PDF p. 442; Persian OCR confidence 25.4; head match 0.815; head OCR confidence 23.1
+- **superstate** — PDF p. 442; Persian OCR confidence 30.4; head match 0.8; head OCR confidence 40.3
+- **superstition** — PDF p. 442; Persian OCR confidence 89.8; head match 0.727; head OCR confidence 26.9
+- **superstitious behavior t.s (13** — PDF p. 442; Persian OCR confidence 0; head match 0.84; head OCR confidence 48.6
+- **superstrate** — PDF p. 442; Persian OCR confidence 0; head match 1.0; head OCR confidence 90.5
+- **superstratum L** — PDF p. 442; Persian OCR confidence 40.7; head match 0.96; head OCR confidence 77.5
+- **superstructure** — PDF p. 442; Persian OCR confidence 15.6; head match 0.848; head OCR confidence 47.8
+- **supertemporal le** — PDF p. 442; Persian OCR confidence 37.6; head match 0.929; head OCR confidence 65.3
+- **superterrestrial** — PDF p. 442; Persian OCR confidence 60.0; head match 0.914; head OCR confidence 22.0
+- **supervisor** — PDF p. 442; Persian OCR confidence 64.7; head match 0.8; head OCR confidence 53.0
+- **supervisory board sees ole** — PDF p. 442; Persian OCR confidence 53.8; head match 0.821; head OCR confidence 76.6
+- **supplementary** — PDF p. 442; Persian OCR confidence 72.7; head match 0.585; head OCR confidence 63.2
+- **supplier** — PDF p. 442; Persian OCR confidence 89.2; head match 0.392; head OCR confidence 91.6
+- **supply rootes** — PDF p. 442; Persian OCR confidence 90.0; head match 0.467; head OCR confidence 46.2
+- **supply-side** — PDF p. 442; Persian OCR confidence 66.4; head match 0.467; head OCR confidence 32.2
+- **supply-sider** — PDF p. 442; Persian OCR confidence 62.6; head match 0.71; head OCR confidence 32.2
+- **supporter** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **supportive** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.7
+- **supposable** — PDF p. 443; Persian OCR confidence 0.3; head match 0.952; head OCR confidence 45.6
+- **suppositio (L.)** — PDF p. 443; Persian OCR confidence 87.5; head match 0.636; head OCR confidence 45.6
+- **supposition** — PDF p. 443; Persian OCR confidence 52.3; head match 1.0; head OCR confidence 58.6
+- **supposititious** — PDF p. 443; Persian OCR confidence 76.5; head match 0.8; head OCR confidence 47.5
+- **suppositive** — PDF p. 443; Persian OCR confidence 69.6; head match 0.759; head OCR confidence 31.0
+- **suppression** — PDF p. 443; Persian OCR confidence 77.0; head match 0.759; head OCR confidence 41.7
+- **suppressive o..v;b.i4-Y** — PDF p. 443; Persian OCR confidence 11.5; head match 0.71; head OCR confidence 53.4
+- **supracausal** — PDF p. 443; Persian OCR confidence 22.4; head match 1.0; head OCR confidence 91.8
+- **supraconscious** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.3
+- **supradisciplinary** — PDF p. 443; Persian OCR confidence 0; head match 0.941; head OCR confidence 91.6
+- **supraethnic** — PDF p. 443; Persian OCR confidence 0; head match 0.909; head OCR confidence 91.7
+- **suprahistorical** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.4
+- **supraindividual** — PDF p. 443; Persian OCR confidence 41.4; head match 0.867; head OCR confidence 79.5
+- **suprallminal** — PDF p. 443; Persian OCR confidence 44.3; head match 0.786; head OCR confidence 49.4
+- **supralingulstic** — PDF p. 443; Persian OCR confidence 39.5; head match 0.903; head OCR confidence 45.6
+- **supralogical** — PDF p. 443; Persian OCR confidence 9.1; head match 0.828; head OCR confidence 50.1
+- **supramundane** — PDF p. 443; Persian OCR confidence 47.7; head match 0.727; head OCR confidence 23.0
+- **supranational** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 88.6
+- **supraordinate** — PDF p. 443; Persian OCR confidence 49.5; head match 0.897; head OCR confidence 51.1
+- **supraorganic** — PDF p. 443; Persian OCR confidence 0; head match 0.467; head OCR confidence 91.9
+- **supra-personal ath.** — PDF p. 443; Persian OCR confidence 38.7; head match 0.897; head OCR confidence 67.1
+- **suprasegmental ae** — PDF p. 443; Persian OCR confidence 17.0; head match 0.933; head OCR confidence 63.8
+- **suprasegmental phonology** — PDF p. 443; Persian OCR confidence 40.5; head match 1.0; head OCR confidence 74.3
+- **suprasensible** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 85.8
+- **suprasensory** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 50.1
+- **supratemporal** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 56.4
+- **supremacist Sy** — PDF p. 443; Persian OCR confidence 68.9; head match 0.783; head OCR confidence 60.2
+- **supreme** — PDF p. 443; Persian OCR confidence 74.1; head match 0.306; head OCR confidence 43.8
+- **Supreme Being** — PDF p. 443; Persian OCR confidence 58.6; head match 0.774; head OCR confidence 69.3
+- **Supreme cause cop ele** — PDF p. 443; Persian OCR confidence 40.2; head match 0.8; head OCR confidence 67.8
+- **Supreme genus** — PDF p. 443; Persian OCR confidence 56.9; head match 1.0; head OCR confidence 89.7
+- **Supreme Good** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 94.3
+- **supreme intelligence** — PDF p. 443; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.3
+- **supremeness** — PDF p. 443; Persian OCR confidence 45.4; head match 0.453; head OCR confidence 21.5
+- **surcharge** — PDF p. 443; Persian OCR confidence 73.0; head match 0.783; head OCR confidence 35.0
+- **surety** — PDF p. 443; Persian OCR confidence 83.4; head match 0.29; head OCR confidence 23.6
+- **suretyship** — PDF p. 443; Persian OCR confidence 84.0; head match 0.769; head OCR confidence 32.1
+- **surface** — PDF p. 443; Persian OCR confidence 76.3; head match 0.338; head OCR confidence 44.8
+- **surface structure thong (ly** — PDF p. 444; Persian OCR confidence 79.3; head match 0.821; head OCR confidence 68.8
+- **surgency** — PDF p. 444; Persian OCR confidence 63.7; head match 0.487; head OCR confidence 41.1
+- **surplus** — PDF p. 444; Persian OCR confidence 65.8; head match 0.533; head OCR confidence 68.5
+- **surplusage** — PDF p. 444; Persian OCR confidence 84.3; head match 0.833; head OCR confidence 30.7
+- **surplus economy** — PDF p. 444; Persian OCR confidence 81.6; head match 0.778; head OCR confidence 49.6
+- **surplus labor** — PDF p. 444; Persian OCR confidence 26.7; head match 0.75; head OCR confidence 64.2
+- **surplus population** — PDF p. 444; Persian OCR confidence 55.2; head match 0.791; head OCR confidence 48.1
+- **surplus production 4ig5)aJg** — PDF p. 444; Persian OCR confidence 75.7; head match 0.829; head OCR confidence 67.4
+- **surreal** — PDF p. 444; Persian OCR confidence 53.1; head match 0.824; head OCR confidence 48.1
+- **surrealism db,** — PDF p. 444; Persian OCR confidence 77.9; head match 0.818; head OCR confidence 57.6
+- **surrealistic** — PDF p. 444; Persian OCR confidence 52.6; head match 0.741; head OCR confidence 50.5
+- **surrogacy** — PDF p. 444; Persian OCR confidence 52.5; head match 0.382; head OCR confidence 25.4
+- **surrogate** — PDF p. 444; Persian OCR confidence 45.1; head match 0.434; head OCR confidence 27.2
+- **surrogate mother yl. Ji** — PDF p. 444; Persian OCR confidence 46.9; head match 0.882; head OCR confidence 70.5
+- **surround** — PDF p. 444; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.4
+- **surroundings** — PDF p. 444; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.8
+- **surtax** — PDF p. 444; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.7
+- **surveillant** — PDF p. 444; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.5
+- **survey** — PDF p. 444; Persian OCR confidence 60.5; head match 1.0; head OCR confidence 96.0
+- **survey fee** — PDF p. 444; Persian OCR confidence 88.0; head match 0.72; head OCR confidence 67.7
+- **surveying procedure ls ei** — PDF p. 444; Persian OCR confidence 54.0; head match 0.9; head OCR confidence 72.2
+- **surveyor** — PDF p. 444; Persian OCR confidence 37.1; head match 0.487; head OCR confidence 48.6
+- **survey research** — PDF p. 444; Persian OCR confidence 44.7; head match 0.8; head OCR confidence 52.7
+- **survivability** — PDF p. 444; Persian OCR confidence 82.3; head match 0.492; head OCR confidence 37.5
+- **survivable** — PDF p. 444; Persian OCR confidence 0; head match 1.0; head OCR confidence 96.2
+- **survival** — PDF p. 444; Persian OCR confidence 0; head match 1.0; head OCR confidence 95.3
+- **survivallsm** — PDF p. 444; Persian OCR confidence 60.5; head match 0.424; head OCR confidence 15.1
+- **survivalist** — PDF p. 444; Persian OCR confidence 77.5; head match 0.759; head OCR confidence 16.5
+- **survival value G315sbe** — PDF p. 444; Persian OCR confidence 86.9; head match 0.788; head OCR confidence 58.0
+- **survivance** — PDF p. 444; Persian OCR confidence 0; head match 0.714; head OCR confidence 65.8
+- **surviving** — PDF p. 444; Persian OCR confidence 93.2; head match 0.783; head OCR confidence 38.5
+- **survivor** — PDF p. 444; Persian OCR confidence 77.2; head match 0.636; head OCR confidence 38.5
+- **survivor guilt** — PDF p. 444; Persian OCR confidence 72.5; head match 0.629; head OCR confidence 45.8
+- **survivorship** — PDF p. 444; Persian OCR confidence 77.2; head match 0.41; head OCR confidence 26.8
+- **susceptibility** — PDF p. 444; Persian OCR confidence 58.9; head match 0.757; head OCR confidence 27.8
+- **suspended** — PDF p. 444; Persian OCR confidence 61.1; head match 0.371; head OCR confidence 37.5
+- **suspense** — PDF p. 444; Persian OCR confidence 82.5; head match 0.311; head OCR confidence 29.6
+- **suspenseful** — PDF p. 444; Persian OCR confidence 53.1; head match 0.815; head OCR confidence 48.0
+- **suspensive** — PDF p. 444; Persian OCR confidence 24.6; head match 0.483; head OCR confidence 16.4
+- **suspensiveness** — PDF p. 444; Persian OCR confidence 62.0; head match 0.875; head OCR confidence 41.9
+- **suspicion** — PDF p. 444; Persian OCR confidence 85.8; head match 0.434; head OCR confidence 44.3
+- **suspicious** — PDF p. 444; Persian OCR confidence 71.4; head match 0.467; head OCR confidence 29.0
+- **sustainability** — PDF p. 445; Persian OCR confidence 89.4; head match 0.824; head OCR confidence 36.3
+- **sustainable** — PDF p. 445; Persian OCR confidence 87.3; head match 0.71; head OCR confidence 36.3
+- **sustainable yield** — PDF p. 445; Persian OCR confidence 71.6; head match 0.762; head OCR confidence 51.1
+- **sustenance** — PDF p. 445; Persian OCR confidence 79.2; head match 0.714; head OCR confidence 64.6
+- **sustentatlon** — PDF p. 445; Persian OCR confidence 70.3; head match 0.786; head OCR confidence 52.8
+- **suzerain** — PDF p. 445; Persian OCR confidence 78.4; head match 0.8; head OCR confidence 45.4
+- **suzerainty** — PDF p. 445; Persian OCR confidence 75.2; head match 0.483; head OCR confidence 39.7
+- **Swahili** — PDF p. 445; Persian OCR confidence 74.9; head match 0.316; head OCR confidence 35.7
+- **Swahllian** — PDF p. 445; Persian OCR confidence 72.3; head match 0.727; head OCR confidence 59.0
+- **Swede** — PDF p. 445; Persian OCR confidence 42.9; head match 0.714; head OCR confidence 48.4
+- **Swedish** — PDF p. 445; Persian OCR confidence 72.5; head match 0.824; head OCR confidence 50.3
+- **syllabic** — PDF p. 445; Persian OCR confidence 65.1; head match 0.762; head OCR confidence 41.4
+- **syllabication** — PDF p. 445; Persian OCR confidence 47.5; head match 0.765; head OCR confidence 51.4
+- **syllablflcatlon** — PDF p. 445; Persian OCR confidence 0; head match 0.531; head OCR confidence 51.4
+- **syllablsm** — PDF p. 445; Persian OCR confidence 70.9; head match 0.545; head OCR confidence 91.3
+- **syllable** — PDF p. 445; Persian OCR confidence 72.0; head match 0.448; head OCR confidence 48.2
+- **syllable arrangement whe uli** — PDF p. 445; Persian OCR confidence 45.0; head match 0.864; head OCR confidence 70.0
+- **syllable-timed** — PDF p. 445; Persian OCR confidence 77.0; head match 0.839; head OCR confidence 46.7
+- **syllabus** — PDF p. 445; Persian OCR confidence 73.8; head match 0.762; head OCR confidence 64.5
+- **syllogistic ols ee** — PDF p. 445; Persian OCR confidence 90.7; head match 0.815; head OCR confidence 56.8
+- **syllogistic inference** — PDF p. 445; Persian OCR confidence 0; head match 0.905; head OCR confidence 80.0
+- **syllogistics** — PDF p. 445; Persian OCR confidence 0; head match 1.0; head OCR confidence 8.3
+- **syllogization** — PDF p. 445; Persian OCR confidence 0; head match 1.0; head OCR confidence 74.9
+- **sylvan** — PDF p. 445; Persian OCR confidence 0; head match 1.0; head OCR confidence 8.3
+- **sylvatic** — PDF p. 445; Persian OCR confidence 0; head match 0.875; head OCR confidence 91.0
+- **sylviculture** — PDF p. 445; Persian OCR confidence 0; head match 1.0; head OCR confidence 19.7
+- **symbiont** — PDF p. 445; Persian OCR confidence 0; head match 1.0; head OCR confidence 5.4
+- **symbiosis** — PDF p. 445; Persian OCR confidence 0; head match 0.889; head OCR confidence 43.9
+- **symblotlc(-al)** — PDF p. 445; Persian OCR confidence 0; head match 0.818; head OCR confidence 0.0
+- **symbol** — PDF p. 445; Persian OCR confidence 0; head match 1.0; head OCR confidence 32.6
+- **symbollc(-al)** — PDF p. 445; Persian OCR confidence 69.4; head match 0.667; head OCR confidence 48.0
+- **symbolicalness** — PDF p. 445; Persian OCR confidence 75.0; head match 0.478; head OCR confidence 33.6
+- **symbolic capltal** — PDF p. 445; Persian OCR confidence 83.8; head match 0.683; head OCR confidence 45.1
+- **symbolic exchange** — PDF p. 445; Persian OCR confidence 70.5; head match 0.762; head OCR confidence 38.5
+- **symbolic knowledge goles silo** — PDF p. 445; Persian OCR confidence 91.9; head match 0.791; head OCR confidence 73.6
+- **symbolic loglc** — PDF p. 445; Persian OCR confidence 58.9; head match 0.667; head OCR confidence 36.5
+- **symboling** — PDF p. 445; Persian OCR confidence 0; head match 0.71; head OCR confidence 96.5
+- **symbolism** — PDF p. 445; Persian OCR confidence 78.6; head match 0.778; head OCR confidence 70.6
+- **symbollstlc(-al)** — PDF p. 445; Persian OCR confidence 80.2; head match 0.629; head OCR confidence 49.7
+- **symbolization** — PDF p. 445; Persian OCR confidence 74.5; head match 0.722; head OCR confidence 40.9
+- **symbolizing** — PDF p. 446; Persian OCR confidence 74.6; head match 0.667; head OCR confidence 57.9
+- **symbology** — PDF p. 446; Persian OCR confidence 73.5; head match 0.783; head OCR confidence 48.2
+- **symbolophobia le-sli(l,** — PDF p. 446; Persian OCR confidence 83.2; head match 0.812; head OCR confidence 59.3
+- **symmetric(-al)** — PDF p. 446; Persian OCR confidence 80.5; head match 0.4; head OCR confidence 59.3
+- **symmetrlcal relationship** — PDF p. 446; Persian OCR confidence 60.6; head match 0.786; head OCR confidence 44.7
+- **symmetrization** — PDF p. 446; Persian OCR confidence 70.3; head match 0.824; head OCR confidence 48.3
+- **symmetry** — PDF p. 446; Persian OCR confidence 76.5; head match 0.762; head OCR confidence 40.4
+- **sympathetic** — PDF p. 446; Persian OCR confidence 64.1; head match 0.417; head OCR confidence 40.4
+- **sympathetic induction _Ji.0** — PDF p. 446; Persian OCR confidence 0; head match 0.851; head OCR confidence 61.6
+- **sympathizer** — PDF p. 446; Persian OCR confidence 65.9; head match 0.453; head OCR confidence 24.1
+- **sympathy strike** — PDF p. 446; Persian OCR confidence 41.8; head match 0.824; head OCR confidence 51.8
+- **sympatric** — PDF p. 446; Persian OCR confidence 85.9; head match 0.818; head OCR confidence 46.8
+- **sympatry yee** — PDF p. 446; Persian OCR confidence 56.6; head match 0.842; head OCR confidence 57.9
+- **symposiac** — PDF p. 446; Persian OCR confidence 68.5; head match 0.5; head OCR confidence 57.9
+- **symposiarch** — PDF p. 446; Persian OCR confidence 65.5; head match 0.453; head OCR confidence 32.7
+- **symposium** — PDF p. 446; Persian OCR confidence 74.6; head match 0.382; head OCR confidence 30.3
+- **symptom** — PDF p. 446; Persian OCR confidence 79.5; head match 0.467; head OCR confidence 71.0
+- **symptomatic** — PDF p. 446; Persian OCR confidence 83.4; head match 0.405; head OCR confidence 33.5
+- **symptomatology Li,._; 0,.._;.)** — PDF p. 446; Persian OCR confidence 0; head match 0.773; head OCR confidence 19.4
+- **symptom bearer shogei(l,** — PDF p. 446; Persian OCR confidence 89.9; head match 0.788; head OCR confidence 64.6
+- **symptom wearer hosel,** — PDF p. 446; Persian OCR confidence 73.4; head match 0.839; head OCR confidence 65.2
+- **synagog** — PDF p. 446; Persian OCR confidence 0; head match 0.72; head OCR confidence 96.4
+- **synagogal** — PDF p. 446; Persian OCR confidence 68.5; head match 0.71; head OCR confidence 88.7
+- **synagogue** — PDF p. 446; Persian OCR confidence 65.9; head match 0.818; head OCR confidence 46.1
+- **synalepha** — PDF p. 446; Persian OCR confidence 89.9; head match 0.434; head OCR confidence 41.7
+- **synaloephea** — PDF p. 446; Persian OCR confidence 0; head match 0.71; head OCR confidence 54.6
+- **synarchic** — PDF p. 446; Persian OCR confidence 83.6; head match 0.556; head OCR confidence 91.6
+- **synarchy** — PDF p. 446; Persian OCR confidence 89.5; head match 0.487; head OCR confidence 44.3
+- **synchronlc** — PDF p. 446; Persian OCR confidence 89.2; head match 0.56; head OCR confidence 44.3
+- **synchronlc linguistics ..;Lo_,-** — PDF p. 446; Persian OCR confidence 65.2; head match 0.816; head OCR confidence 40.9
+- **synchronlstic(-al)** — PDF p. 446; Persian OCR confidence 84.9; head match 0.692; head OCR confidence 37.8
+- **synchronization** — PDF p. 446; Persian OCR confidence 80.8; head match 0.75; head OCR confidence 44.6
+- **synchronized** — PDF p. 446; Persian OCR confidence 91.6; head match 0.467; head OCR confidence 32.1
+- **synchronizer** — PDF p. 446; Persian OCR confidence 71.8; head match 0.774; head OCR confidence 37.4
+- **synchronous** — PDF p. 446; Persian OCR confidence 77.1; head match 0.6; head OCR confidence 37.4
+- **synchronousnessLS"l>lL,..i,, ,~Lo 3~** — PDF p. 446; Persian OCR confidence 68.1; head match 0.744; head OCR confidence 30.7
+- **synchrony** — PDF p. 446; Persian OCR confidence 81.9; head match 0.818; head OCR confidence 38.5
+- **syncretlc** — PDF p. 446; Persian OCR confidence 54.3; head match 0.455; head OCR confidence 38.5
+- **syncretism** — PDF p. 446; Persian OCR confidence 66.9; head match 0.287; head OCR confidence 14.6
+- **syncretist** — PDF p. 446; Persian OCR confidence 46.8; head match 0.438; head OCR confidence 15.4
+- **syncretistlc** — PDF p. 446; Persian OCR confidence 28.4; head match 0.846; head OCR confidence 17.4
+- **syncretlzation** — PDF p. 446; Persian OCR confidence 63.3; head match 0.929; head OCR confidence 52.2
+- **syndetic** — PDF p. 446; Persian OCR confidence 56.4; head match 0.431; head OCR confidence 29.3
+- **syndic** — PDF p. 446; Persian OCR confidence 90.6; head match 0.8; head OCR confidence 29.3
+- **syndicalism** — PDF p. 446; Persian OCR confidence 88.4; head match 0.7; head OCR confidence 29.3
+- **syndlcalist** — PDF p. 446; Persian OCR confidence 85.1; head match 0.645; head OCR confidence 22.3
+- **syndicallstic** — PDF p. 446; Persian OCR confidence 85.8; head match 0.686; head OCR confidence 18.4
+- **syndicate** — PDF p. 446; Persian OCR confidence 80.3; head match 0.42; head OCR confidence 27.8
+- **syndrome** — PDF p. 447; Persian OCR confidence 86.9; head match 0.762; head OCR confidence 48.1
+- **syndromic** — PDF p. 447; Persian OCR confidence 90.7; head match 0.783; head OCR confidence 45.1
+- **synecologic(-al)** — PDF p. 447; Persian OCR confidence 49.8; head match 1.0; head OCR confidence 90.4
+- **synecology** — PDF p. 447; Persian OCR confidence 72.8; head match 0.741; head OCR confidence 45.2
+- **synergic** — PDF p. 447; Persian OCR confidence 0; head match 0.714; head OCR confidence 96.7
+- **synergic** — PDF p. 447; Persian OCR confidence 83.7; head match 0.824; head OCR confidence 96.7
+- **synergist** — PDF p. 447; Persian OCR confidence 62.7; head match 0.783; head OCR confidence 45.3
+- **synergy** — PDF p. 447; Persian OCR confidence 76.3; head match 0.824; head OCR confidence 47.9
+- **synesthesia** — PDF p. 447; Persian OCR confidence 54.7; head match 0.667; head OCR confidence 47.9
+- **synizesis** — PDF p. 447; Persian OCR confidence 62.8; head match 1.0; head OCR confidence 89.6
+- **synonymic(-al)** — PDF p. 447; Persian OCR confidence 57.6; head match 1.0; head OCR confidence 90.1
+- **synonymity** — PDF p. 447; Persian OCR confidence 80.7; head match 0.762; head OCR confidence 90.1
+- **Synoptic Gospels** — PDF p. 447; Persian OCR confidence 89.1; head match 0.714; head OCR confidence 57.4
+- **syntactic(-al)** — PDF p. 447; Persian OCR confidence 85.6; head match 0.786; head OCR confidence 50.1
+- **syntactic component** — PDF p. 447; Persian OCR confidence 50.0; head match 1.0; head OCR confidence 92.9
+- **syntactic feature ag glaw(lj** — PDF p. 447; Persian OCR confidence 60.0; head match 0.8; head OCR confidence 56.0
+- **syntagmatic relation** — PDF p. 447; Persian OCR confidence 0; head match 0.974; head OCR confidence 83.7
+- **synthetic language SASF Gkj** — PDF p. 447; Persian OCR confidence 68.4; head match 0.829; head OCR confidence 58.0
+- **synthetic planning** — PDF p. 447; Persian OCR confidence 79.6; head match 0.773; head OCR confidence 51.4
+- **synthetism** — PDF p. 447; Persian OCR confidence 0; head match 1.0; head OCR confidence 91.6
+- **synthetization** — PDF p. 447; Persian OCR confidence 44.9; head match 0.667; head OCR confidence 91.6
+- **Syrian** — PDF p. 447; Persian OCR confidence 56.2; head match 0.8; head OCR confidence 49.3
+- **systematic** — PDF p. 447; Persian OCR confidence 85.9; head match 0.75; head OCR confidence 85.6
+- **systematic desensitization** — PDF p. 447; Persian OCR confidence 25.3; head match 1.0; head OCR confidence 85.9
+- **systematicity** — PDF p. 447; Persian OCR confidence 31.8; head match 0.839; head OCR confidence 48.2
+- **systematics ..s~~** — PDF p. 447; Persian OCR confidence 89.1; head match 0.733; head OCR confidence 48.2
+- **system of nature** — PDF p. 447; Persian OCR confidence 85.9; head match 0.718; head OCR confidence 66.1
+- **system of values** — PDF p. 447; Persian OCR confidence 66.9; head match 0.778; head OCR confidence 68.0

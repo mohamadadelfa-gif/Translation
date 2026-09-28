@@ -1,0 +1,436 @@
+# D — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **dactylography** — PDF p. 106, printed p. 105; Persian OCR confidence 43.3; head confidence 93.0; embedded `dactylography`.
+- **daily-paid** — PDF p. 106, printed p. 105; Persian OCR confidence 11.2; head confidence 90.9; embedded `daily-paid`.
+- **daily pay** — PDF p. 106, printed p. 105; Persian OCR confidence 54.4; head confidence 96.4; embedded `daily pay`.
+- **daimon daemon** — PDF p. 106, printed p. 105; Persian OCR confidence 0; head confidence 94.3; embedded `daimon daemon`.
+- **daimyo daimio** — PDF p. 106, printed p. 105; Persian OCR confidence 0; head confidence 94.4; embedded `daimyo daimio`.
+- **damnable** — PDF p. 106, printed p. 105; Persian OCR confidence 0; head confidence 96.2; embedded `damnable`.
+- **damnation** — PDF p. 106, printed p. 105; Persian OCR confidence 0; head confidence 96.5; embedded `damnation`.
+- **damnatory** — PDF p. 106, printed p. 105; Persian OCR confidence 0; head confidence 91.2; embedded `damnatory`.
+- **damned** — PDF p. 106, printed p. 105; Persian OCR confidence 0; head confidence 96.5; embedded `damned`.
+- **dandyism** — PDF p. 106, printed p. 105; Persian OCR confidence 84.4; head confidence 36.0; embedded `dandyism`.
+- **Dasein (G.)** — PDF p. 106, printed p. 105; Persian OCR confidence 52.3; head confidence 52.8; embedded `Casein (G.)`.
+- **datable** — PDF p. 106, printed p. 105; Persian OCR confidence 82.8; head confidence 43.4; embedded `datable`.
+- **dative** — PDF p. 107, printed p. 106; Persian OCR confidence 58.8; head confidence 52.8; embedded `dative`.
+- **daylabor** — PDF p. 107, printed p. 106; Persian OCR confidence 32.6; head confidence 92.9; embedded `daylabor`.
+- **dead hand** — PDF p. 107, printed p. 106; Persian OCR confidence 40.3; head confidence 96.5; embedded `dead hand`.
+- **deaf-mute** — PDF p. 107, printed p. 106; Persian OCR confidence 51.4; head confidence 91.6; embedded `deaf-mute`.
+- **deaf-mutism** — PDF p. 107, printed p. 106; Persian OCR confidence 25.4; head confidence 91.7; embedded `deaf-mutism`.
+- **dealership** — PDF p. 107, printed p. 106; Persian OCR confidence 65.2; head confidence 50.2; embedded `dealership`.
+- **dealing** — PDF p. 107, printed p. 106; Persian OCR confidence 69.8; head confidence 26.8; embedded `dealing`.
+- **dean of the diplomatic corps** — PDF p. 107, printed p. 106; Persian OCR confidence 41.4; head confidence 93.4; embedded `dean of the diplomatic corps`.
+- **deanthropomorphism** — PDF p. 107, printed p. 106; Persian OCR confidence 62.0; head confidence 49.2; embedded `deanthropomorphism`.
+- **deathman** — PDF p. 107, printed p. 106; Persian OCR confidence 91.6; head confidence 56.5; embedded `deathman`.
+- **death ratio** — PDF p. 107, printed p. 106; Persian OCR confidence 19.4; head confidence 88.1; embedded `death ratio`.
+- **death wish** — PDF p. 107, printed p. 106; Persian OCR confidence 51.6; head confidence 89.4; embedded `death wish`.
+- **debatable** — PDF p. 107, printed p. 106; Persian OCR confidence 57.4; head confidence 57.0; embedded `debatable`.
+- **debauchee** — PDF p. 107, printed p. 106; Persian OCR confidence 76.4; head confidence 26.2; embedded `debauchee`.
+- **debauchery** — PDF p. 107, printed p. 106; Persian OCR confidence 80.5; head confidence 41.2; embedded `debauchery`.
+- **Decalog Decalogue** — PDF p. 108, printed p. 107; Persian OCR confidence 0; head confidence 91.7; embedded `Decalog Decalogue`.
+- **decennium** — PDF p. 108, printed p. 107; Persian OCR confidence 32.2; head confidence 91.7; embedded `decennium`.
+- **decentralism** — PDF p. 108, printed p. 107; Persian OCR confidence 51.1; head confidence 93.0; embedded `decentralism`.
+- **decile** — PDF p. 108, printed p. 107; Persian OCR confidence 11.5; head confidence 97.0; embedded `decile`.
+- **decipherer** — PDF p. 108, printed p. 107; Persian OCR confidence 39.1; head confidence 91.1; embedded `decipherer`.
+- **decipherment** — PDF p. 108, printed p. 107; Persian OCR confidence 50.7; head confidence 91.7; embedded `decipherment`.
+- **decisionism** — PDF p. 108, printed p. 107; Persian OCR confidence 46.3; head confidence 91.9; embedded `decisionism`.
+- **declaratory declarative** — PDF p. 108, printed p. 107; Persian OCR confidence 0; head confidence 88.9; embedded `declaratory declarative`.
+- **déclassé (Fr.) declassed** — PDF p. 108, printed p. 107; Persian OCR confidence 0; head confidence 80.6; embedded `declasse (Fr.) declassed`.
+- **declassing** — PDF p. 108, printed p. 107; Persian OCR confidence 85.8; head confidence 47.3; embedded `declassing (.;~`.
+- **declension** — PDF p. 108, printed p. 107; Persian OCR confidence 75.7; head confidence 53.3; embedded `declension`.
+- **declensional ending** — PDF p. 108, printed p. 107; Persian OCR confidence 54.6; head confidence 77.8; embedded `declensional ending`.
+- **decoder** — PDF p. 108, printed p. 107; Persian OCR confidence 26.3; head confidence 93.4; embedded `decoder`.
+- **decompositional** — PDF p. 108, printed p. 107; Persian OCR confidence 36.8; head confidence 48.5; embedded `decompositional`.
+- **deconstruction** — PDF p. 108, printed p. 107; Persian OCR confidence 90.4; head confidence 58.4; embedded `deconstruction`.
+- **decontextualization** — PDF p. 109, printed p. 108; Persian OCR confidence 41.2; head confidence 92.1; embedded `decontextualization`.
+- **decontextualized** — PDF p. 109, printed p. 108; Persian OCR confidence 49.8; head confidence 91.5; embedded `decontextualized`.
+- **decoration** — PDF p. 109, printed p. 108; Persian OCR confidence 77.5; head confidence 30.3; embedded `decoration`.
+- **decorator** — PDF p. 109, printed p. 108; Persian OCR confidence 10.5; head confidence 96.8; embedded `decorator`.
+- **decree of God** — PDF p. 109, printed p. 108; Persian OCR confidence 41.3; head confidence 96.5; embedded `decree of God`.
+- **decrement** — PDF p. 109, printed p. 108; Persian OCR confidence 50.9; head confidence 96.4; embedded `decrement`.
+- **decretal** — PDF p. 109, printed p. 108; Persian OCR confidence 0; head confidence 92.6; embedded `decretal`.
+- **decretive** — PDF p. 109, printed p. 108; Persian OCR confidence 0; head confidence 92.8; embedded `decretive`.
+- **decretory** — PDF p. 109, printed p. 108; Persian OCR confidence 0; head confidence 93.1; embedded `decretory`.
+- **decriminalization** — PDF p. 109, printed p. 108; Persian OCR confidence 0; head confidence 91.9; embedded `decriminalization`.
+- **dedifferentiation** — PDF p. 109, printed p. 108; Persian OCR confidence 0; head confidence 92.9; embedded `dedlfferentlation`.
+- **deducible** — PDF p. 109, printed p. 108; Persian OCR confidence 0; head confidence 93.0; embedded `deducible`.
+- **deed** — PDF p. 109, printed p. 108; Persian OCR confidence 75.2; head confidence 56.0; embedded `deed`.
+- **deep grammar** — PDF p. 109, printed p. 108; Persian OCR confidence 52.6; head confidence 90.4; embedded `deep grammar`.
+- **de facto (L.) an** — PDF p. 109, printed p. 108; Persian OCR confidence 86.5; head confidence 59.5; embedded `de facto (L.)`.
+- **defeatist** — PDF p. 109, printed p. 108; Persian OCR confidence 82.9; head confidence 44.7; embedded `defeatist`.
+- **defence** — PDF p. 109, printed p. 108; Persian OCR confidence 0; head confidence 96.2; embedded `defence = defense`.
+- **defendant** — PDF p. 109, printed p. 108; Persian OCR confidence 48.3; head confidence 96.2; embedded `defendant`.
+- **defense** — PDF p. 109, printed p. 108; Persian OCR confidence 75.9; head confidence 34.2; embedded `defense`.
+- **defense counsel** — PDF p. 109, printed p. 108; Persian OCR confidence 46.0; head confidence 96.7; embedded `defense counsel`.
+- **deferred** — PDF p. 110, printed p. 109; Persian OCR confidence 30.4; head confidence 96.5; embedded `deferred`.
+- **definitiveness** — PDF p. 110, printed p. 109; Persian OCR confidence 70.8; head confidence 42.6; embedded `definitiveness`.
+- **deflationist** — PDF p. 110, printed p. 109; Persian OCR confidence 55.1; head confidence 18.3; embedded `deflationist`.
+- **deflator** — PDF p. 110, printed p. 109; Persian OCR confidence 79.4; head confidence 14.1; embedded `deflator`.
+- **deflection** — PDF p. 110, printed p. 109; Persian OCR confidence 75.9; head confidence 27.3; embedded `deflection`.
+- **deflective** — PDF p. 110, printed p. 109; Persian OCR confidence 0.0; head confidence 92.8; embedded `deflective`.
+- **defloration** — PDF p. 110, printed p. 109; Persian OCR confidence 56.2; head confidence 53.7; embedded `defloration`.
+- **deforestation** — PDF p. 110, printed p. 109; Persian OCR confidence 27.2; head confidence 78.8; embedded `deforestation`.
+- **deforester** — PDF p. 110, printed p. 109; Persian OCR confidence 0; head confidence 72.4; embedded `deforester`.
+- **deformity** — PDF p. 110, printed p. 109; Persian OCR confidence 62.8; head confidence 36.6; embedded `deformity`.
+- **degradability** — PDF p. 110, printed p. 109; Persian OCR confidence 2.3; head confidence 69.7; embedded `degradability`.
+- **degradable** — PDF p. 110, printed p. 109; Persian OCR confidence 0; head confidence 85.0; embedded `degradable`.
+- **dehumanizing** — PDF p. 111, printed p. 110; Persian OCR confidence 45.1; head confidence 96.7; embedded `dehumanizing`.
+- **deicide** — PDF p. 111, printed p. 110; Persian OCR confidence 46.1; head confidence 92.3; embedded `deicide`.
+- **deindividuation** — PDF p. 111, printed p. 110; Persian OCR confidence 49.5; head confidence 92.1; embedded `deindividuation`.
+- **deist** — PDF p. 111, printed p. 110; Persian OCR confidence 49.9; head confidence 92.3; embedded `deist`.
+- **deistic** — PDF p. 111, printed p. 110; Persian OCR confidence 45.0; head confidence 91.1; embedded `deistic`.
+- **delegate** — PDF p. 111, printed p. 110; Persian OCR confidence 32.2; head confidence 79.8; embedded `delegate`.
+- **delegitimization** — PDF p. 111, printed p. 110; Persian OCR confidence 45.0; head confidence 67.2; embedded `delegitimization`.
+- **deliberate** — PDF p. 111, printed p. 110; Persian OCR confidence 44.5; head confidence 87.6; embedded `deliberate`.
+- **deliberation** — PDF p. 111, printed p. 110; Persian OCR confidence 78.7; head confidence 7.3; embedded `deliberation`.
+- **deliberative** — PDF p. 111, printed p. 110; Persian OCR confidence 89.2; head confidence 24.4; embedded `deliberative`.
+- **delimitation** — PDF p. 111, printed p. 110; Persian OCR confidence 0.0; head confidence 79.2; embedded `delimitation`.
+- **delimitatlve** — PDF p. 111, printed p. 110; Persian OCR confidence 92.1; head confidence 32.3; embedded `delimitatlve`.
+- **delineative )~.:,.r** — PDF p. 111, printed p. 110; Persian OCR confidence 63.3; head confidence 21.8; embedded `delineative )~.:,.r`.
+- **delinquent .r** — PDF p. 111, printed p. 110; Persian OCR confidence 52.2; head confidence 22.8; embedded `delinquent .r`.
+- **delirium (L.)** — PDF p. 111, printed p. 110; Persian OCR confidence 78.6; head confidence 57.3; embedded `delirium (L.)`.
+- **delirium tremens (L.)** — PDF p. 111, printed p. 110; Persian OCR confidence 40.9; head confidence 88.4; embedded `delirium tremens (L.)`.
+- **deliverance demential** — PDF p. 112, printed p. 111; Persian OCR confidence 85.1; head confidence 32.8; embedded `deliverance demential`.
+- **Delphian Delphic** — PDF p. 112, printed p. 111; Persian OCR confidence 0; head confidence 93.9; embedded `Delphian Delphic`.
+- **demagogism** — PDF p. 112, printed p. 111; Persian OCR confidence 32.9; head confidence 92.2; embedded `demagogism`.
+- **demented .r** — PDF p. 112, printed p. 111; Persian OCR confidence 84.5; head confidence 27.3; embedded `demented .r`.
+- **dementia .r** — PDF p. 112, printed p. 111; Persian OCR confidence 60.8; head confidence 30.4; embedded `dementia .r`.
+- **demigod** — PDF p. 112, printed p. 111; Persian OCR confidence 54.8; head confidence 70.8; embedded `demigod`.
+- **demimondaine** — PDF p. 112, printed p. 111; Persian OCR confidence 92.0; head confidence 35.9; embedded `demimondaine`.
+- **demiworld demimonde** — PDF p. 112, printed p. 111; Persian OCR confidence 0; head confidence 61.1; embedded `demiworld demimonde`.
+- **democracy** — PDF p. 112, printed p. 111; Persian OCR confidence 45.5; head confidence 84.9; embedded `democracy`.
+- **democratic centralism S31** — PDF p. 112, printed p. 111; Persian OCR confidence 57.1; head confidence 56.7; embedded `democratic centralism`.
+- **demographer** — PDF p. 112, printed p. 111; Persian OCR confidence 25.3; head confidence 11.6; embedded `demographer`.
+- **demographic(-al)** — PDF p. 112, printed p. 111; Persian OCR confidence 52.2; head confidence 11.8; embedded `demographic(-al)`.
+- **demography** — PDF p. 112, printed p. 111; Persian OCR confidence 81.4; head confidence 56.2; embedded `demography`.
+- **demonetization** — PDF p. 112, printed p. 111; Persian OCR confidence 91.2; head confidence 56.5; embedded `demonetization`.
+- **demonism** — PDF p. 112, printed p. 111; Persian OCR confidence 83.0; head confidence 46.4; embedded `demonlsm`.
+- **demonolatry** — PDF p. 113, printed p. 112; Persian OCR confidence 34.4; head confidence 83.6; embedded `demonolatry`.
+- **demonologist** — PDF p. 113, printed p. 112; Persian OCR confidence 27.1; head confidence 20.6; embedded `demonologist`.
+- **demonstrable** — PDF p. 113, printed p. 112; Persian OCR confidence 60.9; head confidence 45.5; embedded `demonstrable`.
+- **demonstration** — PDF p. 113, printed p. 112; Persian OCR confidence 77.1; head confidence 56.1; embedded `demonstration`.
+- **demonstration per impossible** — PDF p. 113, printed p. 112; Persian OCR confidence 53.5; head confidence 96.4; embedded `demonstration per impossible`.
+- **demonstrator** — PDF p. 113, printed p. 112; Persian OCR confidence 54.8; head confidence 96.8; embedded `demonstrator`.
+- **demotic composition** — PDF p. 113, printed p. 112; Persian OCR confidence 33.1; head confidence 94.6; embedded `demotic composition`.
+- **demythologizer** — PDF p. 113, printed p. 112; Persian OCR confidence 7.2; head confidence 70.0; embedded `demythologizer`.
+- **denationalization** — PDF p. 113, printed p. 112; Persian OCR confidence 73.1; head confidence 0.0; embedded `denationalization`.
+- **denatured** — PDF p. 113, printed p. 112; Persian OCR confidence 48.7; head confidence 90.9; embedded `denatured`.
+- **denomination** — PDF p. 113, printed p. 112; Persian OCR confidence 66.1; head confidence 19.8; embedded `denomination`.
+- **denominationalism** — PDF p. 113, printed p. 112; Persian OCR confidence 68.9; head confidence 36.6; embedded `denominationalism`.
+- **denouncement** — PDF p. 113, printed p. 112; Persian OCR confidence 53.5; head confidence 89.8; embedded `denouncement`.
+- **denumerability** — PDF p. 114, printed p. 113; Persian OCR confidence 50.7; head confidence 92.2; embedded `denumerability`.
+- **denunciation** — PDF p. 114, printed p. 113; Persian OCR confidence 55.9; head confidence 26.2; embedded `denunciation`.
+- **deontological** — PDF p. 114, printed p. 113; Persian OCR confidence 45.3; head confidence 58.4; embedded `deontological`.
+- **department** — PDF p. 114, printed p. 113; Persian OCR confidence 72.2; head confidence 49.0; embedded `department`.
+- **dependent ..:.....,,) .r** — PDF p. 114, printed p. 113; Persian OCR confidence 44.6; head confidence 34.5; embedded `dependent ..:.....,,) .r`.
+- **depopulation** — PDF p. 114, printed p. 113; Persian OCR confidence 73.5; head confidence 40.8; embedded `depopulation`.
+- **depopulator** — PDF p. 114, printed p. 113; Persian OCR confidence 51.1; head confidence 90.6; embedded `depopulator`.
+- **depositor** — PDF p. 114, printed p. 113; Persian OCR confidence 52.6; head confidence 88.7; embedded `depositor`.
+- **depository** — PDF p. 114, printed p. 113; Persian OCR confidence 50.8; head confidence 89.9; embedded `depository`.
+- **depravity** — PDF p. 114, printed p. 113; Persian OCR confidence 66.7; head confidence 39.2; embedded `depravity`.
+- **depthless** — PDF p. 114, printed p. 113; Persian OCR confidence 73.3; head confidence 48.1; embedded `depthless`.
+- **depth psychology** — PDF p. 114, printed p. 113; Persian OCR confidence 70.3; head confidence 52.3; embedded `depth psychology`.
+- **déracinement** — PDF p. 115, printed p. 114; Persian OCR confidence 46.0; head confidence 92.2; embedded `deraclnement`.
+- **deregulated** — PDF p. 115, printed p. 114; Persian OCR confidence 40.0; head confidence 96.6; embedded `deregulated`.
+- **dereistic thinking** — PDF p. 115, printed p. 114; Persian OCR confidence 49.9; head confidence 94.7; embedded `dereistic thinking`.
+- **derivation sisi (L;.¥** — PDF p. 115, printed p. 114; Persian OCR confidence 70.7; head confidence 50.6; embedded `derivation .r`.
+- **descendent** — PDF p. 115, printed p. 114; Persian OCR confidence 0; head confidence 96.0; embedded `descendent= descendant`.
+- **descriptive method** — PDF p. 115, printed p. 114; Persian OCR confidence 46.8; head confidence 94.6; embedded `descriptive method`.
+- **desecrated** — PDF p. 115, printed p. 114; Persian OCR confidence 28.2; head confidence 96.7; embedded `desecrated`.
+- **desecration** — PDF p. 115, printed p. 114; Persian OCR confidence 20.7; head confidence 89.0; embedded `desecration`.
+- **desecrator** — PDF p. 115, printed p. 114; Persian OCR confidence 38.5; head confidence 76.5; embedded `desecrator`.
+- **desensitized** — PDF p. 115, printed p. 114; Persian OCR confidence 46.8; head confidence 75.0; embedded `desensitized`.
+- **desertion** — PDF p. 115, printed p. 114; Persian OCR confidence 78.4; head confidence 20.5; embedded `desertion`.
+- **desexuallzatlon** — PDF p. 115, printed p. 114; Persian OCR confidence 72.7; head confidence 12.6; embedded `desexuallzatlon`.
+- **desiderata (L.)** — PDF p. 115, printed p. 114; Persian OCR confidence 87.7; head confidence 8.4; embedded `desiderata (L.)`.
+- **desideration** — PDF p. 115, printed p. 114; Persian OCR confidence 91.2; head confidence 45.3; embedded `desideration`.
+- **desiderative** — PDF p. 115, printed p. 114; Persian OCR confidence 88.3; head confidence 48.9; embedded `deslderatlve`.
+- **desirous** — PDF p. 116, printed p. 115; Persian OCR confidence 77.0; head confidence 23.9; embedded `desirous`.
+- **desperado (Sp.)** — PDF p. 116, printed p. 115; Persian OCR confidence 49.5; head confidence 84.8; embedded `desperado (Sp.)`.
+- **despondency** — PDF p. 116, printed p. 115; Persian OCR confidence 25.6; head confidence 84.3; embedded `despondency`.
+- **despondent** — PDF p. 116, printed p. 115; Persian OCR confidence 46.5; head confidence 92.6; embedded `despondent`.
+- **destructive** — PDF p. 116, printed p. 115; Persian OCR confidence 82.3; head confidence 55.0; embedded `destructive`.
+- **destructiveness** — PDF p. 116, printed p. 115; Persian OCR confidence 70.7; head confidence 23.7; embedded `destructiveness`.
+- **details otsj> [-s]** — PDF p. 116, printed p. 115; Persian OCR confidence 73.7; head confidence 45.2; embedded `details .r`.
+- **détente (Fr.)** — PDF p. 116, printed p. 115; Persian OCR confidence 44.2; head confidence 65.3; embedded `detente (Fr.)`.
+- **determinability** — PDF p. 116, printed p. 115; Persian OCR confidence 32.1; head confidence 42.4; embedded `determinability`.
+- **determinableness determinability** — PDF p. 116, printed p. 115; Persian OCR confidence 0; head confidence 78.8; embedded `determinableness determinability`.
+- **determinacy determinatedness** — PDF p. 116, printed p. 115; Persian OCR confidence 0; head confidence 80.3; embedded `determinacy determinatedness`.
+- **determinateness** — PDF p. 116, printed p. 115; Persian OCR confidence 52.2; head confidence 89.8; embedded `determinateness`.
+- **determinativeness** — PDF p. 117, printed p. 116; Persian OCR confidence 53.9; head confidence 92.0; embedded `determinativeness`.
+- **determiner** — PDF p. 117, printed p. 116; Persian OCR confidence 52.7; head confidence 96.8; embedded `determiner`.
+- **determinism** — PDF p. 117, printed p. 116; Persian OCR confidence 46.7; head confidence 96.8; embedded `determinism`.
+- **determinist** — PDF p. 117, printed p. 116; Persian OCR confidence 49.7; head confidence 92.2; embedded `determinist`.
+- **detraditionalization** — PDF p. 117, printed p. 116; Persian OCR confidence 43.0; head confidence 92.0; embedded `detraditionalization`.
+- **detribalization** — PDF p. 117, printed p. 116; Persian OCR confidence 43.5; head confidence 92.3; embedded `detribalization`.
+- **devaluation** — PDF p. 117, printed p. 116; Persian OCR confidence 62.4; head confidence 25.8; embedded `devaluation`.
+- **developing countriesosil4..55** — PDF p. 117, printed p. 116; Persian OCR confidence 38.4; head confidence 46.6; embedded `developing countrieso~4........,¥`.
+- **deverbal** — PDF p. 117, printed p. 116; Persian OCR confidence 89.5; head confidence 48.8; embedded `deverbal`.
+- **deviancy** — PDF p. 118, printed p. 117; Persian OCR confidence 0; head confidence 96.8; embedded `deviancy = deviance`.
+- **deviator** — PDF p. 118, printed p. 117; Persian OCR confidence 46.1; head confidence 91.6; embedded `deviator`.
+- **devilry** — PDF p. 118, printed p. 117; Persian OCR confidence 0; head confidence 92.5; embedded `devilry = deviltry`.
+- **deviltry clus cole** — PDF p. 118, printed p. 117; Persian OCR confidence 81.9; head confidence 73.1; embedded `deviltry .r`.
+- **devil worship** — PDF p. 118, printed p. 117; Persian OCR confidence 43.2; head confidence 96.8; embedded `devil worship`.
+- **devoutness** — PDF p. 118, printed p. 117; Persian OCR confidence 1.5; head confidence 45.8; embedded `devoutness`.
+- **dexterous** — PDF p. 118, printed p. 117; Persian OCR confidence 0; head confidence 77.1; embedded `dexterous`.
+- **dextrad** — PDF p. 118, printed p. 117; Persian OCR confidence 0; head confidence 0.1; embedded `dextrad`.
+- **dextral** — PDF p. 118, printed p. 117; Persian OCR confidence 0; head confidence 85.1; embedded `dextral`.
+- **dextrality** — PDF p. 118, printed p. 117; Persian OCR confidence 0; head confidence 30.4; embedded `dextrality`.
+- **diabolic(-al)** — PDF p. 118, printed p. 117; Persian OCR confidence 72.9; head confidence 10.0; embedded `diabolic(-al)`.
+- **diabolism** — PDF p. 118, printed p. 117; Persian OCR confidence 67.6; head confidence 0.0; embedded `diabolism`.
+- **diabolist** — PDF p. 118, printed p. 117; Persian OCR confidence 80.8; head confidence 33.4; embedded `diabolist`.
+- **diachronic view** — PDF p. 118, printed p. 117; Persian OCR confidence 46.4; head confidence 90.1; embedded `diachronic view`.
+- **diachrony** — PDF p. 118, printed p. 117; Persian OCR confidence 55.3; head confidence 50.8; embedded `diachrony`.
+- **diacritic** — PDF p. 118, printed p. 117; Persian OCR confidence 69.5; head confidence 40.4; embedded `diacritic`.
+- **diadem** — PDF p. 118, printed p. 117; Persian OCR confidence 84.7; head confidence 36.3; embedded `diadem`.
+- **diadic** — PDF p. 118, printed p. 117; Persian OCR confidence 76.9; head confidence 20.0; embedded `diadic`.
+- **dialect** — PDF p. 119, printed p. 118; Persian OCR confidence 51.1; head confidence 96.2; embedded `dialect`.
+- **dialectical** — PDF p. 119, printed p. 118; Persian OCR confidence 53.0; head confidence 96.1; embedded `dialectical`.
+- **dialecticism** — PDF p. 119, printed p. 118; Persian OCR confidence 27.6; head confidence 92.3; embedded `dialecticism`.
+- **dialectics** — PDF p. 119, printed p. 118; Persian OCR confidence 49.9; head confidence 96.6; embedded `dialectics`.
+- **dialletus (Gr.)** — PDF p. 119, printed p. 118; Persian OCR confidence 46.7; head confidence 79.4; embedded `diallelus (Gr.)`.
+- **dialog** — PDF p. 119, printed p. 118; Persian OCR confidence 0; head confidence 96.6; embedded `dialog = dialogue`.
+- **dialogicism** — PDF p. 119, printed p. 118; Persian OCR confidence 0; head confidence 91.5; embedded `dialogicism = dialogism`.
+- **dlaloglst** — PDF p. 119, printed p. 118; Persian OCR confidence 37.2; head confidence 8.8; embedded `dlaloglst`.
+- **dialogistic(-al)** — PDF p. 119, printed p. 118; Persian OCR confidence 54.4; head confidence 92.0; embedded `dialogistic{-al)`.
+- **dianoetic** — PDF p. 119, printed p. 118; Persian OCR confidence 91.3; head confidence 46.4; embedded `dianoetic`.
+- **dianoia (Gr.)** — PDF p. 119, printed p. 118; Persian OCR confidence 90.3; head confidence 56.4; embedded `dianoia (Gr.)`.
+- **diasporic** — PDF p. 119, printed p. 118; Persian OCR confidence 0.0; head confidence 74.7; embedded `diasporic`.
+- **dichotomist** — PDF p. 119, printed p. 118; Persian OCR confidence 81.1; head confidence 49.0; embedded `dichotomist`.
+- **dichotomization .r** — PDF p. 119, printed p. 118; Persian OCR confidence 70.3; head confidence 34.2; embedded `dichotomization .r`.
+- **dichotomous —g.-sb** — PDF p. 119, printed p. 118; Persian OCR confidence 75.9; head confidence 45.2; embedded `dichotomous .r`.
+- **dichotomy .r** — PDF p. 119, printed p. 118; Persian OCR confidence 71.5; head confidence 37.4; embedded `dichotomy .r`.
+- **dictator** — PDF p. 119, printed p. 118; Persian OCR confidence 80.0; head confidence 0.0; embedded `dictator`.
+- **dictatorialness** — PDF p. 119, printed p. 118; Persian OCR confidence 91.5; head confidence 40.2; embedded `dictatorialness`.
+- **diction** — PDF p. 119, printed p. 118; Persian OCR confidence 85.1; head confidence 38.6; embedded `diction`.
+- **dldacticism** — PDF p. 119, printed p. 118; Persian OCR confidence 73.8; head confidence 23.1; embedded `dldacticism`.
+- **diegetic** — PDF p. 120, printed p. 119; Persian OCR confidence 28.2; head confidence 92.7; embedded `diegetic`.
+- **diet2** — PDF p. 120, printed p. 119; Persian OCR confidence 77.2; head confidence 41.9; embedded `diet2`.
+- **dietary neophobia** — PDF p. 120, printed p. 119; Persian OCR confidence 53.7; head confidence 90.8; embedded `dietary neophobia`.
+- **differentiability** — PDF p. 120, printed p. 119; Persian OCR confidence 38.0; head confidence 9.6; embedded `differentiability`.
+- **differential validity** — PDF p. 120, printed p. 119; Persian OCR confidence 2.7; head confidence 67.1; embedded `differential validlty`.
+- **differentiated** — PDF p. 120, printed p. 119; Persian OCR confidence 70.8; head confidence 58.2; embedded `differentiated`.
+- **diffident** — PDF p. 120, printed p. 119; Persian OCR confidence 71.9; head confidence 22.7; embedded `diffident`.
+- **diffusionism** — PDF p. 120, printed p. 119; Persian OCR confidence 80.2; head confidence 4.6; embedded `diffusionism`.
+- **diffuslonist** — PDF p. 120, printed p. 119; Persian OCR confidence 34.7; head confidence 10.7; embedded `diffuslonist`.
+- **diffusive** — PDF p. 120, printed p. 119; Persian OCR confidence 43.8; head confidence 56.1; embedded `diffusive`.
+- **digamy** — PDF p. 120, printed p. 119; Persian OCR confidence 70.7; head confidence 55.7; embedded `digamy`.
+- **digestive** — PDF p. 120, printed p. 119; Persian OCR confidence 54.5; head confidence 96.8; embedded `digestive`.
+- **digital** — PDF p. 120, printed p. 119; Persian OCR confidence 91.7; head confidence 50.0; embedded `digital`.
+- **diglossla** — PDF p. 120, printed p. 119; Persian OCR confidence 72.8; head confidence 36.8; embedded `diglossla`.
+- **dimensional** — PDF p. 121, printed p. 120; Persian OCR confidence 38.6; head confidence 96.7; embedded `dimensional`.
+- **dimensionality** — PDF p. 121, printed p. 120; Persian OCR confidence 0.0; head confidence 96.4; embedded `dimensionality`.
+- **dimensionless** — PDF p. 121, printed p. 120; Persian OCR confidence 19.9; head confidence 96.6; embedded `dimensionless`.
+- **dimorphous dimorphic** — PDF p. 121, printed p. 120; Persian OCR confidence 0; head confidence 94.4; embedded `dimorphous dimorphic`.
+- **diocese** — PDF p. 121, printed p. 120; Persian OCR confidence 0.0; head confidence 77.3; embedded `diocese`.
+- **Dionysiac** — PDF p. 121, printed p. 120; Persian OCR confidence 73.6; head confidence 23.0; embedded `Dionysiac`.
+- **Dionysian** — PDF p. 121, printed p. 120; Persian OCR confidence 72.9; head confidence 52.8; embedded `Dionysian`.
+- **diphthong** — PDF p. 121, printed p. 120; Persian OCR confidence 88.3; head confidence 36.7; embedded `diphthong`.
+- **diphthongal** — PDF p. 121, printed p. 120; Persian OCR confidence 64.4; head confidence 28.0; embedded `diphthongal`.
+- **diplomat** — PDF p. 121, printed p. 120; Persian OCR confidence 90.4; head confidence 57.8; embedded `diplomat`.
+- **diplomatic bag** — PDF p. 121, printed p. 120; Persian OCR confidence 33.8; head confidence 95.0; embedded `diplomatic bag`.
+- **dipsomania** — PDF p. 121, printed p. 120; Persian OCR confidence 1.5; head confidence 36.4; embedded `dipsomania`.
+- **dipsomaniacal** — PDF p. 121, printed p. 120; Persian OCR confidence 77.4; head confidence 48.6; embedded `dipsomaniacal`.
+- **diptych** — PDF p. 121, printed p. 120; Persian OCR confidence 59.2; head confidence 55.1; embedded `diptych`.
+- **directedness** — PDF p. 121, printed p. 120; Persian OCR confidence 87.6; head confidence 37.7; embedded `directedness`.
+- **directional** — PDF p. 122, printed p. 121; Persian OCR confidence 47.4; head confidence 96.1; embedded `directional`.
+- **directionality** — PDF p. 122, printed p. 121; Persian OCR confidence 49.0; head confidence 39.2; embedded `directionality`.
+- **directivity** — PDF p. 122, printed p. 121; Persian OCR confidence 30.5; head confidence 96.7; embedded `directivity`.
+- **directorate** — PDF p. 122, printed p. 121; Persian OCR confidence 67.3; head confidence 0.0; embedded `directorate`.
+- **directorate general** — PDF p. 122, printed p. 121; Persian OCR confidence 52.5; head confidence 96.8; embedded `directorate general`.
+- **director general** — PDF p. 122, printed p. 121; Persian OCR confidence 45.0; head confidence 96.6; embedded `director general`.
+- **disabled** — PDF p. 122, printed p. 121; Persian OCR confidence 48.5; head confidence 89.3; embedded `dlsabled`.
+- **disablement** — PDF p. 122, printed p. 121; Persian OCR confidence 70.3; head confidence 47.0; embedded `disablement`.
+- **disablism** — PDF p. 122, printed p. 121; Persian OCR confidence 49.8; head confidence 66.4; embedded `disablism`.
+- **disablist** — PDF p. 122, printed p. 121; Persian OCR confidence 43.7; head confidence 46.7; embedded `disabllst`.
+- **disaffirmation** — PDF p. 122, printed p. 121; Persian OCR confidence 88.4; head confidence 40.8; embedded `disaffirmation`.
+- **disbelief** — PDF p. 122, printed p. 121; Persian OCR confidence 43.9; head confidence 85.0; embedded `disbelief`.
+- **discipleship** — PDF p. 122, printed p. 121; Persian OCR confidence 90.4; head confidence 0.0; embedded `discipleship`.
+- **disciplinarianism** — PDF p. 122, printed p. 121; Persian OCR confidence 85.7; head confidence 44.4; embedded `disciplinarianism`.
+- **discontinuance** — PDF p. 123, printed p. 122; Persian OCR confidence 45.5; head confidence 96.1; embedded `discontinuance`.
+- **discount** — PDF p. 123, printed p. 122; Persian OCR confidence 47.5; head confidence 96.5; embedded `discount`.
+- **discourse** — PDF p. 123, printed p. 122; Persian OCR confidence 53.3; head confidence 82.9; embedded `discourse`.
+- **discourse linguistics** — PDF p. 123, printed p. 122; Persian OCR confidence 90.9; head confidence 49.0; embedded `discourse linguistics`.
+- **discrete** — PDF p. 123, printed p. 122; Persian OCR confidence 76.3; head confidence 52.2; embedded `discrete`.
+- **discriminator** — PDF p. 123, printed p. 122; Persian OCR confidence 52.7; head confidence 96.1; embedded `discriminator`.
+- **discursiveness** — PDF p. 124, printed p. 123; Persian OCR confidence 45.2; head confidence 92.0; embedded `discursiveness`.
+- **disembodiment ehje-2 disinforming** — PDF p. 124, printed p. 123; Persian OCR confidence 0; head confidence 51.1; embedded `disembodiment disinforming`.
+- **disenfranchisement** — PDF p. 124, printed p. 123; Persian OCR confidence 0; head confidence 91.1; embedded `disenfranchisement=disfranchisement`.
+- **disengagement** — PDF p. 124, printed p. 123; Persian OCR confidence 53.6; head confidence 93.3; embedded `disengagement`.
+- **disgraceful** — PDF p. 124, printed p. 123; Persian OCR confidence 19.0; head confidence 96.4; embedded `disgraceful`.
+- **disguiser** — PDF p. 124, printed p. 123; Persian OCR confidence 90.8; head confidence 51.2; embedded `disguiser`.
+- **disgust** — PDF p. 124, printed p. 123; Persian OCR confidence 67.1; head confidence 22.6; embedded `disgust`.
+- **disharmonious** — PDF p. 124, printed p. 123; Persian OCR confidence 90.7; head confidence 51.1; embedded `disharmonious`.
+- **disillusive** — PDF p. 124, printed p. 123; Persian OCR confidence 71.7; head confidence 35.2; embedded `disillusive`.
+- **disinflation** — PDF p. 124, printed p. 123; Persian OCR confidence 5.8; head confidence 91.5; embedded `disinflation`.
+- **disinformation** — PDF p. 124, printed p. 123; Persian OCR confidence 26.3; head confidence 33.6; embedded `disinformation`.
+- **disinformer** — PDF p. 124, printed p. 123; Persian OCR confidence 31.9; head confidence 54.6; embedded `disinformer`.
+- **disinheritance** — PDF p. 124, printed p. 123; Persian OCR confidence 84.1; head confidence 22.0; embedded `disinheritance`.
+- **disinhibition** — PDF p. 124, printed p. 123; Persian OCR confidence 19.8; head confidence 67.3; embedded `disinhibition`.
+- **disintegrative** — PDF p. 124, printed p. 123; Persian OCR confidence 91.0; head confidence 43.3; embedded `disintegrative`.
+- **disinterest** — PDF p. 124, printed p. 123; Persian OCR confidence 74.3; head confidence 49.3; embedded `disinterest`.
+- **disjunctive syllogism** — PDF p. 125, printed p. 124; Persian OCR confidence 45.6; head confidence 96.3; embedded `disjunctive syllogism`.
+- **disjuncture disjunction** — PDF p. 125, printed p. 124; Persian OCR confidence 0; head confidence 93.8; embedded `disjuncture disjunction`.
+- **dismissal compensation** — PDF p. 125, printed p. 124; Persian OCR confidence 43.4; head confidence 96.5; embedded `dismissal compensation`.
+- **dismission dismissal** — PDF p. 125, printed p. 124; Persian OCR confidence 0; head confidence 93.6; embedded `dismission dismissal`.
+- **disorderly** — PDF p. 125, printed p. 124; Persian OCR confidence 44.7; head confidence 96.1; embedded `disorderly`.
+- **disorganization** — PDF p. 125, printed p. 124; Persian OCR confidence 88.1; head confidence 59.6; embedded `disorganization`.
+- **disparity** — PDF p. 125, printed p. 124; Persian OCR confidence 75.3; head confidence 43.4; embedded `disparity`.
+- **displeasured** — PDF p. 125, printed p. 124; Persian OCR confidence 78.4; head confidence 59.5; embedded `displeasured`.
+- **dispositionality** — PDF p. 125, printed p. 124; Persian OCR confidence 81.6; head confidence 51.9; embedded `dispositionality`.
+- **dispossession** — PDF p. 125, printed p. 124; Persian OCR confidence 84.9; head confidence 53.1; embedded `dispossession`.
+- **dlspossessory** — PDF p. 125, printed p. 124; Persian OCR confidence 88.1; head confidence 17.2; embedded `dlspossessory`.
+- **dispraising** — PDF p. 125, printed p. 124; Persian OCR confidence 89.1; head confidence 57.3; embedded `dispraising`.
+- **disproportionality** — PDF p. 125, printed p. 124; Persian OCR confidence 0; head confidence 65.7; embedded `disproportionality = disproportion`.
+- **disproportionate** — PDF p. 125, printed p. 124; Persian OCR confidence 6.8; head confidence 88.7; embedded `disproportionate = disproportional`.
+- **disprovable** — PDF p. 125, printed p. 124; Persian OCR confidence 84.8; head confidence 54.3; embedded `dlsprovable`.
+- **disputable** — PDF p. 126, printed p. 125; Persian OCR confidence 44.9; head confidence 96.9; embedded `disputable`.
+- **disputant** — PDF p. 126, printed p. 125; Persian OCR confidence 0; head confidence 93.2; embedded `disputant`.
+- **disputation .r** — PDF p. 126, printed p. 125; Persian OCR confidence 79.5; head confidence 41.1; embedded `disputation .r`.
+- **disputatiousness** — PDF p. 126, printed p. 125; Persian OCR confidence 0; head confidence 91.1; embedded `disputatiousness`.
+- **disputative** — PDF p. 126, printed p. 125; Persian OCR confidence 11.6; head confidence 91.0; embedded `disputative`.
+- **dispute 25S Jad** — PDF p. 126, printed p. 125; Persian OCR confidence 48.9; head confidence 47.6; embedded `dispute .r`.
+- **disquietness** — PDF p. 126, printed p. 125; Persian OCR confidence 21.3; head confidence 89.8; embedded `disquietness`.
+- **disquietude** — PDF p. 126, printed p. 125; Persian OCR confidence 54.3; head confidence 92.0; embedded `disquietude`.
+- **disreputability** — PDF p. 126, printed p. 125; Persian OCR confidence 80.9; head confidence 25.2; embedded `disreputability`.
+- **disreputableness** — PDF p. 126, printed p. 125; Persian OCR confidence 0; head confidence 92.0; embedded `disreputableness = disreputability`.
+- **disrespectability** — PDF p. 126, printed p. 125; Persian OCR confidence 47.9; head confidence 92.9; embedded `disrespectability`.
+- **dissatisfaction** — PDF p. 126, printed p. 125; Persian OCR confidence 53.3; head confidence 38.2; embedded `dissatisfaction`.
+- **dissentience dissent** — PDF p. 126, printed p. 125; Persian OCR confidence 0; head confidence 70.8; embedded `dissentience dissent`.
+- **dissentient** — PDF p. 126, printed p. 125; Persian OCR confidence 0; head confidence 76.1; embedded `dissentient = dissenter`.
+- **dissociable** — PDF p. 126, printed p. 125; Persian OCR confidence 54.9; head confidence 72.3; embedded `dissociable`.
+- **dissociableness** — PDF p. 126, printed p. 125; Persian OCR confidence 0; head confidence 83.6; embedded `dissociableness = dissociability`.
+- **dissociation** — PDF p. 126, printed p. 125; Persian OCR confidence 54.4; head confidence 95.5; embedded `dissociation`.
+- **dissociative** — PDF p. 127, printed p. 126; Persian OCR confidence 51.4; head confidence 89.4; embedded `dissociative`.
+- **dissociative disorder,** — PDF p. 127, printed p. 126; Persian OCR confidence 68.0; head confidence 54.8; embedded `dissociative disorder`.
+- **dissociative drug** — PDF p. 127, printed p. 126; Persian OCR confidence 21.4; head confidence 96.6; embedded `dissociative drug`.
+- **dissociative interaction** — PDF p. 127, printed p. 126; Persian OCR confidence 36.4; head confidence 96.3; embedded `dissociative interaction`.
+- **dissolute** — PDF p. 127, printed p. 126; Persian OCR confidence 48.4; head confidence 96.9; embedded `dissolute`.
+- **distal stimulus** — PDF p. 127, printed p. 126; Persian OCR confidence 44.2; head confidence 95.4; embedded `distal stimulus`.
+- **distinctive :Ls_** — PDF p. 127, printed p. 126; Persian OCR confidence 79.4; head confidence 53.1; embedded `distinctlve`.
+- **distinctive qualities** — PDF p. 127, printed p. 126; Persian OCR confidence 46.0; head confidence 77.2; embedded `distinctive qualities`.
+- **distinguishable** — PDF p. 127, printed p. 126; Persian OCR confidence 72.0; head confidence 31.1; embedded `distinguishable`.
+- **distinguishing** — PDF p. 127, printed p. 126; Persian OCR confidence 89.2; head confidence 12.6; embedded `distinguishing`.
+- **distractibility** — PDF p. 127, printed p. 126; Persian OCR confidence 87.0; head confidence 57.7; embedded `distractibility`.
+- **distraction** — PDF p. 127, printed p. 126; Persian OCR confidence 71.3; head confidence 55.2; embedded `distraction`.
+- **distractor** — PDF p. 127, printed p. 126; Persian OCR confidence 30.0; head confidence 78.9; embedded `distractor`.
+- **distress** — PDF p. 127, printed p. 126; Persian OCR confidence 73.9; head confidence 52.7; embedded `distress`.
+- **distributional analysis** — PDF p. 127, printed p. 126; Persian OCR confidence 90.0; head confidence 57.1; embedded `dlstributlonal analysis`.
+- **distributionalism** — PDF p. 127, printed p. 126; Persian OCR confidence 0; head confidence 46.4; embedded `distributional ism`.
+- **distributivity 5,fa.0** — PDF p. 128, printed p. 127; Persian OCR confidence 73.3; head confidence 49.9; embedded `distributivity .r`.
+- **distrust** — PDF p. 128, printed p. 127; Persian OCR confidence 0; head confidence 96.8; embedded `distrust`.
+- **distrustful** — PDF p. 128, printed p. 127; Persian OCR confidence 0; head confidence 95.6; embedded `distrustful`.
+- **diversification** — PDF p. 128, printed p. 127; Persian OCR confidence 68.9; head confidence 49.4; embedded `diversification`.
+- **diversionist** — PDF p. 128, printed p. 127; Persian OCR confidence 79.0; head confidence 36.3; embedded `diversionist`.
+- **divinatory** — PDF p. 128, printed p. 127; Persian OCR confidence 82.5; head confidence 44.3; embedded `divinatory`.
+- **divine names** — PDF p. 128, printed p. 127; Persian OCR confidence 51.1; head confidence 93.3; embedded `divine names`.
+- **divine providence** — PDF p. 128, printed p. 127; Persian OCR confidence 34.8; head confidence 94.9; embedded `divine providence`.
+- **divine revelation** — PDF p. 128, printed p. 127; Persian OCR confidence 49.0; head confidence 96.5; embedded `divine revelation`.
+- **divine right** — PDF p. 128, printed p. 127; Persian OCR confidence 35.7; head confidence 88.4; embedded `divine right`.
+- **divine saying** — PDF p. 128, printed p. 127; Persian OCR confidence 26.0; head confidence 74.8; embedded `divine saying`.
+- **divine will** — PDF p. 128, printed p. 127; Persian OCR confidence 74.5; head confidence 56.4; embedded `divine will`.
+- **divine wisdom** — PDF p. 128, printed p. 127; Persian OCR confidence 48.7; head confidence 82.8; embedded `divine wisdom`.
+- **divisibility** — PDF p. 128, printed p. 127; Persian OCR confidence 36.3; head confidence 37.0; embedded `divisibility`.
+- **docudrama** — PDF p. 129, printed p. 128; Persian OCR confidence 16.0; head confidence 96.8; embedded `docudrama`.
+- **document** — PDF p. 129, printed p. 128; Persian OCR confidence 51.1; head confidence 96.1; embedded `document`.
+- **document analysis** — PDF p. 129, printed p. 128; Persian OCR confidence 48.6; head confidence 96.3; embedded `document analysis`.
+- **documentarist** — PDF p. 129, printed p. 128; Persian OCR confidence 0; head confidence 92.2; embedded `documentarist = documentarian`.
+- **documentary** — PDF p. 129, printed p. 128; Persian OCR confidence 53.3; head confidence 88.6; embedded `documentary`.
+- **dogmatic(-al)** — PDF p. 129, printed p. 128; Persian OCR confidence 39.2; head confidence 59.8; embedded `dogmatic{-al)`.
+- **dogmatist** — PDF p. 129, printed p. 128; Persian OCR confidence 54.5; head confidence 81.3; embedded `dogmatist`.
+- **dolichocephalic** — PDF p. 129, printed p. 128; Persian OCR confidence 14.6; head confidence 91.4; embedded `dolichocephalic`.
+- **dolichocephalous dolichocephalic** — PDF p. 129, printed p. 128; Persian OCR confidence 15.0; head confidence 76.1; embedded `dolichocephalous dolichocephalic`.
+- **dolichocephaly** — PDF p. 129, printed p. 128; Persian OCR confidence 0.0; head confidence 70.5; embedded `dolichocephaly`.
+- **dolmen** — PDF p. 129, printed p. 128; Persian OCR confidence 53.7; head confidence 8.4; embedded `dolmen`.
+- **domesticity** — PDF p. 130, printed p. 129; Persian OCR confidence 73.8; head confidence 27.2; embedded `domesticity`.
+- **domestic worker, Sls es donation** — PDF p. 130, printed p. 129; Persian OCR confidence 0; head confidence 71.1; embedded `domestic worker donation`.
+- **domicil domicile** — PDF p. 130, printed p. 129; Persian OCR confidence 0; head confidence 93.8; embedded `domicll domicile`.
+- **dominant position** — PDF p. 130, printed p. 129; Persian OCR confidence 35.4; head confidence 96.6; embedded `dominant position`.
+- **dominion** — PDF p. 130, printed p. 129; Persian OCR confidence 64.8; head confidence 3.0; embedded `dominion`.
+- **dominium (L)** — PDF p. 130, printed p. 129; Persian OCR confidence 43.2; head confidence 59.6; embedded `dominium (L.)`.
+- **domino effect** — PDF p. 130, printed p. 129; Persian OCR confidence 38.0; head confidence 75.8; embedded `domino effect`.
+- **Donatist** — PDF p. 130, printed p. 129; Persian OCR confidence 72.3; head confidence 27.3; embedded `Donatist`.
+- **donor** — PDF p. 130, printed p. 129; Persian OCR confidence 56.5; head confidence 41.4; embedded `donor`.
+- **dormancy** — PDF p. 130, printed p. 129; Persian OCR confidence 77.4; head confidence 59.7; embedded `dormancy`.
+- **dormant** — PDF p. 130, printed p. 129; Persian OCR confidence 36.2; head confidence 81.6; embedded `dormant`.
+- **dorsal** — PDF p. 130, printed p. 129; Persian OCR confidence 49.6; head confidence 81.6; embedded `dorsal`.
+- **dorso-ventral** — PDF p. 130, printed p. 129; Persian OCR confidence 40.1; head confidence 0.0; embedded `dorso-ventral`.
+- **dose** — PDF p. 131, printed p. 130; Persian OCR confidence 52.2; head confidence 97.0; embedded `dose`.
+- **double agent** — PDF p. 131, printed p. 130; Persian OCR confidence 47.5; head confidence 96.9; embedded `double agent`.
+- **double alternation** — PDF p. 131, printed p. 130; Persian OCR confidence 46.1; head confidence 94.3; embedded `double alternation`.
+- **double bind** — PDF p. 131, printed p. 130; Persian OCR confidence 49.3; head confidence 96.3; embedded `double bind`.
+- **double classification** — PDF p. 131, printed p. 130; Persian OCR confidence 54.4; head confidence 82.0; embedded `double classification`.
+- **doubleness** — PDF p. 131, printed p. 130; Persian OCR confidence 48.7; head confidence 92.8; embedded `doubleness`.
+- **double personality** — PDF p. 131, printed p. 130; Persian OCR confidence 54.7; head confidence 96.6; embedded `double personality`.
+- **double truth** — PDF p. 131, printed p. 130; Persian OCR confidence 46.1; head confidence 73.9; embedded `double truth`.
+- **double-voiced** — PDF p. 131, printed p. 130; Persian OCR confidence 48.0; head confidence 63.6; embedded `double-voiced`.
+- **downdrift** — PDF p. 131, printed p. 130; Persian OCR confidence 88.3; head confidence 54.1; embedded `downdrift`.
+- **dowry** — PDF p. 131, printed p. 130; Persian OCR confidence 5.6; head confidence 86.2; embedded `dowry`.
+- **draft** — PDF p. 131, printed p. 130; Persian OCR confidence 0.0; head confidence 84.2; embedded `draft`.
+- **dramatic irony** — PDF p. 131, printed p. 130; Persian OCR confidence 88.7; head confidence 48.1; embedded `dramatic irony`.
+- **dramatis personae (L)** — PDF p. 131, printed p. 130; Persian OCR confidence 46.3; head confidence 79.9; embedded `dramatis personae (L.)`.
+- **dramaturge dramatist** — PDF p. 131, printed p. 130; Persian OCR confidence 0; head confidence 85.2; embedded `dramaturge dramatist`.
+- **dramaturgic** — PDF p. 131, printed p. 130; Persian OCR confidence 76.6; head confidence 47.9; embedded `dramaturglc`.
+- **dramaturgy dramatics** — PDF p. 131, printed p. 130; Persian OCR confidence 0; head confidence 80.6; embedded `dramaturgy dramatics`.
+- **dream** — PDF p. 131, printed p. 130; Persian OCR confidence 52.4; head confidence 87.6; embedded `dream`.
+- **dream determinant** — PDF p. 132, printed p. 131; Persian OCR confidence 54.2; head confidence 96.6; embedded `dream determinant`.
+- **dream ego** — PDF p. 132, printed p. 131; Persian OCR confidence 54.0; head confidence 95.9; embedded `dream ego`.
+- **dream interpretation** — PDF p. 132, printed p. 131; Persian OCR confidence 42.4; head confidence 95.7; embedded `dream interpretation`.
+- **dreamland** — PDF p. 132, printed p. 131; Persian OCR confidence 53.4; head confidence 95.7; embedded `dreamland`.
+- **dreamscape** — PDF p. 132, printed p. 131; Persian OCR confidence 38.3; head confidence 91.8; embedded `dreamscape`.
+- **dream symbolism** — PDF p. 132, printed p. 131; Persian OCR confidence 37.0; head confidence 96.2; embedded `dream symbolism`.
+- **drip painting** — PDF p. 132, printed p. 131; Persian OCR confidence 38.4; head confidence 95.9; embedded `drip painting`.
+- **drop-off** — PDF p. 132, printed p. 131; Persian OCR confidence 48.4; head confidence 96.5; embedded `drop-off`.
+- **dropout .r** — PDF p. 132, printed p. 131; Persian OCR confidence 56.8; head confidence 36.1; embedded `dropout .r`.
+- **drug abuse** — PDF p. 132, printed p. 131; Persian OCR confidence 0.0; head confidence 96.8; embedded `drug abuse`.
+- **drug addiction** — PDF p. 132, printed p. 131; Persian OCR confidence 52.1; head confidence 96.2; embedded `drug addiction`.
+- **dualistic** — PDF p. 132, printed p. 131; Persian OCR confidence 77.8; head confidence 57.5; embedded `dualistic`.
+- **dual nationality** — PDF p. 132, printed p. 131; Persian OCR confidence 42.6; head confidence 81.9; embedded `dual nationality`.
+- **dual personality** — PDF p. 132, printed p. 131; Persian OCR confidence 50.2; head confidence 94.4; embedded `dual personality`.
+- **dubitable** — PDF p. 132, printed p. 131; Persian OCR confidence 8.2; head confidence 51.1; embedded `dubitable`.
+- **dubitation** — PDF p. 132, printed p. 131; Persian OCR confidence 78.9; head confidence 3.1; embedded `dubitation`.
+- **duchess** — PDF p. 132, printed p. 131; Persian OCR confidence 39.6; head confidence 71.3; embedded `duchess`.
+- **due date** — PDF p. 132, printed p. 131; Persian OCR confidence 0.0; head confidence 92.7; embedded `due date`.
+- **dullard** — PDF p. 132, printed p. 131; Persian OCR confidence 12.2; head confidence 59.7; embedded `dullard = dull`.
+- **dullness** — PDF p. 132, printed p. 131; Persian OCR confidence 60.3; head confidence 3.6; embedded `dullness`.
+- **dumb barter** — PDF p. 132, printed p. 131; Persian OCR confidence 53.3; head confidence 93.3; embedded `dumb barter`.
+- **dummy** — PDF p. 132, printed p. 131; Persian OCR confidence 78.7; head confidence 0.0; embedded `dummy`.
+- **duologue** — PDF p. 132, printed p. 131; Persian OCR confidence 24.7; head confidence 50.7; embedded `duologue`.
+- **duplicitousness** — PDF p. 132, printed p. 131; Persian OCR confidence 13.9; head confidence 68.7; embedded `duplicitousness = duplicity`.
+- **duplicity** — PDF p. 132, printed p. 131; Persian OCR confidence 74.9; head confidence 54.1; embedded `duplicity`.
+- **Dutchman** — PDF p. 133, printed p. 132; Persian OCR confidence 35.4; head confidence 96.7; embedded `Dutchman`.
+- **duumvir (L.)** — PDF p. 133, printed p. 132; Persian OCR confidence 65.8; head confidence 55.6; embedded `duumvir (L.)`.
+- **dwarfish** — PDF p. 133, printed p. 132; Persian OCR confidence 87.5; head confidence 93.1; embedded `dwartlsh`.
+- **dyad** — PDF p. 133, printed p. 132; Persian OCR confidence 52.7; head confidence 96.1; embedded `dyad`.
+- **dying language** — PDF p. 133, printed p. 132; Persian OCR confidence 53.8; head confidence 96.4; embedded `dying language`.
+- **dynamics .r** — PDF p. 133, printed p. 132; Persian OCR confidence 74.2; head confidence 31.3; embedded `dynamics .r`.
+- **dynamometer** — PDF p. 133, printed p. 132; Persian OCR confidence 4.6; head confidence 96.4; embedded `dynamo meter`.
+- **dysarthria** — PDF p. 133, printed p. 132; Persian OCR confidence 51.5; head confidence 74.9; embedded `dysarthria`.
+- **dysbasia** — PDF p. 133, printed p. 132; Persian OCR confidence 41.9; head confidence 78.0; embedded `dysbasia`.
+- **dysergasla** — PDF p. 133, printed p. 132; Persian OCR confidence 34.0; head confidence 43.1; embedded `dysergasla`.
+- **dysesthesia** — PDF p. 133, printed p. 132; Persian OCR confidence 39.4; head confidence 66.2; embedded `dysesthesla`.
+- **dysfluency** — PDF p. 133, printed p. 132; Persian OCR confidence 79.2; head confidence 27.9; embedded `dysfluency`.
+- **dysgenlc** — PDF p. 133, printed p. 132; Persian OCR confidence 0; head confidence 38.6; embedded `dysgenlc`.
+- **dysgenics** — PDF p. 133, printed p. 132; Persian OCR confidence 0; head confidence 72.4; embedded `dysgenlcs`.
+- **dysgenic trend** — PDF p. 133, printed p. 132; Persian OCR confidence 44.4; head confidence 87.3; embedded `dysgenic trend`.
+- **dysgeusia** — PDF p. 133, printed p. 132; Persian OCR confidence 43.0; head confidence 73.8; embedded `dysgeusia`.
+- **dysgraphia** — PDF p. 133, printed p. 132; Persian OCR confidence 55.6; head confidence 45.7; embedded `dysgraphla`.
+- **dyslalla** — PDF p. 133, printed p. 132; Persian OCR confidence 56.3; head confidence 27.7; embedded `dyslalla`.
+- **dyslectic** — PDF p. 133, printed p. 132; Persian OCR confidence 35.1; head confidence 52.6; embedded `dyslectlc`.
+- **dyslexia** — PDF p. 133, printed p. 132; Persian OCR confidence 53.0; head confidence 80.1; embedded `dyslexia`.
+- **dyslexic** — PDF p. 133, printed p. 132; Persian OCR confidence 59.3; head confidence 45.6; embedded `dyslexic`.
+- **dyslogia** — PDF p. 133, printed p. 132; Persian OCR confidence 56.2; head confidence 16.5; embedded `dyslogia`.
+- **dysloglstlc** — PDF p. 133, printed p. 132; Persian OCR confidence 71.8; head confidence 36.8; embedded `dysloglstlc`.
+- **dyspareunia** — PDF p. 133, printed p. 132; Persian OCR confidence 0; head confidence 86.5; embedded `dyspareunla`.
+- **dysphagia** — PDF p. 134, printed p. 133; Persian OCR confidence 43.1; head confidence 96.5; embedded `dysphagia`.
+- **dysphasia** — PDF p. 134, printed p. 133; Persian OCR confidence 32.0; head confidence 92.1; embedded `dysphasia`.
+- **dysphonia** — PDF p. 134, printed p. 133; Persian OCR confidence 48.8; head confidence 91.8; embedded `dysphonia`.
+- **dysphoria** — PDF p. 134, printed p. 133; Persian OCR confidence 43.4; head confidence 96.4; embedded `dysphoria`.
+- **dysplasia** — PDF p. 134, printed p. 133; Persian OCR confidence 49.6; head confidence 96.9; embedded `dysplasia`.
+- **dyspraxia** — PDF p. 134, printed p. 133; Persian OCR confidence 53.7; head confidence 90.8; embedded `dyspraxia`.
+- **dysprosody** — PDF p. 134, printed p. 133; Persian OCR confidence 3.1; head confidence 91.7; embedded `dysprosody`.
+- **dysrhythmia** — PDF p. 134, printed p. 133; Persian OCR confidence 41.9; head confidence 83.1; embedded `dysrhythmia`.
+- **dystopia literature** — PDF p. 134, printed p. 133; Persian OCR confidence 27.0; head confidence 89.0; embedded `dystopia literature`.
+- **dystopian** — PDF p. 134, printed p. 133; Persian OCR confidence 1.7; head confidence 79.6; embedded `dystoplan`.

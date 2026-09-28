@@ -1,0 +1,83 @@
+# Q Entries Requiring Visual Review
+
+- **quadragenarian(s)** — PDF p. 368; Persian OCR confidence 63.9; head match 1.0; head OCR confidence 92.4
+- **quadragesima** — PDF p. 368; Persian OCR confidence 0; head match 1.0; head OCR confidence 92.2
+- **quadragesima** — PDF p. 368; Persian OCR confidence 64.7; head match 0.96; head OCR confidence 92.2
+- **quadrennium** — PDF p. 368; Persian OCR confidence 89.6; head match 0.759; head OCR confidence 32.1
+- **quadricentennial** — PDF p. 368; Persian OCR confidence 85.9; head match 0.744; head OCR confidence 28.1
+- **quadrisyllabic** — PDF p. 368; Persian OCR confidence 37.0; head match 0.848; head OCR confidence 47.0
+- **quadrlsyllable** — PDF p. 368; Persian OCR confidence 81.8; head match 0.812; head OCR confidence 26.7
+- **quadrivium** — PDF p. 368; Persian OCR confidence 53.4; head match 0.714; head OCR confidence 26.2
+- **quadruple ajljk>** — PDF p. 368; Persian OCR confidence 86.4; head match 0.783; head OCR confidence 62.9
+- **quaestiones disputatae (L.)** — PDF p. 368; Persian OCR confidence 48.2; head match 1.0; head OCR confidence 91.5
+- **quaestiones quodlibetales (L.)** — PDF p. 368; Persian OCR confidence 57.4; head match 1.0; head OCR confidence 89.3
+- **quaestor** — PDF p. 368; Persian OCR confidence 80.5; head match 0.4; head OCR confidence 42.8
+- **quaestorship** — PDF p. 368; Persian OCR confidence 80.7; head match 0.625; head OCR confidence 42.8
+- **Quakerism** — PDF p. 368; Persian OCR confidence 87.0; head match 0.783; head OCR confidence 48.4
+- **quale** — PDF p. 368; Persian OCR confidence 68.2; head match 0.333; head OCR confidence 33.6
+- **qualia** — PDF p. 368; Persian OCR confidence 90.2; head match 0.442; head OCR confidence 53.7
+- **qualification** — PDF p. 368; Persian OCR confidence 78.7; head match 0.455; head OCR confidence 19.4
+- **qualifier** — PDF p. 368; Persian OCR confidence 0; head match 1.0; head OCR confidence 84.7
+- **qualitative** — PDF p. 368; Persian OCR confidence 0; head match 1.0; head OCR confidence 93.4
+- **quality** — PDF p. 368; Persian OCR confidence 52.7; head match 1.0; head OCR confidence 57.6
+- **quality control if** — PDF p. 368; Persian OCR confidence 0; head match 0.933; head OCR confidence 70.0
+- **quality newspaper** — PDF p. 368; Persian OCR confidence 0; head match 1.0; head OCR confidence 81.6
+- **quality of life** — PDF p. 368; Persian OCR confidence 0; head match 1.0; head OCR confidence 94.1
+- **quantifiable** — PDF p. 368; Persian OCR confidence 0; head match 0.917; head OCR confidence 94.6
+- **quantification** — PDF p. 368; Persian OCR confidence 60.8; head match 1.0; head OCR confidence 87.0
+- **quantified** — PDF p. 368; Persian OCR confidence 64.8; head match 0.467; head OCR confidence 33.7
+- **quantifier** — PDF p. 368; Persian OCR confidence 34.6; head match 0.467; head OCR confidence 33.7
+- **quantitative** — PDF p. 368; Persian OCR confidence 77.0; head match 0.442; head OCR confidence 32.7
+- **Quantitative method** — PDF p. 368; Persian OCR confidence 0; head match 1.0; head OCR confidence 70.9
+- **quantitative science ~..::..;.s_Lr°9)** — PDF p. 368; Persian OCR confidence 60.1; head match 0.634; head OCR confidence 70.9
+- **quantity** — PDF p. 369; Persian OCR confidence 80.0; head match 0.287; head OCR confidence 32.2
+- **quantum** — PDF p. 369; Persian OCR confidence 58.5; head match 0.408; head OCR confidence 48.0
+- **quarantine** — PDF p. 369; Persian OCR confidence 33.5; head match 0.87; head OCR confidence 54.4
+- **quarterly** — PDF p. 369; Persian OCR confidence 75.2; head match 0.332; head OCR confidence 46.8
+- **quasi-contract** — PDF p. 369; Persian OCR confidence 32.7; head match 0.765; head OCR confidence 30.6
+- **quasi-experimental** — PDF p. 369; Persian OCR confidence 56.9; head match 0.81; head OCR confidence 49.6
+- **quasi-group** — PDF p. 369; Persian OCR confidence 35.6; head match 0.741; head OCR confidence 51.8
+- **quasi-independent** — PDF p. 369; Persian OCR confidence 68.4; head match 0.8; head OCR confidence 46.3
+- **quasi-law** — PDF p. 369; Persian OCR confidence 82.6; head match 0.373; head OCR confidence 33.8
+- **quasi-need jla.** — PDF p. 369; Persian OCR confidence 55.8; head match 0.857; head OCR confidence 60.5
+- **quasi-religion** — PDF p. 369; Persian OCR confidence 80.6; head match 0.839; head OCR confidence 45.9
+- **quasi-rent** — PDF p. 369; Persian OCR confidence 58.7; head match 0.467; head OCR confidence 45.9
+- **quatrocento (Ital.)** — PDF p. 369; Persian OCR confidence 67.5; head match 0.789; head OCR confidence 44.4
+- **queen** — PDF p. 369; Persian OCR confidence 88.6; head match 0.35; head OCR confidence 55.4
+- **queer** — PDF p. 369; Persian OCR confidence 67.1; head match 0.304; head OCR confidence 30.1
+- **quest** — PDF p. 369; Persian OCR confidence 63.8; head match 0.368; head OCR confidence 27.7
+- **question** — PDF p. 369; Persian OCR confidence 21.5; head match 0.545; head OCR confidence 27.7
+- **questionability** — PDF p. 369; Persian OCR confidence 49.7; head match 0.857; head OCR confidence 46.5
+- **questionable** — PDF p. 369; Persian OCR confidence 51.8; head match 0.442; head OCR confidence 23.8
+- **questionableness** — PDF p. 369; Persian OCR confidence 0; head match 0.477; head OCR confidence 92.1
+- **question mark** — PDF p. 369; Persian OCR confidence 46.7; head match 0.667; head OCR confidence 92.4
+- **questionnaire** — PDF p. 369; Persian OCR confidence 57.7; head match 0.839; head OCR confidence 48.0
+- **quick** — PDF p. 369; Persian OCR confidence 54.7; head match 0.35; head OCR confidence 29.1
+- **quick assets** — PDF p. 369; Persian OCR confidence 50.5; head match 0.759; head OCR confidence 62.1
+- **quickness** — PDF p. 369; Persian OCR confidence 84.7; head match 0.434; head OCR confidence 27.5
+- **quickness of response uke;** — PDF p. 369; Persian OCR confidence 29.2; head match 0.927; head OCR confidence 72.5
+- **quidditative ale** — PDF p. 369; Persian OCR confidence 66.4; head match 0.815; head OCR confidence 72.7
+- **quiddity** — PDF p. 369; Persian OCR confidence 78.6; head match 0.426; head OCR confidence 72.7
+- **quid pro quo (L.)** — PDF p. 369; Persian OCR confidence 53.2; head match 0.416; head OCR confidence 56.6
+- **quiescence** — PDF p. 369; Persian OCR confidence 55.9; head match 0.378; head OCR confidence 42.8
+- **quiescent** — PDF p. 369; Persian OCR confidence 84.1; head match 0.467; head OCR confidence 43.6
+- **quietism w,J-,-~** — PDF p. 369; Persian OCR confidence 69.9; head match 0.357; head OCR confidence 43.6
+- **quietist** — PDF p. 369; Persian OCR confidence 60.3; head match 0.361; head OCR confidence 42.0
+- **quletistic** — PDF p. 369; Persian OCR confidence 76.9; head match 0.667; head OCR confidence 50.5
+- **quietude** — PDF p. 369; Persian OCR confidence 63.3; head match 0.431; head OCR confidence 17.4
+- **quinquennial ale ay** — PDF p. 369; Persian OCR confidence 91.6; head match 0.828; head OCR confidence 55.1
+- **quinquennium** — PDF p. 369; Persian OCR confidence 81.6; head match 0.8; head OCR confidence 42.1
+- **quintessence** — PDF p. 369; Persian OCR confidence 65.4; head match 0.727; head OCR confidence 25.4
+- **quintessential** — PDF p. 369; Persian OCR confidence 77.0; head match 0.478; head OCR confidence 39.7
+- **quittance** — PDF p. 369; Persian OCR confidence 87.4; head match 0.45; head OCR confidence 40.5
+- **quixotic(-al)** — PDF p. 369; Persian OCR confidence 30.3; head match 0.87; head OCR confidence 13.7
+- **quixotry** — PDF p. 369; Persian OCR confidence 49.8; head match 0.431; head OCR confidence 35.7
+- **quodlibet** — PDF p. 369; Persian OCR confidence 67.7; head match 0.45; head OCR confidence 41.2
+- **quorum (L.)** — PDF p. 369; Persian OCR confidence 64.8; head match 0.377; head OCR confidence 47.8
+- **quota** — PDF p. 369; Persian OCR confidence 70.6; head match 0.714; head OCR confidence 75.9
+- **quotability** — PDF p. 369; Persian OCR confidence 90.5; head match 0.759; head OCR confidence 46.3
+- **quotable** — PDF p. 369; Persian OCR confidence 91.4; head match 0.727; head OCR confidence 43.9
+- **quota sampling leiogus** — PDF p. 369; Persian OCR confidence 76.3; head match 0.788; head OCR confidence 60.8
+- **quota system** — PDF p. 369; Persian OCR confidence 81.4; head match 0.733; head OCR confidence 53.3
+- **quotational** — PDF p. 369; Persian OCR confidence 77.7; head match 0.786; head OCR confidence 17.7
+- **quotidian** — PDF p. 369; Persian OCR confidence 50.0; head match 1.0; head OCR confidence 74.8

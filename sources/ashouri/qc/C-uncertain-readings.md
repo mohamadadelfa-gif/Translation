@@ -1,0 +1,743 @@
+# C — OCR / Transcription Items Requiring Review
+
+These are review flags, not claims that the printed source is wrong.
+
+- **cabalism** — PDF p. 57, printed p. 56; Persian OCR confidence 53.5; head confidence 92.4; embedded `cabalism`.
+- **cabbala** — PDF p. 57, printed p. 56; Persian OCR confidence 0; head confidence 92.5; embedded `cabbala = cabala`.
+- **cabinet; Cabinet** — PDF p. 57, printed p. 56; Persian OCR confidence 53.0; head confidence 96.5; embedded `cabinet; Cabinet`.
+- **cachexis cachexia** — PDF p. 57, printed p. 56; Persian OCR confidence 0; head confidence 94.7; embedded `cachexis cachexia`.
+- **cachex:y** — PDF p. 57, printed p. 56; Persian OCR confidence 0; head confidence 93.9; embedded `cachex:y = cachexia`.
+- **cachinnation** — PDF p. 57, printed p. 56; Persian OCR confidence 43.3; head confidence 92.1; embedded `cachinnation`.
+- **cacodaemon** — PDF p. 57, printed p. 56; Persian OCR confidence 0; head confidence 83.8; embedded `cacodaemon = cacodemon`.
+- **cacodemonomanla** — PDF p. 57, printed p. 56; Persian OCR confidence 0; head confidence 86.0; embedded `cacodemonomanla = cacodemonla`.
+- **cacophonous** — PDF p. 57, printed p. 56; Persian OCR confidence 19.3; head confidence 91.1; embedded `cacophonous`.
+- **cacotopia** — PDF p. 57, printed p. 56; Persian OCR confidence 71.0; head confidence 32.4; embedded `cacotopia`.
+- **Caesaristic** — PDF p. 57, printed p. 56; Persian OCR confidence 85.6; head confidence 55.2; embedded `Caesaristlc`.
+- **caeteris paribus ceteris paribus** — PDF p. 57, printed p. 56; Persian OCR confidence 0; head confidence 95.2; embedded `caeteris parlbus ceterls paribus`.
+- **Calendar** — PDF p. 57, printed p. 56; Persian OCR confidence 85.3; head confidence 48.8; embedded `calendar`.
+- **calendrical** — PDF p. 57, printed p. 56; Persian OCR confidence 88.9; head confidence 51.9; embedded `calendrlcal`.
+- **calif caliph** — PDF p. 57, printed p. 56; Persian OCR confidence 0; head confidence 79.6; embedded `calif caliph`.
+- **calllgram** — PDF p. 57, printed p. 56; Persian OCR confidence 52.4; head confidence 27.6; embedded `calllgram`.
+- **calligraph** — PDF p. 57, printed p. 56; Persian OCR confidence 48.6; head confidence 43.6; embedded `calligraph`.
+- **calligraphist** — PDF p. 58, printed p. 57; Persian OCR confidence 0; head confidence 94.9; embedded `calligraphist = calligrapher`.
+- **call loan** — PDF p. 58, printed p. 57; Persian OCR confidence 42.4; head confidence 96.6; embedded `call loan`.
+- **call money** — PDF p. 58, printed p. 57; Persian OCR confidence 0; head confidence 96.2; embedded `call money`.
+- **call of conscience** — PDF p. 58, printed p. 57; Persian OCR confidence 0; head confidence 96.7; embedded `call of conscience`.
+- **calque** — PDF p. 58, printed p. 57; Persian OCR confidence 0; head confidence 80.1; embedded `calque`.
+- **calquing** — PDF p. 58, printed p. 57; Persian OCR confidence 0; head confidence 89.9; embedded `calquing`.
+- **Calvinism** — PDF p. 58, printed p. 57; Persian OCR confidence 18.3; head confidence 96.4; embedded `Calvinism`.
+- **Calvinistic** — PDF p. 58, printed p. 57; Persian OCR confidence 47.0; head confidence 89.0; embedded `Calvinistic`.
+- **camp** — PDF p. 58, printed p. 57; Persian OCR confidence 5.4; head confidence 96.0; embedded `camp`.
+- **campus** — PDF p. 58, printed p. 57; Persian OCR confidence 38.5; head confidence 96.5; embedded `campus`.
+- **cancellation** — PDF p. 58, printed p. 57; Persian OCR confidence 42.1; head confidence 86.0; embedded `cancellation`.
+- **cannibalistic** — PDF p. 58, printed p. 57; Persian OCR confidence 13.8; head confidence 96.5; embedded `cannibalistic`.
+- **canonical** — PDF p. 58, printed p. 57; Persian OCR confidence 65.7; head confidence 25.3; embedded `canonical`.
+- **canonicity** — PDF p. 58, printed p. 57; Persian OCR confidence 50.4; head confidence 91.7; embedded `canoniclty`.
+- **Canonizer** — PDF p. 58, printed p. 57; Persian OCR confidence 50.4; head confidence 54.9; embedded `canonizer`.
+- **Cant** — PDF p. 58, printed p. 57; Persian OCR confidence 51.4; head confidence 63.6; embedded `cant`.
+- **canton** — PDF p. 58, printed p. 57; Persian OCR confidence 0; head confidence 68.0; embedded `canton`.
+- **Canvass** — PDF p. 58, printed p. 57; Persian OCR confidence 47.8; head confidence 93.5; embedded `canvass`.
+- **capacity** — PDF p. 58, printed p. 57; Persian OCR confidence 75.4; head confidence 46.7; embedded `capacity`.
+- **capital goods** — PDF p. 59, printed p. 58; Persian OCR confidence 52.3; head confidence 96.3; embedded `capital goods`.
+- **capital-intensity** — PDF p. 59, printed p. 58; Persian OCR confidence 53.9; head confidence 92.1; embedded `capital-intensity`.
+- **capital-intensive** — PDF p. 59, printed p. 58; Persian OCR confidence 19.6; head confidence 92.0; embedded `capital-intensive`.
+- **capitalistic** — PDF p. 59, printed p. 58; Persian OCR confidence 47.3; head confidence 96.2; embedded `capitalistic`.
+- **capitalizable** — PDF p. 59, printed p. 58; Persian OCR confidence 48.4; head confidence 91.6; embedded `capitalizable`.
+- **capital market** — PDF p. 59, printed p. 58; Persian OCR confidence 0; head confidence 96.6; embedded `capital market`.
+- **capital outflow** — PDF p. 59, printed p. 58; Persian OCR confidence 0; head confidence 96.7; embedded `capital outflow`.
+- **Capital transfer** — PDF p. 59, printed p. 58; Persian OCR confidence 48.0; head confidence 75.8; embedded `capital transfer`.
+- **captivity** — PDF p. 59, printed p. 58; Persian OCR confidence 20.5; head confidence 95.6; embedded `captivity`.
+- **Caput mortuum (L.)** — PDF p. 59, printed p. 58; Persian OCR confidence 35.9; head confidence 84.4; embedded `caput mortuum (L.)`.
+- **Caravanserai caravansary** — PDF p. 59, printed p. 58; Persian OCR confidence 0; head confidence 87.1; embedded `caravanserai caravansary`.
+- **careerist** — PDF p. 59, printed p. 58; Persian OCR confidence 90.7; head confidence 53.5; embedded `careerist`.
+- **caretaker speech** — PDF p. 59, printed p. 58; Persian OCR confidence 52.0; head confidence 96.4; embedded `caretaker speech`.
+- **caricature** — PDF p. 59, printed p. 58; Persian OCR confidence 54.7; head confidence 96.1; embedded `caricature`.
+- **carnal** — PDF p. 59, printed p. 58; Persian OCR confidence 70.1; head confidence 33.9; embedded `carnal`.
+- **carnivalesque** — PDF p. 59, printed p. 58; Persian OCR confidence 49.6; head confidence 48.3; embedded `carnivalesque`.
+- **carnivalite** — PDF p. 59, printed p. 58; Persian OCR confidence 81.8; head confidence 58.2; embedded `carnivalite`.
+- **cartulary** — PDF p. 60, printed p. 59; Persian OCR confidence 42.1; head confidence 91.7; embedded `cartulary`.
+- **case analysis** — PDF p. 60, printed p. 59; Persian OCR confidence 49.8; head confidence 95.8; embedded `case analysis`.
+- **casebook** — PDF p. 60, printed p. 59; Persian OCR confidence 25.5; head confidence 96.8; embedded `casebook`.
+- **case-ending** — PDF p. 60, printed p. 59; Persian OCR confidence 39.7; head confidence 90.7; embedded `case-ending`.
+- **case record case history** — PDF p. 60, printed p. 59; Persian OCR confidence 0; head confidence 96.6; embedded `case record case history`.
+- **case study** — PDF p. 60, printed p. 59; Persian OCR confidence 13.1; head confidence 96.7; embedded `case study`.
+- **case study method** — PDF p. 60, printed p. 59; Persian OCR confidence 45.7; head confidence 96.3; embedded `case study method`.
+- **Castro ism** — PDF p. 60, printed p. 59; Persian OCR confidence 91.4; head confidence 18.1; embedded `Castro ism`.
+- **Casual** — PDF p. 60, printed p. 59; Persian OCR confidence 69.1; head confidence 58.4; embedded `casual`.
+- **Casual employment** — PDF p. 60, printed p. 59; Persian OCR confidence 0.5; head confidence 91.2; embedded `casual employment`.
+- **Casualist** — PDF p. 60, printed p. 59; Persian OCR confidence 77.6; head confidence 52.5; embedded `casualist`.
+- **casual labor ciclin, SISY** — PDF p. 60, printed p. 59; Persian OCR confidence 70.0; head confidence 64.3; embedded `casual labor .r`.
+- **CASUalness** — PDF p. 60, printed p. 59; Persian OCR confidence 51.1; head confidence 54.3; embedded `casualness`.
+- **catachresis** — PDF p. 61, printed p. 60; Persian OCR confidence 48.8; head confidence 91.2; embedded `catachresis`.
+- **catalogue catalog** — PDF p. 61, printed p. 60; Persian OCR confidence 0; head confidence 96.2; embedded `catalogue catalog`.
+- **cataloguing cataloging** — PDF p. 61, printed p. 60; Persian OCR confidence 0; head confidence 96.0; embedded `catalogulng cataloging`.
+- **catastrophism** — PDF p. 61, printed p. 60; Persian OCR confidence 5.6; head confidence 91.3; embedded `catastrophism`.
+- **catechetical method** — PDF p. 61, printed p. 60; Persian OCR confidence 92.9; head confidence 41.8; embedded `catechetical method`.
+- **catechetics catechesis** — PDF p. 61, printed p. 60; Persian OCR confidence 0; head confidence 72.3; embedded `catechetics catechesis`.
+- **Catechism** — PDF p. 61, printed p. 60; Persian OCR confidence 69.7; head confidence 52.9; embedded `catechism`.
+- **catechist** — PDF p. 61, printed p. 60; Persian OCR confidence 84.6; head confidence 53.7; embedded `catechist`.
+- **Categorial** — PDF p. 61, printed p. 60; Persian OCR confidence 89.5; head confidence 47.7; embedded `categorlal`.
+- **categorical logic** — PDF p. 61, printed p. 60; Persian OCR confidence 53.4; head confidence 96.4; embedded `categorical logic`.
+- **Categorization** — PDF p. 61, printed p. 60; Persian OCR confidence 89.6; head confidence 53.7; embedded `categorization`.
+- **Catharism** — PDF p. 61, printed p. 60; Persian OCR confidence 88.6; head confidence 52.0; embedded `Catharlsm`.
+- **Catharlst** — PDF p. 61, printed p. 60; Persian OCR confidence 89.6; head confidence 16.1; embedded `Catharlst`.
+- **cathartic** — PDF p. 61, printed p. 60; Persian OCR confidence 91.9; head confidence 38.7; embedded `cathartic`.
+- **cathectic** — PDF p. 61, printed p. 60; Persian OCR confidence 55.0; head confidence 47.5; embedded `cathectlc`.
+- **Catholicism** — PDF p. 62, printed p. 61; Persian OCR confidence 53.6; head confidence 96.7; embedded `Catholicism`.
+- **Caucasio-centrism** — PDF p. 62, printed p. 61; Persian OCR confidence 26.9; head confidence 91.9; embedded `Caucasio-centrism`.
+- **Caucasoid** — PDF p. 62, printed p. 61; Persian OCR confidence 47.8; head confidence 92.4; embedded `Caucasoid`.
+- **causa immanens (L.)** — PDF p. 62, printed p. 61; Persian OCR confidence 30.0; head confidence 66.2; embedded `causa immanens (L.)`.
+- **causal adequacy** — PDF p. 62, printed p. 61; Persian OCR confidence 49.6; head confidence 95.7; embedded `causal adequacy`.
+- **causal determination** — PDF p. 62, printed p. 61; Persian OCR confidence 27.9; head confidence 95.4; embedded `causal determination`.
+- **causal explanation** — PDF p. 62, printed p. 61; Persian OCR confidence 54.0; head confidence 91.0; embedded `causal explanation`.
+- **causality** — PDF p. 62, printed p. 61; Persian OCR confidence 38.5; head confidence 96.1; embedded `causality`.
+- **causal relation** — PDF p. 62, printed p. 61; Persian OCR confidence 26.9; head confidence 92.6; embedded `causal relation`.
+- **causal texture** — PDF p. 62, printed p. 61; Persian OCR confidence 33.8; head confidence 96.5; embedded `causal texture`.
+- **causa sui (L.)** — PDF p. 62, printed p. 61; Persian OCR confidence 41.7; head confidence 93.5; embedded `causa sui (L.)`.
+- **caused cause** — PDF p. 62, printed p. 61; Persian OCR confidence 47.5; head confidence 93.6; embedded `caused cause`.
+- **cavalcade** — PDF p. 62, printed p. 61; Persian OCR confidence 78.1; head confidence 26.3; embedded `cavalcade`.
+- **Cavalry** — PDF p. 62, printed p. 61; Persian OCR confidence 91.0; head confidence 55.3; embedded `cavalry`.
+- **cease-fire** — PDF p. 62, printed p. 61; Persian OCR confidence 7.0; head confidence 83.3; embedded `cease-fire`.
+- **ceiling** — PDF p. 62, printed p. 61; Persian OCR confidence 54.2; head confidence 34.8; embedded `ceiling`.
+- **celestial circumference** — PDF p. 62, printed p. 61; Persian OCR confidence 12.5; head confidence 96.6; embedded `celestlal circumference`.
+- **celestial equator** — PDF p. 62, printed p. 61; Persian OCR confidence 41.4; head confidence 92.0; embedded `celestlal equator`.
+- **Celticism** — PDF p. 62, printed p. 61; Persian OCR confidence 69.4; head confidence 54.8; embedded `Celticism`.
+- **cenotophobia cainotophobia** — PDF p. 63, printed p. 62; Persian OCR confidence 0; head confidence 91.4; embedded `cenotophobia cainotophobla`.
+- **censor** — PDF p. 63, printed p. 62; Persian OCR confidence 72.2; head confidence 0.0; embedded `censor`.
+- **censorious** — PDF p. 63, printed p. 62; Persian OCR confidence 85.1; head confidence 18.7; embedded `censorious`.
+- **centennial** — PDF p. 63, printed p. 62; Persian OCR confidence 50.1; head confidence 96.0; embedded `centennial = centenary`.
+- **centerless** — PDF p. 63, printed p. 62; Persian OCR confidence 43.2; head confidence 96.3; embedded `center less`.
+- **center of gravity** — PDF p. 63, printed p. 62; Persian OCR confidence 0; head confidence 96.7; embedded `center of gravity`.
+- **centile** — PDF p. 63, printed p. 62; Persian OCR confidence 0; head confidence 96.0; embedded `centlle`.
+- **Centralist** — PDF p. 63, printed p. 62; Persian OCR confidence 64.6; head confidence 53.4; embedded `centralist`.
+- **Centralistic** — PDF p. 63, printed p. 62; Persian OCR confidence 82.1; head confidence 58.0; embedded `centralistic`.
+- **centralization ..:.,.)}'** — PDF p. 63, printed p. 62; Persian OCR confidence 81.3; head confidence 19.9; embedded `centralization ..:.,.)}'`.
+- **centralizer** — PDF p. 63, printed p. 62; Persian OCR confidence 59.2; head confidence 39.1; embedded `centralizer`.
+- **centrism** — PDF p. 63, printed p. 62; Persian OCR confidence 77.7; head confidence 26.5; embedded `centrism`.
+- **Centrographer** — PDF p. 63, printed p. 62; Persian OCR confidence 37.0; head confidence 48.6; embedded `centrographer`.
+- **cephalometry** — PDF p. 63, printed p. 62; Persian OCR confidence 38.0; head confidence 91.1; embedded `cephalometry`.
+- **cerebration** — PDF p. 63, printed p. 62; Persian OCR confidence 48.6; head confidence 65.3; embedded `cerebration`.
+- **cerebrotonia** — PDF p. 63, printed p. 62; Persian OCR confidence 80.2; head confidence 47.7; embedded `cerebrotonia`.
+- **Ceremoniousness** — PDF p. 64, printed p. 63; Persian OCR confidence 47.8; head confidence 65.3; embedded `ceremoniousness`.
+- **certain** — PDF p. 64, printed p. 63; Persian OCR confidence 54.2; head confidence 95.9; embedded `certain`.
+- **certification** — PDF p. 64, printed p. 63; Persian OCR confidence 52.6; head confidence 26.3; embedded `certification`.
+- **chain reaction** — PDF p. 64, printed p. 63; Persian OCR confidence 0; head confidence 96.5; embedded `chain reaction`.
+- **Chaldaean Chaldean** — PDF p. 64, printed p. 63; Persian OCR confidence 0; head confidence 87.5; embedded `Chaldaean Chaldean`.
+- **Chaldee** — PDF p. 64, printed p. 63; Persian OCR confidence 0; head confidence 76.7; embedded `Chaldee = Chaldean`.
+- **championship** — PDF p. 64, printed p. 63; Persian OCR confidence 91.6; head confidence 42.8; embedded `championship`.
+- **chancellorship** — PDF p. 64, printed p. 63; Persian OCR confidence 0; head confidence 71.3; embedded `chancellorship = chancellery`.
+- **changeful** — PDF p. 64, printed p. 63; Persian OCR confidence 3.7; head confidence 59.5; embedded `changeful`.
+- **Chant** — PDF p. 64, printed p. 63; Persian OCR confidence 74.8; head confidence 57.9; embedded `chant`.
+- **character formation** — PDF p. 65, printed p. 64; Persian OCR confidence 52.6; head confidence 83.3; embedded `character formation`.
+- **characterization** — PDF p. 65, printed p. 64; Persian OCR confidence 53.2; head confidence 96.8; embedded `characterization`.
+- **characterless** — PDF p. 65, printed p. 64; Persian OCR confidence 52.9; head confidence 86.3; embedded `characterless`.
+- **characterology** — PDF p. 65, printed p. 64; Persian OCR confidence 50.1; head confidence 91.1; embedded `characterology`.
+- **chargé d’affaire (Fr.)** — PDF p. 65, printed p. 64; Persian OCR confidence 43.9; head confidence 82.3; embedded `charge d'affalre (Fr.)`.
+- **charismatic** — PDF p. 65, printed p. 64; Persian OCR confidence 68.3; head confidence 42.2; embedded `charismatic`.
+- **Charity** — PDF p. 65, printed p. 64; Persian OCR confidence 75.5; head confidence 57.1; embedded `charity`.
+- **charlatan** — PDF p. 65, printed p. 64; Persian OCR confidence 90.1; head confidence 29.0; embedded `charlatan`.
+- **Chartist** — PDF p. 65, printed p. 64; Persian OCR confidence 84.2; head confidence 33.8; embedded `Chartist`.
+- **chartulary** — PDF p. 65, printed p. 64; Persian OCR confidence 26.6; head confidence 58.0; embedded `chartulary = cartulary`.
+- **cheirognomy chirognomy** — PDF p. 66, printed p. 65; Persian OCR confidence 0; head confidence 91.9; embedded `cheirognomy chirognomy`.
+- **cheirosophy chirosophy** — PDF p. 66, printed p. 65; Persian OCR confidence 0; head confidence 91.5; embedded `cheirosophy chirosophy`.
+- **Chief** — PDF p. 66, printed p. 65; Persian OCR confidence 54.8; head confidence 67.5; embedded `chief`.
+- **childhood** — PDF p. 66, printed p. 65; Persian OCR confidence 0.0; head confidence 95.7; embedded `childhood`.
+- **child mortality** — PDF p. 66, printed p. 65; Persian OCR confidence 49.0; head confidence 81.2; embedded `child mortality`.
+- **Children of Israel** — PDF p. 66, printed p. 65; Persian OCR confidence 23.8; head confidence 87.8; embedded `children of Israel`.
+- **chiliad** — PDF p. 66, printed p. 65; Persian OCR confidence 90.7; head confidence 40.0; embedded `chiliad`.
+- **chimera chimaera** — PDF p. 66, printed p. 65; Persian OCR confidence 0; head confidence 74.8; embedded `chimera chimaera`.
+- **chimeric(-al)** — PDF p. 66, printed p. 65; Persian OCR confidence 65.9; head confidence 44.6; embedded `chimeric(-al)`.
+- **Chirography** — PDF p. 66, printed p. 65; Persian OCR confidence 83.9; head confidence 53.0; embedded `chirography`.
+- **chirology** — PDF p. 66, printed p. 65; Persian OCR confidence 44.5; head confidence 39.2; embedded `chirology`.
+- **chi romancer** — PDF p. 66, printed p. 65; Persian OCR confidence 73.3; head confidence 40.0; embedded `chi romancer`.
+- **chiromancy** — PDF p. 66, printed p. 65; Persian OCR confidence 87.9; head confidence 52.2; embedded `chiromancy`.
+- **chivalrous** — PDF p. 66, printed p. 65; Persian OCR confidence 26.2; head confidence 73.1; embedded `chivalrous`.
+- **Choler** — PDF p. 67, printed p. 66; Persian OCR confidence 48.7; head confidence 84.2; embedded `choler`.
+- **chrematistic** — PDF p. 67, printed p. 66; Persian OCR confidence 21.8; head confidence 89.9; embedded `chrematlstic`.
+- **chrematistics** — PDF p. 67, printed p. 66; Persian OCR confidence 25.0; head confidence 91.4; embedded `chrematistics`.
+- **chrestomathy** — PDF p. 67, printed p. 66; Persian OCR confidence 51.0; head confidence 91.1; embedded `chrestomathy`.
+- **Christendom** — PDF p. 67, printed p. 66; Persian OCR confidence 53.6; head confidence 96.8; embedded `Christendom`.
+- **christening** — PDF p. 67, printed p. 66; Persian OCR confidence 66.1; head confidence 44.8; embedded `christening`.
+- **Christianism** — PDF p. 67, printed p. 66; Persian OCR confidence 31.7; head confidence 91.7; embedded `Chrlstlanlsm`.
+- **Christian Science** — PDF p. 67, printed p. 66; Persian OCR confidence 62.9; head confidence 57.2; embedded `Christian Science`.
+- **Christian year** — PDF p. 67, printed p. 66; Persian OCR confidence 12.5; head confidence 96.0; embedded `Christian year`.
+- **Christlike** — PDF p. 67, printed p. 66; Persian OCR confidence 24.6; head confidence 74.4; embedded `Christlike`.
+- **Christlikeness** — PDF p. 67, printed p. 66; Persian OCR confidence 91.1; head confidence 45.9; embedded `Chrlstlikeness`.
+- **Christliness** — PDF p. 67, printed p. 66; Persian OCR confidence 82.3; head confidence 55.1; embedded `Christliness`.
+- **Christly** — PDF p. 67, printed p. 66; Persian OCR confidence 89.4; head confidence 56.5; embedded `Christly`.
+- **Christocentric** — PDF p. 67, printed p. 66; Persian OCR confidence 63.1; head confidence 58.1; embedded `Christocentric`.
+- **chronic** — PDF p. 67, printed p. 66; Persian OCR confidence 34.3; head confidence 96.2; embedded `chronic`.
+- **Chronicler** — PDF p. 67, printed p. 66; Persian OCR confidence 88.2; head confidence 54.0; embedded `chronicler`.
+- **Chronogeneous** — PDF p. 67, printed p. 66; Persian OCR confidence 72.4; head confidence 55.1; embedded `chronogeneous`.
+- **Chronography** — PDF p. 67, printed p. 66; Persian OCR confidence 53.3; head confidence 82.6; embedded `chronography`.
+- **chronologic(-al)** — PDF p. 67, printed p. 66; Persian OCR confidence 62.7; head confidence 51.8; embedded `chronologic(-al)`.
+- **chronological order** — PDF p. 67, printed p. 66; Persian OCR confidence 44.7; head confidence 84.2; embedded `chronological order`.
+- **chronologist** — PDF p. 67, printed p. 66; Persian OCR confidence 0; head confidence 90.9; embedded `chronologist`.
+- **chronophobla** — PDF p. 67, printed p. 66; Persian OCR confidence 55.8; head confidence 42.5; embedded `chronophobla`.
+- **churchman** — PDF p. 68, printed p. 67; Persian OCR confidence 50.9; head confidence 96.4; embedded `churchman`.
+- **Church of England** — PDF p. 68, printed p. 67; Persian OCR confidence 52.0; head confidence 96.4; embedded `Church of England`.
+- **Church Slavonic sLilS cso! ub; circularity** — PDF p. 68, printed p. 67; Persian OCR confidence 0; head confidence 62.2; embedded `Church Slavonic circularity`.
+- **churchy** — PDF p. 68, printed p. 67; Persian OCR confidence 52.1; head confidence 92.6; embedded `churchy`.
+- **cineast; cinéaste** — PDF p. 68, printed p. 67; Persian OCR confidence 37.4; head confidence 92.7; embedded `cineast; clneaste`.
+- **cinematheque** — PDF p. 68, printed p. 67; Persian OCR confidence 49.1; head confidence 92.2; embedded `cinematheque`.
+- **cinquecentist** — PDF p. 68, printed p. 67; Persian OCR confidence 0; head confidence 92.4; embedded `cinquecentist = cinquecento`.
+- **circle** — PDF p. 68, printed p. 67; Persian OCR confidence 38.2; head confidence 55.7; embedded `circle`.
+- **circuitous** — PDF p. 68, printed p. 67; Persian OCR confidence 44.3; head confidence 77.5; embedded `circuitous`.
+- **circuitousness** — PDF p. 68, printed p. 67; Persian OCR confidence 71.5; head confidence 46.2; embedded `circuitousness`.
+- **circulating asset** — PDF p. 68, printed p. 67; Persian OCR confidence 50.2; head confidence 95.2; embedded `circulating asset`.
+- **circulus in probando (L.)** — PDF p. 68, printed p. 67; Persian OCR confidence 52.2; head confidence 77.2; embedded `circulus in probando (L.)`.
+- **CircuMlocutiON** — PDF p. 69, printed p. 68; Persian OCR confidence 77.5; head confidence 51.3; embedded `circumlocution`.
+- **circumnavigation** — PDF p. 69, printed p. 68; Persian OCR confidence 20.7; head confidence 91.3; embedded `circumnavigation`.
+- **circumsolar** — PDF p. 69, printed p. 68; Persian OCR confidence 41.9; head confidence 87.8; embedded `circumsolar`.
+- **circumstantial** — PDF p. 69, printed p. 68; Persian OCR confidence 77.5; head confidence 26.4; embedded `circumstantial`.
+- **circumstantiation** — PDF p. 69, printed p. 68; Persian OCR confidence 29.9; head confidence 91.2; embedded `circumstantiation`.
+- **circumterrestrial** — PDF p. 69, printed p. 68; Persian OCR confidence 42.7; head confidence 90.9; embedded `circumterrestrial`.
+- **citadel** — PDF p. 69, printed p. 68; Persian OCR confidence 52.8; head confidence 96.8; embedded `citadel`.
+- **citizen allegiance** — PDF p. 69, printed p. 68; Persian OCR confidence 36.8; head confidence 71.2; embedded `citizen allegiance`.
+- **citizenry** — PDF p. 69, printed p. 68; Persian OCR confidence 25.0; head confidence 97.0; embedded `citizenry`.
+- **city** — PDF p. 69, printed p. 68; Persian OCR confidence 26.1; head confidence 95.5; embedded `city`.
+- **City editor** — PDF p. 69, printed p. 68; Persian OCR confidence 54.8; head confidence 78.7; embedded `city editor`.
+- **cityroom** — PDF p. 69, printed p. 68; Persian OCR confidence 77.8; head confidence 32.4; embedded `cityroom`.
+- **city-state** — PDF p. 69, printed p. 68; Persian OCR confidence 92.0; head confidence 0.0; embedded `city-state`.
+- **civicism** — PDF p. 69, printed p. 68; Persian OCR confidence 0; head confidence 68.5; embedded `civicism = civism`.
+- **civic-minded** — PDF p. 69, printed p. 68; Persian OCR confidence 58.1; head confidence 51.2; embedded `civic-minded`.
+- **civics** — PDF p. 69, printed p. 68; Persian OCR confidence 52.6; head confidence 30.2; embedded `civics`.
+- **Civil** — PDF p. 69, printed p. 68; Persian OCR confidence 73.8; head confidence 58.6; embedded `civil`.
+- **civil aviation** — PDF p. 70, printed p. 69; Persian OCR confidence 18.9; head confidence 95.8; embedded `civil aviation`.
+- **civilizer** — PDF p. 70, printed p. 69; Persian OCR confidence 0; head confidence 91.8; embedded `civilizer`.
+- **civilizing .r** — PDF p. 70, printed p. 69; Persian OCR confidence 32.1; head confidence 39.8; embedded `civilizing .r`.
+- **civil liability** — PDF p. 70, printed p. 69; Persian OCR confidence 19.6; head confidence 95.8; embedded `civil liability`.
+- **civil philosophy** — PDF p. 70, printed p. 69; Persian OCR confidence 23.0; head confidence 83.0; embedded `civil philosophy`.
+- **civil procedure** — PDF p. 70, printed p. 69; Persian OCR confidence 38.5; head confidence 89.6; embedded `civil procedure`.
+- **civil status** — PDF p. 70, printed p. 69; Persian OCR confidence 33.2; head confidence 85.3; embedded `civil status`.
+- **Cladistics** — PDF p. 70, printed p. 69; Persian OCR confidence 25.6; head confidence 55.6; embedded `cladistics`.
+- **clairaudient** — PDF p. 70, printed p. 69; Persian OCR confidence 34.0; head confidence 12.6; embedded `clairaudient`.
+- **clairvoyant** — PDF p. 70, printed p. 69; Persian OCR confidence 85.9; head confidence 36.5; embedded `clairvoyant`.
+- **class circulation** — PDF p. 71, printed p. 70; Persian OCR confidence 0; head confidence 96.4; embedded `class circulation`.
+- **class conflict** — PDF p. 71, printed p. 70; Persian OCR confidence 0; head confidence 96.4; embedded `class conflict`.
+- **class conscious** — PDF p. 71, printed p. 70; Persian OCR confidence 0; head confidence 92.4; embedded `class conscious`.
+- **class consciousness _sli.b als (le classless** — PDF p. 71, printed p. 70; Persian OCR confidence 0; head confidence 63.5; embedded `class consciousness classless`.
+- **class differentiation** — PDF p. 71, printed p. 70; Persian OCR confidence 40.9; head confidence 88.4; embedded `class differentiation`.
+- **classical conditioning** — PDF p. 71, printed p. 70; Persian OCR confidence 44.0; head confidence 96.6; embedded `classical conditioning`.
+- **classicalism classicism** — PDF p. 71, printed p. 70; Persian OCR confidence 0; head confidence 93.0; embedded `classlcallsm = classlcism`.
+- **classicalist classicist** — PDF p. 71, printed p. 70; Persian OCR confidence 0; head confidence 92.0; embedded `classlcalist = classicist`.
+- **classlcality** — PDF p. 71, printed p. 70; Persian OCR confidence 52.9; head confidence 33.1; embedded `classlcality`.
+- **classicalness classicality** — PDF p. 71, printed p. 70; Persian OCR confidence 0; head confidence 86.0; embedded `classlcalness = classicality`.
+- **classicism** — PDF p. 71, printed p. 70; Persian OCR confidence 67.8; head confidence 19.4; embedded `classicism`.
+- **classification** — PDF p. 71, printed p. 70; Persian OCR confidence 86.2; head confidence 4.8; embedded `classification`.
+- **classificatory** — PDF p. 71, printed p. 70; Persian OCR confidence 63.7; head confidence 26.5; embedded `classificatory`.
+- **Classificatory concept** — PDF p. 71, printed p. 70; Persian OCR confidence 78.9; head confidence 53.3; embedded `classificatory concept`.
+- **cClassificatory system** — PDF p. 71, printed p. 70; Persian OCR confidence 81.5; head confidence 55.0; embedded `classiflcatory system`.
+- **classism** — PDF p. 71, printed p. 70; Persian OCR confidence 76.6; head confidence 91.7; embedded `classlsrn`.
+- **clemency** — PDF p. 72, printed p. 71; Persian OCR confidence 17.2; head confidence 96.0; embedded `clemency`.
+- **cleptocracy kleptocracy** — PDF p. 72, printed p. 71; Persian OCR confidence 0; head confidence 91.6; embedded `cleptocracy kleptocracy`.
+- **cleptomania kleptomania** — PDF p. 72, printed p. 71; Persian OCR confidence 0; head confidence 90.1; embedded `cleptomania kleptomania`.
+- **Clerical** — PDF p. 72, printed p. 71; Persian OCR confidence 61.6; head confidence 58.1; embedded `clerical`.
+- **clericalism** — PDF p. 72, printed p. 71; Persian OCR confidence 86.1; head confidence 43.2; embedded `clericalism`.
+- **clerkdom** — PDF p. 72, printed p. 71; Persian OCR confidence 50.8; head confidence 91.4; embedded `clerkdom`.
+- **clever** — PDF p. 72, printed p. 71; Persian OCR confidence 65.3; head confidence 44.3; embedded `clever`.
+- **clientage** — PDF p. 72, printed p. 71; Persian OCR confidence 0; head confidence 64.2; embedded `clientage = clientele`.
+- **client-centered psychotherapy** — PDF p. 72, printed p. 71; Persian OCR confidence 49.5; head confidence 61.0; embedded `client-centered psychotherapy`.
+- **Clientele** — PDF p. 72, printed p. 71; Persian OCR confidence 55.3; head confidence 48.7; embedded `clientele`.
+- **clientelistic** — PDF p. 72, printed p. 71; Persian OCR confidence 71.3; head confidence 48.2; embedded `cllentelistic`.
+- **cliff dweller** — PDF p. 72, printed p. 71; Persian OCR confidence 69.0; head confidence 56.5; embedded `cliff dweller`.
+- **cliff-hanging** — PDF p. 72, printed p. 71; Persian OCR confidence 62.5; head confidence 6.7; embedded `cliff-hanging`.
+- **climacteric** — PDF p. 72, printed p. 71; Persian OCR confidence 62.6; head confidence 43.4; embedded `climacteric`.
+- **climacterium climacterical** — PDF p. 72, printed p. 71; Persian OCR confidence 0; head confidence 92.3; embedded `cllmacterium climacterical`.
+- **climate** — PDF p. 72, printed p. 71; Persian OCR confidence 65.3; head confidence 42.2; embedded `climate`.
+- **cllmatic(-al)** — PDF p. 72, printed p. 71; Persian OCR confidence 86.2; head confidence 40.3; embedded `cllmatic(-al)`.
+- **climatologic(-al)** — PDF p. 72, printed p. 71; Persian OCR confidence 38.1; head confidence 61.7; embedded `climatologic(-al)`.
+- **climatologist** — PDF p. 72, printed p. 71; Persian OCR confidence 85.1; head confidence 7.6; embedded `climatologist`.
+- **clinic** — PDF p. 72, printed p. 71; Persian OCR confidence 83.5; head confidence 26.5; embedded `clinic`.
+- **cllnlcal** — PDF p. 72, printed p. 71; Persian OCR confidence 82.5; head confidence 31.9; embedded `cllnlcal`.
+- **co-adaptation** — PDF p. 73, printed p. 72; Persian OCR confidence 54.8; head confidence 91.3; embedded `co-adaptation`.
+- **coastline** — PDF p. 73, printed p. 72; Persian OCR confidence 86.8; head confidence 35.8; embedded `coastline`.
+- **coconscious** — PDF p. 73, printed p. 72; Persian OCR confidence 42.4; head confidence 55.9; embedded `coconscious`.
+- **code test** — PDF p. 73, printed p. 72; Persian OCR confidence 48.8; head confidence 79.7; embedded `code test`.
+- **code word** — PDF p. 73, printed p. 72; Persian OCR confidence 30.0; head confidence 89.2; embedded `code word`.
+- **Coding** — PDF p. 73, printed p. 72; Persian OCR confidence 34.4; head confidence 49.1; embedded `coding`.
+- **co-education** — PDF p. 73, printed p. 72; Persian OCR confidence 89.5; head confidence 22.2; embedded `co-education`.
+- **coenesthesis coenesthesia** — PDF p. 73, printed p. 72; Persian OCR confidence 0; head confidence 77.7; embedded `coenesthesis coenesthesia`.
+- **coenobite cenobite** — PDF p. 73, printed p. 72; Persian OCR confidence 0; head confidence 87.6; embedded `coenoblte cenobite`.
+- **coequal** — PDF p. 73, printed p. 72; Persian OCR confidence 54.6; head confidence 82.8; embedded `coequal`.
+- **Coercer** — PDF p. 73, printed p. 72; Persian OCR confidence 85.9; head confidence 58.6; embedded `coercer`.
+- **coercive** — PDF p. 73, printed p. 72; Persian OCR confidence 77.5; head confidence 0.0; embedded `coercive`.
+- **coessentialness** — PDF p. 74, printed p. 73; Persian OCR confidence 0; head confidence 91.2; embedded `coessentialness = coessentiality`.
+- **coetaneous** — PDF p. 74, printed p. 73; Persian OCR confidence 44.8; head confidence 91.6; embedded `coetaneous`.
+- **Coexistence** — PDF p. 74, printed p. 73; Persian OCR confidence 40.4; head confidence 95.0; embedded `coexistence`.
+- **coextension** — PDF p. 74, printed p. 73; Persian OCR confidence 21.5; head confidence 92.3; embedded `coextension`.
+- **coextensive** — PDF p. 74, printed p. 73; Persian OCR confidence 35.3; head confidence 96.7; embedded `coextensive`.
+- **cogency** — PDF p. 74, printed p. 73; Persian OCR confidence 46.1; head confidence 92.7; embedded `cogency`.
+- **cogitation** — PDF p. 74, printed p. 73; Persian OCR confidence 50.0; head confidence 89.7; embedded `cogitation`.
+- **Cogitative** — PDF p. 74, printed p. 73; Persian OCR confidence 73.0; head confidence 47.6; embedded `cogitative`.
+- **cognateness** — PDF p. 74, printed p. 73; Persian OCR confidence 74.4; head confidence 43.8; embedded `cognateness`.
+- **cognatic** — PDF p. 74, printed p. 73; Persian OCR confidence 0; head confidence 94.3; embedded `cognatic = cognate`.
+- **cognation** — PDF p. 74, printed p. 73; Persian OCR confidence 0; head confidence 92.1; embedded `cognation = cognateness`.
+- **cognitional** — PDF p. 74, printed p. 73; Persian OCR confidence 0; head confidence 94.2; embedded `cognitional = cognitive`.
+- **cognitive** — PDF p. 74, printed p. 73; Persian OCR confidence 49.0; head confidence 85.3; embedded `cognitive`.
+- **cognitive ability** — PDF p. 74, printed p. 73; Persian OCR confidence 0; head confidence 88.6; embedded `cognitive ability`.
+- **cognitive behavior** — PDF p. 74, printed p. 73; Persian OCR confidence 0; head confidence 86.1; embedded `cognitive behavior`.
+- **Cognitive consonance** — PDF p. 74, printed p. 73; Persian OCR confidence 28.6; head confidence 90.5; embedded `cognitive consonance`.
+- **cognitive dissonance** — PDF p. 74, printed p. 73; Persian OCR confidence 0; head confidence 87.5; embedded `cognitive dissonance`.
+- **cognitive faculty** — PDF p. 74, printed p. 73; Persian OCR confidence 0; head confidence 95.2; embedded `cognitive faculty`.
+- **Cognitive grammar** — PDF p. 74, printed p. 73; Persian OCR confidence 92.2; head confidence 58.5; embedded `cognitive grammar`.
+- **cognitive structure** — PDF p. 74, printed p. 73; Persian OCR confidence 49.6; head confidence 75.3; embedded `cognitive structure`.
+- **cognitive therapy** — PDF p. 74, printed p. 73; Persian OCR confidence 50.9; head confidence 92.0; embedded `cognitive therapy`.
+- **cognitivism** — PDF p. 74, printed p. 73; Persian OCR confidence 90.4; head confidence 52.9; embedded `cognitivism`.
+- **cognoscenda (L.)** — PDF p. 74, printed p. 73; Persian OCR confidence 33.4; head confidence 78.1; embedded `cognoscenda (L.)`.
+- **cognoscenti** — PDF p. 75, printed p. 74; Persian OCR confidence 42.1; head confidence 92.2; embedded `cognoscenti`.
+- **coherency coherence** — PDF p. 75, printed p. 74; Persian OCR confidence 0; head confidence 96.2; embedded `coherency coherence`.
+- **COHESIVE** — PDF p. 75, printed p. 74; Persian OCR confidence 81.4; head confidence 51.8; embedded `cohesive`.
+- **co-identity** — PDF p. 75, printed p. 74; Persian OCR confidence 48.6; head confidence 92.5; embedded `co-identity`.
+- **coital** — PDF p. 75, printed p. 74; Persian OCR confidence 89.4; head confidence 23.2; embedded `coital`.
+- **coition coitus** — PDF p. 75, printed p. 74; Persian OCR confidence 0; head confidence 85.9; embedded `coitlon coitus`.
+- **coitus** — PDF p. 75, printed p. 74; Persian OCR confidence 40.9; head confidence 80.2; embedded `coitus`.
+- **collaborationist** — PDF p. 75, printed p. 74; Persian OCR confidence 59.6; head confidence 52.4; embedded `collaborationlst`.
+- **collation** — PDF p. 75, printed p. 74; Persian OCR confidence 2.9; head confidence 68.3; embedded `collation`.
+- **collectanea** — PDF p. 75, printed p. 74; Persian OCR confidence 62.6; head confidence 56.7; embedded `collectanea`.
+- **collectlon** — PDF p. 75, printed p. 74; Persian OCR confidence 69.7; head confidence 0.0; embedded `collectlon`.
+- **collective behavior** — PDF p. 75, printed p. 74; Persian OCR confidence 45.2; head confidence 96.4; embedded `collective behavior`.
+- **collective egotism** — PDF p. 76, printed p. 75; Persian OCR confidence 0; head confidence 96.6; embedded `collective egotism`.
+- **collective farm** — PDF p. 76, printed p. 75; Persian OCR confidence 0; head confidence 96.9; embedded `collective farm`.
+- **collective imagination** — PDF p. 76, printed p. 75; Persian OCR confidence 0.0; head confidence 84.9; embedded `collective imagination`.
+- **collective ownership** — PDF p. 76, printed p. 75; Persian OCR confidence 41.8; head confidence 96.5; embedded `collective ownership`.
+- **collective psychology,.a5** — PDF p. 76, printed p. 75; Persian OCR confidence 42.1; head confidence 55.0; embedded `collective psychology`.
+- **collective sentiment** — PDF p. 76, printed p. 75; Persian OCR confidence 50.0; head confidence 96.4; embedded `collective sentiment`.
+- **collectivist** — PDF p. 76, printed p. 75; Persian OCR confidence 44.0; head confidence 91.8; embedded `collectivist`.
+- **collegian** — PDF p. 76, printed p. 75; Persian OCR confidence 76.2; head confidence 31.8; embedded `collegian`.
+- **collinear** — PDF p. 76, printed p. 75; Persian OCR confidence 81.6; head confidence 52.5; embedded `collinear`.
+- **Collocability** — PDF p. 76, printed p. 75; Persian OCR confidence 53.9; head confidence 54.0; embedded `collocability`.
+- **collocable** — PDF p. 76, printed p. 75; Persian OCR confidence 50.7; head confidence 20.5; embedded `collocable`.
+- **collocation** — PDF p. 76, printed p. 75; Persian OCR confidence 38.7; head confidence 82.4; embedded `collocatlon`.
+- **collocational** — PDF p. 76, printed p. 75; Persian OCR confidence 26.7; head confidence 91.9; embedded `collocational`.
+- **colloquial** — PDF p. 76, printed p. 75; Persian OCR confidence 49.1; head confidence 54.8; embedded `colloquial`.
+- **Colloquialism** — PDF p. 76, printed p. 75; Persian OCR confidence 81.7; head confidence 48.6; embedded `colloquialism`.
+- **colloquiainess** — PDF p. 76, printed p. 75; Persian OCR confidence 60.3; head confidence 50.7; embedded `colloquialness`.
+- **colloquy** — PDF p. 76, printed p. 75; Persian OCR confidence 59.8; head confidence 30.7; embedded `colloquy`.
+- **colonist** — PDF p. 76, printed p. 75; Persian OCR confidence 49.0; head confidence 9.7; embedded `colonist`.
+- **color line** — PDF p. 77, printed p. 76; Persian OCR confidence 49.7; head confidence 96.9; embedded `color line`.
+- **combativity combativeness** — PDF p. 77, printed p. 76; Persian OCR confidence 0; head confidence 92.1; embedded `combativity combativeness`.
+- **combinative** — PDF p. 77, printed p. 76; Persian OCR confidence 0; head confidence 92.7; embedded `combinative`.
+- **combinatorial** — PDF p. 77, printed p. 76; Persian OCR confidence 0; head confidence 96.7; embedded `combinatorial`.
+- **combinatory** — PDF p. 77, printed p. 76; Persian OCR confidence 0; head confidence 93.9; embedded `combinatory = combinatorial`.
+- **comedy of manners** — PDF p. 77, printed p. 76; Persian OCR confidence 50.3; head confidence 96.5; embedded `comedy of manners`.
+- **COMIC** — PDF p. 77, printed p. 76; Persian OCR confidence 57.9; head confidence 55.1; embedded `comic`.
+- **Comic-opera slows cal** — PDF p. 77, printed p. 76; Persian OCR confidence 23.4; head confidence 50.9; embedded `comic-opera ;.r`.
+- **~Command economy** — PDF p. 77, printed p. 76; Persian OCR confidence 73.7; head confidence 48.2; embedded `command economy`.
+- **commemorative** — PDF p. 77, printed p. 76; Persian OCR confidence 81.3; head confidence 45.8; embedded `commemorative`.
+- **commerce** — PDF p. 77, printed p. 76; Persian OCR confidence 91.0; head confidence 54.5; embedded `commerce`.
+- **commerciality** — PDF p. 78, printed p. 77; Persian OCR confidence 0; head confidence 93.5; embedded `commerciality = commercialism`.
+- **commercialization** — PDF p. 78, printed p. 77; Persian OCR confidence 53.1; head confidence 72.7; embedded `commercialization`.
+- **commissar** — PDF p. 78, printed p. 77; Persian OCR confidence 12.9; head confidence 92.4; embedded `commissar`.
+- **commissaryship** — PDF p. 78, printed p. 77; Persian OCR confidence 38.9; head confidence 91.6; embedded `commissaryship`.
+- **committee** — PDF p. 78, printed p. 77; Persian OCR confidence 44.4; head confidence 95.4; embedded `committee`.
+- **commonage** — PDF p. 78, printed p. 77; Persian OCR confidence 70.6; head confidence 43.1; embedded `commonage`.
+- **common man** — PDF p. 78, printed p. 77; Persian OCR confidence 39.1; head confidence 83.9; embedded `common man`.
+- **common market** — PDF p. 78, printed p. 77; Persian OCR confidence 49.8; head confidence 96.0; embedded `common market`.
+- **Common ownership** — PDF p. 78, printed p. 77; Persian OCR confidence 44.0; head confidence 68.6; embedded `common ownership`.
+- **common property** — PDF p. 78, printed p. 77; Persian OCR confidence 38.6; head confidence 83.0; embedded `common property`.
+- **COMmon sense** — PDF p. 78, printed p. 77; Persian OCR confidence 75.5; head confidence 58.9; embedded `common sense`.
+- **common wisdom** — PDF p. 79, printed p. 78; Persian OCR confidence 46.0; head confidence 96.2; embedded `common wisdom`.
+- **communal organization** — PDF p. 79, printed p. 78; Persian OCR confidence 50.5; head confidence 96.6; embedded `communal organization`.
+- **commune** — PDF p. 79, printed p. 78; Persian OCR confidence 29.7; head confidence 96.7; embedded `commune`.
+- **communicability** — PDF p. 79, printed p. 78; Persian OCR confidence 19.2; head confidence 92.1; embedded `communicability`.
+- **communicative rationality** — PDF p. 79, printed p. 78; Persian OCR confidence 52.5; head confidence 87.5; embedded `communicative rationality`.
+- **Communion** — PDF p. 79, printed p. 78; Persian OCR confidence 59.5; head confidence 59.6; embedded `communion`.
+- **communist** — PDF p. 79, printed p. 78; Persian OCR confidence 0.3; head confidence 95.6; embedded `communist`.
+- **communitarian** — PDF p. 79, printed p. 78; Persian OCR confidence 65.9; head confidence 36.5; embedded `communitarian`.
+- **communitarianism** — PDF p. 79, printed p. 78; Persian OCR confidence 89.3; head confidence 6.4; embedded `communitarianism`.
+- **Community center** — PDF p. 79, printed p. 78; Persian OCR confidence 47.9; head confidence 90.2; embedded `community center`.
+- **community development** — PDF p. 79, printed p. 78; Persian OCR confidence 23.3; head confidence 95.9; embedded `community development`.
+- **community language** — PDF p. 79, printed p. 78; Persian OCR confidence 51.3; head confidence 96.1; embedded `community language`.
+- **community study** — PDF p. 79, printed p. 78; Persian OCR confidence 41.1; head confidence 96.1; embedded `community study`.
+- **communization** — PDF p. 79, printed p. 78; Persian OCR confidence 43.1; head confidence 85.5; embedded `communization = communalization`.
+- **commuter** — PDF p. 80, printed p. 79; Persian OCR confidence 48.7; head confidence 96.6; embedded `commuter`.
+- **companionate crime** — PDF p. 80, printed p. 79; Persian OCR confidence 53.0; head confidence 89.4; embedded `companionate crime`.
+- **comparableness comparability** — PDF p. 80, printed p. 79; Persian OCR confidence 0; head confidence 94.1; embedded `comparableness comparability`.
+- **comparative literature** — PDF p. 80, printed p. 79; Persian OCR confidence 54.7; head confidence 96.4; embedded `comparative literature`.
+- **comparativist** — PDF p. 80, printed p. 79; Persian OCR confidence 75.2; head confidence 59.8; embedded `comparativist`.
+- **comparison-shop** — PDF p. 80, printed p. 79; Persian OCR confidence 83.7; head confidence 59.2; embedded `comparison-shop`.
+- **Compassionateness** — PDF p. 80, printed p. 79; Persian OCR confidence 86.9; head confidence 45.6; embedded `compassionateness`.
+- **compeer** — PDF p. 80, printed p. 79; Persian OCR confidence 79.3; head confidence 25.5; embedded `compeer`.
+- **compensable** — PDF p. 80, printed p. 79; Persian OCR confidence 8.3; head confidence 96.7; embedded `compensable`.
+- **compensatory** — PDF p. 80, printed p. 79; Persian OCR confidence 51.5; head confidence 92.7; embedded `compensatory`.
+- **competency** — PDF p. 80, printed p. 79; Persian OCR confidence 48.1; head confidence 95.1; embedded `competency = competence`.
+- **competitive system** — PDF p. 81, printed p. 80; Persian OCR confidence 0; head confidence 96.5; embedded `competitive system`.
+- **competitor** — PDF p. 81, printed p. 80; Persian OCR confidence 0; head confidence 96.4; embedded `competitor`.
+- **complementarity** — PDF p. 81, printed p. 80; Persian OCR confidence 0; head confidence 91.3; embedded `complementarity=complementariness`.
+- **completeness .r** — PDF p. 81, printed p. 80; Persian OCR confidence 59.8; head confidence 43.7; embedded `completeness .r`.
+- **complication** — PDF p. 81, printed p. 80; Persian OCR confidence 52.6; head confidence 38.3; embedded `complication`.
+- **complier** — PDF p. 81, printed p. 80; Persian OCR confidence 37.8; head confidence 91.9; embedded `complier`.
+- **Componential** — PDF p. 81, printed p. 80; Persian OCR confidence 32.3; head confidence 45.7; embedded `componential`.
+- **componential analysis** — PDF p. 81, printed p. 80; Persian OCR confidence 65.3; head confidence 58.6; embedded `componentlal analysis`.
+- **compositionality** — PDF p. 81, printed p. 80; Persian OCR confidence 89.5; head confidence 41.6; embedded `compositionality`.
+- **compositive** — PDF p. 81, printed p. 80; Persian OCR confidence 48.4; head confidence 60.6; embedded `com positive`.
+- **compossibility** — PDF p. 81, printed p. 80; Persian OCR confidence 87.3; head confidence 44.1; embedded `compossibility`.
+- **COMpOUN** — PDF p. 81, printed p. 80; Persian OCR confidence 81.1; head confidence 56.1; embedded `compound`.
+- **comprador** — PDF p. 81, printed p. 80; Persian OCR confidence 75.2; head confidence 39.7; embedded `comprador`.
+- **comprehensible** — PDF p. 81, printed p. 80; Persian OCR confidence 11.4; head confidence 86.0; embedded `comprehensible`.
+- **Compromise** — PDF p. 82, printed p. 81; Persian OCR confidence 88.4; head confidence 53.3; embedded `compromise`.
+- **compulsive** — PDF p. 82, printed p. 81; Persian OCR confidence 32.8; head confidence 96.4; embedded `compulsive`.
+- **computer** — PDF p. 82, printed p. 81; Persian OCR confidence 33.0; head confidence 96.7; embedded `computer`.
+- **computerization** — PDF p. 82, printed p. 81; Persian OCR confidence 52.0; head confidence 96.6; embedded `computerization`.
+- **conation** — PDF p. 82, printed p. 81; Persian OCR confidence 36.5; head confidence 91.1; embedded `conation`.
+- **conative** — PDF p. 82, printed p. 81; Persian OCR confidence 0.0; head confidence 89.2; embedded `conative`.
+- **Conatus** — PDF p. 82, printed p. 81; Persian OCR confidence 71.8; head confidence 48.2; embedded `conatus`.
+- **concatenation** — PDF p. 82, printed p. 81; Persian OCR confidence 64.6; head confidence 23.9; embedded `concatenation`.
+- **conceivability** — PDF p. 82, printed p. 81; Persian OCR confidence 76.4; head confidence 17.5; embedded `conceivability`.
+- **conceivable** — PDF p. 82, printed p. 81; Persian OCR confidence 38.7; head confidence 84.6; embedded `conceivable`.
+- **conceivableness conceivability** — PDF p. 82, printed p. 81; Persian OCR confidence 0; head confidence 76.5; embedded `conceivableness conceivability`.
+- **concentricity** — PDF p. 82, printed p. 81; Persian OCR confidence 88.4; head confidence 53.9; embedded `concentrlcity`.
+- **conceptional** — PDF p. 82, printed p. 81; Persian OCR confidence 77.1; head confidence 42.1; embedded `conceptional`.
+- **conceptual metaphor** — PDF p. 83, printed p. 82; Persian OCR confidence 45.6; head confidence 81.1; embedded `conceptual metaphor`.
+- **conceptual representation** — PDF p. 83, printed p. 82; Persian OCR confidence 45.4; head confidence 96.7; embedded `conceptual representation`.
+- **concessive** — PDF p. 83, printed p. 82; Persian OCR confidence 73.0; head confidence 59.1; embedded `concesslve`.
+- **concise** — PDF p. 83, printed p. 82; Persian OCR confidence 39.8; head confidence 96.5; embedded `concise`.
+- **conciseness** — PDF p. 83, printed p. 82; Persian OCR confidence 39.3; head confidence 96.6; embedded `conciseness`.
+- **conclave** — PDF p. 83, printed p. 82; Persian OCR confidence 52.7; head confidence 95.3; embedded `conclave`.
+- **concomitance** — PDF p. 83, printed p. 82; Persian OCR confidence 88.7; head confidence 50.8; embedded `concomitance`.
+- **CONCOrdat** — PDF p. 83, printed p. 82; Persian OCR confidence 80.8; head confidence 46.0; embedded `concordat`.
+- **Concrete art** — PDF p. 83, printed p. 82; Persian OCR confidence 0; head confidence 84.5; embedded `concrete art`.
+- **concrete intelligence** — PDF p. 83, printed p. 82; Persian OCR confidence 0; head confidence 80.1; embedded `concrete Intelligence`.
+- **concrete poetry** — PDF p. 83, printed p. 82; Persian OCR confidence 52.4; head confidence 96.2; embedded `concrete poetry`.
+- **conditionality** — PDF p. 84, printed p. 83; Persian OCR confidence 84.9; head confidence 41.8; embedded `conditionality`.
+- **conditioned reinforcer** — PDF p. 84, printed p. 83; Persian OCR confidence 53.8; head confidence 96.5; embedded `conditioned reinforcer`.
+- **conditioned stimulus** — PDF p. 84, printed p. 83; Persian OCR confidence 51.2; head confidence 96.4; embedded `conditioned stlmulus`.
+- **conductibility** — PDF p. 84, printed p. 83; Persian OCR confidence 19.7; head confidence 89.0; embedded `conductibility`.
+- **COnfederation** — PDF p. 84, printed p. 83; Persian OCR confidence 70.4; head confidence 52.3; embedded `confederation`.
+- **COnfederationism** — PDF p. 84, printed p. 83; Persian OCR confidence 88.7; head confidence 48.5; embedded `confederationism`.
+- **Conference** — PDF p. 84, printed p. 83; Persian OCR confidence 57.0; head confidence 58.7; embedded `conference`.
+- **confesser confessor** — PDF p. 84, printed p. 83; Persian OCR confidence 0; head confidence 76.5; embedded `confesser confessor`.
+- **confessor r** — PDF p. 85, printed p. 84; Persian OCR confidence 70.4; head confidence 21.3; embedded `confessor r`.
+- **confidentiality** — PDF p. 85, printed p. 84; Persian OCR confidence 50.2; head confidence 96.5; embedded `confidentiality`.
+- **configuration** — PDF p. 85, printed p. 84; Persian OCR confidence 63.5; head confidence 56.2; embedded `configuration`.
+- **configurative configurational** — PDF p. 85, printed p. 84; Persian OCR confidence 49.5; head confidence 94.3; embedded `configurative configurational`.
+- **conflictlon .r** — PDF p. 85, printed p. 84; Persian OCR confidence 76.6; head confidence 29.1; embedded `conflictlon .r`.
+- **conflictive** — PDF p. 85, printed p. 84; Persian OCR confidence 76.9; head confidence 55.0; embedded `conflictlve`.
+- **conflictual conflictive** — PDF p. 85, printed p. 84; Persian OCR confidence 0; head confidence 79.3; embedded `conflictual conflictive`.
+- **confluence** — PDF p. 85, printed p. 84; Persian OCR confidence 78.5; head confidence 54.2; embedded `confluence`.
+- **conformability** — PDF p. 85, printed p. 84; Persian OCR confidence 82.9; head confidence 56.5; embedded `conformability`.
+- **conformable** — PDF p. 85, printed p. 84; Persian OCR confidence 76.8; head confidence 43.4; embedded `conformable`.
+- **conformance** — PDF p. 85, printed p. 84; Persian OCR confidence 0; head confidence 89.0; embedded `conformance = conformity`.
+- **conformist society** — PDF p. 85, printed p. 84; Persian OCR confidence 45.8; head confidence 77.3; embedded `conformist society`.
+- **confraternity** — PDF p. 85, printed p. 84; Persian OCR confidence 92.2; head confidence 53.4; embedded `confraternity`.
+- **confrontatlonlst** — PDF p. 85, printed p. 84; Persian OCR confidence 64.9; head confidence 44.9; embedded `confrontatlonlst`.
+- **Confrontment confrontation** — PDF p. 85, printed p. 84; Persian OCR confidence 0; head confidence 74.6; embedded `confrontment confrontation`.
+- **Confucianist** — PDF p. 85, printed p. 84; Persian OCR confidence 82.0; head confidence 9.2; embedded `Confucianist`.
+- **congenerlc** — PDF p. 85, printed p. 84; Persian OCR confidence 54.9; head confidence 19.7; embedded `congenerlc`.
+- **congenerous** — PDF p. 85, printed p. 84; Persian OCR confidence 0; head confidence 75.9; embedded `congenerous = congenerlc`.
+- **congenitality .r** — PDF p. 86, printed p. 85; Persian OCR confidence 60.0; head confidence 34.8; embedded `congenitality .r`.
+- **congestion** — PDF p. 86, printed p. 85; Persian OCR confidence 44.0; head confidence 55.4; embedded `congestion`.
+- **conglomeritic conglomeratic** — PDF p. 86, printed p. 85; Persian OCR confidence 0; head confidence 91.3; embedded `conglomeritic conglomeratic`.
+- **congruency** — PDF p. 86, printed p. 85; Persian OCR confidence 0; head confidence 93.9; embedded `congruency= congruence`.
+- **congruent ~** — PDF p. 86, printed p. 85; Persian OCR confidence 73.6; head confidence 4.2; embedded `congruent ~`.
+- **congruism** — PDF p. 86, printed p. 85; Persian OCR confidence 0; head confidence 91.4; embedded `congruism = congruity`.
+- **congruous** — PDF p. 86, printed p. 85; Persian OCR confidence 73.3; head confidence 0.0; embedded `congruous`.
+- **Conjugality** — PDF p. 86, printed p. 85; Persian OCR confidence 85.5; head confidence 57.3; embedded `conjugality`.
+- **CONjugal UNION** — PDF p. 86, printed p. 85; Persian OCR confidence 63.5; head confidence 48.5; embedded `conjugal union`.
+- **conjugation** — PDF p. 86, printed p. 85; Persian OCR confidence 72.9; head confidence 10.1; embedded `conjugation`.
+- **conjugatlonal** — PDF p. 86, printed p. 85; Persian OCR confidence 61.7; head confidence 27.4; embedded `conjugatlonal`.
+- **conjunctional .r** — PDF p. 86, printed p. 85; Persian OCR confidence 77.9; head confidence 21.5; embedded `conjunctional .r`.
+- **conjuncture** — PDF p. 86, printed p. 85; Persian OCR confidence 53.3; head confidence 67.4; embedded `conjuncture`.
+- **conjuration** — PDF p. 86, printed p. 85; Persian OCR confidence 64.6; head confidence 41.3; embedded `conjuration`.
+- **conjuror** — PDF p. 86, printed p. 85; Persian OCR confidence 0; head confidence 60.8; embedded `conjuror = conjurer`.
+- **COonnateness connaturality** — PDF p. 86, printed p. 85; Persian OCR confidence 0; head confidence 66.3; embedded `connateness = connaturality`.
+- **connaturality** — PDF p. 86, printed p. 85; Persian OCR confidence 79.6; head confidence 26.2; embedded `connaturality`.
+- **connectionism** — PDF p. 86, printed p. 85; Persian OCR confidence 80.0; head confidence 11.1; embedded `connectionism`.
+- **connexion** — PDF p. 86, printed p. 85; Persian OCR confidence 0; head confidence 91.6; embedded `connexion = connection`.
+- **connexionism** — PDF p. 86, printed p. 85; Persian OCR confidence 27.1; head confidence 71.2; embedded `connexionism = connectionism`.
+- **connexity** — PDF p. 86, printed p. 85; Persian OCR confidence 89.9; head confidence 34.0; embedded `connexity`.
+- **connoisseurship** — PDF p. 87, printed p. 86; Persian OCR confidence 0; head confidence 91.6; embedded `connoisseurship`.
+- **connotative** — PDF p. 87, printed p. 86; Persian OCR confidence 51.8; head confidence 92.0; embedded `connotative`.
+- **connubial** — PDF p. 87, printed p. 86; Persian OCR confidence 52.9; head confidence 91.6; embedded `connubial`.
+- **connubiality** — PDF p. 87, printed p. 86; Persian OCR confidence 53.1; head confidence 92.2; embedded `connublality`.
+- **conqueror** — PDF p. 87, printed p. 86; Persian OCR confidence 38.9; head confidence 96.5; embedded `conqueror`.
+- **consanguineous consanguine** — PDF p. 87, printed p. 86; Persian OCR confidence 0; head confidence 93.7; embedded `consanguineous consanguine`.
+- **consanguinity** — PDF p. 87, printed p. 86; Persian OCR confidence 42.6; head confidence 96.6; embedded `consanguinity`.
+- **conscienceless** — PDF p. 87, printed p. 86; Persian OCR confidence 16.2; head confidence 91.3; embedded `consclenceless`.
+- **consciousness-in-general** — PDF p. 87, printed p. 86; Persian OCR confidence 49.3; head confidence 91.2; embedded `consciousness-in-general`.
+- **consciousness-raising** — PDF p. 87, printed p. 86; Persian OCR confidence 49.6; head confidence 91.2; embedded `consciousness-raising`.
+- **consecrator** — PDF p. 87, printed p. 86; Persian OCR confidence 18.4; head confidence 56.7; embedded `consecrator`.
+- **Consecratory** — PDF p. 87, printed p. 86; Persian OCR confidence 43.6; head confidence 70.3; embedded `consecratory`.
+- **Cconsecutiveness** — PDF p. 87, printed p. 86; Persian OCR confidence 88.6; head confidence 53.0; embedded `consecutiveness`.
+- **consensual** — PDF p. 87, printed p. 86; Persian OCR confidence 78.2; head confidence 59.3; embedded `consensual`.
+- **consentaneous** — PDF p. 87, printed p. 86; Persian OCR confidence 38.1; head confidence 63.0; embedded `consentaneous`.
+- **consentaneousness** — PDF p. 87, printed p. 86; Persian OCR confidence 31.2; head confidence 92.7; embedded `consentaneousness`.
+- **consequentlality** — PDF p. 87, printed p. 86; Persian OCR confidence 88.7; head confidence 34.8; embedded `consequentlality`.
+- **Conservancy** — PDF p. 87, printed p. 86; Persian OCR confidence 77.7; head confidence 52.6; embedded `conservancy`.
+- **conservatlonal** — PDF p. 87, printed p. 86; Persian OCR confidence 57.4; head confidence 0.0; embedded `conservatlonal`.
+- **conservationist** — PDF p. 87, printed p. 86; Persian OCR confidence 79.7; head confidence 53.2; embedded `conservationist`.
+- **Conservativeness** — PDF p. 88, printed p. 87; Persian OCR confidence 36.3; head confidence 87.7; embedded `conservativeness ._;;....,`.
+- **consistence** — PDF p. 88, printed p. 87; Persian OCR confidence 0; head confidence 96.6; embedded `consistence = consistency`.
+- **consociationalism** — PDF p. 88, printed p. 87; Persian OCR confidence 51.4; head confidence 91.3; embedded `consociationalism`.
+- **conspiracy** — PDF p. 88, printed p. 87; Persian OCR confidence 48.6; head confidence 96.5; embedded `conspiracy`.
+- **conspiratorial** — PDF p. 88, printed p. 87; Persian OCR confidence 67.4; head confidence 52.9; embedded `conspiratorlal`.
+- **Conspirer** — PDF p. 88, printed p. 87; Persian OCR confidence 80.2; head confidence 52.5; embedded `conspirer`.
+- **constant capital** — PDF p. 88, printed p. 87; Persian OCR confidence 68.6; head confidence 48.3; embedded `constant capital`.
+- **constituent structure** — PDF p. 88, printed p. 87; Persian OCR confidence 37.6; head confidence 95.1; embedded `constituent structure`.
+- **constitutional monarchy** — PDF p. 89, printed p. 88; Persian OCR confidence 37.4; head confidence 96.1; embedded `constitutional monarchy`.
+- **constitutional patriotism** — PDF p. 89, printed p. 88; Persian OCR confidence 54.8; head confidence 96.6; embedded `constitutional patriotism`.
+- **constitutive otherness** — PDF p. 89, printed p. 88; Persian OCR confidence 43.8; head confidence 87.6; embedded `constitutive otherness`.
+- **constructed** — PDF p. 89, printed p. 88; Persian OCR confidence 52.4; head confidence 96.6; embedded `constructed`.
+- **Construction** — PDF p. 89, printed p. 88; Persian OCR confidence 76.9; head confidence 56.3; embedded `construction`.
+- **constructlonism** — PDF p. 89, printed p. 88; Persian OCR confidence 63.8; head confidence 48.8; embedded `constructlonism = constructivism`.
+- **constructivism** — PDF p. 89, printed p. 88; Persian OCR confidence 79.8; head confidence 41.9; embedded `constructivism`.
+- **consubstantiallty** — PDF p. 89, printed p. 88; Persian OCR confidence 75.5; head confidence 34.8; embedded `consubstantiallty`.
+- **consubstantiation** — PDF p. 89, printed p. 88; Persian OCR confidence 78.5; head confidence 33.5; embedded `consubstantiation`.
+- **consul** — PDF p. 89, printed p. 88; Persian OCR confidence 14.4; head confidence 70.1; embedded `consul`.
+- **consulate** — PDF p. 89, printed p. 88; Persian OCR confidence 52.4; head confidence 57.9; embedded `consulate`.
+- **consultatlve** — PDF p. 89, printed p. 88; Persian OCR confidence 88.1; head confidence 2.8; embedded `consultatlve`.
+- **consumable** — PDF p. 89, printed p. 88; Persian OCR confidence 46.0; head confidence 94.2; embedded `consumable`.
+- **consumerism** — PDF p. 90, printed p. 89; Persian OCR confidence 54.5; head confidence 96.4; embedded `consumerism`.
+- **consumerist** — PDF p. 90, printed p. 89; Persian OCR confidence 41.7; head confidence 96.8; embedded `consumerist`.
+- **consumers’ cooperation** — PDF p. 90, printed p. 89; Persian OCR confidence 49.3; head confidence 96.2; embedded `consumers' cooperation`.
+- **consumership** — PDF p. 90, printed p. 89; Persian OCR confidence 38.3; head confidence 92.5; embedded `consumership`.
+- **consummatory** — PDF p. 90, printed p. 89; Persian OCR confidence 49.5; head confidence 91.6; embedded `consummatory`.
+- **consumption** — PDF p. 90, printed p. 89; Persian OCR confidence 39.8; head confidence 96.5; embedded `consumption`.
+- **containment** — PDF p. 90, printed p. 89; Persian OCR confidence 80.7; head confidence 49.9; embedded `containment`.
+- **contemplativeness** — PDF p. 90, printed p. 89; Persian OCR confidence 65.9; head confidence 28.8; embedded `contemplativeness`.
+- **contemporaneity** — PDF p. 90, printed p. 89; Persian OCR confidence 47.9; head confidence 80.5; embedded `contemporaneity`.
+- **contemporaneous** — PDF p. 90, printed p. 89; Persian OCR confidence 53.8; head confidence 85.2; embedded `contemporaneous`.
+- **content** — PDF p. 90, printed p. 89; Persian OCR confidence 77.8; head confidence 38.5; embedded `content`.
+- **contention** — PDF p. 90, printed p. 89; Persian OCR confidence 43.6; head confidence 82.9; embedded `contention`.
+- **contentious** — PDF p. 90, printed p. 89; Persian OCR confidence 53.6; head confidence 96.0; embedded `contentious`.
+- **Contentment** — PDF p. 90, printed p. 89; Persian OCR confidence 91.7; head confidence 58.5; embedded `contentment`.
+- **content-oriented** — PDF p. 90, printed p. 89; Persian OCR confidence 79.8; head confidence 36.0; embedded `content-oriented`.
+- **conterminous** — PDF p. 90, printed p. 89; Persian OCR confidence 61.2; head confidence 38.1; embedded `conterminous`.
+- **context-bound** — PDF p. 91, printed p. 90; Persian OCR confidence 51.9; head confidence 91.0; embedded `context-bound`.
+- **contextual .r** — PDF p. 91, printed p. 90; Persian OCR confidence 67.7; head confidence 26.3; embedded `contextual .r`.
+- **contiguous** — PDF p. 91, printed p. 90; Persian OCR confidence 0; head confidence 96.3; embedded `contiguous`.
+- **contlnent** — PDF p. 91, printed p. 90; Persian OCR confidence 68.9; head confidence 9.7; embedded `contlnent`.
+- **continental shelf** — PDF p. 91, printed p. 90; Persian OCR confidence 53.4; head confidence 96.4; embedded `contlnental shelf`.
+- **Continuative** — PDF p. 91, printed p. 90; Persian OCR confidence 41.0; head confidence 67.5; embedded `continuative`.
+- **continuator** — PDF p. 91, printed p. 90; Persian OCR confidence 81.9; head confidence 49.7; embedded `continuator`.
+- **Continuous quantity** — PDF p. 91, printed p. 90; Persian OCR confidence 39.7; head confidence 77.2; embedded `continuous quantity`.
+- **contra bandage** — PDF p. 91, printed p. 90; Persian OCR confidence 91.2; head confidence 37.3; embedded `contra bandage`.
+- **contrabandlst** — PDF p. 91, printed p. 90; Persian OCR confidence 89.5; head confidence 28.5; embedded `contrabandlst`.
+- **contractarlan** — PDF p. 91, printed p. 90; Persian OCR confidence 91.5; head confidence 43.5; embedded `contractarlan`.
+- **contractarlanlsm** — PDF p. 91, printed p. 90; Persian OCR confidence 87.8; head confidence 43.1; embedded `contractarlanlsm`.
+- **contractualism** — PDF p. 92, printed p. 91; Persian OCR confidence 50.5; head confidence 91.9; embedded `contractualism`.
+- **contracture** — PDF p. 92, printed p. 91; Persian OCR confidence 24.4; head confidence 95.9; embedded `contracture`.
+- **contradiction in terms** — PDF p. 92, printed p. 91; Persian OCR confidence 43.6; head confidence 90.1; embedded `contradiction in terms`.
+- **contradlctory** — PDF p. 92, printed p. 91; Persian OCR confidence 76.8; head confidence 37.2; embedded `contradlctory`.
+- **contrafactive** — PDF p. 92, printed p. 91; Persian OCR confidence 0; head confidence 91.3; embedded `contrafactive`.
+- **contrafactual** — PDF p. 92, printed p. 91; Persian OCR confidence 0; head confidence 76.2; embedded `contrafactual`.
+- **contralateral** — PDF p. 92, printed p. 91; Persian OCR confidence 0; head confidence 96.7; embedded `contralateral`.
+- **contraries** — PDF p. 92, printed p. 91; Persian OCR confidence 85.8; head confidence 51.8; embedded `contraries`.
+- **contrariety** — PDF p. 92, printed p. 91; Persian OCR confidence 74.9; head confidence 57.2; embedded `contrariety`.
+- **contrastive** — PDF p. 92, printed p. 91; Persian OCR confidence 64.0; head confidence 24.4; embedded `contrastive`.
+- **contrastive function** — PDF p. 92, printed p. 91; Persian OCR confidence 77.9; head confidence 54.4; embedded `contrastive function`.
+- **contributive** — PDF p. 92, printed p. 91; Persian OCR confidence 86.1; head confidence 48.1; embedded `contributive`.
+- **contrite** — PDF p. 92, printed p. 91; Persian OCR confidence 79.9; head confidence 47.9; embedded `contrite`.
+- **contriteness** — PDF p. 92, printed p. 91; Persian OCR confidence 0; head confidence 94.2; embedded `contriteness = contrition`.
+- **controversial** — PDF p. 93, printed p. 92; Persian OCR confidence 64.6; head confidence 30.6; embedded `controversial`.
+- **contumaciousness contumacy** — PDF p. 93, printed p. 92; Persian OCR confidence 0; head confidence 91.9; embedded `contumaciousness contumacy`.
+- **conventional! implicature** — PDF p. 93, printed p. 92; Persian OCR confidence 37.0; head confidence 85.1; embedded `conventional implicature`.
+- **conventionalist** — PDF p. 93, printed p. 92; Persian OCR confidence 63.7; head confidence 15.4; embedded `conventionalist`.
+- **conventionality** — PDF p. 93, printed p. 92; Persian OCR confidence 56.9; head confidence 42.9; embedded `conventionality`.
+- **conventional war** — PDF p. 93, printed p. 92; Persian OCR confidence 72.3; head confidence 59.8; embedded `conventional war`.
+- **convergence** — PDF p. 93, printed p. 92; Persian OCR confidence 46.2; head confidence 96.3; embedded `convergence`.
+- **convergency** — PDF p. 93, printed p. 92; Persian OCR confidence 0; head confidence 90.2; embedded `convergency = convergence`.
+- **convergent** — PDF p. 93, printed p. 92; Persian OCR confidence 68.2; head confidence 58.3; embedded `convergent`.
+- **conversationalist** — PDF p. 93, printed p. 92; Persian OCR confidence 75.1; head confidence 59.9; embedded `conversationalist`.
+- **conversationist** — PDF p. 93, printed p. 92; Persian OCR confidence 0; head confidence 81.8; embedded `conversationist = conversationalist`.
+- **converse** — PDF p. 93, printed p. 92; Persian OCR confidence 53.3; head confidence 81.2; embedded `converse`.
+- **conversness** — PDF p. 93, printed p. 92; Persian OCR confidence 65.5; head confidence 33.0; embedded `conversness`.
+- **convincing** — PDF p. 93, printed p. 92; Persian OCR confidence 89.7; head confidence 43.3; embedded `convincing`.
+- **convincingness** — PDF p. 93, printed p. 92; Persian OCR confidence 90.7; head confidence 41.7; embedded `convincingness`.
+- **convulsion** — PDF p. 93, printed p. 92; Persian OCR confidence 45.4; head confidence 74.0; embedded `convulsion`.
+- **convulsionary** — PDF p. 93, printed p. 92; Persian OCR confidence 69.3; head confidence 34.3; embedded `convulsionary`.
+- **convulsive** — PDF p. 94, printed p. 93; Persian OCR confidence 52.6; head confidence 96.5; embedded `convulsive`.
+- **cookery** — PDF p. 94, printed p. 93; Persian OCR confidence 43.8; head confidence 96.6; embedded `cookery`.
+- **coolie** — PDF p. 94, printed p. 93; Persian OCR confidence 50.2; head confidence 90.6; embedded `coolie`.
+- **cooly** — PDF p. 94, printed p. 93; Persian OCR confidence 0; head confidence 94.1; embedded `cooly = coolie`.
+- **cooperative** — PDF p. 94, printed p. 93; Persian OCR confidence 51.6; head confidence 96.5; embedded `cooperative`.
+- **cooperative movement** — PDF p. 94, printed p. 93; Persian OCR confidence 28.7; head confidence 88.4; embedded `cooperative movement`.
+- **coordinating conjunction** — PDF p. 94, printed p. 93; Persian OCR confidence 40.9; head confidence 96.2; embedded `coordinating conjunction`.
+- **coparcener** — PDF p. 94, printed p. 93; Persian OCR confidence 58.2; head confidence 50.4; embedded `coparcener`.
+- **Copper Age** — PDF p. 94, printed p. 93; Persian OCR confidence 29.0; head confidence 94.5; embedded `Copper Age`.
+- **coproduction** — PDF p. 94, printed p. 93; Persian OCR confidence 17.4; head confidence 80.0; embedded `coproduction`.
+- **coprology** — PDF p. 94, printed p. 93; Persian OCR confidence 74.3; head confidence 25.5; embedded `coprology`.
+- **coprophilia** — PDF p. 94, printed p. 93; Persian OCR confidence 76.5; head confidence 0.0; embedded `coprophilia`.
+- **coprophobia** — PDF p. 94, printed p. 93; Persian OCR confidence 69.2; head confidence 53.9; embedded `coprophobia`.
+- **Copt** — PDF p. 94, printed p. 93; Persian OCR confidence 91.9; head confidence 36.6; embedded `Copt`.
+- **copular** — PDF p. 94, printed p. 93; Persian OCR confidence 65.6; head confidence 29.9; embedded `copular`.
+- **copulative** — PDF p. 94, printed p. 93; Persian OCR confidence 72.1; head confidence 48.6; embedded `copulative`.
+- **copy-edit** — PDF p. 94, printed p. 93; Persian OCR confidence 32.9; head confidence 52.5; embedded `copy-edit`.
+- **copy editor** — PDF p. 95, printed p. 94; Persian OCR confidence 0.0; head confidence 96.6; embedded `copy editor`.
+- **copyholder** — PDF p. 95, printed p. 94; Persian OCR confidence 54.5; head confidence 86.0; embedded `copyholder`.
+- **copyreader** — PDF p. 95, printed p. 94; Persian OCR confidence 33.0; head confidence 91.6; embedded `copyreader`.
+- **corporal** — PDF p. 95, printed p. 94; Persian OCR confidence 0; head confidence 96.4; embedded `corporal`.
+- **corporality** — PDF p. 95, printed p. 94; Persian OCR confidence 0; head confidence 91.7; embedded `corporality`.
+- **corporatism corporativism** — PDF p. 95, printed p. 94; Persian OCR confidence 0; head confidence 92.4; embedded `corporatism corporativlsm`.
+- **corporativism** — PDF p. 95, printed p. 94; Persian OCR confidence 53.3; head confidence 90.6; embedded `corporatlvism`.
+- **corporeal** — PDF p. 95, printed p. 94; Persian OCR confidence 52.2; head confidence 96.1; embedded `corporeal`.
+- **corporeality** — PDF p. 95, printed p. 94; Persian OCR confidence 75.1; head confidence 23.1; embedded `corporeality`.
+- **corporelty** — PDF p. 95, printed p. 94; Persian OCR confidence 0; head confidence 92.6; embedded `corporelty = corporeality`.
+- **corpse** — PDF p. 95, printed p. 94; Persian OCR confidence 51.1; head confidence 96.7; embedded `corpse`.
+- **Corpus hermeticum (L.)** — PDF p. 95, printed p. 94; Persian OCR confidence 52.1; head confidence 86.5; embedded `corpus hermeticum (L.)`.
+- **Corpus Juris Civilis (L.)** — PDF p. 95, printed p. 94; Persian OCR confidence 50.7; head confidence 90.9; embedded `Corpus Juris Civills (L.)`.
+- **correction** — PDF p. 95, printed p. 94; Persian OCR confidence 70.9; head confidence 45.7; embedded `correction`.
+- **correlated** — PDF p. 95, printed p. 94; Persian OCR confidence 83.8; head confidence 49.2; embedded `correlated`.
+- **correspondence** — PDF p. 95, printed p. 94; Persian OCR confidence 80.5; head confidence 31.5; embedded `correspondence`.
+- **corresponding** — PDF p. 96, printed p. 95; Persian OCR confidence 72.1; head confidence 0.0; embedded `corresponding`.
+- **corrigenda** — PDF p. 96, printed p. 95; Persian OCR confidence 24.7; head confidence 91.7; embedded `corrigenda`.
+- **corruptibility** — PDF p. 96, printed p. 95; Persian OCR confidence 39.3; head confidence 90.9; embedded `corruptibility`.
+- **cosmetic** — PDF p. 96, printed p. 95; Persian OCR confidence 51.6; head confidence 96.3; embedded `cosmetic`.
+- **cosmetician** — PDF p. 96, printed p. 95; Persian OCR confidence 41.2; head confidence 91.8; embedded `cosmetician`.
+- **cosmogenic** — PDF p. 96, printed p. 95; Persian OCR confidence 5.8; head confidence 96.5; embedded `cosmogenic`.
+- **cosmographer** — PDF p. 96, printed p. 95; Persian OCR confidence 30.4; head confidence 91.1; embedded `cosmographer`.
+- **cosmographic(-al)** — PDF p. 96, printed p. 95; Persian OCR confidence 47.2; head confidence 89.1; embedded `cosmographic(-al)`.
+- **cosmography** — PDF p. 96, printed p. 95; Persian OCR confidence 89.9; head confidence 42.6; embedded `cosmography`.
+- **cosmological** — PDF p. 96, printed p. 95; Persian OCR confidence 44.8; head confidence 86.3; embedded `cosmological`.
+- **cosmonaut** — PDF p. 96, printed p. 95; Persian OCR confidence 12.0; head confidence 77.8; embedded `cosmonaut`.
+- **cosmopolis** — PDF p. 96, printed p. 95; Persian OCR confidence 35.0; head confidence 17.0; embedded `cosmopolis`.
+- **Ccosmopolitanism** — PDF p. 96, printed p. 95; Persian OCR confidence 82.8; head confidence 49.6; embedded `cosmopolitanism`.
+- **cosmopolite** — PDF p. 96, printed p. 95; Persian OCR confidence 56.4; head confidence 36.5; embedded `cosmopolite`.
+- **cosmopolitism** — PDF p. 96, printed p. 95; Persian OCR confidence 0; head confidence 80.8; embedded `cosmopolitism = cosmopolitanism`.
+- **cosmorama** — PDF p. 96, printed p. 95; Persian OCR confidence 37.0; head confidence 58.1; embedded `cosmorama`.
+- **cosmoramic** — PDF p. 96, printed p. 95; Persian OCR confidence 47.5; head confidence 74.2; embedded `cosmoramic`.
+- **cost-effectiveness** — PDF p. 96, printed p. 95; Persian OCR confidence 88.5; head confidence 56.3; embedded `cost-effectiveness`.
+- **cotenant** — PDF p. 96, printed p. 95; Persian OCR confidence 77.1; head confidence 30.6; embedded `cotenant`.
+- **coterminous** — PDF p. 96, printed p. 95; Persian OCR confidence 33.5; head confidence 82.9; embedded `coterminous`.
+- **cottager** — PDF p. 97, printed p. 96; Persian OCR confidence 54.5; head confidence 91.6; embedded `cottager`.
+- **council** — PDF p. 97, printed p. 96; Persian OCR confidence 51.8; head confidence 95.8; embedded `council`.
+- **counteract** — PDF p. 97, printed p. 96; Persian OCR confidence 44.3; head confidence 95.7; embedded `counteract`.
+- **counteraction** — PDF p. 97, printed p. 96; Persian OCR confidence 37.4; head confidence 96.0; embedded `counteraction`.
+- **counteractivity** — PDF p. 97, printed p. 96; Persian OCR confidence 43.5; head confidence 91.6; embedded `counteractivity`.
+- **counterattack** — PDF p. 97, printed p. 96; Persian OCR confidence 36.9; head confidence 96.5; embedded `counterattack`.
+- **countercheck** — PDF p. 97, printed p. 96; Persian OCR confidence 0.0; head confidence 91.7; embedded `countercheck`.
+- **counterchecking** — PDF p. 97, printed p. 96; Persian OCR confidence 49.7; head confidence 92.5; embedded `counterchecking`.
+- **counterdiscourse** — PDF p. 97, printed p. 96; Persian OCR confidence 36.9; head confidence 92.0; embedded `counterdiscourse`.
+- **counterdomain** — PDF p. 97, printed p. 96; Persian OCR confidence 16.0; head confidence 91.0; embedded `counterdomain`.
+- **counterespionage** — PDF p. 97, printed p. 96; Persian OCR confidence 44.8; head confidence 91.6; embedded `counterespionage`.
+- **countermand** — PDF p. 97, printed p. 96; Persian OCR confidence 73.1; head confidence 39.3; embedded `countermand`.
+- **countermarch** — PDF p. 97, printed p. 96; Persian OCR confidence 32.4; head confidence 61.9; embedded `countermarch`.
+- **countermeasure** — PDF p. 97, printed p. 96; Persian OCR confidence 14.9; head confidence 96.2; embedded `countermeasure`.
+- **COunter-model** — PDF p. 97, printed p. 96; Persian OCR confidence 25.7; head confidence 77.2; embedded `counter-model`.
+- **COunter-movement** — PDF p. 97, printed p. 96; Persian OCR confidence 0.0; head confidence 59.0; embedded `counter-movement`.
+- **counter-narrative** — PDF p. 97, printed p. 96; Persian OCR confidence 79.6; head confidence 31.5; embedded `counter-narrative`.
+- **counter-nature** — PDF p. 97, printed p. 96; Persian OCR confidence 44.2; head confidence 92.3; embedded `counter-nature`.
+- **counteroffensive** — PDF p. 97, printed p. 96; Persian OCR confidence 37.5; head confidence 92.6; embedded `counteroffensive`.
+- **Counterproductive** — PDF p. 97, printed p. 96; Persian OCR confidence 64.7; head confidence 50.0; embedded `counterproductive`.
+- **counter-propaganda** — PDF p. 97, printed p. 96; Persian OCR confidence 30.5; head confidence 39.5; embedded `counter-propaganda`.
+- **Ccounterproposal** — PDF p. 97, printed p. 96; Persian OCR confidence 72.7; head confidence 53.2; embedded `counterproposal`.
+- **counter-proposition** — PDF p. 97, printed p. 96; Persian OCR confidence 90.8; head confidence 29.3; embedded `counter-proposition`.
+- **counterreformation** — PDF p. 97, printed p. 96; Persian OCR confidence 54.4; head confidence 48.3; embedded `counterreformatlon`.
+- **counterrevolutlon** — PDF p. 97, printed p. 96; Persian OCR confidence 77.3; head confidence 40.0; embedded `counterrevolutlon`.
+- **countersign** — PDF p. 97, printed p. 96; Persian OCR confidence 73.3; head confidence 43.9; embedded `countersign`.
+- **counterterrorism** — PDF p. 97, printed p. 96; Persian OCR confidence 61.5; head confidence 51.9; embedded `counterterrorism`.
+- **counterwill** — PDF p. 97, printed p. 96; Persian OCR confidence 61.3; head confidence 52.2; embedded `counterwlll`.
+- **COunt noun** — PDF p. 97, printed p. 96; Persian OCR confidence 79.7; head confidence 57.9; embedded `count noun`.
+- **countrified** — PDF p. 97, printed p. 96; Persian OCR confidence 75.7; head confidence 51.0; embedded `countrified`.
+- **countrytied** — PDF p. 98, printed p. 97; Persian OCR confidence 0; head confidence 91.1; embedded `countrytied = countrified`.
+- **country music** — PDF p. 98, printed p. 97; Persian OCR confidence 53.3; head confidence 96.6; embedded `country music`.
+- **coup coup d’état** — PDF p. 98, printed p. 97; Persian OCR confidence 0; head confidence 93.2; embedded `coup coup d'etat`.
+- **coup d'état (Fr.)** — PDF p. 98, printed p. 97; Persian OCR confidence 48.3; head confidence 68.9; embedded `coup d'etat (Fr.)`.
+- **covenantee** — PDF p. 98, printed p. 97; Persian OCR confidence 54.2; head confidence 42.6; embedded `covenantee`.
+- **Covenanter** — PDF p. 98, printed p. 97; Persian OCR confidence 86.1; head confidence 46.4; embedded `covenanter`.
+- **Coy** — PDF p. 98, printed p. 97; Persian OCR confidence 0; head confidence 82.2; embedded `coy`.
+- **craft** — PDF p. 98, printed p. 97; Persian OCR confidence 76.0; head confidence 48.2; embedded `craft`.
+- **craftsperson** — PDF p. 98, printed p. 97; Persian OCR confidence 88.9; head confidence 42.7; embedded `craftsperson`.
+- **Cranial** — PDF p. 98, printed p. 97; Persian OCR confidence 46.2; head confidence 60.1; embedded `cranial`.
+- **Craniology** — PDF p. 98, printed p. 97; Persian OCR confidence 17.1; head confidence 47.0; embedded `cranlology`.
+- **craniometry** — PDF p. 98, printed p. 97; Persian OCR confidence 80.7; head confidence 45.2; embedded `craniometry`.
+- **cranium** — PDF p. 98, printed p. 97; Persian OCR confidence 92.0; head confidence 43.0; embedded `cranium`.
+- **Creative activity** — PDF p. 99, printed p. 98; Persian OCR confidence 68.1; head confidence 51.7; embedded `creative activity`.
+- **credo creed** — PDF p. 99, printed p. 98; Persian OCR confidence 0; head confidence 93.5; embedded `credo creed`.
+- **Creediess** — PDF p. 99, printed p. 98; Persian OCR confidence 64.7; head confidence 50.3; embedded `creed less`.
+- **cremains** — PDF p. 99, printed p. 98; Persian OCR confidence 80.9; head confidence 58.0; embedded `cremains`.
+- **cremationist** — PDF p. 99, printed p. 98; Persian OCR confidence 54.7; head confidence 92.4; embedded `cremationist`.
+- **crematorium crematory** — PDF p. 99, printed p. 98; Persian OCR confidence 0; head confidence 81.8; embedded `crematorium crematory`.
+- **Crematory** — PDF p. 99, printed p. 98; Persian OCR confidence 51.5; head confidence 63.0; embedded `crematory`.
+- **Creole** — PDF p. 99, printed p. 98; Persian OCR confidence 83.7; head confidence 48.8; embedded `Creole`.
+- **cretin** — PDF p. 99, printed p. 98; Persian OCR confidence 59.5; head confidence 10.4; embedded `cretin`.
+- **cretinism** — PDF p. 99, printed p. 98; Persian OCR confidence 85.5; head confidence 33.3; embedded `cretinism`.
+- **crlminal** — PDF p. 99, printed p. 98; Persian OCR confidence 68.2; head confidence 28.3; embedded `crlminal`.
+- **criminal argot** — PDF p. 99, printed p. 98; Persian OCR confidence 77.1; head confidence 30.2; embedded `criminal argot`.
+- **criminal biology** — PDF p. 99, printed p. 98; Persian OCR confidence 91.6; head confidence 55.3; embedded `criminal blology`.
+- **criminal fence** — PDF p. 100, printed p. 99; Persian OCR confidence 38.8; head confidence 96.2; embedded `criminal fence`.
+- **criminal intent** — PDF p. 100, printed p. 99; Persian OCR confidence 54.2; head confidence 95.9; embedded `criminal intent`.
+- **criminal organization** — PDF p. 100, printed p. 99; Persian OCR confidence 0; head confidence 96.7; embedded `criminal organization`.
+- **criminative criminatory** — PDF p. 100, printed p. 99; Persian OCR confidence 0; head confidence 91.9; embedded `criminative criminatory`.
+- **criminogenic** — PDF p. 100, printed p. 99; Persian OCR confidence 24.7; head confidence 90.7; embedded `criminogenic`.
+- **criminological** — PDF p. 100, printed p. 99; Persian OCR confidence 0.3; head confidence 96.0; embedded `criminological`.
+- **criminologist** — PDF p. 100, printed p. 99; Persian OCR confidence 30.8; head confidence 96.5; embedded `criminologist`.
+- **criteriology** — PDF p. 100, printed p. 99; Persian OCR confidence 38.8; head confidence 90.9; embedded `criteriology`.
+- **criterion** — PDF p. 100, printed p. 99; Persian OCR confidence 71.1; head confidence 38.9; embedded `criterion`.
+- **critical moment** — PDF p. 100, printed p. 99; Persian OCR confidence 50.4; head confidence 95.3; embedded `critical moment`.
+- **critical path** — PDF p. 100, printed p. 99; Persian OCR confidence 48.8; head confidence 77.5; embedded `critical path`.
+- **criticism** — PDF p. 100, printed p. 99; Persian OCR confidence 90.7; head confidence 54.2; embedded `criticism`.
+- **critique of knowledge** — PDF p. 100, printed p. 99; Persian OCR confidence 13.7; head confidence 91.4; embedded `critique of knowledge`.
+- **crony** — PDF p. 101, printed p. 100; Persian OCR confidence 50.5; head confidence 91.6; embedded `crony`.
+- **crop-sharing** — PDF p. 101, printed p. 100; Persian OCR confidence 44.1; head confidence 92.3; embedded `crop-sharing`.
+- **cross-examination** — PDF p. 101, printed p. 100; Persian OCR confidence 25.1; head confidence 92.3; embedded `cross-examination`.
+- **cross-index** — PDF p. 101, printed p. 100; Persian OCR confidence 49.2; head confidence 92.2; embedded `cross-index`.
+- **cruciality** — PDF p. 101, printed p. 100; Persian OCR confidence 45.4; head confidence 76.9; embedded `cruciality`.
+- **crucification** — PDF p. 101, printed p. 100; Persian OCR confidence 81.7; head confidence 59.8; embedded `crucification`.
+- **crude** — PDF p. 101, printed p. 100; Persian OCR confidence 77.0; head confidence 0.0; embedded `crude`.
+- **crudity** — PDF p. 101, printed p. 100; Persian OCR confidence 83.4; head confidence 0.0; embedded `crudity`.
+- **crusading** — PDF p. 101, printed p. 100; Persian OCR confidence 89.8; head confidence 0.0; embedded `crusading`.
+- **cryptaesthesla** — PDF p. 101, printed p. 100; Persian OCR confidence 84.6; head confidence 6.1; embedded `cryptaesthesla`.
+- **cryptanalysis** — PDF p. 101, printed p. 100; Persian OCR confidence 44.7; head confidence 58.2; embedded `cryptanalysis`.
+- **cryptogram** — PDF p. 101, printed p. 100; Persian OCR confidence 77.6; head confidence 38.9; embedded `cryptogram`.
+- **cryptomnesia** — PDF p. 101, printed p. 100; Persian OCR confidence 86.2; head confidence 33.3; embedded `cryptomnesia`.
+- **cuisine** — PDF p. 102, printed p. 101; Persian OCR confidence 19.0; head confidence 94.2; embedded `cuisine`.
+- **culpable homicide** — PDF p. 102, printed p. 101; Persian OCR confidence 48.8; head confidence 96.3; embedded `culpable homicide`.
+- **cultic** — PDF p. 102, printed p. 101; Persian OCR confidence 26.9; head confidence 88.2; embedded `cultic`.
+- **cultural** — PDF p. 102, printed p. 101; Persian OCR confidence 54.0; head confidence 96.2; embedded `cultural`.
+- **cultural attitude** — PDF p. 102, printed p. 101; Persian OCR confidence 43.0; head confidence 96.4; embedded `cultural attitude`.
+- **cultural convergence** — PDF p. 102, printed p. 101; Persian OCR confidence 52.8; head confidence 86.4; embedded `cultural convergence`.
+- **cultural determinism** — PDF p. 102, printed p. 101; Persian OCR confidence 52.5; head confidence 96.4; embedded `cultural determinism`.
+- **cultural heritage** — PDF p. 102, printed p. 101; Persian OCR confidence 6.6; head confidence 81.4; embedded `cultural heritage`.
+- **cultural hibernation** — PDF p. 102, printed p. 101; Persian OCR confidence 50.8; head confidence 78.8; embedded `cultural hibernation`.
+- **Culturalist** — PDF p. 102, printed p. 101; Persian OCR confidence 56.9; head confidence 49.5; embedded `culturalist`.
+- **culturalism** — PDF p. 102, printed p. 101; Persian OCR confidence 91.2; head confidence 9.6; embedded `culturalism`.
+- **culturalist** — PDF p. 102, printed p. 101; Persian OCR confidence 83.1; head confidence 32.8; embedded `culturalist`.
+- **cultural relativism** — PDF p. 102, printed p. 101; Persian OCR confidence 45.1; head confidence 90.6; embedded `cultural relativism`.
+- **Cultural relativity** — PDF p. 102, printed p. 101; Persian OCR confidence 42.6; head confidence 85.4; embedded `cultural relativity`.
+- **cultural shift** — PDF p. 102, printed p. 101; Persian OCR confidence 0; head confidence 90.7; embedded `cultural shift`.
+- **cultural studies** — PDF p. 102, printed p. 101; Persian OCR confidence 0; head confidence 96.6; embedded `cultural studies`.
+- **Cultural substitution** — PDF p. 102, printed p. 101; Persian OCR confidence 0; head confidence 91.3; embedded `cultural substitution`.
+- **Cultural theme** — PDF p. 102, printed p. 101; Persian OCR confidence 23.4; head confidence 79.9; embedded `cultural theme`.
+- **cultural trait** — PDF p. 102, printed p. 101; Persian OCR confidence 0; head confidence 96.3; embedded `cultural trait`.
+- **Cultural turn** — PDF p. 102, printed p. 101; Persian OCR confidence 0.0; head confidence 88.9; embedded `cultural turn`.
+- **culture-bound** — PDF p. 103, printed p. 102; Persian OCR confidence 27.9; head confidence 92.1; embedded `culture-bound`.
+- **culture configuration** — PDF p. 103, printed p. 102; Persian OCR confidence 51.9; head confidence 80.2; embedded `culture configuration`.
+- **culture vulture** — PDF p. 103, printed p. 102; Persian OCR confidence 0; head confidence 96.3; embedded `culture vulture`.
+- **culturist** — PDF p. 103, printed p. 102; Persian OCR confidence 0; head confidence 92.0; embedded `culturist`.
+- **culturologist** — PDF p. 103, printed p. 102; Persian OCR confidence 0; head confidence 91.5; embedded `culturologist`.
+- **culturology** — PDF p. 103, printed p. 102; Persian OCR confidence 0; head confidence 92.4; embedded `culturology`.
+- **cumulation** — PDF p. 103, printed p. 102; Persian OCR confidence 54.2; head confidence 96.0; embedded `cumulation`.
+- **cunnilingus** — PDF p. 103, printed p. 102; Persian OCR confidence 40.4; head confidence 96.2; embedded `cunnilingus`.
+- **cupping** — PDF p. 103, printed p. 102; Persian OCR confidence 43.0; head confidence 95.8; embedded `cupping`.
+- **curability** — PDF p. 103, printed p. 102; Persian OCR confidence 44.8; head confidence 30.9; embedded `curability`.
+- **Curatorship** — PDF p. 103, printed p. 102; Persian OCR confidence 91.1; head confidence 57.4; embedded `curatorship`.
+- **curiosity** — PDF p. 103, printed p. 102; Persian OCR confidence 68.1; head confidence 38.0; embedded `curiosity`.
+- **current price** — PDF p. 103, printed p. 102; Persian OCR confidence 46.0; head confidence 93.6; embedded `current price`.
+- **Curriculum vitae (L.)** — PDF p. 103, printed p. 102; Persian OCR confidence 40.0; head confidence 86.1; embedded `curriculum vitae (L.)`.
+- **curve** — PDF p. 104, printed p. 103; Persian OCR confidence 39.0; head confidence 96.6; embedded `curve`.
+- **curvilinear** — PDF p. 104, printed p. 103; Persian OCR confidence 50.6; head confidence 96.3; embedded `curvilinear`.
+- **curvilinear ornament a5** — PDF p. 104, printed p. 103; Persian OCR confidence 46.8; head confidence 46.8; embedded `curvilinear ornament`.
+- **customariness** — PDF p. 104, printed p. 103; Persian OCR confidence 0; head confidence 89.8; embedded `customariness`.
+- **customary** — PDF p. 104, printed p. 103; Persian OCR confidence 0; head confidence 96.3; embedded `customary`.
+- **custom-built** — PDF p. 104, printed p. 103; Persian OCR confidence 48.3; head confidence 94.5; embedded `custom-built`.
+- **customized** — PDF p. 104, printed p. 103; Persian OCR confidence 16.9; head confidence 96.9; embedded `customized`.
+- **customs agency** — PDF p. 104, printed p. 103; Persian OCR confidence 51.1; head confidence 96.5; embedded `customs agency`.
+- **cutthroat competition** — PDF p. 104, printed p. 103; Persian OCR confidence 47.2; head confidence 93.9; embedded `cutthroat competition`.
+- **cyberintelligence** — PDF p. 104, printed p. 103; Persian OCR confidence 75.2; head confidence 23.8; embedded `cyberintelligence`.
+- **cybernetic** — PDF p. 104, printed p. 103; Persian OCR confidence 54.1; head confidence 64.1; embedded `cybernetic`.
+- **cyberneticist** — PDF p. 104, printed p. 103; Persian OCR confidence 73.8; head confidence 38.0; embedded `cyberneticist`.
+- **cyberphobic** — PDF p. 104, printed p. 103; Persian OCR confidence 85.3; head confidence 49.7; embedded `cyberphobic`.
+- **cyborg** — PDF p. 104, printed p. 103; Persian OCR confidence 7.6; head confidence 96.7; embedded `cyborg`.
+- **cycllc(-al)** — PDF p. 104, printed p. 103; Persian OCR confidence 0; head confidence 13.6; embedded `cycllc(-al)`.
+- **cyclical unemployment** — PDF p. 104, printed p. 103; Persian OCR confidence 54.8; head confidence 90.0; embedded `cyclical unemployment`.
+- **cycloid** — PDF p. 104, printed p. 103; Persian OCR confidence 65.2; head confidence 48.0; embedded `cycloid`.
+- **cyclopaedia cyclopedia** — PDF p. 104, printed p. 103; Persian OCR confidence 0; head confidence 79.1; embedded `cyclopaedia cyclopedia`.
+- **cyclopedia** — PDF p. 104, printed p. 103; Persian OCR confidence 86.3; head confidence 51.5; embedded `cyclopedia`.
+- **cyclothyme cyclothymic** — PDF p. 104, printed p. 103; Persian OCR confidence 0; head confidence 92.3; embedded `cyclothyme cyclothymic`.
+- **cyclothymla** — PDF p. 104, printed p. 103; Persian OCR confidence 72.7; head confidence 40.1; embedded `cyclothymla`.
+- **cyclothymic** — PDF p. 104, printed p. 103; Persian OCR confidence 86.5; head confidence 23.4; embedded `cyclothymic`.
+- **czardom** — PDF p. 105, printed p. 104; Persian OCR confidence 89.8; head confidence 35.7; embedded `czardom`.
+- **czarevitch** — PDF p. 105, printed p. 104; Persian OCR confidence 63.3; head confidence 25.9; embedded `czarevitch`.
+- **czarism** — PDF p. 105, printed p. 104; Persian OCR confidence 89.5; head confidence 18.0; embedded `czarism`.
