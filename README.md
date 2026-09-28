@@ -57,7 +57,7 @@ C00
 
 - [متن کتاب](sources/revisiting-zero-hour-1945-structured.md)
 - [آریان‌پور، متن خواندنی](translation-references/aryanpour/aryanpour-english-persian.txt)
-- فرهنگ هزاره: هشت فایل متنی در `sources/`؛ بخش‌های بازبینی‌شده از متن خام تشخیص ماشینی تفکیک شده‌اند.
+- [فرهنگ هزاره و نمایهٔ جست‌وجو](sources/Hezareh_Dictionary_Index/README.md): هشت فایل Markdown در `sources/Hezareh_Dictionary_Index/source/`؛ وضعیت بازبینی هر نتیجه باید همراه ارجاع آن حفظ شود.
 - [فرهنگ علوم انسانی آشوری](<sources/Ashouri — فرهنگ علوم انسانی.pdf>)
 - [فرهنگ طیفی](<sources/فرهنگ طیفی - تزاروس فارسی.docx>)
 - [غلط ننویسیم نجفی](<sources/Najafi — غلط ننویسیم.pdf>)

@@ -130,18 +130,24 @@ Do not attribute a wording to Ariyanpour unless the relevant entry has actually 
 
 ## 3.2 Hezareh
 
-The supplied Hezareh dictionary is available in eight text files:
+The current supplied Hezareh package contains eight Markdown extractions:
 
 ```text
-sources/Hezareh_Part_01_PDF_0001-0250.txt
-sources/Hezareh_Part_02_PDF_0251-0500.txt
-sources/Hezareh_Part_03_PDF_0501-0750.txt
-sources/Hezareh_Part_04_PDF_0751-1000.txt
-sources/Hezareh_Part_05_PDF_1001-1250.txt
-sources/Hezareh_Part_06_PDF_1251-1500.txt
-sources/Hezareh_Part_07_PDF_1501-1750.txt
-sources/Hezareh_Part_08_PDF_1751-1976.txt
+sources/Hezareh_Dictionary_Index/source/Hezareh_Part_01_PDF_0001-0250.md
+sources/Hezareh_Dictionary_Index/source/Hezareh_Part_02_PDF_0251-0500.md
+sources/Hezareh_Dictionary_Index/source/Hezareh_Part_03_PDF_0501-0750.md
+sources/Hezareh_Dictionary_Index/source/Hezareh_Part_04_PDF_0751-1000.md
+sources/Hezareh_Dictionary_Index/source/Hezareh_Part_05_PDF_1001-1250.md
+sources/Hezareh_Dictionary_Index/source/Hezareh_Part_06_PDF_1251-1500.md
+sources/Hezareh_Dictionary_Index/source/Hezareh_Part_07_PDF_1501-1750.md
+sources/Hezareh_Dictionary_Index/source/Hezareh_Part_08_PDF_1751-1976.md
 ```
+
+The former top-level `.txt` paths are historical and are no longer present in the current checkout. The package's nested `source/` directory is intentional; it is not a typo for the project's `sources/` directory.
+
+The supplied [index package](../sources/Hezareh_Dictionary_Index/README.md) provides lookup records and a [lookup script](../sources/Hezareh_Dictionary_Index/dictionary-index/hezareh_lookup.py). Treat the whole supplied package as read-only. Its internal example architecture is package documentation, not a replacement for this project's layout or workflow.
+
+The index is a retrieval aid, not independent lexical evidence. Resolve its `source/...#L...` pointers relative to `sources/Hezareh_Dictionary_Index/`, inspect the cited extraction, and retain the PDF page and verification status. `visually_checked` records report the supplied package's review status; they do not establish that the current mentor checked the original PDF. `raw_ocr` and `hint_only` results require appropriate qualification. The original Hezareh PDF is not present in the tracked source collection; request the relevant page when extraction cannot support a consequential choice.
 
 Hezareh is an **active bilingual vocabulary reference**, not merely a backup for Ariyanpour.
 
@@ -300,6 +306,8 @@ Primary project file:
 `sources/فرهنگ طیفی - تزاروس فارسی.docx`
 
 This Word document is the active project source for exploring Persian semantic relationships and related expressions.
+
+A supplied [Markdown version](<../sources/فرهنگ طیفی - تزاروس فارسی.md>) is also available for searching and locating entries. Its equivalence to the Word document has not been fully verified. Check the relevant entry against the Word document before relying on questionable extraction; do not assume that Markdown conversion validates the wording. Both supplied files remain read-only.
 
 ### Role
 

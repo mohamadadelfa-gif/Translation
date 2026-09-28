@@ -14,6 +14,8 @@ $index.Add('# Revisiting Zero Hour 1945 — Translation Map')
 $index.Add('')
 $index.Add('## How to use this structure')
 $index.Add('')
+$index.Add('The `Cxx-Sxx` identifiers below are structural translation units, not fixed 300-word mentoring sessions. For daily practice, divide the current unit into coherent 250–350-word chunks identified as `Cxx-Sxx-P01`, `P02`, and so on, guided primarily by paragraph and argument logic. Record each chunk''s exact source boundaries and draft/review/approval state in [PROGRESS.md](../PROGRESS.md). Sentence IDs such as `C00-S02-P03-SEN01` are optional analytical aids. These divisions must not alter the source text.')
+$index.Add('')
 $index.Add('1. Read the introduction and establish translation conventions and a shared glossary.')
 $index.Add('2. Translate the introduction (C00), then the five essays (C01–C05) in order, one numbered unit at a time.')
 $index.Add('3. Use the full chapter as context. Consult its endnotes while translating each unit; translate the endnotes after the chapter body.')
@@ -23,7 +25,16 @@ $index.Add('')
 $index.Add('Chapter codes and translation-unit headings are editorial aids added for this project, not numbering or titles supplied by the authors. Original headings, text, spelling, citations, and endnotes are preserved. Units follow original sections and paragraph boundaries; word counts are approximate. Very short original sections remain intact. Boundaries in long passages are practical working divisions and can be adjusted during translation.')
 $index.Add('')
 $index.Add('[Complete structured source](revisiting-zero-hour-1945-structured.md) · [Front matter](front-matter.md)')
-[IO.File]::WriteAllText((Join-Path $out 'front-matter.md'), $front)
+# Standalone front matter needs file links; keep the full source's anchors intact.
+$frontLinkState = @{ Count = 0 }
+$standaloneFront = [regex]::Replace($front, '(?m)^- (\[[^\r\n]+\])\(#[^)]+\)( — [^\r\n]+)$', {
+    param($match)
+    $target = 'C{0:D2}.md' -f $frontLinkState.Count
+    $frontLinkState.Count++
+    '- ' + $match.Groups[1].Value + '(' + $target + ')' + $match.Groups[2].Value
+})
+if ($frontLinkState.Count -ne 6) { throw 'Expected six chapter links in standalone front matter.' }
+[IO.File]::WriteAllText((Join-Path $out 'front-matter.md'), $standaloneFront)
 $unitCount = 0
 for ($c = 0; $c -lt $starts.Count; $c++) {
     $start = $starts[$c].Index
@@ -50,7 +61,8 @@ for ($c = 0; $c -lt $starts.Count; $c++) {
     $previous = ''
     foreach ($b in $blocks) {
         $text = $b.Value.Trim()
-        if ($text -match '^### (.+)') {
+        # This original subsection is bold in the supplied source, not a ### heading.
+        if ($text -match '^### (.+)' -or $text -match '^\*\*(The Origins of the Term “Zero Hour”)\*\*$') {
             if ($active) { $index.Add("| $code-S$('{0:D2}' -f $unit) | $section | $words |") }
             $active = $false; $words = 0; $section = $Matches[1]
             if ($section -eq 'Endnotes') { $notes = $true }
