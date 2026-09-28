@@ -1,0 +1,318 @@
+# E — OCR / Transcription Review Queue
+
+These flags identify entries needing visual checking before exact quotation or final terminology decisions.
+
+- **Easter** — PDF p. 135, printed p. 134; Persian OCR confidence 11.3.
+- **Eblis (Ar.)** — PDF p. 135, printed p. 134; Persian OCR confidence 19.8.
+- **eccentricity** — PDF p. 136, printed p. 135; Persian OCR confidence 45.2.
+- **ecclesiarch** — PDF p. 136, printed p. 135; Persian OCR confidence 25.6.
+- **ecclesiasticism** — PDF p. 136, printed p. 135; Persian OCR confidence 51.3.
+- **echelon** — PDF p. 136, printed p. 135; Persian OCR confidence 29.9.
+- **echoism** — PDF p. 136, printed p. 135; Persian OCR confidence 0.
+- **echokinesis** — PDF p. 136, printed p. 135; Persian OCR confidence 0.
+- **echolalia** — PDF p. 136, printed p. 135; Persian OCR confidence 0.
+- **echopathy** — PDF p. 136, printed p. 135; Persian OCR confidence 0.
+- **echophrasia** — PDF p. 136, printed p. 135; Persian OCR confidence 0.
+- **echopraxia = echopraxis** — PDF p. 136, printed p. 135; Persian OCR confidence 0.
+- **éclaircissement (Fr.)** — PDF p. 136, printed p. 135; Persian OCR confidence 41.1.
+- **ecocidal** — PDF p. 136, printed p. 135; Persian OCR confidence 0.0.
+- **ecocline** — PDF p. 136, printed p. 135; Persian OCR confidence 0.2.
+- **ecofeminism** — PDF p. 136, printed p. 135; Persian OCR confidence 0.0.
+- **ecology of language** — PDF p. 137, printed p. 136; Persian OCR confidence 45.6.
+- **econometrist** — PDF p. 137, printed p. 136; Persian OCR confidence 49.9.
+- **economic fluctuation** — PDF p. 137, printed p. 136; Persian OCR confidence 53.7.
+- **@CONOMic policy** — PDF p. 137, printed p. 136; Persian OCR confidence 0.
+- **economic prosperity** — PDF p. 137, printed p. 136; Persian OCR confidence 22.4.
+- **economic recession** — PDF p. 137, printed p. 136; Persian OCR confidence 0.
+- **economic region** — PDF p. 137, printed p. 136; Persian OCR confidence 0.
+- **economic rent** — PDF p. 137, printed p. 136; Persian OCR confidence 0.
+- **ecophysiologist** — PDF p. 138, printed p. 137; Persian OCR confidence 43.8.
+- **eco-socialist** — PDF p. 138, printed p. 137; Persian OCR confidence 48.9.
+- **ecosphere** — PDF p. 138, printed p. 137; Persian OCR confidence 38.9.
+- **ecosystem** — PDF p. 138, printed p. 137; Persian OCR confidence 52.9.
+- **ecotage** — PDF p. 138, printed p. 137; Persian OCR confidence 42.1.
+- **ecotopia** — PDF p. 138, printed p. 137; Persian OCR confidence 54.6.
+- **ecotourism** — PDF p. 138, printed p. 137; Persian OCR confidence 40.8.
+- **ecotoxicological** — PDF p. 138, printed p. 137; Persian OCR confidence 22.4.
+- **ecotoxicologist** — PDF p. 138, printed p. 137; Persian OCR confidence 37.2.
+- **ecotoxicology** — PDF p. 138, printed p. 137; Persian OCR confidence 32.8.
+- **ectomorphic = ectomorph** — PDF p. 138, printed p. 137; Persian OCR confidence 0.
+- **ectomorphy** — PDF p. 138, printed p. 137; Persian OCR confidence 41.6.
+- **ecumenicism = ecumenism** — PDF p. 138, printed p. 137; Persian OCR confidence 0.
+- **ecumenicity = ecumenicism** — PDF p. 138, printed p. 137; Persian OCR confidence 0.
+- **edibility** — PDF p. 138, printed p. 137; Persian OCR confidence 20.8.
+- **edibleness = edibility** — PDF p. 138, printed p. 137; Persian OCR confidence 0.
+- **edited** — PDF p. 138, printed p. 137; Persian OCR confidence 9.7.
+- **editor in chief** — PDF p. 138, printed p. 137; Persian OCR confidence 39.4.
+- **educable** — PDF p. 138, printed p. 137; Persian OCR confidence 37.9.
+- **educational age** — PDF p. 138, printed p. 137; Persian OCR confidence 48.6.
+- **educational guidance** — PDF p. 138, printed p. 137; Persian OCR confidence 0.
+- **Y** — PDF p. 138, printed p. 137; Persian OCR confidence 48.3.
+- **educational opportunity** — PDF p. 138, printed p. 137; Persian OCR confidence 47.2.
+- **educational sociology** — PDF p. 139, printed p. 138; Persian OCR confidence 53.7.
+- **educative = educational** — PDF p. 139, printed p. 138; Persian OCR confidence 0.
+- **educator** — PDF p. 139, printed p. 138; Persian OCR confidence 0.
+- **educible** — PDF p. 139, printed p. 138; Persian OCR confidence 0.
+- **effectivity = effectiveness** — PDF p. 139, printed p. 138; Persian OCR confidence 0.
+- **egocentricity** — PDF p. 139, printed p. 138; Persian OCR confidence 52.3.
+- **egocentrism = egocentricism** — PDF p. 139, printed p. 138; Persian OCR confidence 0.
+- **ego involvement** — PDF p. 139, printed p. 138; Persian OCR confidence 43.1.
+- **ego neurosis** — PDF p. 139, printed p. 138; Persian OCR confidence 0.
+- **Egypticity** — PDF p. 140, printed p. 139; Persian OCR confidence 54.4.
+- **elastic** — PDF p. 140, printed p. 139; Persian OCR confidence 36.6.
+- **elder** — PDF p. 140, printed p. 139; Persian OCR confidence 16.1.
+- **elder statesman** — PDF p. 140, printed p. 139; Persian OCR confidence 19.6.
+- **electiveness** — PDF p. 140, printed p. 139; Persian OCR confidence 0.
+- **elector** — PDF p. 140, printed p. 139; Persian OCR confidence 0.
+- **electoral** — PDF p. 140, printed p. 139; Persian OCR confidence 0.
+- **elementalism** — PDF p. 140, printed p. 139; Persian OCR confidence 53.9.
+- **elementariness** — PDF p. 140, printed p. 139; Persian OCR confidence 45.3.
+- **eliminativism** — PDF p. 141, printed p. 140; Persian OCR confidence 52.2.
+- **eliminativist** — PDF p. 141, printed p. 140; Persian OCR confidence 38.9.
+- **eliminatory = eliminative** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **elite; élite** — PDF p. 141, printed p. 140; Persian OCR confidence 50.1.
+- **ellipsis** — PDF p. 141, printed p. 140; Persian OCR confidence 50.6.
+- **elliptic(-al)** — PDF p. 141, printed p. 140; Persian OCR confidence 47.3.
+- **eloquentness = eloquence** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **emanatism = emanationism** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **emanatist = emanationist** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **emancipation** — PDF p. 141, printed p. 140; Persian OCR confidence 22.1.
+- **emancipative** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **emancipator** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **emasculation** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **emasculatory = emasculative** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **embellishment** — PDF p. 141, printed p. 140; Persian OCR confidence 53.2.
+- **embezzlement** — PDF p. 141, printed p. 140; Persian OCR confidence 53.7.
+- **embodiment** — PDF p. 141, printed p. 140; Persian OCR confidence 54.1.
+- **embryo** — PDF p. 141, printed p. 140; Persian OCR confidence 53.3.
+- **embryonal = embryonic** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **embryonic .r** — PDF p. 141, printed p. 140; Persian OCR confidence 52.8.
+- **emeer = emir** — PDF p. 141, printed p. 140; Persian OCR confidence 0.
+- **emerging market** — PDF p. 142, printed p. 141; Persian OCR confidence 50.8.
+- **emotional baggage** — PDF p. 142, printed p. 141; Persian OCR confidence 20.7.
+- **emotional blocking** — PDF p. 142, printed p. 141; Persian OCR confidence 27.1.
+- **emotional disturbance** — PDF p. 142, printed p. 141; Persian OCR confidence 34.0.
+- **emotional growth** — PDF p. 142, printed p. 141; Persian OCR confidence 35.1.
+- **emperor cult** — PDF p. 143, printed p. 142; Persian OCR confidence 54.8.
+- **emphatic** — PDF p. 143, printed p. 142; Persian OCR confidence 34.5.
+- **empire** — PDF p. 143, printed p. 142; Persian OCR confidence 0.
+- **empiric** — PDF p. 143, printed p. 142; Persian OCR confidence 0.
+- **empirical realism** — PDF p. 143, printed p. 142; Persian OCR confidence 0.
+- **empirical reality** — PDF p. 143, printed p. 142; Persian OCR confidence 0.
+- **empiricism** — PDF p. 143, printed p. 142; Persian OCR confidence 34.5.
+- **empirics** — PDF p. 143, printed p. 142; Persian OCR confidence 0.
+- **empiriocriticism** — PDF p. 143, printed p. 142; Persian OCR confidence 35.3.
+- **empiriomonism** — PDF p. 143, printed p. 142; Persian OCR confidence 34.9.
+- **employee** — PDF p. 143, printed p. 142; Persian OCR confidence 25.6.
+- **employer** — PDF p. 143, printed p. 142; Persian OCR confidence 49.8.
+- **emptiness** — PDF p. 143, printed p. 142; Persian OCR confidence 35.3.
+- **enamelware** — PDF p. 143, printed p. 142; Persian OCR confidence 53.8.
+- **encomiast** — PDF p. 143, printed p. 142; Persian OCR confidence 27.9.
+- **encomiastic(-al)** — PDF p. 143, printed p. 142; Persian OCR confidence 51.3.
+- **encyclopaedia** — PDF p. 144, printed p. 143; Persian OCR confidence 53.5.
+- **endangered language** — PDF p. 144, printed p. 143; Persian OCR confidence 45.2.
+- **ending** — PDF p. 144, printed p. 143; Persian OCR confidence 52.6.
+- **endocentric** — PDF p. 144, printed p. 143; Persian OCR confidence 35.0.
+- **endocentric construction** — PDF p. 144, printed p. 143; Persian OCR confidence 50.9.
+- **endogene = endogenic** — PDF p. 144, printed p. 143; Persian OCR confidence 0.
+- **endogenic** — PDF p. 144, printed p. 143; Persian OCR confidence 22.1.
+- **endogenous = endogenic** — PDF p. 144, printed p. 143; Persian OCR confidence 0.
+- **endomorph = endomorphic** — PDF p. 144, printed p. 143; Persian OCR confidence 0.
+- **endomorphic** — PDF p. 144, printed p. 143; Persian OCR confidence 53.9.
+- **endomorphy** — PDF p. 144, printed p. 143; Persian OCR confidence 43.4.
+- **endophasia** — PDF p. 144, printed p. 143; Persian OCR confidence 49.0.
+- **endoxon (Gr)** — PDF p. 144, printed p. 143; Persian OCR confidence 50.4.
+- **energy-intensive** — PDF p. 144, printed p. 143; Persian OCR confidence 37.4.
+- **engagé (Fr.)** — PDF p. 145, printed p. 144; Persian OCR confidence 44.8.
+- **engraving** — PDF p. 145, printed p. 144; Persian OCR confidence 25.2.
+- **enlightening** — PDF p. 145, printed p. 144; Persian OCR confidence 49.7.
+- **ennead** — PDF p. 145, printed p. 144; Persian OCR confidence 36.2.
+- **entelecheia (Gr.) = entelechy** — PDF p. 145, printed p. 144; Persian OCR confidence 0.
+- **enthusiastic** — PDF p. 145, printed p. 144; Persian OCR confidence 49.4.
+- **enuresis** — PDF p. 146, printed p. 145; Persian OCR confidence 53.5.
+- **enuretic** — PDF p. 146, printed p. 145; Persian OCR confidence 54.5.
+- **environmentalism** — PDF p. 146, printed p. 145; Persian OCR confidence 51.2.
+- **epenthetic** — PDF p. 146, printed p. 145; Persian OCR confidence 39.6.
+- **epicheirema (Gr.)** — PDF p. 146, printed p. 145; Persian OCR confidence 53.0.
+- **epidemic(-al) .r** — PDF p. 146, printed p. 145; Persian OCR confidence 18.7.
+- **epidemiologist** — PDF p. 146, printed p. 145; Persian OCR confidence 45.3.
+- **epigraph** — PDF p. 147, printed p. 146; Persian OCR confidence 53.7.
+- **epigraphic(-al)** — PDF p. 147, printed p. 146; Persian OCR confidence 47.2.
+- **epigraphic survey** — PDF p. 147, printed p. 146; Persian OCR confidence 0.
+- **epigraphist** — PDF p. 147, printed p. 146; Persian OCR confidence 0.
+- **epilog = epilogue** — PDF p. 147, printed p. 146; Persian OCR confidence 0.
+- **epilogue** — PDF p. 147, printed p. 146; Persian OCR confidence 36.9.
+- **epiphanic** — PDF p. 147, printed p. 146; Persian OCR confidence 0.
+- **epiphany** — PDF p. 147, printed p. 146; Persian OCR confidence 8.2.
+- **epiphenomenalism** — PDF p. 147, printed p. 146; Persian OCR confidence 54.5.
+- **epiphenomenon** — PDF p. 147, printed p. 146; Persian OCR confidence 44.4.
+- **episcopacy .r** — PDF p. 147, printed p. 146; Persian OCR confidence 12.3.
+- **episcopalian** — PDF p. 147, printed p. 146; Persian OCR confidence 44.8.
+- **episcopalism** — PDF p. 147, printed p. 146; Persian OCR confidence 0.0.
+- **epistemological** — PDF p. 147, printed p. 146; Persian OCR confidence 8.8.
+- **epithalamion** — PDF p. 147, printed p. 146; Persian OCR confidence 47.9.
+- **epithalamium = epithalamion** — PDF p. 147, printed p. 146; Persian OCR confidence 0.
+- **eponym** — PDF p. 148, printed p. 147; Persian OCR confidence 9.1.
+- **eponymous** — PDF p. 148, printed p. 147; Persian OCR confidence 50.8.
+- **epopoeia (L.) = epopee** — PDF p. 148, printed p. 147; Persian OCR confidence 0.
+- **epos** — PDF p. 148, printed p. 147; Persian OCR confidence 26.7.
+- **equipollence** — PDF p. 148, printed p. 147; Persian OCR confidence 50.4.
+- **equipollency = equipollence** — PDF p. 148, printed p. 147; Persian OCR confidence 0.
+- **equiponderancy equiponderance** — PDF p. 148, printed p. 147; Persian OCR confidence 51.5.
+- **equiponderant** — PDF p. 148, printed p. 147; Persian OCR confidence 50.5.
+- **equivalency = equivalence** — PDF p. 148, printed p. 147; Persian OCR confidence 0.
+- **equivoke = equivoque** — PDF p. 148, printed p. 147; Persian OCR confidence 0.
+- **equivoque** — PDF p. 148, printed p. 147; Persian OCR confidence 50.5.
+- **Erastian** — PDF p. 148, printed p. 147; Persian OCR confidence 54.9.
+- **Erastianism** — PDF p. 148, printed p. 147; Persian OCR confidence 0.
+- **erotism = eroticism** — PDF p. 149, printed p. 148; Persian OCR confidence 0.
+- **erotogenic = erogenous** — PDF p. 149, printed p. 148; Persian OCR confidence 0.
+- **erotogenic zone = erogenous zone** — PDF p. 149, printed p. 148; Persian OCR confidence 0.
+- **escape** — PDF p. 149, printed p. 148; Persian OCR confidence 50.1.
+- **escape mechanism** — PDF p. 149, printed p. 148; Persian OCR confidence 44.9.
+- **escapism** — PDF p. 149, printed p. 148; Persian OCR confidence 38.6.
+- **esoterica** — PDF p. 149, printed p. 148; Persian OCR confidence 15.9.
+- **esoterism = esotericism** — PDF p. 149, printed p. 148; Persian OCR confidence 0.
+- **essayistic** — PDF p. 149, printed p. 148; Persian OCR confidence 46.9.
+- **essentialness = essentiality** — PDF p. 149, printed p. 148; Persian OCR confidence 0.
+- **esthesia = aesthesia** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **esthesiometer = aesthesiometer** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **esthete = aesthete** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **esthetic = aesthetic** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **estheticism = aestheticism** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **esthetics = aesthetics** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **estimation** — PDF p. 150, printed p. 149; Persian OCR confidence 22.3.
+- **estimative** — PDF p. 150, printed p. 149; Persian OCR confidence 52.4.
+- **eternal duration** — PDF p. 150, printed p. 149; Persian OCR confidence 43.6.
+- **ether = aether** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **ethereal = aethereal** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **ethereality = aethereality** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **ethical investment** — PDF p. 150, printed p. 149; Persian OCR confidence 48.9.
+- **ethicalness = ethicality** — PDF p. 150, printed p. 149; Persian OCR confidence 0.
+- **ethnarchy .r** — PDF p. 151, printed p. 150; Persian OCR confidence 43.0.
+- **ethnic(-al)** — PDF p. 151, printed p. 150; Persian OCR confidence 44.2.
+- **ethnic cleansing** — PDF p. 151, printed p. 150; Persian OCR confidence 35.9.
+- **ethnic consciousness** — PDF p. 151, printed p. 150; Persian OCR confidence 39.0.
+- **ethnic discrimination** — PDF p. 151, printed p. 150; Persian OCR confidence 39.1.
+- **ethnic group** — PDF p. 151, printed p. 150; Persian OCR confidence 51.2.
+- **ethnic minority** — PDF p. 151, printed p. 150; Persian OCR confidence 34.5.
+- **ethnoarcheology** — PDF p. 151, printed p. 150; Persian OCR confidence 54.8.
+- **ethnobotanist** — PDF p. 151, printed p. 150; Persian OCR confidence 33.8.
+- **ethnocentric(-al)** — PDF p. 151, printed p. 150; Persian OCR confidence 35.4.
+- **ethnocentrism** — PDF p. 151, printed p. 150; Persian OCR confidence 0.
+- **ethnocide** — PDF p. 151, printed p. 150; Persian OCR confidence 0.
+- **ethnocultural** — PDF p. 151, printed p. 150; Persian OCR confidence 0.
+- **ethnogenesis = ethnogeny** — PDF p. 151, printed p. 150; Persian OCR confidence 0.
+- **ethnohistory** — PDF p. 151, printed p. 150; Persian OCR confidence 36.3.
+- **ethnolinguistic** — PDF p. 151, printed p. 150; Persian OCR confidence 33.5.
+- **ethnologic(-al)** — PDF p. 151, printed p. 150; Persian OCR confidence 50.4.
+- **ethnomethodological** — PDF p. 151, printed p. 150; Persian OCR confidence 40.4.
+- **ethnomethodologist** — PDF p. 151, printed p. 150; Persian OCR confidence 47.9.
+- **ethnomuslcologlc(-al)** — PDF p. 151, printed p. 150; Persian OCR confidence 39.0.
+- **ethnomusicologist** — PDF p. 151, printed p. 150; Persian OCR confidence 40.0.
+- **ethologist** — PDF p. 151, printed p. 150; Persian OCR confidence 47.7.
+- **etlologic(-al)** — PDF p. 151, printed p. 150; Persian OCR confidence 48.0.
+- **Etrurian Etruscan** — PDF p. 152, printed p. 151; Persian OCR confidence 41.7.
+- **etymologic(-al)** — PDF p. 152, printed p. 151; Persian OCR confidence 44.6.
+- **etymologist** — PDF p. 152, printed p. 151; Persian OCR confidence 40.6.
+- **etymology** — PDF p. 152, printed p. 151; Persian OCR confidence 38.9.
+- **Euclidean = Euclidian** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **Euclidian** — PDF p. 152, printed p. 151; Persian OCR confidence 0.0.
+- **eudaemon** — PDF p. 152, printed p. 151; Persian OCR confidence 45.4.
+- **eudaemonic** — PDF p. 152, printed p. 151; Persian OCR confidence 46.7.
+- **eudaemonist** — PDF p. 152, printed p. 151; Persian OCR confidence 50.7.
+- **eudaemonistic** — PDF p. 152, printed p. 151; Persian OCR confidence 47.2.
+- **audamonistic = eudaemonistic** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **eudemon = eudaemon** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **eudemonism = eudaemonism** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **eudemonist = eudaemonist** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **eugenics** — PDF p. 152, printed p. 151; Persian OCR confidence 50.2.
+- **eugenism = eugenics** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **eugenist = eugenicist** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **eulogium = eulogy** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **eulogizer = eulogist** — PDF p. 152, printed p. 151; Persian OCR confidence 0.
+- **euphonious** — PDF p. 152, printed p. 151; Persian OCR confidence 45.0.
+- **euphony** — PDF p. 152, printed p. 151; Persian OCR confidence 52.2.
+- **euphuist** — PDF p. 152, printed p. 151; Persian OCR confidence 54.7.
+- **euphuistic(-al)** — PDF p. 152, printed p. 151; Persian OCR confidence 7.7.
+- **Euro MP** — PDF p. 153, printed p. 152; Persian OCR confidence 49.1.
+- **Europism** — PDF p. 153, printed p. 152; Persian OCR confidence 52.3.
+- **euthanizing** — PDF p. 153, printed p. 152; Persian OCR confidence 26.4.
+- **evangelicalness = evangelicality** — PDF p. 153, printed p. 152; Persian OCR confidence 0.
+- **evidentiary = evidential** — PDF p. 153, printed p. 152; Persian OCR confidence 0.
+- **evilminded** — PDF p. 153, printed p. 152; Persian OCR confidence 10.7.
+- **evilmindedness** — PDF p. 153, printed p. 152; Persian OCR confidence 9.8.
+- **evocation** — PDF p. 153, printed p. 152; Persian OCR confidence 54.5.
+- **evocative** — PDF p. 153, printed p. 152; Persian OCR confidence 51.2.
+- **exactitude** — PDF p. 154, printed p. 153; Persian OCR confidence 35.8.
+- **exactness = exactitude** — PDF p. 154, printed p. 153; Persian OCR confidence 0.
+- **exalted** — PDF p. 154, printed p. 153; Persian OCR confidence 22.8.
+- **examen = examination** — PDF p. 154, printed p. 153; Persian OCR confidence 0.
+- **exarchy = exarchate** — PDF p. 154, printed p. 153; Persian OCR confidence 0.
+- **exchange** — PDF p. 154, printed p. 153; Persian OCR confidence 46.8.
+- **exchangeable** — PDF p. 154, printed p. 153; Persian OCR confidence 42.7.
+- **excitatory excitative** — PDF p. 154, printed p. 153; Persian OCR confidence 53.7.
+- **exclamative = exclamatory** — PDF p. 154, printed p. 153; Persian OCR confidence 0.
+- **exclamatory sentence <L.s,,5 cala>(L;** — PDF p. 155, printed p. 154; Persian OCR confidence 0.
+- **excluded third** — PDF p. 155, printed p. 154; Persian OCR confidence 54.5.
+- **exclusion principle** — PDF p. 155, printed p. 154; Persian OCR confidence 45.6.
+- **exclusivity = exclusivism** — PDF p. 155, printed p. 154; Persian OCR confidence 0.
+- **excused absence** — PDF p. 155, printed p. 154; Persian OCR confidence 51.1.
+- **executive order** — PDF p. 155, printed p. 154; Persian OCR confidence 48.5.
+- **executive secretary** — PDF p. 155, printed p. 154; Persian OCR confidence 0.
+- **exegetist = exegete** — PDF p. 155, printed p. 154; Persian OCR confidence 0.
+- **exemplarity = exemplariness** — PDF p. 155, printed p. 154; Persian OCR confidence 0.
+- **exemption** — PDF p. 155, printed p. 154; Persian OCR confidence 46.3.
+- **exhaustion** — PDF p. 156, printed p. 155; Persian OCR confidence 54.8.
+- **exhibitionistic** — PDF p. 156, printed p. 155; Persian OCR confidence 50.5.
+- **exilic** — PDF p. 156, printed p. 155; Persian OCR confidence 45.6.
+- **existentialist** — PDF p. 156, printed p. 155; Persian OCR confidence 31.6.
+- **existing** — PDF p. 156, printed p. 155; Persian OCR confidence 54.5.
+- **exocathection** — PDF p. 156, printed p. 155; Persian OCR confidence 54.5.
+- **exogamic = exogamous** — PDF p. 157, printed p. 156; Persian OCR confidence 0.
+- **exogenic criminal** — PDF p. 157, printed p. 156; Persian OCR confidence 47.3.
+- **exogenous** — PDF p. 157, printed p. 156; Persian OCR confidence 33.7.
+- **exorbitance** — PDF p. 157, printed p. 156; Persian OCR confidence 51.0.
+- **exosomatic** — PDF p. 157, printed p. 156; Persian OCR confidence 51.5.
+- **exoticist** — PDF p. 157, printed p. 156; Persian OCR confidence 42.3.
+- **exotism = exoticism** — PDF p. 157, printed p. 156; Persian OCR confidence 0.
+- **expansionary** — PDF p. 157, printed p. 156; Persian OCR confidence 44.1.
+- **capital expense = capital expenditure** — PDF p. 157, printed p. 156; Persian OCR confidence 0.
+- **experientialism** — PDF p. 158, printed p. 157; Persian OCR confidence 50.0.
+- **experimental! group** — PDF p. 158, printed p. 157; Persian OCR confidence 52.9.
+- **experimentalist** — PDF p. 158, printed p. 157; Persian OCR confidence 0.
+- **experimental method** — PDF p. 158, printed p. 157; Persian OCR confidence 0.
+- **explanative = explanatory** — PDF p. 158, printed p. 157; Persian OCR confidence 0.
+- **explicative = explicatory** — PDF p. 158, printed p. 157; Persian OCR confidence 50.9.
+- **exploitation** — PDF p. 158, printed p. 157; Persian OCR confidence 54.1.
+- **exploitive = exploitative** — PDF p. 158, printed p. 157; Persian OCR confidence 0.
+- **explorative = exploratory** — PDF p. 158, printed p. 157; Persian OCR confidence 0.
+- **explorer** — PDF p. 158, printed p. 157; Persian OCR confidence 0.
+- **exportable** — PDF p. 159, printed p. 158; Persian OCR confidence 43.1.
+- **expository = expositive** — PDF p. 159, printed p. 158; Persian OCR confidence 0.
+- **expressionist** — PDF p. 159, printed p. 158; Persian OCR confidence 5.8.
+- **expression plane** — PDF p. 159, printed p. 158; Persian OCR confidence 41.1.
+- **expressivism** — PDF p. 159, printed p. 158; Persian OCR confidence 54.1.
+- **expressivity = expressiveness** — PDF p. 159, printed p. 158; Persian OCR confidence 0.
+- **expropriation** — PDF p. 159, printed p. 158; Persian OCR confidence 41.0.
+- **expropriatory** — PDF p. 159, printed p. 158; Persian OCR confidence 49.6.
+- **expurgatory** — PDF p. 159, printed p. 158; Persian OCR confidence 47.8.
+- **extended body** — PDF p. 159, printed p. 158; Persian OCR confidence 44.6.
+- **extended substance** — PDF p. 159, printed p. 158; Persian OCR confidence 52.7.
+- **exterminator** — PDF p. 160, printed p. 159; Persian OCR confidence 27.5.
+- **exterminatory = exterminative** — PDF p. 160, printed p. 159; Persian OCR confidence 0.
+- **external sense** — PDF p. 160, printed p. 159; Persian OCR confidence 43.1.
+- **exterritorial** — PDF p. 160, printed p. 159; Persian OCR confidence 48.2.
+- **exterritoriality** — PDF p. 160, printed p. 159; Persian OCR confidence 42.0.
+- **extraceptive** — PDF p. 160, printed p. 159; Persian OCR confidence 54.8.
+- **extraction** — PDF p. 160, printed p. 159; Persian OCR confidence 39.9.
+- **extrahuman** — PDF p. 160, printed p. 159; Persian OCR confidence 12.7.
+- **extralimltal** — PDF p. 160, printed p. 159; Persian OCR confidence 35.6.
+- **extraposition** — PDF p. 160, printed p. 159; Persian OCR confidence 46.7.
+- **extrapunitive** — PDF p. 160, printed p. 159; Persian OCR confidence 38.6.
+- **extrasensory** — PDF p. 160, printed p. 159; Persian OCR confidence 7.0.
+- **extrasensory perception** — PDF p. 160, printed p. 159; Persian OCR confidence 44.4.
+- **extraspecific** — PDF p. 161, printed p. 160; Persian OCR confidence 0.0.
+- **extraversion = extroversion** — PDF p. 161, printed p. 160; Persian OCR confidence 0.
+- **extravert = extrovert** — PDF p. 161, printed p. 160; Persian OCR confidence 0.
+- **extrinsic** — PDF p. 161, printed p. 160; Persian OCR confidence 35.1.
