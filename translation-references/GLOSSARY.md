@@ -26,3 +26,9 @@ Never treat a candidate as project-wide settled terminology. Approval applies to
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | literary continuity | English | Literary links across the prewar/postwar division | تداوم ادبی | candidate | Ariyanpour `continuity`, record 8652; Hezareh raw OCR, PDF p. 305; surrounding C00 argument | C00-S02, exile passage | Adel used this wording; use is not explicit glossary approval. See [review evidence](../drafts/C00-S02-exile-passage-reviewed-01.md). |
 | go into exile | English | Forced departure in `had to go into exile` | جلای وطن کردن، با حفظ «ناچار» در این جمله | candidate | Ariyanpour `exile`, record 14259; Hezareh raw OCR, PDF p. 533; source sentence | C00-S02, exile passage | Contextual proposal; does not establish formal expulsion. Do not automatically extend to `emigré`. See [review evidence](../drafts/C00-S02-exile-passage-reviewed-01.md). |
+
+### Supplementary evidence — 2026-09-28
+
+Current additional candidate: **belatedness** → «دیرکرد / دیرهنگامی در شناخت», C00-S02, the author's retrospective sentence. Status: **candidate**, not approved. Evidence: Ariyanpour `belated` 3961, Hezareh raw OCR PDF p. 113, thesaurus entry 136, and the exact source context. See [review and conceptual limits](../drafts/C00-S02-belatedness-reviewed-01.md). The following `Nachholen` is not automatically the same concept.
+
+The [second exile-passage review](../drafts/C00-S02-exile-passage-reviewed-02.md) adds visually checked Ashouri entries (`continuity`, printed p. 90; `exile`, printed p. 155) and thesaurus Word entries 71 and 523. Ashouri's «پیوستگی» is an alternative to the current candidate «تداوم»; the latter is retained provisionally in context. Ashouri gives «تبعید» for `exile`, so «جلای وطن» remains a contextual formulation rather than a mandatory lexical correction. These checks do not approve or retire either candidate.

@@ -4,9 +4,17 @@
 
 ## محل فعلی ترجمه
 
+### Latest submitted passage — late recognition
+
+Adel submitted the sentence beginning “And yet, despite the tardiness…” and the opening of the following paragraph, “In retrospect, I have come to realize…”. The [unchanged learner draft](drafts/C00-S02-belatedness-draft-01.md) and [mentor review with reference checks](drafts/C00-S02-belatedness-reviewed-01.md) are saved separately. Both this review and the earlier exile review await Adel's decision; no approval is inferred.
+
+The exact next source sentence begins “While I learned to distinguish the signs of belatedness…” and is quoted in full in the latest review. It introduces `Nachholen`, requiring the conceptual-source check recorded there. The new submission advances the local review position, not the approval state or verification of earlier missing chunks. The older checkpoints below are retained as history.
+
 ### Latest submitted passage — 2026-09-28
 
 Adel submitted two later sentences in C00-S02, beginning “Writers who had to go into exile after 1933…” and ending “…were shrouded by the veil of catastrophe.” The [unchanged submission](drafts/C00-S02-exile-passage-draft-01.md) and [mentor review](drafts/C00-S02-exile-passage-reviewed-01.md) are saved separately. The review is awaiting Adel's response; no translation or glossary candidate has been approved.
+
+The [second mentor review](drafts/C00-S02-exile-passage-reviewed-02.md) now adds the requested thesaurus, Daryabandari, Ashouri, Najafi, and Academy checks, with exact reference locations and evidence limits. It supersedes the first proposal for current review without deleting it. Approval and the continuation position remain unchanged.
 
 For this submitted passage, the next source sentence begins “And yet, despite the tardiness in recognizing the cultural and aesthetic continuities…”. The full sentence is recorded in the review. The older P03 resume marker below remains a historical checkpoint pending reconciliation of intervening submissions and exact chunk boundaries; it must not be mistaken for the latest reviewed passage. This session does not establish that all preceding material is complete.
 
