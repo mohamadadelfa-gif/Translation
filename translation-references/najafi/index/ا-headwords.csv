@@ -1,0 +1,28 @@
+headword,normalized_headword,pdf_page,printed_page,verification_status,entry_type
+ابان,ابان,24,12,page_verified,cross_reference
+ابزار / افزار,ابزار افزار,24,12,page_verified,article
+اتاق,اتاق,24,12,page_verified,article
+اتباع / اتباع / اتباع,اتباع,24,12,page_verified,article
+اتلال / اطلال,اتلال اطلال,25,13,page_verified,article
+اتو,اتو,25,13,page_verified,article
+اتوبوس گرفتن,اتوبوس گرفتن,25,13,page_verified,article
+اثاث / اساس,اثاث اساس,25,13,page_verified,article
+اثاثیه,اثاثیه,26,14,page_verified,article
+اثرات,اثرات,26,14,page_verified,article
+اثر در / اثر بر,اثر در اثر بر,26,14,page_verified,article
+اثنا / اثناء,اثنا اثناء,27,15,page_verified,article
+اثیر,اثیر,27,15,page_verified,cross_reference
+اجازه,اجازه,27,15,page_verified,cross_reference
+اجنه,اجنه,27,15,page_verified,cross_reference
+احترام گذاشتن,احترام گذاشتن,27,15,page_verified,article
+احجام,احجام,28,16,page_verified,article
+احسنت / احسن,احسنت احسن,28,16,page_verified,article
+احکام,احکام,28,16,page_verified,cross_reference
+احوالات / احوالها,احوالات احوالها,28,16,page_verified,article
+احیا / احیا,احیا,29,17,page_verified,article
+اخبار / اخبار,اخبار,29,17,page_verified,article
+اخوان / اخوان,اخوان,29,17,page_verified,article
+ادبیات,ادبیات,29,17,page_verified,article
+اذکیا / ازکیا,اذکیا ازکیا,30,18,page_verified,cross_reference
+اذن / اجازه,اذن اجازه,30,18,page_verified,article
+ارابه / عرابه,ارابه عرابه,30,18,page_verified,article
