@@ -259,6 +259,30 @@ Use:
 
 for terms whose German historical, institutional, legal, political, intellectual, academic, or literary identity materially affects translation.
 
+### German historical source collection
+
+Canonical PDF collection:
+
+`sources/german-historical-sources/`
+
+The current collection is PDF-only and should be treated as historical/conceptual source material, not as pre-interpreted evidence. Its present files include:
+
+- `AUS Politik UND ZeitGESCHiCHTE.pdf`
+- `Gemeinsame Deutsche  Nachkriegsgeschichte.pdf`
+- `Groupe 47.pdf`
+
+Use these PDFs when a German historical, literary, political, or intellectual concept requires source verification. Do not infer support merely from a filename, title, or the presence of a book in the repository.
+
+When one of these sources is used:
+
+1. inspect the relevant passage in the PDF;
+2. record the exact source and page or other available locator;
+3. distinguish what the source explicitly states from mentor interpretation;
+4. record the resulting conceptual analysis in `translation-references/GERMAN-CONCEPTS.md` when it is relevant to a recurring project term;
+5. keep the Persian equivalent as a candidate until Adel explicitly approves it in the project glossary.
+
+No Markdown conversion of the full German source collection is required by default. Create a derived searchable extraction only when repeated use of a particular source justifies it.
+
 Examples include:
 
 - `Stunde Null`
