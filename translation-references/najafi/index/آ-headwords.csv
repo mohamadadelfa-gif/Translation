@@ -26,3 +26,6 @@ headword,normalized_headword,pdf_page,printed_page,verification_status,entry_typ
 آموختن,آموختن,20,8,page_verified,article
 آنچه / آنچه که,آنچه آنچه که,21,9,page_verified,article
 آن را / تو را,آن را تو را,21,9,page_verified,article
+آن که / این که,آن که این که,22,10,page_verified,article
+آواز / آوازه,آواز آوازه,22,10,page_verified,article
+آینده,آینده,23,11,page_verified,article
