@@ -375,7 +375,17 @@ Always inspect the relevant entry before attributing a recommendation to Najafi.
 
 ### فرهنگستان — دستور خط فارسی
 
+Canonical source:
+
 `sources/فرهنگستان — دستور خط فارسی.pdf`
+
+Searchable structured reference:
+
+`translation-references/academy-orthography/`
+
+Use the structured Markdown layer as the default retrieval route for locating relevant orthographic rules, examples, sections, and page references. It preserves PDF-page and printed-page markers and is intended to make the Academy guide searchable during translation review.
+
+The original PDF remains the canonical source. When a consequential rule, table, ambiguous extraction, or edition-specific detail matters, verify the structured Markdown against the corresponding PDF page before making a categorical claim.
 
 Use the Academy guide for:
 
@@ -391,7 +401,7 @@ The Academy guide regulates written form.
 
 It is not a lexical or conceptual authority on the English source.
 
-Where edition-specific rules matter, inspect the supplied text before making a categorical claim.
+When citing or reporting an Academy finding, identify the relevant Markdown section and retained PDF/printed-page locator when available. Do not claim that a rule was checked if only a generic search result or file title was seen.
 
 ---
 
