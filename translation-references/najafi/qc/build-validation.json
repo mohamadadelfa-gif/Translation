@@ -3,15 +3,18 @@
   "source_pdf_pages": 480,
   "verified_navigation": {
     "pdf_page_start": 13,
-    "pdf_page_end": 21,
+    "pdf_page_end": 30,
     "printed_page_start": 1,
-    "printed_page_end": 9,
-    "pages_fully_verified": 8,
+    "printed_page_end": 18,
+    "pages_fully_verified": 17,
     "pages_partially_verified": 1,
-    "verified_headword_rows": 27,
-    "alphabet_section": "آ"
+    "verified_headword_rows": 57,
+    "alphabet_sections": [
+      "آ",
+      "ا"
+    ]
   },
-  "unresolved_items": 1,
+  "unresolved_items": 5,
   "evidence_gate": "PASS: no OCR-derived wording is treated as Najafi evidence",
-  "completion_note": "Phase 1 index is intentionally incomplete; absence from the current index is not evidence that Najafi lacks an entry."
+  "completion_note": "Phase 1 index is intentionally incomplete; current verified navigation covers PDF pp. 13–30 / printed pp. 1–18. Absence from the current index is not evidence that Najafi lacks an entry."
 }
