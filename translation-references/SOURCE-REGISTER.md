@@ -75,6 +75,40 @@ Their chapter codes, unit labels, and explanatory divisions should not be confus
 
 ---
 
+## 2.1 English grammar and sentence structure
+
+### Huddleston, Pullum & Reynolds — *A Student's Introduction to English Grammar*
+
+Canonical source:
+
+`sources/grammar/english/Rodney Huddleston, Geoffrey K. Pullum, Brett Reynolds - A Student's Introduction to English Grammar (2022, Cambridge University Press) - libgen.li.pdf`
+
+Derived navigation and mentoring layer:
+
+`translation-references/grammar/english/huddleston-pullum-reynolds/`
+
+Use this source to analyse the grammatical structure of the English source text before translation, especially:
+
+- matrix versus subordinate clauses;
+- subjects, objects, complements, modifiers, and adjuncts;
+- noun-phrase and prepositional-phrase structure;
+- relative constructions;
+- finite and non-finite clauses;
+- auxiliaries, tense, aspect, and modality;
+- coordination;
+- negation and scope;
+- information structure and information-packaging constructions.
+
+This grammar explains English structure. It does not determine the Persian translation by itself.
+
+For a difficult sentence, identify the grammatical relationships first, then explain how those relationships affect meaning, and only then compare possible Persian structures.
+
+Do not attribute an analysis to Huddleston, Pullum, and Reynolds unless the relevant chapter or section has actually been inspected. If the mentor analyses a sentence without a source check, label that part as mentor grammatical analysis.
+
+Use `CHAPTER-MAP.md` as a navigation aid, not as evidence for a particular syntactic analysis.
+
+---
+
 ## 3. General English–Persian vocabulary
 
 The project uses **two active general bilingual references**:
@@ -538,6 +572,7 @@ An approved term applies to the stated sense and context, not automatically to e
 | Source | Primary role |
 | --- | --- |
 | *Revisiting Zero Hour 1945* | meaning, argument, source wording, context |
+| Huddleston, Pullum & Reynolds | English grammar and sentence-structure analysis |
 | Ariyanpour | general English–Persian vocabulary |
 | Hezareh | general English–Persian vocabulary |
 | Ashouri | humanities and theoretical terminology |
@@ -642,6 +677,9 @@ Different sources answer different questions.
 WHAT DOES THE ENGLISH MEAN?
 → source text + context
 
+HOW IS THE ENGLISH SENTENCE STRUCTURED?
+→ Huddleston, Pullum & Reynolds
+
 WHAT LEXICAL SENSES ARE AVAILABLE?
 → Ariyanpour + Hezareh
 
@@ -728,6 +766,7 @@ For Persian prose reconstruction:
 MEANING ALREADY ESTABLISHED
       ↓
 ANALYZE ENGLISH SYNTAX
+Huddleston, Pullum & Reynolds when needed
       ↓
 REBUILD IN NATURAL PERSIAN
       ↓
