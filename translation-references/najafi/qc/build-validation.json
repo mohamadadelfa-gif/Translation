@@ -1,5 +1,5 @@
 {
-  "status": "PARTIAL_PASS",
+  "status": "PASS_WITH_VERIFICATION_ON_USE",
   "source_pdf_pages": 480,
   "verified_navigation": {
     "pdf_page_start": 13,
@@ -14,7 +14,16 @@
       "ا"
     ]
   },
-  "unresolved_items": 5,
-  "evidence_gate": "PASS: no OCR-derived wording is treated as Najafi evidence",
-  "completion_note": "Phase 1 index is intentionally incomplete; current verified navigation covers PDF pp. 13–30 / printed pp. 1–18. Absence from the current index is not evidence that Najafi lacks an entry."
+  "printed_source_index_navigation": {
+    "source_index_pdf_page_start": 449,
+    "source_index_pdf_page_end": 478,
+    "source_index_printed_page_start": 437,
+    "source_index_printed_page_end": 466,
+    "source_index_pages_covered": 30,
+    "candidate_rows": 2727,
+    "review_rows": 461
+  },
+  "evidence_gate": "PASS: OCR is navigation only; no OCR-derived wording is treated as Najafi evidence",
+  "body_page_mapping": "candidate PDF locator = printed page + 12; visually verify before evidence use",
+  "completion_note": "Phase 1 navigation is complete through Najafi's printed source index. Verified entry transcription remains incremental and visually checked."
 }

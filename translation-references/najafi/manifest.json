@@ -6,9 +6,10 @@
     "bytes": 15086763,
     "authority": "canonical_visual_scan"
   },
-  "layer_type": "incremental_navigation_and_verified_entries",
-  "status": "partial",
-  "current_coverage": {
+  "layer_type": "complete_navigation_plus_incremental_verified_entries",
+  "status": "navigation_complete_with_verification_on_use",
+  "verified_body_heading_layer": {
+    "path": "index/headwords-master.csv",
     "pdf_pages": [
       13,
       30
@@ -17,21 +18,34 @@
       1,
       18
     ],
-    "alphabet_sections": [
-      "آ",
-      "ا"
-    ]
+    "verified_headword_rows": 57
   },
-  "evidence_rule": "index rows are navigation only; Najafi claims require visual inspection of the canonical page",
+  "printed_source_index_layer": {
+    "path": "index/source-index-master.csv",
+    "page_map": "index/source-index-page-map.csv",
+    "pdf_pages": [
+      449,
+      478
+    ],
+    "printed_pages": [
+      437,
+      466
+    ],
+    "candidate_rows": 2727,
+    "review_rows": 461
+  },
+  "evidence_rule": "all index rows are navigation only; Najafi claims require visual inspection of the canonical dictionary entry",
   "files": {
-    "page_map": "index/page-map.csv",
-    "master_headwords": "index/headwords-master.csv",
-    "current_letter_index": "index/آ-headwords.csv",
+    "verified_master": "index/headwords-master.csv",
+    "verified_page_map": "index/page-map.csv",
+    "source_index_master": "index/source-index-master.csv",
+    "source_index_page_map": "index/source-index-page-map.csv",
+    "source_index_review": "qc/source-index-review-needed.csv",
     "qc": "qc/build-validation.json",
-    "unresolved": "qc/unverified-headwords.csv",
-    "current_letter_indexes": [
-      "index/آ-headwords.csv",
-      "index/ا-headwords.csv"
-    ]
+    "lookup": "tools/najafi_lookup.py"
+  },
+  "completion": {
+    "phase_1_navigation": "complete",
+    "verified_entry_transcription": "incremental_by_translation_need"
   }
 }

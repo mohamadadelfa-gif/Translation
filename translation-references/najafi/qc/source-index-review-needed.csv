@@ -1,0 +1,462 @@
+candidate_headword,normalized_headword,printed_page_refs_candidate,printed_pages_parsed,derived_pdf_pages_candidate,source_index_pdf_page,source_index_printed_page,source_index_column,source_index_row,status,navigation_confidence,raw_ocr
+آشکار YAY,اشکار yay,,,,449,437,2,21,source_index_review_needed,low,آشکار YAY
+آلهد YA,الهد ya,,,,449,437,3,6,source_index_review_needed,low,آلهد YA
+YA [oto] اتو,ya اتو,,,,450,438,1,12,source_index_review_needed,low,YA [oto] اتو
+fotu] اتو,fotu اتو,۱۳,13,25,450,438,1,13,source_index_review_needed,low,۱۳ fotu] اتو
+عشر ll,عشر ll,۱۵,15,27,450,438,1,20,source_index_review_needed,low,۱۵ عشر ll
+عشری Ll,عشری ll,۱۵,15,27,450,438,1,21,source_index_review_needed,low,۱۵ عشری Ll
+اتو fotu],اتو fotu,۱۳,13,25,450,438,1,999,source_index_psm6_supplement,low,اتو fotu] ۱۳
+Ll عشری,ll عشری,۱۵,15,27,450,438,1,999,source_index_psm6_supplement,low,Ll عشری ۱۵
+VY ۰ ارتجاع,vy ۰ ارتجاع,,,,450,438,3,6,source_index_review_needed,low,VY ۰ ارتجاع
+از oly,از oly,۸۰,80,92,450,438,3,22,source_index_review_needed,low,از oly ۸۰
+از ترس Sal,از ترس sal,۲۱,21,33,450,438,3,25,source_index_review_needed,low,از ترس Sal ۲۱
+از cy,از cy,۱۴۴,144,156,450,438,3,26,source_index_review_needed,low,از cy ۱۴۴
+ارتجاع,ارتجاع,VY ۰,,,450,438,3,999,source_index_psm6_supplement,low,VY ۰ ارتجاع
+از US,از us,۲۰۱,201,213,451,439,1,1,source_index_review_needed,low,از US ۲۰۱
+اسپاب YY AF,اسپاب yy af,,,,451,439,1,8,source_index_review_needed,low,اسپاب YY AF
+اسباب SU,اسباب su,", ۱۴",14,26,451,439,1,9,source_index_review_needed,low,"اسباب SU, ۱۴"
+استفاده بردن VF,استفاده بردن vf,,,,451,439,1,25,source_index_review_needed,low,استفاده بردن VF
+استمداد ۲۵-۲۳ اشا,استمداد ۲۵ ۲۳ اشا,,,,451,439,2,1,source_index_review_needed,low,استمداد ۲۵-۲۳ اشا
+استمداد طلبیدن ۲۵-۲۴ اش,استمداد طلبیدن ۲۵ ۲۴ اش,,,,451,439,2,2,source_index_review_needed,low,استمداد طلبیدن ۲۵-۲۴ اش
+استمداد کردن ۲۵-۲۴ اش,استمداد کردن ۲۵ ۲۴ اش,,,,451,439,2,3,source_index_review_needed,low,استمداد کردن ۲۵-۲۴ اش
+استوانه ۲۵ اص,استوانه ۲۵ اص,,,,451,439,2,4,source_index_review_needed,low,استوانه ۲۵ اص
+استیجار ۲۳ اص,استیجار ۲۳ اص,,,,451,439,2,5,source_index_review_needed,low,استیجار ۲۳ اص
+استیفا ۲۴ اض,استیفا ۲۴ اض,,,,451,439,2,6,source_index_review_needed,low,استیفا ۲۴ اض
+اسر ۲۲ اطا,اسر ۲۲ اطا,,,,451,439,2,7,source_index_review_needed,low,اسر ۲۲ اطا
+اسطبل ۲۵ اطر,اسطبل ۲۵ اطر,,,,451,439,2,8,source_index_review_needed,low,اسطبل ۲۵ اطر
+اسطوانه ۲۵ اطا,اسطوانه ۲۵ اطا,,,,451,439,2,9,source_index_review_needed,low,اسطوانه ۲۵ اطا
+اسفار ۲۳۰ I,اسفار ۲۳۰ i,,,,451,439,2,10,source_index_review_needed,low,اسفار ۲۳۰ I
+اسلامبول ۲۳ اطو,اسلامبول ۲۳ اطو,,,,451,439,2,11,source_index_review_needed,low,اسلامبول ۲۳ اطو
+اسلحه ۲۵ bi,اسلحه ۲۵ bi,,,,451,439,2,12,source_index_review_needed,low,اسلحه ۲۵ bi
+اسم مونث ۲۵ اعا,اسم مونث ۲۵ اعا,,,,451,439,2,13,source_index_review_needed,low,اسم مونث ۲۵ اعا
+اسناد ۲۶ اعا,اسناد ۲۶ اعا,,,,451,439,2,14,source_index_review_needed,low,اسناد ۲۶ اعا
+اسناد ۲۶ اعد,اسناد ۲۶ اعد,,,,451,439,2,15,source_index_review_needed,low,اسناد ۲۶ اعد
+اسناد دادن ۲۶ | ic,اسناد دادن ۲۶ ic,,,,451,439,2,16,source_index_review_needed,low,اسناد دادن ۲۶ | ic
+اسناد بستن ۲۶ اعر,اسناد بستن ۲۶ اعر,,,,451,439,2,17,source_index_review_needed,low,اسناد بستن ۲۶ اعر
+اسهام ۳۶ sl,اسهام ۳۶ sl,,,,451,439,2,18,source_index_review_needed,low,اسهام ۳۶ sl
+اسهم ۲۳۵ اعز,اسهم ۲۳۵ اعز,,,,451,439,2,19,source_index_review_needed,low,اسهم ۲۳۵ اعز
+اسیر ۲۶ اعه,اسیر ۲۶ اعه,,,,451,439,2,20,source_index_review_needed,low,اسیر ۲۶ اعه
+he | ۲۴۰ cll,he ۲۴۰ cll,,,,451,439,2,22,source_index_review_needed,low,he | ۲۴۰ cll
+اشباه ۲۴۰ | he,اشباه ۲۴۰ he,,,,451,439,2,23,source_index_review_needed,low,اشباه ۲۴۰ | he
+اشرافیت ۰۲۷-۲۶ ۷۲ اعا,اشرافیت ۰۲۷ ۲۶ ۷۲ اعا,,,,451,439,2,24,source_index_review_needed,low,اشرافیت ۰۲۷-۲۶ ۷۲ اعا
+اشعار ۲۷ اعا,اشعار ۲۷ اعا,,,,451,439,2,25,source_index_review_needed,low,اشعار ۲۷ اعا
+اشعار ۲۷ | ho,اشعار ۲۷ ho,,,,451,439,2,26,source_index_review_needed,low,اشعار ۲۷ | ho
+اشعارها ۱۴۰ | he,اشعارها ۱۴۰ he,,,,451,439,2,27,source_index_review_needed,low,اشعارها ۱۴۰ | he
+اشعه ۲۷ ای,اشعه ۲۷ ای,,,,451,439,2,28,source_index_review_needed,low,اشعه ۲۷ ای
+آشغال ۳۵۰ ای,اشغال ۳۵۰ ای,,,,451,439,2,29,source_index_review_needed,low,آشغال ۳۵۰ ای
+اشغال ۲۷ اعه,اشغال ۲۷ اعه,,,,451,439,2,30,source_index_review_needed,low,اشغال ۲۷ اعه
+Pa ۲۴۴ اشقیا,pa ۲۴۴ اشقیا,,,,451,439,2,31,source_index_review_needed,low,Pa ۲۴۴ اشقیا
+صدقاء YOY,صدقاء yoy,,,,451,439,3,3,source_index_review_needed,low,صدقاء YOY
+is افر,is افر,۳۱,31,43,452,440,1,3,source_index_review_needed,low,۳۱ is افر
+VF افصال بازدارنده,vf افصال بازدارنده,,,,452,440,1,6,source_index_review_needed,low,VF افصال بازدارنده
+YY افغان,yy افغان,,,,452,440,1,9,source_index_review_needed,low,YY افغان
+YY افغانی,yy افغانی,,,,452,440,1,10,source_index_review_needed,low,YY افغانی
+چنانکه SI,چنانکه si,۱۴۸,148,160,452,440,1,26,source_index_review_needed,low,۱۴۸ چنانکه SI
+افر is,افر is,۳۱,31,43,452,440,1,999,source_index_psm6_supplement,low,افر is ۳۱
+SI چنانکه,si چنانکه,۱۴۸,148,160,452,440,1,999,source_index_psm6_supplement,low,SI چنانکه ۱۴۸
+الاهه YA,الاهه ya,,,,452,440,2,1,source_index_review_needed,low,الاهه YA
+بودن deal,بودن deal,۴۱,41,53,452,440,3,3,source_index_review_needed,low,۴۱ بودن deal
+FY آمیدوار بودن,fy امیدوار بودن,,,,452,440,3,5,source_index_review_needed,low,FY آمیدوار بودن
+انتعماش YAY,انتعماش yay,,,,452,440,3,11,source_index_review_needed,low,انتعماش YAY
+اندام FF,اندام ff,,,,452,440,3,20,source_index_review_needed,low,اندام FF
+انزجار FY,انزجار fy,,,,452,440,3,27,source_index_review_needed,low,انزجار FY
+انضحار FV,انضحار fv,,,,452,440,3,29,source_index_review_needed,low,انضحار FV
+Yay انفار,yay انفار,,,,453,441,1,3,source_index_review_needed,low,Yay انفار
+انگشتری YA,انگشتری ya,,,,453,441,1,8,source_index_review_needed,low,انگشتری YA
+FA [owla] اولی,fa اولی,۵۰ .,50,62,453,441,1,16,source_index_review_needed,low,۵۰ .FA [owla] اولی
+و عیال Jal,و عیال jal,۵۰,50,62,453,441,1,18,source_index_review_needed,low,۵۰ و عیال Jal
+ایمن [ayman],ایمن,۵۱-۵۰,51;50,63;62,453,441,1,21,source_index_review_needed,low,ایمن [ayman] ۵۱-۵۰
+ایمن [imen},ایمن imen,۵۱-۵۰,51;50,63;62,453,441,1,22,source_index_review_needed,low,ایمن [imen} ۵۱-۵۰
+اين... است که... OV,این است که ov,,,,453,441,1,23,source_index_review_needed,low,اين... است که... OV
+اين جانبه OY,این جانبه oy,,,,453,441,1,25,source_index_review_needed,low,اين جانبه OY
+[imen} ایمن,imen ایمن,۱ ۵۱-۵۰,1;51;50,13;63;62,453,441,1,999,source_index_psm6_supplement,low,۱ ۵۱-۵۰ [imen} ایمن
+OV اين... است که,ov این است که,۱,1,13,453,441,1,999,source_index_psm6_supplement,low,۱ OV اين... است که...
+ashe اين,ashe این,۱ ۵۲,1;52,13;64,453,441,1,999,source_index_psm6_supplement,low,۱ ۵۲ ashe اين
+اینها ۱۳۸ rae,اینها ۱۳۸ rae,,,,453,441,2,1,source_index_review_needed,low,اینها ۱۳۸ rae
+"پا ۲۷۱ al,",پا ۲۷۱ al,,,,453,441,2,3,source_index_review_needed,low,"پا ۲۷۱ al,"
+با آنکه... ولی ۳۶-۳۵ YL,با انکه ولی ۳۶ ۳۵ yl,,,,453,441,2,4,source_index_review_needed,low,با آنکه... ولی ۳۶-۳۵ YL
+با اینکه... ولی ۳۶۳۵ Sho,با اینکه ولی ۳۶۳۵ sho,,,,453,441,2,5,source_index_review_needed,low,با اینکه... ولی ۳۶۳۵ Sho
+با این وجود DA بالط,با این وجود da بالط,,,,453,441,2,6,source_index_review_needed,low,با این وجود DA بالط
+باب )= 2( ۱۸۸ Jt,باب 2 ۱۸۸ jt,,,,453,441,2,7,source_index_review_needed,low,باب )= 2( ۱۸۸ Jt
+باب )= تنگه) ۱۱۷ بالن,باب تنگه ۱۱۷ بالن,,,,453,441,2,8,source_index_review_needed,low,باب )= تنگه) ۱۱۷ بالن
+بابل ۵۴ بالو,بابل ۵۴ بالو,,,,453,441,2,9,source_index_review_needed,low,بابل ۵۴ بالو
+بابل ۵۴ بان,بابل ۵۴ بان,,,,453,441,2,10,source_index_review_needed,low,بابل ۵۴ بان
+باتری ۵۴ نگ,باتری ۵۴ نگ,,,,453,441,2,11,source_index_review_needed,low,باتری ۵۴ نگ
+باتلاق OF پا و,باتلاق of پا و,,,,453,441,2,12,source_index_review_needed,low,باتلاق OF پا و
+ob بروت OF باور,ob بروت of باور,,,,453,441,2,13,source_index_review_needed,low,ob بروت OF باور
+بادمجان ۵۵ باور,بادمجان ۵۵ باور,,,,453,441,2,14,source_index_review_needed,low,بادمجان ۵۵ باور
+بادنجان ۵۵ al,بادنجان ۵۵ al,,,,453,441,2,15,source_index_review_needed,low,بادنجان ۵۵ al
+ob و بر وت ۵۵ با ه,ob و بر وت ۵۵ با ه,,,,453,441,2,16,source_index_review_needed,low,ob و بر وت ۵۵ با ه
+باربر ۵۵ بتا ا,باربر ۵۵ بتا ا,,,,453,441,2,17,source_index_review_needed,low,باربر ۵۵ بتا ا
+باربردار ۵۵ by,باربردار ۵۵ by,,,,453,441,2,18,source_index_review_needed,low,باربردار ۵۵ by
+sob ۳۴ بحب,sob ۳۴ بحب,,,,453,441,2,19,source_index_review_needed,low,sob ۳۴ بحب
+بازداشتن Lou OF,بازداشتن lou of,,,,453,441,2,20,source_index_review_needed,low,بازداشتن Lou OF
+بازده ۵۶ بخ,بازده ۵۶ بخ,,,,453,441,2,21,source_index_review_needed,low,بازده ۵۶ بخ
+بازدهی ۵۶ بخت,بازدهی ۵۶ بخت,,,,453,441,2,22,source_index_review_needed,low,بازدهی ۵۶ بخت
+بازرس ۵۶ بح,بازرس ۵۶ بح,,,,453,441,2,23,source_index_review_needed,low,بازرس ۵۶ بح
+بازرسین OF بخ,بازرسین of بخ,,,,453,441,2,24,source_index_review_needed,low,بازرسین OF بخ
+باسمه تعالی ۵۷ پداء,باسمه تعالی ۵۷ پداء,,,,453,441,2,26,source_index_review_needed,low,باسمه تعالی ۵۷ پداء
+باطری ۵۴ بدا,باطری ۵۴ بدا,,,,453,441,2,27,source_index_review_needed,low,باطری ۵۴ بدا
+باطلاق OF بد به,باطلاق of بد به,,,,453,441,2,28,source_index_review_needed,low,باطلاق OF بد به
+"Jou, ۵۵ abl,",jou ۵۵ abl,,,,453,441,2,29,source_index_review_needed,low,"Jou, ۵۵ abl,"
+ody ۵۷ باغات,ody ۵۷ باغات,,,,453,441,2,30,source_index_review_needed,low,ody ۵۷ باغات
+ob و بر وت,ob و بر وت,۵۵ با ه,55,67,453,441,2,999,source_index_psm6_supplement,low,ob و بر وت ۵۵ با ه
+صالحات ols,صالحات ols,۵۷,57,69,453,441,3,3,source_index_review_needed,low,۵۷ صالحات ols
+OV و صالحات ols,ov و صالحات ols,,,,453,441,3,4,source_index_review_needed,low,OV و صالحات ols
+OV لاخره,ov لاخره,,,,453,441,3,5,source_index_review_needed,low,OV لاخره
+OV لتبع,ov لتبع,,,,453,441,3,6,source_index_review_needed,low,OV لتبع
+OY لطبع,oy لطبع,,,,453,441,3,7,source_index_review_needed,low,OY لطبع
+OA نك,oa نک,,,,453,441,3,11,source_index_review_needed,low,OA نك
+وجود این DA,وجود این da,,,,453,441,3,13,source_index_review_needed,low,وجود این DA
+هم می خوانیم ON,هم می خوانیم on,,,,453,441,3,17,source_index_review_needed,low,هم می خوانیم ON
+هم می شنویم ON O4 |,هم می شنویم on o4,,,,453,441,3,18,source_index_review_needed,low,هم می شنویم ON O4 |
+ols صالحات,ols صالحات,۵۷,57,69,453,441,3,999,source_index_psm6_supplement,low,ols صالحات ۵۷
+بر وت OF,بر وت of,,,,454,442,1,28,source_index_review_needed,low,بر وت OF
+AY بزودی,ay بزودی,,,,454,442,2,3,source_index_review_needed,low,AY بزودی
+VY بطیء,vy بطیء,,,,454,442,2,9,source_index_review_needed,low,VY بطیء
+بعنوان AY,بعنوان ay,۱۱۱,111,123,454,442,2,13,source_index_review_needed,low,بعنوان AY ۱۱۱
+YO بنده,yo بنده,,,,454,442,2,23,source_index_review_needed,low,YO بنده
+بنیادگزار VF,بنیادگزار vf,,,,454,442,2,26,source_index_review_needed,low,بنیادگزار VF
+VF بوس,vf بوس,,,,454,442,3,9,source_index_review_needed,low,VF بوس
+به [beh],به,۸۰,80,92,454,442,3,11,source_index_review_needed,low,به [beh] ۸۰
+lp دادن,lp دادن,۷۸-۷۷,78;77,90;89,454,442,3,12,source_index_review_needed,low,lp دادن ۷۸-۷۷
+به حذ کفایت VA,به حذ کفایت va,,,,454,442,3,22,source_index_review_needed,low,به حذ کفایت VA
+به خود اختصاص دادن,به خود اختصاص دادن,,,,454,442,3,24,source_index_review_needed,low,به خود اختصاص دادن
+به‌طور ne قابل احتراز,به طور ne قابل احتراز,,,,455,443,1,6,source_index_review_needed,low,به‌طور ne قابل احتراز
+AY ol به‌عنو,ay ol به عنو,۱۱۱,111,123,455,443,1,8,source_index_review_needed,low,۱۱۱ AY ol به‌عنو
+به‌قدر کفایت VA,به قدر کفایت va,,,,455,443,1,9,source_index_review_needed,low,به‌قدر کفایت VA
+بیش از oh بار,بیش از oh بار,۸۶-۸۵,86;85,98;97,455,443,1,23,source_index_review_needed,low,بیش از oh بار ۸۶-۸۵
+بیگانه از AY,بیگانه از ay,,,,455,443,2,2,source_index_review_needed,low,بیگانه از AY
+\ YA بشك,ya بشک,4,4,16,455,443,2,19,source_index_review_needed,low,4 \ YA بشك
+بودن ool,بودن ool,٩۲,92,104,455,443,3,1,source_index_review_needed,low,٩۲ بودن ool
+کردن ool,کردن ool,٩۳-٩۲,93;92,105;104,455,443,3,2,source_index_review_needed,low,٩۳-٩۲ کردن ool.
+رامون AY,رامون ay,۱۸۸,188,200,455,443,3,6,source_index_review_needed,low,رامون AY ۱۸۸
+VT شروی,vt شروی,,,,455,443,3,19,source_index_review_needed,low,VT شروی
+AF شینگان,af شینگان,,,,455,443,3,20,source_index_review_needed,low,AF شینگان
+نام گزار AP,نام گزار ap,۳۲۰,320,332,455,443,3,23,source_index_review_needed,low,نام گزار AP ۳۲۰
+ool بودن,ool بودن,٩۲,92,104,455,443,3,999,source_index_psm6_supplement,low,ool بودن ٩۲
+ool. کردن,ool کردن,٩۳-٩۲,93;92,105;104,455,443,3,999,source_index_psm6_supplement,low,ool. کردن ٩۳-٩۲
+تاس,تاس,٩۹۸,,,456,444,1,6,source_index_review_needed,low,٩۹۸ تاس
+اف,اف,,,,456,444,1,9,source_index_review_needed,low,اف
+"Lal, فهرست",lal فهرست,۴۳۵,,,457,445,3,1,source_index_review_needed,low,"۴۳۵ Lal, فهرست"
+شناخت anol,شناخت anol,۲۴۷,247,259,457,445,3,7,source_index_review_needed,low,"۲۴۷ شناخت anol,"
+شناختی anal,شناختی anal,۲۴۷,247,259,457,445,3,8,source_index_review_needed,low,"۲۴۷ شناختی anal,"
+فهرست Lal,فهرست lal,", ۴۳۵",,,457,445,3,999,source_index_psm6_supplement,low,"فهرست Lal, ۴۳۵"
+"anol, شناخت",anol شناخت,۲۴۷,247,259,457,445,3,999,source_index_psm6_supplement,low,"anol, شناخت ۲۴۷"
+"anal, شناختی",anal شناختی,۲۴۷,247,259,457,445,3,999,source_index_psm6_supplement,low,"anal, شناختی ۲۴۷"
+گرفتن ade,گرفتن ade,۱۳۳,133,145,458,446,1,6,source_index_review_needed,low,۱۳۳ گرفتن ade
+WY «گان» a جمع,wy گان a جمع,,,,458,446,1,22,source_index_review_needed,low,WY «گان» a جمع
+جمع به «ین» و (Op),جمع به ین و op,,,,458,446,1,24,source_index_review_needed,low,جمع به «ین» و (Op)
+ade گرفتن,ade گرفتن,۱۳۳,133,145,458,446,1,999,source_index_psm6_supplement,low,ade گرفتن ۱۳۳
+جمع Jab,جمع jab,۳۵۵-۳۵۳,355;353,367;365,458,446,2,1,source_index_review_needed,low,جمع Jab ۳۵۵-۳۵۳
+pole حال,pole حال,۱۵۳,153,165,458,446,3,25,source_index_review_needed,low,۱۵۳ pole حال
+حرجی بر کسی نبودن,حرجی بر کسی نبودن,,,,459,447,1,24,source_index_review_needed,low,حرجی بر کسی نبودن
+حرف اضافه مررکب NOM,حرف اضافه مررکب nom,,,,459,447,2,3,source_index_review_needed,low,حرف اضافه مررکب NOM
+حساپ کردن روی کسی,حساپ کردن روی کسی,,,,459,447,2,11,source_index_review_needed,low,حساپ کردن روی کسی
+"Lal, فهرست",lal فهرست,۴۳۴۷,43;47,55;59,459,447,3,1,source_index_review_needed,low,"۴۳۴۷ Lal, فهرست"
+ور ۰۱۶۵ YAY AFF,ور ۰۱۶۵ yay aff,,,,459,447,3,3,source_index_review_needed,low,ور ۰۱۶۵ YAY AFF
+فهرست Lal,فهرست lal,", ۴۳۴۷",,,459,447,3,999,source_index_psm6_supplement,low,"فهرست Lal, ۴۳۴۷"
+خدمتکار WY,خدمتکار wy,,,,460,448,1,17,source_index_review_needed,low,خدمتکار WY
+خر WY,خر wy,,,,460,448,1,21,source_index_review_needed,low,خر WY
+خر ابه WY,خر ابه wy,,,,460,448,1,24,source_index_review_needed,low,خر ابه WY
+خردسال AVE,خردسال ave,۲۲۶,226,238,460,448,2,5,source_index_review_needed,low,خردسال AVE ۲۲۶
+خرده گیری WE,خرده گیری we,,,,460,448,2,17,source_index_review_needed,low,خرده گیری WE
+خشك YA,خشک ya,۱۷۶,176,188,460,448,2,28,source_index_review_needed,low,خشك YA ۱۷۶
+"خورد و SL, gm",خورد و sl gm,۱۷۴,174,186,461,449,1,13,source_index_review_needed,low,"خورد و SL, gm ۱۷۴"
+داشتن (FY,داشتن fy,۱۸۲-۱۸۳,182;183,194;195,461,449,1,23,source_index_review_needed,low,داشتن (FY ۱۸۲-۱۸۳
+glo زدن,glo زدن,۱۸۵-۱۸۴,185;184,197;196,461,449,1,27,source_index_review_needed,low,glo زدن ۱۸۵-۱۸۴
+داوطلبین ۱۸۵-۱۸۴ در,داوطلبین ۱۸۵ ۱۸۴ در,,,,461,449,2,1,source_index_review_needed,low,داوطلبین ۱۸۵-۱۸۴ در
+دایمی ۱۸۵ در,دایمی ۱۸۵ در,,,,461,449,2,3,source_index_review_needed,low,دایمی ۱۸۵ در
+دبیر بیشه ۲۳۸ در :,دبیر بیشه ۲۳۸ در,,,,461,449,2,4,source_index_review_needed,low,دبیر بیشه ۲۳۸ در :
+"دجار ۱۸۵ در ,",دجار ۱۸۵ در,,,,461,449,2,5,source_index_review_needed,low,"دجار ۱۸۵ در ,"
+"دخالت ۱۸۵ در ,",دخالت ۱۸۵ در,,,,461,449,2,6,source_index_review_needed,low,"دخالت ۱۸۵ در ,"
+دخانیات ۱۸۶ در,دخانیات ۱۸۶ در,,,,461,449,2,7,source_index_review_needed,low,دخانیات ۱۸۶ در
+دخانیه ۱۸۶ درز,دخانیه ۱۸۶ درز,,,,461,449,2,8,source_index_review_needed,low,دخانیه ۱۸۶ درز
+در ۱۸۸ درز,در ۱۸۸ درز,,,,461,449,2,9,source_index_review_needed,low,در ۱۸۸ درز
+در آخر OY درو,در اخر oy درو,,,,461,449,2,10,source_index_review_needed,low,در آخر OY درو
+در اثر ۶۵ درو,در اثر ۶۵ درو,,,,461,449,2,11,source_index_review_needed,low,در اثر ۶۵ درو
+درازا ۱۸۷ در ی,درازا ۱۸۷ در ی,,,,461,449,2,13,source_index_review_needed,low,درازا ۱۸۷ در ی
+درازنا ۱۸۳۷ در,درازنا ۱۸۳۷ در,,,,461,449,2,14,source_index_review_needed,low,درازنا ۱۸۳۷ در
+درازنویسی ۱۸۷-۱۸۶ در,درازنویسی ۱۸۷ ۱۸۶ در,,,,461,449,2,15,source_index_review_needed,low,درازنویسی ۱۸۷-۱۸۶ در
+درازی ۱۸۷ دزد,درازی ۱۸۷ دزد,,,,461,449,2,16,source_index_review_needed,low,درازی ۱۸۷ دزد
+دراویش ۱۸۸ دس,دراویش ۱۸۸ دس,,,,461,449,2,17,source_index_review_needed,low,دراویش ۱۸۸ دس
+در ارتباط با ۱٩۰-۱۸۹ 3 سم,در ارتباط با ۱٩۰ ۱۸۹ 3 سم,,,,461,449,2,18,source_index_review_needed,low,در ارتباط با ۱٩۰-۱۸۹ 3 سم
+در cpl اثنا ۱۵ دس,در cpl اثنا ۱۵ دس,,,,461,449,2,19,source_index_review_needed,low,در cpl اثنا ۱۵ دس
+در این deal بودن ۴۱ مه,در این deal بودن ۴۱ مه,,,,461,449,2,21,source_index_review_needed,low,در این deal بودن ۴۱ مه
+در cpl باره ۱۸۹ own),در cpl باره ۱۸۹ own,,,,461,449,2,22,source_index_review_needed,low,در cpl باره ۱۸۹ own)
+در این رابطه ۱۹۰-۱۸۹ دس,در این رابطه ۱۹۰ ۱۸۹ دس,,,,461,449,2,23,source_index_review_needed,low,در این رابطه ۱۹۰-۱۸۹ دس
+درب ۱۸۸ aad,درب ۱۸۸ aad,,,,461,449,2,24,source_index_review_needed,low,درب ۱۸۸ aad
+درباره ۰۱۸۸ ۱۸٩ ده,درباره ۰۱۸۸ ۱۸٩ ده,,,,461,449,2,25,source_index_review_needed,low,درباره ۰۱۸۸ ۱۸٩ ده
+در پیر آمون ۱۸۸ دش,در پیر امون ۱۸۸ دش,,,,461,449,2,26,source_index_review_needed,low,در پیر آمون ۱۸۸ دش
+درحات ۳۴۲ دعر,درحات ۳۴۲ دعر,,,,461,449,2,27,source_index_review_needed,low,درحات ۳۴۲ دعر
+در جریان قراردادن NN دع,در جریان قراردادن nn دع,,,,461,449,2,28,source_index_review_needed,low,در جریان قراردادن NN دع
+در cpl اثنا,در cpl اثنا,۱۵ دس,15,27,461,449,2,999,source_index_psm6_supplement,low,در cpl اثنا ۱۵ دس
+در این deal بودن,در این deal بودن,۴۱ مه,41,53,461,449,2,999,source_index_psm6_supplement,low,در این deal بودن ۴۱ مه
+در cpl باره,در cpl باره,۱۸۹ own),189,201,461,449,2,999,source_index_psm6_supplement,low,در cpl باره ۱۸۹ own)
+در gh» گذاشتن,در gh گذاشتن,۱۸۸- دک,188,200,461,449,2,999,source_index_psm6_supplement,low,در gh» گذاشتن ۱۸۸- دک
+ر شگفت soy,ر شگفت soy,۲۴۵,245,257,461,449,3,4,source_index_review_needed,low,ر شگفت soy ۲۴۵
+داشتن cil,داشتن cil,۱٩۱-۱۹۰,191;190,203;202,461,449,3,11,source_index_review_needed,low,"۱٩۱-۱۹۰ داشتن cil,"
+VAN سترس,van سترس,,,,461,449,3,16,source_index_review_needed,low,VAN سترس
+ست کسی را رو کردن,ست کسی را رو کردن,,,,461,449,3,17,source_index_review_needed,low,ست کسی را رو کردن
+VAY ستورات,vay ستورات,,,,461,449,3,20,source_index_review_needed,low,VAY ستورات
+ست به 5 NAY ole,ست به 5 nay ole,,,,461,449,3,21,source_index_review_needed,low,ست به 5 NAY ole
+عوی VAY,عوی vay,,,,461,449,3,25,source_index_review_needed,low,عوی VAY
+"cil, داشتن",cil داشتن,۱٩۱-۱۹۰,191;190,203;202,461,449,3,999,source_index_psm6_supplement,low,"cil, داشتن ۱٩۱-۱۹۰"
+افگار Jo,افگار jo,۳۲,32,44,462,450,1,4,source_index_review_needed,low,۳۲ افگار Jo
+بستن Jo,بستن jo,۱٩۳,193,205,462,450,1,5,source_index_review_needed,low,۱٩۳ بستن Jo
+دوستدار NAF,دوستدار naf,,,,462,450,1,21,source_index_review_needed,low,دوستدار NAF
+VAY دوما,vay دوما,,,,462,450,1,25,source_index_review_needed,low,VAY دوما
+ده (آمر jad «دادن») FAY,ده امر jad دادن fay,,,,462,450,1,26,source_index_review_needed,low,ده (آمر jad «دادن») FAY
+ده VAY,ده vay,,,,462,450,1,27,source_index_review_needed,low,ده VAY
+VAY دهشت,vay دهشت,,,,462,450,1,31,source_index_review_needed,low,VAY دهشت
+Jo افگار,jo افگار,۳۲,32,44,462,450,1,999,source_index_psm6_supplement,low,Jo افگار ۳۲
+Jo بستن,jo بستن,۱٩۳,193,205,462,450,1,999,source_index_psm6_supplement,low,Jo بستن ۱٩۳
+دی [dey],دی,۱۹۸۰۱۹۷,19;80;7,31;92;19,462,450,2,3,source_index_review_needed,low,دی [dey] ۱۹۸۰۱۹۷
+دی [dil,دی dil,۱۹۸,198,210,462,450,2,4,source_index_review_needed,low,دی [dil ۱۹۸
+[dih] دیه,دیه,۱۹۷,197,209,462,450,2,10,source_index_review_needed,low,۱۹۷ [dih] دیه
+درع YY.,درع yy,,,,462,450,2,12,source_index_review_needed,low,درع YY.
+دیه | ن],دیه ن,۱٩۹۷,,,462,450,2,999,source_index_psm6_supplement,low,دیه | ن] ۱٩۹۷
+سس از فعل abn,سس از فعل abn,-۲۰۴,204,216,462,450,3,3,source_index_review_needed,low,-۲۰۴ سس از فعل abn
+روشنا(ی) ۲۱۶-۲۱۵ زره,روشنا ی ۲۱۶ ۲۱۵ زره,,,,463,451,2,1,source_index_review_needed,low,روشنا(ی) ۲۱۶-۲۱۵ زره
+روشنایی ۲۱۶-۲۱۵ زغا,روشنایی ۲۱۶ ۲۱۵ زغا,,,,463,451,2,2,source_index_review_needed,low,روشنایی ۲۱۶-۲۱۵ زغا
+روشنی ۲۱۶-۲۱۵ زغر,روشنی ۲۱۶ ۲۱۵ زغر,,,,463,451,2,3,source_index_review_needed,low,روشنی ۲۱۶-۲۱۵ زغر
+روی cpl اصل ۲۱۶ زکا,روی cpl اصل ۲۱۶ زکا,,,,463,451,2,4,source_index_review_needed,low,روی cpl اصل ۲۱۶ زکا
+روی کسی حساب ک زکا,روی کسی حساب ک زکا,,,,463,451,2,5,source_index_review_needed,low,روی کسی حساب ک زکا
+رویت ۲۱۶ زکو,رویت ۲۱۶ زکو,,,,463,451,2,6,source_index_review_needed,low,رویت ۲۱۶ زکو
+ay) ۲۱۶ کی,ay ۲۱۶ کی,,,,463,451,2,7,source_index_review_needed,low,ay) ۲۱۶ کی
+روییدن ۲۰۸ زلت,روییدن ۲۰۸ زلت,,,,463,451,2,8,source_index_review_needed,low,روییدن ۲۰۸ زلت
+رهابین ۲۱۷ زمار,رهابین ۲۱۷ زمار,,,,463,451,2,9,source_index_review_needed,low,رهابین ۲۱۷ زمار
+رهبان ۲۱۷ زما:,رهبان ۲۱۷ زما,,,,463,451,2,10,source_index_review_needed,low,رهبان ۲۱۷ زما:
+"gla, ۲۱۷ زند",gla ۲۱۷ زند,,,,463,451,2,11,source_index_review_needed,low,"gla, ۲۱۷ زند"
+رهبانیت ۲۱۷ زند,رهبانیت ۲۱۷ زند,,,,463,451,2,12,source_index_review_needed,low,رهبانیت ۲۱۷ زند
+رهبر ۲۱۷ زوا,رهبر ۲۱۷ زوا,,,,463,451,2,13,source_index_review_needed,low,رهبر ۲۱۷ زوا
+رهبری ۲۱۷ زوا,رهبری ۲۱۷ زوا,,,,463,451,2,14,source_index_review_needed,low,رهبری ۲۱۷ زوا
+رهبریت ۲۱۷ زو,رهبریت ۲۱۷ زو,,,,463,451,2,15,source_index_review_needed,low,رهبریت ۲۱۷ زو
+رهگذار ۲۱۷ زو<,رهگذار ۲۱۷ زو,,,,463,451,2,16,source_index_review_needed,low,رهگذار ۲۱۷ زو<
+رهگذر ۲۱۷ زوج,رهگذر ۲۱۷ زوج,,,,463,451,2,17,source_index_review_needed,low,رهگذر ۲۱۷ زوج
+رهیدن ۲۰۸ زهر,رهیدن ۲۰۸ زهر,,,,463,451,2,18,source_index_review_needed,low,رهیدن ۲۰۸ زهر
+"cul, ۷۲ زیاد",cul ۷۲ زیاد,,,,463,451,2,19,source_index_review_needed,low,"cul, ۷۲ زیاد"
+ac) گرفتن ۲۱۸ زیاد,ac گرفتن ۲۱۸ زیاد,,,,463,451,2,20,source_index_review_needed,low,ac) گرفتن ۲۱۸ زیاد
+زیاد,زیاد,,,,463,451,2,21,source_index_review_needed,low,زیاد
+زادیوم ۳۹ زیر |,زادیوم ۳۹ زیر,,,,463,451,2,22,source_index_review_needed,low,زادیوم ۳۹ زیر |
+زاد و بوم ۳۹ درف,زاد و بوم ۳۹ درف,,,,463,451,2,23,source_index_review_needed,low,زاد و بوم ۳۹ درف
+زجر ۲۱٩ ساخ,زجر ۲۱٩ ساخ,,,,463,451,2,24,source_index_review_needed,low,زجر ۲۱٩ ساخ
+زرطلی ۲۶۰-۲۵۹ ساخ,زرطلی ۲۶۰ ۲۵۹ ساخ,,,,463,451,2,26,source_index_review_needed,low,زرطلی ۲۶۰-۲۵۹ ساخ
+زر ع ۳۳۰ ص.,زر ع ۳۳۰ ص,,,,463,451,2,27,source_index_review_needed,low,زر ع ۳۳۰ ص.
+روی cpl اصل,روی cpl اصل,۲۱۶ زکا,216,228,463,451,2,999,source_index_psm6_supplement,low,روی cpl اصل ۲۱۶ زکا
+ac) گرفتن,ac گرفتن,۲۱۸ زیاد,218,230,463,451,2,999,source_index_psm6_supplement,low,ac) گرفتن ۲۱۸ زیاد
+اختن صفت از اسم,اختن صفت از اسم,,,,463,451,3,20,source_index_review_needed,low,اختن صفت از اسم
+اختن قید از اسم و,اختن قید از اسم و,,,,463,451,3,21,source_index_review_needed,low,اختن قید از اسم و
+فهرست lawl,فهرست lawl,", ۴۵۱",,,463,451,3,999,source_index_psm6_supplement,low,"فهرست lawl, ۴۵۱"
+سالخورد AVF,سالخورد avf,۲۲۶,226,238,464,452,1,10,source_index_review_needed,low,سالخورد AVF ۲۲۶
+سجده کردن (یا برد,سجده کردن یا برد,,,,464,452,1,30,source_index_review_needed,low,سجده کردن (یا برد
+سالخورد AVE,سالخورد ave,۲۲۶,226,238,464,452,1,999,source_index_psm6_supplement,low,سالخورد AVE ۲۲۶
+سجود کردن (يا بردن),سجود کردن یا بردن,,,,464,452,2,2,source_index_review_needed,low,سجود کردن (يا بردن)
+سره YOY,سره yoy,,,,464,452,2,7,source_index_review_needed,low,سره YOY
+سر شك ۲۲٩ YA,سر شک ۲۲٩ ya,۲,2,14,464,452,2,10,source_index_review_needed,low,۲ سر شك ۲۲٩ YA
+شریر ۲۴۳-۲۴۲ #,شریر ۲۴۳ ۲۴۲,0,,,465,453,2,999,source_index_psm6_supplement,low,شریر ۲۴۳-۲۴۲ #0
+شر Sa,شر sa,۲۴۱ aby,241,253,465,453,2,999,source_index_psm6_supplement,low,شر Sa ۲۴۱ aby
+"Lal, فهرست",lal فهرست,۴۵۳,,,465,453,3,1,source_index_review_needed,low,"۴۵۳ Lal, فهرست"
+ماندن cad,ماندن cad,۲۴۶-۲۴۵,246;245,258;257,465,453,3,19,source_index_review_needed,low,۲۴۶-۲۴۵ ماندن cad
+نمودن ik,نمودن ik,۲۴۳۵,243;5,255;17,465,453,3,22,source_index_review_needed,low,۲۴۳۵ نمودن ik
+فهرست Lal,فهرست lal,", ۴۵۳",,,465,453,3,999,source_index_psm6_supplement,low,"فهرست Lal, ۴۵۳"
+cad ماندن,cad ماندن,۲۴۶-۲۴۵,246;245,258;257,465,453,3,999,source_index_psm6_supplement,low,cad ماندن ۲۴۶-۲۴۵
+ik نمودن,ik نمودن,۲۴۳۵,,,465,453,3,999,source_index_psm6_supplement,low,ik نمودن ۲۴۳۵
+FY [Seyb] شیب,fy شیب,۱-۲,1;2,13;14,466,454,1,6,source_index_review_needed,low,۱-۲ FY [Seyb] شیب
+YEA شیخوخت,yea شیخوخت,,,,466,454,1,9,source_index_review_needed,low,YEA شیخوخت
+YTV شیئی,ytv شیيی,,,,466,454,1,14,source_index_review_needed,low,YTV شیئی
+صحه‌گذاشتن بر چر,صحه گذاشتن بر چر,,,,466,454,1,23,source_index_review_needed,low,صحه‌گذاشتن بر چر
+صدره YOY,صدره yoy,۲,2,14,466,454,2,2,source_index_review_needed,low,۲ صدره YOY
+صدیق YOY,صدیق yoy,۱,1,13,466,454,2,3,source_index_review_needed,low,۱ صدیق YOY
+Yor صدیق,yor صدیق,,,,466,454,2,4,source_index_review_needed,low,Yor صدیق
+YOY ۰۲۳۳ ۰۳٩ Cao,yoy ۰۲۳۳ ۰۳٩ cao,,,,466,454,2,5,source_index_review_needed,low,YOY ۰۲۳۳ ۰۳٩ Cao
+YOY صمیم,yoy صمیم,,,,466,454,2,13,source_index_review_needed,low,YOY صمیم
+صمیمی YOF,صمیمی yof,,,,466,454,2,14,source_index_review_needed,low,صمیمی YOF
+YOY صدره,yoy صدره,۲,2,14,466,454,2,999,source_index_psm6_supplement,low,YOY صدره ۲
+YOY صدیق,yoy صدیق,۱,1,13,466,454,2,999,source_index_psm6_supplement,low,YOY صدیق ۱
+VA طاس,va طاس,,,,466,454,3,1,source_index_review_needed,low,VA طاس
+طفیلی YOU,طفیلی you,,,,466,454,3,13,source_index_review_needed,low,طفیلی YOU
+عرب VA,عرب va,۲۶۸,268,280,467,455,2,2,source_index_review_needed,low,عرب VA ۲۶۸
+عد,عد,,,,467,455,2,27,source_index_review_needed,low,عد
+غر,غر,,,,467,455,2,28,source_index_review_needed,low,غر
+AY ن قریب,ay ن قریب,۲۷۵,275,287,467,455,3,6,source_index_review_needed,low,۲۷۵ AY ن قریب
+هد و She,هد و she,۵۰,50,62,467,455,3,9,source_index_review_needed,low,هد و She ۵۰
+پیشگی ok,پیشگی ok,۲۳۸,238,250,467,455,3,10,source_index_review_needed,low,۲۳۸ پیشگی ok
+ن قریب AY,ن قریب ay,۲۷۵,275,287,467,455,3,999,source_index_psm6_supplement,low,ن قریب AY ۲۷۵
+ok پیشگی,ok پیشگی,۲۳۸,238,250,467,455,3,999,source_index_psm6_supplement,low,ok پیشگی ۲۳۸
+che زدن,che زدن,۲۸۱,281,293,468,456,1,17,source_index_review_needed,low,che زدن ۲۸۱
+غلط کردن YAY,غلط کردن yay,,,,468,456,1,22,source_index_review_needed,low,غلط کردن YAY
+و غش Je,و غش je,۲۸۱,281,293,468,456,1,24,source_index_review_needed,low,۲۸۱ و غش Je
+Je و غش,je و غش,۲۸۱,281,293,468,456,1,999,source_index_psm6_supplement,low,Je و غش ۲۸۱
+غمض عین YAY,غمض عین yay,,,,468,456,2,4,source_index_review_needed,low,غمض عین YAY
+YAY غنا,yay غنا,,,,468,456,2,5,source_index_review_needed,low,YAY غنا
+احتراز pl,احتراز pl,-۲۸۴,284,296,468,456,2,11,source_index_review_needed,low,-۲۸۴ احتراز pl
+YAO 448 غیرمتر,yao 448 غیرمتر,,,,468,456,2,13,source_index_review_needed,low,YAO 448 غیرمتر
+YAO غیرمنتظره,yao غیرمنتظره,,,,468,456,2,15,source_index_review_needed,low,YAO غیرمنتظره
+YAO غیض,yao غیض,,,,468,456,2,18,source_index_review_needed,low,YAO غیض
+YAO غیظ,yao غیظ,,,,468,456,2,19,source_index_review_needed,low,YAO غیظ
+YAS فاجع,yas فاجع,,,,468,456,2,20,source_index_review_needed,low,YAS فاجع
+فاعل بیجان با فعل,فاعل بیجان با فعل,,,,468,456,2,21,source_index_review_needed,low,فاعل بیجان با فعل
+فاعل جمع و فعل مفرد یا,فاعل جمع و فعل مفرد یا,,,,468,456,2,22,source_index_review_needed,low,فاعل جمع و فعل مفرد یا
+غیرمتر,غیرمتر,YAO 448,,,468,456,2,999,source_index_psm6_supplement,low,YAO 448 غیرمتر
+YAS فتوحها,yas فتوحها,,,,468,456,3,4,source_index_review_needed,low,YAS فتوحها
+YAS فجیعه,yas فجیعه,,,,468,456,3,8,source_index_review_needed,low,YAS فجیعه
+YAN فراخی,yan فراخی,,,,468,456,3,11,source_index_review_needed,low,YAN فراخی
+YAY ۰۲۹۱-۲۹۰ فراز,yay ۰۲۹۱ ۲۹۰ فراز,,,,468,456,3,14,source_index_review_needed,low,YAY ۰۲۹۱-۲۹۰ فراز
+فراموشش کن VAN,فراموشش کن van,,,,468,456,3,18,source_index_review_needed,low,فراموشش کن VAN
+VAY فرامین,vay فرامین,,,,468,456,3,19,source_index_review_needed,low,VAY فرامین
+فر به YAY,فر به yay,,,,468,456,3,20,source_index_review_needed,low,فر به YAY
+YAY فرغون,yay فرغون,,,,468,456,3,23,source_index_review_needed,low,YAY فرغون
+YAY فرقان,yay فرقان,,,,468,456,3,26,source_index_review_needed,low,YAY فرقان
+فرق داشتن از YAY,فرق داشتن از yay,,,,468,456,3,27,source_index_review_needed,low,فرق داشتن از YAY
+YAY فرمان,yay فرمان,,,,469,457,1,4,source_index_review_needed,low,YAY فرمان
+YAY فرمانبردار,yay فرمانبردار,,,,469,457,1,6,source_index_review_needed,low,YAY فرمانبردار
+FA فر وگذار,fa فر وگذار,۲٩۴,294,306,469,457,1,11,source_index_review_needed,low,۲٩۴ FA فر وگذار
+فعل مفرد یا جمع با فاعل,فعل مفرد یا جمع با فاعل,,,,469,457,1,23,source_index_review_needed,low,فعل مفرد یا جمع با فاعل
+فکر کردن YAY,فکر کردن yay,,,,469,457,1,30,source_index_review_needed,low,فکر کردن YAY
+کردن به Ss,کردن به ss,۴۷-۴۵,47;45,59;57,469,457,2,1,source_index_review_needed,low,۴۷-۴۵ کردن به Ss
+YAA فلج,yaa فلج,,,,469,457,2,6,source_index_review_needed,low,YAA فلج
+bb توجه,bb توجه,۳۰۱,301,313,469,457,2,20,source_index_review_needed,low,bb توجه ۳۰۱
+قانونگذاری YY.,قانونگذاری yy,,,,469,457,2,26,source_index_review_needed,low,قانونگذاری YY.
+Ss کردن به,ss کردن به,۴۷-۴۵ قی,47;45,59;57,469,457,2,999,source_index_psm6_supplement,low,Ss کردن به ۴۷-۴۵ قی
+Lai و قدر,lai و قدر,۳۰۳,303,315,469,457,3,28,source_index_review_needed,low,Lai و قدر ۳۰۳
+"Leal, فهرست",leal فهرست,۸,8,20,470,458,1,1,source_index_review_needed,low,"Leal, فهرست ۸"
+oS فوس,os فوس,۲۰۶,206,218,470,458,1,9,source_index_review_needed,low,۲۰۶ oS فوس
+فهرست Leal,فهرست leal,۸,8,20,470,458,1,999,source_index_psm6_supplement,low,"۸ فهرست Leal,"
+aa و عقال,aa و عقال,۳۱۷,317,329,470,458,2,26,source_index_review_needed,low,aa و عقال ۳۱۷
+کمین NO OY,کمین no oy,۳۱۶,316,328,470,458,3,12,source_index_review_needed,low,کمین NO OY ۳۱۶
+کمینه OY,کمینه oy,۳۱۶,316,328,470,458,3,13,source_index_review_needed,low,کمینه OY ۳۱۶
+YA کوشك,ya کوشک,,,,470,458,3,21,source_index_review_needed,low,YA کوشك
+گرچه... Jy,گرچه jy,۳۶-۳۵,36;35,48;47,471,459,1,8,source_index_review_needed,low,گرچه... Jy ۳۶-۳۵
+SJ ۳۲۵-۳۲۴ گشتن,sj ۳۲۵ ۳۲۴ گشتن,,,,471,459,2,1,source_index_review_needed,low,SJ ۳۲۵-۳۲۴ گشتن
+گفتی ۳۲۷ لذا,گفتی ۳۲۷ لذا,,,,471,459,2,2,source_index_review_needed,low,گفتی ۳۲۷ لذا
+کلایه ۳۲۵ لش,کلایه ۳۲۵ لش,,,,471,459,2,3,source_index_review_needed,low,کلایه ۳۲۵ لش
+گل کردن ۱۵۱ لطا,گل کردن ۱۵۱ لطا,,,,471,459,2,4,source_index_review_needed,low,گل کردن ۱۵۱ لطا
+گله‌گزاری ۳۲۶-۳۲۵ لغو,گله گزاری ۳۲۶ ۳۲۵ لغو,,,,471,459,2,6,source_index_review_needed,low,گله‌گزاری ۳۲۶-۳۲۵ لغو
+گنجایش ۳۲۶ لقو,گنجایش ۳۲۶ لقو,,,,471,459,2,7,source_index_review_needed,low,گنجایش ۳۲۶ لقو
+گنجایی ۳۲۶ لکر,گنجایی ۳۲۶ لکر,,,,471,459,2,8,source_index_review_needed,low,گنجایی ۳۲۶ لکر
+hand ۳۲۶ لول,hand ۳۲۶ لول,,,,471,459,2,9,source_index_review_needed,low,hand ۳۲۶ لول
+گو اینکه... ولی ۳۵ ول,گو اینکه ولی ۳۵ ول,,,,471,459,2,10,source_index_review_needed,low,گو اینکه... ولی ۳۵ ول
+گودتا ۳۱۷ له,گودتا ۳۱۷ له,,,,471,459,2,11,source_index_review_needed,low,گودتا ۳۱۷ له
+گوشمال ۳۲۶ Ad,گوشمال ۳۲۶ ad,,,,471,459,2,12,source_index_review_needed,low,گوشمال ۳۲۶ Ad
+گوشمالی ۳۲۶ SJ,گوشمالی ۳۲۶ sj,,,,471,459,2,13,source_index_review_needed,low,گوشمالی ۳۲۶ SJ
+گوشواره ۳۲۷ ما,گوشواره ۳۲۷ ما,,,,471,459,2,15,source_index_review_needed,low,گوشواره ۳۲۷ ما
+گویی ۳۲۷ ما,گویی ۳۲۷ ما,,,,471,459,2,16,source_index_review_needed,low,گویی ۳۲۷ ما
+گیرنده ۱۲٩ ما,گیرنده ۱۲٩ ما,,,,471,459,2,18,source_index_review_needed,low,گیرنده ۱۲٩ ما
+ما,ما,,,,471,459,2,19,source_index_review_needed,low,ما
+لااقل ۳۳ av,لااقل ۳۳ av,,,,471,459,2,20,source_index_review_needed,low,لااقل ۳۳ av
+لا بد ۳۲۸ ما,لا بد ۳۲۸ ما,,,,471,459,2,21,source_index_review_needed,low,لا بد ۳۲۸ ما
+لازم الاتباع ۱۲ ما,لازم الاتباع ۱۲ ما,,,,471,459,2,22,source_index_review_needed,low,لازم الاتباع ۱۲ ما
+لازم بودن ۳۳۲٩ ما,لازم بودن ۳۳۲٩ ما,,,,471,459,2,23,source_index_review_needed,low,لازم بودن ۳۳۲٩ ما
+لازم به تذکر است ۳۲۸- ما,لازم به تذکر است ۳۲۸ ما,,,,471,459,2,24,source_index_review_needed,low,لازم به تذکر است ۳۲۸- ما
+Gan ماد,gan ماد,۳۲٩,329,341,471,459,2,26,source_index_review_needed,low,۳۲٩ Gan ماد
+sje مار,sje مار,۳۲٩,329,341,471,459,2,27,source_index_review_needed,low,۳۲٩ sje مار
+ol ما,ol ما,۳۲٩,329,341,471,459,2,28,source_index_review_needed,low,۳۲٩ ol ما
+لبنیه ۳۲۹ Ju,لبنیه ۳۲۹ ju,,,,471,459,2,29,source_index_review_needed,low,لبنیه ۳۲۹ Ju
+لحام ۳۲۹ JL,لحام ۳۲۹ jl,,,,471,459,2,30,source_index_review_needed,low,لحام ۳۲۹ JL
+J ۳۲۹ لحیم,j ۳۲۹ لحیم,,,,471,459,2,31,source_index_review_needed,low,J ۳۲۹ لحیم
+لازم بودن,لازم بودن,۳۳۲٩ ما,,,471,459,2,999,source_index_psm6_supplement,low,لازم بودن ۳۳۲٩ ما
+فهرست,فهرست,"۴۵٩۹ Lal,",,,471,459,3,999,source_index_psm6_supplement,low,"فهرست ۴۵٩۹ Lal,"
+شدن al,شدن al,۳۳۴,334,346,472,460,1,6,source_index_review_needed,low,۳۳۴ شدن al
+al شدن,al شدن,۳۳۴,334,346,472,460,1,999,source_index_psm6_supplement,low,al شدن ۳۳۴
+ماهیانه,ماهیانه,۳۳۲۵-۳۲۲۴,,,472,460,1,999,source_index_psm6_supplement,low,ماهیانه ۳۳۲۵-۳۲۲۴
+محال ade,محال ade,۳۴۰,340,352,472,460,2,20,source_index_review_needed,low,محال ade ۳۴۰
+eo م,eo م,,,,472,460,2,22,source_index_review_needed,low,eo م
+مذکر و منث در فارسی,مذکر و منث در فارسی,,,,472,460,3,22,source_index_review_needed,low,مذکر و منث در فارسی
+A | مر,a مر,,,,472,460,3,25,source_index_review_needed,low,A | مر
+al مر,al مر,۳۴۶,346,358,473,461,1,8,source_index_review_needed,low,۳۴۶ al مر
+YOY مشاورت,yoy مشاورت,,,,473,461,2,9,source_index_review_needed,low,YOY مشاورت
+oS مشت کسی را باز,os مشت کسی را باز,,,,473,461,2,13,source_index_review_needed,low,oS مشت کسی را باز
+نهرست راهنما,نهرست راهنما,۴۶۱,,,473,461,3,1,source_index_review_needed,low,نهرست راهنما ۴۶۱
+صافگاه YOY,صافگاه yoy,,,,473,461,3,4,source_index_review_needed,low,صافگاه YOY
+صالح YOY,صالح yoy,,,,473,461,3,5,source_index_review_needed,low,صالح YOY
+صراع YOY,صراع yoy,,,,473,461,3,6,source_index_review_needed,low,صراع YOY
+صلحت YOY,صلحت yoy,,,,473,461,3,9,source_index_review_needed,low,صلحت YOY
+صنو ع yor,صنو ع yor,,,,473,461,3,10,source_index_review_needed,low,صنو ع yor
+ضرت YOY,ضرت yoy,,,,473,461,3,14,source_index_review_needed,low,ضرت YOY
+طابقه فعل با فاعل,طابقه فعل با فاعل,,,,473,461,3,17,source_index_review_needed,low,طابقه فعل با فاعل
+بارف YOY,بارف yoy,,,,473,461,3,26,source_index_review_needed,low,بارف YOY
+"YO"" معرّف",yo معرف,,,,474,462,1,13,source_index_review_needed,low,"YO"" معرّف"
+معروف حضور PON,معروف حضور pon,,,,474,462,1,17,source_index_review_needed,low,معروف حضور PON
+"مقابله به مثل ۶۲-۳۶۱""",مقابله به مثل ۶۲ ۳۶۱,,,,474,462,2,6,source_index_review_needed,low,"مقابله به مثل ۶۲-۳۶۱"""
+موروت ۳۷۳ میدا,موروت ۳۷۳ میدا,,,,475,463,2,1,source_index_review_needed,low,موروت ۳۷۳ میدا
+موروثی ۳۷۳ rw,موروثی ۳۷۳ rw,,,,475,463,2,2,source_index_review_needed,low,موروثی ۳۷۳ rw
+موسوم ۳۷۳-۳۷۳ میعا,موسوم ۳۷۳ ۳۷۳ میعا,,,,475,463,2,3,source_index_review_needed,low,موسوم ۳۷۳-۳۷۳ میعا
+موعود ۳۷۳ میعا,موعود ۳۷۳ میعا,,,,475,463,2,4,source_index_review_needed,low,موعود ۳۷۳ میعا
+موفقیت ۳۷۴ Liye,موفقیت ۳۷۴ liye,,,,475,463,2,5,source_index_review_needed,low,موفقیت ۳۷۴ Liye
+موقّت ۳۷۴ li,موقت ۳۷۴ li,,,,475,463,2,6,source_index_review_needed,low,موقّت ۳۷۴ li
+موقتأً ۳۷۵-۳۷۴ See,موقتا ۳۷۵ ۳۷۴ see,,,,475,463,2,7,source_index_review_needed,low,موقتأً ۳۷۵-۳۷۴ See
+موقتی ۳۷۳ Je,موقتی ۳۷۳ je,,,,475,463,2,8,source_index_review_needed,low,موقتی ۳۷۳ Je
+موقع ۳۷۵ whys,موقع ۳۷۵ whys,,,,475,463,2,9,source_index_review_needed,low,موقع ۳۷۵ whys
+موقعیت ۳۷۵ میلي,موقعیت ۳۷۵ میلی,,,,475,463,2,10,source_index_review_needed,low,موقعیت ۳۷۵ میلي
+مونث (اسم) ۲۵ st,مونث اسم ۲۵ st,,,,475,463,2,12,source_index_review_needed,low,مونث (اسم) ۲۵ st
+منك (صفت) ۲۵۴-۲۵۳ میوه,منک صفت ۲۵۴ ۲۵۳ میوه,,,,475,463,2,13,source_index_review_needed,low,منك (صفت) ۲۵۴-۲۵۳ میوه
+مونة ۳۶۰ مثه,مونه ۳۶۰ مثه,,,,475,463,2,14,source_index_review_needed,low,مونة ۳۶۰ مثه
+موهن ۳۷۵ میه,موهن ۳۷۵ میه,,,,475,463,2,15,source_index_review_needed,low,موهن ۳۷۵ میه
+مهجور ۳۷۵ G,مهجور ۳۷۵ g,,,,475,463,2,17,source_index_review_needed,low,مهجور ۳۷۵ G
+مهر ۰.۳۶۸ ۳۷۶ نا ام,مهر ۰ ۳۶۸ ۳۷۶ نا ام,,,,475,463,2,19,source_index_review_needed,low,مهر ۰.۳۶۸ ۳۷۶ نا ام
+مهر ۳۷۶ ناج,مهر ۳۷۶ ناج,,,,475,463,2,20,source_index_review_needed,low,مهر ۳۷۶ ناج
+مهریه ۳۷۶ ناچ,مهریه ۳۷۶ ناچ,,,,475,463,2,21,source_index_review_needed,low,مهریه ۳۷۶ ناچ
+مهمان ۳۷۶ |>,مهمان ۳۷۶,,,,475,463,2,22,source_index_review_needed,low,مهمان ۳۷۶ |>
+مهین ۳۷۶ Ab,مهین ۳۷۶ ab,,,,475,463,2,23,source_index_review_needed,low,مهین ۳۷۶ Ab
+مهین ۳۷۶ ناقد,مهین ۳۷۶ ناقد,,,,475,463,2,25,source_index_review_needed,low,مهین ۳۷۶ ناقد
+ميادین ۳۷۷-۳۷۶ ناقه,میادین ۳۷۷ ۳۷۶ ناقه,,,,475,463,2,26,source_index_review_needed,low,ميادین ۳۷۷-۳۷۶ ناقه
+میان ۳۷۷ نا که,میان ۳۷۷ نا که,,,,475,463,2,27,source_index_review_needed,low,میان ۳۷۷ نا که
+ail. ۳۷۷ نا گر,ail ۳۷۷ نا گر,,,,475,463,2,28,source_index_review_needed,low,ail. ۳۷۷ نا گر
+می‌باشد ۳۷۸-۳۷۷ $b,می باشد ۳۷۸ ۳۷۷ b,,,,475,463,2,29,source_index_review_needed,low,می‌باشد ۳۷۸-۳۷۷ $b
+میدان yal ۳۷۸ VF,میدان yal ۳۷۸ vf,,,,475,463,2,30,source_index_review_needed,low,میدان yal ۳۷۸ VF
+میدان yal,میدان yal,۳۷۸ VF,378,390,475,463,2,999,source_index_psm6_supplement,low,میدان yal ۳۷۸ VF
+بل [meyl]},بل,۴۰,40,52,475,463,3,5,source_index_review_needed,low,بل [meyl]} ۴۰
+قصه ۰۱۱۱ YAY,قصه ۰۱۱۱ yay,,,,475,463,3,17,source_index_review_needed,low,قصه ۰۱۱۱ YAY
+YAY نامگذاری,yay نامگذاری,,,,476,464,1,1,source_index_review_needed,low,YAY نامگذاری
+YAY نامگزاری,yay نامگزاری,,,,476,464,1,2,source_index_review_needed,low,YAY نامگزاری
+نصر IS نبو,نصر is نبو,۶۰,60,72,476,464,1,6,source_index_review_needed,low,۶۰ نصر IS نبو
+YAY نبی,yay نبی,,,,476,464,1,7,source_index_review_needed,low,YAY نبی
+نرد YAY,نرد yay,,,,476,464,1,11,source_index_review_needed,low,نرد YAY
+تزاکت YAO,تزاکت yao,,,,476,464,1,14,source_index_review_needed,low,تزاکت YAO
+نبو IS نصر,نبو is نصر,۶۰,60,72,476,464,1,999,source_index_psm6_supplement,low,نبو IS نصر ۶۰
+نطاق PAA,نطاق paa,,,,476,464,2,9,source_index_review_needed,low,نطاق PAA
+نظاره TAG,نظاره tag,۳۹۰,390,402,476,464,2,13,source_index_review_needed,low,نظاره TAG ۳۹۰
+ray vay نظر,ray vay نظر,,,,476,464,2,16,source_index_review_needed,low,ray vay نظر
+TAG نظاره,tag نظاره,۳۹۰,390,402,476,464,2,999,source_index_psm6_supplement,low,۳۹۰ TAG نظاره
+نقیصه ۰۱۱۱ YOY,نقیصه ۰۱۱۱ yoy,,,,476,464,3,12,source_index_review_needed,low,نقیصه ۰۱۱۱ YOY
+نواقص ANN,نواقص ann,۳۹۳-۳۹۲,393;392,405;404,477,465,1,4,source_index_review_needed,low,نواقص ANN ۳۹۳-۳۹۲
+[ney] نی,نی,۴۰۲,402,414,477,465,1,999,source_index_psm6_supplement,low,۴۰۲ [ney] نی
+وادی FY ولک,وادی fy ولک,,,,477,465,2,1,source_index_review_needed,low,وادی FY ولک
+واقعه ۴۰۹ ولی,واقعه ۴۰۹ ولی,,,,477,465,2,2,source_index_review_needed,low,واقعه ۴۰۹ ولی
+واگذار کردن ۳۹۴ As,واگذار کردن ۳۹۴ as,,,,477,465,2,3,source_index_review_needed,low,واگذار کردن ۳۹۴ As
+"ay ۴۰۴ all,",ay ۴۰۴ all,,,,477,465,2,4,source_index_review_needed,low,"ay ۴۰۴ all,"
+وام‌گذار ۴۰۴ وهل,وام گذار ۴۰۴ وهل,,,,477,465,2,5,source_index_review_needed,low,وام‌گذار ۴۰۴ وهل
+وم گزار ۴۰۴ ویر,وم گزار ۴۰۴ ویر,,,,477,465,2,6,source_index_review_needed,low,وم گزار ۴۰۴ ویر
+«راو» عطف ۴۰۷-۴۰۴ ویرا,راو عطف ۴۰۷ ۴۰۴ ویرا,,,,477,465,2,7,source_index_review_needed,low,«راو» عطف ۴۰۷-۴۰۴ ویرا
+وبش ۴۸ ویرا,وبش ۴۸ ویرا,,,,477,465,2,8,source_index_review_needed,low,وبش ۴۸ ویرا
+وجوه ۴۰۷ ویر,وجوه ۴۰۷ ویر,,,,477,465,2,9,source_index_review_needed,low,وجوه ۴۰۷ ویر
+(lay ۴۰۷ aay,lay ۴۰۷ aay,,,,477,465,2,11,source_index_review_needed,low,(lay ۴۰۷ aay
+aN ۴۰۸ وحله,an ۴۰۸ وحله,,,,477,465,2,14,source_index_review_needed,low,aN ۴۰۸ وحله
+(Lay ۲ ۰ وریب,lay ۲ ۰ وریب,,,,477,465,2,15,source_index_review_needed,low,(Lay ۲ ۰ وریب
+وزارت ۷۲ هج,وزارت ۷۲ هج,,,,477,465,2,16,source_index_review_needed,low,وزارت ۷۲ هج
+ٍ وزن نهادن ۷۷ هد,وزن نهادن ۷۷ هد,,,,477,465,2,17,source_index_review_needed,low,ٍ وزن نهادن ۷۷ هد
+وسم ۳۷۳ هرا,وسم ۳۷۳ هرا,,,,477,465,2,18,source_index_review_needed,low,وسم ۳۷۳ هرا
+هر ۱۲۲ aly,هر ۱۲۲ aly,,,,477,465,2,19,source_index_review_needed,low,هر ۱۲۲ aly
+وضعیت ۴۰۸ هرد,وضعیت ۴۰۸ هرد,,,,477,465,2,21,source_index_review_needed,low,وضعیت ۴۰۸ هرد
+: وعد ۳۷۴ هر,وعد ۳۷۴ هر,,,,477,465,2,22,source_index_review_needed,low,: وعد ۳۷۴ هر
+"وعده دادن ۳۰۶, ۴۰۹ هرب",وعده دادن ۳۰۶ ۴۰۹ هرب,,,,477,465,2,23,source_index_review_needed,low,"وعده دادن ۳۰۶, ۴۰۹ هرب"
+is ۴۰٩ وعده کردن,is ۴۰٩ وعده کردن,,,,477,465,2,24,source_index_review_needed,low,is ۴۰٩ وعده کردن
+وعد(ه) و وعید ۴۰۹ هزد,وعد ه و وعید ۴۰۹ هزد,,,,477,465,2,25,source_index_review_needed,low,وعد(ه) و وعید ۴۰۹ هزد
+وقایع ۴۳۰۹ هس,وقایع ۴۳۰۹ هس,,,,477,465,2,26,source_index_review_needed,low,وقایع ۴۳۰۹ هس
+وقت ۳۷۵ هشر,وقت ۳۷۵ هشر,,,,477,465,2,27,source_index_review_needed,low,وقت ۳۷۵ هشر
+هد ۴۰٩۹ وقت گذاشتن,هد ۴۰٩۹ وقت گذاشتن,,,,477,465,2,28,source_index_review_needed,low,هد ۴۰٩۹ وقت گذاشتن
+وفتی ۳۷۳ هن,وفتی ۳۷۳ هن,,,,477,465,2,29,source_index_review_needed,low,وفتی ۳۷۳ هن
+وفع نهادن ۷۷ هلا,وفع نهادن ۷۷ هلا,,,,477,465,2,30,source_index_review_needed,low,وفع نهادن ۷۷ هلا
+وفیعه ۴۰٩ هلا,وفیعه ۴۰٩ هلا,,,,477,465,2,31,source_index_review_needed,low,وفیعه ۴۰٩ هلا
+وقایع,وقایع,۴۳۰۹ هس,,,477,465,2,999,source_index_psm6_supplement,low,وقایع ۴۳۰۹ هس
+وقت گذاشتن,وقت گذاشتن,۴۰٩۹ هد,,,477,465,2,999,source_index_psm6_supplement,low,وقت گذاشتن ۴۰٩۹ هد
+ملفوظ nt ale,ملفوظ nt ale,۰۱۳۵,135,147,477,465,3,5,source_index_review_needed,low,۰۱۳۵ ملفوظ nt ale
+"YO (که)... ولی tim,",yo که ولی tim,,,,477,465,3,11,source_index_review_needed,low,"YO (که)... ولی tim,"
+nt ale ملفوظ,nt ale ملفوظ,۰۱۳۵,135,147,477,465,3,999,source_index_psm6_supplement,low,nt ale ملفوظ ۰۱۳۵
+۷,۷,-۳۰۵۴,,,477,465,3,999,source_index_psm6_supplement,low,۷ ۱۱۰۲۵۴۳ ۳-
+همج رعاع,همج رعاع,۴۳۷,,,478,466,1,5,source_index_review_needed,low,همج رعاع ۴۳۷
+کردن Gol,کردن gol,۴۲۲۴-۴۲۳,42;24;423,54;36;435,478,466,3,1,source_index_review_needed,low,۴۲۲۴-۴۲۳ کردن Gol
+شدن ash,شدن ash,۴۲۴,424,436,478,466,3,4,source_index_review_needed,low,۴۲۴ شدن ash
+lan ید,lan ید,۴۲۵,425,437,478,466,3,7,source_index_review_needed,low,۴۲۵ lan ید
+ین [in] (بسوند),ین بسوند,۳۹۸-,398,410,478,466,3,17,source_index_review_needed,low,ین [in] (بسوند) ۳۹۸-
