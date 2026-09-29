@@ -2,17 +2,17 @@
 
 آخرین به‌روزرسانی: ۲۰۲۶-۰۹-۲۹
 
-## ACTIVE continuation — C00-S02
+## ACTIVE continuation — end of C00
 
-**Latest submitted/reviewed material:** in the current conversation, Adel supplied and the mentor reviewed the two sentences beginning “Consciously or unconsciously these writers…” and ending “…has itself run its course.” This is conversation evidence only; no matching draft/review file has been saved and no approval is inferred.
+**Latest mentor review:** [final C00 paragraph review](drafts/C00-S02-final-paragraph-reviewed-01.md), covering the paragraph beginning “In retrospect, I have come to realize…” and ending “…recent German literature and culture.”
 
-**Latest recoverable saved draft:** [belatedness draft](drafts/C00-S02-belatedness-draft-01.md), with its [review](drafts/C00-S02-belatedness-reviewed-01.md), ending with the author's retrospective recognition of his own belatedness. Later chat work must not be represented as a saved artifact.
+The review uses Adel's recoverable wording where available and clearly labels mentor reconstruction where no complete learner draft was saved. It does **not** imply approval.
 
-**Active next working position:** the following exact sentence in [C00-S02](translation-preparation/C00.md):
+**Source-body position:** the introduction's body text has now been reviewed through its final paragraph. The next untranslated source body is **C01**.
 
-> Shaped by a different experience of history in the making, a new generation of writers and scholars is poised to develop different criteria for the understanding of recent German literature and culture.
+**Important state distinction:** reaching the end of C00 does not mean that C00 is approved or fully archived. Earlier practice-chunk boundaries/submissions remain partly unreconciled, no file in `approved-translations/` establishes approval, and the deferred German-concept checks for `Nachholen`, `nachgeholte Résistance`, and `their claim on reality` remain open.
 
-This continuation tracks the conversation, not completion or approval of intervening text. Exact practice-chunk boundaries and missing saved submissions remain unresolved; do not reconstruct them. All older continuation markers below are historical and cannot override this section.
+If work continues directly into the source, begin with the first paragraph of [C01](translation-preparation/C01.md). If Adel instead chooses to consolidate C00 first, reconcile the missing saved submissions and approval decisions before creating an approved introduction.
 
 ## Deferred source checks
 
