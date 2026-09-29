@@ -24,13 +24,30 @@ For every consequential or uncertain English headword that requires an Ariyanpou
 
 The canonical JSONL remains the source of record; the index and Markdown shards are a derived retrieval layer for reliable lookup and citation-like locators.
 
+### Required Hezareh lookup protocol
+
+For every consequential or uncertain English headword that requires a Hezareh check:
+
+1. Open the matching letter index under `hezareh/index/`.
+2. Search for an exact `normalized_headword`; if none exists, check an exact `base_normalized_headword`.
+3. Follow the recorded `file` and `anchor` into the relevant Markdown shard under `hezareh/dictionary/`.
+4. Inspect the complete record, including `verification_status`, `boundary_confidence`, PDF page, source pointer, and `Source text`.
+5. Record a usable lookup as: `Hezareh — <headword> — <record_id> — PDF p. <page> — <verification_status>/<boundary_confidence> — <file>#<anchor> — finding — effect on translation`.
+6. Treat `visually_checked` as a status inherited from the supplied package; do not imply that the current mentor independently rechecked the original page.
+7. Treat `raw_ocr` as qualified evidence. Preserve OCR uncertainty and verify consequential wording against the corresponding source page when available.
+8. Treat `hint_only` as navigation only, not lexical evidence. If no reconstructed entry text is available, report `exact entry unavailable / hint_only — verification needed`.
+9. Preserve multiple records for the same normalized headword. Do not silently collapse or clean them into a single dictionary entry.
+10. Never infer Hezareh support from an index row alone. The actual Markdown record and its source text must be inspected.
+
+The canonical Hezareh extraction package remains under `../sources/Hezareh_Dictionary_Index/`. The `hezareh/` directory is a derived model-retrieval layer, not a replacement for the source package.
+
 ## Selection rules
 
 Consult [SOURCE-REGISTER.md](SOURCE-REGISTER.md) for the uploaded reference collection, including Hezareh, Ashouri, Najafi, the Academy orthography guide, the Persian thesaurus, and the prose sample.
 
 Adel confirmed this reference set on 2026-09-27. Use the source book for meaning and context; Hezareh and Ariyanpour for general bilingual vocabulary; Ashouri for humanities terminology; the Persian thesaurus for alternative expressions; Najafi for usage questions; and the Academy guide for orthography. Use the supplied novel for prose study without importing its narrative voice wholesale. No dictionary has automatic priority: contextual accuracy and the author's argument govern the final proposal, with Adel retaining the final choice.
 
-1. For significant or uncertain English vocabulary, compare relevant senses in Ariyanpour and Hezareh as active peers. For Ariyanpour, complete the indexed lookup protocol above before claiming support from the dictionary. Record an exact-headword miss, unavailable lookup, or inconclusive lookup instead of implying that both sources were checked successfully. Distinguish raw Hezareh OCR from checked excerpts and verify doubtful wording against an original page when available.
+1. For significant or uncertain English vocabulary, compare relevant senses in Ariyanpour and Hezareh as active peers. Complete the source-specific indexed lookup protocol above before claiming support from either dictionary. Record exact-entry misses, hint-only results, unavailable lookups, or inconclusive lookups instead of implying that both sources were checked successfully. For Hezareh, preserve the supplied verification status and boundary confidence and verify consequential raw OCR against an original page when available.
 2. Select the Persian sense appropriate to the sentence, the author's argument, and the historical or philosophical context. Do not automatically take the first equivalent.
 3. Treat Ariyanpour as one of the preferred vocabulary references, without automatic priority over other relevant sources. Weigh alternatives by contextual accuracy, clarity, specialist usage, idiomatic Persian, and the agreed scholarly tone. Do not use any dictionary as a mandatory word-for-word substitution list.
 4. For technical terms where the dictionary is insufficient, distinguish a context-based proposal or a separately verified specialist equivalent from the dictionary's own wording. Explain consequential departures briefly.
@@ -43,7 +60,7 @@ Adel confirmed this reference set on 2026-09-27. Use the source book for meaning
 
 Per Adel's instruction of 2026-09-28, every paragraph review must also check the Persian thesaurus, a relevant passage of Daryabandari's Persian prose, and the relevant terminology/usage/orthography material in Ashouri, Najafi, and the Academy guide. Follow the three supplementary-check groups in [MENTOR_WORKFLOW.md](../MENTOR_WORKFLOW.md#required-supplementary-checks-for-every-paragraph).
 
-Report each source's actual locator, finding, and effect on the proposed wording, including decisions to retain Adel's wording. For Ariyanpour, the locator must include the headword, Entry ID, shard path, and anchor when an exact entry is found. Clearly distinguish a checked passage, reused documented evidence, an unsuccessful scoped search, and an incomplete check caused by unavailable or unreadable material. Do not attribute a proposal to any of these sources without inspecting relevant evidence, or claim a source-to-translation comparison from Persian prose alone.
+Report each source's actual locator, finding, and effect on the proposed wording, including decisions to retain Adel's wording. For Ariyanpour, the locator must include the headword, Entry ID, shard path, and anchor when an exact entry is found. For Hezareh, include the headword, record ID, PDF page, verification status, boundary confidence, shard path, and anchor when a usable record is found. Clearly distinguish a checked passage, reused documented evidence, an unsuccessful scoped search, and an incomplete check caused by unavailable or unreadable material. Do not attribute a proposal to any of these sources without inspecting relevant evidence, or claim a source-to-translation comparison from Persian prose alone.
 
 For historically significant German concepts, follow [GERMAN-CONCEPTS.md](GERMAN-CONCEPTS.md) and record practical translation decisions in [GLOSSARY.md](GLOSSARY.md). Research evidence and candidate/approved decision status are separate; no candidate becomes approved without Adel's explicit decision.
 
