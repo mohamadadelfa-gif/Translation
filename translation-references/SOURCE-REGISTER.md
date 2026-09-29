@@ -124,17 +124,20 @@ For consequential, ambiguous, recurrent, or difficult vocabulary, compare both w
 
 ## 3.1 Ariyanpour
 
-Readable project reference:
-
-`translation-references/aryanpour/aryanpour-english-persian.txt`
-
-Lookup data:
+Canonical machine-readable source:
 
 `translation-references/aryanpour/aryanpour-english-persian.jsonl`
 
-A source copy also exists at:
+Full readable export:
 
-`sources/aryanpour-english-persian.txt`
+`translation-references/aryanpour/aryanpour-english-persian.txt`
+
+Routine model retrieval:
+
+`translation-references/aryanpour/index/`
+→ `translation-references/aryanpour/dictionary/`
+
+The canonical JSONL remains the source of record; the indexed Markdown layer is the routine lookup path.
 
 Ariyanpour is one of the project's preferred general English–Persian vocabulary references.
 
@@ -184,6 +187,37 @@ The supplied [index package](../sources/Hezareh_Dictionary_Index/README.md) prov
 The index is a retrieval aid, not independent lexical evidence. Resolve its `source/...#L...` pointers relative to `sources/Hezareh_Dictionary_Index/`, inspect the cited extraction, and retain the PDF page and verification status. `visually_checked` records report the supplied package's review status; they do not establish that the current mentor checked the original PDF. `verification_status: raw_ocr` and `boundary_confidence: hint_only` require different qualifications; see the field and match semantics in [AGENTS.md](../AGENTS.md#hezareh-match-semantics). The original Hezareh PDF is not present in the tracked source collection; request the relevant page when extraction cannot support a consequential choice.
 
 Hezareh is an **active bilingual vocabulary reference**, not merely a backup for Ariyanpour.
+
+### Model retrieval layer
+
+Canonical/extraction package:
+
+`sources/Hezareh_Dictionary_Index/`
+
+Routine model retrieval:
+
+`translation-references/hezareh/index/`
+→ `translation-references/hezareh/dictionary/`
+
+The model layer contains 38,957 preserved records across 174 small Markdown shards. It preserves `verification_status`, `boundary_confidence`, PDF-page metadata, source pointers, duplicate normalized headwords, and whether reconstructed entry text is actually available.
+
+Lookup order:
+
+1. exact `normalized_headword`;
+2. exact `base_normalized_headword` when needed;
+3. follow the index locator into the Markdown shard;
+4. inspect the complete record and `Source text`;
+5. retain evidence-quality metadata in the reference account.
+
+Evidence interpretation:
+
+- `visually_checked`: inherited status from the supplied Hezareh package; do not imply a new current-session page check;
+- `raw_ocr`: qualified OCR evidence; verify exact wording against the original page when consequential and available;
+- `hint_only`: navigation/page hint only, not lexical evidence;
+- multiple records for one normalized headword remain separate and must not be silently collapsed.
+
+The index is navigation only. Do not say “Hezareh gives…” until the actual shard record and its source text have been inspected.
+
 
 ### Role
 
