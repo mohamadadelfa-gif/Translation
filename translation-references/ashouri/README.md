@@ -1,31 +1,13 @@
 # Ashouri — Structured Reference Extraction
 
-Designed for the existing repository path:
+## Current overall status
 
-```text
-translation-references/ashouri/
-```
+See [README-AZ.md](README-AZ.md) and the [A–Z QC report](qc/AZ-cross-letter-audit.md): A–Z structural extraction is complete, with 26,333 structured records and 12,875 entries currently flagged for visual/OCR review.
 
-## Current completed structural unit
+Start with [dictionary/](dictionary/) and the [master index](index/headwords-master.csv). OCR/structured extraction is not manual certification. The original PDF under `sources/` remains authoritative. Follow the source-specific verification discipline in [AGENTS.md](../../AGENTS.md): visually check the relevant original page before using `Documented equivalent`, preserving QC uncertainty.
 
-`dictionary/E.md` covers the complete **E** section: PDF pages 135–161 (printed pages 134–160). PDF page 162 visibly begins **F**.
+Ashouri supplies terminology evidence; `GLOSSARY.md` records project decisions, which require Adel's approval.
 
-## Translation workflow role
+## Historical stage reports
 
-```text
-source passage
-  → Ashouri lookup
-  → compare with other references
-  → contextual analysis
-  → translation-references/GLOSSARY.md decision
-  → draft / review
-```
-
-Ashouri supplies reference evidence; `GLOSSARY.md` remains the project decision layer.
-
-## Accuracy model
-
-- English entry boundaries: source typography + scan OCR.
-- Cross-references: preserved from scan when detected.
-- Persian equivalents: column-aware Persian OCR.
-- Exact final terminology: check the scan when an entry appears in `qc/E-uncertain-readings.md`.
+The E-section report and README-AD/FJ/FO/KO files describe earlier extraction stages, not current overall coverage. E covers PDF pages 135–161 (printed 134–160); the current complete structural coverage is A–Z.

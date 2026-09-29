@@ -1,16 +1,28 @@
 # وضعیت کار
 
-آخرین به‌روزرسانی: ۲۰۲۶-۰۹-۲۷
+آخرین به‌روزرسانی: ۲۰۲۶-۰۹-۲۹
 
-## محل فعلی ترجمه
+## ACTIVE continuation — C00-S02
 
-### Latest submitted passage — late recognition
+**Latest submitted/reviewed material:** in the current conversation, Adel supplied and the mentor reviewed the two sentences beginning “Tracing the origins of the oppositional spirit…” and ending “…their claim on reality.” This is conversation evidence only; no matching draft/review file has been saved and no approval is inferred.
+
+**Latest recoverable saved draft:** [belatedness draft](drafts/C00-S02-belatedness-draft-01.md), with its [review](drafts/C00-S02-belatedness-reviewed-01.md), ending with the author's retrospective recognition of his own belatedness. Later chat work must not be represented as a saved artifact.
+
+**Active next working position:** the following exact sentence in [C00-S02](translation-preparation/C00.md):
+
+> Consciously or unconsciously these writers engaged in closing the chapter in which German writers and intellectuals had failed to stand up to the Nazi regime before 1945.
+
+This continuation tracks the conversation, not completion or approval of intervening text. Exact practice-chunk boundaries and missing saved submissions remain unresolved; do not reconstruct them. All older continuation markers below are historical and cannot override this section.
+
+## Historical checkpoints
+
+### Saved checkpoint — late recognition
 
 Adel submitted the sentence beginning “And yet, despite the tardiness…” and the opening of the following paragraph, “In retrospect, I have come to realize…”. The [unchanged learner draft](drafts/C00-S02-belatedness-draft-01.md) and [mentor review with reference checks](drafts/C00-S02-belatedness-reviewed-01.md) are saved separately. Both this review and the earlier exile review await Adel's decision; no approval is inferred.
 
 The exact next source sentence begins “While I learned to distinguish the signs of belatedness…” and is quoted in full in the latest review. It introduces `Nachholen`, requiring the conceptual-source check recorded there. The new submission advances the local review position, not the approval state or verification of earlier missing chunks. The older checkpoints below are retained as history.
 
-### Latest submitted passage — 2026-09-28
+### Earlier saved checkpoint — exile passage (2026-09-28)
 
 Adel submitted two later sentences in C00-S02, beginning “Writers who had to go into exile after 1933…” and ending “…were shrouded by the veil of catastrophe.” The [unchanged submission](drafts/C00-S02-exile-passage-draft-01.md) and [mentor review](drafts/C00-S02-exile-passage-reviewed-01.md) are saved separately. The review is awaiting Adel's response; no translation or glossary candidate has been approved.
 
@@ -34,7 +46,7 @@ For this submitted passage, the next source sentence begins “And yet, despite 
 
 ## Repository audit: evidence and recovery limits
 
-The continuation recorded here remains `C00-S02-P03`, beginning “Once this route was taken…”. This audit has not advanced or reset that position.
+The earlier audit recorded `C00-S02-P03`, beginning “Once this route was taken…”. This is a historical recovery checkpoint, not the active continuation.
 
 The P01/P02 completion labels above are reported draft progress, not approval. The saved [original draft](drafts/C00-introduction-progress-2026-09-27.txt) and [reviewed proposal](drafts/C00-introduction-reviewed-01.md) both stop at “a new interest and understanding of the past”. The later “Thus, renegotiating…” translation is present below, but the intervening translations of “This operation…”, “Today we rarely remember…” and “Although the meetings…” are not saved in these artifacts.
 
@@ -42,9 +54,9 @@ Exact P01/P02 starting and ending anchors and the corresponding chunk files are 
 
 Before treating the reported completed chunks as fully archived, reconcile this gap with Adel. For any continuation, distinguish the declared resume point from the last independently recoverable draft sentence. Future progress entries should link the draft/review files and give exact first and last source sentences for each chunk.
 
-## آخرین جملهٔ ترجمه‌شده
+## Historical submitted sentence
 
-آخرین جملهٔ انگلیسی که عادل ترجمه کرده است:
+جملهٔ ثبت‌شده در این سابقهٔ تاریخی:
 
 > Thus, renegotiating the relationship of history and the present meant two operations: on the one hand, overcoming the self-stylization by which a whole generation of writers projected itself in the robes of historical newcomers, and on the other, applying the methods of textual criticism and historical contextualization to their work.
 
@@ -54,15 +66,15 @@ Before treating the reported completed chunks as fully archived, reconcile this 
 
 این ترجمه همچنان بخشی از پیش‌نویس عادل است و به‌خودی‌خود به معنای تأیید نهایی آن نیست.
 
-## جملهٔ بعدی برای ادامه
+## Historical next-sentence marker
 
-جلسهٔ بعدی باید از این جمله آغاز شود:
+در آن مرحله، جملهٔ زیر برای ادامه ثبت شده بود:
 
 > Once this route was taken, the concept of Zero Hour proved to be hard to maintain, as Hans Mayer pointed out.[^intro-3]
 
-این جمله آغاز محل بعدی کار در **`C00-S02-P03`** است.
+این جمله محل ادامهٔ تاریخی در **`C00-S02-P03`** بود.
 
-هنگام شروع جلسهٔ بعدی، ابتدا باید بند کامل و جمله‌های پیرامونی در `translation-preparation/C00.md` خوانده شوند و سپس این جمله مطابق `MENTOR_WORKFLOW.md` تحلیل شود.
+این نشانه برای بازیابی سابقه نگه داشته شده است؛ محل جاری فقط در بخش فعال بالای فایل تعیین می‌شود.
 
 ## وضعیت پیش‌نویس و بازبینی
 
@@ -177,7 +189,7 @@ Before treating the reported completed chunks as fully archived, reconcile this 
 9. هیچ گزینهٔ `candidate` بدون تأیید صریح عادل به `approved` تبدیل نشود.
 10. پس از پیشرفت واقعی در متن، محل دقیق ادامهٔ جلسهٔ بعد در همین فایل به‌روزرسانی شود.
 
-## نقطهٔ ادامه
+## Historical P03 marker
 
 **ادامه از:**
 
@@ -187,6 +199,6 @@ Before treating the reported completed chunks as fully archived, reconcile this 
 
 > Once this route was taken, the concept of Zero Hour proved to be hard to maintain, as Hans Mayer pointed out.[^intro-3]
 
-تا زمانی که این جمله و بخش بعدی واقعاً ترجمه نشده‌اند، این نقطه نباید جلو برده شود.
+این دستورِ توقف مربوط به سابقهٔ قدیمی است و محل ادامهٔ فعال را تعیین نمی‌کند. کامل‌بودن قطعه‌های میانی همچنان اثبات نشده است.
 
 [^intro-3]: The source endnote belongs to [C00, Endnotes](translation-preparation/C00.md#endnotes); the marker is retained in the exact continuation quotation above.

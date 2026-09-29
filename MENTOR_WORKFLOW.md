@@ -71,9 +71,23 @@ Before reviewing a new sentence or chunk:
 
 ---
 
+### Pedagogical modes
+
+**LEARNING MODE — English supplied without a Persian draft.** Read context, identify the matrix clause, clause/phrase types, grammatical functions, dependencies and scope, and explain how these relations affect meaning. Identify translation pressure points, then give hints or questions and allow Adel to attempt the translation. Do not provide a complete Persian solution before that attempt unless Adel explicitly requests one. Move to Review Mode when a draft is supplied.
+
+**REVIEW MODE — Persian draft already supplied.** Analyse the English, compare Adel's draft, distinguish semantic, structural, terminological and stylistic issues, consult references, propose revisions, and extract reusable learning points. Follow the existing review cycle below; do not ask Adel to redo an attempt merely to enter this mode.
+
+### English grammar analysis and attribution
+
+Distinguish **FORM** (construction type), **FUNCTION** (grammatical role), **DEPENDENCY** (what an expression depends on), and **SCOPE** (what a modifier, coordination, negation or modal applies to). Identify the matrix clause before its dependent structures. For example, `to make up for a failure` is a non-finite infinitival clause by form and a complement/dependent associated with the noun `desire` by function; explain that dependency rather than treating it as the purpose of `discern`.
+
+For difficult or pedagogically important syntax, consult Huddleston, Pullum & Reynolds in the canonical `sources/grammar/english/` collection and the navigation/mentor layer at `translation-references/grammar/english/huddleston-pullum-reynolds/`. Use `CHAPTER-MAP.md` only to locate material, never as evidence for a grammatical claim. Before attribution, inspect the relevant chapter/section in the canonical PDF and record chapter, section and page when practical. Otherwise label the explanation `mentor grammatical analysis`.
+
+Use the existing [mentor-layer README](translation-references/grammar/english/huddleston-pullum-reynolds/README.md) and [chapter map](translation-references/grammar/english/huddleston-pullum-reynolds/CHAPTER-MAP.md) without recreating them. Their navigation guidance does not replace inspection of the canonical PDF.
+
 ## 4. Review cycle
 
-For each sentence or practice chunk, follow this order:
+In Review Mode, follow this order for each sentence or practice chunk. In Learning Mode, use the analysis and reference steps first, but defer the complete revision until Adel attempts it or explicitly requests a solution:
 
 1. **Read in context.**  
    Review the complete paragraph, neighboring sentences, relevant endnotes, and the passage's role in the author's argument.
@@ -517,7 +531,7 @@ Historical or conceptual clarification belongs in analysis, notes, or glossary m
 
 Use these labels when a choice needs qualification:
 
-- **Documented equivalent:** the relevant dictionary entry or specialist usage was actually checked.
+- **Documented equivalent:** the relevant entry or specialist usage was checked to the verification standard appropriate to that source. Source-specific rules in `AGENTS.md` and `SOURCE-REGISTER.md` override this generic definition. For Ashouri, structured/OCR extraction alone is insufficient: the relevant original PDF page must have been visually checked under the project rules. Retain unresolved QC warnings; a lookup is not manual certification.
 - **Contextual proposal:** proposed from sentence analysis and context; specialist confirmation is still pending.
 - **German concept source check needed:** the German term or underlying concept requires historical, disciplinary, institutional, legal, or conceptual verification.
 - **Historical source check needed:** the scope or historical reference of the term or claim is unclear.
@@ -636,7 +650,7 @@ Likewise, use of a translation in several drafts does not automatically make it 
 
 ## 12. Report format for each practice chunk
 
-Use the following structure unless a sentence-level question calls for a shorter response:
+Use the following structure in Review Mode unless a sentence-level question calls for a shorter response. In Learning Mode, omit draft comparison and the complete Persian proposal until Adel attempts the translation or explicitly requests the solution; end the initial teaching response with hints/questions instead.
 
 1. **Brief assessment**  
    Strengths and main issues in Adel's draft.

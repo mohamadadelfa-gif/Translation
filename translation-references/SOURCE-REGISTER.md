@@ -1,6 +1,6 @@
 # Translation Reference Register
 
-Updated 2026-09-27.
+Updated 2026-09-29.
 
 This file defines the approved reference set and the role of each source in the English-to-Persian translation of *Revisiting Zero Hour 1945*.
 
@@ -105,7 +105,7 @@ For a difficult sentence, identify the grammatical relationships first, then exp
 
 Do not attribute an analysis to Huddleston, Pullum, and Reynolds unless the relevant chapter or section has actually been inspected. If the mentor analyses a sentence without a source check, label that part as mentor grammatical analysis.
 
-Use `CHAPTER-MAP.md` as a navigation aid, not as evidence for a particular syntactic analysis.
+Use [CHAPTER-MAP.md](grammar/english/huddleston-pullum-reynolds/CHAPTER-MAP.md) as navigation only. Inspect the relevant canonical PDF chapter/section before attribution and record chapter/section/page when practical. Distinguish FORM, FUNCTION, DEPENDENCY and SCOPE as required by `MENTOR_WORKFLOW.md`.
 
 ---
 
@@ -181,7 +181,7 @@ The former top-level `.txt` paths are historical and are no longer present in th
 
 The supplied [index package](../sources/Hezareh_Dictionary_Index/README.md) provides lookup records and a [lookup script](../sources/Hezareh_Dictionary_Index/dictionary-index/hezareh_lookup.py). Treat the whole supplied package as read-only. Its internal example architecture is package documentation, not a replacement for this project's layout or workflow.
 
-The index is a retrieval aid, not independent lexical evidence. Resolve its `source/...#L...` pointers relative to `sources/Hezareh_Dictionary_Index/`, inspect the cited extraction, and retain the PDF page and verification status. `visually_checked` records report the supplied package's review status; they do not establish that the current mentor checked the original PDF. `raw_ocr` and `hint_only` results require appropriate qualification. The original Hezareh PDF is not present in the tracked source collection; request the relevant page when extraction cannot support a consequential choice.
+The index is a retrieval aid, not independent lexical evidence. Resolve its `source/...#L...` pointers relative to `sources/Hezareh_Dictionary_Index/`, inspect the cited extraction, and retain the PDF page and verification status. `visually_checked` records report the supplied package's review status; they do not establish that the current mentor checked the original PDF. `verification_status: raw_ocr` and `boundary_confidence: hint_only` require different qualifications; see the field and match semantics in [AGENTS.md](../AGENTS.md#hezareh-match-semantics). The original Hezareh PDF is not present in the tracked source collection; request the relevant page when extraction cannot support a consequential choice.
 
 Hezareh is an **active bilingual vocabulary reference**, not merely a backup for Ariyanpour.
 
@@ -257,6 +257,15 @@ No dictionary is selected merely because it appears first in the project documen
 ### Ashouri — فرهنگ علوم انسانی
 
 `sources/Ashouri — فرهنگ علوم انسانی.pdf`
+
+Default retrieval locations:
+
+- [Per-letter Markdown](ashouri/dictionary/)
+- [Master CSV index](ashouri/index/headwords-master.csv)
+- [Master JSONL index](ashouri/index/headwords-master.jsonl)
+- [A–Z QC report](ashouri/qc/AZ-cross-letter-audit.md)
+
+A–Z structural extraction is complete: 26,333 records, with 12,875 currently flagged for visual/OCR review in the supplied report. These counts describe extraction, not manual certification. Retrieve the entry and its QC record first. The PDF remains authoritative; under `AGENTS.md`, do not label an Ashouri equivalent `Documented equivalent` without visual verification of the relevant original page.
 
 Use this source for:
 
@@ -474,6 +483,18 @@ This file is the Persian translation of William Faulkner's *As I Lay Dying* (*گ
 Use it as a **translation-craft and Persian prose reference**.
 
 It is not a general bilingual dictionary and should not normally be used as direct lexical authority.
+
+### Retrieval and alignment
+
+Canonical English source: `sources/Faulkner - As I Lay Dying - Corrected Text.pdf`; the Persian PDF above remains canonical for the translation.
+
+- [Paired sections CSV](../translation-preparation/translation-craft-corpus/paired-sections.csv)
+- [Paired sections JSONL](../translation-preparation/translation-craft-corpus/paired-sections.jsonl)
+- [English per-section corpus](../translation-preparation/translation-craft-corpus/faulkner-as-i-lay-dying/text/)
+- [Persian per-section corpus](../translation-preparation/translation-craft-corpus/daryabandari-as-i-lay-dying/text/)
+- [Analytical pilot cases](translation-craft/daryabandari/parallel-cases.jsonl)
+
+The 59-pair corpus is retrieval/alignment infrastructure at section level, not global sentence alignment. Resolve pilot `section` IDs through the alignment table; pilot cases are analytical examples, not independent source evidence. Inspect both actual passages before making a source-to-translation claim and verify consequential transcription against the PDFs. Valid checksums establish file integrity, not OCR/transcription correctness or translation quality.
 
 ### Main role
 

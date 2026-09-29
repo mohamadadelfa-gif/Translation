@@ -90,16 +90,24 @@ For a consequential or uncertain English term:
 2. prefer exact or base-headword matches before broader matches;
 3. record the returned headword, PDF page, verification status, boundary confidence, and source pointer;
 4. follow the source pointer into the corresponding Markdown extraction before attributing wording to Hezareh;
-5. distinguish `visually_checked`, `raw_ocr`, and `hint_only` results;
+5. distinguish `verification_status` (`visually_checked`, `raw_ocr`) from `boundary_confidence` (`high`, `medium`, `low`, `hint_only`);
 6. do not treat the index record itself as independent lexical evidence.
 
 For `raw_ocr`, report that the wording is OCR-derived and requires source verification when it materially affects the translation.
 
-For `hint_only`, use the result only to locate the relevant page; do not treat it as a reconstructed dictionary entry.
+For `boundary_confidence: hint_only`, use the result only to locate the relevant page; do not treat it as a reconstructed dictionary entry.
 
 A `visually_checked` status records the supplied Hezareh package's verification state. It does not mean that the current mentor independently inspected an original PDF page.
 
 The original Hezareh PDF is not currently present in the tracked repository. If the extraction is insufficient for a consequential lexical decision, preserve the uncertainty rather than inventing verification.
+
+### Hezareh match semantics
+
+Distinguish exact headword, exact base-headword, verified exact alias, prefix, and full-text fallback matches. Establish a verified exact alias from the actual alias record and its checked source, not merely from a phrase appearing in OCR. Follow the source pointer before attribution in every case.
+
+A prefix or full-text hit is a retrieval clue, not an exact dictionary entry for the query. For example, `make up for` returning `loss-making` because the phrase occurs within OCR text is only a broad retrieval hit/navigation clue. Do not attribute the searched expression to Hezareh unless an exact/base/verified-alias entry has actually been established.
+
+The current lookup tool does not expose match type directly. Report that limitation; establish a classification from inspected records where possible, otherwise leave it unspecified rather than inventing one. Do not modify the supplied Hezareh package.
 
 ### Evidence-status discipline
 
