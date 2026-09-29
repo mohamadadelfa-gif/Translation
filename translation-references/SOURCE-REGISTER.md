@@ -402,25 +402,46 @@ Do not infer historical meaning from the German word alone.
 
 ### فرهنگ طیفی — تزاروس فارسی
 
-Primary project file:
+Canonical source:
 
 `sources/فرهنگ طیفی - تزاروس فارسی.docx`
 
-This Word document is the active project source for exploring Persian semantic relationships and related expressions.
+Supplied full-text extraction / audit aid:
 
-A supplied [Markdown version](<../sources/فرهنگ طیفی - تزاروس فارسی.md>) is also available for searching and locating entries. Its equivalence to the Word document has not been fully verified. Check the relevant entry against the Word document before relying on questionable extraction; do not assume that Markdown conversion validates the wording. Both supplied files remain read-only.
+`sources/فرهنگ طیفی - تزاروس فارسی.md`
+
+Routine model retrieval:
+
+`translation-references/persian-thesaurus/`
+
+The canonical DOCX is authoritative for structure and wording. The derived retrieval layer was built from DOCX paragraph styles and source run formatting, not from Markdown heading syntax.
+
+Build validation currently establishes:
+
+- 991 numbered semantic entries, complete from 1 through 991;
+- 10 semantic-entry Markdown shards;
+- 82 sharded reverse term-occurrence indexes;
+- 3,674 explicit source `⍃` cross-reference records;
+- 88,759 reverse term-occurrence records;
+- zero numbered-entry heading mismatches between the DOCX and supplied Markdown after Markdown unescaping;
+- three known Markdown structural misclassifications where DOCX body material was promoted to Markdown headings: entry 316 (`مقولات هگل`), entry 708 (`طبقۀ اجتماعی`), and entry 868 (`طبقۀحاکمه`).
+
+These three anomalies are recorded in:
+
+`translation-references/persian-thesaurus/qc/markdown-structural-anomalies.csv`
 
 ### Role
 
-Use it for:
+Use the thesaurus for:
 
-- exploring semantic fields;
-- finding related Persian words;
-- comparing possible formulations;
+- exploring Persian semantic fields;
+- finding related Persian expressions;
+- comparing plausible formulations after the English meaning has been established;
 - identifying neighboring concepts;
-- expanding the range of candidate Persian expressions after the source meaning has been established.
+- examining explicit source cross-references;
+- widening or narrowing Persian candidate wording.
 
-The thesaurus does **not** determine the meaning of the English source.
+The thesaurus does **not** determine the meaning of the English source and is not an English–Persian dictionary.
 
 Its role comes after source interpretation:
 
@@ -429,23 +450,36 @@ SOURCE MEANING
       ↓
 BILINGUAL / SPECIALIST EVIDENCE
       ↓
+INITIAL PERSIAN CANDIDATES
+      ↓
 PERSIAN THESAURUS
       ↓
-PERSIAN EXPRESSION OPTIONS
+PERSIAN SEMANTIC-FIELD COMPARISON
 ```
 
-Related words are not automatically synonyms.
+### Retrieval protocol
 
-A semantic neighbor in the thesaurus must still be evaluated for:
+1. For a known numbered semantic-field heading, use `persian-thesaurus/index/entries-master.csv`.
+2. For a source-bold lead term, use `persian-thesaurus/index/lead-terms.csv`.
+3. For another Persian candidate term or phrase, use `persian-thesaurus/index/TERM-SHARD-MAP.csv` to select the relevant reverse-occurrence shard under `persian-thesaurus/index/terms/`.
+4. Follow the returned `file` and `anchor` into the complete semantic entry under `persian-thesaurus/entries/`.
+5. Inspect the full semantic field before using it as evidence.
+6. When relevant, use `persian-thesaurus/index/explicit-cross-references.csv`, which records only explicit source `⍃` relations.
+7. If structure or wording is consequential or ambiguous, resolve it against the canonical DOCX.
 
-- precision;
-- register;
-- collocation;
-- historical appropriateness;
-- grammatical compatibility;
-- suitability for scholarly Persian.
+The reverse term index is navigation only. A word appearing in one semantic entry does not by itself establish synonymy, equivalence, broader/narrower relation, or recommendation.
 
-Do not choose a word merely because it appears near another word in the thesaurus.
+Do not write:
+
+> “The thesaurus recommends X”
+
+merely because X occurs in the same semantic field.
+
+Use the reference-account form:
+
+`Persian thesaurus — entry <id> «<heading>» — <shard>#<anchor> — finding — effect on translation`
+
+Project translation decisions belong in `GLOSSARY.md`; they must not be written back into the thesaurus source or retrieval layer.
 
 ---
 
