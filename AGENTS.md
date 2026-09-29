@@ -78,6 +78,31 @@ Use the confidence labels defined in `MENTOR_WORKFLOW.md`.
 
 For consequential or uncertain general vocabulary, compare Ariyanpour and Hezareh as active peers, following `translation-references/WORD-CHOICE-POLICY.md`. Use `translation-references/GERMAN-CONCEPTS.md` for historical-conceptual research; its research state is distinct from approval of a Persian equivalent.
 
+### Hezareh lookup discipline
+
+For Hezareh, use the supplied dictionary index as the default retrieval route rather than manually searching the eight source files first.
+
+The lookup tool is:
+
+`sources/Hezareh_Dictionary_Index/dictionary-index/hezareh_lookup.py`
+
+For a consequential or uncertain English term:
+
+1. query the Hezareh index for the word or phrase;
+2. prefer exact or base-headword matches before broader matches;
+3. record the returned headword, PDF page, verification status, boundary confidence, and source pointer;
+4. follow the source pointer into the corresponding Markdown extraction before attributing wording to Hezareh;
+5. distinguish `visually_checked`, `raw_ocr`, and `hint_only` results;
+6. do not treat the index record itself as independent lexical evidence.
+
+For `raw_ocr`, report that the wording is OCR-derived and requires source verification when it materially affects the translation.
+
+For `hint_only`, use the result only to locate the relevant page; do not treat it as a reconstructed dictionary entry.
+
+A `visually_checked` status records the supplied Hezareh package's verification state. It does not mean that the current mentor independently inspected an original PDF page.
+
+The original Hezareh PDF is not currently present in the tracked repository. If the extraction is insufficient for a consequential lexical decision, preserve the uncertainty rather than inventing verification.
+
 ### Evidence-status discipline
 
 Structured or OCR-derived reference material is retrieval evidence, not automatically verified evidence.
