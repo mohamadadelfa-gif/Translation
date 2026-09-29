@@ -508,7 +508,7 @@ Najafi is a Persian usage reference.
 
 It does not determine the meaning of the English source.
 
-Until a verified `translation-references/najafi/` entry layer exists, record the exact PDF page inspected and distinguish visual source evidence from mentor interpretation. Any future Najafi retrieval layer must preserve the PDF as canonical and must not promote unverified OCR to source evidence.
+A verified navigation layer now exists at `translation-references/najafi/`, but its coverage is intentionally partial. Use `translation-references/najafi/index/headwords-master.csv` or the matching letter index when the requested headword is already covered, then open the recorded page in the canonical PDF and inspect the actual entry visually. If a term is absent from the current index, do **not** infer that Najafi lacks the entry; extend the visual navigation layer or inspect the relevant alphabetical pages directly. The index is navigation only and must not be cited as Najafi's wording. Record usable evidence as `Najafi — «<headword>» — PDF p. <pdf_page> / printed p. <printed_page> — visually_checked — finding — effect on translation`. Any future entry transcription under `translation-references/najafi/entries/` must preserve the PDF as canonical and must not promote unverified OCR to source evidence.
 
 ---
 
