@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "entries_input": 50259,
+  "entries_generated": 50259,
+  "unique_ids_generated": 50259,
+  "index_rows": 50259,
+  "shards": 45,
+  "largest_shard_bytes": 300318,
+  "known_character_issue_entries": 3,
+  "test_lookups": {
+    "criterion": [
+      {
+        "headword": "criterion",
+        "normalized_headword": "criterion",
+        "entry_id": 9416,
+        "file": "dictionary/C/C-03.md",
+        "anchor": "entry-9416-criterion",
+        "source_character_issue": "false"
+      }
+    ],
+    "criteria": [
+      {
+        "headword": "criteria",
+        "normalized_headword": "criteria",
+        "entry_id": 9415,
+        "file": "dictionary/C/C-03.md",
+        "anchor": "entry-9415-criteria",
+        "source_character_issue": "false"
+      }
+    ],
+    "poised": [],
+    "experience": [
+      {
+        "headword": "experience",
+        "normalized_headword": "experience",
+        "entry_id": 14335,
+        "file": "dictionary/E/E-01.md",
+        "anchor": "entry-14335-experience",
+        "source_character_issue": "false"
+      }
+    ],
+    "history": [
+      {
+        "headword": "history",
+        "normalized_headword": "history",
+        "entry_id": 19758,
+        "file": "dictionary/H/H-01.md",
+        "anchor": "entry-19758-history",
+        "source_character_issue": "false"
+      }
+    ],
+    "shape": [
+      {
+        "headword": "shape",
+        "normalized_headword": "shape",
+        "entry_id": 39168,
+        "file": "dictionary/S/S-02.md",
+        "anchor": "entry-39168-shape",
+        "source_character_issue": "false"
+      }
+    ]
+  }
+}

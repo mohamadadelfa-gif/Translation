@@ -1,0 +1,46 @@
+letter,shard,file,first_headword,last_headword,entries,bytes_utf8
+A,1,dictionary/A/A-01.md,a,anagrammatize,1692,300304
+A,2,dictionary/A/A-02.md,anal,azygous,1529,270742
+B,1,dictionary/B/B-01.md,b,bosket,1725,300170
+B,2,dictionary/B/B-02.md,bosky,byzantine,728,122771
+C,1,dictionary/C/C-01.md,c,clodpoll,1786,299970
+C,2,dictionary/C/C-02.md,clog,crane,1804,300239
+C,3,dictionary/C/C-03.md,cranesbill,czechoslovakia,615,101898
+D,1,dictionary/D/D-01.md,d,disobey,1789,300266
+D,2,dictionary/D/D-02.md,disoblige,dysuria,985,168284
+E,1,dictionary/E/E-01.md,e,exploitation,1711,300200
+E,2,dictionary/E/E-02.md,exploration,eyrie,195,35124
+F,1,dictionary/F/F-01.md,f,foul play,1742,300246
+F,2,dictionary/F/F-02.md,foulard,fyloft,557,102520
+G,1,dictionary/G/G-01.md,g,gummiferous,1643,300161
+G,2,dictionary/G/G-02.md,gummite,gyve,98,16173
+H,1,dictionary/H/H-01.md,h,hungarian,1683,300167
+H,2,dictionary/H/H-02.md,hunger,hysteroid,274,50805
+I,1,dictionary/I/I-01.md,i,intercellular,1650,300108
+I,2,dictionary/I/I-02.md,intercept,ivy,615,113497
+J,1,dictionary/J/J-01.md,j,juxtaposition,463,81479
+K,1,dictionary/K/K-01.md,k,kyte,370,64077
+L,1,dictionary/L/L-01.md,l,lounge car,1645,300200
+L,2,dictionary/L/L-02.md,lounger,lysis,291,53556
+M,1,dictionary/M/M-01.md,m,misestimate,1744,300245
+M,2,dictionary/M/M-02.md,misfeasance,mythos,824,135719
+N,1,dictionary/N/N-01.md,n,nymphomania,859,143478
+O,1,dictionary/O/O-01.md,o,ozone,1076,185426
+P,1,dictionary/P/P-01.md,p,pinnulated,1676,300306
+P,2,dictionary/P/P-02.md,pinnule,printed circuit,1648,300248
+P,3,dictionary/P/P-03.md,printed circuit board,pyxie,1068,189611
+Q,1,dictionary/Q/Q-01.md,q,qyaternary,254,45746
+R,1,dictionary/R/R-01.md,r,rhinoceros,1714,300268
+R,2,dictionary/R/R-02.md,rhinolaryngology,rye,687,120495
+S,1,dictionary/S/S-01.md,s,septet,1728,300202
+S,2,dictionary/S/S-02.md,septette,snowcap,1657,300145
+S,3,dictionary/S/S-03.md,snowdrift,stodgy,1657,300318
+S,4,dictionary/S/S-04.md,stogie,syzygy,1502,268077
+T,1,dictionary/T/T-01.md,t,topper,1716,300155
+T,2,dictionary/T/T-02.md,topping,tzarina,1300,238210
+U,1,dictionary/U/U-01.md,u,uzbek,905,162855
+V,1,dictionary/V/V-01.md,v,vying,911,162831
+W,1,dictionary/W/W-01.md,w,wyvern,1426,252816
+X,1,dictionary/X/X-01.md,x,xylotomy,38,6880
+Y,1,dictionary/Y/Y-01.md,y,yurta,138,24051
+Z,1,dictionary/Z/Z-01.md,z,zymurgy,141,26851

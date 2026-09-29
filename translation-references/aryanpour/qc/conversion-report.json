@@ -1,0 +1,22 @@
+{
+  "source": "C:/Users/Adel/Desktop/Ariyan Pour Dictionary/Generic English-Persian Dictionary.ld2",
+  "sourceBytes": 1846368,
+  "sourceSha256": "d69ee28c3faa54648528e754aef85cb51f62f6330c0cadeed943ae2c5984d765",
+  "entries": 50259,
+  "compressedBlocks": 400,
+  "uncompressedBytes": 6551438,
+  "wordEncoding": "UTF-8",
+  "definitionEncoding": "UTF-8",
+  "entriesWithPersianArabicCharacters": 50140,
+  "entriesWithReplacementCharacters": 3,
+  "allEntriesStrictlyDecoded": true,
+  "allEntriesUtf8RoundTripPassed": true,
+  "sampleEntries": 15,
+  "sourceUnchanged": true,
+  "scope": "Full glossary exported as readable UTF-8 text and JSON Lines with original definition markup preserved.",
+  "formatReference": "https://github.com/nviet/lingoes-converter/blob/master/LingoesConverter.php",
+  "sourceByteRoundTripPassed": true,
+  "characterIssueExplanation": "Three entries contain literal U+FFFD replacement characters already present in the decompressed source bytes: apostle, asafetida, asafoetida. Extraction introduced no replacement characters.",
+  "exportedEntries": 50259,
+  "exportVerificationPassed": true
+}

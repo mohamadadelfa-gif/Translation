@@ -1,0 +1,62 @@
+{
+  "name": "Aryanpour model retrieval layer",
+  "build_type": "derived GitHub-friendly dictionary lookup layer",
+  "canonical_source_expected_path": "translation-references/aryanpour/aryanpour-english-persian.jsonl",
+  "entries_total": 50259,
+  "letters": {
+    "A": 3221,
+    "B": 2453,
+    "C": 4205,
+    "D": 2774,
+    "E": 1906,
+    "F": 2299,
+    "G": 1741,
+    "H": 1957,
+    "I": 2265,
+    "J": 463,
+    "K": 370,
+    "L": 1936,
+    "M": 2568,
+    "N": 859,
+    "O": 1076,
+    "P": 4392,
+    "Q": 254,
+    "R": 2401,
+    "S": 6544,
+    "T": 3016,
+    "U": 905,
+    "V": 911,
+    "W": 1426,
+    "X": 38,
+    "Y": 138,
+    "Z": 141
+  },
+  "shards_total": 45,
+  "target_shard_bytes": 300000,
+  "largest_shard_bytes": 300318,
+  "source_files": {
+    "aryanpour-english-persian.jsonl": {
+      "bytes": 14657503,
+      "sha256": "d4394a34f65874a311177a5884360b15a02290d66e5fc5fbc4d8245d6ff3a919"
+    },
+    "aryanpour-english-persian.txt": {
+      "bytes": 4479993,
+      "sha256": "13a9f49a60fbec19cc7b2b1992cbcfa616934e7233a15093898b25d4a0dd5d21"
+    },
+    "conversion-report.json": {
+      "bytes": 1112,
+      "sha256": "25b113c9aedbc8b35a788c82fbe872cbddbf9e46b7455e213dda075c757b93f6"
+    },
+    "source-character-issues.json": {
+      "bytes": 858,
+      "sha256": "96312ee960427162890f00850773f0f6957c930a33fb5086e9158521d9df2b63"
+    }
+  },
+  "rules": {
+    "dictionary_wording_modified": false,
+    "persian_definition_source": "canonical JSONL persian field verbatim",
+    "headword_normalization_scope": "index only: NFKC + whitespace collapse + casefold",
+    "same_exact_headword_kept_in_same_shard": true,
+    "canonical_source_replaced": false
+  }
+}
