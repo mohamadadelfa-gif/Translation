@@ -1,4 +1,6 @@
-# Translation Mentor — Project Instructions
+from pathlib import Path
+
+content = """# Translation Mentor — Project Instructions
 
 This repository is the working environment for Adel's English-to-Persian translation of *Revisiting Zero Hour 1945* and for learning translation through guided practice.
 
@@ -76,6 +78,25 @@ Use the confidence labels defined in `MENTOR_WORKFLOW.md`.
 
 For consequential or uncertain general vocabulary, compare Ariyanpour and Hezareh as active peers, following `translation-references/WORD-CHOICE-POLICY.md`. Use `translation-references/GERMAN-CONCEPTS.md` for historical-conceptual research; its research state is distinct from approval of a Persian equivalent.
 
+### Evidence-status discipline
+
+Structured or OCR-derived reference material is retrieval evidence, not automatically verified evidence.
+
+For Ashouri:
+
+- a structured Markdown entry may be used to locate a candidate equivalent;
+- if the relevant original PDF page has not been visually checked, do not label the equivalent as `Documented equivalent`;
+- report it as extracted or OCR-derived evidence and state that source verification is still needed;
+- if the QC files flag the entry as uncertain, preserve that uncertainty explicitly.
+
+For historically significant German terms already listed in `translation-references/GERMAN-CONCEPTS.md`, use the confidence labels defined in `MENTOR_WORKFLOW.md`.
+
+If the concept itself still requires historical or conceptual verification, use:
+
+`German concept source check needed`
+
+Do not replace this with a broader confidence label unless the uncertainty concerns a different historical claim rather than the German concept itself.
+
 ## Glossary discipline
 
 Use `translation-references/GLOSSARY.md` for project terminology.
@@ -91,3 +112,8 @@ At the beginning of continuing work:
 3. Read enough surrounding source context to understand the argument.
 4. Follow `MENTOR_WORKFLOW.md`.
 5. Preserve uncertainty instead of inventing certainty.
+"""
+
+path = Path("/mnt/data/AGENTS.md")
+path.write_text(content, encoding="utf-8")
+print(path)
