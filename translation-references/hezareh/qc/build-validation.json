@@ -1,0 +1,143 @@
+{
+  "status": "PASS",
+  "records_input": 38957,
+  "records_generated": 38957,
+  "unique_ids_input": 38957,
+  "unique_ids_generated": 38957,
+  "index_rows": 38957,
+  "shards": 174,
+  "largest_shard_bytes": 250385,
+  "target_shard_bytes": 250000,
+  "verification_status_counts": {
+    "raw_ocr": 38771,
+    "visually_checked": 186
+  },
+  "boundary_confidence_counts": {
+    "hint_only": 4647,
+    "high": 17933,
+    "medium": 13719,
+    "low": 2658
+  },
+  "records_without_entry_text": 4647,
+  "normalized_headwords_with_multiple_records": 654,
+  "test_lookups": {
+    "criterion": {
+      "exact_count": 1,
+      "base_count": 0,
+      "exact": [
+        {
+          "headword": "criterion",
+          "record_id": "hz-008380",
+          "verification_status": "raw_ocr",
+          "boundary_confidence": "high",
+          "pdf_page": 341,
+          "file": "dictionary/C/C-15.md",
+          "anchor": "hz-008380-criterion",
+          "source_pointer": "sources/Hezareh_Dictionary_Index/source/Hezareh_Part_02_PDF_0251-0500.md#L11084-L11085"
+        }
+      ],
+      "base": []
+    },
+    "criteria": {
+      "exact_count": 0,
+      "base_count": 0,
+      "exact": [],
+      "base": []
+    },
+    "experience": {
+      "exact_count": 1,
+      "base_count": 0,
+      "exact": [
+        {
+          "headword": "experience",
+          "record_id": "hz-012719",
+          "verification_status": "raw_ocr",
+          "boundary_confidence": "medium",
+          "pdf_page": 535,
+          "file": "dictionary/E/E-06.md",
+          "anchor": "hz-012719-experience",
+          "source_pointer": "sources/Hezareh_Dictionary_Index/source/Hezareh_Part_03_PDF_0501-0750.md#L4097-L4105"
+        }
+      ],
+      "base": []
+    },
+    "history": {
+      "exact_count": 1,
+      "base_count": 0,
+      "exact": [
+        {
+          "headword": "history",
+          "record_id": "hz-017313",
+          "verification_status": "raw_ocr",
+          "boundary_confidence": "medium",
+          "pdf_page": 766,
+          "file": "dictionary/H/H-05.md",
+          "anchor": "hz-017313-history",
+          "source_pointer": "sources/Hezareh_Dictionary_Index/source/Hezareh_Part_04_PDF_0751-1000.md#L1900-L1901"
+        }
+      ],
+      "base": []
+    },
+    "shape": {
+      "exact_count": 2,
+      "base_count": 0,
+      "exact": [
+        {
+          "headword": "SHAPE",
+          "record_id": "hz-030870",
+          "verification_status": "raw_ocr",
+          "boundary_confidence": "high",
+          "pdf_page": 1535,
+          "file": "dictionary/S/S-05.md",
+          "anchor": "hz-030870-shape",
+          "source_pointer": "sources/Hezareh_Dictionary_Index/source/Hezareh_Part_07_PDF_1501-1750.md#L4194-L4199"
+        },
+        {
+          "headword": "Shape",
+          "record_id": "hz-030871",
+          "verification_status": "raw_ocr",
+          "boundary_confidence": "high",
+          "pdf_page": 1535,
+          "file": "dictionary/S/S-05.md",
+          "anchor": "hz-030871-shape",
+          "source_pointer": "sources/Hezareh_Dictionary_Index/source/Hezareh_Part_07_PDF_1501-1750.md#L4194-L4199"
+        }
+      ],
+      "base": []
+    },
+    "recent": {
+      "exact_count": 1,
+      "base_count": 0,
+      "exact": [
+        {
+          "headword": "recent",
+          "record_id": "hz-028430",
+          "verification_status": "raw_ocr",
+          "boundary_confidence": "medium",
+          "pdf_page": 1383,
+          "file": "dictionary/R/R-02.md",
+          "anchor": "hz-028430-recent",
+          "source_pointer": "sources/Hezareh_Dictionary_Index/source/Hezareh_Part_06_PDF_1251-1500.md#L15311-L15314"
+        }
+      ],
+      "base": []
+    },
+    "poised": {
+      "exact_count": 1,
+      "base_count": 0,
+      "exact": [
+        {
+          "headword": "poised",
+          "record_id": "hz-026687",
+          "verification_status": "raw_ocr",
+          "boundary_confidence": "high",
+          "pdf_page": 1274,
+          "file": "dictionary/P/P-07.md",
+          "anchor": "hz-026687-poised",
+          "source_pointer": "sources/Hezareh_Dictionary_Index/source/Hezareh_Part_06_PDF_1251-1500.md#L2909-L2911"
+        }
+      ],
+      "base": []
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "records_total": 38957,
+  "verification_status_counts": {
+    "raw_ocr": 38771,
+    "visually_checked": 186
+  },
+  "boundary_confidence_counts": {
+    "hint_only": 4647,
+    "high": 17933,
+    "medium": 13719,
+    "low": 2658
+  },
+  "records_without_entry_text": 4647,
+  "hint_only_records": 4647,
+  "low_confidence_records": 2658,
+  "normalized_headwords_with_multiple_records": 654
+}

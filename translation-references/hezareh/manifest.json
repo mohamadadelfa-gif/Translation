@@ -1,0 +1,25 @@
+{
+  "name": "Hezareh model retrieval layer",
+  "build_type": "derived GitHub-friendly evidence-aware dictionary lookup layer",
+  "canonical_package_expected_path": "sources/Hezareh_Dictionary_Index/",
+  "build_source": "hezareh_dictionary.jsonl",
+  "source_jsonl": {
+    "bytes": 30210056,
+    "sha256": "2a457fcc70777b1c9a2ebf8f7da41ae7ea9b7108448baf816511324823526dbe",
+    "records": 38957
+  },
+  "shards_total": 174,
+  "target_shard_bytes": 250000,
+  "largest_shard_bytes": 250385,
+  "rules": {
+    "canonical_source_modified": false,
+    "record_text_modified": false,
+    "entry_text_source": "entry_text field copied verbatim",
+    "normalized_headword_source": "supplied normalized_headword; fallback NFKC+whitespace+casefold only if absent",
+    "same_normalized_headword_kept_in_same_shard": true,
+    "duplicate_records_preserved": true,
+    "verification_status_preserved": true,
+    "boundary_confidence_preserved": true,
+    "hint_only_never_promoted_to_lexical_evidence": true
+  }
+}
