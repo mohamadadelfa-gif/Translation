@@ -1,0 +1,10 @@
+pdf_page,printed_page,first_visible_headword,last_visible_headword,page_status,notes
+13,1,آباد / آبادان,آبان / آبان,page_verified,"dictionary body begins; slash variant visually checked"
+14,2,آبیده / آباده,آتش گشودن,page_verified,"includes cross-reference heading آبگیر"
+15,3,آتی,آدم / آدمها,page_verified,"آتی and آجل are cross-reference-style headings"
+16,4,آدم / آدمها (continuation),آذر / آذار / آذر,page_partially_verified,"final heading has visually distinct vowel/spelling forms; exact diacritic distinction deferred"
+17,5,آذوقه,آزاد / آزاده,page_verified,""
+18,6,آزاد / آزاده (continuation),آستان / آستانه,page_verified,"includes cross-reference آذر and usage entries آزمایشات and آزوفه / آذوقه"
+19,7,آسمان / آسمانه,آشیان / آشیانه,page_verified,""
+20,8,آفریقا,آموختن,page_verified,""
+21,9,آنچه / آنچه که,آن را / تو را,page_verified,""

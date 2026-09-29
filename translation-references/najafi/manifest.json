@@ -1,0 +1,30 @@
+{
+  "source": {
+    "path": "sources/Najafi — غلط ننویسیم.pdf",
+    "pdf_pages": 480,
+    "github_blob_sha": "921d41929dd39b2e7eaec4a78768dd3833886f5a",
+    "bytes": 15086763,
+    "authority": "canonical_visual_scan"
+  },
+  "layer_type": "incremental_navigation_and_verified_entries",
+  "status": "partial",
+  "current_coverage": {
+    "pdf_pages": [
+      13,
+      21
+    ],
+    "printed_pages": [
+      1,
+      9
+    ],
+    "alphabet_section": "آ"
+  },
+  "evidence_rule": "index rows are navigation only; Najafi claims require visual inspection of the canonical page",
+  "files": {
+    "page_map": "index/page-map.csv",
+    "master_headwords": "index/headwords-master.csv",
+    "current_letter_index": "index/آ-headwords.csv",
+    "qc": "qc/build-validation.json",
+    "unresolved": "qc/unverified-headwords.csv"
+  }
+}

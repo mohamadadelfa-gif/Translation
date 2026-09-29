@@ -1,0 +1,17 @@
+{
+  "status": "PARTIAL_PASS",
+  "source_pdf_pages": 480,
+  "verified_navigation": {
+    "pdf_page_start": 13,
+    "pdf_page_end": 21,
+    "printed_page_start": 1,
+    "printed_page_end": 9,
+    "pages_fully_verified": 8,
+    "pages_partially_verified": 1,
+    "verified_headword_rows": 27,
+    "alphabet_section": "آ"
+  },
+  "unresolved_items": 1,
+  "evidence_gate": "PASS: no OCR-derived wording is treated as Najafi evidence",
+  "completion_note": "Phase 1 index is intentionally incomplete; absence from the current index is not evidence that Najafi lacks an entry."
+}
