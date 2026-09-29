@@ -1,0 +1,22 @@
+{
+  "name": "Persian Thesaurus model retrieval layer",
+  "source_title": "فرهنگ طیفی (تزاروس فارسی)",
+  "author": "جمشید فراروی",
+  "canonical_source_expected_path": "sources/فرهنگ طیفی - تزاروس فارسی.docx",
+  "comparison_source_expected_path": "sources/فرهنگ طیفی - تزاروس فارسی.md",
+  "build_source": "canonical DOCX paragraph styles and runs",
+  "entries_total": 991,
+  "entry_shards_total": 10,
+  "term_occurrence_rows": 88759,
+  "explicit_cross_reference_rows": 3674,
+  "rules": {
+    "canonical_source_modified": false,
+    "source_wording_rewritten": false,
+    "markdown_used_as_build_authority": false,
+    "docx_styles_define_structure": true,
+    "source_bold_preserved_as_markdown_bold": true,
+    "term_occurrence_index_is_navigation_not_synonym_evidence": true,
+    "cross_references_only_parsed_from_explicit_leading_symbol": "⍃",
+    "project_translation_decisions_belong_in_glossary_not_thesaurus": true
+  }
+}

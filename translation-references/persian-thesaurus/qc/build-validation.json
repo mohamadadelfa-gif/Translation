@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "canonical_docx": {
+    "bytes": 982084,
+    "sha256": "d32665429be9b95929f41da98513466dcb4768d6b4b9b53344862eac5a3dd439",
+    "numbered_entries": 991,
+    "numbering_complete_1_to_991": true
+  },
+  "supplied_markdown": {
+    "bytes": 1903286,
+    "sha256": "39544721387625db68fe1ab717cb8bdbd89ab781f21876ff0bf5a5560bd703a9",
+    "numbered_entries": 991,
+    "numbering_complete_1_to_991": true,
+    "heading_text_mismatches_after_markdown_unescape": 0,
+    "body_paragraphs_misclassified_as_markdown_headings": 3
+  },
+  "derived_layer": {
+    "entry_shards": 10,
+    "largest_entry_shard_bytes": 250058,
+    "lead_term_rows": 1090,
+    "term_occurrence_rows": 88759,
+    "term_index_shards": 82,
+    "largest_term_index_shard_bytes": 206245,
+    "explicit_cross_reference_rows": 3674
+  },
+  "known_markdown_structural_anomalies": [
+    {
+      "entry_id": 316,
+      "markdown_line": 5291,
+      "markdown_heading_level": 2,
+      "text": "مقولات هگل: تکوین، عدم، شُدن (تَعیّن)، وجود، کیف، کیفیت، تحقق، حد، وحدت، کثرت، کم، مادیت، محسوسیت، کمّ بیرونی، مقدار، عدد، کمّ درونی، درجه، تناسب، اندازه",
+      "docx_paragraph": 3033,
+      "issue": "DOCX body paragraph was promoted to a Markdown heading"
+    },
+    {
+      "entry_id": 708,
+      "markdown_line": 11611,
+      "markdown_heading_level": 3,
+      "text": "طبقۀ اجتماعی، ارباب، فئودال، رعیت، سرمایه‌دار، کارگر، روحانیت، جنگیان، برزگران، پیشه‌وران، بینوایان؛ بورژوازی، خرده‌بورژوازی؛ کاپیتالیست",
+      "docx_paragraph": 6694,
+      "issue": "DOCX body paragraph was promoted to a Markdown heading"
+    },
+    {
+      "entry_id": 868,
+      "markdown_line": 14333,
+      "markdown_heading_level": 3,
+      "text": "طبقۀحاکمه، رژیم، دستگاه، هزارفامیل، قاجار، سرمایه داران، بورژوازی، خبرگان 644، محفل شیک‌پوشان 848، دولت 733؛ بورژوا، آقازاده",
+      "docx_paragraph": 8249,
+      "issue": "DOCX body paragraph was promoted to a Markdown heading"
+    }
+  ]
+}
