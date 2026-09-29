@@ -41,6 +41,22 @@ For every consequential or uncertain English headword that requires a Hezareh ch
 
 The canonical Hezareh extraction package remains under `../sources/Hezareh_Dictionary_Index/`. The `hezareh/` directory is a derived model-retrieval layer, not a replacement for the source package.
 
+### Required Persian thesaurus retrieval protocol
+
+The Persian thesaurus is a semantic-field reference, not an English–Persian dictionary. Use it only after the English meaning and initial Persian candidates have been established.
+
+1. Use the derived retrieval layer under `persian-thesaurus/` for routine lookup.
+2. If the candidate is a numbered semantic-field heading or a source-bold lead term, use `persian-thesaurus/index/entries-master.csv` or `persian-thesaurus/index/lead-terms.csv`.
+3. For any other Persian candidate term or phrase, use `persian-thesaurus/index/TERM-SHARD-MAP.csv` to locate the relevant reverse-occurrence shard under `persian-thesaurus/index/terms/`.
+4. Follow the resulting `file` and `anchor` into the complete semantic entry under `persian-thesaurus/entries/`.
+5. Inspect the whole entry before drawing a semantic conclusion. A term's occurrence in an entry means only that it occurs in that semantic field; it does not establish synonymy, equivalence, broader/narrower relation, or recommendation.
+6. When useful, inspect `persian-thesaurus/index/explicit-cross-references.csv`, which records only explicit source `⍃` cross-references.
+7. Record the lookup as: `Persian thesaurus — entry <id> «<heading>» — <file>#<anchor> — finding — effect on translation`.
+8. The canonical source is `../sources/فرهنگ طیفی - تزاروس فارسی.docx`. The supplied Markdown is an audit/search aid. If a structural or wording ambiguity matters, resolve it against the DOCX rather than inferring from Markdown heading syntax.
+9. Never say that the thesaurus “recommends” a translation merely because a word appears in the same semantic field.
+
+The derived thesaurus layer contains all 991 numbered semantic entries. Its build audit records three known Markdown structural misclassifications; the retrieval layer is generated from the canonical DOCX structure rather than those Markdown headings.
+
 ## Selection rules
 
 Consult [SOURCE-REGISTER.md](SOURCE-REGISTER.md) for the uploaded reference collection, including Hezareh, Ashouri, Najafi, the Academy orthography guide, the Persian thesaurus, and the prose sample.
@@ -51,7 +67,7 @@ Adel confirmed this reference set on 2026-09-27. Use the source book for meaning
 2. Select the Persian sense appropriate to the sentence, the author's argument, and the historical or philosophical context. Do not automatically take the first equivalent.
 3. Treat Ariyanpour as one of the preferred vocabulary references, without automatic priority over other relevant sources. Weigh alternatives by contextual accuracy, clarity, specialist usage, idiomatic Persian, and the agreed scholarly tone. Do not use any dictionary as a mandatory word-for-word substitution list.
 4. For technical terms where the dictionary is insufficient, distinguish a context-based proposal or a separately verified specialist equivalent from the dictionary's own wording. Explain consequential departures briefly.
-5. Use the active Word thesaurus, [فرهنگ طیفی - تزاروس فارسی.docx](<../sources/فرهنگ طیفی - تزاروس فارسی.docx>), to explore related expressions. The supplied [Markdown version](<../sources/فرهنگ طیفی - تزاروس فارسی.md>) can help locate entries but has not been fully checked against Word. Inspect the entry and surrounding references in the Word document when extraction is doubtful; if this is insufficient, flag the need for an original page or scan. A thesaurus PDF is not currently supplied in `sources/`. Related words are not necessarily interchangeable.
+5. Use the Persian thesaurus through the indexed retrieval protocol above to explore semantic fields and related Persian expressions after source meaning has been established. The canonical DOCX remains authoritative; the supplied Markdown is an audit/search aid. Related words are not necessarily interchangeable, and an occurrence in the reverse term index is navigation rather than synonym evidence.
 6. Maintain consistent equivalents for recurring concepts unless the author changes the sense; record approved choices in the project glossary as they are established.
 7. Preserve dictionary source text. Do not silently reproduce damaged characters or assume dated spelling, typographical errors, or unsuitable senses are binding.
 8. The three known damaged entries are listed in `aryanpour/source-character-issues.json`.
@@ -60,7 +76,7 @@ Adel confirmed this reference set on 2026-09-27. Use the source book for meaning
 
 Per Adel's instruction of 2026-09-28, every paragraph review must also check the Persian thesaurus, a relevant passage of Daryabandari's Persian prose, and the relevant terminology/usage/orthography material in Ashouri, Najafi, and the Academy guide. Follow the three supplementary-check groups in [MENTOR_WORKFLOW.md](../MENTOR_WORKFLOW.md#required-supplementary-checks-for-every-paragraph).
 
-Report each source's actual locator, finding, and effect on the proposed wording, including decisions to retain Adel's wording. For Ariyanpour, the locator must include the headword, Entry ID, shard path, and anchor when an exact entry is found. For Hezareh, include the headword, record ID, PDF page, verification status, boundary confidence, shard path, and anchor when a usable record is found. Clearly distinguish a checked passage, reused documented evidence, an unsuccessful scoped search, and an incomplete check caused by unavailable or unreadable material. Do not attribute a proposal to any of these sources without inspecting relevant evidence, or claim a source-to-translation comparison from Persian prose alone.
+Report each source's actual locator, finding, and effect on the proposed wording, including decisions to retain Adel's wording. For Ariyanpour, the locator must include the headword, Entry ID, shard path, and anchor when an exact entry is found. For Hezareh, include the headword, record ID, PDF page, verification status, boundary confidence, shard path, and anchor when a usable record is found. For the Persian thesaurus, include semantic entry ID, heading, shard path, anchor, finding, and effect. Clearly distinguish a checked passage, reused documented evidence, an unsuccessful scoped search, and an incomplete check caused by unavailable or unreadable material. Do not attribute a proposal to any of these sources without inspecting relevant evidence, or claim a source-to-translation comparison from Persian prose alone.
 
 For historically significant German concepts, follow [GERMAN-CONCEPTS.md](GERMAN-CONCEPTS.md) and record practical translation decisions in [GLOSSARY.md](GLOSSARY.md). Research evidence and candidate/approved decision status are separate; no candidate becomes approved without Adel's explicit decision.
 
