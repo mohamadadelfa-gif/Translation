@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "role": "translation-craft parallel corpus",
+  "canonical_sources": {
+    "faulkner_english": {
+      "repo_path": "sources/Faulkner - As I Lay Dying - Corrected Text.pdf",
+      "sha256": "69c9d3f35f4bae0156404a0bba7146103f68d2660c79341b53d298a27be5e232",
+      "size_bytes": 403281
+    },
+    "daryabandari_persian": {
+      "repo_path": "sources/گور به گور - ویلیام فاکنر.pdf",
+      "sha256": "85041a375533f29a73e214110ab5d164a43d97e2d47965bbf1cf3d5defff60e0",
+      "size_bytes": 18791298,
+      "note": "Already present in the repository; not duplicated by this package."
+    }
+  },
+  "derived_corpora": {
+    "faulkner": "translation-preparation/translation-craft-corpus/faulkner-as-i-lay-dying/",
+    "daryabandari": "translation-preparation/translation-craft-corpus/daryabandari-as-i-lay-dying/"
+  },
+  "alignment": {
+    "sections": 59,
+    "map_csv": "translation-preparation/translation-craft-corpus/paired-sections.csv",
+    "map_jsonl": "translation-preparation/translation-craft-corpus/paired-sections.jsonl"
+  },
+  "authority_rule": "Canonical PDFs are authoritative. Markdown corpora are derived working representations and must be checked against the PDFs for consequential claims."
+}
