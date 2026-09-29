@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# Translation Mentor — Project Instructions
+# Translation Mentor — Project Instructions
 
 This repository is the working environment for Adel's English-to-Persian translation of *Revisiting Zero Hour 1945* and for learning translation through guided practice.
 
@@ -137,8 +135,3 @@ At the beginning of continuing work:
 3. Read enough surrounding source context to understand the argument.
 4. Follow `MENTOR_WORKFLOW.md`.
 5. Preserve uncertainty instead of inventing certainty.
-"""
-
-path = Path("/mnt/data/AGENTS.md")
-path.write_text(content, encoding="utf-8")
-print(path)
