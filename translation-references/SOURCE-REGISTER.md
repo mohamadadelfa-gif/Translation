@@ -487,7 +487,13 @@ Project translation decisions belong in `GLOSSARY.md`; they must not be written 
 
 ### Najafi — غلط ننویسیم
 
+Canonical source:
+
 `sources/Najafi — غلط ننویسیم.pdf`
+
+The active canonical file is the clearer 480-page scan currently stored at this path. It replaced the earlier 150-page scan; the earlier scan is retired from the active workflow.
+
+This PDF is a visual authority. Its machine-readable text layer is not reliable enough to treat as Najafi's wording. For consequential usage evidence, inspect the relevant scanned page visually before attributing a recommendation to Najafi.
 
 Use Najafi for consequential questions of Persian usage.
 
@@ -502,7 +508,7 @@ Najafi is a Persian usage reference.
 
 It does not determine the meaning of the English source.
 
-Always inspect the relevant entry before attributing a recommendation to Najafi.
+Until a verified `translation-references/najafi/` entry layer exists, record the exact PDF page inspected and distinguish visual source evidence from mentor interpretation. Any future Najafi retrieval layer must preserve the PDF as canonical and must not promote unverified OCR to source evidence.
 
 ---
 
