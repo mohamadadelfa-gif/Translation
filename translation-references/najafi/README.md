@@ -41,9 +41,9 @@ For a Persian usage question:
 Phase 1 is **incremental and incomplete**.
 
 Initial verified coverage:
-- PDF pages 13–21
-- printed pages 1–9
-- first alphabetic section: `آ`
+- PDF pages 13–30
+- printed pages 1–18
+- alphabetic sections currently covered: `آ`, then early `ا`
 
 See `qc/build-validation.json` for current coverage counts.
 
