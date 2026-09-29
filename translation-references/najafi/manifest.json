@@ -11,13 +11,16 @@
   "current_coverage": {
     "pdf_pages": [
       13,
-      21
+      30
     ],
     "printed_pages": [
       1,
-      9
+      18
     ],
-    "alphabet_section": "آ"
+    "alphabet_sections": [
+      "آ",
+      "ا"
+    ]
   },
   "evidence_rule": "index rows are navigation only; Najafi claims require visual inspection of the canonical page",
   "files": {
@@ -25,6 +28,10 @@
     "master_headwords": "index/headwords-master.csv",
     "current_letter_index": "index/آ-headwords.csv",
     "qc": "qc/build-validation.json",
-    "unresolved": "qc/unverified-headwords.csv"
+    "unresolved": "qc/unverified-headwords.csv",
+    "current_letter_indexes": [
+      "index/آ-headwords.csv",
+      "index/ا-headwords.csv"
+    ]
   }
 }
