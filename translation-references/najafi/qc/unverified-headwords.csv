@@ -1,2 +1,6 @@
 pdf_page,printed_page,visible_form,issue,status
 16,4,آذر / آذار / آذر,"the printed forms appear to encode a pronunciation/diacritic distinction that is not safely represented from the current visual pass",unverified_candidate
+24,12,اتباع / اتباع / اتباع,"three printed forms are distinguished by vowel marks/pronunciation; base spelling is indexed but exact diacritics are not encoded here",display_detail_pending
+29,17,احیا / احیا,"two printed forms are distinguished by vowel marks/pronunciation; base spelling is indexed but exact diacritics are not encoded here",display_detail_pending
+29,17,اخبار / اخبار,"two printed forms are distinguished by vowel marks/pronunciation; base spelling is indexed but exact diacritics are not encoded here",display_detail_pending
+29,17,اخوان / اخوان,"two printed forms are distinguished by vowel marks/pronunciation; base spelling is indexed but exact diacritics are not encoded here",display_detail_pending
