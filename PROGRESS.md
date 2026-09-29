@@ -4,15 +4,19 @@
 
 ## ACTIVE continuation — C00-S02
 
-**Latest submitted/reviewed material:** in the current conversation, Adel supplied and the mentor reviewed the two sentences beginning “Tracing the origins of the oppositional spirit…” and ending “…their claim on reality.” This is conversation evidence only; no matching draft/review file has been saved and no approval is inferred.
+**Latest submitted/reviewed material:** in the current conversation, Adel supplied and the mentor reviewed the two sentences beginning “Consciously or unconsciously these writers…” and ending “…has itself run its course.” This is conversation evidence only; no matching draft/review file has been saved and no approval is inferred.
 
 **Latest recoverable saved draft:** [belatedness draft](drafts/C00-S02-belatedness-draft-01.md), with its [review](drafts/C00-S02-belatedness-reviewed-01.md), ending with the author's retrospective recognition of his own belatedness. Later chat work must not be represented as a saved artifact.
 
 **Active next working position:** the following exact sentence in [C00-S02](translation-preparation/C00.md):
 
-> Consciously or unconsciously these writers engaged in closing the chapter in which German writers and intellectuals had failed to stand up to the Nazi regime before 1945.
+> Shaped by a different experience of history in the making, a new generation of writers and scholars is poised to develop different criteria for the understanding of recent German literature and culture.
 
 This continuation tracks the conversation, not completion or approval of intervening text. Exact practice-chunk boundaries and missing saved submissions remain unresolved; do not reconstruct them. All older continuation markers below are historical and cannot override this section.
+
+## Deferred source checks
+
+Adel deferred the outstanding Group 47 source questions on 2026-09-29. See the [research checklist](translation-references/GERMAN-CONCEPTS.md#deferred-checks--group-47-passage): Trommler's article, the meaning of `nachgeholte Résistance`, Bigelow's secondary discussion, and `their claim on reality`. These remain open; the continuation above and all translation approval states are unchanged.
 
 ## Historical checkpoints
 

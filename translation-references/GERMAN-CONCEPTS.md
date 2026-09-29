@@ -243,6 +243,17 @@ Research state and translation-decision status are separate fields. Investigate 
 
 ---
 
+## Deferred checks — Group 47 passage
+
+Deferred at Adel's request on 2026-09-29. These are open research tasks, not approved terminology. Passage: [C00-S02](../translation-preparation/C00.md), “Tracing the origins…” through “…their claim on reality”, and endnote 6. Continuation of translation is not blocked by this list.
+
+- [ ] Obtain and read Frank Trommler, “Die nachgeholte Résistance: Politik und Gruppenethos im historischen Zusammenhang”, in *Die Gruppe 47 in der Geschichte der Bundesrepublik*, edited by Justus Fetscher, Eberhard Lämmert and Jürgen Schutte (Königshausen & Neumann, 1991), pp. 9–22. [Library catalogue](https://integro.ciniba.edu.pl/integro/192001860818/ksiazka/die-gruppe-47-in-der-geschichte-der-bundesrepublik); ISBN 9783884796115. Bibliographic identification was found; full article was not accessed.
+- [ ] Verify the historical and author-specific meaning of `nachgeholte Résistance`, especially the relationship between belated resistance and compensation for earlier failure. “مقاومت دیرهنگام و جبرانی” remains an unapproved contextual proposal. Confidence: `German concept source check needed`.
+- [ ] Read Jennifer Bigelow's discussion, printed p. 36 and notes 155–157, in the [University of Bern PDF](https://boristheses.unibe.ch/3137/1/18bigelow_j.pdf). Only search-indexed text was available; direct PDF opening failed. Check its references to Trommler pp. 12–13 and 17 against the original before treating the interpretation as verified primary evidence.
+- [ ] Resolve `their claim on reality`: compare the provisional literal wording “ادعای آنان بر واقعیت” with the interpretive possibility “ادعای حق تعریف واقعیت”. Neither is settled. The article in endnote 6 directly concerns the resistance concept; whether it explains this English expression is unknown. Do not assume that finding the article will resolve this separate question. Confidence: `Contextual proposal`; `Historical source check needed` for the intended historical scope.
+
+Research remains incomplete. No glossary approval or translation approval is implied; mark a task complete only after its stated evidence has actually been checked.
+
 ## 7. Relationship to the project glossary
 
 Use:
