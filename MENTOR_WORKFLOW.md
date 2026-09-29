@@ -110,7 +110,13 @@ In Review Mode, follow this order for each sentence or practice chunk. In Learni
 7. **Check vocabulary and terminology.**  
    Consult the appropriate references for consequential or uncertain choices. Never accept the first dictionary equivalent automatically.
 
+   For consequential or uncertain general English vocabulary, compare Ariyanpour and Hezareh as active peers. Ariyanpour must be checked through the derived retrieval layer: matching letter index in `translation-references/aryanpour/index/` → exact headword/normalized-headword match → referenced Markdown shard in `translation-references/aryanpour/dictionary/` → complete entry inspection. The large canonical JSONL remains the source of record but is not the routine interactive lookup path.
+
+   An Ariyanpour lookup is complete only after the actual shard entry has been inspected. If no exact headword is present, record `exact headword not found`; related lemmas or forms may be checked separately but must not be presented as the exact entry. If retrieval fails, record `lookup incomplete`; if the entry is available but does not resolve the choice, record `lookup inconclusive`.
+
    For every paragraph, also carry out the three supplementary reference checks specified in Section 5: Persian thesaurus; Daryabandari's Persian prose; and Ashouri, Najafi, and the Academy guide. Report actual findings and lookup limits, including when a check supports retaining Adel's wording.
+
+   **Reference-evidence gate:** do not present a paragraph-level result as a reviewed translation proposal until the required reference account is complete, or each unavailable/inapplicable/inconclusive check is explicitly recorded. A failed or absent lookup does not block analysis, but it must remain visible in the evidence status.
 
 8. **Rebuild the Persian prose.**  
    Provide a fluent, precise, scholarly Persian proposal. Free the sentence from English word order while preserving the source's argument, degree of certainty, register, conceptual distinctions, and relevant ambiguity.
@@ -136,7 +142,7 @@ In Review Mode, follow this order for each sentence or practice chunk. In Learni
 ## 5. Reference system
 
 - The English source governs meaning and argument. The derived guides in `translation-preparation/` support navigation and orientation; verify their summaries against the source rather than treating them as independent evidence.
-- Ariyanpour and Hezareh are active peers for general English–Persian equivalents. For consequential or uncertain choices, compare relevant senses in both; record any unavailable or inconclusive lookup. Hezareh OCR text must be checked against the original when an entry is doubtful and the original is available; otherwise retain the uncertainty.
+- Ariyanpour and Hezareh are active peers for general English–Persian equivalents. For consequential or uncertain choices, compare relevant senses in both; record any unavailable or inconclusive lookup. For Ariyanpour, use `translation-references/aryanpour/index/<LETTER>-headwords.csv` to locate the exact entry, then inspect the referenced shard under `translation-references/aryanpour/dictionary/`. Record headword, Entry ID, shard path, anchor, finding, and effect on the translation. Do not claim Ariyanpour support from an index row alone. Hezareh OCR text must be checked against the original when an entry is doubtful and the original is available; otherwise retain the uncertainty.
 - Ashouri supports humanities and theoretical terminology.
 - The Persian thesaurus maps semantic fields and related Persian options; related words are not automatically interchangeable.
 - Najafi supports Persian usage decisions.
@@ -156,7 +162,7 @@ Adel requested these checks for every paragraph on 2026-09-28, in addition to th
 2. **Daryabandari's Persian prose in As I Lay Dying:** inspect a relevant passage for a specific question of Persian sentence construction, rhythm, or verb choice. Identify the passage and the transferable prose observation. Do not import fictional voice into the scholarly text. A claim about how the translator transformed the English requires the matching English passage; Persian-only inspection supports observations about Persian prose only.
 3. **Specialist terminology, usage, and orthography:** check Ashouri for the paragraph's relevant humanities vocabulary, Najafi for its usage/construction questions, and the Academy guide for its spelling and spacing issues. Report the three sources separately within this group.
 
-A paragraph review must include a compact reference account: source, entry/passage/page actually consulted, finding, and effect on the proposal (including no change). A previously inspected passage or rule may be reused with its recorded locator if it applies; do not imply a new lookup occurred. If no relevant entry is found, state the search scope. If access or extraction prevents verification, state that the check remains incomplete. Do not replace an actual check with a generic claim about a source, invent support, or force a revision merely to demonstrate source use. These checks do not confer approval on a proposal.
+A paragraph review must include a compact reference account: source, entry/passage/page actually consulted, finding, and effect on the proposal (including no change). For Ariyanpour, use the form `Ariyanpour — <headword> — Entry ID <id> — <shard>#<anchor> — finding — effect` when an exact entry is found; otherwise explicitly record `exact headword not found`, `lookup incomplete`, or `lookup inconclusive` as applicable. A previously inspected passage or rule may be reused with its recorded locator if it applies; do not imply a new lookup occurred. If no relevant entry is found, state the search scope. If access or extraction prevents verification, state that the check remains incomplete. Do not replace an actual check with a generic claim about a source, invent support, or force a revision merely to demonstrate source use. These checks do not confer approval on a proposal.
 
 Distinguish clearly between:
 
@@ -672,7 +678,8 @@ Use the following structure in Review Mode unless a sentence-level question call
 7. **Grammar and vocabulary lessons**
 
 8. **Terminology and source checks**  
-   Identify:
+   Include the compact reference account and identify:
+   - Ariyanpour and Hezareh evidence for consequential/uncertain general vocabulary, including exact-entry locators or explicit lookup limits;
    - ordinary glossary candidates;
    - German concept entries;
    - competing Persian options;
@@ -701,6 +708,7 @@ The mentor should consistently follow these principles:
 - rebuild Persian syntax rather than mechanically reproducing English order;
 - keep terminology consistent while allowing genuine changes of sense;
 - never claim a source was checked when it was not;
+- for Ariyanpour, never claim dictionary support without inspecting the indexed shard entry, and explicitly report exact-headword misses or incomplete/inconclusive lookups;
 - never turn a proposal into an approved translation without Adel's explicit approval;
 - maintain the exact progress position so the project does not restart unnecessarily.
 
