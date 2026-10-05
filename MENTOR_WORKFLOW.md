@@ -69,6 +69,8 @@ Before reviewing a new sentence or chunk:
 5. Determine whether the task is sentence-level work or a practice-chunk review.
 6. Identify whether the passage contains historically or conceptually significant German terminology requiring a German-concept check.
 
+7. Read the applicable source-specific profiles/manuals and active controls, including `translation-references/TRANSLATION-PROFILE.md` when relevant. Distinguish the checked local working copy from the version on GitHub; do not claim remote synchronization without checking it. Preserve uncommitted instructions and do not overwrite them with a remote copy.
+
 ---
 
 ### Pedagogical modes
@@ -124,7 +126,7 @@ In Review Mode, follow this order for each sentence or practice chunk. In Learni
 
    Najafi must be treated as an evidence-by-page source. Lookup first in the manually verified body-heading layer at `translation-references/najafi/index/headwords-master.csv`; if there is no exact verified row, use the complete printed-source-index candidate layer at `translation-references/najafi/index/source-index-master.csv` (or `tools/najafi_lookup.py`) to navigate. Source-index OCR is navigation only and may contain spelling, diacritic, or page-number errors. Before attributing any usage recommendation, open the corresponding dictionary-body page in the canonical PDF and visually inspect the actual heading and relevant entry. A machine-index miss does not prove absence: inspect the relevant printed source-index/body range directly. Record a usable check as `Najafi — «<headword>» — PDF p. <pdf_page> / printed p. <printed_page> — visually_checked — finding — effect`.
 
-   **Reference-evidence gate:** do not present a paragraph-level result as a reviewed translation proposal until the required reference account is complete, or each unavailable/inapplicable/inconclusive check is explicitly recorded. A failed or absent lookup does not block analysis, but it must remain visible in the evidence status.
+   **Reference-evidence gate:** apply the completion rules below before presenting a paragraph as ready for Adel's final decision. Merely writing `lookup incomplete`, `Contextual proposal`, or a list of missing checks does not satisfy this gate. Continue analysis and preliminary teaching while checks are pending; complete feasible checks before delivering the paragraph for final review.
 
 8. **Rebuild the Persian prose.**  
    Provide a fluent, precise, scholarly Persian proposal. Free the sentence from English word order while preserving the source's argument, degree of certainty, register, conceptual distinctions, and relevant ambiguity.
@@ -143,7 +145,46 @@ In Review Mode, follow this order for each sentence or practice chunk. In Learni
     Use candidate, approved, reconsider, or retired status according to the terminology rules below.
 
 12. **Set the next position.**  
-    Record the exact sentence or passage from which the next session should continue when the work advances materially.
+    Record the exact sentence or passage from which the next session should continue when the work advances materially. Track submitted draft coverage, mentor proposal coverage, review completion and Adel's approval separately. A next-source marker does not mean that unresolved review work is complete.
+
+### Paragraph completion and finalization
+
+A request such as “finalize this paragraph” authorizes completing the review and preparing a coherent version. It does not waive reference checks or approve wording Adel has not yet seen. Do the authorized work without asking for permission again. If Adel explicitly requests a preliminary version or defers a specific check, honor that instruction and record its scope without implying source verification.
+
+Use three review stages, separate from glossary decision states and source confidence labels:
+
+- **Preliminary analysis:** grammar explanation, draft comparison or provisional wording while required work remains. A clean paragraph may be shown when requested, but label it preliminary in the same response and identify the consequential remaining checks. Do not present it as finalized or ready for approval.
+- **Ready for Adel's decision:** the review cycle is complete and the reference account passes the completion rules below, including any genuinely unavailable or inconclusive evidence and its effect. This is a reviewed mentor proposal, not approved text.
+- **Approved by Adel:** explicit acceptance of an identified version. Store approved text only within the scope of that acceptance. Approval does not retroactively verify OCR, resolve conceptual research, or remove evidence limitations.
+
+For each required reference check, record the question being checked, the relevant term/construction, exact material actually inspected, finding, effect on wording, evidence status and any remaining action. Use these outcomes:
+
+| Outcome | Required basis | Effect on review completion |
+| --- | --- | --- |
+| Checked | Relevant evidence inspected to the source-specific standard, with locator and bounded finding | Satisfies that check within the stated scope. |
+| Inconclusive after inspection | Required retrieval and inspection completed, but evidence does not resolve the question; explain competing candidates | Satisfies the research attempt, not the wording decision; retain the relevant confidence label and alternatives. |
+| Not applicable | Explain concretely why this source's role does not apply to this passage | May close that source's check; never use it just because no easy hit was found. |
+| Unavailable | Identify the missing/unreadable material or access failure and the attempted recovery route | Keep evidence unresolved; explain the effect and available contextual alternatives. A known missing original does not require repeated retrieval attempts. |
+| Pending | A feasible lookup, fallback, page inspection or comparison has not been performed | Keeps the paragraph at Preliminary analysis unless Adel explicitly defers that check. |
+| Deferred by Adel | Record the explicit instruction, date, check and scope | Permits proceeding within that instruction; evidence stays unverified. |
+
+An incomplete attempt is **Pending**, not **Unavailable** merely because the mentor stopped working. Fix malformed searches, encoding errors and wrong paths, then continue the applicable retrieval route. An index miss requires the documented fallback; it is neither evidence of absence nor proof of unavailability. Do not select a conveniently accessible passage solely to fill a reference row: explain how it addresses this paragraph's actual translation question.
+
+For Ashouri, inspect the relevant original PDF page and any applicable QC warnings before calling an equivalent documented. If the supplied PDF is accessible, an unperformed visual check is Pending. For Najafi, complete the verified-heading → printed-index navigation → canonical-page inspection route; when machine lookup fails, inspect the relevant printed index/body range. For Hezareh, follow the supplied lookup-tool route and source pointer required by `AGENTS.md`; preserve match semantics, verification status and boundary confidence. Its known missing original PDF remains an actual availability limit, not mentor verification.
+
+Ashouri is the specialist terminology check, not a substitute for the Ariyanpour–Hezareh comparison or an automatic authority over Adel's wording. Explain why its relevant evidence supports retaining or changing a candidate. Apply the same question → evidence → effect discipline to the thesaurus, Najafi, Academy and Daryabandari checks.
+
+Before delivery, verify:
+
+- Source, Adel's actual submission and mentor additions are visibly distinct; no missing learner draft has been invented.
+- English structure and the translation problem have been explained at Adel's level; semantic corrections are separate from stylistic choices.
+- Consequential general vocabulary has the required Ariyanpour–Hezareh comparison; supplementary and German-concept checks have explicit outcomes and next actions.
+- Accessible required work is complete; any remaining limitation is factual, genuinely inconclusive, concretely inapplicable or explicitly deferred by Adel.
+- The Persian version preserves the argument, logical relations, scope, uncertainty and quotation boundaries; two or three transferable lessons are provided.
+- The response states the review stage and consequential limitations beside the version, with a link to the detailed reference account when useful. A saved report does not replace the user-facing explanation.
+- `PROGRESS.md` records review and approval separately, along with unresolved actions and the next source location. No proposal is promoted to approved text without explicit acceptance.
+
+If a stage was overstated, append a correction to the review and progress records, preserve the original submission and review history, and resume the missing work. Do not silently mark old reviews complete under these rules.
 
 ---
 

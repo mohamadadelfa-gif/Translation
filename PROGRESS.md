@@ -1,6 +1,10 @@
 # وضعیت کار
 
-آخرین به‌روزرسانی: ۲۰۲۶-۰۹-۲۹
+آخرین به‌روزرسانی: ۲۰۲۶-۱۰-۰۵
+
+## Review status correction — C01
+
+**Workflow repair, 2026-10-05:** MENTOR_WORKFLOW.md now defines paragraph completion, explicit check outcomes and separate preliminary/review-ready/approved stages; WORD-CHOICE-POLICY.md points to the same authoritative gate. The C01 opening paragraph is **Preliminary analysis**, not finalized: Ashouri original-page/QC verification and Najafi printed-index/body inspection remain Pending. Complete accessible required checks and the teaching review before marking it ready for Adel's decision. Hezareh's missing original remains a distinct evidence limitation. The next-source marker below does not close these tasks or establish approval.
 
 ## ACTIVE continuation — end of C00
 
