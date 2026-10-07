@@ -192,7 +192,7 @@ The former top-level `.txt` paths are historical and are no longer present in th
 
 The supplied [index package](../sources/Hezareh_Dictionary_Index/README.md) provides lookup records and a [lookup script](../sources/Hezareh_Dictionary_Index/dictionary-index/hezareh_lookup.py). Treat the whole supplied package as read-only. Its internal example architecture is package documentation, not a replacement for this project's layout or workflow.
 
-The index is a retrieval aid, not independent lexical evidence. Resolve its `source/...#L...` pointers relative to `sources/Hezareh_Dictionary_Index/`, inspect the cited extraction, and retain the PDF page and verification status. `visually_checked` records report the supplied package's review status; they do not establish that the current mentor checked the original PDF. `verification_status: raw_ocr` and `boundary_confidence: hint_only` require different qualifications; see the field and match semantics in [AGENTS.md](../AGENTS.md#hezareh-match-semantics). The original Hezareh PDF is not present in the tracked source collection; request the relevant page when extraction cannot support a consequential choice.
+The index is a retrieval aid, not independent lexical evidence. Resolve its `source/...#L...` pointers relative to `sources/Hezareh_Dictionary_Index/`, inspect the cited extraction, and retain the PDF page and verification status. `visually_checked` records report the supplied package's review status; they do not establish that the current mentor checked the original PDF. `verification_status: raw_ocr` and `boundary_confidence: hint_only` require different qualifications as recorded below. The original Hezareh PDF is not present in the tracked source collection; request the relevant page when extraction cannot support a consequential choice.
 
 Hezareh is an **active bilingual vocabulary reference**, not merely a backup for Ariyanpour.
 
@@ -223,6 +223,13 @@ Evidence interpretation:
 - `raw_ocr`: qualified OCR evidence; verify exact wording against the original page when consequential and available;
 - `hint_only`: navigation/page hint only, not lexical evidence;
 - multiple records for one normalized headword remain separate and must not be silently collapsed.
+
+Match semantics:
+
+- distinguish **exact headword**, **exact base-headword**, **verified exact alias**, **prefix**, and **full-text fallback**;
+- establish a verified alias only from an actual alias record plus checked source evidence, not from a phrase merely appearing inside OCR;
+- a prefix or full-text hit is a retrieval clue, not proof that the queried expression has its own Hezareh entry;
+- the current lookup tool does not expose match type directly, so classify it from inspected records when possible and otherwise leave the match type unspecified rather than inventing one.
 
 The index is navigation only. Do not say “Hezareh gives…” until the actual shard record and its source text have been inspected.
 
@@ -307,7 +314,7 @@ Default retrieval locations:
 - [Master JSONL index](ashouri/index/headwords-master.jsonl)
 - [A–Z QC report](ashouri/qc/AZ-cross-letter-audit.md)
 
-A–Z structural extraction is complete: 26,333 records, with 12,875 currently flagged for visual/OCR review in the supplied report. These counts describe extraction, not manual certification. Retrieve the entry and its QC record first. The PDF remains authoritative; under `AGENTS.md`, do not label an Ashouri equivalent `Documented equivalent` without visual verification of the relevant original page.
+A–Z structural extraction is complete: 26,333 records, with 12,875 currently flagged for visual/OCR review in the supplied report. These counts describe extraction, not manual certification. Retrieve the entry and its QC record first. The PDF remains authoritative. A structured/OCR hit may locate a candidate, but an Ashouri equivalent must not be labelled `Documented equivalent` until the relevant original PDF page has been visually checked and applicable QC uncertainty has been inspected.
 
 Use this source for:
 
@@ -692,241 +699,20 @@ An approved term applies to the stated sense and context, not automatically to e
 
 ---
 
-## 13. Evidence discipline
+## 13. Workflow ownership and deferred source state
 
-Always distinguish between the following categories.
+This register defines **what each source is, where it lives, how to retrieve its evidence, and what limitations attach to that evidence**.
 
-### Source evidence
+The authoritative rules for **when** a source must be checked, sentence-vs-paragraph scope, evidence outcomes, review readiness, approval, confidence labels, and file-state transitions live only in:
 
-What the original English text actually says.
+`MENTOR_WORKFLOW.md`
 
-### Dictionary evidence
+Do not create a second evidence gate or review sequence in this register.
 
-What Ariyanpour, Hezareh, or another checked dictionary actually records.
+Current source-state notes:
 
-### Specialist evidence
+- the Babylon Ariyanpour BDC comparison remains deferred unless Adel explicitly resumes it;
+- Cronin, K1, RTS, or other frameworks mentioned in older planning materials are not active lexical, historical, or translation authorities unless the relevant source documents are actually supplied and reviewed;
+- source availability or inclusion in this register never implies that a particular entry/page has been checked for the current passage.
 
-What a checked specialist, historical, legal, philosophical, literary, or disciplinary source actually supports.
-
-### Historical or conceptual evidence
-
-What checked historical or conceptual sources establish about a historically specific term.
-
-### Persian usage evidence
-
-What a checked Persian usage or orthographic reference supports.
-
-### Prose comparison
-
-What can be observed in a specific translated-prose example such as Daryabandari.
-
-### Mentor analysis
-
-An interpretation or recommendation developed from context and comparison.
-
-### Adel's decision
-
-The final project translation choice.
-
-These categories must not be silently collapsed.
-
----
-
-## 14. Reference-use rule
-
-Before saying:
-
-> “Ariyanpour gives…”
-
-check Ariyanpour.
-
-Before saying:
-
-> “Hezareh gives…”
-
-check Hezareh.
-
-Before saying:
-
-> “Ashouri uses…”
-
-inspect Ashouri.
-
-Before saying:
-
-> “Najafi recommends…”
-
-inspect Najafi.
-
-Before saying:
-
-> “The Academy rule is…”
-
-inspect the supplied Academy guide.
-
-Before saying:
-
-> “Daryabandari handles this structure by…”
-
-inspect the relevant passage from *گور به گور*.
-
-Before describing the historical meaning of a German concept, consult appropriate historical or specialist evidence.
-
-Never fabricate source support.
-
----
-
-## 15. Core source-selection principle
-
-Different sources answer different questions.
-
-```text
-WHAT DOES THE ENGLISH MEAN?
-→ source text + context
-
-HOW IS THE ENGLISH SENTENCE STRUCTURED?
-→ Huddleston, Pullum & Reynolds
-
-WHAT LEXICAL SENSES ARE AVAILABLE?
-→ Ariyanpour + Hezareh
-
-IS THIS A SPECIALIST HUMANITIES TERM?
-→ Ashouri + relevant specialist sources
-
-IS THIS A GERMAN HISTORICAL CONCEPT?
-→ GERMAN-CONCEPTS.md + checked historical sources
-
-WHAT PERSIAN WORDING OPTIONS EXIST?
-→ فرهنگ طیفی
-
-IS THIS GOOD OR STANDARD PERSIAN USAGE?
-→ Najafi
-
-HOW SHOULD IT BE WRITTEN?
-→ Academy orthography guide
-
-HOW CAN ENGLISH PROSE BE REBUILT NATURALLY IN PERSIAN?
-→ Daryabandari / گور به گور
-
-WHAT HAS THIS PROJECT DECIDED?
-→ GLOSSARY.md
-
-WHO MAKES THE FINAL TRANSLATION DECISION?
-→ Adel
-```
-
-No source should be used outside its evidentiary role without explanation.
-
----
-
-## 16. Practical lookup sequence
-
-For an ordinary but consequential lexical problem:
-
-```text
-1. Read the full sentence and paragraph
-2. Determine the likely contextual sense
-3. Check Ariyanpour
-4. Check Hezareh
-5. Compare relevant senses
-6. Check Persian semantic options in فرهنگ طیفی when useful
-7. Evaluate natural Persian usage
-8. Present candidates
-9. Adel decides
-```
-
-For a humanities or theoretical term:
-
-```text
-SOURCE CONTEXT
-      ↓
-ARIYANPOUR + HEZAREH
-      ↓
-ASHOURI / SPECIALIST SOURCE
-      ↓
-PERSIAN SEMANTIC OPTIONS
-      ↓
-ADEL'S DECISION
-```
-
-For a historically significant German concept:
-
-```text
-SOURCE CONTEXT
-      ↓
-EXACT GERMAN CONCEPT
-      ↓
-ARIYANPOUR + HEZAREH FOR LEXICAL RANGE
-      ↓
-HISTORICAL / DISCIPLINARY EVIDENCE
-      ↓
-GERMAN-CONCEPTS.md
-      ↓
-PERSIAN CANDIDATES
-      ↓
-ADEL'S DECISION
-```
-
-For Persian prose reconstruction:
-
-```text
-MEANING ALREADY ESTABLISHED
-      ↓
-ANALYZE ENGLISH SYNTAX
-Huddleston, Pullum & Reynolds when needed
-      ↓
-REBUILD IN NATURAL PERSIAN
-      ↓
-CONSULT DARYABANDARI WHEN A COMPARABLE
-TRANSLATION TECHNIQUE WOULD BE USEFUL
-      ↓
-CHECK PERSIAN USAGE / ORTHOGRAPHY
-      ↓
-FINAL PROPOSAL
-```
-
-Daryabandari should normally enter **after meaning has been established**, not before.
-
----
-
-## 17. Deferred or unverified materials
-
-The previously mentioned Babylon Ariyanpour BDC comparison remains deferred unless Adel chooses to resume it.
-
-Cronin, K1, RTS, or other frameworks mentioned in older planning materials are not active lexical, historical, or translation authorities unless the relevant source documents are actually supplied and reviewed.
-
-`MENTOR_WORKFLOW.md` and the current project instructions govern **method and pedagogy**.
-
-They are not themselves lexical or historical evidence.
-
----
-
-## 18. Final rule
-
-The project should never ask only:
-
-> “Which dictionary gives the best Persian word?”
-
-The correct sequence is:
-
-```text
-SOURCE
-   ↓
-CONTEXT AND ARGUMENT
-   ↓
-ARIYANPOUR + HEZAREH
-   ↓
-SPECIALIST / HISTORICAL SOURCES WHEN NEEDED
-   ↓
-PERSIAN SEMANTIC AND USAGE SOURCES
-   ↓
-PROSE RECONSTRUCTION WHEN NEEDED
-   ↓
-COMPARISON OF OPTIONS
-   ↓
-ADEL'S DECISION
-```
-
-The purpose of the reference system is not to replace translation judgment.
-
-It is to make that judgment more informed, explicit, teachable, and traceable.
+No rule in this register overrides `MENTOR_WORKFLOW.md`.
