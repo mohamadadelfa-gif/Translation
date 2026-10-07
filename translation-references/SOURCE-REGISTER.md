@@ -566,10 +566,10 @@ It is not a general bilingual dictionary and should not normally be used as dire
 
 Canonical English source: `sources/Faulkner - As I Lay Dying - Corrected Text.pdf`; the Persian PDF above remains canonical for the translation.
 
-- [Paired sections CSV](../translation-preparation/translation-craft-corpus/paired-sections.csv)
-- [Paired sections JSONL](../translation-preparation/translation-craft-corpus/paired-sections.jsonl)
-- [English per-section corpus](../translation-preparation/translation-craft-corpus/faulkner-as-i-lay-dying/text/)
-- [Persian per-section corpus](../translation-preparation/translation-craft-corpus/daryabandari-as-i-lay-dying/text/)
+- [Paired sections CSV](translation-craft/corpus/paired-sections.csv)
+- [Paired sections JSONL](translation-craft/corpus/paired-sections.jsonl)
+- [English per-section corpus](translation-craft/corpus/faulkner-as-i-lay-dying/text/)
+- [Persian per-section corpus](translation-craft/corpus/daryabandari-as-i-lay-dying/text/)
 - [Analytical pilot cases](translation-craft/daryabandari/parallel-cases.jsonl)
 
 The 59-pair corpus is retrieval/alignment infrastructure at section level, not global sentence alignment. Resolve pilot `section` IDs through the alignment table; pilot cases are analytical examples, not independent source evidence. Inspect both actual passages before making a source-to-translation claim and verify consequential transcription against the PDFs. Valid checksums establish file integrity, not OCR/transcription correctness or translation quality.
