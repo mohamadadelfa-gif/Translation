@@ -1,10 +1,10 @@
 # Translation Reference Register
 
-Updated 2026-09-29.
+Updated 2026-10-07.
 
 This file defines the approved reference set and the role of each source in the English-to-Persian translation of *Revisiting Zero Hour 1945*.
 
-Files under `sources/` are treated as supplied source material and should remain unchanged during ordinary translation work.
+Files under `sources/` are frozen snapshots of supplied repository material and must not receive new working edits, segmentation, mentor notes, or translation changes. Existing conversion/segmentation artifacts already present in those snapshots are preserved rather than silently cleaned.
 
 The presence of a source in this register means that it is available and approved for the stated role. It does **not** mean that every entry, page, definition, OCR result, or interpretation in that source has already been checked.
 
@@ -34,20 +34,20 @@ Use it to determine:
 
 The source author's meaning and argumentative distinctions have priority over dictionary convenience.
 
-### Chapter files
+### Chapter working files
 
 ```text
-sources/C00.md
-sources/C01.md
-sources/C02.md
-sources/C03.md
-sources/C04.md
-sources/C05.md
+translation-preparation/C00.md
+translation-preparation/C01.md
+translation-preparation/C02.md
+translation-preparation/C03.md
+translation-preparation/C04.md
+translation-preparation/C05.md
 ```
 
-These files provide chapter-level working access to the source.
+These files provide the **active chapter-level working access** used during translation sessions. They are derived/project working files and may contain translation-unit markers or other navigation aids.
 
-They should be used together with the structured source when local context, paragraph structure, or endnotes are needed.
+The matching `sources/C00.md`–`sources/C05.md` files are frozen supplied snapshots. Do not edit or synchronize them during ordinary work. Use the active files in `translation-preparation/` for local context, paragraph structure, endnotes, and future segmentation changes.
 
 ---
 
