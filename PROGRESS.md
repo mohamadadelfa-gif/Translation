@@ -8,17 +8,25 @@
 
 - **Chapter:** `C01` — Stephen Brockmann, *German Culture at the ‘Zero Hour’*
 - **Translation unit:** `C01-S01`
+- **Current Practice Chunk:** `C01-S01-P02`
 - **Current stage:** **Preliminary analysis**
 - **Approval:** هیچ متن C01 هنوز تأیید نشده است.
 - **Active working source:** [translation-preparation/C01.md](translation-preparation/C01.md)
-- **Saved learner checkpoint:** [drafts/C01/C01-S01-opening-draft-01.md](drafts/C01/C01-S01-opening-draft-01.md)
-- **Saved preliminary mentor review:** [drafts/C01/C01-S01-opening-reviewed-01.md](drafts/C01/C01-S01-opening-reviewed-01.md)
+- **Saved learner checkpoint:** [drafts/C01/C01-S01-opening-draft-01.md](drafts/C01/C01-S01-opening-draft-01.md) — historical filename; its exact source coverage is now mapped to `C01-S01-P01`.
+- **Saved preliminary mentor review:** [drafts/C01/C01-S01-opening-reviewed-01.md](drafts/C01/C01-S01-opening-reviewed-01.md) — historical filename; its exact source coverage is now mapped to `C01-S01-P01`.
+
+## Practice Chunk boundaries
+
+- **`C01-S01-P01` — 338 source words.** Starts with the Kristijana Gunnars epigraph (“We do not know what happens at Zero...”) and ends with: “Humanity shudders in horror at Germany!” said Thomas Mann.[^brockmann-2]
+- **`C01-S01-P02` — 254 source words.** Starts with: “The elderly Mann, who had become the most powerful representative...” and ends with the Franz Werfel block quotation concluding: “...a few party bureaucrats and bums...”[^brockmann-3]
+- These boundaries are encoded directly in [translation-preparation/C01.md](translation-preparation/C01.md) with non-source HTML comments. They preserve paragraph/quotation logic and are not part of the source text.
+- Existing `C01-S01-opening-*` artifacts are retained without cosmetic renaming. The next new saved C01 artifact must use the canonical `C01-S01-P02-...` filename pattern.
 
 ## Current sentence under review
 
 > The elderly Mann, who had become the most powerful representative of a better, more democratic Germany abroad during the years of Hitler’s Third Reich, was not the only intellectual to view Germany’s situation in such stark terms.
 
-The saved learner checkpoint currently ends with the preceding Thomas Mann quotation. Work on this sentence has begun in chat but has **not yet been saved as a new draft/review artifact**.
+The saved learner checkpoint ends exactly at the end of `C01-S01-P01`. The sentence above is the first sentence of `C01-S01-P02`. Work on it has begun in chat but has **not yet been saved as a new P02 draft/review artifact**.
 
 ## Open translation questions
 
@@ -35,7 +43,7 @@ After the current sentence, the next source sentence is:
 
 > In view of German crimes against humanity, the Austrian writer Franz Werfel, born in 1890 to a Jewish family but devoted to Catholicism himself, wrote a speech “To the German People,” which was published a week after Mann’s speech in the same edition of the Munich newspaper *Bayerische Landeszeitung* as news of the Holocaust itself.
 
-Do not advance the saved checkpoint past the current sentence until Adel supplies/accepts the relevant draft state or explicitly asks to save it.
+Do not create a new saved checkpoint with the historical `opening` naming. When the next save is authorized, use `drafts/C01/C01-S01-P02-draft-01.md` and the corresponding reviewed/review-notes filenames.
 
 ## Active controls
 
