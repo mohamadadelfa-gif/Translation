@@ -21,5 +21,18 @@
     "verification_status_preserved": true,
     "boundary_confidence_preserved": true,
     "hint_only_never_promoted_to_lexical_evidence": true
+  },
+  "supplementary_profile_v2": {
+    "supplied_package_sha256": "962aef1ee970ef6c54edc1cb93eaf618a92e6f636efc1fa75edc6f63846dad8a",
+    "supplied_package_bytes": 9438236,
+    "indexed_records": 38957,
+    "revision_blocks": 38098,
+    "records_without_revision_block": 859,
+    "new_visual_verification": false,
+    "index_inventory_changed": false,
+    "integration_mode": "supplementary record-id overlay; original extraction preserved",
+    "imported_scope": "active C01 records",
+    "overlay_path": "translation-references/hezareh/revisions-v2/C01-active-records.md",
+    "audit_path": "translation-references/hezareh/qc/profile-v2-package-audit-2026-10-07.md"
   }
 }
