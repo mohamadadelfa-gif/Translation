@@ -137,6 +137,20 @@ These are **mentor proposals only**, not Adel-approved text.
 
 > در سخنرانی‌ای که در ۸ مه ۱۹۴۵، روز تسلیم آلمان، از رادیو برای آلمان پخش شد، مشهورترین نویسندهٔ زندهٔ آلمان، توماس مان، اعلام کرد: «شرم ما پیش چشم جهانیان عیان است» و اینکه «هر آنچه آلمانی است، هر کسی که آلمانی سخن می‌گوید، آلمانی می‌نویسد یا در آلمان زیسته است، از این افشاگری شرم‌آور متأثر است.» توماس مان گفت: «بشریت در برابر آلمان از وحشت به خود می‌لرزد!»
 
+## Hezareh Profile v2 recheck — 2026-10-07
+
+The updated Hezareh Profile v2 package was audited and the active C01 annotations were imported under `translation-references/hezareh/revisions-v2/C01-active-records.md`.
+
+For this completed P01 paragraph:
+
+- `exodus` — `hz-012675` — remains `raw_ocr / medium`. The v2 layer preserves «مهاجرت / عزیمت گروهی» as a qualified semantic clue but does not settle historical `forced exodus`.
+- `extermination` — `hz-012818` — remains `raw_ocr / high`. The v2 layer helps identify that the opening field «نابودی / ریشه‌کنی / امحاء / براندازی» belongs to the target record, while subsequent `external` material is boundary contamination. This strengthens the rejection of «پاک‌سازی» but does not make «کشتارهای جمعی» a direct Hezareh equivalent.
+- `revelation` — `hz-029184` — remains `raw_ocr / medium`; «پرده‌برداری / افشا / افشاگری» remains a qualified retrieval clue.
+- `shame` — `hz-030861` — remains `raw_ocr / medium`; «شرمساری / شرمندگی» remains qualified evidence, with column/layout uncertainty explicitly flagged.
+- `shudder` — still has no exact normalized/base-normalized Hezareh entry in the supplied v2 index.
+
+**Effect on translation:** the v2 package improves interpretation of the OCR boundaries and labels but does **not** upgrade any of these records to new visual verification. No Persian choice in this paragraph becomes `Documented equivalent` solely because of Profile v2.
+
 ## Learning points extracted so far
 
 1. Preserve **dependency and scope** before choosing Persian wording. Examples: `While ... both imply`; the coordinated `to...` list; and `everyone who speaks/writes/has lived`.
@@ -149,7 +163,7 @@ These are **mentor proposals only**, not Adel-approved text.
 
 This review remains **Preliminary analysis**. The following project-required work has not yet been completed for this saved passage:
 
-- Ariyanpour / Hezareh comparison for consequential general vocabulary;
+- Ariyanpour / Hezareh comparison has been completed for the currently consequential P01 items documented above; remaining unresolved wording is contextual/historical rather than caused by a missing Hezareh index lookup;
 - Persian thesaurus check;
 - Daryabandari prose check for an identified Persian syntax/rhythm question;
 - Ashouri specialist terminology check where applicable;
