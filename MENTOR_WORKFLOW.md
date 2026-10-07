@@ -58,6 +58,10 @@ Sentence IDs are analytical aids, not source numbering.
 
 ---
 
+### Repository layer rule
+
+`sources/` is a frozen snapshot of supplied material and is never a working-edit destination. All active segmentation, chapter/unit preparation, reading aids, and structural annotations belong in `translation-preparation/`. Translation drafts and mentor reviews belong in chapter subfolders under `drafts/Cxx/`. The translation-craft parallel corpus is reference infrastructure under `translation-references/translation-craft/corpus/`, not book preparation.
+
 ## 3. Session entry
 
 Before reviewing a new sentence or chunk:
@@ -657,19 +661,19 @@ For new work, use the practice-chunk identifier in filenames.
 ### Adel's submitted draft
 
 ```text
-drafts/C00-S02-P01-draft-01.md
+drafts/C00/C00-S02-P01-draft-01.md
 ```
 
 ### Mentor-reviewed proposal
 
 ```text
-drafts/C00-S02-P01-reviewed-01.md
+drafts/C00/C00-S02-P01-reviewed-01.md
 ```
 
 ### Review and teaching notes
 
 ```text
-drafts/C00-S02-P01-review-notes-01.md
+drafts/C00/C00-S02-P01-review-notes-01.md
 ```
 
 ### Explicitly approved version
