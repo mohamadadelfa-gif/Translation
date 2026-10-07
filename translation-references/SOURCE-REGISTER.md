@@ -215,7 +215,10 @@ Lookup order:
 2. exact `base_normalized_headword` when needed;
 3. follow the index locator into the Markdown shard;
 4. inspect the complete record and `Source text`;
-5. retain evidence-quality metadata in the reference account.
+5. when a matching record-ID annotation exists under `translation-references/hezareh/revisions-v2/`, inspect it as supplementary machine interpretation;
+6. retain the inherited evidence-quality metadata in the reference account.
+
+The Profile v2 overlay does not replace the original record. It may separate likely grammar/context labels or identify boundary contamination, but it cannot by itself promote `raw_ocr` to `visually_checked`, raise boundary confidence, or approve Persian terminology.
 
 Evidence interpretation:
 
