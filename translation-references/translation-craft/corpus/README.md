@@ -7,7 +7,7 @@ Canonical source PDFs remain under `sources/` and are authoritative.
 ## Corpora
 
 ```text
-translation-preparation/translation-craft-corpus/
+translation-references/translation-craft/corpus/
 ├── README.md
 ├── source-manifest.json
 ├── paired-sections.csv
@@ -31,7 +31,7 @@ translation-preparation/translation-craft-corpus/
 sources/
 → canonical supplied documents
 
-translation-preparation/translation-craft-corpus/
+translation-references/translation-craft/corpus/
 → derived, section-addressable working corpus
 
 translation-references/translation-craft/daryabandari/
