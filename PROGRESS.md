@@ -9,11 +9,13 @@
 - **Chapter:** `C01` — Stephen Brockmann, *German Culture at the ‘Zero Hour’*
 - **Translation unit:** `C01-S01`
 - **Current Practice Chunk:** `C01-S01-P02`
-- **Current stage:** **Preliminary analysis**
+- **Current stage:** **C01-S01-P01 — Ready for Adel's decision; C01-S01-P02 — Preliminary analysis / continuation paused pending P01 decision**
 - **Approval:** هیچ متن C01 هنوز تأیید نشده است.
 - **Active working source:** [translation-preparation/C01.md](translation-preparation/C01.md)
 - **Saved learner checkpoint:** [drafts/C01/C01-S01-opening-draft-01.md](drafts/C01/C01-S01-opening-draft-01.md) — historical filename; its exact source coverage is now mapped to `C01-S01-P01`.
-- **Saved preliminary mentor review:** [drafts/C01/C01-S01-opening-reviewed-01.md](drafts/C01/C01-S01-opening-reviewed-01.md) — historical filename; its exact source coverage is now mapped to `C01-S01-P01`.
+- **Historical preliminary mentor review:** [drafts/C01/C01-S01-opening-reviewed-01.md](drafts/C01/C01-S01-opening-reviewed-01.md) — historical filename mapped to `C01-S01-P01`.
+- **Canonical P01 reviewed proposal:** [drafts/C01/C01-S01-P01-reviewed-01.md](drafts/C01/C01-S01-P01-reviewed-01.md) — **Ready for Adel's decision**, not approved.
+- **Canonical P01 evidence notes:** [drafts/C01/C01-S01-P01-review-notes-01.md](drafts/C01/C01-S01-P01-review-notes-01.md).
 
 ## Practice Chunk boundaries
 
@@ -21,6 +23,19 @@
 - **`C01-S01-P02` — 254 source words.** Starts with: “The elderly Mann, who had become the most powerful representative...” and ends with the Franz Werfel block quotation concluding: “...a few party bureaucrats and bums...”[^brockmann-3]
 - These boundaries are encoded directly in [translation-preparation/C01.md](translation-preparation/C01.md) with non-source HTML comments. They preserve paragraph/quotation logic and are not part of the source text.
 - Existing `C01-S01-opening-*` artifacts are retained without cosmetic renaming. The next new saved C01 artifact must use the canonical `C01-S01-P02-...` filename pattern.
+
+## P01 decision checkpoint
+
+`C01-S01-P01` has completed the paragraph / Practice Chunk evidence gate and is now **Ready for Adel's decision**.
+
+Decision points still belonging to Adel rather than to further source retrieval:
+
+- Stephen Brockmann: current proposal «استیون بروکمن» vs earlier «استفان بروکمان».
+- `absolute Zero`: current proposal «صفرِ مطلق»; alternative «صفرِ محض».
+- epigraph `Perhaps it is nothing.`: current proposal «شاید هیچ‌چیز نباشد.»
+- `sweeping away`: current proposal «از میان بردن» vs milder «کنار زدن».
+
+No P01 text may enter `approved-translations/` until Adel explicitly accepts an identified version.
 
 ## Current sentence under review
 
