@@ -28,14 +28,11 @@
 
 `C01-S01-P01` has completed the paragraph / Practice Chunk evidence gate and is now **Ready for Adel's decision**.
 
-Decision points still belonging to Adel rather than to further source retrieval:
+Only two terminology items have been approved: `forced exodus` → «کوچ اجباری» and `special concentration camps` → «اردوگاه‌های مرگ».
 
-- Stephen Brockmann: current proposal «استیون بروکمن» vs earlier «استفان بروکمان».
-- `absolute Zero`: current proposal «صفرِ مطلق»; alternative «صفرِ محض».
-- epigraph `Perhaps it is nothing.`: current proposal «شاید هیچ‌چیز نباشد.»
-- `sweeping away`: current proposal «از میان بردن» vs milder «کنار زدن».
+All other P01 wording remains unapproved, including the current candidates for Brockmann's name, `absolute Zero`, the epigraph, `sweeping away`, generic `concentration camp`, `mass exterminations`, `Nullpunkt`, `Stunde Null`, and the continuous Persian proposal.
 
-No P01 text may enter `approved-translations/` until Adel explicitly accepts an identified version.
+No P01 text may enter `approved-translations/` until Adel explicitly approves an identified complete version.
 
 ## Current sentence under review
 
@@ -45,7 +42,12 @@ The saved learner checkpoint ends exactly at the end of `C01-S01-P01`. The sente
 
 ## Resolved terminology decisions
 
-- **`special concentration camps` → «اردوگاه‌های مرگ» — approved by Adel, 2026-10-07, for C01-S01-P01.** The choice identifies the historical referent in the clause about Nazi mass exterminations. It does **not** mean `special = مرگ` generally; any later occurrence must be checked in its own historical context.
+Exactly two C01-S01-P01 terminology decisions are approved by Adel:
+
+- **`forced exodus` → «کوچ اجباری» — approved, 2026-10-07.** Context-specific to Brockmann's broad forced-movement wording; do not automatically extend it to `expulsion`, `deportation`, or every later `exodus`.
+- **`special concentration camps` → «اردوگاه‌های مرگ» — approved, 2026-10-07.** Context-specific historical identification. It does **not** mean `special = مرگ` generally.
+
+**No other P01 wording is approved.** The continuous paragraph/chunk translation remains unapproved.
 
 ## Open translation questions
 
