@@ -22,7 +22,9 @@
 
 ### forced exodus → «کوچ اجباری»
 
-**Confidence:** Contextual proposal; Ready for Adel's decision.
+**Status:** **Approved by Adel for C01-S01-P01 on 2026-10-07.**
+
+**Evidence class:** contextual historical rendering supported by the checked lexical/semantic/historical evidence.
 
 Why:
 - `exodus` is broader than formal `expulsion`;
@@ -84,14 +86,27 @@ Candidate: «نقطهٔ صفر» (*Nullpunkt*)
 
 Keep distinct from `Stunde Null` where Brockmann contrasts them.
 
-## Remaining decision points — not evidence blockers
+## Approval boundary
 
-- Persian rendering of **Stephen Brockmann**.
-- `absolute Zero`: «صفرِ مطلق» vs «صفرِ محض».
-- epigraph `Perhaps it is nothing.`
-- strength of `sweeping away`: «از میان بردن» vs milder «کنار زدن».
+**Approved by Adel:**
 
-These are now Adel decisions. They do not keep the review in Preliminary status.
+- `forced exodus` → «کوچ اجباری»
+- `special concentration camps` → «اردوگاه‌های مرگ»
+
+**Not approved:**
+
+- the continuous P01 Persian translation;
+- Persian rendering of **Stephen Brockmann**;
+- `absolute Zero`;
+- epigraph `Perhaps it is nothing.`;
+- `sweeping away of old traditions and customs`;
+- `concentration camp` → current candidate «اردوگاه متمرکز»;
+- `mass exterminations` → current candidate «کشتارهای جمعی»;
+- `Nullpunkt` → current candidate «نقطهٔ صفر»;
+- `Stunde Null` → current candidate «ساعت صفر»;
+- all other lexical, syntactic, stylistic, and sentence-level choices not explicitly approved by Adel.
+
+These unapproved items are decision questions, not evidence-gate failures.
 
 ## Next translation position after P01 decision
 
