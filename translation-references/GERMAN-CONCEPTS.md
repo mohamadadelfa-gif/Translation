@@ -227,8 +227,8 @@ The following terms have already appeared or are relevant to the present transla
 
 | German term                 | Working area                                           | Research state  |
 | --------------------------- | ------------------------------------------------------ | --------------- |
-| `Stunde Null`               | postwar historical and cultural discourse              | research needed |
-| `Nullpunkt`                 | zero-point / rupture terminology                       | research needed |
+| `Stunde Null`               | postwar historical and cultural discourse              | evidence checked (C01-S01-P01 scope) |
+| `Nullpunkt`                 | zero-point / rupture terminology                       | evidence checked (C01-S01-P01 scope) |
 | `Kahlschlag`                | postwar literary discourse                             | research needed |
 | `Vergangenheitsbewältigung` | relation to the Nazi past                              | research needed |
 | `Wiedergutmachung`          | postwar restitution / compensation / political history | research needed |
@@ -240,6 +240,130 @@ The following terms have already appeared or are relevant to the present transla
 | `nachgeholte Résistance`    | belated resistance / Group 47 context                  | research needed |
 
 Research state and translation-decision status are separate fields. Investigate a term in context before proposing candidates; record them as `candidate` without implying approval. Even after evidence is checked, only Adel's explicit decision can make a Persian equivalent `approved` for the stated sense. No index entry has been promoted by this distinction.
+
+---
+
+## Stunde Null
+
+**German form:**  
+`Stunde Null`
+
+**Literal sense:**  
+“zero hour”
+
+**English form(s) in the book:**  
+`Zero Hour`
+
+**Domain:**  
+postwar German history / cultural discourse
+
+**Key location(s):**  
+C01-S01-P01
+
+**Historical-conceptual meaning:**  
+Checked against Martin Sabrow, “Die ‘Stunde Null’ als Zeiterfahrung” (bpb/APuZ, 16 January 2020). Sabrow treats `Stunde Null` not as a neutral historical judgment category but as a powerful retrospective/contemporary metaphor or interpretive topos for the perceived rupture of 1945. Later historical research emphasizes substantial social, cultural, and institutional continuities across 1945.
+
+**Function in the current passage:**  
+Brockmann introduces the term as one of two related zero-metaphors for 1945 and then immediately interrogates the implication of an absolute break and radical new beginning.
+
+**Relationship to the English wording:**  
+The book itself glosses `Stunde Null` directly as `Zero Hour`.
+
+**Related or contrasting concepts:**  
+- `Nullpunkt`
+
+**Persian candidates:**  
+1. ساعت صفر
+
+**What the candidates preserve or lose:**  
+- «ساعت صفر»: directly preserves Brockmann's English gloss and the temporal metaphor.
+
+**Current project rendering:**  
+«ساعت صفر» at the first significant occurrence together with the German form.
+
+**Translation rule:**  
+At first significant occurrence: «ساعت صفر» (*Stunde Null*). Later use «ساعت صفر» unless the German form or contrast with `Nullpunkt` becomes analytically important.
+
+**Evidence checked:**  
+- Brockmann, C01-S01-P01, including the author's explicit English gloss.
+- Martin Sabrow, “Die ‘Stunde Null’ als Zeiterfahrung,” bpb/APuZ, 2020.
+
+**Unresolved questions:**  
+- Adel has not yet explicitly approved this as a project-wide rendering beyond the current obvious gloss.
+
+**Research state:**  
+evidence checked for the 1945 rupture/topos function and distinction from a neutral historical category
+
+**Status (translation decision):**  
+candidate
+
+**Approved by Adel:**  
+no
+
+**Last reviewed:**  
+2026-10-07
+
+---
+
+## Nullpunkt
+
+**German form:**  
+`Nullpunkt`
+
+**Literal sense:**  
+“zero point”
+
+**English form(s) in the book:**  
+`Zero Point`
+
+**Domain:**  
+postwar German historical/cultural rupture terminology
+
+**Key location(s):**  
+C01-S01-P01
+
+**Historical-conceptual meaning:**  
+In Brockmann, `Nullpunkt` is paired with but explicitly distinguished from `Stunde Null`: the two have slightly different denotations and connotations while both suggest rupture and a new beginning. Sabrow's bpb discussion also uses `Nullpunkt` analytically for a transition/zero-point while discussing `Stunde Null` as a historical metaphor/topos, supporting the rule that the terms must not be silently collapsed.
+
+**Function in the current passage:**  
+It provides the spatial/abstract “zero point” counterpart to the temporal metaphor `Stunde Null`.
+
+**Relationship to the English wording:**  
+The book itself glosses `Nullpunkt` directly as `Zero Point`.
+
+**Related or contrasting concepts:**  
+- `Stunde Null`
+
+**Persian candidates:**  
+1. نقطهٔ صفر
+
+**What the candidates preserve or lose:**  
+- «نقطهٔ صفر»: preserves Brockmann's spatial/point metaphor and keeps it distinct from «ساعت صفر».
+
+**Current project rendering:**  
+«نقطهٔ صفر» at the first significant occurrence together with the German form.
+
+**Translation rule:**  
+Do not replace `Nullpunkt` automatically with «ساعت صفر». Preserve «نقطهٔ صفر» when Brockmann's contrast matters.
+
+**Evidence checked:**  
+- Brockmann, C01-S01-P01, explicit pairing and English glosses.
+- Martin Sabrow, bpb/APuZ, 2020.
+
+**Unresolved questions:**  
+- Adel has not yet explicitly approved this as a project-wide rendering beyond the current direct gloss.
+
+**Research state:**  
+evidence checked for the current passage and non-collapse rule
+
+**Status (translation decision):**  
+candidate
+
+**Approved by Adel:**  
+no
+
+**Last reviewed:**  
+2026-10-07
 
 ---
 
