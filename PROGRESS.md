@@ -28,6 +28,10 @@
 
 The saved learner checkpoint ends exactly at the end of `C01-S01-P01`. The sentence above is the first sentence of `C01-S01-P02`. Work on it has begun in chat but has **not yet been saved as a new P02 draft/review artifact**.
 
+## Resolved terminology decisions
+
+- **`special concentration camps` → «اردوگاه‌های مرگ» — approved by Adel, 2026-10-07, for C01-S01-P01.** The choice identifies the historical referent in the clause about Nazi mass exterminations. It does **not** mean `special = مرگ` generally; any later occurrence must be checked in its own historical context.
+
 ## Open translation questions
 
 - `most powerful representative`: contextual Persian choice still open; do not treat «پرنفوذترین» as a documented dictionary equivalent without evidence.
