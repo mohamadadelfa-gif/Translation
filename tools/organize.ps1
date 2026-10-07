@@ -120,6 +120,53 @@ $restoredWhole = [regex]::Replace($whole, '<!-- translation-preparation: added u
 if ($restoredWhole -cne $source) { throw 'Full-source preservation check failed.' }
 [IO.File]::WriteAllText((Join-Path $out 'revisiting-zero-hour-1945-structured.md'), $whole)
 [IO.File]::WriteAllText((Join-Path $out 'START-HERE.md'), ($index -join "`n"))
+
+# Reapply established Practice Chunk boundaries from the structured map.
+$chunkMapPath = Join-Path $out 'PRACTICE-CHUNKS.json'
+if (Test-Path -LiteralPath $chunkMapPath -PathType Leaf) {
+    $chunkMap = Get-Content -LiteralPath $chunkMapPath -Raw -Encoding UTF8 | ConvertFrom-Json
+    $byChapter = $chunkMap | Group-Object chapter
+    foreach ($group in $byChapter) {
+        $chapterPath = Join-Path $out ($group.Name + '.md')
+        if (!(Test-Path -LiteralPath $chapterPath -PathType Leaf)) {
+            throw "Practice-chunk chapter file not found: $chapterPath"
+        }
+
+        $chapterText = [IO.File]::ReadAllText($chapterPath).Replace("`r`n", "`n")
+        $chapterText = [regex]::Replace(
+            $chapterText,
+            '(?m)^<!-- practice-chunk: C\d\d-S\d\d-P\d\d (?:START|END)(?:; source words: \d+)? -->\n?',
+            ''
+        )
+
+        $chunkInsertions = [Collections.Generic.List[object]]::new()
+        foreach ($chunk in $group.Group) {
+            $startAnchor = [string]$chunk.start_anchor
+            $endAnchor = [string]$chunk.end_anchor
+            $startPos = $chapterText.IndexOf($startAnchor, [StringComparison]::Ordinal)
+            $endPos = $chapterText.IndexOf($endAnchor, [StringComparison]::Ordinal)
+            if ($startPos -lt 0) { throw "Practice-chunk start anchor not found: $($chunk.id)" }
+            if ($endPos -lt 0) { throw "Practice-chunk end anchor not found: $($chunk.id)" }
+            if ($endPos -lt $startPos) { throw "Practice-chunk end precedes start: $($chunk.id)" }
+
+            $chunkInsertions.Add(@{
+                Position = $endPos + $endAnchor.Length
+                Value = "`n`n<!-- practice-chunk: $($chunk.id) END -->"
+            })
+            $chunkInsertions.Add(@{
+                Position = $startPos
+                Value = "<!-- practice-chunk: $($chunk.id) START; source words: $($chunk.source_word_count) -->`n`n"
+            })
+        }
+
+        $orderedInsertions = $chunkInsertions | Sort-Object Position -Descending
+        foreach ($ins in $orderedInsertions) {
+            $chapterText = $chapterText.Insert([int]$ins.Position, [string]$ins.Value)
+        }
+        [IO.File]::WriteAllText($chapterPath, $chapterText)
+    }
+}
+
 Write-Output "Source: $SourcePath"
 Write-Output "Created introduction + 5 chapters, $unitCount translation units. Verified all normalized source content preserved."
 Write-Output ($index -join "`n")
