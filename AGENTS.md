@@ -4,18 +4,19 @@ This repository is the working environment for Adel's English-to-Persian transla
 
 ## Authority and control
 
-Use the following order when project files overlap or appear to conflict:
+Use these roles when project files overlap:
 
-1. `sources/` contains the supplied source material and is read-only.
-2. `MENTOR_WORKFLOW.md` is the authoritative pedagogical and review workflow.
-3. `translation-references/SOURCE-REGISTER.md` and `translation-references/WORD-CHOICE-POLICY.md` define how references and terminology are used.
-4. `PROGRESS.md` records the current working location and outstanding tasks.
+1. `MENTOR_WORKFLOW.md` is the **single authoritative workflow** for pedagogy, review stages, reference gating, approval, and file-state transitions.
+2. `sources/` is a read-only snapshot of supplied material. Never write new working segmentation, mentor notes, or translation edits into it.
+3. `translation-references/SOURCE-REGISTER.md` defines source roles and retrieval routes; it does not create a second workflow.
+4. `PROGRESS.md` is the live dashboard for the current position, open checks, and next action only.
 5. `translation-preparation/` contains derived working structure and reading aids.
-6. `drafts/` contains Adel's drafts, mentor proposals, and review notes.
+6. `drafts/Cxx/` contains Adel's drafts, mentor proposals, and review notes for that chapter.
 7. `approved-translations/` contains only text explicitly approved by Adel.
 8. `archive/` contains historical or superseded material and is not an active instruction source.
+9. `translation-references/WORD-CHOICE-POLICY.md` is a compatibility pointer to the authoritative workflow/reference documents, not an independent policy authority.
 
-If an archived or older planning document conflicts with the files above, follow the current files above.
+If any subordinate or archived document conflicts with `MENTOR_WORKFLOW.md`, follow `MENTOR_WORKFLOW.md`.
 
 ## Human authority
 
@@ -53,18 +54,18 @@ Translation units are not automatically 300-word exercises.
 
 Preferred naming for new work:
 
-- Adel draft: `drafts/C00-S02-P01-draft-01.md`
-- Mentor-reviewed proposal: `drafts/C00-S02-P01-reviewed-01.md`
-- Review notes: `drafts/C00-S02-P01-review-notes-01.md`
+- Adel draft: `drafts/C00/C00-S02-P01-draft-01.md`
+- Mentor-reviewed proposal: `drafts/C00/C00-S02-P01-reviewed-01.md`
+- Review notes: `drafts/C00/C00-S02-P01-review-notes-01.md`
 - Approved text: `approved-translations/C00-S02-P01-approved.md`
 
 Existing historical filenames do not need to be renamed solely to satisfy this convention.
 
 ## Source and preparation layers
 
-Treat `sources/` as the immutable canonical snapshot of supplied material.
+Treat `sources/` as an immutable snapshot of what was supplied to the repository. Existing source snapshots may already contain earlier conversion or segmentation artifacts; preserve them exactly rather than retroactively cleaning them.
 
-Treat `translation-preparation/` as a derived working layer for chapter maps, reading notes, and practical translation divisions. A matching file in the two directories may currently be identical, but synchronization must never be assumed. If they differ, do not silently overwrite either copy; inspect the difference and identify which change belongs in the working layer.
+Treat `translation-preparation/` as the only active working layer for chapter maps, reading notes, practical translation divisions, and future structural edits. Never sync working edits back into `sources/`.
 
 ## Reference discipline
 
@@ -74,7 +75,7 @@ Unverified Cronin, K1, RTS, or other external frameworks are not lexical or hist
 
 Use the confidence labels defined in `MENTOR_WORKFLOW.md`.
 
-For consequential or uncertain general vocabulary, compare Ariyanpour and Hezareh as active peers, following `translation-references/WORD-CHOICE-POLICY.md`. Use `translation-references/GERMAN-CONCEPTS.md` for historical-conceptual research; its research state is distinct from approval of a Persian equivalent.
+For consequential or uncertain general vocabulary, compare Ariyanpour and Hezareh as active peers according to `MENTOR_WORKFLOW.md`; use `translation-references/SOURCE-REGISTER.md` for the retrieval routes. Use `translation-references/GERMAN-CONCEPTS.md` for historical-conceptual research; its research state is distinct from approval of a Persian equivalent.
 
 ### Hezareh lookup discipline
 
