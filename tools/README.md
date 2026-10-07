@@ -5,4 +5,6 @@
 
 - `validate_translation_craft_corpus.py`: run with `python -B tools/validate_translation_craft_corpus.py`. Checks 59 aligned English/Persian sections, file existence and SHA-256 checksums. Pilot cases resolve by their `section` IDs through `paired-sections.csv`; malformed JSON, missing IDs, duplicate mappings and unresolved sections produce validation errors. Success does not certify OCR/transcription accuracy or translation quality. This validator reads files only.
 
+- `audit_repository.py`: run with `python -B tools/audit_repository.py`. Read-only structural validator for workflow authority, internal links, source/working-layer separation, Practice Chunk boundaries, draft/approval layout, reference subsystem wiring, corpus integrity, provenance state, and tool configuration. It runs automatically through `.github/workflows/structural-audit.yml` on pushes to `master` and pull requests.
+
 The preparation tools resolve output paths from the project root regardless of the shell's current directory. `organize.ps1` is repository-reproducible from the tracked structured snapshot; the Ariyanpour LD2 remains an external binary dependency whose checksum is enforced. Neither tool should alter files in `sources/`.
