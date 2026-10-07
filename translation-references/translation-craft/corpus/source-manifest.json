@@ -15,13 +15,13 @@
     }
   },
   "derived_corpora": {
-    "faulkner": "translation-preparation/translation-craft-corpus/faulkner-as-i-lay-dying/",
-    "daryabandari": "translation-preparation/translation-craft-corpus/daryabandari-as-i-lay-dying/"
+    "faulkner": "translation-references/translation-craft/corpus/faulkner-as-i-lay-dying/",
+    "daryabandari": "translation-references/translation-craft/corpus/daryabandari-as-i-lay-dying/"
   },
   "alignment": {
     "sections": 59,
-    "map_csv": "translation-preparation/translation-craft-corpus/paired-sections.csv",
-    "map_jsonl": "translation-preparation/translation-craft-corpus/paired-sections.jsonl"
+    "map_csv": "translation-references/translation-craft/corpus/paired-sections.csv",
+    "map_jsonl": "translation-references/translation-craft/corpus/paired-sections.jsonl"
   },
   "authority_rule": "Canonical PDFs are authoritative. Markdown corpora are derived working representations and must be checked against the PDFs for consequential claims."
 }
