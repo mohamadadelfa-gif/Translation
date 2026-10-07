@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import hashlib
 import importlib.util
+import json
 import re
 import sys
 from pathlib import Path
@@ -42,6 +43,7 @@ REQUIRED = [
     ROOT / "translation-references" / "najafi" / "tools" / "najafi_lookup.py",
     ROOT / "translation-references" / "translation-craft" / "corpus" / "paired-sections.csv",
     ROOT / "translation-preparation" / "C01.md",
+    ROOT / "translation-preparation" / "PRACTICE-CHUNKS.json",
 ]
 
 class Audit:
@@ -207,21 +209,42 @@ def check_chunks(a):
     )
     marks = list(marker_re.finditer(text))
     expected = {"C01-S01-P01": 338, "C01-S01-P02": 254}
+    chunk_map_path = ROOT / "translation-preparation" / "PRACTICE-CHUNKS.json"
+    chunk_map = json.loads(read(chunk_map_path))
+    mapped = {item["id"]: item for item in chunk_map}
 
     for cid, expected_words in expected.items():
+        item = mapped.get(cid)
+        if item is None:
+            a.fail("Practice Chunk missing from PRACTICE-CHUNKS.json: " + cid)
+            continue
+        if item.get("source_word_count") != expected_words:
+            a.fail("%s map word count %r; expected %d." % (cid, item.get("source_word_count"), expected_words))
+
         start = next((m for m in marks if m.group(1) == cid and m.group(2) == "START"), None)
         end = next((m for m in marks if m.group(1) == cid and m.group(2) == "END"), None)
         if start is None or end is None:
             a.fail("Missing exact START or END marker for " + cid)
             continue
         declared = int(start.group(3)) if start.group(3) else None
-        actual = word_count(text[start.end():end.start()])
+        body = text[start.end():end.start()]
+        actual = word_count(body)
         if declared != expected_words:
             a.fail("%s declared %r words; expected %d." % (cid, declared, expected_words))
         if actual != expected_words:
             a.fail("%s actual word count %d; expected %d." % (cid, actual, expected_words))
-        if declared == expected_words and actual == expected_words:
-            a.ok("%s boundary and word count verified (%d words)." % (cid, actual))
+        if item.get("start_anchor") not in body:
+            a.fail("%s start anchor is not inside its marked body." % cid)
+        if item.get("end_anchor") not in body:
+            a.fail("%s end anchor is not inside its marked body." % cid)
+        if (
+            declared == expected_words
+            and actual == expected_words
+            and item.get("source_word_count") == expected_words
+            and item.get("start_anchor") in body
+            and item.get("end_anchor") in body
+        ):
+            a.ok("%s map, anchors, boundary and word count verified (%d words)." % (cid, actual))
 
     progress = read(ROOT / "PROGRESS.md")
     if "**Current Practice Chunk:** `C01-S01-P02`" not in progress:
@@ -314,8 +337,10 @@ def check_tools(a):
         a.fail("organize.ps1 still has hard-coded Desktop input.")
     elif "sources\\revisiting-zero-hour-1945-structured.md" not in organize:
         a.fail("organize.ps1 lacks tracked default source.")
+    elif "PRACTICE-CHUNKS.json" not in organize or "Practice-chunk start anchor not found" not in organize:
+        a.fail("organize.ps1 does not fail closed while reapplying the Practice Chunk map.")
     else:
-        a.ok("organize.ps1 has repository-default input and optional override.")
+        a.ok("organize.ps1 has repository-default input and deterministic Practice Chunk reapplication.")
 
     if "C:/Users/Adel/Desktop" in dictionary:
         a.fail("test-dictionary.cjs still has hard-coded Desktop input.")
