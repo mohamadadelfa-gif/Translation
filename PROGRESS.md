@@ -34,9 +34,10 @@ The saved learner checkpoint ends exactly at the end of `C01-S01-P01`. The sente
 
 ## Open translation questions
 
-- `most powerful representative`: contextual Persian choice still open; do not treat «پرنفوذترین» as a documented dictionary equivalent without evidence.
+- `most powerful representative`: contextual Persian choice still open. Hezareh Profile v2 confirms that `representative` keeps its existing `visually_checked / high` record (`hz-028927`) supporting noun «نماینده», but the v2 index still has **no exact `powerful` entry**; therefore «پرنفوذترین» remains contextual, not a Hezareh-documented equivalent.
 - `representative of a better, more democratic Germany`: preserve the noun relation to **Germany**; avoid the ambiguous «آلمانی بهتر».
-- `in such stark terms`: contextual phrase, not `terms = اصطلاحات`; tone and semantic-family choice still require contextual Persian judgment.
+- `intellectual` — Hezareh Profile v2 keeps `hz-019259` at `raw_ocr / high`; «روشنفکر / اندیشمند» is visible in the OCR field, but exact wording still requires original-page verification if the lexical distinction becomes consequential.
+- `in such stark terms`: contextual phrase, not `terms = اصطلاحات`. Hezareh Profile v2 retains `stark` as `raw_ocr / medium` (`hz-032841`) with OCR material around «خشن / زننده / stark reality» but does not resolve the idiom; tone and Persian semantic-family choice remain contextual.
 - Persian usage/syntax must receive the relevant Najafi control where a concrete construction question arises.
 - Persian semantic-family and register choices should be checked against the approved فرهنگ طیفی and the surrounding translated sentences.
 - Paragraph / Practice Chunk evidence gate remains open until the required source groups have explicit outcomes under `MENTOR_WORKFLOW.md`.
