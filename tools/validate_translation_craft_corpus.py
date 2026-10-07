@@ -6,7 +6,7 @@ import hashlib
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
-CORPUS = ROOT / 'translation-preparation' / 'translation-craft-corpus'
+CORPUS = ROOT / 'translation-references' / 'translation-craft' / 'corpus'
 CSV = CORPUS / 'paired-sections.csv'
 
 
@@ -26,7 +26,7 @@ def validate(root=ROOT):
     errors = []
     mapping = {}
     duplicates = set()
-    table = root / 'translation-preparation/translation-craft-corpus/paired-sections.csv'
+    table = root / 'translation-references/translation-craft/corpus/paired-sections.csv'
     try:
         with table.open(encoding='utf-8-sig', newline='') as stream:
             rows = list(csv.DictReader(stream))
