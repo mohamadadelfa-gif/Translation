@@ -37,6 +37,24 @@ This derived layer belongs under:
 
 The index is navigation, not lexical evidence.
 
+## Profile v2 supplementary overlay
+
+A user-supplied Hezareh Profile v2 package was audited on 2026-10-07:
+
+`qc/profile-v2-package-audit-2026-10-07.md`
+
+Package SHA-256:
+
+`962aef1ee970ef6c54edc1cb93eaf618a92e6f636efc1fa75edc6f63846dad8a`
+
+The package retains the same 38,957-record lexical/index inventory but adds machine-revision annotations to 38,098 records. Those annotations do **not** constitute new visual verification.
+
+Imported active overlay:
+
+`revisions-v2/C01-active-records.md`
+
+When a matching v2 overlay exists, inspect it **after** the normal shard record and `Source text`. The overlay may clarify labels, likely grouping, or unresolved boundary problems, but it must not upgrade `raw_ocr`, `boundary_confidence`, or human-review status by itself.
+
 ## Evidence rules
 
 - `visually_checked`: supplied package marks the record visually checked. Preserve that status; do not imply a new check occurred.
