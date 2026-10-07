@@ -18,11 +18,19 @@ The source text, context, argument, specialist meaning, Persian usage, and Adel'
 
 ### Main book
 
+Primary provenance and authority are recorded in [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).
+
+The original 115-page PDF has been recovered and visually identified; its SHA-256 is recorded there. The PDF is the canonical visual authority, but the binary is not yet tracked in GitHub.
+
+Tracked searchable snapshot:
+
 `sources/revisiting-zero-hour-1945-structured.md`
 
-This is the main structured source text for *Revisiting Zero Hour 1945*.
+Active working derivative:
 
-Use it to determine:
+`translation-preparation/revisiting-zero-hour-1945-structured.md`
+
+Use the structured text for searchable access to:
 
 - source wording;
 - argument;
@@ -32,7 +40,7 @@ Use it to determine:
 - endnotes;
 - relations between chapters.
 
-The source author's meaning and argumentative distinctions have priority over dictionary convenience.
+When wording, layout, quotation, page, or extraction is consequential or disputed, verify against the original PDF when available. The source author's meaning and argumentative distinctions have priority over dictionary convenience.
 
 ### Chapter working files
 
