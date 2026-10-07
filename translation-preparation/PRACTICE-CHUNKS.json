@@ -1,0 +1,22 @@
+[
+  {
+    "id": "C01-S01-P01",
+    "chapter": "C01",
+    "unit": "C01-S01",
+    "source_word_count": 338,
+    "start_anchor": "> “We do not know what happens at Zero.  If anything happens.",
+    "end_anchor": "“Humanity shudders in horror at Germany!” said Thomas Mann.[^brockmann-2]",
+    "status": "boundary_established",
+    "artifact_note": "Existing C01-S01-opening draft/review files are historical filenames mapped to this chunk."
+  },
+  {
+    "id": "C01-S01-P02",
+    "chapter": "C01",
+    "unit": "C01-S01",
+    "source_word_count": 254,
+    "start_anchor": "The elderly Mann, who had become the most powerful representative of a better, more democratic Germany abroad during the years of Hitler’s Third Reich, was not the only intellectual to view Germany’s situation in such stark terms.",
+    "end_anchor": "> the people, that is a few party bureaucrats and bums...[^brockmann-3]",
+    "status": "active",
+    "artifact_note": "Next saved C01 work must use C01-S01-P02 filenames."
+  }
+]
