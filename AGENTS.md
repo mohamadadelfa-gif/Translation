@@ -57,7 +57,7 @@ Preferred naming for new work:
 - Adel draft: `drafts/C00/C00-S02-P01-draft-01.md`
 - Mentor-reviewed proposal: `drafts/C00/C00-S02-P01-reviewed-01.md`
 - Review notes: `drafts/C00/C00-S02-P01-review-notes-01.md`
-- Approved text: `approved-translations/C00-S02-P01-approved.md`
+- Approved text: `approved-translations/C00/C00-S02-P01-approved.md`
 
 Existing historical filenames do not need to be renamed solely to satisfy this convention.
 
