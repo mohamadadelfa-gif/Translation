@@ -1,12 +1,28 @@
 # وضعیت کار
 
-آخرین به‌روزرسانی: ۲۰۲۶-۱۰-۰۵
+آخرین به‌روزرسانی: ۲۰۲۶-۱۰-۰۷
+
+## ACTIVE continuation — C01-S01
+
+**Saved checkpoint, 2026-10-07:** Adel's current C01 work from the chapter title and Gunnars epigraph through the Thomas Mann quotation has been preserved in [the learner draft](drafts/C01-S01-opening-draft-01.md). The session's teaching analysis and mentor proposals are preserved separately in [the preliminary mentor review](drafts/C01-S01-opening-reviewed-01.md).
+
+**Review stage:** **Preliminary analysis.** No wording has been approved. The required reference-evidence gate is still open, including the Ariyanpour/Hezareh comparison where consequential, Persian thesaurus, Daryabandari, Ashouri, Najafi, Academy orthography, and German-concept work for `Stunde Null` / `Nullpunkt`. Historical/terminological questions around `forced exodus` and concentration-camp terminology also remain unresolved.
+
+**Latest reviewed source endpoint:** Thomas Mann's sentence ending:
+
+> “Humanity shudders in horror at Germany!” said Thomas Mann.
+
+**Exact next source sentence:**
+
+> The elderly Mann, who had become the most powerful representative of a better, more democratic Germany abroad during the years of Hitler’s Third Reich, was not the only intellectual to view Germany’s situation in such stark terms.
+
+Continue from this sentence in [C01](translation-preparation/C01.md). The saved checkpoint advances the working position only; it does not establish paragraph completion, review readiness, terminology approval, or placement in `approved-translations/`.
 
 ## Review status correction — C01
 
 **Workflow repair, 2026-10-05:** MENTOR_WORKFLOW.md now defines paragraph completion, explicit check outcomes and separate preliminary/review-ready/approved stages; WORD-CHOICE-POLICY.md points to the same authoritative gate. The C01 opening paragraph is **Preliminary analysis**, not finalized: Ashouri original-page/QC verification and Najafi printed-index/body inspection remain Pending. Complete accessible required checks and the teaching review before marking it ready for Adel's decision. Hezareh's missing original remains a distinct evidence limitation. The next-source marker below does not close these tasks or establish approval.
 
-## ACTIVE continuation — end of C00
+## Historical continuation checkpoint — end of C00
 
 **Latest mentor review:** [final C00 paragraph review](drafts/C00-S02-final-paragraph-reviewed-01.md), covering the paragraph beginning “In retrospect, I have come to realize…” and ending “…recent German literature and culture.”
 
@@ -187,7 +203,7 @@ Before treating the reported completed chunks as fully archived, reconcile this 
 در آغاز هر جلسهٔ جدید:
 
 1. این فایل، `PROGRESS.md`، خوانده شود.
-2. محل جاری در `translation-preparation/C00.md` پیدا شود.
+2. محل جاری در `translation-preparation/C01.md` پیدا شود.
 3. بند کامل و بافت پیرامونی جمله خوانده شود.
 4. ساختار نحوی و دستوری انگلیسی توضیح داده شود.
 5. اگر مفهوم تاریخی یا اصطلاح آلمانی مهمی وجود دارد، بررسی `GERMAN-CONCEPTS.md` انجام شود.
