@@ -9,6 +9,7 @@
 - [بافت و ساختار کتاب](translation-preparation/CONTEXT-AND-STRUCTURE.md)
 - [نقشهٔ فصل‌ها و بخش‌های ترجمه](translation-preparation/START-HERE.md)
 - [فهرست منابع تثبیت‌شده](translation-references/SOURCE-REGISTER.md)
+- [ثبت منشأ و مرجعیت منابع](translation-references/SOURCE-PROVENANCE.md)
 - [واژه‌نامهٔ پروژه](translation-references/GLOSSARY.md)
 - [بررسی مفاهیم تاریخی آلمانی](translation-references/GERMAN-CONCEPTS.md)
 
@@ -70,6 +71,6 @@ C00
 - `drafts/C00/C00-S02-P01-draft-01.md`
 - `drafts/C00/C00-S02-P01-reviewed-01.md`
 - `drafts/C00/C00-S02-P01-review-notes-01.md`
-- پس از تأیید صریح: `approved-translations/C00-S02-P01-approved.md`
+- پس از تأیید صریح: `approved-translations/C00/C00-S02-P01-approved.md`
 
 `MENTOR_WORKFLOW.md` تنها مرجع نهاییِ روش آموزش، بازبینی و evidence gate است. `AGENTS.md` فقط دستورهای عملیاتی کوتاه را نگه می‌دارد؛ `SOURCE-REGISTER.md` نقش و مسیر منابع را ثبت می‌کند؛ هیچ‌کدام نباید workflow موازی بسازند.
