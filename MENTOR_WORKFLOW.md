@@ -73,7 +73,7 @@ Before reviewing a new sentence or chunk:
 5. Determine whether the task is sentence-level work or a practice-chunk review.
 6. Identify whether the passage contains historically or conceptually significant German terminology requiring a German-concept check.
 
-7. Read the applicable source-specific profiles/manuals and active controls, including `translation-references/TRANSLATION-PROFILE.md` when relevant. Distinguish the checked local working copy from the version on GitHub; do not claim remote synchronization without checking it. Preserve uncommitted instructions and do not overwrite them with a remote copy.
+7. Read the applicable source-specific README/manuals and active controls identified in `translation-references/SOURCE-REGISTER.md`. There is no separate `TRANSLATION-PROFILE.md` authority unless such a file is explicitly added and assigned a non-duplicative role. Distinguish any checked local working copy from the version on GitHub; do not claim remote synchronization without checking it.
 
 ---
 
@@ -128,7 +128,7 @@ In Review Mode, follow this order for each sentence or practice chunk. In Learni
 
    For every paragraph, also carry out the three supplementary reference checks specified in Section 5: Persian thesaurus; Daryabandari's Persian prose; and Ashouri, Najafi, and the Academy guide. Report actual findings and lookup limits, including when a check supports retaining Adel's wording.
 
-   Najafi must be treated as an evidence-by-page source. Lookup first in the manually verified body-heading layer at `translation-references/najafi/index/headwords-master.csv`; if there is no exact verified row, use the complete printed-source-index candidate layer at `translation-references/najafi/index/source-index-master.csv` (or `tools/najafi_lookup.py`) to navigate. Source-index OCR is navigation only and may contain spelling, diacritic, or page-number errors. Before attributing any usage recommendation, open the corresponding dictionary-body page in the canonical PDF and visually inspect the actual heading and relevant entry. A machine-index miss does not prove absence: inspect the relevant printed source-index/body range directly. Record a usable check as `Najafi — «<headword>» — PDF p. <pdf_page> / printed p. <printed_page> — visually_checked — finding — effect`.
+   Najafi must be treated as an evidence-by-page source. Lookup first in the manually verified body-heading layer at `translation-references/najafi/index/headwords-master.csv`; if there is no exact verified row, use the complete printed-source-index candidate layer at `translation-references/najafi/index/source-index-master.csv` (or `translation-references/najafi/tools/najafi_lookup.py`) to navigate. Source-index OCR is navigation only and may contain spelling, diacritic, or page-number errors. Before attributing any usage recommendation, open the corresponding dictionary-body page in the canonical PDF and visually inspect the actual heading and relevant entry. A machine-index miss does not prove absence: inspect the relevant printed source-index/body range directly. Record a usable check as `Najafi — «<headword>» — PDF p. <pdf_page> / printed p. <printed_page> — visually_checked — finding — effect`.
 
    **Reference-evidence gate:** apply the completion rules below before presenting a paragraph as ready for Adel's final decision. Merely writing `lookup incomplete`, `Contextual proposal`, or a list of missing checks does not satisfy this gate. Continue analysis and preliminary teaching while checks are pending; complete feasible checks before delivering the paragraph for final review.
 
@@ -679,7 +679,7 @@ drafts/C00/C00-S02-P01-review-notes-01.md
 ### Explicitly approved version
 
 ```text
-approved-translations/C00-S02-P01-approved.md
+approved-translations/C00/C00-S02-P01-approved.md
 ```
 
 If a revision is made before approval, increment the review number rather than overwriting the distinction between draft and proposal.
