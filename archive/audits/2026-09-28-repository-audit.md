@@ -37,7 +37,7 @@ Locations use section names to remain useful after line shifts. “Earlier fix�
 ### B1. Reported completion exceeds saved draft coverage
 
 - **Severity:** Important.
-- **File:** `PROGRESS.md`; `drafts/C00-introduction-progress-2026-09-27.txt`; `drafts/C00-introduction-reviewed-01.md`; `drafts/C00-introduction-review-notes-01.md`.
+- **File:** `PROGRESS.md`; `drafts/C00/C00-introduction-progress-2026-09-27.txt`; `drafts/C00/C00-introduction-reviewed-01.md`; `drafts/C00/C00-introduction-review-notes-01.md`.
 - **Location:** Progress completion labels and last/next sentence sections; draft endpoints; review-notes opening scope statement.
 - **Problem:** P01/P02 are reported complete, but the saved draft and review stop at “a new interest and understanding of the past”. The later “Thus…” translation appears in PROGRESS, while the intervening “This operation…”, “Today we rarely remember…”, and “Although the meetings…” translations are not in those saved artifacts. Exact P01/P02 boundaries are also absent.
 - **Why it matters:** A new session could confuse reported work with recoverable files or infer approval from completion.
