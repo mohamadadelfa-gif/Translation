@@ -50,10 +50,12 @@ Do not create a new saved checkpoint with the historical `opening` naming. When 
 - **Single workflow authority:** [MENTOR_WORKFLOW.md](MENTOR_WORKFLOW.md)
 - **Operational entry rules:** [AGENTS.md](AGENTS.md)
 - **Reference roles and retrieval routes:** [translation-references/SOURCE-REGISTER.md](translation-references/SOURCE-REGISTER.md)
+- **Primary-source provenance:** [translation-references/SOURCE-PROVENANCE.md](translation-references/SOURCE-PROVENANCE.md)
 - **Project terminology:** [translation-references/GLOSSARY.md](translation-references/GLOSSARY.md)
 - **German concepts:** [translation-references/GERMAN-CONCEPTS.md](translation-references/GERMAN-CONCEPTS.md)
 - **Draft organization:** chapter folders under `drafts/Cxx/`
 - **Translation-craft corpus:** `translation-references/translation-craft/corpus/`
+- **Structural validator:** `tools/audit_repository.py` + `.github/workflows/structural-audit.yml`
 
 ## Source / working-layer rule
 
