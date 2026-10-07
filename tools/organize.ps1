@@ -1,7 +1,32 @@
+param(
+    [string]$SourcePath = $env:ZERO_HOUR_SOURCE_MD
+)
+
 $ErrorActionPreference = 'Stop'
-$sourcePath = 'C:\Users\Adel\Desktop\revisiting-zero-hour-1945.md'
-$source = [IO.File]::ReadAllText($sourcePath).Replace("`r`n", "`n")
 $projectRoot = Split-Path -Parent $PSScriptRoot
+
+if ([string]::IsNullOrWhiteSpace($SourcePath)) {
+    $SourcePath = Join-Path $projectRoot 'sources\revisiting-zero-hour-1945-structured.md'
+}
+if (!(Test-Path -LiteralPath $SourcePath -PathType Leaf)) {
+    throw "Source Markdown not found: $SourcePath. Pass -SourcePath or set ZERO_HOUR_SOURCE_MD."
+}
+
+$source = [IO.File]::ReadAllText($SourcePath).Replace("`r`n", "`n")
+
+# The frozen supplied snapshot already contains earlier preparation markers.
+# Strip only known project-generated markers before rebuilding the working layer.
+$source = [regex]::Replace(
+    $source,
+    '(?m)^<!-- translation-preparation: added unit heading -->\n#### Translation unit C\d\d-S\d\d\n\n',
+    ''
+)
+$source = [regex]::Replace(
+    $source,
+    '(?m)^<!-- practice-chunk: C\d\d-S\d\d-P\d\d (?:START|END)(?:; source words: \d+)? -->\n?',
+    ''
+)
+
 $out = Join-Path $projectRoot 'translation-preparation'
 [IO.Directory]::CreateDirectory($out) | Out-Null
 $starts = [regex]::Matches($source, '(?m)^## (Introduction|German Culture at.*|From Zero Hour to High Noon:.*|Adorno.s Philosophy.*|.Where Were You.*|Divided Memory, Multiple Restorations:.*)$')
@@ -95,5 +120,6 @@ $restoredWhole = [regex]::Replace($whole, '<!-- translation-preparation: added u
 if ($restoredWhole -cne $source) { throw 'Full-source preservation check failed.' }
 [IO.File]::WriteAllText((Join-Path $out 'revisiting-zero-hour-1945-structured.md'), $whole)
 [IO.File]::WriteAllText((Join-Path $out 'START-HERE.md'), ($index -join "`n"))
-Write-Output "Created introduction + 5 chapters, $unitCount translation units. Verified all source content preserved."
+Write-Output "Source: $SourcePath"
+Write-Output "Created introduction + 5 chapters, $unitCount translation units. Verified all normalized source content preserved."
 Write-Output ($index -join "`n")
