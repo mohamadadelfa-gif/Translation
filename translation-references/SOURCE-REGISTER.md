@@ -435,11 +435,15 @@ These three anomalies are recorded in:
 Use the thesaurus for:
 
 - exploring Persian semantic fields;
-- finding related Persian expressions;
+- finding related Persian expressions and semantic families;
 - comparing plausible formulations after the English meaning has been established;
+- matching candidate wording to the tone, register, and rhetorical force of the English passage;
+- comparing candidates with the surrounding translated sentences so the local Persian voice remains coherent;
 - identifying neighboring concepts;
 - examining explicit source cross-references;
 - widening or narrowing Persian candidate wording.
+
+**Project status:** فرهنگ طیفی is a fully approved project reference. Its canonical DOCX is authoritative for its internal structure and wording. This approval concerns the reliability and role of the reference itself; it does not mean that every co-occurring term is a synonym or that any candidate translation is automatically approved.
 
 The thesaurus does **not** determine the meaning of the English source and is not an English–Persian dictionary.
 
