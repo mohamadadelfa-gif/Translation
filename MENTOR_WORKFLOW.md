@@ -128,6 +128,10 @@ In Review Mode, follow this order for each sentence or practice chunk. In Learni
 
    **Reference-evidence gate:** apply the completion rules below before presenting a paragraph as ready for Adel's final decision. Merely writing `lookup incomplete`, `Contextual proposal`, or a list of missing checks does not satisfy this gate. Continue analysis and preliminary teaching while checks are pending; complete feasible checks before delivering the paragraph for final review.
 
+   **Mandatory response-time reference checklist:** before presenting any continuous mentor Persian proposal in Review Mode — including a sentence-level proposal inside an unfinished paragraph — explicitly account for each applicable reference group: (1) Ariyanpour, (2) Hezareh, (3) Persian thesaurus, (4) Daryabandari prose, (5) Ashouri, (6) Najafi, (7) Academy orthography, and (8) German-concept evidence when triggered. Each item must be marked `Checked`, `Inconclusive after inspection`, `Not applicable`, `Unavailable`, `Pending`, or `Deferred by Adel`. Do not silently omit a reference because another dictionary already seems sufficient. If feasible checks remain Pending, any Persian reconstruction shown must be labeled **Preliminary analysis** in the same response; it must not be described as ready for Adel's decision.
+
+   **Ashouri stop condition:** when Ashouri is applicable, checking only the structured index/Markdown entry is not enough for a `Documented equivalent`. Record the structured hit as retrieval evidence, inspect the relevant QC record, and visually inspect the original PDF page before calling the equivalent documented. If that visual inspection has not occurred, state `Ashouri — Pending original-page visual verification` (or `Unavailable` only when the actual source is inaccessible after the documented recovery route).
+
 8. **Rebuild the Persian prose.**  
    Provide a fluent, precise, scholarly Persian proposal. Free the sentence from English word order while preserving the source's argument, degree of certainty, register, conceptual distinctions, and relevant ambiguity.
 
