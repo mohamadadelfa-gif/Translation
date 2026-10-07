@@ -96,7 +96,7 @@ Findings:
 - `Allied forces` → «نیروهای متفقین».
 - `mass exterminations` is materially stronger than «پاک‌سازی»; provisional direction: «کشتارهای جمعی / نابودی جمعی».
 - `news ... had spread` → «خبر ... در سراسر آلمان و جهان منتشر شده بود/پیچیده بود».
-- `concentration camp` and especially `special concentration camps` remain terminologically unresolved; do not finalize a Persian label without the required check.
+- `concentration camp` as a generic historical category remains distinct from killing/death camps. For this sentence, Adel has explicitly approved the context-specific decision **`special concentration camps` → «اردوگاه‌های مرگ»** because the phrase occurs inside the clause about Nazi `mass exterminations`. The decision identifies the historical referent; it does **not** establish `special = مرگ` as a general lexical rule.
 
 ### F. Thomas Mann quotation
 
@@ -129,9 +129,9 @@ These are **mentor proposals only**, not Adel-approved text.
 
 ### Auschwitz / surrender sentence
 
-> در ژانویهٔ ۱۹۴۵، اردوگاه آشویتس آزاد شده بود و تا ماه مه همان سال، هنگامی که رایش آلمان سرانجام بدون قید و شرط تسلیم نیروهای متفقین شد، خبر کشتارهای جمعی یهودیان و دیگر قربانیان به دست نازی‌ها در اردوگاه‌های ویژهٔ نازی در سراسر آلمان و جهان منتشر شده بود.
+> در ژانویهٔ ۱۹۴۵، اردوگاه آشویتس آزاد شده بود و تا ماه مه همان سال، هنگامی که رایش آلمان سرانجام بدون قید و شرط تسلیم نیروهای متفقین شد، خبر کشتارهای جمعی یهودیان و دیگر قربانیان به دست نازی‌ها در اردوگاه‌های مرگ در سراسر آلمان و جهان منتشر شده بود.
 
-The phrase «اردوگاه‌های ویژهٔ نازی» is explicitly **not finalized**; it was used only to expose the structural problem.
+**Approved terminology decision (Adel, 2026-10-07):** `special concentration camps` → «اردوگاه‌های مرگ» in this source context. `special` is treated as a contextual/functional qualifier pointing to the death-camp referent; the project must not generalize this as `special = مرگ` outside this passage.
 
 ### Thomas Mann sentence
 
@@ -156,7 +156,7 @@ This review remains **Preliminary analysis**. The following project-required wor
 - Najafi usage check with canonical-page inspection where applicable;
 - Academy orthography check;
 - German-concept research for `Stunde Null` and `Nullpunkt`;
-- historical/terminological check for `forced exodus`, `concentration camp`, and `special concentration camps` as needed;
+- historical/terminological check for `forced exodus` and generic `concentration camp` as needed; `special concentration camps` is resolved for this passage as «اردوگاه‌های مرگ» by Adel's explicit decision;
 - final decision on the Persian form of Brockmann;
 - Adel's explicit acceptance/rejection of any mentor wording.
 
