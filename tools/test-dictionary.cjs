@@ -3,10 +3,22 @@ const zlib = require('node:zlib');
 const crypto = require('node:crypto');
 const path = require('node:path');
 const projectRoot = path.resolve(__dirname, '..');
-const source = 'C:/Users/Adel/Desktop/Ariyan Pour Dictionary/Generic English-Persian Dictionary.ld2';
-const bytes = fs.readFileSync(source);
+const args = process.argv.slice(2);
+const sourceFlag = args.indexOf('--source');
+const source = sourceFlag >= 0 ? args[sourceFlag + 1] : process.env.ARYANPOUR_LD2_PATH;
+if (!source) {
+  throw Error('Ariyanpour LD2 source is required. Pass --source <path> or set ARYANPOUR_LD2_PATH.');
+}
+if (!fs.existsSync(source)) {
+  throw Error(`Ariyanpour LD2 source not found: ${source}`);
+}
 const hash = b => crypto.createHash('sha256').update(b).digest('hex');
+const expectedSourceSha256 = 'd69ee28c3faa54648528e754aef85cb51f62f6330c0cadeed943ae2c5984d765';
+const bytes = fs.readFileSync(source);
 const initialHash = hash(bytes);
+if (initialHash !== expectedSourceSha256) {
+  throw Error(`Unexpected Ariyanpour source SHA-256: ${initialHash}; expected ${expectedSourceSha256}`);
+}
 const u32 = p => bytes.readUInt32LE(p);
 let start = u32(0x5c) + 0x60;
 const type = u32(start);
