@@ -56,6 +56,8 @@ def load_predictions(path, queue):
     for row in rows(path):
         if row.get("schema") != "gould-kolb.ocr-structured-prediction.v1":
             raise ValueError("Unexpected prediction format")
+        if row.get("submission_status") != "actual_model_output":
+            raise ValueError("Predictions must be generated model outputs")
         ident = row.get("record_id")
         if ident not in by_id or ident in preds:
             raise ValueError(f"Unknown or duplicated prediction ID: {ident}")
