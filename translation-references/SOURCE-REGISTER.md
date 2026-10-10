@@ -117,6 +117,20 @@ Use [CHAPTER-MAP.md](grammar/english/huddleston-pullum-reynolds/CHAPTER-MAP.md) 
 
 ---
 
+## 2.2 Persian grammar and OCR/text-extraction quality assurance
+
+### Saeed Yousef — *Persian: A Comprehensive Grammar* (Routledge, 2018)
+
+Reusable index and conservative checker:
+
+`translation-references/grammar/persian/saeed-yousef/`
+
+The [OCR support module](grammar/persian/saeed-yousef/ocr-support/README.md) contains a tested, non-destructive Python issue reporter, grammar-section pointers, machine-readable error taxonomy, visually checked example, and review policy. Use it to flag possible spacing, letter-encoding, bidirectional-text, and word-order extraction anomalies; **never automatically correct** raw source text. It also supports standalone use outside the translation project.
+
+Canonical visual authority is the **user-supplied 2018 PDF**, SHA-256 `d7fe1280e629caa8488db6436b51f7fee4550a37303364e0d43c8d3005e5ca2d`. The PDF and the private full-book extraction are not published in this public repository. The map gives **printed-page locators**, not verified grammatical quotations or rules; inspect the relevant PDF page before attributing substantive guidance to Yousef. For normative orthography use the Academy writing guide and compare the actual page. The one visually checked case is a **PDF text-layer reading-order problem**, not an OCR-engine error.
+
+---
+
 ## 3. General English–Persian vocabulary
 
 The project uses **two active general bilingual references**:
