@@ -8,13 +8,18 @@ import unittest
 import fitz
 
 from persian_pdf_ocr import (
-    page_selection, embedded_diagnostics, process_document, safe_dpi_for,
+    page_selection, embedded_diagnostics, process_document, safe_dpi_for, text_agreement,
 )
 
 
 class Tests(unittest.TestCase):
     def test_page_selection_valid(self):
         self.assertEqual(page_selection("3,1-2,2", 5), [1, 2, 3])
+
+    def test_agreement_does_not_drop_common_persian_letters(self):
+        s = ("این یک آزمون زبان فارسی است. " * 80).strip()
+        self.assertEqual(text_agreement(s, s), 1.0)
+        self.assertGreater(text_agreement(s, s.replace("آزمون", "امتحان")), 0.8)
 
     def test_page_selection_outside(self):
         for spec in ["0", "2-1", "1,100", "a", "1-3-4"]:

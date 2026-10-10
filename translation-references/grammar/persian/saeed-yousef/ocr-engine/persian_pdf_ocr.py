@@ -46,6 +46,18 @@ def page_selection(spec: str, total: int) -> list[int]:
     return sorted(pages)
 
 
+def text_agreement(a: str, b: str) -> float:
+    """Approximate comparison signal, NOT confidence or accuracy.
+
+    Disabling SequenceMatcher autojunk matters for long Persian pages: common
+    script characters otherwise get ignored and near-identical pages score ~0.
+    Bound the comparison window to avoid excessive time on very large pages.
+    """
+    left = " ".join(a.split())[:3500]
+    right = " ".join(b.split())[:3500]
+    return round(SequenceMatcher(None, left, right, autojunk=False).ratio(), 4)
+
+
 def embedded_diagnostics(text: str, minimum: int) -> tuple[bool, list[str]]:
     """Only a coarse screening; long extracted text can STILL have broken RTL order."""
     problems = []
@@ -244,8 +256,8 @@ def process_document(pdf: Path, dest: Path, *, mode: str = "compare", engine: st
                      "selected_text": extracted, "embedded_text": embedded,
                      "ocr_text": ocr_data["text"] if ocr_data is not None else None,
                      "ocr_mean_confidence": ocr_data["confidence"] if ocr_data else None,
-                     "quality_flag": (issues + (["embedded_and_ocr_differ_substantially"] if ocr_data and len(embedded) > min_text_chars and SequenceMatcher(None, " ".join(embedded.split())[:12000], " ".join(ocr_data["text"].split())[:12000]).ratio() < 0.65 else [])),
-                     "embedded_ocr_similarity": round(SequenceMatcher(None, " ".join(embedded.split())[:12000], " ".join(ocr_data["text"].split())[:12000]).ratio(), 4) if ocr_data and embedded else None,
+                     "quality_flag": (issues + (["embedded_and_ocr_differ_substantially"] if ocr_data and len(embedded) > min_text_chars and text_agreement(embedded, ocr_data["text"]) < 0.65 else [])),
+                     "embedded_ocr_similarity": text_agreement(embedded, ocr_data["text"]) if ocr_data and embedded else None,
                      "effective_dpi": effective_dpi,
                      "columns_assumed": columns if needs_ocr else None,
                      "verification_status": "unverified_transcription"}
