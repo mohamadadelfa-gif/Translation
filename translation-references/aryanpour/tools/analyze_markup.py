@@ -108,7 +108,14 @@ def analyze(root: Path, sample_limit: int = 3, candidates_path: Path | None = No
     signatures = Counter()
     issue_types = Counter()
     parenthetical_values = Counter()
-    stats = Counter()
+    stats = Counter({
+        "records": 0,
+        "records_without_markup_tags": 0,
+        "records_with_markup_issues": 0,
+        "leading_parenthetical_candidates": 0,
+        "records_with_parentheticals_anywhere": 0,
+        "source_character_flagged_records": 0,
+    })
     signature_examples = defaultdict(list)
     issue_examples = defaultdict(list)
     leading_examples = []
