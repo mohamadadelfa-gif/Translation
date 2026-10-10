@@ -1,0 +1,136 @@
+{
+  "schema": "gould-kolb.raw-ocr-local-run-summary.v1",
+  "date": "2026-10-10",
+  "source_pdf_sha256_verified": true,
+  "source_pdf_sha256": "73b4e10a6d3d259aebbc2ebf30031e5a85f5abbede2552af94c9a7743f2c42de",
+  "pdf_physical_pages": 980,
+  "engine": "tesseract",
+  "traineddata": "fas+eng",
+  "page_segmentation_modes": [
+    4,
+    6
+  ],
+  "source_regions": 7,
+  "distinct_pdf_pages": 6,
+  "actual_runs": 14,
+  "run_diagnostics": [
+    {
+      "region_id": "p022_referral_and_A",
+      "source_pdf_page": 22,
+      "psm": 4,
+      "raw_codepoints": 256,
+      "tsv_word_boxes": 49,
+      "tesseract_confidence_not_accuracy": 66.96
+    },
+    {
+      "region_id": "p022_referral_and_A",
+      "source_pdf_page": 22,
+      "psm": 6,
+      "raw_codepoints": 257,
+      "tsv_word_boxes": 48,
+      "tesseract_confidence_not_accuracy": 66.95
+    },
+    {
+      "region_id": "p023_referrals_and_A",
+      "source_pdf_page": 23,
+      "psm": 4,
+      "raw_codepoints": 674,
+      "tsv_word_boxes": 136,
+      "tesseract_confidence_not_accuracy": 83.36
+    },
+    {
+      "region_id": "p023_referrals_and_A",
+      "source_pdf_page": 23,
+      "psm": 6,
+      "raw_codepoints": 673,
+      "tsv_word_boxes": 136,
+      "tesseract_confidence_not_accuracy": 82.76
+    },
+    {
+      "region_id": "p032_referrals",
+      "source_pdf_page": 32,
+      "psm": 4,
+      "raw_codepoints": 107,
+      "tsv_word_boxes": 14,
+      "tesseract_confidence_not_accuracy": 89.55
+    },
+    {
+      "region_id": "p032_referrals",
+      "source_pdf_page": 32,
+      "psm": 6,
+      "raw_codepoints": 170,
+      "tsv_word_boxes": 28,
+      "tesseract_confidence_not_accuracy": 67.96
+    },
+    {
+      "region_id": "p036_right_referrals",
+      "source_pdf_page": 36,
+      "psm": 4,
+      "raw_codepoints": 116,
+      "tsv_word_boxes": 17,
+      "tesseract_confidence_not_accuracy": 80.02
+    },
+    {
+      "region_id": "p036_right_referrals",
+      "source_pdf_page": 36,
+      "psm": 6,
+      "raw_codepoints": 108,
+      "tsv_word_boxes": 16,
+      "tesseract_confidence_not_accuracy": 72.06
+    },
+    {
+      "region_id": "p036_left_referrals",
+      "source_pdf_page": 36,
+      "psm": 4,
+      "raw_codepoints": 173,
+      "tsv_word_boxes": 29,
+      "tesseract_confidence_not_accuracy": 58.47
+    },
+    {
+      "region_id": "p036_left_referrals",
+      "source_pdf_page": 36,
+      "psm": 6,
+      "raw_codepoints": 157,
+      "tsv_word_boxes": 27,
+      "tesseract_confidence_not_accuracy": 58.96
+    },
+    {
+      "region_id": "p054_spirit_mediumship",
+      "source_pdf_page": 54,
+      "psm": 4,
+      "raw_codepoints": 406,
+      "tsv_word_boxes": 76,
+      "tesseract_confidence_not_accuracy": 81.68
+    },
+    {
+      "region_id": "p054_spirit_mediumship",
+      "source_pdf_page": 54,
+      "psm": 6,
+      "raw_codepoints": 405,
+      "tsv_word_boxes": 74,
+      "tesseract_confidence_not_accuracy": 81.64
+    },
+    {
+      "region_id": "p096_natural_increase",
+      "source_pdf_page": 96,
+      "psm": 4,
+      "raw_codepoints": 727,
+      "tsv_word_boxes": 141,
+      "tesseract_confidence_not_accuracy": 81.87
+    },
+    {
+      "region_id": "p096_natural_increase",
+      "source_pdf_page": 96,
+      "psm": 6,
+      "raw_codepoints": 728,
+      "tsv_word_boxes": 147,
+      "tesseract_confidence_not_accuracy": 80.35
+    }
+  ],
+  "independent_review_completed": false,
+  "approved_gold_records": 0,
+  "cer": null,
+  "wer": null,
+  "raw_output_repository_status": "Not committed; source crops, raw OCR output, and visual HTML comparison supplied as conversation-local ZIP, avoiding upload of unverified copyrighted transcription to public GitHub.",
+  "statistical_interpretation": "Tesseract TSV word confidence is not an accuracy estimate. Crop regions can include portions of adjacent dictionary entries. No accuracy comparison is authorized."
+}
