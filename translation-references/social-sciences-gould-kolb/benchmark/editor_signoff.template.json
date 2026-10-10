@@ -1,0 +1,11 @@
+{
+  "schema": "gould-kolb.ocr-editor-signoff.v1",
+  "review_responses_sha256": null,
+  "reviewed_record_count": 13,
+  "reviewed_all_independent_attestations": false,
+  "confirmed_source_images_reviewed_by_separate_reviewer": false,
+  "approved_for_ocr_benchmark": false,
+  "editor_id": null,
+  "signed_at": null,
+  "documentation": "TEMPLATE ONLY: do not assert approval without inspecting genuine independently reviewed responses and source images. Hash the exact JSONL response bytes."
+}
