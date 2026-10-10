@@ -8,3 +8,7 @@
 - `audit_repository.py`: run with `python -B tools/audit_repository.py`. Read-only structural validator for workflow authority, internal links, source/working-layer separation, Practice Chunk boundaries, draft/approval layout, reference subsystem wiring, corpus integrity, provenance state, and tool configuration. It runs automatically through `.github/workflows/structural-audit.yml` on pushes to `master` and pull requests.
 
 The preparation tools resolve output paths from the project root regardless of the shell's current directory. `organize.ps1` is repository-reproducible from the tracked structured snapshot; the Ariyanpour LD2 remains an external binary dependency whose checksum is enforced. Neither tool should alter files in `sources/`.
+
+## Universal OCR research (documentation only)
+
+- [`universal-ocr/README.md`](universal-ocr/README.md) — suggested sources, verified availability, proposed source-faithful workflow and review/evaluation policy for OCR of Persian books and English–Persian dictionaries. It is **not** an additional installed OCR engine. The existing executable Persian OCR and QA remain under `translation-references/grammar/persian/saeed-yousef/`.
