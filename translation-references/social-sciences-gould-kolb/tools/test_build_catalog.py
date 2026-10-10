@@ -114,6 +114,23 @@ class CatalogTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "unverified introductory"):
             build(self.root, self.root / "generated")
 
+    def test_also_marker_requires_distinct_related_entry(self):
+        path = self.root / "pilot/entries.jsonl"
+        rows = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines()]
+        changed = rows[0]
+        changed["entry_kind"] = "also"
+        changed["observed_section_labels"] = []
+        path.write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in rows) + "\n",
+                        encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "also/نیز"):
+            validate_pilot(self.root, self.manifest)
+        changed["related_marker_literal"] = "نیز"
+        changed["related_target_literal"] = "آیین شمنی"
+        changed["related_resolution_status"] = "unverified"
+        path.write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in rows) + "\n",
+                        encoding="utf-8")
+        validate_pilot(self.root, self.manifest)
+
     def test_source_categories_are_kept_separate(self):
         main, glossary = validate_pilot(self.root, self.manifest)
         self.assertEqual(len(main), 5)
