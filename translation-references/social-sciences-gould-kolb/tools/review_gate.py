@@ -194,12 +194,22 @@ def validate(root, response_path, *, permit_partial=True):
                 raise ValueError(f"{ident}: reviewer must supply every literal source field")
             for k, value in source_text.items():
                 if k == "sections":
-                    if (not isinstance(value, list) or not value or
+                    baseline = q["first_pass_transcription"]["sections"]
+                    if (not isinstance(value, list) or
+                            [s.get("label") for s in value if isinstance(s, dict)]
+                            != [s.get("label") for s in baseline] or
+                            len(value) != len(baseline) or
                             any(not isinstance(s, dict) or
+                                set(s) != {"label", "text_first_pass"} or
                                 not isinstance(s.get("text_first_pass"), str) or
-                                not s["text_first_pass"] for s in value)):
-                        raise ValueError(f"{ident}: source section text missing")
-                elif value is not None and (not isinstance(value, str) or not value.strip()):
+                                not s["text_first_pass"].strip() for s in value)):
+                        raise ValueError(f"{ident}: source sections do not match printed structure")
+                elif value is None:
+                    if q["candidate_type"] == "complete_article_candidate":
+                        raise ValueError(f"{ident}: unresolved contributor or source field bars gold approval")
+                    if k != "headword_en_readable" or q["first_pass_transcription"][k] is not None:
+                        raise ValueError(f"{ident}: null source text is unsupported in {k}")
+                elif not isinstance(value, str) or not value.strip():
                     raise ValueError(f"{ident}: invalid verified text in {k}")
             if r.get("unresolved_details"):
                 raise ValueError(f"{ident}: unresolved ambiguities bar approval")
