@@ -165,6 +165,15 @@ def validate_pilot(root, manifest):
                 raise ValueError(f"{ident}: unverified referral invariant")
         elif entry.get("referral_target_literal") is not None:
             raise ValueError(f"{ident}: fabricated referral")
+        # "also"/نیز is a different source-defined relation from "see"/←.
+        if entry["entry_kind"] == "also":
+            if (entry.get("related_marker_literal") != "نیز"
+                    or not entry.get("related_target_literal")
+                    or entry.get("related_resolution_status") != "unverified"):
+                raise ValueError(f"{ident}: also/نیز requires an unverified related target")
+        elif (entry.get("related_marker_literal") is not None
+                or entry.get("related_target_literal") is not None):
+            raise ValueError(f"{ident}: unrelated entry cannot invent نیز reference")
         pages = entry.get("evidence_pdf_pages")
         if (not isinstance(pages, list) or a not in pages
                 or any(type(p) is not int or
