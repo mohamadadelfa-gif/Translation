@@ -14,6 +14,8 @@ from __future__ import annotations
 
 import argparse
 from collections import Counter, defaultdict
+from datetime import datetime
+import hashlib
 import json
 from pathlib import Path
 import unicodedata
@@ -119,13 +121,50 @@ def add_text(reference, candidate, cls, metrics):
         category["unreturned_fields"] += 1
 
 
-def evaluate(root, responses_path, predictions_path):
+def check_editor_signoff(path, responses_path, gold):
+    """Require explicit editorial release of externally attested review records.
+
+    Cryptographically binds sign-off to the reviewed JSONL bytes. This is
+    an attestation; software cannot independently authenticate a signature.
+    """
+    if path is None:
+        raise ValueError("Editor signoff required before OCR scoring")
+    claim = json.loads(Path(path).read_text(encoding="utf-8"))
+    if claim.get("schema") != "gould-kolb.ocr-editor-signoff.v1":
+        raise ValueError("Invalid editor signoff schema")
+    expected = hashlib.sha256(Path(responses_path).read_bytes()).hexdigest()
+    if claim.get("review_responses_sha256") != expected:
+        raise ValueError("Editor signoff not bound to current review responses")
+    if claim.get("reviewed_record_count") != len(gold):
+        raise ValueError("Editor signoff has incorrect record count")
+    for key in ("reviewed_all_independent_attestations",
+                "confirmed_source_images_reviewed_by_separate_reviewer",
+                "approved_for_ocr_benchmark"):
+        if claim.get(key) is not True:
+            raise ValueError(f"Editor signoff missing: {key}")
+    editor = claim.get("editor_id")
+    reviewers = {g["reviewer_id"].casefold() for g in gold}
+    if (not isinstance(editor, str) or not editor.strip()
+            or editor.casefold() in reviewers | {"chatgpt", "assistant", "automated"}):
+        raise ValueError("Separate named project editor required")
+    try:
+        dt = datetime.fromisoformat(claim.get("signed_at"))
+    except (TypeError, ValueError):
+        raise ValueError("Timestamp with timezone required for signoff")
+    if dt.tzinfo is None:
+        raise ValueError("Timezone-aware editor signoff required")
+    return {"editor_id": editor, "signoff_date": claim["signed_at"],
+            "review_responses_sha256": expected}
+
+
+def evaluate(root, responses_path, predictions_path, editor_signoff_path=None):
     queue, _ = prepare(root)
     # Reject EVERY attempt to evaluate against a partial or unapproved corpus.
     review_counts, gold = validate(root, responses_path, permit_partial=False)
     if len(gold) != len(queue) or review_counts["approved"] != len(queue):
         raise ValueError("Independent gold review incomplete")
     gold_by_id = {g["record_id"]: g for g in gold}
+    signoff = check_editor_signoff(editor_signoff_path, responses_path, gold)
     preds, engine = load_predictions(predictions_path, queue)
     metrics = defaultdict(Counter)
     records = []
@@ -217,6 +256,7 @@ def evaluate(root, responses_path, predictions_path):
         "ocr_engine_id": engine[0],
         "ocr_engine_version": engine[1],
         "gold_records": len(gold),
+        "editor_signoff": signoff,
         "predicted_records": len(preds),
         "strict_character_error_rate":
             sum(m["character_edits"] for m in metrics.values()) /
@@ -243,10 +283,12 @@ def main():
     p.add_argument("--root", type=Path, default=ROOT)
     p.add_argument("--review-responses", type=Path, required=True)
     p.add_argument("--predictions", type=Path, required=True)
+    p.add_argument("--editor-signoff", type=Path, required=True)
     p.add_argument("--report", type=Path, required=True)
     p.add_argument("--per-record", type=Path, required=True)
     args = p.parse_args()
-    report, records = evaluate(args.root, args.review_responses, args.predictions)
+    report, records = evaluate(args.root, args.review_responses, args.predictions,
+                               args.editor_signoff)
     args.report.parent.mkdir(parents=True, exist_ok=True)
     args.per_record.parent.mkdir(parents=True, exist_ok=True)
     args.report.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n",
