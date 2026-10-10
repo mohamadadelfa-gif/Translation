@@ -1,5 +1,7 @@
 # Gould/Kolb source-preserving digital dictionary schema
 
+**Mandatory source guide:** [EDITORIAL_RULES.md](EDITORIAL_RULES.md) and [editorial_rules.json](editorial_rules.json) govern this schema. The Persian editor specifies A–E exposition sections, `see → ←`, `also → نیز`, contributor credits, and house editing conventions (physical PDF pp. 12–16). The build must validate the guide before publishing lookup records.
+
 ## Authority order
 
 1. Exact PDF bytes and SHA256 registered in source_manifest.json
@@ -15,7 +17,7 @@ Use headword_fa_exact and headword_en_exact for literal source-heading forms. Sl
 
 Article sections marked A, B, C, D and E are editorial exposition and **not automatically dictionary senses**. observed_section_labels means only that the printed labels were seen.
 
-A referral requires marker ← and literal target text. Keep target_resolution_status unverified until the referred-to main entry has been independently identified. Article_text_exact and contributors_exact remain null in Phase 1; semantic_review_status is not_started. Never fill these fields from model inference or unreviewed OCR.
+A referral requires marker ← and literal target text. An `also` entry requires separate `related_marker_literal: نیز` and `related_target_literal` fields, with an unverified relation status; never encode an `also` as a `see` referral. Keep target_resolution_status unverified until the referred-to main entry has been independently identified. Article_text_exact and contributors_exact remain null in Phase 1; semantic_review_status is not_started. Never fill these fields from model inference or unreviewed OCR.
 
 ## Back glossary row
 
