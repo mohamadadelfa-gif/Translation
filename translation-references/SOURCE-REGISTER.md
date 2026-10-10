@@ -378,6 +378,14 @@ When one of these sources is used:
 
 No Markdown conversion of the full German source collection is required by default. Create a derived searchable extraction only when repeated use of a particular source justifies it.
 
+### Wiechert speech — derived searchable text (added 2026-10-10)
+
+- Searchable German transcription: [*Rede an die deutsche Jugend 1945*](german-historical-sources/wiechert-1945/wiechert-rede-an-die-deutsche-jugend-1945.md).
+- Source profile and extraction QA: [Wiechert source profile](german-historical-sources/wiechert-1945/SOURCE-PROFILE.md).
+- Basis: user-supplied 14-page 2023 PDF transcription; original German speech delivered on 11 November 1945. The supplied PDF SHA-256 and provenance caveats are recorded in the profile. The uploaded binary PDF is not currently committed in this repository.
+- **Authority boundary:** this later transcription is a German historical comparison source; Brockmann's English remains the target text for Persian translation. The PDF has not been collated against the original 1945 printed edition, and it does not contain Kuby's 1947 response.
+
+
 Examples include:
 
 - `Stunde Null`
