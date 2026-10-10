@@ -96,7 +96,7 @@ class EvaluationTests(unittest.TestCase):
 
     def test_synthetic_approved_fixture_scores_zero(self):
         self.approve_fixture_only()
-        result, records = evaluate(self.root, self.review, self.prediction)
+        result, records = evaluate(self.root, self.review, self.prediction, self.signoff)
         self.assertEqual(result["gold_records"], 13)
         self.assertEqual(result["predicted_records"], 13)
         self.assertEqual(len(records), 13)
@@ -110,7 +110,7 @@ class EvaluationTests(unittest.TestCase):
         first = self.predictions[0]["fields"]
         first["headword_fa_readable"] = first["headword_fa_readable"] + "ا"
         save_jsonl(self.prediction, self.predictions)
-        result, _ = evaluate(self.root, self.review, self.prediction)
+        result, _ = evaluate(self.root, self.review, self.prediction, self.signoff)
         self.assertGreater(result["strict_character_error_rate"], 0)
         self.assertGreater(result["per_field_class"]["headword"]["character_edits"], 0)
 
@@ -118,7 +118,7 @@ class EvaluationTests(unittest.TestCase):
         self.approve_fixture_only()
         self.predictions.pop(0)
         save_jsonl(self.prediction, self.predictions)
-        report, records = evaluate(self.root, self.review, self.prediction)
+        report, records = evaluate(self.root, self.review, self.prediction, self.signoff)
         self.assertEqual(report["structural_errors"]["missing_entry_predictions"], 1)
         self.assertGreater(report["strict_character_error_rate"], 0)
         self.assertFalse(records[0]["prediction_supplied"])
@@ -129,7 +129,7 @@ class EvaluationTests(unittest.TestCase):
                     if x["record_id"] == "gk-article-p096-natural-increase")
         full["fields"]["sections"][0]["label"] = "C"
         save_jsonl(self.prediction, self.predictions)
-        report, _ = evaluate(self.root, self.review, self.prediction)
+        report, _ = evaluate(self.root, self.review, self.prediction, self.signoff)
         self.assertEqual(report["structural_errors"]["wrong_section_sequences"], 1)
 
     def test_nfc_is_only_diagnostic(self):
@@ -137,7 +137,7 @@ class EvaluationTests(unittest.TestCase):
         first = self.predictions[0]["fields"]
         first["headword_fa_readable"] = first["headword_fa_readable"] + "\u0627\u0654"
         save_jsonl(self.prediction, self.predictions)
-        report, _ = evaluate(self.root, self.review, self.prediction)
+        report, _ = evaluate(self.root, self.review, self.prediction, self.signoff)
         self.assertGreater(report["strict_character_error_rate"], 0)
         self.assertIn("NFC_CER_diagnostic_only",
                       report["per_field_class"]["headword"])
@@ -148,7 +148,7 @@ class EvaluationTests(unittest.TestCase):
                     if x["record_id"] == "gk-gt-p032-psychopathology")
         item["fields"]["headword_en_readable"] = "invented"
         save_jsonl(self.prediction, self.predictions)
-        result, _ = evaluate(self.root, self.review, self.prediction)
+        result, _ = evaluate(self.root, self.review, self.prediction, self.signoff)
         self.assertEqual(result["structural_errors"]["hallucinated_null_fields"], 1)
 
     def test_wrong_pdf_hash_is_rejected(self):
@@ -156,28 +156,28 @@ class EvaluationTests(unittest.TestCase):
         self.predictions[0]["source_pdf_sha256"] = "0" * 64
         save_jsonl(self.prediction, self.predictions)
         with self.assertRaisesRegex(ValueError, "PDF provenance"):
-            evaluate(self.root, self.review, self.prediction)
+            evaluate(self.root, self.review, self.prediction, self.signoff)
 
     def test_mixed_engine_is_rejected(self):
         self.approve_fixture_only()
         self.predictions[3]["engine_id"] = "another-engine"
         save_jsonl(self.prediction, self.predictions)
         with self.assertRaisesRegex(ValueError, "Mixed OCR engines"):
-            evaluate(self.root, self.review, self.prediction)
+            evaluate(self.root, self.review, self.prediction, self.signoff)
 
     def test_unexpected_field_is_rejected(self):
         self.approve_fixture_only()
         self.predictions[0]["fields"]["invented_annotation"] = "wrong"
         save_jsonl(self.prediction, self.predictions)
         with self.assertRaisesRegex(ValueError, "Unexpected candidate field"):
-            evaluate(self.root, self.review, self.prediction)
+            evaluate(self.root, self.review, self.prediction, self.signoff)
 
     def test_same_assistant_cannot_mark_corpus_approved(self):
         self.approve_fixture_only()
         self.forms[0]["reviewer_id"] = "chatgpt"
         save_jsonl(self.review, self.forms)
         with self.assertRaisesRegex(ValueError, "separate reviewer"):
-            evaluate(self.root, self.review, self.prediction)
+            evaluate(self.root, self.review, self.prediction, self.signoff)
 
     def test_unsolved_credit_blocks_gold_and_evaluation(self):
         self.approve_fixture_only()
@@ -186,7 +186,7 @@ class EvaluationTests(unittest.TestCase):
         item["approved_transcription"]["contributor_fa_first_pass"] = None
         save_jsonl(self.review, self.forms)
         with self.assertRaisesRegex(ValueError, "unresolved contributor"):
-            evaluate(self.root, self.review, self.prediction)
+            evaluate(self.root, self.review, self.prediction, self.signoff)
 
 
     def test_missing_editor_signoff_prevents_scoring(self):
