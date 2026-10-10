@@ -4,6 +4,10 @@
 
 Source: Persian فرهنگ علوم اجتماعی, edited by محمدجواد زاهدی مازندرانی; English A Dictionary of the Social Sciences, editors Julius Gould and William L. Kolb. The user-supplied 980-page PDF is scanned, with no selectable text on any page in the full local inventory. The original PDF is not uploaded to GitHub; its exact size and SHA-256 are in [source_manifest.json](source_manifest.json).
 
+## Editorial rules come first
+
+Read [**EDITORIAL_RULES.md**](EDITORIAL_RULES.md) before extracting any entry. Its [machine-checkable register](editorial_rules.json) anchors 12 source-authored rules to the Persian introduction (physical PDF pages 12–16). The catalog builder refuses to run if this register is missing, has unsupported provenance claims, or omits required structural conventions. In particular, the editorial `see/←` referral and `also/نیز` association are **different relationships**; A–E mark explanatory sections, **not automatically lexical senses**.
+
 ## Source page structure
 
 | Physical PDF pages | Component |
