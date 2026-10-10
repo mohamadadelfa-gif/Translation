@@ -6,6 +6,7 @@ represent human reviews of the original dictionary.
 from __future__ import annotations
 
 import json
+import hashlib
 from pathlib import Path
 import shutil
 import tempfile
@@ -32,6 +33,7 @@ class EvaluationTests(unittest.TestCase):
         self.queue, self.forms = prepare(self.root)
         self.review = self.root / "fixture-only-not-real-reviews.jsonl"
         self.prediction = self.root / "synthetic-predictions.jsonl"
+        self.signoff = self.root / "synthetic-editor-signoff.json"
         save_jsonl(self.review, self.forms)
         self.predictions = []
         for q in self.queue:
@@ -71,6 +73,16 @@ class EvaluationTests(unittest.TestCase):
             pred["fields"] = json.loads(json.dumps(fields, ensure_ascii=False))
         save_jsonl(self.review, self.forms)
         save_jsonl(self.prediction, self.predictions)
+        self.signoff.write_text(json.dumps({
+            "schema": "gould-kolb.ocr-editor-signoff.v1",
+            "review_responses_sha256": hashlib.sha256(self.review.read_bytes()).hexdigest(),
+            "reviewed_record_count": 13,
+            "reviewed_all_independent_attestations": True,
+            "confirmed_source_images_reviewed_by_separate_reviewer": True,
+            "approved_for_ocr_benchmark": True,
+            "editor_id": "FICTIONAL_PROJECT_EDITOR_IN_TEST_FIXTURE",
+            "signed_at": "2026-10-10T15:30:00+00:00"
+        }), encoding="utf-8")
 
     def test_distance_exact_insert_remove(self):
         self.assertEqual(distance("فرهنگ", "فرهنگ"), 0)
@@ -80,7 +92,7 @@ class EvaluationTests(unittest.TestCase):
 
     def test_unreviewed_provisional_corpus_cannot_be_scored(self):
         with self.assertRaisesRegex(ValueError, "All 13"):
-            evaluate(self.root, self.review, self.prediction)
+            evaluate(self.root, self.review, self.prediction, self.signoff)
 
     def test_synthetic_approved_fixture_scores_zero(self):
         self.approve_fixture_only()
@@ -175,6 +187,35 @@ class EvaluationTests(unittest.TestCase):
         save_jsonl(self.review, self.forms)
         with self.assertRaisesRegex(ValueError, "unresolved contributor"):
             evaluate(self.root, self.review, self.prediction)
+
+
+    def test_missing_editor_signoff_prevents_scoring(self):
+        self.approve_fixture_only()
+        with self.assertRaisesRegex(ValueError, "Editor signoff required"):
+            evaluate(self.root, self.review, self.prediction)
+
+    def test_stale_editor_signoff_prevents_scoring(self):
+        self.approve_fixture_only()
+        data = json.loads(self.signoff.read_text(encoding="utf-8"))
+        data["review_responses_sha256"] = "0" * 64
+        self.signoff.write_text(json.dumps(data), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "not bound"):
+            evaluate(self.root, self.review, self.prediction, self.signoff)
+
+    def test_editor_is_distinct_from_reviewer(self):
+        self.approve_fixture_only()
+        data = json.loads(self.signoff.read_text(encoding="utf-8"))
+        data["editor_id"] = "FICTIONAL_TEST_FIXTURE_DO_NOT_USE_AS_REVIEW"
+        self.signoff.write_text(json.dumps(data), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "Separate named project editor"):
+            evaluate(self.root, self.review, self.prediction, self.signoff)
+
+    def test_unfilled_ocr_template_rejected(self):
+        self.approve_fixture_only()
+        self.predictions[0]["submission_status"] = "unfilled_template"
+        save_jsonl(self.prediction, self.predictions)
+        with self.assertRaisesRegex(ValueError, "model outputs"):
+            evaluate(self.root, self.review, self.prediction, self.signoff)
 
 
 if __name__ == "__main__":
