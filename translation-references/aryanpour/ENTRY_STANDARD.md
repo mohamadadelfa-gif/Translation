@@ -1,6 +1,6 @@
-# Aryanpour Entry Standard — Phase 1 (draft)
+# Aryanpour Entry Standard — Phase 1 integrity / Phase 2 interpretation
 
-**Status:** Implementation draft; structural assumptions pending full-corpus audit. **Scope:** the Aryanpour English–Persian dictionary export in `translation-references/aryanpour/` of the Translation repository. This is **not** an OCR workflow and does not certify the attribution or print edition.
+**Status:** Phase 1 full-corpus structural integrity audit passed; Phase 2 LD2 markup inventory completed. Lexical sense interpretation and printed-edition attribution remain unverified. **Scope:** the Aryanpour English–Persian dictionary export in `translation-references/aryanpour/` of the Translation repository. This is **not** an OCR workflow and does not certify the attribution or print edition.
 
 ## 1. Authority hierarchy
 
@@ -26,7 +26,7 @@ Each source JSONL record has these observed keys:
 }
 ```
 
-**Important:** The sample `original_definition_markup` string above is a descriptive placeholder, not a transcribed value. Source markup could not be sampled from the full canonical export through the connected file interface; verified examples of markup were available in `source-character-issues.json`.
+**Important:** The `original_definition_markup` string above is a descriptive placeholder, not a transcribed value. Phase 2 subsequently examined all 50,259 actual canonical markup fields in GitHub Actions. See [MARKUP_FINDINGS.md](MARKUP_FINDINGS.md).
 
 The existing export routine computes `persian` from `original_definition_markup` by converting `<n/>` tags to newlines, then removing other angle-bracket tags. `persian` is thus a readable projection, **not** proof that the markup has been semantically interpreted. Exact spacing, punctuation, Persian orthography, and source-character damage must be retained.
 
@@ -96,7 +96,7 @@ Put `audit_aryanpour.py` in `translation-references/aryanpour/tools/` (or run it
 python translation-references/aryanpour/tools/audit_aryanpour.py --root translation-references/aryanpour --check-shards --output aryanpour-audit.json
 ```
 
-The auditor tests repository integrity, **not** lexicographic quality. A full-repository GitHub Actions audit must pass before promoting this standard from draft.
+The auditor tests repository integrity, **not** lexicographic quality. The full-repository GitHub Actions audit passed (50,259 canonical records, 45 derived shards, zero integrity errors). This confirms extraction/retrieval consistency, **not** lexicographic meaning.
 
 ## 6. Pilot evidence sampled through GitHub
 
@@ -118,3 +118,7 @@ The auditor tests repository integrity, **not** lexicographic quality. A full-re
 ## 8. Automated verification
 
 `.github/workflows/aryanpour-audit.yml` runs the regression tests and a read-only whole-corpus audit on relevant changes or manual dispatch. Its audit JSON artifact is an integrity report, **not** approval of lexicographic content or translation choices.
+
+## 9. Phase 2 empirically established limits
+
+The corpus-wide [LD2 markup inventory](MARKUP_FINDINGS.md) confirmed that all 50,259 records use one uniform tag signature; it supplies **no distinct per-sense markup**. Parentheses and punctuation remain textual observations only. The Phase 2 review-only derived layer keeps `sense_boundaries`, `grammatical_labels`, `examples`, and `cross_references` as `null`, pending evidence-backed review. No source definitions or source IDs were changed.
