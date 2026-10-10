@@ -8,7 +8,8 @@ import unittest
 from pathlib import Path
 
 from build_catalog import (ROOT, build, inventory_pdf, load_manifest,
-                           region_at, inferred_printed_page, validate_pilot)
+                           region_at, inferred_printed_page, validate_pilot,
+                           load_editorial_rules)
 
 
 class CatalogTests(unittest.TestCase):
@@ -17,7 +18,7 @@ class CatalogTests(unittest.TestCase):
         self.addCleanup(self.temporary.cleanup)
         self.root = Path(self.temporary.name)
         (self.root / "pilot").mkdir()
-        for filename in ("source_manifest.json", "pilot/entries.jsonl",
+        for filename in ("source_manifest.json", "editorial_rules.json", "pilot/entries.jsonl",
                          "pilot/glossary_rows.jsonl"):
             shutil.copy2(ROOT / filename, self.root / filename)
         self.manifest = load_manifest(self.root / "source_manifest.json")
@@ -47,6 +48,7 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(result["main_dictionary_pilot_records"], 5)
         self.assertEqual(result["glossary_pilot_rows"], 6)
         self.assertEqual(result["full_definitions_transcribed"], 0)
+        self.assertEqual(result["editorial_rules_validated"], 12)
         self.assertFalse((self.root / "generated/physical_pages.jsonl").exists())
         self.assertEqual(len((self.root / "generated/pilot_lookup.jsonl").read_text(
             encoding="utf-8").splitlines()), 11)
@@ -81,6 +83,36 @@ class CatalogTests(unittest.TestCase):
         fake.write_bytes(b"not the user-supplied PDF")
         with self.assertRaisesRegex(ValueError, "frozen source"):
             inventory_pdf(fake, self.manifest)
+
+    def test_editorial_rule_set_is_required_for_build(self):
+        (self.root / "editorial_rules.json").unlink()
+        with self.assertRaises(FileNotFoundError):
+            build(self.root, self.root / "generated")
+
+    def test_editorial_rules_map_to_checked_intro_pages(self):
+        found = load_editorial_rules(self.root, self.manifest)
+        self.assertGreaterEqual(len(found), 12)
+        by_kind = {row["category"]: row for row in found}
+        self.assertEqual(by_kind["see_referral"]["source"]["physical_pdf_pages"], [14])
+        self.assertEqual(by_kind["also_related_entry"]["source"]["physical_pdf_pages"], [14])
+        self.assertNotEqual(by_kind["see_referral"]["rule_id"],
+                            by_kind["also_related_entry"]["rule_id"])
+
+    def test_unsupported_semantic_authority_is_rejected(self):
+        path = self.root / "editorial_rules.json"
+        data = json.loads(path.read_text(encoding="utf-8"))
+        data["rules"][0]["independently_checked_against_original_english"] = True
+        path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "authority is overstated"):
+            build(self.root, self.root / "generated")
+
+    def test_uninspected_rule_page_is_rejected(self):
+        path = self.root / "editorial_rules.json"
+        data = json.loads(path.read_text(encoding="utf-8"))
+        data["rules"][0]["source"]["physical_pdf_pages"] = [19]
+        path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "unverified introductory"):
+            build(self.root, self.root / "generated")
 
     def test_source_categories_are_kept_separate(self):
         main, glossary = validate_pilot(self.root, self.manifest)
