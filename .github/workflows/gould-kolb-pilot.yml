@@ -27,6 +27,10 @@ jobs:
           python-version: '3.12'
       - name: Test source evidence and schema
         run: python -m unittest discover -s translation-references/social-sciences-gould-kolb/tools -p 'test_*.py' -v
+      - name: Test first-pass benchmark safeguards
+        run: python -m unittest discover -s translation-references/social-sciences-gould-kolb/tools -p 'test_validate_benchmark.py' -v
+      - name: Validate first-pass benchmark (metadata only)
+        run: python translation-references/social-sciences-gould-kolb/tools/validate_benchmark.py --report "$RUNNER_TEMP/gould-kolb-benchmark-report.json"
       - name: Rebuild source-free pilot lookup
         run: python translation-references/social-sciences-gould-kolb/tools/build_catalog.py --output "$RUNNER_TEMP/gould-kolb-pilot"
       - name: Ensure CI does not claim source-PDF verification
@@ -48,5 +52,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: gould-kolb-structural-pilot
-          path: ${{ runner.temp }}/gould-kolb-pilot/
+          path: |
+            ${{ runner.temp }}/gould-kolb-pilot/
+            ${{ runner.temp }}/gould-kolb-benchmark-report.json
           if-no-files-found: error
