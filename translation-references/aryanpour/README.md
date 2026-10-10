@@ -39,6 +39,22 @@ Do not treat the first listed Persian equivalent as automatically correct. Conte
 - `tools/aryanpour_lookup.py`: local exact/prefix locator.
 - `BUILD_RULES.md`: reproducibility and non-normalization rules.
 
+
+## Entry standard and automated audit
+
+- [ENTRY_STANDARD.md](ENTRY_STANDARD.md) defines the frozen-source entry contract, evidence hierarchy, and limits of semantic interpretation.
+- [tools/audit_aryanpour.py](tools/audit_aryanpour.py) validates SHA-256 digests, all canonical entry IDs, dictionary projections, damaged-character records, navigation indexes, and readable Markdown shards.
+- [tools/test_audit_aryanpour.py](tools/test_audit_aryanpour.py) provides synthetic regression tests.
+- [Aryanpour dictionary integrity](../../.github/workflows/aryanpour-audit.yml) runs the tests and full-corpus read-only validation in GitHub Actions, and uploads the JSON report.
+
+To repeat the full audit from the repository root:
+
+```powershell
+python translation-references/aryanpour/tools/audit_aryanpour.py --root translation-references/aryanpour --check-shards --output aryanpour-audit.json
+```
+
+Passing checks establish extraction/retrieval integrity; they do not verify the source's printed edition, lexicographic accuracy, or approval of translation equivalents.
+
 ## Reference-account locator
 
 Use:
