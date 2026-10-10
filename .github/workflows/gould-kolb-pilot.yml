@@ -35,6 +35,8 @@ jobs:
         run: python translation-references/social-sciences-gould-kolb/tools/validate_phase3.py --report "$RUNNER_TEMP/gould-kolb-phase3-report.json"
       - name: Generate independent review queue (never auto-approve)
         run: python translation-references/social-sciences-gould-kolb/tools/review_gate.py --queue "$RUNNER_TEMP/gould-kolb-review-queue.jsonl" --response-template "$RUNNER_TEMP/gould-kolb-review-response-template.jsonl"
+      - name: Generate blank OCR model-output schema template
+        run: python translation-references/social-sciences-gould-kolb/tools/make_ocr_template.py --output "$RUNNER_TEMP/gould-kolb-OCR-prediction-template.jsonl"
       - name: Rebuild source-free pilot lookup
         run: python translation-references/social-sciences-gould-kolb/tools/build_catalog.py --output "$RUNNER_TEMP/gould-kolb-pilot"
       - name: Ensure CI does not claim source-PDF verification
@@ -62,4 +64,5 @@ jobs:
             ${{ runner.temp }}/gould-kolb-phase3-report.json
             ${{ runner.temp }}/gould-kolb-review-queue.jsonl
             ${{ runner.temp }}/gould-kolb-review-response-template.jsonl
+            ${{ runner.temp }}/gould-kolb-OCR-prediction-template.jsonl
           if-no-files-found: error
