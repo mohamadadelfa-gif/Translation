@@ -31,6 +31,7 @@ Do not treat the first listed Persian equivalent as automatically correct. Conte
 
 - `dictionary/A/` ... `dictionary/Z/`: small Markdown shards containing readable entries.
 - `index/A-headwords.csv` ... `index/Z-headwords.csv`: letter-level navigation.
+- [**index/README.md**](index/README.md): verified A–Z navigation guide and index field definitions.
 - `index/headwords-master.csv`: complete navigation index.
 - `index/headwords-master.jsonl`: compact machine navigation index.
 - `index/SHARD-MAP.csv`: shard ranges and byte sizes.
