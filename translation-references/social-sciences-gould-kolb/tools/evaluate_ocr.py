@@ -223,7 +223,7 @@ def evaluate(root, responses_path, predictions_path):
             sum(m["word_edits"] for m in metrics.values()) /
             word_denominator if word_denominator else None,
         "per_field_class": summary,
-        "structural_errors": dict(total),
+        "structural_errors": {key: count for key, count in total.items() if count},
         "limitations": [
             "Measures extracted structured fields, not raw whole-page reading order",
             "CER uses Unicode codepoints, not grapheme clusters",
