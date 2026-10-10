@@ -1,0 +1,89 @@
+{
+  "schema": "gould-kolb.ocr-crop-regions.v1",
+  "source_pdf_sha256": "73b4e10a6d3d259aebbc2ebf30031e5a85f5abbede2552af94c9a7743f2c42de",
+  "source_pdf_bytes": 20753450,
+  "source_pdf_physical_pages": 980,
+  "coordinates_unit": "PDF_points",
+  "pixel_render_scale": 3,
+  "psm_modes": [
+    4,
+    6
+  ],
+  "ocr_language_config": "fas+eng",
+  "regions": [
+    {
+      "region_id": "p022_referral_and_A",
+      "source_pdf_page": 22,
+      "crop_pdf_rect_points": [
+        246,
+        289,
+        486,
+        445
+      ]
+    },
+    {
+      "region_id": "p023_referrals_and_A",
+      "source_pdf_page": 23,
+      "crop_pdf_rect_points": [
+        5,
+        328,
+        267,
+        690
+      ]
+    },
+    {
+      "region_id": "p032_referrals",
+      "source_pdf_page": 32,
+      "crop_pdf_rect_points": [
+        12,
+        95,
+        269,
+        242
+      ]
+    },
+    {
+      "region_id": "p036_right_referrals",
+      "source_pdf_page": 36,
+      "crop_pdf_rect_points": [
+        245,
+        195,
+        493,
+        314
+      ]
+    },
+    {
+      "region_id": "p036_left_referrals",
+      "source_pdf_page": 36,
+      "crop_pdf_rect_points": [
+        4,
+        317,
+        252,
+        435
+      ]
+    },
+    {
+      "region_id": "p054_spirit_mediumship",
+      "source_pdf_page": 54,
+      "crop_pdf_rect_points": [
+        66,
+        365,
+        251,
+        558
+      ]
+    },
+    {
+      "region_id": "p096_natural_increase",
+      "source_pdf_page": 96,
+      "crop_pdf_rect_points": [
+        66,
+        125,
+        252,
+        458
+      ]
+    }
+  ],
+  "notes": [
+    "Regions contain surrounding context; they do not define complete article boundaries.",
+    "Raw model output is never treated as reviewed dictionary text."
+  ]
+}
