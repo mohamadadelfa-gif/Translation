@@ -129,6 +129,10 @@ The [OCR support module](grammar/persian/saeed-yousef/ocr-support/README.md) con
 
 Canonical visual authority is the **user-supplied 2018 PDF**, SHA-256 `d7fe1280e629caa8488db6436b51f7fee4550a37303364e0d43c8d3005e5ca2d`. The PDF and the private full-book extraction are not published in this public repository. The map gives **printed-page locators**, not verified grammatical quotations or rules; inspect the relevant PDF page before attributing substantive guidance to Yousef. For normative orthography use the Academy writing guide and compare the actual page. The one visually checked case is a **PDF text-layer reading-order problem**, not an OCR-engine error.
 
+The [PDF OCR engine](grammar/persian/saeed-yousef/ocr-engine/README.md) adds locally runnable Persian `fas+eng` Tesseract recognition, an optional **unverified** PaddleOCR (`fa`) adapter, PDF-text-layer comparison, per-page source alternatives, geometry metadata, QA integration, and a CER/WER scorer for visually checked full-page gold transcriptions. **Engine confidence and embedded/OCR similarity are not accuracy metrics.** Full-book OCR accuracy and complex RTL reconstruction remain unverified.
+
+
+
 ---
 
 ## 3. General English–Persian vocabulary
