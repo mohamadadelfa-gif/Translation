@@ -1,0 +1,63 @@
+{
+  "schema": "gould-kolb.benchmark-evidence.v1",
+  "source_manifest": "../source_manifest.json",
+  "note": "Image excerpts reproducible from the user-supplied source PDF; GitHub does not contain the copyrighted PDF or page images.",
+  "render_dpi": 216,
+  "crops": [
+    {
+      "file": "p022_referral_and_A.png",
+      "page": 22,
+      "bbox_pdf_points": [
+        246,
+        289,
+        486,
+        445
+      ],
+      "visual_basis": "referral and article heading plus complete A section"
+    },
+    {
+      "file": "p023_referrals_and_A.png",
+      "page": 23,
+      "bbox_pdf_points": [
+        5,
+        328,
+        267,
+        690
+      ],
+      "visual_basis": "two short referrals and rites de passage A section"
+    },
+    {
+      "file": "p032_referrals.png",
+      "page": 32,
+      "bbox_pdf_points": [
+        12,
+        95,
+        269,
+        242
+      ],
+      "visual_basis": "two referrals including source-broken English heading"
+    },
+    {
+      "file": "p036_right_referrals.png",
+      "page": 36,
+      "bbox_pdf_points": [
+        245,
+        195,
+        493,
+        314
+      ],
+      "visual_basis": "economic statistics and education referrals"
+    },
+    {
+      "file": "p036_left_referrals.png",
+      "page": 36,
+      "bbox_pdf_points": [
+        4,
+        317,
+        252,
+        435
+      ],
+      "visual_basis": "crowd and entrepreneur referrals"
+    }
+  ]
+}
