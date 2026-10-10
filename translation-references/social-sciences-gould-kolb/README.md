@@ -27,6 +27,8 @@ The editor's introduction (physical pages 12–14) defines main explanatory entr
 - [tools/build_catalog.py](tools/build_catalog.py) – strict source hash checker and 980-page inventory, plus pilot-only lookup generator (no OCR)
 - [tools/test_build_catalog.py](tools/test_build_catalog.py) – validation tests rejecting invented definitions or prematurely resolved references
 - [SCHEMA.md](SCHEMA.md) – source authority and field definitions
+- [**benchmark/REVIEW_HANDOFF.md**](benchmark/REVIEW_HANDOFF.md) explains how a genuinely separate reviewer checks all 13 first-pass records, submits corrections and source-image attestations, and triggers a fail-closed gold-standard gate.
+- [**tools/review_gate.py**](tools/review_gate.py) and [test_review_gate.py](tools/test_review_gate.py) prepare review forms, reject stale source digests, and refuse gold-standard promotion until every record has been approved after independent review. Generated blank templates are included in CI artifacts.
 - [**benchmark/PHASE3.md**](benchmark/PHASE3.md) — 11 image-based visual recheck decisions and two bounded complete-article **first-pass** candidates (`احضار روح` and `افزایش طبیعی`), with explicit second-review requirements.
 - [Complete-article records](benchmark/complete_articles_first_pass.jsonl), [recheck log](benchmark/visual_recheck_log_v1.jsonl), and [source crop locators](benchmark/complete_article_evidence.json); [Phase 3 validator](tools/validate_phase3.py) rejects any unsupported independent approval or source-link claim.
 - [**benchmark/README.md**](benchmark/README.md) – first-pass, source-located transcription benchmark: **9 complete referral entries and two partial A-section transcriptions**, with the image-crop manifest and strict review status.
@@ -48,7 +50,7 @@ Without the actual PDF, the builder validates the existing pilot and produces it
 
 The project now has **11 first-pass referral/A-section records**, a same-assistant image-recheck log for all 11, and **two complete explanatory-article candidates transcribed in a first visual pass**. See [Phase 3 documentation](benchmark/PHASE3.md). These are **not independently approved gold-standard texts**; two article candidates do not constitute a completed dictionary.
 
-The next gate is a **distinct second reviewer**, comparing each candidate's exact Persian characters, punctuation, ZWNJ, heading boundary and contributor credits with the original page image. Resolve issues in a separate correction/adjudication file; do not rewrite the original first-pass evidence silently.
+The [independent-review queue and gate](benchmark/REVIEW_HANDOFF.md) are now implemented. The next gate is a **distinct second reviewer**, comparing each candidate's exact Persian characters, punctuation, ZWNJ, heading boundary and contributor credits with the original page image. Resolve issues in a separate correction/adjudication file; do not rewrite the original first-pass evidence silently.
 
 Once the reviewed benchmark has been approved, expand the verified glossary sample and quantitatively evaluate OCR/vision extraction. Do not assess OCR accuracy against unverified first-pass text.
 
