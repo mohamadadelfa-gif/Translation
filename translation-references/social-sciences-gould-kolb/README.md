@@ -32,7 +32,7 @@ The editor's introduction (physical pages 12–14) defines main explanatory entr
 - [**benchmark/README.md**](benchmark/README.md) – first-pass, source-located transcription benchmark: **9 complete referral entries and two partial A-section transcriptions**, with the image-crop manifest and strict review status.
 - [**tools/validate_benchmark.py**](tools/validate_benchmark.py) and [**tests**](tools/test_validate_benchmark.py) – source-bound benchmark validation and optional locally regenerated page excerpts.
 
-The full local build creates generated/physical_pages.jsonl (980 pages), generated/pilot_lookup.jsonl (11 verified literal observations), and generated/build_report.json. All but source metadata and reviewed observations are reproducible generated outputs.
+The full local build creates generated/physical_pages.jsonl (980 pages), generated/pilot_lookup.jsonl (11 first-pass visual observations), and generated/build_report.json. All but source metadata and reviewed observations are reproducible generated outputs.
 
 ## Run locally
 
@@ -46,9 +46,10 @@ Without the actual PDF, the builder validates the existing pilot and produces it
 
 ## Next gate
 
-The first-pass benchmark is now implemented; it is **not** independently second-pass verified and contains **no fully transcribed explanatory articles**. Its 9 arrow referrals are complete as *referrals*, while its A sections are deliberately incomplete as articles. Next, independently review each excerpt against its image and transcribe two genuinely short complete explanatory articles with contributor, section and page-continuation evidence.
+The project now has **11 first-pass referral/A-section records**, a same-assistant image-recheck log for all 11, and **two complete explanatory-article candidates transcribed in a first visual pass**. See [Phase 3 documentation](benchmark/PHASE3.md). These are **not independently approved gold-standard texts**; two article candidates do not constitute a completed dictionary.
 
+The next gate is a **distinct second reviewer**, comparing each candidate's exact Persian characters, punctuation, ZWNJ, heading boundary and contributor credits with the original page image. Resolve issues in a separate correction/adjudication file; do not rewrite the original first-pass evidence silently.
 
-Transcribe and verify two short complete articles, one referral, and 10–20 glossary rows against high-resolution page images; mark continuation across columns/pages, uncertain glyphs, author credits, section labels, and reference links separately. Evaluate OCR only after manual gold-standard examples exist.
+Once the reviewed benchmark has been approved, expand the verified glossary sample and quantitatively evaluate OCR/vision extraction. Do not assess OCR accuracy against unverified first-pass text.
 
-No printed-edition authority, Persian editorial normalization, whole-book entry count, full OCR or complete definitions are claimed. This dictionary's conventions must not be transferred to Aryanpour without its own evidence.
+No printed-edition authority, Persian editorial normalization, whole-book entry count or full OCR is claimed. This dictionary's conventions must not be transferred to Aryanpour without its own evidence.
