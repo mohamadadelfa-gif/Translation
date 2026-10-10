@@ -27,6 +27,8 @@ The editor's introduction (physical pages 12–14) defines main explanatory entr
 - [tools/build_catalog.py](tools/build_catalog.py) – strict source hash checker and 980-page inventory, plus pilot-only lookup generator (no OCR)
 - [tools/test_build_catalog.py](tools/test_build_catalog.py) – validation tests rejecting invented definitions or prematurely resolved references
 - [SCHEMA.md](SCHEMA.md) – source authority and field definitions
+- [**benchmark/README.md**](benchmark/README.md) – first-pass, source-located transcription benchmark: **9 complete referral entries and two partial A-section transcriptions**, with the image-crop manifest and strict review status.
+- [**tools/validate_benchmark.py**](tools/validate_benchmark.py) and [**tests**](tools/test_validate_benchmark.py) – source-bound benchmark validation and optional locally regenerated page excerpts.
 
 The full local build creates generated/physical_pages.jsonl (980 pages), generated/pilot_lookup.jsonl (11 verified literal observations), and generated/build_report.json. All but source metadata and reviewed observations are reproducible generated outputs.
 
@@ -41,6 +43,9 @@ Install Python 3.10+ and PyMuPDF. The full source-aware invocation is:
 Without the actual PDF, the builder validates the existing pilot and produces its lookup, **but explicitly reports that the source has not been checked in that run**. GitHub Actions runs the source-free validation because the copyrighted source PDF is not stored in the repository. The full source-verified page inventory was run separately against the user-supplied PDF.
 
 ## Next gate
+
+The first-pass benchmark is now implemented; it is **not** independently second-pass verified and contains **no fully transcribed explanatory articles**. Its 9 arrow referrals are complete as *referrals*, while its A sections are deliberately incomplete as articles. Next, independently review each excerpt against its image and transcribe two genuinely short complete explanatory articles with contributor, section and page-continuation evidence.
+
 
 Transcribe and verify two short complete articles, one referral, and 10–20 glossary rows against high-resolution page images; mark continuation across columns/pages, uncertain glyphs, author credits, section labels, and reference links separately. Evaluate OCR only after manual gold-standard examples exist.
 
