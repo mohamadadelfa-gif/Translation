@@ -31,6 +31,10 @@ jobs:
         run: python -m unittest discover -s translation-references/aryanpour/tools -p 'test_analyze_markup.py' -v
       - name: Inventory original LD2 definition markup
         run: python translation-references/aryanpour/tools/analyze_markup.py --root translation-references/aryanpour --output "$RUNNER_TEMP/aryanpour-markup-inventory.json" --candidates "$RUNNER_TEMP/aryanpour-markup-candidates.jsonl"
+      - name: Test controlled annotation pilot
+        run: python -m unittest discover -s translation-references/aryanpour/tools -p 'test_annotation_pilot.py' -v
+      - name: Build controlled annotation pilot
+        run: python translation-references/aryanpour/tools/build_annotation_pilot.py --root translation-references/aryanpour --output "$RUNNER_TEMP/aryanpour-pilot-summary.json" --sample "$RUNNER_TEMP/aryanpour-pilot-sample.jsonl"
       - name: Audit complete Aryanpour dictionary
         run: python translation-references/aryanpour/tools/audit_aryanpour.py --root translation-references/aryanpour --check-shards --output "$RUNNER_TEMP/aryanpour-audit.json"
       - name: Preserve integrity report
@@ -42,4 +46,6 @@ jobs:
             ${{ runner.temp }}/aryanpour-audit.json
             ${{ runner.temp }}/aryanpour-markup-inventory.json
             ${{ runner.temp }}/aryanpour-markup-candidates.jsonl
+            ${{ runner.temp }}/aryanpour-pilot-summary.json
+            ${{ runner.temp }}/aryanpour-pilot-sample.jsonl
           if-no-files-found: warn
