@@ -54,10 +54,10 @@ def spans(text: str):
             matches.append((match.start(), match.end(), kind, match.group(0),
                             match.group(1)))
     matches.sort()
-    for index, item in enumerate(matches):
-        if index and item[0] < matches[index - 1][1]:
-            raise ValueError("Overlapping syntactic spans; manual investigation needed")
-        yield item
+    # Crossed brackets and RTL presentation can yield more than one matching
+    # span over the same characters. Retain *all* literal observations;
+    # the caller flags overlaps rather than choosing a fabricated parse.
+    yield from matches
 
 
 def verify_register(path: Path, entries: dict[int, dict]):
@@ -124,7 +124,15 @@ def scan(root: Path, register: Path, output_candidates: Path | None = None, max_
             file_handle = output_candidates.open("w", encoding="utf-8")
         for row in rows:
             text = row["persian"]
-            for start, end, kind, literal, interior in spans(text):
+            all_spans = list(spans(text))
+            overlapping = set()
+            for i, (start_i, end_i, *_) in enumerate(all_spans):
+                for j in range(i + 1, len(all_spans)):
+                    start_j, end_j = all_spans[j][:2]
+                    if start_j >= end_i:
+                        break
+                    overlapping.update((i, j))
+            for i, (start, end, kind, literal, interior) in enumerate(all_spans):
                 if literal != text[start:end]:
                     raise ValueError(f"Broken source offset for {row['id']}")
                 ref_form, target = reference_shape(interior)
@@ -140,6 +148,7 @@ def scan(root: Path, register: Path, output_candidates: Path | None = None, max_
                     "lexical_sense": None,
                     "label_scope": None,
                     "review_status": "unverified",
+                    "overlaps_another_candidate": i in overlapping,
                 }
                 if ref_form:
                     candidate["candidate_type"] = "apparent_reference_surface"
@@ -163,6 +172,8 @@ def scan(root: Path, register: Path, output_candidates: Path | None = None, max_
                 label = candidate["candidate_type"]
                 count[label] += 1
                 count["all_enclosed_candidates"] += 1
+                if i in overlapping:
+                    count["ambiguous_overlapping_spans"] += 1
                 count["bracket:" + kind] += 1
                 forms[(label, compare_form(interior))] += 1
                 if len(examples[label]) < max_examples:
@@ -196,6 +207,7 @@ def scan(root: Path, register: Path, output_candidates: Path | None = None, max_
             "No signed-off source edition or abbreviation guide",
             "An exact target headword match does not prove an editorial cross-reference",
             "Visual bracket orientation can be affected by RTL rendering",
+            "Crossed or overlapping bracket matches are retained as ambiguous candidates",
             "Registry text verifies substrings in LD2 export, not original print conventions",
             "No semantic field may be approved by this automated scan",
         ],
