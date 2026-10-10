@@ -1,0 +1,257 @@
+{
+  "schema": "gould-kolb.editorial-rules.v1",
+  "source_of_authority": "persian_editorial_introduction_physical_pdf_pages_12_to_16",
+  "transcription_status": "rules_paraphrased_not_verbatim",
+  "scope": "gould-kolb-persian-edition-only",
+  "rules": [
+    {
+      "rule_id": "gk-001",
+      "category": "article_structure",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          12,
+          13,
+          14
+        ],
+        "section_heading_fa": "دربارۀ مدخل‌ها",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "The introduction distinguishes full explanatory entries from referral and also-associated entries.",
+      "extraction_implication_en": "Do not infer that all headings contain full independent articles.",
+      "applies_to": [
+        "dictionary_entry.entry_kind"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-002",
+      "category": "section_A",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          13
+        ],
+        "section_heading_fa": "دربارۀ مدخل‌ها",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "A presents the principal precise meaning and/or general usage of a term, potentially across social-science disciplines.",
+      "extraction_implication_en": "Capture A as a source-authored exposition section, not automatically a discrete lexical sense.",
+      "applies_to": [
+        "dictionary_entry.sections"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-003",
+      "category": "section_B",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          13
+        ],
+        "section_heading_fa": "دربارۀ مدخل‌ها",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "B presents historical background or a fuller discussion of the general meaning.",
+      "extraction_implication_en": "Capture B independently from A; do not classify it automatically as an additional sense.",
+      "applies_to": [
+        "dictionary_entry.sections"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-004",
+      "category": "sections_CDE",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          13,
+          14
+        ],
+        "section_heading_fa": "دربارۀ مدخل‌ها",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "C, D, E and further sections may cover more specialized disciplinary uses, history, controversies, competing interpretations and theoretical questions.",
+      "extraction_implication_en": "Preserve literal section letters and sequence; no fixed one-letter-to-one-sense mapping.",
+      "applies_to": [
+        "dictionary_entry.sections"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-005",
+      "category": "see_referral",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          14
+        ],
+        "section_heading_fa": "دربارۀ مدخل‌ها",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "The source English see is represented in the Persian edition by a left-pointing arrow ← for referral-only entries that send the reader to a fuller main entry.",
+      "extraction_implication_en": "Keep referral_marker_literal and referral_target_literal; resolve the link only after image-backed target review.",
+      "applies_to": [
+        "dictionary_entry.entry_kind",
+        "dictionary_entry.referrals"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-006",
+      "category": "also_related_entry",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          14
+        ],
+        "section_heading_fa": "دربارۀ مدخل‌ها",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "The source English also is rendered as نیز for an alphabetically listed related entry whose full understanding may require another main article.",
+      "extraction_implication_en": "Keep also separate from see/←; do not treat also as proof of synonymy or an independent full definition.",
+      "applies_to": [
+        "dictionary_entry.entry_kind",
+        "dictionary_entry.related_refs"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-007",
+      "category": "author_credit",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          12
+        ],
+        "section_heading_fa": "دربارۀ تهیه‌کنندگان کتاب",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "The original articles were authored by subject specialists and may display their name with the Persian translator after the article.",
+      "extraction_implication_en": "Record contributor/translator credits separately, only when article boundaries and attribution are visually verified.",
+      "applies_to": [
+        "dictionary_entry.contributors"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-008",
+      "category": "terminology_review",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          15,
+          16
+        ],
+        "section_heading_fa": "شیوۀ ترجمه و ویرایش مقالات",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "The Persian edition involved discipline-specific translators, comparison against English, specialist review and deliberate selection among competing Persian equivalents.",
+      "extraction_implication_en": "Do not convert editorial decisions or printed equivalents into an automatically approved project glossary; preserve literal print first.",
+      "applies_to": [
+        "dictionary_entry.headword_fa_exact",
+        "translation_decisions"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-009",
+      "category": "editorial_interpolation",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          16
+        ],
+        "section_heading_fa": "شیوۀ ترجمه و ویرایش مقالات",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "Subsidiary explanations inside paired dashes are described as supplementary or explanatory insertions; sentence structure was adapted in translation.",
+      "extraction_implication_en": "Preserve the exact paired-dash text, punctuation, and location; annotate commentary separately only after checking the surrounding passage.",
+      "applies_to": [
+        "dictionary_entry.article_text_exact",
+        "dictionary_entry.editorial_insertions"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-010",
+      "category": "proper_names",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          16
+        ],
+        "section_heading_fa": "شیوۀ ترجمه و ویرایش مقالات",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "The editors generally aimed to transcribe proper names according to pronunciation in the original language, with exceptions.",
+      "extraction_implication_en": "Do not silently replace or normalize printed proper names; store source literal and any search normalization separately.",
+      "applies_to": [
+        "dictionary_entry.article_text_exact",
+        "search_index"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-011",
+      "category": "orthography",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          16
+        ],
+        "section_heading_fa": "شیوۀ ترجمه و ویرایش مقالات",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "The Persian edition states that it follows the orthographic convention of the Maziyar/Farhang-e Andisheh publication series.",
+      "extraction_implication_en": "Preserve original spelling, spacing and punctuation; editorial modernization requires an explicit separate overlay.",
+      "applies_to": [
+        "transcription_policy"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    },
+    {
+      "rule_id": "gk-012",
+      "category": "source_comparison",
+      "source": {
+        "file": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+        "physical_pdf_pages": [
+          15
+        ],
+        "section_heading_fa": "شیوۀ ترجمه و ویرایش مقالات",
+        "evidence_basis": "visually_inspected_persian_editorial_introduction"
+      },
+      "editorial_claim_paraphrase_en": "The Persian translators' work was compared with the English source text during the editorial process.",
+      "extraction_implication_en": "The English text is not in the uploaded Persian scan; do not claim to have verified the correspondence with the original English dictionary.",
+      "applies_to": [
+        "source_provenance"
+      ],
+      "independently_checked_against_original_english": false,
+      "authoritative_for": "gould_kolb_persian_edition_only",
+      "review_status": "source_rule_identified"
+    }
+  ]
+}
