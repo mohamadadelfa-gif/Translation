@@ -38,6 +38,7 @@ class EvaluationTests(unittest.TestCase):
             self.predictions.append({
                 "schema": "gould-kolb.ocr-structured-prediction.v1",
                 "record_id": q["record_id"],
+                "submission_status": "actual_model_output",
                 "source_pdf_sha256": q["source_pdf_sha256"],
                 "source_pdf_page": q["source_pdf_page"],
                 "source_column": q["source_column"],
