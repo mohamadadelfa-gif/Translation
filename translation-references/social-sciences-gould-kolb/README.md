@@ -27,6 +27,8 @@ The editor's introduction (physical pages 12–14) defines main explanatory entr
 - [tools/build_catalog.py](tools/build_catalog.py) – strict source hash checker and 980-page inventory, plus pilot-only lookup generator (no OCR)
 - [tools/test_build_catalog.py](tools/test_build_catalog.py) – validation tests rejecting invented definitions or prematurely resolved references
 - [SCHEMA.md](SCHEMA.md) – source authority and field definitions
+- [**benchmark/PHASE3.md**](benchmark/PHASE3.md) — 11 image-based visual recheck decisions and two bounded complete-article **first-pass** candidates (`احضار روح` and `افزایش طبیعی`), with explicit second-review requirements.
+- [Complete-article records](benchmark/complete_articles_first_pass.jsonl), [recheck log](benchmark/visual_recheck_log_v1.jsonl), and [source crop locators](benchmark/complete_article_evidence.json); [Phase 3 validator](tools/validate_phase3.py) rejects any unsupported independent approval or source-link claim.
 - [**benchmark/README.md**](benchmark/README.md) – first-pass, source-located transcription benchmark: **9 complete referral entries and two partial A-section transcriptions**, with the image-crop manifest and strict review status.
 - [**tools/validate_benchmark.py**](tools/validate_benchmark.py) and [**tests**](tools/test_validate_benchmark.py) – source-bound benchmark validation and optional locally regenerated page excerpts.
 
