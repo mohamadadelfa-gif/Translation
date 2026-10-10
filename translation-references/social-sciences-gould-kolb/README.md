@@ -27,6 +27,9 @@ The editor's introduction (physical pages 12–14) defines main explanatory entr
 - [tools/build_catalog.py](tools/build_catalog.py) – strict source hash checker and 980-page inventory, plus pilot-only lookup generator (no OCR)
 - [tools/test_build_catalog.py](tools/test_build_catalog.py) – validation tests rejecting invented definitions or prematurely resolved references
 - [SCHEMA.md](SCHEMA.md) – source authority and field definitions
+- [**benchmark/OCR_EVALUATION.md**](benchmark/OCR_EVALUATION.md) — source-approval-gated Persian OCR/vision evaluation protocol with strict CER/WER, source-bound engine predictions, and a project-editor sign-off requirement.
+- [**tools/evaluate_ocr.py**](tools/evaluate_ocr.py) and [**tests**](tools/test_evaluate_ocr.py) — score *only* independently approved and editorially released records; current tests are synthetic, not OCR results.
+- [**tools/make_ocr_template.py**](tools/make_ocr_template.py) and [**benchmark/editor_signoff.template.json**](benchmark/editor_signoff.template.json) — deliberately unfilled source-identification templates.
 - [**benchmark/REVIEW_HANDOFF.md**](benchmark/REVIEW_HANDOFF.md) explains how a genuinely separate reviewer checks all 13 first-pass records, submits corrections and source-image attestations, and triggers a fail-closed gold-standard gate.
 - [**tools/review_gate.py**](tools/review_gate.py) and [test_review_gate.py](tools/test_review_gate.py) prepare review forms, reject stale source digests, and refuse gold-standard promotion until every record has been approved after independent review. Generated blank templates are included in CI artifacts.
 - [**benchmark/PHASE3.md**](benchmark/PHASE3.md) — 11 image-based visual recheck decisions and two bounded complete-article **first-pass** candidates (`احضار روح` and `افزایش طبیعی`), with explicit second-review requirements.
