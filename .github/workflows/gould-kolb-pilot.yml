@@ -1,0 +1,52 @@
+name: Gould-Kolb scanned dictionary pilot
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'translation-references/social-sciences-gould-kolb/**'
+      - '.github/workflows/gould-kolb-pilot.yml'
+  pull_request:
+    paths:
+      - 'translation-references/social-sciences-gould-kolb/**'
+      - '.github/workflows/gould-kolb-pilot.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  structural-pilot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test source evidence and schema
+        run: python -m unittest discover -s translation-references/social-sciences-gould-kolb/tools -p 'test_*.py' -v
+      - name: Rebuild source-free pilot lookup
+        run: python translation-references/social-sciences-gould-kolb/tools/build_catalog.py --output "$RUNNER_TEMP/gould-kolb-pilot"
+      - name: Ensure CI does not claim source-PDF verification
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import os
+          f = Path(os.environ["RUNNER_TEMP"]) / "gould-kolb-pilot/build_report.json"
+          report = json.loads(f.read_text(encoding="utf-8"))
+          assert report["source_pdf_sha256_verified_in_this_run"] is False
+          assert report["physical_pages_examined_in_this_run"] == 0
+          assert report["main_dictionary_pilot_records"] == 5
+          assert report["glossary_pilot_rows"] == 6
+          assert report["full_definitions_transcribed"] == 0
+          print("Pilot metadata consistent; source PDF is not available in CI.")
+          PY
+      - name: Upload pilot-only output
+        uses: actions/upload-artifact@v4
+        with:
+          name: gould-kolb-structural-pilot
+          path: ${{ runner.temp }}/gould-kolb-pilot/
+          if-no-files-found: error
