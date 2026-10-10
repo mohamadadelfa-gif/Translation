@@ -35,6 +35,10 @@ jobs:
         run: python -m unittest discover -s translation-references/aryanpour/tools -p 'test_annotation_pilot.py' -v
       - name: Build controlled annotation pilot
         run: python translation-references/aryanpour/tools/build_annotation_pilot.py --root translation-references/aryanpour --output "$RUNNER_TEMP/aryanpour-pilot-summary.json" --sample "$RUNNER_TEMP/aryanpour-pilot-sample.jsonl"
+      - name: Test source-backed convention audit
+        run: python -m unittest discover -s translation-references/aryanpour/tools -p 'test_audit_conventions.py' -v
+      - name: Audit abbreviation and apparent-reference conventions
+        run: python translation-references/aryanpour/tools/audit_conventions.py --root translation-references/aryanpour --report "$RUNNER_TEMP/aryanpour-convention-audit.json" --candidates "$RUNNER_TEMP/aryanpour-convention-candidates.jsonl"
       - name: Audit complete Aryanpour dictionary
         run: python translation-references/aryanpour/tools/audit_aryanpour.py --root translation-references/aryanpour --check-shards --output "$RUNNER_TEMP/aryanpour-audit.json"
       - name: Preserve integrity report
@@ -48,4 +52,6 @@ jobs:
             ${{ runner.temp }}/aryanpour-markup-candidates.jsonl
             ${{ runner.temp }}/aryanpour-pilot-summary.json
             ${{ runner.temp }}/aryanpour-pilot-sample.jsonl
+            ${{ runner.temp }}/aryanpour-convention-audit.json
+            ${{ runner.temp }}/aryanpour-convention-candidates.jsonl
           if-no-files-found: warn
