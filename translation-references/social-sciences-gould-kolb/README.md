@@ -27,6 +27,8 @@ The editor's introduction (physical pages 12–14) defines main explanatory entr
 - [tools/build_catalog.py](tools/build_catalog.py) – strict source hash checker and 980-page inventory, plus pilot-only lookup generator (no OCR)
 - [tools/test_build_catalog.py](tools/test_build_catalog.py) – validation tests rejecting invented definitions or prematurely resolved references
 - [SCHEMA.md](SCHEMA.md) – source authority and field definitions
+- [**ocr_pilot/README.md**](ocr_pilot/README.md) — actual SHA-256-verified Tesseract `fas+eng` extraction on 7 cropped regions, 14 PSM 4/6 runs; raw outputs are explicitly **unverified**, and no CER/WER is claimed.
+- [**ocr_pilot/LOCAL_RUN_SUMMARY.json**](ocr_pilot/LOCAL_RUN_SUMMARY.json), [crop definitions](ocr_pilot/REGIONS.json), and [reproducible pilot tool](tools/run_raw_ocr_pilot.py) — numerical diagnostics and source crop definitions without posting unapproved OCR as dictionary text.
 - [**benchmark/OCR_EVALUATION.md**](benchmark/OCR_EVALUATION.md) — source-approval-gated Persian OCR/vision evaluation protocol with strict CER/WER, source-bound engine predictions, and a project-editor sign-off requirement.
 - [**tools/evaluate_ocr.py**](tools/evaluate_ocr.py) and [**tests**](tools/test_evaluate_ocr.py) — score *only* independently approved and editorially released records; current tests are synthetic, not OCR results.
 - [**tools/make_ocr_template.py**](tools/make_ocr_template.py) and [**benchmark/editor_signoff.template.json**](benchmark/editor_signoff.template.json) — deliberately unfilled source-identification templates.
