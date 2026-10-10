@@ -1,0 +1,33 @@
+{
+  "schema": "gould-kolb.complete-article-evidence.v1",
+  "source_pdf": "farhang-eolum-eejtemaii-g-k@bamun1.pdf",
+  "source_pdf_identity_in": "../source_manifest.json",
+  "pdf_present_in_repository": false,
+  "crop_dpi": 288,
+  "evidence_regions": [
+    {
+      "file": "p054_spirit_mediumship.png",
+      "page": 54,
+      "pdf_rect": [
+        66,
+        365,
+        251,
+        525
+      ],
+      "purpose": "one short complete article with contributor and also reference; adjacent heading visible"
+    },
+    {
+      "file": "p096_natural_increase.png",
+      "page": 96,
+      "pdf_rect": [
+        66,
+        125,
+        252,
+        420
+      ],
+      "purpose": "two-section article, associated terms, contributor and adjacent heading visible"
+    }
+  ],
+  "source_image_review": "same_assistant_first_pass",
+  "independent_second_pass": false
+}
