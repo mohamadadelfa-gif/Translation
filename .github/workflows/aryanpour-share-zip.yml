@@ -1,0 +1,114 @@
+name: Package Aryanpour for sharing
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/aryanpour-share-zip.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out exact repository revision
+        uses: actions/checkout@v4
+
+      - name: Validate and create shareable ZIPs
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import csv
+          import hashlib
+          import json
+          import zipfile
+
+          root = Path('translation-references/aryanpour')
+          dest = Path('dist')
+          dest.mkdir(exist_ok=True)
+
+          manifest = json.loads((root / 'manifest.json').read_text(encoding='utf-8'))
+          letter_indexes = sorted((root / 'index').glob('[A-Z]-headwords.csv'))
+          assert len(letter_indexes) == 26, len(letter_indexes)
+          assert manifest['entries_total'] == 50259
+          with (root / 'index/headwords-master.csv').open(encoding='utf-8', newline='') as handle:
+              master_rows = list(csv.DictReader(handle))
+          assert len(master_rows) == manifest['entries_total']
+          assert len({row['entry_id'] for row in master_rows}) == manifest['entries_total']
+          letter_total = 0
+          for file in letter_indexes:
+              with file.open(encoding='utf-8', newline='') as handle:
+                  letter_total += sum(1 for _ in csv.DictReader(handle))
+          assert letter_total == manifest['entries_total']
+          with (root / 'index/headwords-master.jsonl').open(encoding='utf-8') as handle:
+              assert sum(1 for line in handle if line.strip()) == manifest['entries_total']
+          shards = sorted((root / 'dictionary').rglob('*.md'))
+          assert len(shards) == manifest['shards_total'] == 45
+          canonical = root / 'aryanpour-english-persian.jsonl'
+          assert hashlib.sha256(canonical.read_bytes()).hexdigest() == \
+              manifest['source_files']['aryanpour-english-persian.jsonl']['sha256']
+
+          index_files = [f for f in (root / 'index').rglob('*') if f.is_file()]
+          common_files = [
+              root / 'README.md', root / 'manifest.json', root / 'ENTRY_STANDARD.md',
+              root / 'MARKUP_FINDINGS.md'
+          ]
+          full_files = common_files + index_files + shards + [
+              canonical, root / 'aryanpour-english-persian.txt',
+              root / 'conversion-report.json', root / 'source-character-issues.json',
+              root / 'BUILD_RULES.md', root / 'tools/aryanpour_lookup.py'
+          ]
+
+          usage = (
+              "ARYANPOUR — SHARE PACKAGE\n\n"
+              "INDEX ONLY contains A–Z headword indexes, the two 50,259-row master "
+              "indexes, shard map, and reference documentation. It does not include "
+              "the Persian dictionary definitions. Follow the shard/anchor pointers "
+              "at https://github.com/mohamadadelfa-gif/Translation/tree/master/"
+              "translation-references/aryanpour/dictionary\n\n"
+              "DICTIONARY + INDEX additionally contains the 45 readable dictionary "
+              "shards, canonical JSONL export (including original LD2 markup), "
+              "plain-text export, issue log, and basic lookup script. "
+              "Open Aryanpour/index/README.md for navigation.\n\n"
+              "Canonical source is structured Lingoes LD2, not OCR. Printed-edition "
+              "attribution and semantic sense division were not independently verified. "
+              "Source character defects are preserved, not silently corrected.\n"
+          )
+
+          def write_archive(filename, entries):
+              target = dest / filename
+              seen = set()
+              with zipfile.ZipFile(target, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=8) as z:
+                  z.writestr('Aryanpour/HOW_TO_USE.txt', usage.encode('utf-8'))
+                  for f in sorted(entries):
+                      arcname = 'Aryanpour/' + f.relative_to(root).as_posix()
+                      if arcname in seen:
+                          raise ValueError(f'Duplicate archive path: {arcname}')
+                      seen.add(arcname)
+                      z.write(f, arcname)
+              with zipfile.ZipFile(target) as z:
+                  assert z.testzip() is None
+                  assert len(z.namelist()) == len(seen) + 1
+                  assert 'Aryanpour/index/headwords-master.csv' in z.namelist()
+                  assert 'Aryanpour/index/headwords-master.jsonl' in z.namelist()
+                  assert 'Aryanpour/index/README.md' in z.namelist()
+                  if filename == 'Aryanpour_Dictionary_and_Index.zip':
+                      assert len([p for p in z.namelist() if p.startswith('Aryanpour/dictionary/')]) == 45
+                      assert z.read('Aryanpour/aryanpour-english-persian.jsonl') == canonical.read_bytes()
+              print(f'Created: {target} ({target.stat().st_size:,} bytes, {len(seen)+1} files)')
+
+          write_archive('Aryanpour_Index.zip', common_files + index_files)
+          write_archive('Aryanpour_Dictionary_and_Index.zip', full_files)
+          PY
+
+      - name: Upload ZIP files
+        uses: actions/upload-artifact@v4
+        with:
+          name: aryanpour-shareable-zips
+          path: dist/*.zip
+          if-no-files-found: error
+          retention-days: 30
