@@ -38,6 +38,29 @@ class Phase4Tests(unittest.TestCase):
         for a, b, kind, literal, interior in cases:
             self.assertEqual(text[a:b], literal)
 
+    def test_crossed_brackets_remain_visible_as_ambiguous(self):
+        text = "]a[b]"
+        shapes = list(spans(text))
+        self.assertEqual(len(shapes), 2)
+        self.assertEqual([x[2] for x in shapes],
+                         ["mirrored_square_bracket", "square_bracket"])
+        self.entries[0]["persian"] = text
+        self.entries[0]["original_definition_markup"] = "<C>" + text + "</C>"
+        (self.root / "aryanpour-english-persian.jsonl").write_text(
+            "".join(json.dumps(item, ensure_ascii=False) + "\n"
+                    for item in self.entries), encoding="utf-8")
+        # An overlapping source string has no registered semantics.
+        self.rules = [r for r in self.rules if r["canonical_id"] != 1]
+        self.write_register()
+        generated = self.root / "overlapping.jsonl"
+        report = scan(self.root, self.register, generated)
+        candidates = [json.loads(line) for line in
+                      generated.read_text(encoding="utf-8").splitlines()]
+        overlaps = [x for x in candidates if x["canonical_id"] == 1]
+        self.assertEqual(len(overlaps), 2)
+        self.assertTrue(all(x["overlaps_another_candidate"] for x in overlaps))
+        self.assertGreaterEqual(report["candidate_counts"]["ambiguous_overlapping_spans"], 2)
+
     def test_whitespace_comparison_is_not_source_mutation(self):
         actual = " گ . ش. "
         self.assertEqual(compare_form(actual), "گ.ش.")
