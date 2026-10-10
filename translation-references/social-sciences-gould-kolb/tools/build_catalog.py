@@ -57,6 +57,58 @@ def load_manifest(path):
     return manifest
 
 
+
+def load_editorial_rules(root, manifest):
+    """Require the source's editorial conventions before compiling any index.
+
+    This registry is based on visually inspected Persian introductory pages.
+    It does not purport to check the absent original English dictionary.
+    """
+    path = root / "editorial_rules.json"
+    ruleset = json.loads(path.read_text(encoding="utf-8"))
+    if (ruleset.get("schema") != "gould-kolb.editorial-rules.v1"
+            or ruleset.get("scope") != "gould-kolb-persian-edition-only"):
+        raise ValueError("Missing or incompatible Gould/Kolb editorial rules")
+    if ruleset.get("transcription_status") != "rules_paraphrased_not_verbatim":
+        raise ValueError("Editorial rules cannot masquerade as exact transcription")
+    rules = ruleset.get("rules")
+    if not isinstance(rules, list) or len(rules) < 10:
+        raise ValueError("Incomplete editorial rule register")
+    seen, categories = set(), set()
+    for r in rules:
+        ident = r.get("rule_id")
+        if (not isinstance(ident, str) or not ident.startswith("gk-")
+                or ident in seen):
+            raise ValueError("Duplicate or invalid editorial rule ID")
+        seen.add(ident)
+        categories.add(r.get("category"))
+        source = r.get("source")
+        if not isinstance(source, dict) or source.get(
+                "evidence_basis") != "visually_inspected_persian_editorial_introduction":
+            raise ValueError(f"{ident}: editorial source evidence is missing")
+        pages = source.get("physical_pdf_pages")
+        if (not isinstance(pages, list) or not pages
+                or any(type(n) is not int or n not in range(10, 18)
+                       or n not in manifest["visually_inspected_pages"]
+                       for n in pages)):
+            raise ValueError(f"{ident}: unverified introductory PDF page locator")
+        if (r.get("review_status") != "source_rule_identified"
+                or r.get("independently_checked_against_original_english") is not False
+                or r.get("authoritative_for") != "gould_kolb_persian_edition_only"):
+            raise ValueError(f"{ident}: editorial authority is overstated")
+        if (not isinstance(r.get("editorial_claim_paraphrase_en"), str)
+                or not r["editorial_claim_paraphrase_en"]
+                or not isinstance(r.get("extraction_implication_en"), str)
+                or not r["extraction_implication_en"]):
+            raise ValueError(f"{ident}: incomplete rule explanation")
+    expected = {"article_structure", "section_A", "section_B", "sections_CDE",
+                "see_referral", "also_related_entry", "editorial_interpolation",
+                "proper_names", "orthography", "source_comparison"}
+    if not expected <= categories:
+        raise ValueError(f"Missing source-defined categories: {sorted(expected - categories)}")
+    return rules
+
+
 def region_at(manifest, page):
     for region in manifest["physical_page_regions"]:
         if region["first"] <= page <= region["last"]:
@@ -191,6 +243,7 @@ def save_jsonl(path, rows):
 
 def build(root, output, pdf=None):
     manifest = load_manifest(root / "source_manifest.json")
+    editorial_rules = load_editorial_rules(root, manifest)
     entries, glossary = validate_pilot(root, manifest)
     verified = pdf is not None
     pages = inventory_pdf(Path(pdf), manifest) if verified else None
@@ -210,6 +263,8 @@ def build(root, output, pdf=None):
     save_jsonl(output / "pilot_lookup.jsonl", index)
     report = {
         "schema_version": "gould-kolb.build-report.v1",
+        "editorial_rules_validated": len(editorial_rules),
+        "editorial_authority": "source_persian_editorial_introduction_only",
         "source_pdf_sha256_expected": manifest["source_pdf_sha256"],
         "source_pdf_sha256_verified_in_this_run": verified,
         "physical_pages_expected": manifest["physical_pages"],
