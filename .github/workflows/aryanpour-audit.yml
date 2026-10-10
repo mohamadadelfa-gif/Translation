@@ -1,0 +1,38 @@
+name: Aryanpour dictionary integrity
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'translation-references/aryanpour/**'
+      - '.github/workflows/aryanpour-audit.yml'
+  pull_request:
+    paths:
+      - 'translation-references/aryanpour/**'
+      - '.github/workflows/aryanpour-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run regression tests
+        run: python -m unittest discover -s translation-references/aryanpour/tools -p 'test_audit_aryanpour.py' -v
+      - name: Audit complete Aryanpour dictionary
+        run: python translation-references/aryanpour/tools/audit_aryanpour.py --root translation-references/aryanpour --check-shards --output "$RUNNER_TEMP/aryanpour-audit.json"
+      - name: Preserve integrity report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: aryanpour-integrity-report
+          path: ${{ runner.temp }}/aryanpour-audit.json
+          if-no-files-found: warn
