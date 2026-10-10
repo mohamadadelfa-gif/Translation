@@ -43,6 +43,8 @@ Do not treat the first listed Persian equivalent as automatically correct. Conte
 ## Entry standard and automated audit
 
 - [ENTRY_STANDARD.md](ENTRY_STANDARD.md) defines the frozen-source entry contract, evidence hierarchy, and limits of semantic interpretation.
+- [MARKUP_FINDINGS.md](MARKUP_FINDINGS.md) reports the complete LD2 tag inventory and conservative rules for sense, grammatical-label, example and reference candidates.
+- [tools/analyze_markup.py](tools/analyze_markup.py) and [tests](tools/test_analyze_markup.py) construct a read-only corpus inventory plus an optional 50,259-entry review-only candidate layer; the GitHub Actions run archives both outputs.
 - [tools/audit_aryanpour.py](tools/audit_aryanpour.py) validates SHA-256 digests, all canonical entry IDs, dictionary projections, damaged-character records, navigation indexes, and readable Markdown shards.
 - [tools/test_audit_aryanpour.py](tools/test_audit_aryanpour.py) provides synthetic regression tests.
 - [Aryanpour dictionary integrity](../../.github/workflows/aryanpour-audit.yml) runs the tests and full-corpus read-only validation in GitHub Actions, and uploads the JSON report.
